@@ -9,7 +9,7 @@ try:
 except FileNotFoundError:
     pass
 with open(f"{D}/dns.jsonl", "a") as fo:
-    for l in open(f"{D}/site.jsonl"):
+    for l in open(f"{D}/site.jsonl").readlines() + (open(f"{D}/site_b.jsonl").readlines() if __import__("os").path.exists(f"{D}/site_b.jsonl") else []):
         s = json.loads(l)
         if s.get("g2") not in ("RETRY_BROWSER", "ERROR") or s["id"] in done:
             continue

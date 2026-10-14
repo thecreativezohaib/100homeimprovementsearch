@@ -1,14 +1,15 @@
 {
- "discovered": 2865,
- "screened": 2354,
- "reject_G4": 1133,
- "reject_G3": 727,
- "reject_G2": 693,
- "reject_G5": 30,
- "reject_NICHE": 273,
- "passed": 5,
- "duplicate_merged": 2,
+ "discovered": 8433,
+ "screened": 7182,
+ "reject_G4": 2038,
+ "reject_G2": 4173,
+ "reject_G3": 1392,
+ "reject_NICHE": 759,
+ "reject_G5": 52,
+ "passed": 8,
+ "duplicate_merged": 5,
+ "reject_G6": 3,
  "bench_vendor": 1,
- "contact_only": 1,
- "rejected_total": 2856
+ "contact_only": 2,
+ "rejected_total": 8417
 }

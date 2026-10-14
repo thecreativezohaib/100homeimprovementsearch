@@ -1,9 +1,9 @@
 [
  {
-  "id": "newbathtub.com",
-  "name": "New Bath Today",
+  "id": "bathmastersnwa.com",
+  "name": "Bath Masters NWA",
   "region": "R4",
-  "website": "https://newbathtoday.com/",
+  "website": "https://bathmastersnwa.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,93 +11,80 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://newbathtoday.com/"
+    "https://bathmastersnwa.com/"
    ],
    "contact": [
-    "https://newbathtoday.com/contact-us/"
+    "https://bathmastersnwa.com/contact-me/",
+    "https://bathmastersnwa.com/contact-me/"
    ],
    "about": [
-    "https://newbathtoday.com/about-us/"
+    "https://bathmastersnwa.com/about-me/",
+    "https://bathmastersnwa.com/about-me/"
    ],
-   "legal": [
-    "https://newbathtoday.com/privacy-policy/",
-    "https://newbathtoday.com/terms/"
+   "gallery": [
+    "https://bathmastersnwa.com/gallery/"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJwRW1x1al0ocRFG_RXAIj1fM&hl=en",
-    "quote": "Rebecca Stewart: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
-   },
-   {
-    "type": "site_dated_content",
-    "date": "2026-10-07",
-    "url": "https://newbathtoday.com/blog/financing-your-bathroom-remodel/",
-    "quote": "wp-json/posts published 2026-10-07T00:12:44: 'How to Finance Your Bathroom Remodel'"
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJp4UdyA8RyYcRy1GYmHdFOOA&hl=en",
+    "quote": "Dane: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
    }
   ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRW1x1al0ocRFG_RXAIj1fM&hl=en",
-  "gbp_title": "New Bath Today",
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4UdyA8RyYcRy1GYmHdFOOA&hl=en",
+  "gbp_title": "Bath Masters NWA",
   "gbp_address": null,
-  "gbp_rating": "4.8\n(76)",
-  "gbp_phone": "phone:tel:+18669729127",
+  "gbp_rating": "5.0\n(22)",
+  "gbp_phone": "phone:tel:+14794392029",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Dottie Gann",
-    "when": "8 months ago",
+    "reviewer": "Dane",
+    "when": "a month ago",
     "stars": "5 stars",
-    "text": "This company is top notch A+. Our sales representative David was extremely knowledgeable and professional. He gave great customer service without  high pressure sales. He gave us all the information to make an informed decision to have the \u2026",
-    "owner": "Response from the owner 8 months ago\nThank you so much, Dottie, for the wonderful review and kind words! We\u2019re thrilled to hear that David provided knowledgeable, pressure-free guidance and helped you design a shower that truly fits your needs. We\u2019re equally proud of Jonivan \u2026 More"
-   },
-   {
-    "reviewer": "Rebecca Stewart",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "My experience was of patience.  Jonivan Wallace called me on August 6, the first day scheduled for installation.  He explained he found he would not be able to arrive at my home to begin work. His car had been overheating and it was getting \u2026",
+    "text": "James did a great job on our new shower! Things were done correctly and it shows in the final product. The large format Italian tile can be difficult to work with, but he ordered special tools and equipment for it, and it looks great! He had several ideas that we hadn\u2019t thought of which turned out nicely. Thanks James!",
     "owner": null
    },
    {
-    "reviewer": "Antoneal Swaby-James",
-    "when": "6 months ago",
+    "reviewer": "Kent S",
+    "when": "3 months ago",
     "stars": "5 stars",
-    "text": "Thomas Lupo with New Bath today stopped by to talk my husband and I through a bathroom project we wanted. He was very personable, respectful of our time and gave us a variety of options. We felt comfortable with him and opted to select his company for our bathroom project. I would recommend.",
-    "owner": "Response from the owner 6 months ago\nHi Antoneal, thank you so much for trusting us with your bathroom project! We're thrilled to hear that Thomas made such a great impression \u2014 he has a real gift for walking homeowners through their options while keeping things comfortable \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "sageadmin@sagehome.com",
-    "how": "plain text",
-    "raw": "sageadmin@sagehome.com",
-    "page": "https://newbathtoday.com/privacy-policy/"
+    "text": "James was amazing. He took an older smaller bathroom tub space and shower area, adjusted the height of the shower, built with gorgeous Onyx to create a new space, modern fixtures, and a lovely sided glass door. It is 1,000,000 X improved \u2026",
+    "owner": null
    },
    {
-    "email": "admin@sagehome.com",
-    "how": "plain text",
-    "raw": "admin@sagehome.com",
-    "page": "https://newbathtoday.com/privacy-policy/"
+    "reviewer": "Michele Australie",
+    "when": "Edited 8 months ago",
+    "stars": "5 stars",
+    "text": "Jamese at Bath Masters to an awesome job for us. We had a complex project because we have cement , floors and cement block walls. He was able to work around all the issues that he encountered. He showed up on time every day work.  He \u2026",
+    "owner": null
    }
   ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/Newbathtoday/"
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://bathmastersnwa.com/about-me/",
+    "snippet": "I\u2019m James, the owner of Bath Masters NWA"
+   },
+   {
+    "page": "https://bathmastersnwa.com/about-me/",
+    "snippet": "I\u2019m James, the owner of Bath Masters NWA"
+   }
   ],
-  "instagram_links": [
-   "https://www.instagram.com/new_bath_today"
-  ],
+  "facebook_links": [],
+  "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
    "kitchen": 0,
-   "bath": 68,
+   "bath": 14,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
-   "floor": 2,
-   "cabinet": 0,
+   "floor": 0,
+   "cabinet": 1,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -105,27 +92,156 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 380px, i.e. 5px wider than the screen; elements past the right edge: ['DIV.swiper-slide right=421'"
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 391px, i.e. 16px wider than the screen; elements past the right edge: ['DIV.swiper-slide.swiper-sl"
   ],
   "competitor_pool": [
    {
-    "name": "Arkansas Construction and Remodeling LLC",
-    "url": "https://arkansasconstructionllc.com/",
+    "name": "Endeavor Construction Services LLC",
+    "url": "https://endeavorconstructionsvcs.com/",
     "gbp_address": null
    },
    {
-    "name": "Bath Fitter",
-    "url": "https://bathfitterlittlerock.com/",
+    "name": "HTP Contractors",
+    "url": "https://www.htpcontractors.com/",
     "gbp_address": null
    },
    {
-    "name": "CTK CONSTRUCTION LLC",
-    "url": "https://www.ctkconstructionllc.com/",
+    "name": "Kitchen Distributors",
+    "url": "https://kitchendistributorsinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Crossland Remodeling",
+    "url": "https://leeroycrossland.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Tile Elegance LLC",
+    "url": "https://www.thetileelegance.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Little Rock, AR"
+   "Fayetteville, AR"
+  ]
+ },
+ {
+  "id": "friendlyfixers.com",
+  "name": "Friendly Fixers",
+  "region": "R4",
+  "website": "https://www.friendlyfixers.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.friendlyfixers.com/"
+   ],
+   "contact": [
+    "https://www.friendlyfixers.com/contact-8",
+    "https://www.friendlyfixers.com/contact-4"
+   ],
+   "about": [
+    "https://www.friendlyfixers.com/about-3"
+   ],
+   "gallery": [
+    "https://www.friendlyfixers.com/s-projects-side-by-side"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJO4sABhrv5ycRRM-0OpqAlCo&hl=en",
+    "quote": "Rachael Diane: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4sABhrv5ycRRM-0OpqAlCo&hl=en",
+  "gbp_title": "Friendly Fixers",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(100)",
+  "gbp_phone": "phone:tel:+15016137221",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Elizabeth Reeves Daugherty",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Highly recommend! We scheduled an installation through HomeDepot and could not have asked for a better experience. They came on time, removed the old sink and faucet and installed a new sink and faucet like it was second nature. Very professional, friendly, kind and cared what they were doing and how they did it!",
+    "owner": "Response from the owner 3 months ago\nThank you so much! We really appreciate you taking the time to share this. It was a pleasure helping with your sink and faucet installation, and we\u2019re so glad to hear you had a great experience from start to finish. We always want our work \u2026 More"
+   },
+   {
+    "reviewer": "Rachael Diane",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Friendly Fixers absolutely lives up to their name! The team was professional, efficient, and genuinely friendly from the start to the finish. They arrived on time, fixed the issue promptly, and made the whole process easy. I highly recommend them for drywall repair! Will be using them for decking when the time comes \ud83d\udc4d \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you so much for this wonderful review! It truly means a lot to our entire team. We\u2019re so glad we could make your drywall repair experience easy and stress-free while getting everything taken care of quickly. We appreciate you choosing \u2026 More"
+   },
+   {
+    "reviewer": "Ruth Slaton",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "So happy with work done today by Marcus. He installed  a drapery rod and hung the drapes. I will certainly use Friendly Fixers again !",
+    "owner": "Response from the owner 2 months ago\nThank you so much for your wonderful review! We're so glad Marcus was able to help with your drapery rod installation and get your new drapes hung just the way you wanted. We truly appreciate you choosing us to help with your project and look forward to working with you again!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "friendlyfixersteam@gmil.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:friendlyfixersteam@gmil.com",
+    "page": "https://www.friendlyfixers.com/"
+   },
+   {
+    "email": "info@friendlyfixers.com",
+    "how": "plain text",
+    "raw": "Info@friendlyfixers.com",
+    "page": "https://www.friendlyfixers.com/"
+   },
+   {
+    "email": "friendlyfixersteam@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:Friendlyfixersteam@gmail.com",
+    "page": "https://www.friendlyfixers.com/contact-4"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/FriendlyFixersAR?mibextid=wwXIfr"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/friendlyfixersllc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 3,
+   "bath": 4,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 7,
+   "floor": 0,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 3,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://static.wixstatic.com/media/488afa_4e1c8598287240e8865258b0b0cdf7c9~mv2.png = 1,747,871 bytes (HTTP Content-Length); https://static.wixstatic.com/media/4"
+  ],
+  "competitor_pool": [
+   {
+    "name": "All-Star Renovations",
+    "url": "https://www.allstarreno.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Conway, AR"
   ]
  }
 ]

@@ -1,0 +1,6 @@
++ cd /home/user/100homeimprovementsearch/tools
++ python3 ledger.py
+raw rows 17718 -> unique 8433; with website 7508; multi-region 61
++ python3 prep.py
+7187 queued; 1246 pre-gate rejects
++ python3 sitecheck.py ../data/site_queue.jsonl ../data/site.jsonl 24

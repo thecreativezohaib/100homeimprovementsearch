@@ -41,7 +41,7 @@ def jl(path):
 
 def load():
     ledger = {x["id"]: x for x in jl(f"{D}/ledger.jsonl")}
-    site = {x["id"]: x for x in jl(f"{D}/site.jsonl")}
+    site = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl")}
     for x in jl(f"{D}/site_render.jsonl"):
         orig = site.get(x["id"], {})
         if x.get("g2") == "PASS":
@@ -151,8 +151,12 @@ def credit_ok(cr, c):
 
 
 def g3(c, s, man=None):
-    if man and man.get("g3_vendor_found"):
-        v = man["g3_vendor_found"]
+    v = (man or {}).get("g3_vendor_found")
+    if isinstance(v, list):
+        v = v[0] if v else None
+    if isinstance(v, str):
+        v = None if re.match(r"\s*(none|null|n/?a|no\b|unknown)", v, re.I) else {"vendor": v, "quote": v, "url": ""}
+    if v:
         return "FAIL", {"g3": f"vendor credit found during manual review: {v.get('quote')} ({v.get('url')})",
                         "g3_vendor": v.get("vendor"), "g3_platform": s.get("platform")}
     vend = s.get("vendor_hits") or []
@@ -180,6 +184,12 @@ def g3(c, s, man=None):
         reasons.append(f"footer link to web/marketing vendor: text '{fl['text']}' -> {fl['href']}")
     if reasons:
         return "FAIL", {"g3": "; ".join(reasons), "g3_vendor": vendor_named, "g3_platform": sorted(plat)}
+    bad_gen = [g for g in (s.get("generator") or []) if re.search(r"hubspot|duda|zoho|web studio|yola|site123|strikingly|jimdo|"
+                                                               r"hostinger|zyro|framer|nuxt|gatsby|next\.js|astro|joomla|drupal|"
+                                                               r"shopify|weblium|tilda|godaddy website builder", g, re.I)]
+    if bad_gen:
+        return "FAIL", {"g3": f"meta generator '{bad_gen[0]}' is not on the orphaned/self-managed accept list "
+                              f"(WordPress traces present: {'WordPress' in plat})", "g3_vendor": None, "g3_platform": bad_gen}
     if fw and not (plat & ACCEPT_PLATFORMS):
         return "FAIL", {"g3": f"platform not on the orphaned/self-managed accept list: {', '.join(fw)}",
                         "g3_vendor": None, "g3_platform": fw}
@@ -313,8 +323,9 @@ def g7(c, s, man):
     imgs = (s or {}).get("imgs_800") or []
     v = (s or {}).get("g7verify")
     if v:
-        kept = v["kept"]
         vis = s.get("g7visual")
+        excl = set((vis or {}).get("exclude") or [])
+        kept = [k for i, k in enumerate(v["kept"], 1) if i not in excl]
         if len(kept) < 8:
             return "FAIL", {"g7": f"strict check: {len(kept)} unique non-graphic images >=800px after near-duplicate removal "
                                   f"({v['candidates_checked']} candidates checked)", "g7_urls": [k['url'] for k in kept]}

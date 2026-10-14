@@ -121,3 +121,101 @@
 1525 Volum Construction LLC PASS
 1550 Wisdom Design Studio | Kitchen & Bath Cabinets PASS
 1575 Goldenform Bathroom Kitchen Remodel RETRY_BROWSER
+4831 to check
+0 Ten Day Kitchen Solutions PASS
+/home/user/100homeimprovementsearch/tools/sitecheck.py:396: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(raw, "lxml")
+/home/user/100homeimprovementsearch/tools/sitecheck.py:502: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  sp = soup if u == final else BeautifulSoup(t, "lxml")
+25 3 in 1 All In Him Construction LLC PASS
+50 777 Construction LLC - Bathroom Remodeling & Tile Installation PASS
+75 Abbott Builders PASS
+100 ACE Design Build PASS
+125 Advantage Contracting RETRY_BROWSER
+150 Port Chester Kitchen Remodel RETRY_BROWSER
+175 All-Star Renovations LLC PASS
+200 All Things Remodel PASS
+225 AMC TXCI LLC PASS
+250 Andes Project Contractor Corporation PASS
+275 Apex Contractors PASS
+300 Arizona Interior Construction PASS
+325 A Step Above Construction PASS
+350 A to Z Improvements, LLC PASS
+375 Arizona Design & Construction Company PASS
+400 Balts Construction PASS
+425 Bath Envy Remodeling PASS
+450 Bath Revival PASS
+475 Bathroom Surface Solutions of Eugene OR PASS
+500 BorregoWoodworks PASS
+525 Beaty Home Improvements RETRY_BROWSER
+550 BenchMark Home Services PASS
+575 Best European Construction PASS
+600 Big River Builders PASS
+625 Building Pros RETRY_BROWSER
+650 Blue Summit LLC PASS
+675 Boston Walk-In Tub Seller & Installer PASS
+700 Brett Barton Construction Inc PASS
+725 BSM Remodeling PASS
+750 Trademark Contractors PASS
+775 TrueLine Contracting PASS
+800 Cabinet Corner PASS
+825 Cajun Home Services PASS
+850 Canyon Side Construction PASS
+875 The Carpenter Company LLC RETRY_BROWSER
+900 Complete Construction of Mpls PASS
+925 Chandler Tile and Marble LLC RETRY_BROWSER
+950 Custom Home Renovation, LLC PASS
+975 Clarkwork Home Improvement PASS
+1000 CM BUILT Luxury Remodels & Builds PASS
+1025 Collins Tile and Stone PASS
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (101756928 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+1050 Complete Construction DFW PASS
+1075 Woods Contracting PASS
+1100 Cornerstone Construction & Remodeling, Inc. PASS
+1125 CPR Home Solutions, Inc PASS
+1150 Creative Kitchens Cabinets Direct LLC PASS
+1175 CT Elite Remodelling PASS
+1200 Custom Shower Stallers RETRY_BROWSER
+1225 D&J 7 Construction PASS
+1250 Deco Construction RETRY_BROWSER
+1275 Design and Remodeling Experts PASS
+1300 Jacuzzi Bath Remodel of Metro Detroit PASS
+1325 Dienberg & Son General Contractors PASS
+1350 DMFB Construction RETRY_BROWSER
+1375 D & R Construction PASS
+1400 Duell Construction PASS
+1425 Eastchester Kitchens & Baths PASS
+1450 Edge Remodeling, Inc. PASS
+1475 Elevate Kitchen & Bath Co. PASS
+1500 Ellaire Kitchen & Bath Design - Folsom & El Dorado Hills PASS
+1525 Encinitas Home Remodeling RETRY_BROWSER
+1550 Estrella Home Improvement & Maintenance, LLC PASS
+1575 Executive Kitchens, Inc PASS
+1600 Fairfield Contractors PASS
+1625 Ferris Custom Bath & Kitchen RETRY_BROWSER
+1650 Fixit PASS
+1675 Foreverbuilt Kitchens & Baths PASS
+1700 French's Cabinet Gallery PASS
+1725 Garcia home improvement llc PASS
+1750 Gentry Custom Remodel PASS

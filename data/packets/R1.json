@@ -1,5 +1,140 @@
 [
  {
+  "id": "blackdogbuilders.com",
+  "name": "Blackdog Design/Build/Remodel",
+  "region": "R1",
+  "website": "https://blackdogbuilders.com/service-area/remodeling/nashua-nh",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://blackdogbuilders.com/service-area/remodeling/nashua-nh"
+   ],
+   "contact": [
+    "https://blackdogbuilders.com/contact",
+    "https://blackdogbuilders.com/contact"
+   ],
+   "about": [
+    "https://blackdogbuilders.com/about-us",
+    "https://blackdogbuilders.com/about-us/blackdog-difference"
+   ],
+   "gallery": [
+    "https://blackdogbuilders.com/portfolio",
+    "https://blackdogbuilders.com/home-services/interior-projects"
+   ],
+   "legal": [
+    "https://blackdogbuilders.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJPX9sFvDJ44kRLXGv3MGcPCk&hl=en",
+    "quote": "Amy Sullivan: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJPX9sFvDJ44kRLXGv3MGcPCk&hl=en",
+  "gbp_title": "Blackdog Design/Build/Remodel",
+  "gbp_address": "\ue0c8\n520 Amherst St Suite 2, Nashua, NH 03063, United States",
+  "gbp_rating": "4.9\n(15)",
+  "gbp_phone": "phone:tel:+16037693344",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Amy Sullivan",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "We were incredibly pleased with our experience with Blackdog on our bathroom remodel.  We selected them because we wanted both the design and the contractor services.  Our home was built in 1880 so we knew it would be a big job with lots of \u2026",
+    "owner": "Response from the owner 3 weeks ago\nAmy, thank you so much for such a thoughtful review! We're thrilled you had a great experience with your bathroom remodel, and we truly appreciate you trusting us with your 1880 home. Melissa, Danny, and Tom will be delighted to read your \u2026 More"
+   },
+   {
+    "reviewer": "Ara Kharajian",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "I am writing to highly recommend the services of Blackdog Design/Build/Remodeling. As a satisfied customer, I had the opportunity to work with them on our house addition in 2025, designed for single-floor living. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Amy Lam",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "Blackdog Design/Build/Remodel recently completed a comprehensive renovation of our home. Overall we had a positive experience. The project finished ahead of schedule and took about a year from start to finish. We chose Blackdog because of \u2026",
+    "owner": "Response from the owner 6 months ago\nHi Amy, thank you for taking the time to share your experience. We\u2019re so glad to hear that you\u2019re enjoying the finished space and that the project came together smoothly. Ron, Mark, Jason, and the rest of the team will appreciate your kind \u2026 More"
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://blackdogbuilders.com/about-us",
+    "snippet": "The original company, Blackdog Builders, was founded by Dave and Brenda Bryan in 1989, beginning with a spare room, a pickup truck, and a hands-on approach to remodeling"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/BlackdogBuilders/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/blackdog.builders"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 14,
+   "bath": 15,
+   "roof": 1,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 3,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://blackdogbuilders.com/hubfs/BlackDogBuilders_October2025/images/service_kr_remodle_banner.jpg = 5,999,537 bytes; https://blackdogbuilders.com/hubfs/Black"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Baird Home Solutions LLC",
+    "url": "https://bairdhomesolutions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "BathRefresh LLC",
+    "url": "https://bathrefreshllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "BRW Construction",
+    "url": "https://brwdecksandmore.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "DomestiKitchens Cabinet Refacing",
+    "url": "https://domestikitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dube's General Contracting LLC",
+    "url": "https://dubesgc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Baths",
+    "url": "https://www.fivestarbaths.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Nashua, NH"
+  ]
+ },
+ {
   "id": "greaterhomessolutionsllc.com",
   "name": "Greater Homes Solutions llc",
   "region": "R1",
@@ -106,6 +241,268 @@
   ],
   "locations_seen": [
    "Greenwich, CT"
+  ]
+ },
+ {
+  "id": "plumberry.net",
+  "name": "PLUMBERRY DESIGNS, INC.",
+  "region": "R1",
+  "website": "https://www.plumberry.net/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.plumberry.net/"
+   ],
+   "contact": [
+    "https://www.plumberry.net/contact-us"
+   ],
+   "about": [
+    "https://www.plumberry.net/about-us"
+   ],
+   "gallery": [
+    "https://www.plumberry.net/photo-gallery"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJc68wN7mow4kR7gBoH9_6r04&hl=en",
+    "quote": "Heather Fanning: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJc68wN7mow4kR7gBoH9_6r04&hl=en",
+  "gbp_title": "PLUMBERRY DESIGNS, INC.",
+  "gbp_address": "\ue0c8\n330 Speedwell Ave, Morristown, NJ 07960, United States",
+  "gbp_rating": "5.0\n(6)",
+  "gbp_phone": "phone:tel:+19739661950",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Heather Fanning",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "As a GC, we partnered with Richard of Plumberry Designs to bring our client\u2019s vision to life: converting a portion of an unfinished attic into a primary bathroom. Richard took on the challenge of designing the space efficiently while also \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Renee",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "I've worked with Richard for years now. I met him over 20 years ago when we remodeled our kitchen and much of our old house.  Our most recent project was a complete remodel of our 2nd floor bath.  We went for a zen feel.  Richard just gets \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Christina Stoneburner",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "I have used Richard and Plumberry designs for two major renovations- a kitchen and master and guest baths. In both cases, Richard was able to come up with a new design layout to make the spaces more open and functional. The finishes he \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/PlumberryDesign"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/plumberry_designs_inc_rrbarr"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 2,
+   "bath": 2,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "no <meta name=\"viewport\">: raw HTML <head> contains no meta name=viewport (regex over fetched HTML)",
+   "gallery images over 1MB each: https://www.plumberry.net/administrator/components/com_bannerslider/uploads/174103195914CurrenMIM2017StudioLivingKitFull = 1,493,303 bytes; https://www.plumberr"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Alfredo's Construction",
+    "url": "https://www.alfredosconstructionnj.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Archuleta Builders",
+    "url": "https://archuletabuilders.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Frediconstructionllc",
+    "url": "https://frediconstructionllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "M&M Construction Specialist, LLC",
+    "url": "https://mmbuilds.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Monk's Design Studio",
+    "url": "https://monkshomeimprovements.com/locations/showroom-morristown-nj/",
+    "gbp_address": null
+   },
+   {
+    "name": "Top 10 General Contractor LLC",
+    "url": "https://top10gc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Morristown, NJ"
+  ]
+ },
+ {
+  "id": "windledc.com",
+  "name": "Windle Design & Construction",
+  "region": "R1",
+  "website": "https://windledc.com/",
+  "bench_vendor_route": true,
+  "incumbent_vendor": "This Website is Managed by Padula Media",
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://windledc.com/"
+   ],
+   "contact": [
+    "https://windledc.com/contact/"
+   ],
+   "about": [
+    "https://windledc.com/team/"
+   ],
+   "gallery": [
+    "https://windledc.com/projects/",
+    "https://windledc.com/project/multiple-bathrooms-refresh-in-media/"
+   ],
+   "legal": [
+    "https://windledc.com/",
+    "https://windledc.com/privacy-policy/",
+    "https://windledc.com/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJgyISwTb3xokRPrSfW0u1DSI&hl=en",
+    "quote": "Kris Swindler: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-08",
+    "url": "https://windledc.com/old-home-remodel-ideas/",
+    "quote": "wp-json/posts published 2026-10-08T12:32:21: 'How to Remodel an Old Home in Chester County, PA'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJgyISwTb3xokRPrSfW0u1DSI&hl=en",
+  "gbp_title": "Windle Design & Construction",
+  "gbp_address": "\ue0c8\n331 W Miner St, West Chester, PA 19382, United States",
+  "gbp_rating": "5.0\n(53)",
+  "gbp_phone": "phone:tel:+14843195748",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Theresa Newman",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "We have used the Windle team for five  major renovations in eight years. They are excellent communicators, gifted designers and protect your home during construction. We have been thrilled with the outcomes of all our projects and so appreciate their creativity and think outside the box approach. We HIGHLY RECOMMEND this team!!",
+    "owner": "Response from the owner Edited 3 months ago\nTheresa! Thank you for the kind words! It has been an honor to partner with you, Bob & your kids, over the years. We are grateful for you all & hope that there are many years of joy & memories - in all of your new spaces!"
+   },
+   {
+    "reviewer": "Kris Swindler",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Windle Design and Construction was a pleasure to work with from start to finish.  Our older house comes with challenges, and\nthe Windle team was very creative to come up with a design that offered \u2026",
+    "owner": "Response from the owner a month ago\nWe are so thrilled that your life was changed by the renovation. Our whole goal is for clients to love where they live! It was wonderful to work with you both and are happy to have made your space more functional. We totally agree that the space is so much more beautiful. Thanks again for your recommendation. It means the world to us. "
+   },
+   {
+    "reviewer": "eileen roche",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "We were very pleased with Windle Design & Construction. They took time to understand our project, made insightful recommendations and were responsive to our questions throughout the construction phase. The outcome is beautiful and useful and will add value to our home for years. Thank you Windle D & C.",
+    "owner": "Response from the owner a month ago\nThank you for your kind words, Eileen! We hope you and Bob enjoy your backyard oasis for years to come! Thank you for choosing to partner with us. We are thrilled for you! "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@windledc.com",
+    "how": "plain text",
+    "raw": "info@windledc.com",
+    "page": "https://windledc.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 3,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 2
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://windledc.com/wp-content/uploads/2025/02/Screen-Shot-2025-02-20-at-7.50.41-PM.png = 1,303,272 bytes; https://windledc.com/wp-content/uploads/2025/05/DSC0"
+  ],
+  "competitor_pool": [
+   {
+    "name": "ACA Remodeling Inc.",
+    "url": "https://acaremodelinginc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Chester County Kitchen & Bath",
+    "url": "https://cckab.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Chester County Contracting",
+    "url": "https://chestercountycontracting.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Chester Valley Home Services",
+    "url": "https://chestervalley.co/",
+    "gbp_address": null
+   },
+   {
+    "name": "Couture Design & Renovations",
+    "url": "https://couturerenovation.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Fedor Fabrication Inc",
+    "url": "https://www.fedorfab.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "West Chester, PA"
   ]
  }
 ]

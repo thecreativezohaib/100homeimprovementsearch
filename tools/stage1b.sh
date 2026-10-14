@@ -15,15 +15,10 @@ wait
 python3 queues.py maps && node maps.js ../data/maps_queue.jsonl ../data/maps_s$N-retry.jsonl 2>>../data/maps_r.log
 ./run_browser.sh 2>> ../data/browser.log
 python3 g8extra.py
+python3 packets.py
 python3 -c "
-import sys; sys.path.insert(0,'.')
-from decide import *
-import subprocess
-data=load(); ids=[]
-for x in jl(D+'/bq_queue.jsonl'):
-    s=data[1].get(x['id'])
-    if s and 'g7verify' not in s: ids.append(x['id'])
-open('../data/g7_todo.txt','w').write(' '.join(ids))
-"
-python3 g7verify.py $(cat ../data/g7_todo.txt) > /dev/null 2>&1
+import json,os
+ids=[x['id'] for r in ['R1','R2','R3','R4','R5'] if os.path.exists(f'../data/packets/{r}.json') for x in json.load(open(f'../data/packets/{r}.json'))]
+open('../data/wn_ids.txt','w').write(' '.join(ids))"
+cat ../data/wn_ids.txt | tr ' ' '\n' | xargs -r -P 6 -n 6 python3 g7verify.py > /dev/null 2>&1
 python3 packets.py

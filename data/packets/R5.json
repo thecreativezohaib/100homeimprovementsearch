@@ -1,9 +1,9 @@
 [
  {
-  "id": "desertremodel.com",
-  "name": "Desert Remodel",
+  "id": "ariidbuild.com",
+  "name": "ARIID Build & Remodel",
   "region": "R5",
-  "website": "https://desertremodel.com/",
+  "website": "https://ariidbuild.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,74 +11,251 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://desertremodel.com/"
+    "https://ariidbuild.com/"
    ],
    "contact": [
-    "https://desertremodel.com/contact/"
+    "https://ariidbuild.com/contact/"
    ],
    "about": [
-    "https://desertremodel.com/about/"
+    "https://ariidbuild.com/about-us/"
    ],
    "gallery": [
-    "https://desertremodel.com/projects/"
+    "https://ariidbuild.com/projects/",
+    "https://ariidbuild.com/projects/master-bathroom-remodel-and-new-construction/"
    ],
    "legal": [
-    "https://desertremodel.com/privacy-policy/"
+    "https://ariidbuild.com/privacy-policy/",
+    "https://ariidbuild.com/privacy-policy/"
    ]
   },
   "auto_signals": [
    {
     "type": "site_dated_content",
-    "date": "2026-10-12",
-    "url": "https://desertremodel.com/blog/scottsdale-bathroom-remodel-ideas/",
-    "quote": "wp-json/posts published 2026-10-12T14:30:38: 'Transform Your Scottsdale Bathroom: Innovative Remodel Ideas for Modern Homes'"
+    "date": "2026-07-28",
+    "url": "https://ariidbuild.com/kitchen-remodel-before-thanksgiving-timeline/",
+    "quote": "wp-json/posts published 2026-07-28T17:50:03: 'Start Now, Host by Thanksgiving: The Realistic Timeline for a Holiday-Ready Kitc'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTSVj_jiRiYROEIEomTklhw&hl=en",
-  "gbp_title": "Desert Remodel",
-  "gbp_address": "\ue0c8\n7845 E Gelding Dr #102, Scottsdale, AZ 85260, United States",
-  "gbp_rating": "5.0\n(12)",
-  "gbp_phone": "phone:tel:+14803761304",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7W9YPz0TkFQRb1nbR1IrCWY&hl=en",
+  "gbp_title": "ARIID Build & Remodel",
+  "gbp_address": "\ue0c8\n1018 Market St C, Kirkland, WA 98033, United States",
+  "gbp_rating": "4.9\n(7)",
+  "gbp_phone": "phone:tel:+14256792463",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Jackie Stein",
-    "when": "9 months ago",
-    "stars": "5 stars",
-    "text": "I cannot say enough good things about Desert Remodel! Mike was amazing\u2014so real, honest, and easy to talk to. He truly listened, stayed within my budget, and never tried to upsell me like so many other companies do. \u2026",
+    "reviewer": "Shawn Shizz",
+    "when": "4 months ago",
+    "stars": "4 stars",
+    "text": "Permits and code compliance went exactly how they outlined during our initial meeting. The crew kept the work area clean throughout the entire basement finishing project, which made a big difference since we were still living in the house. \u2026",
     "owner": null
    },
    {
-    "reviewer": "Chantelle Mahan",
-    "when": "9 months ago",
+    "reviewer": "Kalli Budge",
+    "when": "6 months ago",
     "stars": "5 stars",
-    "text": "10 Stars if I Could!\n\nWe hired Desert Remodel to remodel our kitchen, install new flooring, and paint \u2026",
-    "owner": null
+    "text": "I\u2019ve seen firsthand the hard work and integrity that goes into every build here. The team at Ariid Build is composed of true professionals who take immense pride in their craftsmanship. They are dedicated to high-quality results and always ensure that everything is built to last. A really impressive group.",
+    "owner": "Response from the owner 6 months ago\nKalli, this means a great deal, thank you.\n\nThere\u2019s a level of care and intention that goes into every build, and it\u2019s \u2026 More"
    },
    {
-    "reviewer": "Katherine Henry",
-    "when": "2 years ago",
+    "reviewer": "Lawrence I Lerner",
+    "when": "5 months ago",
     "stars": "5 stars",
-    "text": "We did a kitchen remodel with desert remodel and are so happy with the final product. The process was smooth and everything was coordinated and scheduled flawlessly. The design process was so easy and I really loved how our vision was made \u2026",
-    "owner": "Response from the owner a year ago\nThank you so so much for your review, Katherine. We love how this kitchen turned out and we had so much fun working with you and your husband. We'd give you guys 5-Stars as well :-) Thank you again! "
+    "text": "Working backwards and looking at the end result... Just great work and a fantastic redesign of an existing 100 year old space. It's one thing to build from scratch, it's another to do redesign that fits into an exsiting frame.",
+    "owner": "Response from the owner 5 months ago\nThank you so much, Lawrence!"
    }
   ],
-  "emails_found": [],
-  "dm_snippets": [],
+  "emails_found": [
+   {
+    "email": "inquiry@ariidbuild.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:inquiry@ariidbuild.com",
+    "page": "https://ariidbuild.com/"
+   },
+   {
+    "email": "info@ariidbuild.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@ariidbuild.com",
+    "page": "https://ariidbuild.com/contact/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://ariidbuild.com/about-us/",
+    "snippet": "Founded by Ariana, a professional with decades of experience in the construction sector, ARIID Build & Remodel combines innovative"
+   },
+   {
+    "page": "https://ariidbuild.com/about-us/",
+    "snippet": "CEO / HEAD OF DESIGN"
+   },
+   {
+    "page": "https://ariidbuild.com/about-us/",
+    "snippet": "Ariana, founder of Ariid Build and Remodel, brings over 20 years of expertise in the industry"
+   },
+   {
+    "page": "https://ariidbuild.com/about-us/",
+    "snippet": "PRESIDENT"
+   }
+  ],
   "facebook_links": [
-   "https://www.facebook.com/154443011093070"
+   "https://www.facebook.com/ariidbuild"
   ],
   "instagram_links": [
-   "https://www.instagram.com/desert_remodel"
+   "https://www.instagram.com/arianadesignsllc",
+   "https://www.instagram.com/ariidbuild"
   ],
-  "franchise_mentions": [
-   "kitchen tune up"
-  ],
+  "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 9,
-   "bath": 9,
-   "roof": 0,
+   "kitchen": 18,
+   "bath": 21,
+   "roof": 1,
    "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 3
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 1800px, i.e. 1425px wider than the screen; elements past the right edge: ['IMG.bg.attachment- righ"
+  ],
+  "competitor_pool": [
+   {
+    "name": "AAA HOME & REMODEL",
+    "url": "https://aaahomeandremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Eastside Kitchen & Bath",
+    "url": "https://eastsidekb.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elevated Renovations inc",
+    "url": "https://www.elevatedrenovationsinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Fine Element Construction - Kitchen and Bathroom remodeler | renovation",
+    "url": "https://fineelm.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Gold Remodeling",
+    "url": "https://goldremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "IRC Kitchen & Bath",
+    "url": "https://irckb.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Kirkland, WA"
+  ]
+ },
+ {
+  "id": "azconstruct.com",
+  "name": "AZ Construction & Renovation LLC",
+  "region": "R5",
+  "website": "https://azconstruct.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "GoDaddy",
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://azconstruct.com/"
+   ],
+   "contact": [
+    "https://azconstruct.com/contact/",
+    "https://azconstruct.com/contact/"
+   ],
+   "about": [
+    "https://azconstruct.com/about/",
+    "https://azconstruct.com/the-truth-about-construction-estimates/"
+   ],
+   "gallery": [
+    "https://azconstruct.com/services/project-management/"
+   ],
+   "legal": [
+    "https://azconstruct.com/privacy-policy/",
+    "https://azconstruct.com/privacy-policy/",
+    "https://azconstruct.com/terms-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-13",
+    "url": "https://azconstruct.com/phoenixs-office-vacancy-problem-can-renovations-help-attract-tenants/",
+    "quote": "wp-json/posts published 2026-10-13T18:12:23: 'Phoenix&#8217;s Office Vacancy Problem: Can Renovations Help Attract Tenants?'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfPNCeJv1oYRmRrEGbn6w_g&hl=en",
+  "gbp_title": "AZ Construction & Renovation LLC",
+  "gbp_address": "\ue0c8\n1000 E Fort Lowell Rd, Tucson, AZ 85719, United States",
+  "gbp_rating": "4.7\n(101)",
+  "gbp_phone": "phone:tel:+15204771471",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Tom Kuthy",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "This company was extremely professional from start to finish and did a fantastic job on my master bathroom remodel.  First off, they provided me with a detailed bid specifying exactly what they would be doing with the price clearly spelled \u2026",
+    "owner": "Response from the owner 10 months ago\nThank you, Tom, for the thoughtful and detailed review. We truly appreciate you taking the time to highlight the transparency of our estimating process, the performance of your Project Manager, and our commitment to quality control. Holding \u2026 More"
+   },
+   {
+    "reviewer": "Mary Beth",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "I lucked upon this company after doing an internet search. I had glass doors removed from my entryway. Garrett built a beautiful new wall. He and Ramon did a fabulous job putting stucco and paint on the outside wall and texture and paint on \u2026",
+    "owner": "Response from the owner 2 months ago\nHi Mary Beth! Thank you very much for the kind review. Garrett and Ramon spoke fondly of working on your project and we are all proud that they and the rest of our team treated you and your home so well."
+   },
+   {
+    "reviewer": "Sarah Hoard",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Our second project with AZ Construction in the past year is a bathroom. Ramon and Clemente were great to work with. They recommended where to shop for supplies that would suit what we were looking for. At a good price.  Ramon created a \u2026",
+    "owner": "Response from the owner a year ago\nHello, Sarah. We are extremely happy to hear you're satisfied with your project and you have acknowledged Ramon and Clemente on the results of your project.  It was out pleasure to work with you and we look forward to serving your needs in the future. "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "estimates@azconstruct.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:estimates@azconstruct.com",
+    "page": "https://azconstruct.com/"
+   },
+   {
+    "email": "tech@azconstruct.com",
+    "how": "plain text",
+    "raw": "tech@azconstruct.com",
+    "page": "https://azconstruct.com/the-truth-about-construction-estimates/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/AZCR1000",
+   "https://www.facebook.com/AZCR00"
+  ],
+  "instagram_links": [
+   "http://www.instagram.com/azcr1000"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 2,
+   "bath": 2,
+   "roof": 0,
+   "plumb": 1,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
@@ -90,448 +267,420 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 381px, i.e. 6px wider than the screen; elements past the right edge: ['SPAN.tooltip-text right=381"
+   "gallery images over 1MB each: https://azconstruct.com/wp-content/uploads/2026/10/Aging-in-place-lighting.png = 1,870,882 bytes; https://azconstruct.com/wp-content/uploads/2026/04/Consulting1"
   ],
   "competitor_pool": [
    {
-    "name": "Caine and Company, Design/Build/Remodel",
-    "url": "https://caineandcompany.com/",
+    "name": "Apex Windows & Bath Accessories",
+    "url": "https://www.apexwindowsandbath.com/location-tucson-az/",
     "gbp_address": null
    },
    {
-    "name": "FHR Construction",
-    "url": "https://fhraz.com/",
+    "name": "Jacuzzi Bath Remodel of Arizona",
+    "url": "https://www.azbaths.com/",
     "gbp_address": null
    },
    {
-    "name": "Infinity General Contractors North Scottsdale",
-    "url": "https://infinitygeneralcontractorsaz.com/north-scottsdale/",
+    "name": "Bath Fitter Southern Arizona",
+    "url": "https://www.bathfittertucson.com/",
     "gbp_address": null
    },
    {
-    "name": "Infinity Home Remodeling Scottsdale",
-    "url": "https://infinityhomeremodelingaz.com/",
+    "name": "Beloved Built LLC",
+    "url": "https://belovedbuiltaz.com/",
     "gbp_address": null
    },
    {
-    "name": "LEICHT Scottsdale Kitchen Showroom",
-    "url": "https://www.leichtscottsdale.com/",
+    "name": "Eren Design and Remodeling Co., Inc.",
+    "url": "https://www.erendesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Frei Remodel and Design",
+    "url": "https://frei-remodeling.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Scottsdale, AZ"
+   "Tucson, AZ"
   ]
  },
  {
-  "id": "ljbuildersaz.com",
-  "name": "LJ Builders AZ",
+  "id": "canyoncabinetry.com",
+  "name": "Canyon Cabinetry & Design",
   "region": "R5",
-  "website": "https://www.ljbuildersaz.com/",
+  "website": "https://www.canyoncabinetry.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "Webflow"
+   "WordPress"
   ],
   "pages_fetched": {
    "home": [
-    "https://www.ljbuildersaz.com/"
+    "https://www.canyoncabinetry.com/"
    ],
    "contact": [
-    "https://www.ljbuildersaz.com/contact"
+    "https://www.canyoncabinetry.com/contact/"
    ],
    "about": [
-    "https://www.ljbuildersaz.com/our-team"
+    "https://www.canyoncabinetry.com/services/"
    ],
-   "legal": [
-    "https://www.ljbuildersaz.com/privacy-policy"
+   "gallery": [
+    "https://www.canyoncabinetry.com/gallery/",
+    "https://www.canyoncabinetry.com/before-and-after/"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJx7KS6oqpK4cR7BHSchUePr8&hl=en",
-    "quote": "Kaenan Whitman: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJDdfjqdh01oYRPIiAhs0UWS8&hl=en",
+    "quote": "Dennis Lex: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7KS6oqpK4cR7BHSchUePr8&hl=en",
-  "gbp_title": "LJ Builders AZ",
-  "gbp_address": "\ue0c8\n3400 N Arizona Ave #114, Chandler, AZ 85225, United States",
-  "gbp_rating": "4.9\n(66)",
-  "gbp_phone": "phone:tel:+14807127776",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdfjqdh01oYRPIiAhs0UWS8&hl=en",
+  "gbp_title": "Canyon Cabinetry & Design",
+  "gbp_address": "\ue0c8\n6431 N Thornydale Rd, Tucson, AZ 85741, United States",
+  "gbp_rating": "4.7\n(53)",
+  "gbp_phone": "phone:tel:+15203237190",
   "gbp_reviews_visible": [
    {
-    "reviewer": "jan raio",
-    "when": "3 months ago",
+    "reviewer": "Dennis Lex",
+    "when": "a month ago",
     "stars": "5 stars",
-    "text": "LJ builders excels in customer satisfaction and detailed workmanship.  The crews were very attentive to my needs in scheduling and cooperating with my pets and house sitter. Lawrence (L) and Jessica (J)  are very helpful in suggesting \u2026",
-    "owner": "Response from the owner 2 weeks ago\nJan\u2014thank you so much for the kind, detailed 5-star review. We\u2019re glad you felt our crew stayed attentive to your scheduling needs and helped make the process feel smooth for your home\u2014including the guidance on materials and the quality \u2026 More"
+    "text": "Over the years we have built several homes and renovated two kitchens.  We never have worked with a better team than Canyon Cabinetry & Design.  The quality of their products and workmanship is far superior than any we experienced in the \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Nisa Stansbarger",
-    "when": "4 months ago",
+    "reviewer": "Debbie Leahy",
+    "when": "5 months ago",
     "stars": "5 stars",
-    "text": "My mom recently had renovation work done by this company, and I truly cannot say enough good things about the entire experience. From start to finish, they were professional, punctual, thorough, and incredibly attentive to every detail. \u2026",
-    "owner": "Response from the owner 2 weeks ago\nHi Nisa\u2014thank you for the heartfelt 5-star review. We\u2019re honored your mom trusted our team and that the renovation felt professional, organized, and genuinely caring throughout\u2014especially with the adjustments needed to keep her comfortable. \u2026 More"
+    "text": "We could not be happier with the results of our kitchen remodel. Canyon is a highly professional company that offers a complete package, from design to installation, with impeccable care. They truly are masters of their craft! \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Kaenan Whitman",
-    "when": "2 months ago",
+    "reviewer": "Deb Stafford",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "As an out-of-state owner, we were relieved to have selected LJBuilder to repair our building in downtown Chandler. Tony Odenbrett and the team communicated clearly throughout, kept our tenant informed, coordinated smoothly with the \u2026",
-    "owner": "Response from the owner 2 weeks ago\nHi Kaenan\u2014thank you for the thoughtful review. We\u2019re glad our team communicated clearly throughout your downtown Chandler repair, kept your tenant informed, and documented the work so the process felt organized. It means a lot that you\u2019re happy with the repair quality and would recommend LJ Builders to remote property owners."
+    "text": "We worked with Susan the past two years as we first remodeled our kitchen and laundry room, and then this past summer we did our two bathrooms. We couldn\u2019t be happier! The functionality that was designed into everything was amazing. The \u2026",
+    "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "info@ljbuilders.com",
+    "email": "info@canyoncabinetry.com",
     "how": "mailto",
-    "raw": "href=\"mailto:info@ljbuilders.com",
-    "page": "https://www.ljbuildersaz.com/"
-   },
-   {
-    "email": "info@ljbuildersaz.com",
-    "how": "plain text",
-    "raw": "info@ljbuildersaz.com",
-    "page": "https://www.ljbuildersaz.com/"
+    "raw": "href=\"mailto:info@canyoncabinetry.com",
+    "page": "https://www.canyoncabinetry.com/"
    }
   ],
-  "dm_snippets": [
-   {
-    "page": "https://www.ljbuildersaz.com/our-team",
-    "snippet": "Founder & CEO"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/LJbuildersaz/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/ljbuildersaz"
-  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 7,
-   "bath": 8,
+   "kitchen": 21,
+   "bath": 15,
+   "roof": 1,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 40,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "dead phone or email link: mailto:info@canyoncabinetry.com\u200b -> domain canyoncabinetry.com\u200b has no MX and no A record (https://dns.google/resolve?name=canyoncabinetry.com\u200b&type=MX and type"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Apex Windows & Bath Accessories",
+    "url": "https://www.apexwindowsandbath.com/location-tucson-az/",
+    "gbp_address": null
+   },
+   {
+    "name": "Jacuzzi Bath Remodel of Arizona",
+    "url": "https://www.azbaths.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bath Fitter Southern Arizona",
+    "url": "https://www.bathfittertucson.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Beloved Built LLC",
+    "url": "https://belovedbuiltaz.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Eren Design and Remodeling Co., Inc.",
+    "url": "https://www.erendesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Frei Remodel and Design",
+    "url": "https://frei-remodeling.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Tucson, AZ"
+  ]
+ },
+ {
+  "id": "custombathsolutions.com",
+  "name": "Custom Bath Solutions",
+  "region": "R5",
+  "website": "https://www.custombathsolutions.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.custombathsolutions.com/"
+   ],
+   "contact": [
+    "https://www.custombathsolutions.com/contact/"
+   ],
+   "about": [
+    "https://www.custombathsolutions.com/about-us/",
+    "https://www.custombathsolutions.com/about-us/"
+   ],
+   "gallery": [
+    "https://www.custombathsolutions.com/gallery/"
+   ],
+   "legal": [
+    "https://www.custombathsolutions.com/privacy-policy/",
+    "https://www.custombathsolutions.com/privacy-policy/",
+    "https://www.custombathsolutions.com/terms-and-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-28",
+    "url": "https://www.custombathsolutions.com/which-styles-are-popular-for-bathtub-replacement-projects/",
+    "quote": "wp-json/posts published 2026-09-28T14:11:13: 'Which Styles Are Popular for Bathtub Replacement Projects?'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4DMq-VTrlQRbShS1hHhDl4&hl=en",
+  "gbp_title": "Custom Bath Solutions",
+  "gbp_address": "\ue0c8\n480 E Franklin Rd Suite # 108, Meridian, ID 83642, United States",
+  "gbp_rating": "5.0\n(54)",
+  "gbp_phone": "phone:tel:+12088887561",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Stephanie Hallstrom",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "We hired Jesse and Custom Bath Solutions to remodel our kitchen and bathroom this past summer. Jesse and his team were knowledgeable, easy to work with and consistently checked in to make sure we were happy every step of the way. As with \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Jan Byers-Kirsch",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "We searched local bath remodels because we have found we get better, friendly service and pricing than franchises. Jesse and his crew did not disappoint. They offered various priced choices and replaced the small stall shower in our 50 yr. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Terry Noyce",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "We had our bathroom remodeled in 2024. Jesse, Steve and their team did a great job! They stand behind their work with great customer service. We recently had issues with our shower door sagging and Jarod, their shower door installer, was \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "solutions@custombathsolutions.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:s&#111;&#108;ut&#105;&#111;&#110;&#115;&#064;&#099;&#117;st&#111;&#109;&#098;&#097;&#116;&#104;&#115;&#111;",
+    "page": "https://www.custombathsolutions.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/Custom-Bath-Solutions-136953136373866/",
+   "https://www.facebook.com/cbsidaho"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 61,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 1,
-   "cabinet": 2,
-   "siding": 0,
-   "window": 2,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://cdn.prod.website-files.com/6a5fc8cd799840f2f148f268/6a63c1333374ebd432408de5_Image%20(LJ%20Builders%20commercial = 1,508,475 bytes; https://cdn.prod.web"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Alpha Remodelers",
-    "url": "https://alpharemodelers.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Advanced Custom Renovations",
-    "url": "https://azacr.com/home",
-    "gbp_address": null
-   },
-   {
-    "name": "Bulldog Kitchen & Bath Remodel",
-    "url": "https://bulldogkitchenandbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Classy Kitchen & Bath",
-    "url": "https://classykitchenandbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Eastern Cabinet and Stone",
-    "url": "https://eastern-cabinet-stone.vercel.app/",
-    "gbp_address": null
-   },
-   {
-    "name": "Kitchen Masters, LLC",
-    "url": "https://kitchenmastersaz.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Chandler, AZ"
-  ]
- },
- {
-  "id": "lunasolconstruction.com",
-  "name": "Lunasol construction",
-  "region": "R5",
-  "website": "https://lunasolconstruction.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://lunasolconstruction.com/"
-   ],
-   "contact": [
-    "https://lunasolconstruction.com/contact-us"
-   ],
-   "about": [
-    "https://lunasolconstruction.com/about-us",
-    "https://lunasolconstruction.com/about-us/areas-we-serve"
-   ],
-   "gallery": [
-    "https://lunasolconstruction.com/recent-projects",
-    "https://lunasolconstruction.com/recent-projects/carmel-valley-full-home-remodel"
-   ],
-   "legal": [
-    "https://lunasolconstruction.com/privacy-policy"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X1hzyNR2YAR7TS96JTi0N4&hl=en",
-    "quote": "Sherrill Horn: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X1hzyNR2YAR7TS96JTi0N4&hl=en",
-  "gbp_title": "Lunasol construction",
-  "gbp_address": "\ue0c8\n5857 Owens Ave #300, Carlsbad, CA 92008, United States",
-  "gbp_rating": "5.0\n(35)",
-  "gbp_phone": "phone:tel:+16199194790",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Marc Friedmann",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "After talking with several contractors we selected Lunasol to remodel our 40 year old guest bath. Detailed specifications were provided by a designer we know who helped select all the tile, hardware and vanity. Lunasol estimated a 4 week \u2026",
-    "owner": "Response from the owner 6 months ago\nHi Marc, thank you for the review. Your ideas for the bathroom came out beautiful. I am happy to hear everything went smoothly, I know the guys enjoyed working with you and so did I. Enjoy your new bathroom, we are here for anything you need in the future."
-   },
-   {
-    "reviewer": "Samuel Nixon",
-    "when": "5 months ago",
-    "stars": "5 stars",
-    "text": "Idan and the whole Lunasol Construction team was excellent from start to finish.  They are prompt, comprehensive, knowledgeable and extremely professional.  They recently did our master bathroom remodel in Carlsbad CA and it was incredible! \u2026",
-    "owner": "Response from the owner 5 months ago\nHi Chuck,\nThank you for the wonderful review, it was a pleasure working and getting to know you. The bathroom looks amazing thanks to your design. We hope you enjoy it and hopefully we'll hear from you again soon."
-   },
-   {
-    "reviewer": "Sherrill Horn",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Idan and Bobby converted our old bathtub to a beautiful new walk-in shower. The tile work and grounding are perfect. The overall appearance is exceptional. All work was done in a timely manner.",
-    "owner": "Response from the owner 2 months ago\nHi Sherrill, thank you for taking the time to write the review, we appreciate it !\nI'm glad to hear you are happy with work and the guys, we hope you enjoy your new bathroom for years to come"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@lunasolconstruction.com",
-    "how": "mailto",
-    "raw": "href=\"Mailto:info@lunasolconstruction.com",
-    "page": "https://lunasolconstruction.com/contact-us"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://lunasolconstruction.com/",
-    "snippet": "We guarantee our team including the CEO, assistants, architects, engineers and designers will prepare for the job in a well thought, organized and detailed man"
-   }
-  ],
-  "facebook_links": [],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 9,
-   "bath": 7,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
    "cabinet": 0,
    "siding": 0,
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 0
+   "custom home": 1
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://static.mywebsites360.com/cb4fc96062a54481b246035db2e67f37/i/c6fdad4c75b249769ba5056cd7e878b5/1/4SoifmQpDrHbZJ6W2 = 1,112,025 bytes; https://static.myweb"
+   "dead phone or email link: mailto:&#115;o&#108;u&#116;&#105;&#111;ns&#064;c&#117;s&#116;&#111;&#109;&#098;a&#116;&#104;&#115;&#111;&#108;uti&#111;&#110;s.c&#111;m -> domain &#115;o&#108;u",
+   "dead phone or email link: tel: hrefs [] mailto: hrefs ['&#115;&#111;&#108;&#117;t&#105;&#111;n&#115;&#064;&#099;us&#116;o&#109;&#098;&#097;t&#104;&#115;o&#108;&#117;&#116;ion&#115;&#046;"
   ],
   "competitor_pool": [
    {
-    "name": "AE Carlson Design & Build",
-    "url": "https://aecdesignandbuild.com/",
-    "gbp_address": "\ue0c8\n1902 Wright Pl Ste 200 #277, Carlsbad, CA 92008, United States"
-   },
-   {
-    "name": "dmb Builders Inc",
-    "url": "https://www.dmbbuildersinc.com/",
+    "name": "1st Choice Kitchen & Bath",
+    "url": "https://1stchoicecabinetryinc.com",
     "gbp_address": null
    },
    {
-    "name": "Forma Kitchen Design",
-    "url": "https://www.formakitchendesign.com/",
+    "name": "In Your Home",
+    "url": "https://www.iyhusa.com/",
     "gbp_address": null
    },
    {
-    "name": "Mastercraft Home Improvement",
-    "url": "https://mastercrafthi.com/",
+    "name": "Jason Smith Construction Inc.",
+    "url": "https://www.jasonsmithconstruction.com/",
     "gbp_address": null
    },
    {
-    "name": "NuFinishPro - San Luis Obispo",
-    "url": "https://nufinishpro.com/san-luis-obispo/",
+    "name": "Lamont Bros. Design & Construction",
+    "url": "https://www.lamontbros.com/",
     "gbp_address": null
    },
    {
-    "name": "TNT Design & Build",
-    "url": "https://tntdnb.com/",
+    "name": "Metke Remodeling & Luxury Homes",
+    "url": "https://metkeremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "North Star Kitchen and Bath Remodels",
+    "url": "https://northstarkitchenandbath.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Carlsbad, CA"
+   "Lake Oswego, OR",
+   "Meridian, ID"
   ]
  },
  {
-  "id": "premierkitchenandbath.com",
-  "name": "Premier Design-Build-Remodel",
+  "id": "customdesignbuildremodel.com",
+  "name": "Custom Design Build & Remodel.",
   "region": "R5",
-  "website": "https://premierkitchenandbath.com/showroom/scottsdale/",
+  "website": "https://customdesignbuildremodel.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
+   "GoDaddy",
    "WordPress"
   ],
   "pages_fetched": {
    "home": [
-    "https://premierkitchenandbath.com/showroom/scottsdale/"
+    "https://customdesignbuildremodel.com/"
    ],
    "contact": [
-    "https://premierkitchenandbath.com/contact-us/"
+    "https://customdesignbuildremodel.com/contact-us/"
    ],
    "about": [
-    "https://premierkitchenandbath.com/who-we-are/",
-    "https://premierkitchenandbath.com/who-we-are/"
+    "https://customdesignbuildremodel.com/about-us/",
+    "https://customdesignbuildremodel.com/building-a-casita-backyard-mesa-guide/"
    ],
    "gallery": [
-    "https://premierkitchenandbath.com/portfolio/",
-    "https://premierkitchenandbath.com/portfolio/bathroom-remodel/"
+    "https://customdesignbuildremodel.com/projects/"
    ],
    "legal": [
-    "https://premierkitchenandbath.com/privacy-policy/",
-    "https://premierkitchenandbath.com/privacy-policy/"
+    "https://customdesignbuildremodel.com/privacy-policy/",
+    "https://customdesignbuildremodel.com/privacy-policy/",
+    "https://customdesignbuildremodel.com/terms-conditions/"
    ]
   },
   "auto_signals": [
    {
     "type": "site_dated_content",
-    "date": "2026-07-31",
-    "url": "https://premierkitchenandbath.com/remodeling-versus-buying-a-new-home-when-does-it-make-sense/",
-    "quote": "wp-json/posts published 2026-07-31T13:33:10: 'Remodeling Versus Buying A New Home &#8211; When Does It Make Sense?'"
+    "date": "2026-07-17",
+    "url": "https://customdesignbuildremodel.com/building-a-casita-backyard-mesa-guide/",
+    "quote": "wp-json/posts published 2026-07-17T20:56:49: 'Building a Casita in Your Backyard: A Mesa Homeowner&#8217;s Guide'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfSEV6l1K4cRNgtvvmvJDbM&hl=en",
-  "gbp_title": "Premier Design-Build-Remodel",
-  "gbp_address": "\ue0c8\n16035 N 80th St Ste D, Scottsdale, AZ 85260, United States",
-  "gbp_rating": "4.9\n(36)",
-  "gbp_phone": "phone:tel:+14805737182",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyHbKEKnK4cR1MDZRbMbh8I&hl=en",
+  "gbp_title": "Custom Design Build & Remodel.",
+  "gbp_address": "\ue0c8\n2036 N Gilbert Rd #2-155, Mesa, AZ 85203, United States",
+  "gbp_rating": "4.7\n(24)",
+  "gbp_phone": "phone:tel:+18333692543",
   "gbp_reviews_visible": [
    {
-    "reviewer": "catie barron",
-    "when": "6 months ago",
+    "reviewer": "Elizabeth Koger",
+    "when": "3 years ago",
     "stars": "5 stars",
-    "text": "They captured \"us\" perfectly! From the moment we stepped into their showroom, we felt that we chose the perfect place to bring our white kitchen dream to a reality. Being a stickler about quality, I did my research. From their amazing \u2026",
-    "owner": "Response from the owner 6 months ago\nThank you, Catie, for the wonderful, kind words about Rachel and the entire Premier team! \u2026 More"
+    "text": "We just had our Main Bathroom remodeled and it looks amazing!  We love the way the shower turned out. We worked with Jennifer for the design, and she was really great and helped us find things that went well together. We did choose to keep \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Sharon Olson",
-    "when": "5 months ago",
+    "reviewer": "Mary Netupsky",
+    "when": "9 months ago",
     "stars": "5 stars",
-    "text": "We have used Premier for a total master bath remodel and just last summer, a remodel of our kitchen.  Their work is top notch.  Working with their designer (Rachel) was a lot of fun, and her excitement for the job was wonderful.  Kent, \u2026",
-    "owner": "Response from the owner Edited 5 months ago\nHi Sharon, thank you so much for the kind words! Your kitchen was already beautiful when we came in, so we were excited to work with your existing countertops to create a new look and add a custom bar and hutch to the space! \u2026 More"
+    "text": "We have had a long time\nbusiness relationship with Ernie at\nCustom Design Build Remodel. \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Debbie Knudson",
-    "when": "5 months ago",
+    "reviewer": "Kelly Zeltwanger",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "We wanted to remodel & update our Master Bath, Guest Bath & Powder Room.Talked to several Design & Remodeling companies. After meeting with Chris Ebert, we knew Premier Design-Build- Remodel would be our overwhelming choice. From the very \u2026",
-    "owner": "Response from the owner 5 months ago\nThank you for the kind words, Debbie. We are so happy that you are pleased with the work we did, as we would not want it any other way! \u2026 More"
+    "text": "Custom Design Build did an amazing job in making my condo remodel a good experience.  They were extremely helpful in walking me through each step of the process.  Everyone that had a hand in the work that was being done was professional and \u2026",
+    "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "info@premierdesign.build",
-    "how": "cloudflare data-cfemail",
-    "raw": "3e575058517e4e4c5b53575b4c5a5b4d575950105c4b57525a",
-    "page": "https://premierkitchenandbath.com/contact-us/"
-   },
-   {
-    "email": "info@premierkitchenandbath.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "ddb4b3bbb29dadafb8b0b4b8afb6b4a9beb5b8b3bcb3b9bfbca9b5f3beb2b0",
-    "page": "https://premierkitchenandbath.com/privacy-policy/"
+    "email": "info@customdesignbuildremodel.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@customdesignbuildremodel.com",
+    "page": "https://customdesignbuildremodel.com/"
    }
   ],
   "dm_snippets": [
    {
-    "page": "https://premierkitchenandbath.com/who-we-are/",
-    "snippet": "President"
+    "page": "https://customdesignbuildremodel.com/about-us/",
+    "snippet": "Owner and leading contractor, Ernie Merrill, works alongside a team of skilled enthusiasts who are dedicated to making your d"
    },
    {
-    "page": "https://premierkitchenandbath.com/who-we-are/",
-    "snippet": "President"
+    "page": "https://customdesignbuildremodel.com/about-us/",
+    "snippet": "Owner and certified contractor, Ernie Merrill, is the founder of Custom Design Build & Remodel based out of the Phoenix Metro area"
    }
   ],
   "facebook_links": [
-   "https://www.facebook.com/PremierDesignBuildRemodel/"
+   "https://www.facebook.com/profile.php?id=100080369890935"
   ],
-  "instagram_links": [
-   "https://www.instagram.com/premierdesignbuildremodel"
-  ],
+  "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 14,
-   "bath": 14,
+   "kitchen": 15,
+   "bath": 16,
    "roof": 0,
-   "plumb": 3,
-   "hvac": 0,
+   "plumb": 2,
+   "hvac": 2,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 2,
+   "cabinet": 7,
    "siding": 0,
-   "window": 0,
+   "window": 1,
    "pool": 0,
    "solar": 0,
    "custom home": 0
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://premierkitchenandbath.com/wp-content/uploads/2026/03/2024-07-30.webp = 1,543,232 bytes; https://premierkitchenandbath.com/wp-content/uploads/2026/03/202"
+   "gallery images over 1MB each: https://customdesignbuildremodel.com/wp-content/uploads/2025/08/IMG_2233-Edit-min.jpg = 1,636,241 bytes; https://customdesignbuildremodel.com/wp-content/uploads"
   ],
   "competitor_pool": [
-   {
-    "name": "Bulldog Kitchen & Bath Remodel",
-    "url": "https://bulldogkitchenandbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Five Star Bath Solutions of the Ozarks",
-    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
-    "gbp_address": null
-   },
-   {
-    "name": "Riggs Custom Renovation",
-    "url": "https://riggscustom.com/",
-    "gbp_address": null
-   },
    {
     "name": "AZ Fast Bath",
     "url": "https://azfastbath.com/",
@@ -546,19 +695,22 @@
     "name": "Cactus Kitchen & Bath",
     "url": "https://www.cactuskb.com/",
     "gbp_address": null
+   },
+   {
+    "name": "Mesa Kitchen and Bathroom Remodeling",
+    "url": "https://mesakitchenandbathroomremodeling.com/",
+    "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Gilbert, AZ",
-   "Mesa, AZ",
-   "Scottsdale, AZ"
+   "Mesa, AZ"
   ]
  },
  {
-  "id": "slremodel.com",
-  "name": "S&L Remodeling And Design",
+  "id": "iconiqconstruction.com",
+  "name": "ICONIQ CONSTRUCTION",
   "region": "R5",
-  "website": "https://slremodel.com/",
+  "website": "https://iconiqconstruction.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -567,211 +719,214 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://slremodel.com/"
+    "https://iconiqconstruction.com/"
    ],
    "contact": [
-    "https://slremodel.com/contact-us/"
+    "https://iconiqconstruction.com/contact-us/"
    ],
    "about": [
-    "https://slremodel.com/about-us/"
+    "https://iconiqconstruction.com/about-us/",
+    "https://iconiqconstruction.com/new-construction/"
    ],
    "gallery": [
-    "https://slremodel.com/gallery/"
-   ],
-   "legal": [
-    "https://slremodel.com/privacy-policy/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-10-08",
-    "url": "https://slremodel.com/sin-categoria/pocket-option-oficialnyy-sayt-platformy-dlya-torgovli-binarnye-opciony/",
-    "quote": "wp-json/posts published 2026-10-08T08:10:33: 'Pocket Option &#8211; \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b \u0434\u043b\u044f \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438 &#8211; \u0411\u0438\u043d\u0430\u0440\u043d\u044b\u0435 \u041e'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJebcAgzVhhYARXmoOecgZ7ls&hl=en",
-  "gbp_title": "S&L Remodeling And Design",
-  "gbp_address": "\ue0c8\n1270 Springbrook Rd Ste H, Walnut Creek, CA 94597, United States",
-  "gbp_rating": "4.8\n(80)",
-  "gbp_phone": "phone:tel:+19252664147",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Holly Le Hill",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We hired Jacob\u2019s company, S&L Remodeling, to remodel our master bathroom in 2024, and the entire experience was exceptional. From start to finish, Jacob and his team demonstrated professionalism, care, and true craftsmanship. \u2026",
-    "owner": "Response from the owner a year ago\nThank you so much for taking the time to share such a thoughtful and detailed review. We're truly grateful for your kind words and for trusting Jacob and the entire S&L Remodeling team with your master bathroom remodel. It means a lot to \u2026 More"
-   },
-   {
-    "reviewer": "Zurit Weiss",
-    "when": "5 months ago",
-    "stars": "5 stars",
-    "text": "Highly recommend! We hired them for flooring and remodeling work, and the entire experience was excellent from start to finish. The quality of the work was outstanding, attention to detail was impressive, and everything was completed \u2026",
-    "owner": "Response from the owner 5 months ago\nHi Zurit, \nThank you again for the wonderful feedback! We loved working on your flooring and remodeling project. It means the world to us that you took the time to support us on both pages. We\u2019re so glad you\u2019re happy with the results!"
-   },
-   {
-    "reviewer": "Ann Van Gelder",
-    "when": "2 years ago",
-    "stars": "5 stars",
-    "text": "I highly recommend S&L Remodeling. They remodeled 3 of our bathrooms in succession and did an amazing job. Tomer was clear about pricing, kept up with the contracts and addendums, delivered permits as expected, and was pleasant person to \u2026",
-    "owner": "Response from the owner a year ago\nThank you so much for your detailed and positive review! We're thrilled to hear that you're happy with the remodeling of your bathrooms and the work of Tomer, Roberto, and the entire team. It\u2019s great to know that the process was smooth, \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "customerservice@slremodel.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:customerservice@slremodel.com",
-    "page": "https://slremodel.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/slremodel"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/sl.remodeling"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 13,
-   "bath": 15,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 394px, i.e. 19px wider than the screen; elements past the right edge: []"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Carey Bros. Design & Build Remodeling",
-    "url": "https://careybros.com/general-contractor-in-walnut-creek-ca/",
-    "gbp_address": null
-   },
-   {
-    "name": "Cerletti & Kennedy Design-Build",
-    "url": "https://www.cerlettikennedy.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Excellent Home Remodeling",
-    "url": "https://excellenthomeremodeling.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Remodeling by Gordon Reese Design Build",
-    "url": "https://gordonreese.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Green Bay Remodeling, Inc. HQ",
-    "url": "https://www.greenbayremodeling.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Home By Tom",
-    "url": "https://homebytom.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Walnut Creek, CA"
-  ]
- },
- {
-  "id": "tower9remodeling.com",
-  "name": "Tower Nine Kitchen and Bath Remodeling",
-  "region": "R5",
-  "website": "https://www.tower9remodeling.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.tower9remodeling.com/"
-   ],
-   "contact": [
-    "https://www.tower9remodeling.com/contact"
-   ],
-   "about": [
-    "https://www.tower9remodeling.com/about-us"
-   ],
-   "gallery": [
-    "https://www.tower9remodeling.com/gallery-1",
-    "https://www.tower9remodeling.com/copy-of-gallery-2"
+    "https://iconiqconstruction.com/projects/"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y6qc41v3IARq76Cv_iipt4&hl=en",
-    "quote": "Sarah Allen: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJwdqfeXVvkFQRvgrs80HyA9Q&hl=en",
+    "quote": "Priyanshi Shah (8-B): 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-06",
+    "url": "https://iconiqconstruction.com/blog/bathroom-remodel-cost-seattle/",
+    "quote": "wp-json/posts published 2026-10-06T18:33:48: 'Bathroom Remodel Cost in Seattle: What Affects Your Budget?'"
    }
   ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y6qc41v3IARq76Cv_iipt4&hl=en",
-  "gbp_title": "Tower Nine Kitchen and Bath Remodeling",
-  "gbp_address": "\ue0c8\n1023 S Cleveland St, Oceanside, CA 92054, United States",
-  "gbp_rating": "5.0\n(11)",
-  "gbp_phone": "phone:tel:+17609177349",
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdqfeXVvkFQRvgrs80HyA9Q&hl=en",
+  "gbp_title": "ICONIQ CONSTRUCTION",
+  "gbp_address": "\ue0c8\n3326 160th Ave SE Ste 402, Bellevue, WA 98008, United States",
+  "gbp_rating": "5.0\n(18)",
+  "gbp_phone": "phone:tel:+14257775401",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Sarah Allen",
+    "reviewer": "Priyanshi Shah (8-B)",
     "when": "a month ago",
     "stars": "5 stars",
-    "text": "Dan at Tower Nine did an amazing job on our remodel. They redid our kitchen, painted the entire house, and replaced all the flooring. Everything came out great. \u2026",
-    "owner": "Response from the owner a month ago\nSarah\n\nThank you for trusting me with your project and I'm so pleased with how things \u2026 More"
+    "text": "Great company and great people! Communication was great from beginning to end. I was a little scared at first to trust a company with such a big amount of money, especially after having a bad experience with another contractor. But \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Melissa Cagle",
-    "when": "a year ago",
+    "reviewer": "Sergei Zabiakin",
+    "when": "2 months ago",
     "stars": "5 stars",
-    "text": "Dan at Tower 9 Kitchen & Bath was referred to us by a friend to help us with the remodel of our three bathrooms.  He and all of his team were very easy to work with and respectful of our home and family as we lived through the construction. \u2026",
-    "owner": "Response from the owner a year ago\nMelissa- Thank You so much for the review and for allowing me to come into your home and complete your project.  You guys were wonderful to work for and the completed project looks amazing.  I hope you enjoy your new spaces for years to come."
+    "text": "Iconiq Construction did an amazing job on our bathroom remodel! The quality of work was excellent, the team was professional, and the finished bathroom looks beautiful. We highly recommend them!",
+    "owner": null
    },
    {
-    "reviewer": "Pam Taylor",
-    "when": "2 years ago",
+    "reviewer": "Ann Wamuyu Kiama",
+    "when": "a month ago",
     "stars": "5 stars",
-    "text": "Tower 9 Kitchen and Bath Remodeling was amazing!  We\u2019ve wanted to remodel our Master Bath for years, but had a hard time finding a contractor that made us feel comfortable.  We were motivated to start the project again earlier this year and \u2026",
-    "owner": "Response from the owner 2 years ago\nPam\nI understand how difficult it can be to find a contractor you can trust and I very much appreciate you putting that trust in me for your project.  It was an \u2026 More"
+    "text": "We got estimates from a few different contractors before deciding to go with this company. They weren\u2019t the cheapest quote but we felt more comfortable with them. Glad we made that decision. Everything came out beautiful.",
+    "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "towernineremodeling@gmail.com",
+    "email": "iconiqconstruction@gmail.com",
     "how": "mailto",
-    "raw": "href=\"mailto:towernineremodeling@gmail.com",
-    "page": "https://www.tower9remodeling.com/"
+    "raw": "href=\"mailto:iconiqconstruction@gmail.com",
+    "page": "https://iconiqconstruction.com/"
    },
    {
-    "email": "info@mysite.com",
+    "email": "info@iconiqconstruction.com",
     "how": "mailto",
-    "raw": "href=\"mailto:info@mysite.com",
-    "page": "https://www.tower9remodeling.com/contact"
+    "raw": "href=\"mailto:info@iconiqconstruction.com",
+    "page": "https://iconiqconstruction.com/contact-us/"
    }
   ],
   "dm_snippets": [],
-  "facebook_links": [],
-  "instagram_links": [],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=100089794377222"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/iconiqconstruction"
+  ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 5,
-   "bath": 5,
+   "kitchen": 8,
+   "bath": 8,
+   "roof": 4,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 3,
+   "cabinet": 2,
+   "siding": 1,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 3
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://iconiqconstruction.com/wp-content/uploads/2026/06/custom-kitchen-remodeling-1536x912.png = 1,906,298 bytes; https://iconiqconstruction.com/wp-content/up"
+  ],
+  "competitor_pool": [
+   {
+    "name": "BLC Remodeling",
+    "url": "https://www.blcremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Eastside Kitchen & Bath",
+    "url": "https://eastsidekb.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Gold Remodeling",
+    "url": "https://goldremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Innate Design & Build",
+    "url": "https://www.innate-aec.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "New Day Construction Kitchen & Bathroom Showroom",
+    "url": "https://www.newdayconstruction.co/bellevue-kitchen-remodeling/",
+    "gbp_address": null
+   },
+   {
+    "name": "New Generation Builds",
+    "url": "https://www.newgenbuilds.com/",
+    "gbp_address": "\ue0c8\n10655 NE 4th St Ste 630, Bellevue, WA 98004, United States"
+   }
+  ],
+  "locations_seen": [
+   "Bellevue, WA"
+  ]
+ },
+ {
+  "id": "silveradoconstructionlv.com",
+  "name": "Silverado Construction LLC",
+  "region": "R5",
+  "website": "https://www.silveradoconstructionlv.com/",
+  "bench_vendor_route": true,
+  "incumbent_vendor": "Rogue Creative Studio",
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.silveradoconstructionlv.com/"
+   ],
+   "contact": [
+    "https://www.silveradoconstructionlv.com/contact"
+   ],
+   "about": [
+    "https://www.silveradoconstructionlv.com/about"
+   ],
+   "gallery": [
+    "https://www.silveradoconstructionlv.com/our-work"
+   ],
+   "legal": [
+    "https://www.silveradoconstructionlv.com/privacy",
+    "https://www.silveradoconstructionlv.com/privacy-policy",
+    "https://www.silveradoconstructionlv.com/terms"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dXjBEzRyIARt1VMishvLd0&hl=en",
+    "quote": "Teri Koehler: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dXjBEzRyIARt1VMishvLd0&hl=en",
+  "gbp_title": "Silverado Construction LLC",
+  "gbp_address": "\ue0c8\n7355 Commercial Way Ste 110, Henderson, NV 89011, United States",
+  "gbp_rating": "4.6\n(42)",
+  "gbp_phone": "phone:tel:+17024275611",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Kurt Koenig",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Great experience with Silverado Construction with the installation of a walk in shower. Their work was excellent and perhaps the thing that stood out the most on this project was their attention to detail and the fact that cleaned up the \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Kyra Pearce",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Silverado Construction is the absolute best company you will ever work with. They took amazing care of our home. We had them replace all three bathrooms in our house. They showed up on time worked hard and they were finished in a week! The \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Teri Koehler",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Just wanted to share that Silverado Construction completed another bathroom remodel for our family.  Service was excellent and the finished product completed on time and done to perfection.  Don't hesistant to hire Silverado Construction for your next project.",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/SilveradoConstructionLlc"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/silverado.construction.llc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 27,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
@@ -785,42 +940,336 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://static.wixstatic.com/media/a129d3a6a23445c78ed0949221964ed9.jpg = 2,052,995 bytes (HTTP Content-Length); https://static.wixstatic.com/media/68b82084ddfa"
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 451px, i.e. 76px wider than the screen; elements past the right edge: []"
   ],
   "competitor_pool": [
    {
-    "name": "AE Carlson Design & Build",
-    "url": "https://aecdesignandbuild.com/",
-    "gbp_address": "\ue0c8\n1902 Wright Pl Ste 200 #277, Carlsbad, CA 92008, United States"
-   },
-   {
-    "name": "dmb Builders Inc",
-    "url": "https://www.dmbbuildersinc.com/",
+    "name": "Acquired Designs Home Remodeling",
+    "url": "https://www.acquireddesigns.com/",
     "gbp_address": null
    },
    {
-    "name": "Forma Kitchen Design",
-    "url": "https://www.formakitchendesign.com/",
+    "name": "Antz Construction LLC",
+    "url": "https://antzconstruction1.com/",
     "gbp_address": null
    },
    {
-    "name": "Mastercraft Home Improvement",
-    "url": "https://mastercrafthi.com/",
+    "name": "DesignStyle USA",
+    "url": "https://www.dsusa-bath.com/",
     "gbp_address": null
    },
    {
-    "name": "NuFinishPro - San Luis Obispo",
-    "url": "https://nufinishpro.com/san-luis-obispo/",
+    "name": "Las Vegas Remodel & Construction",
+    "url": "https://www.lvremodel.com/",
     "gbp_address": null
    },
    {
-    "name": "TNT Design & Build",
-    "url": "https://tntdnb.com/",
+    "name": "Renuity Home Improvement of Grand Rapids",
+    "url": "https://renuityhome.com/michigan/grand-rapids-mi/",
+    "gbp_address": null
+   },
+   {
+    "name": "Vegas Custom Interiors",
+    "url": "https://vegascustominteriors.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Carlsbad, CA"
+   "Henderson, NV"
+  ]
+ },
+ {
+  "id": "uncharteddesignaz.com",
+  "name": "Uncharted Design LLC",
+  "region": "R5",
+  "website": "https://uncharteddesignaz.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://uncharteddesignaz.com/"
+   ],
+   "contact": [
+    "https://uncharteddesignaz.com/contact-us/"
+   ],
+   "about": [
+    "https://uncharteddesignaz.com/2026/01/13/cabinets-in-your-outdoor-space-style-meets-function/"
+   ],
+   "gallery": [
+    "https://uncharteddesignaz.com/portfolio/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-12",
+    "url": "https://uncharteddesignaz.com/2026/10/12/why-planning-storage-before-choosing-finishes-leads-to-a-better-kitchen/",
+    "quote": "wp-json/posts published 2026-10-12T06:47:27: 'Why Planning Storage Before Choosing Finishes Leads to a Better Kitchen'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJCaddDiKtJwERKrYlgn0f7RM&hl=en",
+  "gbp_title": "Uncharted Design LLC",
+  "gbp_address": "\ue0c8\n1870 W Prince Rd Ste 43, Tucson, AZ 85705, United States",
+  "gbp_rating": "5.0\n(33)",
+  "gbp_phone": "phone:tel:+15209816294",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Nikitha Lo Voi",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "If you're looking to do a kitchen remodel you can't do better than Uncharted Design. Matt not only designed a kitchen with creative details but was also meticulous about planning and scheduling. He was excellent at communicating when \u2026",
+    "owner": "Response from the owner 3 months ago\nOh my gosh! Thank you so much! It was a dream working on your kitchen remodel! Everything turned out beautifully! Can't wait to take photos! Tell Moose Man hello!\n"
+   },
+   {
+    "reviewer": "Dave Volk",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "We just had our new kitchen designed and installed by Uncharted Design in Tucson. It was an amazing and smooth experience from start to finish. My background is in commercial real estate, but I don't have contacts in residential remodeling. \u2026",
+    "owner": "Response from the owner 3 months ago\nHello Dave!\nThank you so much for selecting us! Your kitchen remodel turned out amazing and the layout is going to maximize the overall function of your kitchen! Thank you again for choosing us for you remodel!\n "
+   },
+   {
+    "reviewer": "Jaclyn Sork",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Matt created an absolutely gorgeous entertainment center of cabinets surrounding our living room TV. The quality far exceeded my expectations! Matt and his team are detail oriented and easy to work with. I highly recommend using Uncharted Design for your cabinetry project.",
+    "owner": "Response from the owner Edited 3 months ago\nThank you Jaclyn! We loved working on your cabinetry project and you were a wonderful customer!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "matt@uncharteddesignaz.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "264b475252665348454e47545243424243554f4148475c0845494b",
+    "page": "https://uncharteddesignaz.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://uncharteddesignaz.com/",
+    "snippet": "PRINCIPAL DESIGNER/OWNER"
+   },
+   {
+    "page": "https://uncharteddesignaz.com/",
+    "snippet": "As the owner and principal designer, Matt has the responsibility and the privilege of delivering breathtaking kitchens and baths to his clients"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/uncharteddesignaz/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/uncharteddesignaz"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 23,
+   "bath": 23,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 13,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://uncharteddesignaz.com/wp-content/uploads/2025/01/KirstenMatt_10.jpg = 1,022,808 bytes; https://uncharteddesignaz.com/wp-content/uploads/2026/07/6741c6eb"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Apex Windows & Bath Accessories",
+    "url": "https://www.apexwindowsandbath.com/location-tucson-az/",
+    "gbp_address": null
+   },
+   {
+    "name": "Jacuzzi Bath Remodel of Arizona",
+    "url": "https://www.azbaths.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bath Fitter Southern Arizona",
+    "url": "https://www.bathfittertucson.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Beloved Built LLC",
+    "url": "https://belovedbuiltaz.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Eren Design and Remodeling Co., Inc.",
+    "url": "https://www.erendesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Frei Remodel and Design",
+    "url": "https://frei-remodeling.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Tucson, AZ"
+  ]
+ },
+ {
+  "id": "unitedsignature.com",
+  "name": "United Signature Design and Build",
+  "region": "R5",
+  "website": "https://www.unitedsignature.com/locations/kirkland/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.unitedsignature.com/locations/kirkland/"
+   ],
+   "contact": [
+    "https://www.unitedsignature.com/contact/",
+    "https://www.unitedsignature.com/contact/"
+   ],
+   "about": [
+    "https://www.unitedsignature.com/team/"
+   ],
+   "gallery": [
+    "https://www.unitedsignature.com/projects/"
+   ],
+   "legal": [
+    "https://www.unitedsignature.com/privacy-policy/",
+    "https://www.unitedsignature.com/privacy-policy/",
+    "https://www.unitedsignature.com/terms-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-13",
+    "url": "https://www.unitedsignature.com/how-many-adus-per-lot-washington/",
+    "quote": "wp-json/posts published 2026-10-13T12:02:27: 'How Many ADUs Can You Build on One Lot in Washington?'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88tC-UlGymwRkatMVGT4cXs&hl=en",
+  "gbp_title": "United Signature Design and Build",
+  "gbp_address": "\ue0c8\n7321 128th Ave NE, Kirkland, WA 98033, United States",
+  "gbp_rating": "4.8\n(16)",
+  "gbp_phone": "phone:tel:+14255217916",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Scott Nicholson",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "I\u2019ve had a great experience working with United Signature on my bathroom remodel. From the beginning, their showroom really stood out\u2014it\u2019s well put together and made it easy to visualize different options. \u2026",
+    "owner": "Response from the owner 6 months ago\nThank you, Scott. We\u2019re glad our showroom, clear communication, organized planning, and in-house designer made your bathroom remodel enjoyable and straightforward. \u2026 More"
+   },
+   {
+    "reviewer": "James Luk",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Amazing service!\nWe\u2019re so happy that our project is now complete \u2014 everything looks high-quality and stylish. We\u2019re even planning to have them do work for our parents as well. Thank you so much! We definitely recommend them!",
+    "owner": "Response from the owner 6 months ago\nThank you so much for your kind words, James! We\u2019re thrilled to hear the project looks high-quality and stylish and that you\u2019re happy with our service. We truly appreciate the recommendation and look forward to helping your parents when they\u2019re ready. If you need anything else, please don\u2019t hesitate to reach out."
+   },
+   {
+    "reviewer": "Adam",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "United signature\u2019a team is amazing! All work is done professionally and stay in touch with clients for any problems. And the designs they give out is insane! Id recommend.",
+    "owner": "Response from the owner 2 years ago\nThank you, Adam, for your fantastic review! We're glad to hear that you found our team professional and responsive, and that you love our designs. Your recommendation means a lot to us, and we appreciate your support!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "office@unitedsignature.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:office@unitedsignature.com",
+    "page": "https://www.unitedsignature.com/locations/kirkland/"
+   },
+   {
+    "email": "marketing@unitedsignature.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:marketing@unitedsignature.com",
+    "page": "https://www.unitedsignature.com/privacy-policy/"
+   },
+   {
+    "email": "hello@unitedsignature.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:hello@unitedsignature.com",
+    "page": "https://www.unitedsignature.com/terms-conditions/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.unitedsignature.com/team/",
+    "snippet": "General Manager"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/theunitedsignature/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/unitedsignature"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 12,
+   "bath": 10,
+   "roof": 2,
+   "plumb": 5,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 8
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://www.unitedsignature.com/wp-content/uploads/2026/06/bc127304-8db7-412e-bf3a-7748525c883e.png = 2,132,511 bytes (HTTP Content-Length); https://www.uniteds"
+  ],
+  "competitor_pool": [
+   {
+    "name": "AAA HOME & REMODEL",
+    "url": "https://aaahomeandremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Eastside Kitchen & Bath",
+    "url": "https://eastsidekb.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elevated Renovations inc",
+    "url": "https://www.elevatedrenovationsinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Fine Element Construction - Kitchen and Bathroom remodeler | renovation",
+    "url": "https://fineelm.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Gold Remodeling",
+    "url": "https://goldremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "IRC Kitchen & Bath",
+    "url": "https://irckb.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Kirkland, WA"
   ]
  }
 ]

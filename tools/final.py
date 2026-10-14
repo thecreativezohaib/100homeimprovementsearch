@@ -211,6 +211,18 @@ def main():
             for x in lst:
                 w.writerow(x)
     wcsv(f"{O}/prospects100.csv", rows, ["rank", "score_total", "prospect_id", "business_name"])
+    tmpl = {x["id"]: x for x in jl(f"{D}/template/*.jsonl")}
+    p30 = []
+    for r in rows[:30]:
+        t = tmpl.get(r["prospect_id"], {})
+        p30.append({"rank": r["rank"], "score_total": r["score_total"], "prospect_id": r["prospect_id"],
+                    "business_name": r["business_name"], "region": r["region"], "website": r["final_url"],
+                    "decision_maker": f"{r['decision_maker']} ({r['decision_maker_role']})", "email": r["email"],
+                    "trigger_event": r.get("score_trigger_evidence"), "g8_defect": f"{r['G8_defect']}: {r['G8_measurement']}",
+                    **{k: (j(t.get(k)) if t else "NOT YET CAPTURED") for k in
+                       ("hero_headline_source", "services_3", "gallery_urls_8", "before_after_pairs", "reviews_3",
+                        "service_area", "phone", "cta_wording", "years_in_business", "licences_awards", "outreach_angle")}})
+    wcsv(f"{O}/priority30.csv", p30)
     wcsv(f"{O}/rejected.csv", rejected)
     wcsv(f"{O}/contact-only.csv", contact_only)
     wcsv(f"{O}/bench-vendor.csv", bench)
