@@ -219,3 +219,114 @@ If you want or need to use an HTML parser on this document, you can make this wa
 1700 French's Cabinet Gallery PASS
 1725 Garcia home improvement llc PASS
 1750 Gentry Custom Remodel PASS
+/home/user/100homeimprovementsearch/tools/sitecheck.py:396: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(raw, "lxml")
+/home/user/100homeimprovementsearch/tools/sitecheck.py:502: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  sp = soup if u == final else BeautifulSoup(t, "lxml")
+1775 Gig Harbor Remodels PASS
+1800 Goedecke Paint, Flooring & Design Center PASS
+1825 Good Works R&C PASS
+1850 Great Seneca Remodeling Company PASS
+1875 Gurzi Builders Inc. - Grass Valley RETRY_BROWSER
+1900 Handyman Home Repair | Bathroom & Deck remodeling PASS
+1925 Hartford Cabinet Renewal PASS
+1950 Heartland Design & Remodeling PASS
+1975 Heritage Remodelers & Builders PASS
+2000 Hill Custom Homes PASS
+2025 Holmes Kitchen & Bath PASS
+2050 Homefix Lawrence LLC PASS
+2075 Home Renovation Remodeling PASS
+2100 HomeSquare Pro Fairfield County PASS
+2125 Household Solutions RETRY_BROWSER
+2150 Hutch Homes PASS
+2175 ImproveRite Home Remodeling PASS
+2200 Integrity Remodeling Inc. PASS
+2225 Ithaco Builders, LLC PASS
+2250 JB Remodeling & Construction RETRY_BROWSER
+2275 Jersey's Remodeling RETRY_BROWSER
+2300 JLA REMODELING RETRY_BROWSER
+2325 JOE BUILDER | Remodeling | New Construction PASS
+2350 J. Schwartz, LLC Remodeling & Fine Homebuilding PASS
+2375 J. White Handyman Design & Construction PASS
+2400 Lane Remodeling and Construction PASS
+2425 -KD construction RETRY_BROWSER
+2450 Kevin Montondo General Construction PASS
+2475 Kipchakoff Remodeling Group PASS
+2500 Kitchen Design By Idan PASS
+2525 The Next American Kitchen Remodeling Solutions. RETRY_BROWSER
+2550 Kitchen Thyme Design Studio, Inc. - (Kitchen Remodelers) PASS
+2575 Krawczyk Construction, LLC PASS
+2600 Lake Orion Renovation RETRY_BROWSER
+2625 LAOR Home Remodeling Services RETRY_BROWSER
+2650 Legacy Contracting & Construction LLC PASS
+2675 Level Up Renovations PASS
+2700 Lititz Home Restoration PASS
+2725 Lovejoy Build PASS
+2750 Lake View Contracting RETRY_BROWSER
+2775 Maize Restoration & Remodeling PASS
+2800 Marblehead Design Group Kitchen and Bath PASS
+2825 Master Remodel & Construction PASS
+2850 Mbianco Remodeling PASS
+2875 MEF Contracting, Inc. PASS
+2900 McCormick Home Improvement PASS
+2925 Mimosa Kitchen And Bath PASS
+2950 MM&I Remodeling PASS
+2975 Monarca Construction & Remodeling LLC PASS
+3000 Mountainwood Homes PASS
+3025 Muirhead Home Restorations RETRY_BROWSER
+3050 Superior Custom Homes and Remodeling PASS
+3075 Nestadu PASS
+3100 Next Kitchen And Bath PASS
+3125 R&L Contractors LLC PASS
+3150 Northside Construction, LLC PASS
+3175 NW Residential Inc. PASS
+3200 Orange Home Builders PASS
+3225 OneCall Home Services PASS
+3250 Original Design Builders PASS
+3275 The Beatles Kitchen & Bath PASS
+3300 Patriot Bath Remodeling PASS
+3325 Peak View Bath Co RETRY_BROWSER
+3350 PGS Remodeling PASS
+3375 Piperfine Carpentry PASS
+3400 Porter & Cress Builders PASS
+3425 Preferred Renovations - Colorado Springs LLC PASS
+3450 Prime Baths and Home Solutions of Indiana RETRY_BROWSER
+3475 Pro Pacific Construction Inc. PASS
+3500 Quality First Construction LLC PASS
+3525 Radigan Remodeling & Design PASS
+3550 Roberts Construction Company PASS
+3575 Refaceful PASS
+3600 Remodel and Renovate PASS
+3625 Oregon Builders & Restoration PASS
+3650 GJK Remodeling, LLC PASS
+3675 Value Renovation PASS
+3700 Reunited Home Improvements PASS
+3725 Rich Design & Build, LLC PASS
+3750 River City Construction Inc PASS
+3775 Robinley Remodeling PASS
+3800 Rooster Remodels Gig Harbor PASS
+3825 Roanoke River Cabinetry PASS
+3850 RYCON Services LLC RETRY_BROWSER
+3875 Raymond Arias Construction PASS
+3900 SC Contracting Services PASS
+3925 Seaside Home Solutions PASS

@@ -241,6 +241,19 @@ def main():
                 bad.append((r["business_name"], k, BANNED.search(v).group(0)))
     print(json.dumps(dict(funnel), indent=1))
     print("banned-word hits in factual fields:", bad[:20])
+    longq = []
+    for r in rows:
+        for k, v in r.items():
+            if "quote" in k.lower() and isinstance(v, str) and len(v.split()) > 20:
+                longq.append((r["business_name"], k, len(v.split())))
+            if k.endswith("_evidence") and isinstance(v, str) and v.startswith("{"):
+                try:
+                    q = json.loads(v).get("quote")
+                    if q and len(q.split()) > 20:
+                        longq.append((r["business_name"], k, len(q.split())))
+                except Exception:
+                    pass
+    print("quotes over 20 words:", longq)
 
 
 if __name__ == "__main__":

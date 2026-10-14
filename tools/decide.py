@@ -41,7 +41,7 @@ def jl(path):
 
 def load():
     ledger = {x["id"]: x for x in jl(f"{D}/ledger.jsonl")}
-    site = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl")}
+    site = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl") + jl(f"{D}/site_c.jsonl")}
     for x in jl(f"{D}/site_render.jsonl"):
         orig = site.get(x["id"], {})
         if x.get("g2") == "PASS":
@@ -65,6 +65,9 @@ def load():
     for x in jl(f"{D}/manual/*.jsonl"):
         manual.setdefault(x["id"], {}).update(x)
     pre = {x["id"]: x for x in jl(f"{D}/pregate_rejects.jsonl")}
+    for x in jl(f"{D}/remeasure.jsonl"):
+        if x["id"] in site:
+            site[x["id"]]["remeasure"] = x
     for x in jl(f"{D}/g7verify.jsonl"):
         if x["id"] in site:
             site[x["id"]]["g7verify"] = x
@@ -397,6 +400,18 @@ def g8(c, s, b, p):
         bad_mail = [t for t in s.get("mailto_links") or [] if "@" not in t]
         if bad_tel or bad_mail:
             found.append(("dead phone or email link", f"tel: hrefs {bad_tel} mailto: hrefs {bad_mail}", s["final_url"], s["fetch_date"]))
+    rm = (s or {}).get("remeasure")
+    if rm and rm["over_1mb_browser"] < 2 and rm["over_1mb_curl"] < 2:
+        found = [f for f in found if not f[0].startswith("gallery images")]
+        note = (f"1MB-image defect did not reproduce on re-measurement ({rm['measured_on']}, full download, browser and curl "
+                f"Accept headers): " + "; ".join(f"{i['url'][-50:]} = {i.get('browser_accept')}/{i.get('curl_accept')} bytes" for i in rm["images"]))
+        if not found:
+            return "FAIL", {"g8": note, "g8_psi": psi_rec}
+    elif rm:
+        found = [(f[0], f[1] + f" | re-measured {rm['measured_on']} (full download): " + "; ".join(
+            f"{i['url'][-60:]} = {i.get('browser_accept'):,} bytes (browser Accept) / {i.get('curl_accept'):,} bytes (curl)"
+            for i in rm["images"] if isinstance(i.get('browser_accept'), int) and isinstance(i.get('curl_accept'), int)), f[2], f[3])
+                 if f[0].startswith("gallery images") else f for f in found]
     if not p or not b:
         if found:
             return "PASS", {"g8_defects": found, "g8_psi": psi_rec}

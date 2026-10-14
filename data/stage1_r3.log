@@ -4,3 +4,9 @@ raw rows 17718 -> unique 8433; with website 7508; multi-region 61
 + python3 prep.py
 7187 queued; 1246 pre-gate rejects
 + python3 sitecheck.py ../data/site_queue.jsonl ../data/site.jsonl 24
+Terminated
++ python3 dns.py
++ python3 queues.py render
+render queue 910
++ RENDER=1
++ python3 sitecheck.py ../data/render_queue.jsonl ../data/site_render.jsonl 8

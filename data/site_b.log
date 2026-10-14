@@ -16,3 +16,201 @@
 350 Triple Y Inc PASS
 /usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (90720000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
   warnings.warn(
+375 Tradition Outdoor Living PASS
+400 Top Notch Carpentry, LLC PASS
+425 Titan Construction PASS
+450 Trusted Home Remodel and Handyman Services LLC PASS
+475 The Renovation Couple, dba PASS
+500 Heritage Builders PASS
+525 The ATX Builder PASS
+550 Ted of All Trades, LLC PASS
+575 Tailor Made Kitchens & Baths PASS
+600 Supreme Pro Home Improvements PASS
+625 Suncoast Construction & Remodeling RETRY_BROWSER
+650 Streamline Remodeling and Home Improvement PASS
+675 CUSTOM SURFACES LLC RETRY_BROWSER
+700 Stearns Design Build PASS
+725 Brighton Bathroom & Kitchen RETRY_BROWSER
+750 Southpoint Kitchen and Bath PASS
+775 Sombra Homes PASS
+800 Slaughter Contracting, LLC PASS
+825 Silverado Bath And Remodel LLC PASS
+850 Showplace Design Center | Denver Cabinetry Design PASS
+875 Shanahan Building and Remodeling PASS
+900 All Seasons Lodge RETRY_BROWSER
+925 Schmitz Home Remodel RETRY_BROWSER
+950 Sarokey Kitchen & Bath PASS
+975 SAC Remodeling PASS
+1000 RR Home Remodeling Services LLC PASS
+1025 Rose General Contracting Inc. PASS
+1050 Vella Bath & Kitchen Inc PASS
+1075 Rivers Edge Remodeling LLC. PASS
+1100 Rick Robben Construction PASS
+1125 Revival Construction, LLC PASS
+1150 Renovations by Jason LLC RETRY_BROWSER
+1175 Renata Renovations LLC PASS
+1200 V.A. and Sons Construction RETRY_BROWSER
+1225 Edvin Painting & Remodeling PASS
+1250 Refine Kitchens Baths & Floors PASS
+1275 RD Contracting PASS
+1300 Rainier Construction PASS
+1325 Quality Home Improvement PASS
+1350 Pro Renovations Savannah PASS
+1375 Priority Construction Services RETRY_BROWSER
+1400 Premier Kitchens Inc PASS
+1425 Powell Construction PASS
+1450 PJ Fitzpatrick PASS
+1475 Phoenix Home Builders Corp PASS
+1500 Pellak Construction - Design · Build · Remodel PASS
+1525 Paul Davis Restoration of Idaho - Idaho Falls Office PASS
+1550 P & A Construction PASS
+1575 Ortiz kitchen & bath RETRY_BROWSER
+1600 One More Thing Done PASS
+1625 Ohio Pro Group PASS
+1650 Northwest Total Home PASS
+1675 Molinas Home Improvement PASS
+1700 Noah & Lilly Kitchen Design PASS
+1725 Next Luxury Remodel PASS
+1750 Net Kitchen Bath PASS
+1775 BBI CONSTRUCTION PASS
+1800 Munoz Woodworks Inc PASS
+1825 MPG Companies PASS
+1850 Monster Remodeling RETRY_BROWSER
+1875 Mockingbird Construction PASS
+1900 Miracle Contracting Inc. PASS
+1925 Michael Robert Construction PASS
+1950 Melissa Ewen Design PASS
+1975 MC Home Improvement & Construction PASS
+2000 Master Kitchen Remodel RETRY_BROWSER
+2025 Mario and Sons Construction Group LLC PASS
+2050 Maka Homes, Inc PASS
+2075 M.R. Renovations LLC PASS
+2100 Luigi Building & Remodeling LLC PASS
+/home/user/100homeimprovementsearch/tools/sitecheck.py:396: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(raw, "lxml")
+/home/user/100homeimprovementsearch/tools/sitecheck.py:502: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  sp = soup if u == final else BeautifulSoup(t, "lxml")
+2204 to check
+0 1040 Remodeling PASS
+25 Above & Beyond Kitchens & Bath LLC PASS
+50 A&E Custom Carpentry & Design PASS
+75 Allen's Fine Woodworking Incorporated PASS
+100 A Matter of Style PASS
+125 Ascend Home Renovation PASS
+150 Avondale Kitchen and Bathroom Remodeling PASS
+175 RevoNest Basement Finishing RETRY_BROWSER
+200 B&B Associates Creations PASS
+225 Bentley Waters Designs PASS
+250 BIT Construction PASS
+275 BM Construction Services LLC RETRY_BROWSER
+300 Bronxville Wallpaper Hanger PASS
+325 Built By Babb PASS
+350 Cabinet Cures PASS
+375 Capital Interiors & Design PASS
+400 CD Improvements LLC PASS
+425 City & Suburban Construction Group Inc PASS
+450 Cole Builders - Custom Homes & Commercial PASS
+475 Corbella Kitchen & Bath PASS
+500 Cross Kitchens KC PASS
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (134983750 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+525 Daniel Allen Construction PASS
+550 Den Herder Homes and Renovations PASS
+575 Diamond Bath PASS
+600 Double H Renovations LLC PASS
+625 Durango Remodeling, LLC PASS
+650 Ed’s Renovation LLC – Handyman & Home Remodeling PASS
+675 Enjoy Homes Inc PASS
+700 EZ Restore House Remodeling and Repair PASS
+725 Firm Renovations RETRY_BROWSER
+750 frayre construction LLC FAIL
+775 Sousa General Construction RETRY_BROWSER
+800 GoodLife Home Renovations PASS
+825 Gregory's Construction LLC PASS
+850 HammeringOutsideTheBox FAIL
+875 Hays Construction and Remodeling PASS
+900 Hexem Construction PASS
+925 Michael Homchick Stoneworks PASS
+950 Home Repair Pro FAIL
+975 House 2 Home Construction and Remodeling PASS
+1000 Island Kitchen & Bath PASS
+1025 Ironwood Construction Company PASS
+1050 JD's Turn Keys PASS
+1075 Superior Home Solutions RETRY_BROWSER
+1100 Kashas Design Build Inc PASS
+1125 Kingwood Fine Cabinetry PASS
+1150 Kitchen Kraftsman - Remodeling, Cabinets, Flooring PASS
+1175 KO Home Renovations LLC PASS
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (101756928 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (98596134 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+1200 Lawcorp Carpentry PASS
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (170280000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+1225 Levis Companies, Inc. PASS
+1250 Lone Star Renovation & Design INC RETRY_BROWSER
+1275 M&R Home Remodeling PASS
+1300 Matrix Construction PASS
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (145555590 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+1325 Meridian Construction PASS
+1350 MILLWOOD CABINETS PASS
+1375 Molitor Design+Build PASS
+1400 Mudosi Kitchen and Bath - Oakland PASS
+1425 Nation Builders LLC PASS
+1450 North Georgia Remodeling and Renovation PASS
+1475 Nucleus Interiors PASS
+1500 Olney Remodeling & Houses Service PASS
+1525 PAIR Construction PASS
+1550 Performance Renovations PASS
+1575 Practical Home Improvements LLC RETRY_BROWSER
+1600 Profile Cabinet and Design RETRY_BROWSER
+1625 Quad Construction, Inc PASS
+1650 Reborn Construction LLC PASS
+1675 Marquard Home Improvement & Remodeling PASS
+1700 R.E Moon Services PASS
+1725 Revive Remodeling and Design PASS
+1750 Renovation Masters and Shower Doors PASS
+1775 Rosley Homes PASS
+1800 Safe Haven Home Services PASS
+1825 Serrano GC LLC PASS
+1850 Simply Home Renovations PASS
+1875 Souled Home Design PASS
+1900 Stark Level Solutions PASS
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (149817600 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+1925 Summa Construction Services LLC. PASS
+1950 T & M Contracting and Construction Services, LLC RETRY_BROWSER
+1975 The Cabinet Store + Culina Design PASS
+2000 Tile Crafters PASS
+2025 Top Drawer Construction PASS
+2050 Trinity Design/Build PASS
+2075 Texas Home Makeovers LLC RETRY_BROWSER
+2100 Varanelli Construction, LLC PASS
+2125 VSA Infinity Corporation PASS
+2150 West Side Remodel & Construction LLC PASS
+2175 Jacuzzi Bath Remodel of Lubbock PASS
+2200 Zeringue's PASS

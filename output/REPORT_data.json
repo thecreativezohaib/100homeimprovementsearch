@@ -1,0 +1,850 @@
+{
+ "funnel": {
+  "discovered": 8433,
+  "screened": 7182,
+  "reject_G4": 2038,
+  "reject_G2": 4173,
+  "reject_G3": 1392,
+  "reject_NICHE": 759,
+  "reject_G5": 52,
+  "passed": 8,
+  "duplicate_merged": 5,
+  "reject_G6": 3,
+  "bench_vendor": 1,
+  "contact_only": 2,
+  "rejected_total": 8417
+ },
+ "rejections_per_gate": {
+  "G2": 4173,
+  "G4": 2038,
+  "G3": 1392,
+  "NICHE": 759,
+  "G5": 52,
+  "G6": 3
+ },
+ "passed": 8,
+ "top10": [
+  {
+   "rank": "1",
+   "score_total": "13",
+   "business_name": "Ann Arbor Remodeling",
+   "region": "R3",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "gallery images over 1MB each"
+  },
+  {
+   "rank": "2",
+   "score_total": "12",
+   "business_name": "Boss Design Center Bath and Kitchen Remodeling",
+   "region": "R2",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "gallery images over 1MB each"
+  },
+  {
+   "rank": "3",
+   "score_total": "12",
+   "business_name": "Semper Fi Custom Remodeling of Asheville",
+   "region": "R2",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "gallery images over 1MB each"
+  },
+  {
+   "rank": "4",
+   "score_total": "9",
+   "business_name": "ARIID Build & Remodel",
+   "region": "R5",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "horizontal overflow at 375px"
+  },
+  {
+   "rank": "5",
+   "score_total": "8",
+   "business_name": "JBJ Building & Remodeling Inc",
+   "region": "R3",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "horizontal overflow at 375px"
+  },
+  {
+   "rank": "6",
+   "score_total": "8",
+   "business_name": "Premier Design-Build-Remodel",
+   "region": "R5",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "gallery images over 1MB each"
+  },
+  {
+   "rank": "7",
+   "score_total": "8",
+   "business_name": "The Bath Remodeling Center",
+   "region": "R2",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "horizontal overflow at 375px"
+  },
+  {
+   "rank": "8",
+   "score_total": "5",
+   "business_name": "Creative Cabinets and Fine Finishes, LLC",
+   "region": "R2",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "horizontal overflow at 375px"
+  }
+ ],
+ "defects": {
+  "gallery images over 1MB each": 4,
+  "horizontal overflow at 375px": 4
+ },
+ "trigger_summary": {
+  "NONE FOUND": 8
+ },
+ "g9_signals": {
+  "Meta Pixel fbevents.js": 4,
+  "Google Ads conversion tag (AW-)": 2,
+  "Buildertrend": 1,
+  "CallRail": 1
+ },
+ "temptations": [
+  {
+   "id": "agdconstructionservicellc.com",
+   "text": "Did not treat the kitchen and bathroom Google reviews as proof that kitchens and baths are the primary advertised work; the site's own headline and service list are general contracting."
+  },
+  {
+   "id": "agdconstructionservicellc.com",
+   "text": "The About page states 'Founded and led by Jose Rivas', but G6 was not reached, so no decision_maker was recorded."
+  },
+  {
+   "id": "formlimited.com",
+   "text": "WebSearch summary cited 'info@formlimited.com', but the string is not on any formlimited.com page fetched (home, contact-us, faqs, kitchen); not recorded."
+  },
+  {
+   "id": "formlimited.com",
+   "text": "Home page states 'established in 1987 by partners John Leontiou and John Waters'; G6 not reached, so not recorded as decision_maker."
+  },
+  {
+   "id": "formlimited.com",
+   "text": "Franklin Report states kitchen price range $125k-$200k; the page is undated and G6/scoring were not reached; not used."
+  },
+  {
+   "id": "geretyrestoration.com",
+   "text": "Did not accept the Google Business Profile title 'Kitchen Remodeling by Gerety Building' or the /kitchen-remodel/ landing page as proof that kitchens are primary work; the main home page and services page advertise a 21-item full-scope list led by design-build and historic restoration."
+  },
+  {
+   "id": "imagineremodel.com",
+   "text": "Did not record a surname for owner 'Eric' or co-owner 'Mike'; the site gives first names only, and no surname was taken from the licence/registry entity name (MBEO HOLDINGS LLC) or the unrelated licensee 'GILBERT O MBEO' in Hamden."
+  },
+  {
+   "id": "imagineremodel.com",
+   "text": "Did not treat the 2023-11-02 licence issue / 2023-10-10 LLC registration vs 'Founded in 2003' as an ownership change; nothing states one, and it falls outside the trigger window anyway."
+  },
+  {
+   "id": "imagineremodel.com",
+   "text": "Did not count info@imagineremodel.com as email_confirm: the string appears only in a form action attribute and the state registry, not as mailto/visible text/entity/cfemail on their site."
+  },
+  {
+   "id": "imagineremodel.com",
+   "text": "Did not count the 'Expires 09/30/2026' offer banner as site_dated_content (it is a promotion, not a project/blog/gallery addition)."
+  },
+  {
+   "id": "kitchenvisions.com",
+   "text": "Did not treat the 'Kitchen Remodeling' and 'Bathroom Remodeling' service-page titles as proof the firm performs installation; the page text states construction is delivered by introduced partner contractors."
+  },
+  {
+   "id": "kitchenvisions.com",
+   "text": "jodi@kitchenvisions.com and the 'Jodi Swartz' quote are on the site, but G6 was not reached and no role is stated next to the name on the pages read; not recorded as decision_maker."
+  },
+  {
+   "id": "blackdogbuilders.com",
+   "text": "Did not treat Brenda (founder per about page) as a current decision maker: the team page lists 'Brenda Blake, Human Resources Manager' and no page states a current owner role for Brenda; only Dave Bryan's 'President & CEO' role is recorded."
+  },
+  {
+   "id": "blackdogbuilders.com",
+   "text": "Did not treat Gates Bryan (Design Consultant) as a decision maker or relative of the owner based on surname."
+  },
+  {
+   "id": "blackdogbuilders.com",
+   "text": "Did not link an unnamed BizQuest 'design-build remodeling business for sale' listing to Blackdog; nothing names the company."
+  },
+  {
+   "id": "blackdogbuilders.com",
+   "text": "Did not treat the hubfs folder name 'BlackDogBuilders_October2025' as a dated site redesign/trigger; it is a file path, and Oct 2025 is before the trigger window anyway."
+  },
+  {
+   "id": "blackdogbuilders.com",
+   "text": "Did not count the careers page's 'Always Accepting Carpenters' as a live dated job posting; it carries no date."
+  },
+  {
+   "id": "greaterhomessolutionsllc.com",
+   "text": "Did not treat the kitchen and bathroom '-lp' landing pages as proof that kitchen/bath is the primary advertised work; the H1, title tag ('General Contractor in Greenwich CT') and 15-service list position it as a general contractor."
+  },
+  {
+   "id": "greaterhomessolutionsllc.com",
+   "text": "FAQ page states 'David Cadavid is the owner and operator of Greater Homes Solutions LLC' and the footer shows greaterhomessolutions@gmail.com; G6 was not reached, so neither was recorded."
+  },
+  {
+   "id": "greaterhomessolutionsllc.com",
+   "text": "Did not treat the site's Facebook link (facebook.com/josemunoz07, a personal-profile URL) as a company account or link it to any role."
+  },
+  {
+   "id": "plumberry.net",
+   "text": "About page states 'Heading the firm is Richard R. Barr, NJCID'; G6 was not reached, so no decision_maker was recorded ('heading the firm' would also need checking against the owner/president wording rule)."
+  },
+  {
+   "id": "plumberry.net",
+   "text": "The contact address is rendered by Joomla's JavaScript email cloak as entity-encoded fragments ('&#105;' + ... + '&#64;' + 'pl&#117;mb&#101;rry' ...); the full address string does not appear on the page, so no email was assembled or recorded."
+  },
+  {
+   "id": "plumberry.net",
+   "text": "Did not date the 'WE'VE MOVED' relocation from the image file's Last-Modified header as a trigger; the page itself carries no date."
+  },
+  {
+   "id": "plumberry.net",
+   "text": "Did not treat the GC-written Google review ('As a GC, we partnered with Richard of Plumberry Designs') as proof that Plumberry performs construction."
+  },
+  {
+   "id": "windledc.com",
+   "text": "Did not treat the high count of bathroom blog posts as the firm's primary advertised work; blog topics are SEO content and the meta description and service menu lead with custom homes and additions."
+  },
+  {
+   "id": "windledc.com",
+   "text": "Footer shows 'info@windledc.com' and address '450 W. Gay St, West Chester' (GBP shows 331 W Miner St); G6 was not reached, so neither email nor address discrepancy was assessed as a relocation trigger."
+  },
+  {
+   "id": "windledc.com",
+   "text": "Did not read the team page for owner roles because G6 was not reached; no decision maker recorded."
+  },
+  {
+   "id": "abbiejoan.com",
+   "text": "DBPR expiry 08/31/2028 implies a 2026 renewal cycle, but no renewal date is shown, so licence_renewal was not counted."
+  },
+  {
+   "id": "abbiejoan.com",
+   "text": "Blog posts in July 2026 may be vendor-produced (PMC Media Group) content; not used as evidence either way."
+  },
+  {
+   "id": "bossdesigncenter.com",
+   "text": "The email local part 'talha' was not treated as belonging to Taha A. Gursoy; no page states that this address is his."
+  },
+  {
+   "id": "bossdesigncenter.com",
+   "text": "Bethesda showroom opening date not stated anywhere fetched; not counted as a 2026 new-showroom trigger."
+  },
+  {
+   "id": "bossdesigncenter.com",
+   "text": "Showrooms page published 2026-10-05 is a new page, not evidence of a new showroom."
+  },
+  {
+   "id": "ccfauxfinishes.com",
+   "text": "NKBA Thirty Under 30 profile states Evan Hill became President & Owner in September 2024; outside the trigger window, so not recorded as a trigger."
+  },
+  {
+   "id": "ccfauxfinishes.com",
+   "text": "Careers page is an always-open general application form ('Candidates can submit resumes ... at anytime'), not a dated open posting; not counted as job_posting_live."
+  },
+  {
+   "id": "collinskb.com",
+   "text": "John Freeman review shows 'Edited 2 months ago' with an owner response '2 months ago'; the original review date is not shown, so it was not counted as a google_review in window."
+  },
+  {
+   "id": "collinskb.com",
+   "text": "BuildZoom states 'Owned by: Matthew Collins', but this is a third-party page, not one the company controls; not used for a decision maker (stopped before G6 anyway)."
+  },
+  {
+   "id": "homexc.com",
+   "text": "The auto site_dated_content signal (casino post 2026-10-14) was rejected because it is injected spam, not contractor activity."
+  },
+  {
+   "id": "homexc.com",
+   "text": "Chris review '3 months ago' could fall before 2026-07-16; not counted."
+  },
+  {
+   "id": "homexc.com",
+   "text": "Owner responses dated '2 months ago' are replies, not reviews; not counted as google_review."
+  },
+  {
+   "id": "kitchen-envy.com",
+   "text": "BuildZoom permit dated 2026-07-08 is eight days before the G4 window; not counted."
+  },
+  {
+   "id": "kitchen-envy.com",
+   "text": "The DBPR qualifier Jennifer Mary Ginther was not linked to 'Natalie Beach' (founder named on the site); no page states they are the same person."
+  },
+  {
+   "id": "renovations-plus.com",
+   "text": "The site lists 'Kitchen Remodeling' and 'Bathroom Remodeling' first in the menu; menu order was not taken as evidence that they are the primary advertised work."
+  },
+  {
+   "id": "smartbudgetremodeling.com",
+   "text": "kathy robinson review '3 months ago' could fall before 2026-07-16; not counted."
+  },
+  {
+   "id": "smartbudgetremodeling.com",
+   "text": "No DBPR record under the business name does not establish that no one at the firm is licensed; not used as evidence for or against the firm."
+  },
+  {
+   "id": "aaronandcobuilders.com",
+   "text": "The H1 mentions 'Kitchen Remodels & Bathroom Renovations', but the site's own specialty statement and title lead with custom homes; kitchen/bath was not treated as primary work."
+  },
+  {
+   "id": "bocahomerenovation.com",
+   "text": "The CGC022748 licence belongs to Gruenthal Construction per the footer; its renewal or permits were not treated as MGM Development signals."
+  },
+  {
+   "id": "bocahomerenovation.com",
+   "text": "'In Association With Gruenthal Construction' was not treated as a corporate parent; G5 was not run."
+  },
+  {
+   "id": "bocahomerenovation.com",
+   "text": "Bulk-published posts on 2026-10-09 may be vendor-generated; not used to reject the signal, since they are on-topic blog posts on the company's own site."
+  },
+  {
+   "id": "dreamhomecary.com",
+   "text": "No owner or principal is named on any site page (home, about-us, contact, getting-started, location, review, products, policies); decision_maker left null rather than drawn from registries."
+  },
+  {
+   "id": "dreamhomecary.com",
+   "text": "Permit project costs ($37k-$86k) are public-record values, not a published average project value; not used as the high_ticket evidence."
+  },
+  {
+   "id": "dreamhomecary.com",
+   "text": "Lorem-ipsum text on /policies-artesia is a defect, not a privacy policy; no email or name taken from it."
+  },
+  {
+   "id": "heimerremodeling.com",
+   "text": "Kitchen Remodeling and Bathroom Remodeling are the first two listed services, but the title tag and hero position the firm as a house-flipping/turnkey investor contractor; not treated as kitchen/bath primary."
+  },
+  {
+   "id": "imperiumhomes.com",
+   "text": "A Jupiter carpenter posting on jobs.6amcity.com from 'A Jupiter Construction Company' is unnamed; not attributed to Imperium."
+  },
+  {
+   "id": "imperiumhomes.com",
+   "text": "thebuildermarket.com lists an 'Imperium Construction'; not treated as the same company."
+  },
+  {
+   "id": "littleriverdevelopment.com",
+   "text": "'Kitchen & Bathroom Remodels' is the first homepage service tile, but the site describes the firm as a general contractor and lists roofing first in the menu; kitchen/bath not treated as primary work."
+  },
+  {
+   "id": "sevenkitchenbath.com",
+   "text": "Permits filed under a different licensed GC name for Seven's jobs could exist, but no permit record ties to Seven Kitchen & Bath; none counted."
+  },
+  {
+   "id": "sfcustomremodeling.com",
+   "text": "Careers page dateModified 2026-08-07 is a page edit date, not a job posting date; not counted as a job_posting signal."
+  },
+  {
+   "id": "sfcustomremodeling.com",
+   "text": "Greenville SC office is documented by the Greenville Chamber in October 2025, before the trigger window; not counted as a new-location trigger."
+  },
+  {
+   "id": "sfcustomremodeling.com",
+   "text": "NCHBA STARS awards (2026-10-09) are recognition, not a listed trigger type."
+  },
+  {
+   "id": "sfcustomremodeling.com",
+   "text": "Chris Harrin (President) is also a decision maker per the team page; Jay Cope recorded as first listed."
+  },
+  {
+   "id": "stellarrdc.com",
+   "text": "Sitemap lastmod 2026-10-12 on existing pages records edits, not new dated content; not counted as site_dated_content."
+  },
+  {
+   "id": "stellarrdc.com",
+   "text": "/home-moksha (lastmod 2026-10-13) duplicates the homepage; not treated as a project or blog addition and not treated as evidence of a vendor redesign."
+  },
+  {
+   "id": "the-homesource.com",
+   "text": "Asheville permits under 'HOMESOURCE REAL ESTATE & CONSTRUCTION INC' (e.g. 26-05669 opened 2026-08-03) were not attributed to HomeSource Design Center: no fetched page names that legal entity."
+  },
+  {
+   "id": "the-homesource.com",
+   "text": "Packet incumbent_vendor 'Visit HomeSource Realty Website' was not treated as a vendor; the footer anchor links to https://www.ashevillehomesource.com (sister realty brand)."
+  },
+  {
+   "id": "thebathremodelingcenter.com",
+   "text": "A third-party press release (24-7pressrelease.com) says Nicole Fella became owner in 2024; that predates the trigger window and was not counted as a trigger."
+  },
+  {
+   "id": "thebathremodelingcenter.com",
+   "text": "'previously Portofino Tile' rename has no date on the site; not counted as a trigger."
+  },
+  {
+   "id": "thebathremodelingcenter.com",
+   "text": "The mailto href 'Portofinotile100@gmail.com' sits behind the 'How Can We Assist You?' heading; the visible address brcdesigns@thebathremodelingcenter.com was preferred as the direct business address (domain has Google MX records)."
+  },
+  {
+   "id": "zimmermankd.com",
+   "text": "Customer reviews on the site mention 'total kitchen renovation' and a 'contracting team', but the company's own process stops at order placement and lists installers and GCs as referral partners; not treated as an installing remodeller."
+  },
+  {
+   "id": "annarborremodelingllc.com",
+   "text": "Did not treat page 'modified' timestamps (Our Team page 2026-07-23) as site_dated_content"
+  },
+  {
+   "id": "annarborremodelingllc.com",
+   "text": "Did not infer David Kolic or James Kolic roles from shared surname; only Justin Kolic is labelled Owner"
+  },
+  {
+   "id": "annarborremodelingllc.com",
+   "text": "Email domain annarborremodeling.com differs from site domain annarborremodelingllc.com; recorded only the exact published string, no variants"
+  },
+  {
+   "id": "annarborremodelingllc.com",
+   "text": "Niche judged on services page + portfolio tags (kitchen/bathroom most frequent categories alongside deck-patio); additions also prominent"
+  },
+  {
+   "id": "everythinghomedesigns.com",
+   "text": "Wendy Langston is also 'Co-Owner & Lead Designer | The Old Town Design Group' (about page); did not treat Old Town Design Group as a corporate parent: no page states ownership of Everything Home Designs by it"
+  },
+  {
+   "id": "everythinghomedesigns.com",
+   "text": "Trigger candidate from WebSearch summary of a 2026-03-03 Current in Carmel article (remodeling brought in-house / growing into additions) not recorded: article returned 403 (Cloudflare) and could not be quoted verbatim"
+  },
+  {
+   "id": "everythinghomedesigns.com",
+   "text": "Did not treat 2026-10-01 sitemap lastmods on location pages or 2026-08-30 shop product lastmods as triggers/new service line: no launch date visible"
+  },
+  {
+   "id": "everythinghomedesigns.com",
+   "text": "Did not name Wendy's husband as a decision maker (unnamed on about page)"
+  },
+  {
+   "id": "househandyman.org",
+   "text": "Did not treat a single tub-to-shower testimonial as evidence that kitchen/bath remodelling is primary advertised work"
+  },
+  {
+   "id": "househandyman.org",
+   "text": "Did not treat 'Saeed' (testimonials) or saemarzban@gmail.com as identifying an owner"
+  },
+  {
+   "id": "jbjbuildersincmi.com",
+   "text": "Did not count the 2026-07-24 lorem-ipsum WP posts or the 2026-07-28 service-page creation dates as G4 signals or as a trigger"
+  },
+  {
+   "id": "jbjbuildersincmi.com",
+   "text": "Did not infer a web vendor from the post author name 'salesteam'"
+  },
+  {
+   "id": "jbjbuildersincmi.com",
+   "text": "Did not treat the second Facebook profile (id 61575574979647) as a dated trigger: content not retrievable"
+  },
+  {
+   "id": "jbjbuildersincmi.com",
+   "text": "CustomerLobby lists an older address (9299 Towering Oaks Dr); not used"
+  },
+  {
+   "id": "newbathtoday.com",
+   "text": "Did not treat the Ann Arbor service-area page as an independent local business"
+  },
+  {
+   "id": "theoakstandard.com",
+   "text": "Did not treat recent Google reviews about a bathroom renovation and a full kitchen remodel as the firm's primary advertised work; site positions it as a general contractor"
+  },
+  {
+   "id": "theoakstandard.com",
+   "text": "Site names 'Joseph Tumasian, The Oak Standard Owner' on the homepage; not recorded as decision maker because the candidate stopped at NICHE"
+  },
+  {
+   "id": "benraedesignremodel.com",
+   "text": "Did not decode the Instagram post shortcode DXPAyQPjjRh into a timestamp; content not retrieved (login wall)"
+  },
+  {
+   "id": "benraedesignremodel.com",
+   "text": "Did not treat the HTTP Last-Modified header (30 Sep 2026) as a dated project/blog addition"
+  },
+  {
+   "id": "benraedesignremodel.com",
+   "text": "Did not treat the undated careers page as a dated job_posting"
+  },
+  {
+   "id": "benraedesignremodel.com",
+   "text": "Did not treat the Glassdoor Operations Manager posting (2025-06-24) as in-window"
+  },
+  {
+   "id": "benraedesignremodel.com",
+   "text": "Did not adopt the search-engine summary naming 'Charles Moldenhauer, Owner' (BBB) as decision maker; candidate stopped at G4 and the BBB page was not fetched"
+  },
+  {
+   "id": "buildingdreamsrenovations.com",
+   "text": "Did not record Misty Gallagher's role beyond 'owner' as stated jointly; recorded Nathan as decision maker because the homepage also labels him 'Nathan Gallagher, CEO'"
+  },
+  {
+   "id": "buildingdreamsrenovations.com",
+   "text": "Did not take the street address 2070 SW Rachel Ln from a search-engine summary; not seen on a fetched page"
+  },
+  {
+   "id": "buildingdreamsrenovations.com",
+   "text": "No email published on home, privacy-policy, residential-services, areas-we-serve or service pages; did not construct one"
+  },
+  {
+   "id": "buildingdreamsrenovations.com",
+   "text": "Contact form fields not present in raw HTML (rendered by script); recorded the #contactus anchor only"
+  },
+  {
+   "id": "buildingdreamsrenovations.com",
+   "text": "Niche judged on homepage tagline and hero slides (Kitchen, Flooring, Bathroom & Tile); services list is broader, noted rather than assumed away"
+  },
+  {
+   "id": "dasocustomcabinetry.com",
+   "text": "Did not treat older Google reviews mentioning a kitchen remodel the company 'designed and installed' as the primary advertised work; site positions Daso as a cabinetry maker shipping nationwide"
+  },
+  {
+   "id": "dasocustomcabinetry.com",
+   "text": "Jeff Daso is labelled 'Founder & Owner' on /about/, not recorded as decision maker because the candidate stopped at NICHE"
+  },
+  {
+   "id": "deltaremodelingwi.com",
+   "text": "Did not count Megan Arce's '3 months ago' review as a separate signal type (same type as the auto google_review, and the range straddles 2026-07-16)"
+  },
+  {
+   "id": "deltaremodelingwi.com",
+   "text": "Did not treat sitemap lastmod dates as dated project/blog additions"
+  },
+  {
+   "id": "deltaremodelingwi.com",
+   "text": "Homepage states 'Owners: Josue and Allison Rodriguez'; not recorded as decision maker because the candidate stopped at G4"
+  },
+  {
+   "id": "deltaremodelingwi.com",
+   "text": "Did not infer permits from the 'permits' wording in the Our Process section"
+  },
+  {
+   "id": "gmh-remodeling.com",
+   "text": "Design Center page was created 2026-03-05 (wp-json) but the page does not say it is new; not recorded as a new-showroom trigger"
+  },
+  {
+   "id": "gmh-remodeling.com",
+   "text": "Blog author username 'thirdeye' not treated as a web/marketing vendor credit (no footer or /credits credit; /credits/ is 404)"
+  },
+  {
+   "id": "gmh-remodeling.com",
+   "text": "Dane Perkins is also labelled 'Owner' on /about/; recorded Greg Perkins as founder-owner, did not infer family relationship from shared surname"
+  },
+  {
+   "id": "gmh-remodeling.com",
+   "text": "Loxo job page shows no posting date; date recorded as UNKNOWN rather than taken from a search snippet ('Re-posted 7 days ago') that did not name the employer"
+  },
+  {
+   "id": "gmh-remodeling.com",
+   "text": "Contact page says 'By Email Fill out the form below'; no address published, none constructed"
+  },
+  {
+   "id": "residencedesignbuild.com",
+   "text": "Did not take 'Keith A. Rupp, Owner' from a search-engine summary of the BBB profile; the company's own studio page labels Keith Rupp only as 'Lead Designer'"
+  },
+  {
+   "id": "residencedesignbuild.com",
+   "text": "Did not treat the BBB alternate name 'Residence Kitchen and Bath Design' as an in-window rebrand; no dated evidence of the name change"
+  },
+  {
+   "id": "residencedesignbuild.com",
+   "text": "Melissa Boyd's in-window review text names 'Redesign' and paint/carpet work; did not infer a former trade name or a misattributed review from it"
+  },
+  {
+   "id": "residencedesignbuild.com",
+   "text": "Did not treat Squarespace image upload IDs as dated content"
+  },
+  {
+   "id": "newbathtub.com",
+   "text": "Did not treat the Little Rock, AR GBP listing as an independent local business; the site's own privacy policy names SageHome, LLC as operator."
+  },
+  {
+   "id": "newbathtub.com",
+   "text": "Did not treat sagehome.com emails (sageadmin@sagehome.com, admin@sagehome.com) as a local owner contact; G6 not run because G5 failed."
+  },
+  {
+   "id": "bathmastersnwa.com",
+   "text": "Did not count the Kent S review ('3 months ago') as a second signal: it is the same type (google_review) and its relative date straddles the 2026-07-16 boundary."
+  },
+  {
+   "id": "bathmastersnwa.com",
+   "text": "Did not treat the 2026 copyright year in the footer as dated site content; it is an auto-rendered year, not a project/blog addition."
+  },
+  {
+   "id": "bathmastersnwa.com",
+   "text": "Did not attribute the HomeAdvisor Fayetteville listing mentioned in a search summary to this company; I did not fetch it."
+  },
+  {
+   "id": "bathmastersnwa.com",
+   "text": "Did not take a surname for James from any third-party source."
+  },
+  {
+   "id": "friendlyfixers.com",
+   "text": "Did not count 'Kitchen Upgrades' and 'Bathroom Upgrades' service tiles as primary kitchen/bath remodelling; the tiles describe fixtures, hardware, vanities, and the site names itself a handyman service."
+  },
+  {
+   "id": "friendlyfixers.com",
+   "text": "Did not treat the 'Join the Team' page (/contact-8) as a job posting signal; it has no date and G4 was not run."
+  },
+  {
+   "id": "desertremodel.com",
+   "text": "Homepage names 'Austin Anderson' with 'an owner-minded approach' and says Desert Remodel 'was created around' his principles; no page states owner/founder next to his name, so he was NOT recorded as decision maker (not evaluated further because run stopped at G4)."
+  },
+  {
+   "id": "desertremodel.com",
+   "text": "The packet's franchise_mentions 'kitchen tune up' is an image alt/title ('Kitchen-tune-up.jpg') on desertremodel.com, not a reference to the Kitchen Tune-Up franchise; not treated as a franchise signal."
+  },
+  {
+   "id": "desertremodel.com",
+   "text": "Footer credit reads 'Made with ... by Sting' (no link); not treated as evidence of a web vendor either way."
+  },
+  {
+   "id": "desertremodel.com",
+   "text": "BuildZoom/WebSearch summary mentions AZ ROC licence 348981 with a December 2025 expiration; not recorded as a licence_renewal signal because no renewal date on/after 2026-07-16 was retrieved."
+  },
+  {
+   "id": "ljbuildersaz.com",
+   "text": "The mailto links on every page point to info@ljbuilders.com (a different domain from the visible text info@ljbuildersaz.com); both strings are on the site, but the visible-text address matching the site domain was recorded and no assumption was made about which one is monitored."
+  },
+  {
+   "id": "lunasolconstruction.com",
+   "text": "Reviews and testimonials name 'Idan' and the CSLB record (https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=1135337) says qualifying individual IDAN MESHULAM owns 10 percent or more; no page Lunasol controls states a role next to his name, so decision_maker is null."
+  },
+  {
+   "id": "lunasolconstruction.com",
+   "text": "Homepage 'Owner's Motivation' section is written in first person without a name; not attributed to anyone."
+  },
+  {
+   "id": "lunasolconstruction.com",
+   "text": "Blog post 'Fall Renovations for Northern San Diego Homes' has no visible date; not counted as site_dated_content."
+  },
+  {
+   "id": "lunasolconstruction.com",
+   "text": "GBP address is Carlsbad (5857 Owens Ave #300) while the site and CSLB list National City (839 Mary Ct); not recorded as a relocation/new-office trigger because no dated source was found."
+  },
+  {
+   "id": "lunasolconstruction.com",
+   "text": "Footer credit links to marketing360.com ('Created with Marketing 360') and images load from static.mywebsites360.com; the packet lists incumbent_vendor null - flagging for the coordinator rather than overriding the automated check."
+  },
+  {
+   "id": "premierkitchenandbath.com",
+   "text": "Showroom pages for Mesa and Scottsdale were created in WordPress on 2026-02-17; that is a page date, not evidence of a new showroom opening, so not recorded as a trigger."
+  },
+  {
+   "id": "premierkitchenandbath.com",
+   "text": "Name change from 'Premier Kitchen & Bath' to 'Premier Design-Build-Remodel' predates the window (a 2025-04-23 blog post already uses the new name); not recorded as a trigger."
+  },
+  {
+   "id": "premierkitchenandbath.com",
+   "text": "Two addresses (Mesa 4856 E Baseline Rd; Scottsdale 16035 N 80th St) are company-owned showrooms of one firm, not a franchise locator."
+  },
+  {
+   "id": "premierkitchenandbath.com",
+   "text": "Privacy page carries a second Cloudflare-encoded address (info@premierkitchenandbath.com); the contact-page address was preferred as the most direct business address."
+  },
+  {
+   "id": "premierkitchenandbath.com",
+   "text": "Houzz profile licence numbers 'B-135167, R-11-301243' came from a WebSearch summary, not a fetched page; not used."
+  },
+  {
+   "id": "slremodel.com",
+   "text": "Packet auto_signal site_dated_content 2026-10-08 is a spam post ('Pocket Option - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442...') injected into the compromised site, not company activity; rejected."
+  },
+  {
+   "id": "slremodel.com",
+   "text": "CSLB workers' compensation policy effective 08/08/2026 is an insurance renewal, not a licence renewal; not counted as licence_renewal."
+  },
+  {
+   "id": "slremodel.com",
+   "text": "Reviews name 'Jacob' and 'Tomer' and CSLB names qualifying individual YAKIR AVRAHAMI; no role was looked up on S&L's own pages because the run stopped at G4, and none of these is recorded as decision maker."
+  },
+  {
+   "id": "tower9remodeling.com",
+   "text": "Contact page mailto 'info@mysite.com' is Wix template placeholder text, not a business address; not recorded."
+  },
+  {
+   "id": "tower9remodeling.com",
+   "text": "GBP owner replies are signed in first person and reviews name 'Dan'; CSLB lists qualifying individual DANIEL JAMES BRIDGMAN; no page Tower Nine controls states a role next to a name, so no decision maker recorded (run stopped at G4)."
+  },
+  {
+   "id": "tower9remodeling.com",
+   "text": "CSLB status 'License is under Liability Insurance Suspension' (https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/LicenseDetail.aspx?LicNum=1048862) is recorded as context only, not as a G4 signal."
+  },
+  {
+   "id": "ariidbuild.com",
+   "text": "The site says 'As part of the Ariid Group' and the careers page is on ariidgroup.com; Ariid Group is described as the umbrella for the founder's own sister companies (Ariana Designs & Interiors, Ariid Home), not a franchise or outside parent, so G5 was not failed on it."
+  },
+  {
+   "id": "ariidbuild.com",
+   "text": "Nick Anderson is listed as 'PRESIDENT' on the about page; recorded only Ariana (founder) as decision maker; no assumption about a relationship from the shared surname."
+  },
+  {
+   "id": "ariidbuild.com",
+   "text": "Arizona and Nevada location pages were created 2026-04-08/09 and an Aging in Place service page 2026-04-30 (wp-json page dates); a page creation date does not show the service line or market is new, so not recorded as a trigger."
+  },
+  {
+   "id": "ariidbuild.com",
+   "text": "Oct 24, 2025 press release on the Ariid Group umbrella is before the trigger window (2026-01-14); not recorded."
+  },
+  {
+   "id": "ariidbuild.com",
+   "text": "YouTube @ArianaDesigns posted 2026-10-13 but is the Ariana Designs & Interiors company channel, not the owner's personal account; not used for owner_account_post_60d."
+  },
+  {
+   "id": "ariidbuild.com",
+   "text": "Careers page lists open application categories with no posting date; job_posting_live date left UNKNOWN."
+  },
+  {
+   "id": "azconstruct.com",
+   "text": "Google reviews mention a master bathroom remodel and a bathroom project; customer reviews describe individual jobs, not the firm's primary advertised work, so they were not used to pass the niche gate."
+  },
+  {
+   "id": "canyoncabinetry.com",
+   "text": "A BizQuest/LoopNet listing 'Thriving Custom Cabinet Design and Remodeling Business' describes a Northwest Tucson firm with a 7,500 sq ft showroom (Canyon's homepage cites a 7,500-square-foot showroom); the listing does not name the business, so it was NOT attributed to Canyon and not recorded as a sale/ownership trigger."
+  },
+  {
+   "id": "canyoncabinetry.com",
+   "text": "New service pages created 2026-07-27/28 (wp-json dates) were not counted as site_dated_content because they are not project/blog/gallery additions."
+  },
+  {
+   "id": "canyoncabinetry.com",
+   "text": "Contact page has a second mailto with a trailing zero-width space (info@canyoncabinetry.com followed by U+200B) - a broken link, recorded only as a site defect, not as a separate email."
+  },
+  {
+   "id": "canyoncabinetry.com",
+   "text": "Owner responses on Google reviews are signed 'Susan'; no page states a role next to her name, so no decision maker recorded (not evaluated further: stopped at G4)."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "Reviews and a third-party profile name 'Jesse' as the person customers dealt with; no page the company controls states a role next to his name, so no decision maker recorded."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "Packet locations_seen lists Lake Oswego, OR; no Lake Oswego location was found on the fetched pages and it was not treated as a second branch or locator."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "Showroom text calls it 'the largest Bestbath-dedicated showroom in North America'; this is a product-dealer relationship, not a franchise (G5 not evaluated: stopped at G4)."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "Footer copyright is 'Custom Home Solutions LLC'; BuildZoom's custom-home-solutions-llc profile is a Wisconsin contractor and was not attributed to this firm."
+  },
+  {
+   "id": "customdesignbuildremodel.com",
+   "text": "Site pages were modified 2026-08-16 to 2026-08-24 (wp-json 'modified'); edits to existing pages are not a project/blog/gallery addition, so not counted as site_dated_content."
+  },
+  {
+   "id": "customdesignbuildremodel.com",
+   "text": "Mesa permit records under 'MARBECC CUSTOM DESIGN' and 'CARMEL CUSTOM DESIGN' (2006-2008) are different firms and were not attributed."
+  },
+  {
+   "id": "iconiqconstruction.com",
+   "text": "Service menu also lists roofing, painting, concrete, flooring, decks and new construction; kitchen and bath lead the meta description and service menu, and 6 of 8 portfolio entries are kitchen/bath projects, so niche was passed - flagged as a broad-scope remodeller."
+  },
+  {
+   "id": "iconiqconstruction.com",
+   "text": "No page on the site states an owner/founder name (about, home, contact; /privacy-policy/ and /terms/ return 404); decision_maker set to null rather than taken from WA L&I or third-party data."
+  },
+  {
+   "id": "iconiqconstruction.com",
+   "text": "Site lists three 'our location' addresses (Seattle 1601 5th Ave Ste 900, Bellevue, Everett); these are the firm's own service-area offices, not a franchise locator."
+  },
+  {
+   "id": "iconiqconstruction.com",
+   "text": "City landing pages were published 2026-06-26 (wp-json); a page creation date does not show a relocation or new office, so not a trigger."
+  },
+  {
+   "id": "iconiqconstruction.com",
+   "text": "Footer and homepage mailto is iconiqconstruction@gmail.com; the domain address info@iconiqconstruction.com (contact page mailto) was recorded as the more direct business address; both strings are on the site."
+  },
+  {
+   "id": "silveradoconstructionlv.com",
+   "text": "NSCB lists 'NORDWIG, DANIEL LOUIS' as Managing Member; that is a third-party registry, not a page Silverado controls, so he was NOT recorded as decision maker."
+  },
+  {
+   "id": "silveradoconstructionlv.com",
+   "text": "No email string appears in any fetched page (home, about, contact, our-work, blog); none was constructed."
+  },
+  {
+   "id": "silveradoconstructionlv.com",
+   "text": "Blog post dates come from the site's own GraphQL API createdAt field; none are in window, so not counted."
+  },
+  {
+   "id": "uncharteddesignaz.com",
+   "text": "Owner responses on Google ('Response from the owner 3 months ago') are not customer reviews and were not counted as google_review signals."
+  },
+  {
+   "id": "uncharteddesignaz.com",
+   "text": "Portfolio 'remodel' entries dated 2026-08-18 and 2026-09-07 are the same signal type (site_dated_content) as the blog, so they do not supply a second type."
+  },
+  {
+   "id": "uncharteddesignaz.com",
+   "text": "The homepage link to a Pinterest pin resolves to a pin saved by user 'rachelmariecastillo', not an account Uncharted controls."
+  },
+  {
+   "id": "unitedsignature.com",
+   "text": "The homepage states 'United Signature is an independent, locally owned design-build studio', and /locations/ ('Find Us Near You') lists the firm's own Everett and Kirkland showrooms; not evaluated as G5 because the run stopped at NICHE, and the locations page was not treated as a franchise locator."
+  },
+  {
+   "id": "unitedsignature.com",
+   "text": "The /team/ page shows a 'General Manager'; that role is not owner/founder/president, so no decision maker would be recorded from it (not evaluated further)."
+  },
+  {
+   "id": "unitedsignature.com",
+   "text": "Footer legal entity is 'United Signature Everett LLC'; no inference made about a parent company from the entity name."
+  }
+ ],
+ "could_not_check": [
+  "Facebook/Instagram posts (login wall)",
+  "Indeed/ZipRecruiter direct (401/403)",
+  "G4-G6 and scoring not run because the candidate stopped at NICHE",
+  "Indeed/ZipRecruiter postings (blocked)",
+  "Indeed/ZipRecruiter direct (blocked)",
+  "Owner personal accounts",
+  "Facebook/Instagram (login wall)",
+  "Facebook/Instagram (none linked; login-walled)",
+  "AZ ROC licence lookup (JavaScript-only)",
+  "Greenwich CT permit records (no public online search; City Squared requires an account)",
+  "Westchester village permit portals (Rye, Scarsdale, Chappaqua) not individually searched",
+  "Facebook/Instagram (no account linked from site; login wall)",
+  "Owner social accounts (no surname published; Facebook/Instagram login-walled)",
+  "YouTube video publish dates (not exposed to curl)",
+  "Wayback snapshots for a 2026 rebrand/new service line (CDX returned no captures)",
+  "Owner Dave Bryan's personal social accounts (Facebook/Instagram login-walled; LinkedIn not fetched)",
+  "discovered.ai career board index (JS-rendered; only individual job pages readable)",
+  "Nashua/Salem permit portals (not needed for G4)",
+  "Houzz project/review dates (not shown on profile)",
+  "NJ Division of Consumer Affairs HIC registration lookup (not queried)",
+  "Morristown/Morris County permit records (no online portal located; contractor of record unknown)",
+  "Indeed/ZipRecruiter job postings (blocked 401/403)",
+  "Collier County and City of Naples permit portals (no response / JS-only)",
+  "Facebook and Instagram posts (login wall)",
+  "Owner personal social accounts (LinkedIn/Facebook/Instagram login-walled)",
+  "Job board postings on Indeed/ZipRecruiter (blocked)",
+  "Owner personal social accounts (login-walled)",
+  "Orange County FL / City of Winter Park / City of Apopka permit portals (JS-only portals not queried)",
+  "Houzz project upload dates (blocked)",
+  "City of Jacksonville / St. Johns County permit portals (not queried; BuildZoom used instead)",
+  "City of Jacksonville (JaxEPICS) and Jacksonville Beach permit portals (not queried; BuildZoom used)",
+  "Sarasota County permit portal (not queried)",
+  "City of Boca Raton and Palm Beach County permit portals (search forms are JavaScript/POST based; not queried)",
+  "Florida DBPR licence lookup for MGM Development Corp (POST form; site shows no own licence number)",
+  "Indeed/ZipRecruiter direct listings (blocked)",
+  "NC Licensing Board for General Contractors renewal dates (not queried)",
+  "Town of Jupiter and Palm Beach County permit portals (JavaScript/login search)",
+  "Permit portals for Wake County unincorporated, Apex, Morrisville, Holly Springs and Durham (not queried; GBP shows no street address to narrow the jurisdiction)",
+  "Owners' personal social accounts (Facebook/Instagram/LinkedIn login-walled)",
+  "Indeed job posting dates (blocked; WebSearch snippet shows '1 job' without a date)",
+  "Buncombe County / Greenville County permit portals (not queried; G4 already met)",
+  "Albemarle County permit records by contractor (no open contractor-searchable source found)",
+  "Virginia DPOR licence dates (not queried)",
+  "NC Licensing Board for General Contractors record for HomeSource Real Estate & Construction Inc (portal not queried)",
+  "Pinterest board dates (not retrievable as dated posts)",
+  "Owner personal social accounts (Facebook/Instagram/LinkedIn login-walled)",
+  "Wayback Machine history for the ownership statement (CDX API unreachable)",
+  "Facebook/Instagram (login wall; site icons link to '/')",
+  "Ann Arbor city permit portal not queried",
+  "youarecurrent.com article (403)",
+  "Indiana/Carmel permit portal not queried",
+  "MI LARA licence lookup and Kent County / Alpine Twp permit portals not queried",
+  "Facebook (profile.php?id=61577894584165) and Instagram: login wall",
+  "Indeed/Glassdoor postings directly (403)",
+  "Lee's Summit permits by contractor name (portal is property-search only)",
+  "LinkedIn company page (none linked from site)",
+  "Facebook page Dreambuilder007 (login wall)",
+  "Indeed/ZipRecruiter direct (401/403); WebSearch found no postings",
+  "Lee's Summit permits by contractor (portal is property-search only)",
+  "City of Madison permits by contractor (Accela search did not apply the business-name filter to scripted requests)"
+ ],
+ "agents_manual_records": 61
+}
