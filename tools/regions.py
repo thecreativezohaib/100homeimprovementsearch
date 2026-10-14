@@ -1,0 +1,8 @@
+REGIONS = {
+ "R1": ["Greenwich, CT","Westport, CT","Glastonbury, CT","Ridgefield, CT","Wellesley, MA","Andover, MA","Hingham, MA","Lexington, MA","Nashua, NH","Portsmouth, NH","Montclair, NJ","Morristown, NJ","Princeton, NJ","Red Bank, NJ","White Plains, NY","Huntington, NY","Saratoga Springs, NY","Doylestown, PA","West Chester, PA","Wexford, PA","East Greenwich, RI"],
+ "R2": ["Naples, FL","Sarasota, FL","Winter Park, FL","Ponte Vedra Beach, FL","Alpharetta, GA","Marietta, GA","Bethesda, MD","Annapolis, MD","Cary, NC","Asheville, NC","Wilmington, NC","Mount Pleasant, SC","Greenville, SC","Franklin, TN","Knoxville, TN","Alexandria, VA","Charlottesville, VA","Virginia Beach, VA","Leesburg, VA"],
+ "R3": ["Naperville, IL","Arlington Heights, IL","Carmel, IN","Fishers, IN","Ann Arbor, MI","Troy, MI","Grand Rapids, MI","Edina, MN","Woodbury, MN","Chesterfield, MO","Lee's Summit, MO","Dublin, OH","Mason, OH","Westlake, OH","Brookfield, WI","Madison, WI","Hinsdale, IL","Rochester Hills, MI"],
+ "R4": ["Bentonville, AR","Little Rock, AR","Boulder, CO","Littleton, CO","Fort Collins, CO","Overland Park, KS","Baton Rouge, LA","Mandeville, LA","Edmond, OK","Tulsa, OK","Plano, TX","Frisco, TX","The Woodlands, TX","Round Rock, TX","Southlake, TX","Lehi, UT","Draper, UT","Castle Rock, CO"],
+ "R5": ["Scottsdale, AZ","Chandler, AZ","Walnut Creek, CA","San Luis Obispo, CA","Carlsbad, CA","Irvine, CA","Roseville, CA","Boise, ID","Meridian, ID","Henderson, NV","Reno, NV","Lake Oswego, OR","Bend, OR","Bellevue, WA","Kirkland, WA","Vancouver, WA","Pleasanton, CA","Santa Rosa, CA"],
+}
+QUERIES = ["kitchen and bath remodeler","kitchen remodeler","bathroom remodeler"]

@@ -1,0 +1,615 @@
+[
+ {
+  "id": "agdconstructionservicellc.com",
+  "name": "AGD Construction Service LLC",
+  "region": "R1",
+  "website": "https://agdconstructionservicellc.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://agdconstructionservicellc.com/"
+   ],
+   "contact": [
+    "https://agdconstructionservicellc.com/contact/"
+   ],
+   "about": [
+    "https://agdconstructionservicellc.com/about-us/"
+   ],
+   "gallery": [
+    "https://agdconstructionservicellc.com/gallery/"
+   ],
+   "legal": [
+    "https://agdconstructionservicellc.com/privacy-policy/",
+    "https://agdconstructionservicellc.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJWxERr1BT5okRVtGvrmpEMLc&hl=en",
+    "quote": "Joycelyn Otchere: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxERr1BT5okRVtGvrmpEMLc&hl=en",
+  "gbp_title": "AGD Construction Service LLC",
+  "gbp_address": null,
+  "gbp_rating": "4.9\n(10)",
+  "gbp_phone": "phone:tel:+18609209160",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Patricia Sirois",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Jose and his crew did excellent work on my kitchen. They put in counters, sink and faucet as well as a backsplash. His price for the job was very reasonable. Jose and his workers were very polite, reliable and professional and after they were done they cleaned up my kitchen completely. I highly recommend his company.",
+    "owner": "Response from the owner a year ago\nThank you so much Patricia! Your review truly make our day <3"
+   },
+   {
+    "reviewer": "Joycelyn Otchere",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Done 2 bathrooms through this company. I highly recommend them for all your remodeling needs. They are knowledgeable and know what they are doing",
+    "owner": "Response from the owner a month ago\nWe\u2019re always happy to receive feedback like yours. Thank you very much for your trust and your review."
+   },
+   {
+    "reviewer": "Joram Baltazar",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Highly recommended this guys are very professional and knowledgeable also very friendly\u2019s if u think about a project call this guys highly recommended",
+    "owner": "Response from the owner a year ago\nThank you so much for your kind words! We're so happy to hear that you've had such a positive experience.  We strive to provide our clients with the best possible service, and it means the world to us to know that we've met your expectations."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@agdconstructionservicellc.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@agdconstructionservicellc.com",
+    "page": "https://agdconstructionservicellc.com/contact/"
+   },
+   {
+    "email": "rivasardon4@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:rivasardon4@gmail.com",
+    "page": "https://agdconstructionservicellc.com/privacy-policy/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=61568346607400"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 5,
+   "bath": 4,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 3,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 441px, i.e. 66px wider than the screen; elements past the right edge: ['DIV.et_pb_module.dica_divi"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Creative Remodeling and Construction LLC",
+    "url": "https://creativeremodelingct.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "EHL Kitchens",
+    "url": "https://ehlkitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "European Custom Cabinets & the Kitchen ReStore",
+    "url": "https://thekitchenrestore.com/?utm_source=ECC&utm_medium=Redirect&utm_campaign=ECC_Domain_Redirect",
+    "gbp_address": null
+   },
+   {
+    "name": "KB Build LLC",
+    "url": "https://kbbuildllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Living LLC",
+    "url": "https://www.kitchenlivingdesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "DreamHome Remodeling",
+    "url": "https://www.mydreamhomect.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Glastonbury, CT"
+  ]
+ },
+ {
+  "id": "formlimited.com",
+  "name": "Form LTD",
+  "region": "R1",
+  "website": "https://www.formlimited.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.formlimited.com/"
+   ],
+   "gallery": [
+    "https://www.formlimited.com/before-after"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-07-31",
+    "url": "https://www.formlimited.com/blog/2026/7/29/home-renovation-tips-for-creating-a-modern-and-functional-home",
+    "quote": "rss:https://www.formlimited.com/blog?format=rss published Fri, 31 Jul 2026 12:56:58 +0000: 'Home Renovation Tips for Creating a Modern and Functional Home'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6msyUeYwokRifQpL1SU5Vw&hl=en",
+  "gbp_title": "Form LTD",
+  "gbp_address": "\ue0c8\n32 W Putnam Ave, Greenwich, CT 06830, United States",
+  "gbp_rating": "5.0\n(4)",
+  "gbp_phone": "phone:tel:+12038696880",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Nalini Balachandra",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "We recently had Form LTD redo our kitchen. The experience from start to finish was absolutely fabulous. Team John L and John W were amazing. Their expertise, talent and attention to detail is unmatchable. Our house is an old Tudor with what \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "James McKeon",
+    "when": "4 years ago",
+    "stars": "5 stars",
+    "text": "John+John at Form were great to work with! I\u2019m a first time homeowner and they made remodeling my bathrooms a breeze and guided me through the process. Not only do my bathrooms look great, but John was so helpful with any problems that \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Donna Aneli",
+    "when": "7 years ago",
+    "stars": "5 stars",
+    "text": "Had my kitchen done with John. Great customer service. Marianna is fantastic. John is very knowledgeable. Good quality cabinets.",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 11,
+   "bath": 11,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/584594abebbd1a3a85411950/1498070261255-K4UM673E8W13GM775FDT/Coughlin+Kitch = 1,317,594 bytes (HTTP Content-Length)"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Leicht Greenwich German Kitchen Showroom",
+    "url": "https://www.leichtwestchester.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Putnam Design",
+    "url": "https://putnamdesignllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Rezende Construction",
+    "url": "https://rezendeconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Greenwich, CT"
+  ]
+ },
+ {
+  "id": "geretyrestoration.com",
+  "name": "Kitchen Remodeling by Gerety Building",
+  "region": "R1",
+  "website": "https://geretyrestoration.com/kitchen-remodel/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "GoDaddy",
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://geretyrestoration.com/kitchen-remodel/"
+   ],
+   "contact": [
+    "https://geretyrestoration.com/contact-us/"
+   ],
+   "about": [
+    "https://geretyrestoration.com/about-us/",
+    "https://geretyrestoration.com/our-team/"
+   ],
+   "gallery": [
+    "https://geretyrestoration.com/portfolio/"
+   ],
+   "legal": [
+    "https://geretyrestoration.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-23",
+    "url": "https://geretyrestoration.com/blog/kitchen-remodel-change-orders-what-causes-them-and-how-can-homeowners-reduce-them/",
+    "quote": "wp-json/posts published 2026-09-23T20:57:48: 'Kitchen Remodel Change Orders: What Causes Them and How Can Homeowners Reduce Th'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7JVkxGrwokRZEW11mFIVT4&hl=en",
+  "gbp_title": "Kitchen Remodeling by Gerety Building",
+  "gbp_address": "\ue0c8\n162 Danbury Rd, Ridgefield, CT 06877, United States",
+  "gbp_rating": "",
+  "gbp_phone": "phone:tel:+12035318100",
+  "gbp_reviews_visible": [],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/geretyrestoration"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/geretybuilding"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 99,
+   "bath": 0,
+   "roof": 0,
+   "plumb": 10,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 5,
+   "cabinet": 12,
+   "siding": 0,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://geretyrestoration.com/wp-content/uploads/2026/06/Traditional-kitchen-design-optimized.jpg = 1,949,941 bytes; https://geretyrestoration.com/wp-content/up"
+  ],
+  "competitor_pool": [
+   {
+    "name": "BH Solutions, LLC",
+    "url": "https://www.bhsolutionsusa.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Danbury Kitchen Warehouse",
+    "url": "https://www.danburykitchenwarehouse.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Professional Home Remodeling Services - EDM Construction, LLC",
+    "url": "https://www.edmconstructionct.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Smart Improvements LLC",
+    "url": "https://smartimprovementsllc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Ridgefield, CT"
+  ]
+ },
+ {
+  "id": "imagineremodel.com",
+  "name": "Imagine Remodel",
+  "region": "R1",
+  "website": "https://www.imagineremodel.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.imagineremodel.com/"
+   ],
+   "contact": [
+    "https://www.imagineremodel.com/contact-us/"
+   ],
+   "about": [
+    "https://www.imagineremodel.com/about-us/",
+    "https://www.imagineremodel.com/reviews/139530de-a8a0-4aba-a63c-2624d292124c/"
+   ],
+   "gallery": [
+    "https://www.imagineremodel.com/gallery/",
+    "https://www.imagineremodel.com/past-projects/"
+   ],
+   "legal": [
+    "https://www.imagineremodel.com/privacy-policy/",
+    "https://www.imagineremodel.com/terms/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJx9J8FkNL5okROGWLmV9t9Cs&hl=en",
+    "quote": "Erin Denis: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9J8FkNL5okROGWLmV9t9Cs&hl=en",
+  "gbp_title": "Imagine Remodel",
+  "gbp_address": "\ue0c8\n4 Alcap Ridge, Cromwell, CT 06416, United States",
+  "gbp_rating": "4.5\n(55)",
+  "gbp_phone": "phone:tel:+18604624463",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Erin Denis",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "We hired this company to help redo the walls of our local Army Navy club. It's not in their traditional wheelhouse of workload but they took us on and their team did a fantastic job! The crew was friendly and cleaned up after themselves. \u2026",
+    "owner": "Response from the owner 2 months ago\nErin, thank you so much for the kind review and for choosing Imagine Remodel! We're glad the team took great care of you and that everything came out looking great. We appreciate you taking the time to share it, and we're here if you need \u2026 More"
+   },
+   {
+    "reviewer": "Susan Conway",
+    "when": "Edited 6 months ago",
+    "stars": "5 stars",
+    "text": "Imagine Remodel provided great customer service, quality products and very reasonable prices. The team is so accommodating and really listened to my remodel plan & we felt like a VIPs. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Alexandra Pantelopoulos",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Josh and his crew were AMAZING!! Can\u2019t believe they actually completed the job in one day, if I had another bathroom to do I\u2019d hire them again in a heartbeat! Highly recommend! Thanks so much for everything.",
+    "owner": "Response from the owner 3 months ago\nThanks for the kind words Alex! "
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://www.imagineremodel.com/about-us/",
+    "snippet": "Co-owner Mike is a UConn graduate who ran track and field for the university, and we actively recruit our interns and new hires"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/people/Imagine-Remodel/61552292048637/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/imagineremodel"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 14,
+   "bath": 29,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 2,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "dead phone or email link: tel: hrefs [] mailto: hrefs ['?subject=Thought%20you%20might%20like%20this%20from Imagine%20Remodel%20&body=Check%20this%20out%20from Imagine%20Remodel 0% Finan"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Creative Remodeling and Construction LLC",
+    "url": "https://creativeremodelingct.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "EHL Kitchens",
+    "url": "https://ehlkitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "European Custom Cabinets & the Kitchen ReStore",
+    "url": "https://thekitchenrestore.com/?utm_source=ECC&utm_medium=Redirect&utm_campaign=ECC_Domain_Redirect",
+    "gbp_address": null
+   },
+   {
+    "name": "KB Build LLC",
+    "url": "https://kbbuildllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Living LLC",
+    "url": "https://www.kitchenlivingdesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "DreamHome Remodeling",
+    "url": "https://www.mydreamhomect.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Glastonbury, CT"
+  ]
+ },
+ {
+  "id": "kitchenvisions.com",
+  "name": "KitchenVisions",
+  "region": "R1",
+  "website": "https://www.kitchenvisions.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.kitchenvisions.com/"
+   ],
+   "contact": [
+    "https://www.kitchenvisions.com/contact"
+   ],
+   "about": [
+    "https://www.kitchenvisions.com/about-kitchenvisions",
+    "https://www.kitchenvisions.com/about-kitchenvisions"
+   ],
+   "gallery": [
+    "https://www.kitchenvisions.com/kitchens-transitional",
+    "https://www.kitchenvisions.com/modern-prairie-ranch-kitchen-in-sherborn"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ___uTT6G44kRRsYsQwH3QU0&hl=en",
+    "quote": "nick morgan: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___uTT6G44kRRsYsQwH3QU0&hl=en",
+  "gbp_title": "KitchenVisions",
+  "gbp_address": null,
+  "gbp_rating": "4.9\n(40)",
+  "gbp_phone": "phone:tel:+19782570004",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "L Honeyman",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "Jodi, Natasha and the rest of the team at KitchenVisions do outstanding work! Expert at balancing functionality with aesthetically pleasing design, they are extremely creative at finding solutions for \u201cproblem\u201d spaces, at thinking \u201coutside \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "nick morgan",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "KitchenVisions was brilliant in designing and delivering a gorgeous new kitchen for us.  It was a pleasure to work with them!",
+    "owner": null
+   },
+   {
+    "reviewer": "Alexa Friedman-Cohen",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "In 2022 Kitchen Visions took my kitchen project from hopeful wishes to beautiful reality.  From conception to completion, Jodi and her team took care of us every step of the way. She managed all the details \u2014 even the ones I didn\u2019t even \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "hello@kitchenvisions.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:hello@kitchenvisions.com",
+    "page": "https://www.kitchenvisions.com/"
+   },
+   {
+    "email": "jodi@kitchenvisions.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:jodi@kitchenvisions.com",
+    "page": "https://www.kitchenvisions.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/KitchenVisionsDesign"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/kitchenvisions",
+   "https://www.instagram.com/p",
+   "https://www.instagram.com/reel"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 9,
+   "bath": 5,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 459px, i.e. 84px wider than the screen; elements past the right edge: ['IMG right=754', 'IMG right",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/536aea3ae4b0750dff7da93e/1717360514208-68ZOQEFVNP3D0KU8EKWA/Teal+Appeal+Pr = 6,221,338 bytes (HTTP Content-Length)"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bay State Remodeling",
+    "url": "https://baystateremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Countertops & Cabinets",
+    "url": "https://ifoundmykitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Bath Remodeling Boston",
+    "url": "https://kitchenbathremodelingboston.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Leader Builders",
+    "url": "https://leaderbuilders.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Prestige Kitchen & Bath",
+    "url": "https://www.prestigekb.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Summit Bath & Design",
+    "url": "https://www.summitbathanddesign.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Wellesley, MA"
+  ]
+ }
+]

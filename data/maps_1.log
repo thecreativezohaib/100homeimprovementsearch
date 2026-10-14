@@ -1,0 +1,12 @@
+10 affordablecabinetrefacing.com Affordable Cabinet Refacing 3 
+20 amcstoneandcabinets.com undefined x page.goto: Target page, context or browser has been closed
+30 azprecisionremodeling.com undefined x page.goto: Target page, context or browser has been closed
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+browser.newContext: Target page, context or browser has been closed
+    at async newCtx (/home/user/100homeimprovementsearch/tools/maps.js:12:15)
+    at async /home/user/100homeimprovementsearch/tools/maps.js:65:55
+
+Node.js v22.22.0

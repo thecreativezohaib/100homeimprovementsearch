@@ -1,0 +1,16 @@
++ cd /home/user/100homeimprovementsearch/tools
++ python3 ledger.py
+raw rows 6443 -> unique 2865; with website 2438; multi-region 30
++ python3 prep.py
+2356 queued; 509 pre-gate rejects
++ python3 sitecheck.py ../data/site_queue.jsonl ../data/site.jsonl 24
++ python3 dns.py
++ python3 queues.py render
+render queue 256
++ RENDER=1
++ python3 sitecheck.py ../data/render_queue.jsonl ../data/site_render.jsonl 8
++ python3 queues.py maps
+maps queue 804
+++ date +%s
++ N=1791990509
++ node maps.js ../data/maps_queue.jsonl ../data/maps_r1791990509.jsonl

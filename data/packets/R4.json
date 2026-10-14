@@ -1,0 +1,131 @@
+[
+ {
+  "id": "newbathtub.com",
+  "name": "New Bath Today",
+  "region": "R4",
+  "website": "https://newbathtoday.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://newbathtoday.com/"
+   ],
+   "contact": [
+    "https://newbathtoday.com/contact-us/"
+   ],
+   "about": [
+    "https://newbathtoday.com/about-us/"
+   ],
+   "legal": [
+    "https://newbathtoday.com/privacy-policy/",
+    "https://newbathtoday.com/terms/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJwRW1x1al0ocRFG_RXAIj1fM&hl=en",
+    "quote": "Rebecca Stewart: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-07",
+    "url": "https://newbathtoday.com/blog/financing-your-bathroom-remodel/",
+    "quote": "wp-json/posts published 2026-10-07T00:12:44: 'How to Finance Your Bathroom Remodel'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRW1x1al0ocRFG_RXAIj1fM&hl=en",
+  "gbp_title": "New Bath Today",
+  "gbp_address": null,
+  "gbp_rating": "4.8\n(76)",
+  "gbp_phone": "phone:tel:+18669729127",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Dottie Gann",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "This company is top notch A+. Our sales representative David was extremely knowledgeable and professional. He gave great customer service without  high pressure sales. He gave us all the information to make an informed decision to have the \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you so much, Dottie, for the wonderful review and kind words! We\u2019re thrilled to hear that David provided knowledgeable, pressure-free guidance and helped you design a shower that truly fits your needs. We\u2019re equally proud of Jonivan \u2026 More"
+   },
+   {
+    "reviewer": "Rebecca Stewart",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "My experience was of patience.  Jonivan Wallace called me on August 6, the first day scheduled for installation.  He explained he found he would not be able to arrive at my home to begin work. His car had been overheating and it was getting \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Antoneal Swaby-James",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Thomas Lupo with New Bath today stopped by to talk my husband and I through a bathroom project we wanted. He was very personable, respectful of our time and gave us a variety of options. We felt comfortable with him and opted to select his company for our bathroom project. I would recommend.",
+    "owner": "Response from the owner 6 months ago\nHi Antoneal, thank you so much for trusting us with your bathroom project! We're thrilled to hear that Thomas made such a great impression \u2014 he has a real gift for walking homeowners through their options while keeping things comfortable \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "sageadmin@sagehome.com",
+    "how": "plain text",
+    "raw": "sageadmin@sagehome.com",
+    "page": "https://newbathtoday.com/privacy-policy/"
+   },
+   {
+    "email": "admin@sagehome.com",
+    "how": "plain text",
+    "raw": "admin@sagehome.com",
+    "page": "https://newbathtoday.com/privacy-policy/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/Newbathtoday/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/new_bath_today"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 68,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 2,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 380px, i.e. 5px wider than the screen; elements past the right edge: ['DIV.swiper-slide right=421'"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Arkansas Construction and Remodeling LLC",
+    "url": "https://arkansasconstructionllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bath Fitter",
+    "url": "https://bathfitterlittlerock.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "CTK CONSTRUCTION LLC",
+    "url": "https://www.ctkconstructionllc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Little Rock, AR"
+  ]
+ }
+]
