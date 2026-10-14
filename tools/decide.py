@@ -263,11 +263,13 @@ def g4(c, s, m, man):
         if phone["status"] == "FAIL":
             return "FAIL", {**ev_, "g4": "phone check failed: " + phone["detail"]}
         return "PASS", ev_
-    if man and man.get("g4_done"):
+    if man and (man.get("g4_done") is True or man.get("stopped_at") == "G4"):
         return "FAIL", {**ev_, "g4": f"only {len(types)} dated signal type(s) inside 90 days could be evidenced "
                                      f"({', '.join(types) or 'none'}); regional search notes: {man.get('g4_notes','')[:200]}"}
-    if len(types) == 0 and not (s or {}).get("g2") == "PASS":
-        return "FAIL", {**ev_, "g4": "no dated signal"}
+    if len(types) == 0:
+        return "FAIL", {**ev_, "g4": "no dated signal inside 90 days in the 3 Google reviews visible on the GBP (anonymous "
+                                     "limited view) or in dated site content (WP REST / RSS); two signal types required, "
+                                     "manual search for two further types not run"}
     return "PENDING", {**ev_, "g4": f"{len(types)} of 2 signal types evidenced; needs regional search"}
 
 

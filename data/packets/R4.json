@@ -1,9 +1,9 @@
 [
  {
-  "id": "bathsbyben.com",
-  "name": "Baths By Ben",
+  "id": "frontierdesignremodeling.com",
+  "name": "Frontier Design & Remodeling",
   "region": "R4",
-  "website": "https://bathsbyben.com/",
+  "website": "https://frontierdesignremodeling.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,211 +11,362 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://bathsbyben.com/"
+    "https://frontierdesignremodeling.com/"
+   ],
+   "contact": [
+    "https://frontierdesignremodeling.com/contact/"
    ],
    "about": [
-    "https://bathsbyben.com/about-us/"
+    "https://frontierdesignremodeling.com/about/"
    ],
    "gallery": [
-    "https://bathsbyben.com/bathroom-renovations/"
+    "https://frontierdesignremodeling.com/project-consulting/",
+    "https://frontierdesignremodeling.com/portfolio/"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yGLV4lLHGYR9e0A5-_vY58&hl=en",
-    "quote": "Rich Thielk: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJNw5J9E58ECMR7YmbXMYms6k&hl=en",
+    "quote": "Nick: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-02",
+    "url": "https://frontierdesignremodeling.com/bathroom-remodeling-services-in-denver-co/",
+    "quote": "wp-json/posts published 2026-10-02T07:29:21: 'Bathroom Remodeling Services in Denver, CO'"
    }
   ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yGLV4lLHGYR9e0A5-_vY58&hl=en",
-  "gbp_title": "Baths By Ben",
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJNw5J9E58ECMR7YmbXMYms6k&hl=en",
+  "gbp_title": "Frontier Design & Remodeling",
   "gbp_address": null,
-  "gbp_rating": "5.0\n(43)",
-  "gbp_phone": "phone:tel:+17204290256",
+  "gbp_rating": "4.7\n(49)",
+  "gbp_phone": "phone:tel:+13039903676",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Rich Thielk",
+    "reviewer": "Nick",
     "when": "2 months ago",
     "stars": "5 stars",
-    "text": "We recently completed a bathroom remodel with Baths By Ben, and the entire experience exceeded our expectations. From start to finish, their craftsmanship and attention to detail were outstanding. \u2026",
-    "owner": null
+    "text": "Tanner and Josh were excellent resources and our kitchen is beautiful. They handled everything for us involving the scheduling and managing the people doing the plumbing/electrical/drywall. All we needed to do was make the design choices \u2026",
+    "owner": "Response from the owner 2 months ago\nNick, thank you for the thoughtful review and for trusting us with your kitchen renovation! \u2026 More"
    },
    {
-    "reviewer": "Wendy Heigel",
+    "reviewer": "Chelsea Ottaviano",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "We had a great experience working with Josh and Tanner. We completely remodeled our small guest bathroom, which involved gutting the space and relocating both the plumbing and HVAC. Throughout the project, Josh and Tanner communicated \u2026",
+    "owner": "Response from the owner 3 months ago\nThank you so much for the kind words and for taking the time to leave us a review! We really enjoyed working with you on your guest bathroom and are so happy to hear that you love how it turned out. \u2026 More"
+   },
+   {
+    "reviewer": "Jen Gehl",
     "when": "6 months ago",
     "stars": "5 stars",
-    "text": "Don\u2019t wait!  Call him now!\nWhat really sets Ben apart is that he delivers high-end, professional results at an affordable price. \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Deb Diasparra",
-    "when": "7 months ago",
-    "stars": "5 stars",
-    "text": "Ben did a stellar job remodeling our master bath, updating second floor bath and refreshing the basement shower. We absolutely love the attention to detail and the Onyx material is wonderful! So easy to clean and always looks great! Ben \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/profile.php?id=100066897282129",
-   "https://www.facebook.com/search/top?q=bathsbyben"
-  ],
-  "instagram_links": [],
-  "franchise_mentions": [
-   "re-bath"
-  ],
-  "niche_word_counts": {
-   "kitchen": 0,
-   "bath": 60,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 3,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://bathsbyben.com/wp-content/uploads/2022/04/SplashScr.png = 1,500,853 bytes; https://bathsbyben.com/wp-content/uploads/2024/01/IMG-8358.jpg = 3,469,419 by"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Alexa Interiors",
-    "url": "https://www.alexainteriors.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Buttercup Kitchen and Bath",
-    "url": "https://www.buttercupkb.com/",
-    "gbp_address": "\ue0c8\n3045 Whitman Dr Ste 103, Evergreen, CO 80439, United States"
-   },
-   {
-    "name": "True Design Build, Ltd.",
-    "url": "https://www.coloradotruedesignbuild.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Evergreen Craftsmen Collective",
-    "url": "https://www.evcraftsmen.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Meadow Creek Design Studio",
-    "url": "https://www.meadowcreekdesignstudio.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Pinnacle Contracting, LLC",
-    "url": "https://www.pinnaclecontractingco.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Evergreen, CO"
-  ]
- },
- {
-  "id": "bpmcentral.com",
-  "name": "Banner Property Management, Inc.",
-  "region": "R4",
-  "website": "https://bpmcentral.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://bpmcentral.com/"
-   ],
-   "contact": [
-    "https://bpmcentral.com/contact"
-   ],
-   "about": [
-    "https://bpmcentral.com/about-us"
-   ],
-   "gallery": [
-    "https://bpmcentral.com/gallery",
-    "https://bpmcentral.com/gallery"
-   ],
-   "legal": [
-    "https://bpmcentral.com",
-    "https://bpmcentral.com",
-    "https://bpmcentral.com"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJN2pbUUewIIYRKcoRcr02NZ8&hl=en",
-    "quote": "Ashley Holmes: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2pbUUewIIYRKcoRcr02NZ8&hl=en",
-  "gbp_title": "Banner Property Management, Inc.",
-  "gbp_address": "\ue0c8\n3228 N Turnbull Dr, Metairie, LA 70002, United States",
-  "gbp_rating": "5.0\n(47)",
-  "gbp_phone": "phone:tel:+15048888350",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Katherine McGittigan",
-    "when": "7 months ago",
-    "stars": "5 stars",
-    "text": "We had significant water damage in our bathroom and were honestly overwhelmed at the thought of repairs. From the very first call, this construction company put us at ease. Blake and his team were professional, responsive, and incredibly \u2026",
-    "owner": "Response from the owner 7 months ago\nThank you for the thoughtful review. Water damage repairs can feel overwhelming at the beginning, so we\u2019re glad we were able to make the process smooth and keep communication clear from demolition all the way through the rebuild. It means a \u2026 More"
-   },
-   {
-    "reviewer": "Ashley Holmes",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "Donovan did a great job putting in a new kitchen floor and door for us. He was able to address the problem with our tiles coming up. His team did a great job allowing us to still have use of the kitchen. We were pleased with the result and highly recommend them!",
-    "owner": "Response from the owner a month ago\nThank you for the great review! We\u2019re glad Donovan and the team were able to resolve the flooring issue and get the new kitchen floor and door installed while keeping the disruption to your home to a minimum. We really appreciate you trusting us with the project and recommending our team!"
-   },
-   {
-    "reviewer": "James Holmes",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "Donavan and his team were great\u2014installed a new kitchen floor and side door without a hitch. Work performed quickly, efficiently and at a good price. Most importantly, the wife is happy!! \ud83d\ude01 \u2026",
-    "owner": "Response from the owner a month ago\nThank you for the great review! We\u2019re glad Donovan and the team were able to get everything taken care of quickly and smoothly. And most importantly, we\u2019re glad the wife is happy! We truly appreciate you trusting us with your home!"
+    "text": "We loved working with Josh, Tanner and their designer Susan on our primary bathroom remodel. They were incredibly helpful with the design process, budgeting and working with our timeframe. They were always responsive to our questions and \u2026",
+    "owner": "Response from the owner 3 months ago\nThank you so much for taking the time to leave such a thoughtful review! It was truly a pleasure working with you on your primary bathroom remodel. \u2026 More"
    }
   ],
   "emails_found": [
    {
-    "email": "sales@bpmnola.com",
+    "email": "info@frontierdesignremodeling.com",
     "how": "mailto",
-    "raw": "href=\"mailto:sales@bpmnola.com",
-    "page": "https://bpmcentral.com/"
+    "raw": "href=\"mailto:info@frontierdesignremodeling.com",
+    "page": "https://frontierdesignremodeling.com/"
+   },
+   {
+    "email": "tf.frontierdesignremodeling@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:tf.frontierdesignremodeling@gmail.com",
+    "page": "https://frontierdesignremodeling.com/contact/"
    }
   ],
   "dm_snippets": [
    {
-    "page": "https://bpmcentral.com/",
-    "snippet": "Marc Banner, owner of Banner Property Management, has been in the industry for over 30 years"
+    "page": "https://frontierdesignremodeling.com/",
+    "snippet": "Frontier Design Owner & Co-Owner: Tanner and Joshua"
    },
    {
-    "page": "https://bpmcentral.com/about-us",
-    "snippet": "Marc Banner, owner of Banner Property Management, has been in the industry for over 30 years"
+    "page": "https://frontierdesignremodeling.com/about/",
+    "snippet": "Founder and Co-founder"
    }
   ],
   "facebook_links": [
-   "https://www.facebook.com/bpmnola"
+   "https://www.facebook.com/profile.php?id=100095331951464"
   ],
   "instagram_links": [
-   "https://www.instagram.com/bpmnola"
+   "https://www.instagram.com/frontier_design_remodeling"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 2,
-   "bath": 1,
+   "kitchen": 23,
+   "bath": 29,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 4,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 401px, i.e. 26px wider than the screen; elements past the right edge: ['DIV.ti-name right=410', 'I"
+  ],
+  "competitor_pool": [
+   {
+    "name": "ADO Home Renovations",
+    "url": "https://adorenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bathroom Remodel Arvada",
+    "url": "https://bathroomremodelarvada.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Complete Kitchens & More",
+    "url": "https://www.completekitchensandmore.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cress Kitchen & Bath",
+    "url": "https://www.cresskitchenbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Denver Bath Remodel, LLC",
+    "url": "https://denverbathremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JM Kitchen & Bath Design",
+    "url": "https://jmwoodworks.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Arvada, CO"
+  ]
+ },
+ {
+  "id": "heritageremodelers.com",
+  "name": "Heritage Remodelers & Builders",
+  "region": "R4",
+  "website": "https://heritageremodelers.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://heritageremodelers.com/"
+   ],
+   "contact": [
+    "https://heritageremodelers.com/contact/"
+   ],
+   "about": [
+    "https://heritageremodelers.com/whole-home-renovations/",
+    "https://heritageremodelers.com/about/"
+   ],
+   "gallery": [
+    "https://heritageremodelers.com/gallery/"
+   ],
+   "legal": [
+    "https://heritageremodelers.com/privacy-policy/",
+    "https://heritageremodelers.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJEZ41HEiyxUURZFIEtLrRW6U&hl=en",
+    "quote": "Laura Jones: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-08-10",
+    "url": "https://heritageremodelers.com/kitchen-remodel-cost-in-dfw-what-determines-the-investment-in-2026/",
+    "quote": "wp-json/posts published 2026-08-10T16:08:39: 'Kitchen Remodel Cost in DFW: What Determines the Investment in 2026'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZ41HEiyxUURZFIEtLrRW6U&hl=en",
+  "gbp_title": "Heritage Remodelers & Builders",
+  "gbp_address": "\ue0c8\n1402 Westwood Dr, Lewisville, TX 75067, United States",
+  "gbp_rating": "5.0\n(29)",
+  "gbp_phone": "phone:tel:+14699847245",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Marilyn Keith",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "This company is exemplary in service.  They took care of every detail from picking it up, doing outstanding repair work, and reinstalling the cabinet door. Incredible service, incredible price!",
+    "owner": "Response from the owner 4 months ago\nMarylyn, thank you so very much for your business, kind words, and friendliness. You and all the residents there in Colleyville are amazing people to work with."
+   },
+   {
+    "reviewer": "Laura Jones",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Scott and his team remodeled both my primary bathroom and my hall/guest bathroom. Both rooms turned out great! I was impressed with the close attention to detail and the project coming in on budget. Scott kept me informed throughout the \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you, Laura for the kind review! We are so glad you had a great experience with Heritage Remodelers & Builders! "
+   },
+   {
+    "reviewer": "P Johnson",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Heritage Remodelers provided a complete remodel of the primary bathroom in my home in Flower Mound. I chose Heritage from the other quotation I had because of my impression of owner, Scott Smith. He communicated his commitment to creating a \u2026",
+    "owner": "Response from the owner 4 months ago\nThank you Pat. I can speak for everyone involved when I say it was a pleasure working with you. "
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://heritageremodelers.com/about/",
+    "snippet": "From the Founder"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/heritageremodelers/"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 16,
+   "bath": 17,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 478px, i.e. 103px wider than the screen; elements past the right edge: ['DIV.grecaptcha-logo right"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Expo Home Improvement",
+    "url": "https://www.expohomeimprovement.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "King Edwards Kitchen and Bath Design",
+    "url": "https://kingedwardskitchenandbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Manta Construction Company",
+    "url": "https://www.mantaconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Sunday Morning Kitchen and Bath",
+    "url": "https://sundaymorningkb.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "West Shore Home",
+    "url": "https://westshorehome.com/locations/hartford-ct/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Coppell, TX",
+   "Flower Mound, TX"
+  ]
+ },
+ {
+  "id": "luxurybathokc.com",
+  "name": "Luxury Bath OKC",
+  "region": "R4",
+  "website": "https://luxurybathokc.com/",
+  "bench_vendor_route": true,
+  "incumbent_vendor": "Oklahoma City SEO",
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://luxurybathokc.com/"
+   ],
+   "contact": [
+    "https://luxurybathokc.com/contact/",
+    "https://luxurybathokc.com/contact/"
+   ],
+   "about": [
+    "https://luxurybathokc.com/about/"
+   ],
+   "gallery": [
+    "https://luxurybathokc.com/gallery/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJRYWOROIFsocRSiJErhdZf5Y&hl=en",
+    "quote": "Camille Case: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-16",
+    "url": "https://luxurybathokc.com/bathroom-remodeling-walk-in-shower-or-tub-to-shower-conversion/",
+    "quote": "wp-json/posts published 2026-09-16T10:00:00: 'Bathroom Remodeling: Walk-In Shower or Tub-to-Shower Conversion'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYWOROIFsocRSiJErhdZf5Y&hl=en",
+  "gbp_title": "Luxury Bath OKC",
+  "gbp_address": "\ue0c8\n7800 NW 94th St Ste 2, Oklahoma City, OK 73162, United States",
+  "gbp_rating": "5.0\n(6)",
+  "gbp_phone": "phone:tel:+14058132284",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Camille Case",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "These are amazing people. I love the work they do and trust them completely!",
+    "owner": "Response from the owner a month ago\nWow that honestly made our day! We love what we do and hearing that you trust us completely means everything to us. We do not take that lightly. If you ever need anything at all please do not hesitate to reach out. We are always happy to help and we look forward to continuing to earn that trust. Thank you so much for the kind words!"
+   },
+   {
+    "reviewer": "Read Flake",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Amazing company and staff.  Highly recommend!",
+    "owner": "Response from the owner a month ago\nWe really appreciate that Read! Short and sweet and it means a lot to us. We work hard to make sure every customer feels taken care of and it is always great to hear when that comes through. If you ever need anything in the future do not hesitate to give us a call. Thanks for the recommendation and for choosing Luxury Bath OKC!"
+   },
+   {
+    "reviewer": "Scott Reed",
+    "when": "3 weeks ago",
+    "stars": "5 stars",
+    "text": "Needed a walk in shower for my parents. This company was a god send. They were thousands of dollars less than their competition, but more importantly I have the peace of mind that my parents are safe in their bathroom now. Thank you luxury bath.",
+    "owner": "Response from the owner 3 weeks ago\nHi Scott,\nThank you so much for trusting us with your parents\u2019 bathroom! Knowing their new walk-in shower gives you peace of mind about their safety is the kind of \u2026 More"
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 48,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
@@ -226,239 +377,151 @@
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 2
+   "custom home": 0
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://bpmcentral.com/wp-content/uploads/2022/11/iStock-516389862.jpg = 1,639,236 bytes; https://bpmcentral.com/wp-content/uploads/2020/02/iStock-1416722217.jp"
+   "gallery images over 1MB each: https://luxurybathokc.com/wp-content/uploads/2026/08/Luxurt-Bath-Image-4-scaled.png = 8,908,049 bytes; https://luxurybathokc.com/wp-content/uploads/2026/08/Luxu"
   ],
   "competitor_pool": [
    {
-    "name": "BC Cabinetry",
-    "url": "https://www.bckitchenbath.com/",
+    "name": "A2Z Construction and Remodeling",
+    "url": "https://a2z-remodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "Borrouso Construction",
-    "url": "https://borrousoconstruction.com/",
+    "name": "Kitchen Refresh St. Paul, MN",
+    "url": "https://kitchenrefresh.net/location/st-paul-territory/",
     "gbp_address": null
    },
    {
-    "name": "Classic Kitchens - Kitchen & Bath Design Studio",
-    "url": "https://classickitchensetc.com/",
+    "name": "Lakeside Roofing and Construction",
+    "url": "https://www.lakesideokc.com/",
     "gbp_address": null
    },
    {
-    "name": "Huey Brown Kitchens",
-    "url": "https://hueybrownkitchens.com/",
+    "name": "SEMCO Construction",
+    "url": "https://semcohomes.com/",
     "gbp_address": null
    },
    {
-    "name": "MLM Custom Homes & Renovations",
-    "url": "https://mlm-inc.com/contact-us/",
+    "name": "Ten Key Home & Kitchen Remodels Edmond",
+    "url": "https://tenkeyremodels.com/remodeling-services-edmond-ok/",
     "gbp_address": null
    },
    {
-    "name": "Renuity Home Improvement of Grand Rapids",
-    "url": "https://renuityhome.com/michigan/grand-rapids-mi/",
+    "name": "West Shore Home",
+    "url": "https://westshorehome.com/locations/hartford-ct/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Metairie, LA"
+   "Yukon, OK"
   ]
  },
  {
-  "id": "buckthebuilder.com",
-  "name": "Buck the Builder",
+  "id": "ootwc.com",
+  "name": "Out Of The Woods Custom Cabinets and Countertops",
   "region": "R4",
-  "website": "https://buckthebuilder.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
+  "website": "https://ootwc.com/",
+  "bench_vendor_route": true,
+  "incumbent_vendor": "PDM",
   "platform": [
    "WordPress"
   ],
   "pages_fetched": {
    "home": [
-    "https://buckthebuilder.com/"
-   ],
-   "about": [
-    "https://buckthebuilder.com/about/"
-   ],
-   "gallery": [
-    "https://buckthebuilder.com/projects/",
-    "https://buckthebuilder.com/whole-home-remodels-college-station/"
-   ],
-   "legal": [
-    "https://buckthebuilder.com/privacy-policy/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ59WAGqOBRoYRS3EX_-OL_nU&hl=en",
-    "quote": "Robert Van Dyke: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
-   },
-   {
-    "type": "site_dated_content",
-    "date": "2026-08-07",
-    "url": "https://buckthebuilder.com/at-buck-the-builder-we-get-asked-one-question-more-than-almost-any-other-how-do-you-choose-your-vendors/",
-    "quote": "wp-json/posts published 2026-08-07T13:03:41: 'How To Avoid The Lowest Bid Game'"
-   }
-  ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59WAGqOBRoYRS3EX_-OL_nU&hl=en",
-  "gbp_title": "Buck the Builder",
-  "gbp_address": "\ue0c8\n4040 Texas 6 Frontage Rd Ste 200, College Station, TX 77845, United States",
-  "gbp_rating": "5.0\n(56)",
-  "gbp_phone": "phone:tel:+19797770553",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Julissa Pinzon",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "We had an excellent experience remodeling our office with Buck The Builder. From the beginning, they were very clear about the budget, stayed on schedule, and were always responsive throughout the entire process. Renee was especially \u2026",
-    "owner": "Response from the owner 4 months ago\nThank you, Julissa! It was a pleasure to work with y'all, and we likewise love how both final spaces turned out. We look forward to future projects!"
-   },
-   {
-    "reviewer": "Robert Van Dyke",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "We recently completed a kitchen remodel, and the entire\nexperience exceeded our expectations from start to finish.\nThe team was professional, knowledgeable, and \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you Robert for the kind words and review. It was such a pleasure working with both you and Cheryl.  Our team couldn't be happier with how the kitchen turned out, and the two of you were such a joy to work with. Enjoy the new kitchen space!"
-   },
-   {
-    "reviewer": "Melody Stephenson",
-    "when": "7 months ago",
-    "stars": "5 stars",
-    "text": "I can highly recommend Buck the Builder for all your remodeling needs!  In January (2026) I had my tub removed and a tiled shower installed.\nFrom the very first phone conversation with Buck Hogue, I was impressed.  He \u2026",
-    "owner": "Response from the owner 7 months ago\nThank you so much for your kind words, Melody. We are so glad you not only are happy with your new shower, but that you enjoyed the entire process as well. It was a pleasure to work with you, and thank you for trusting us with your home!"
-   }
-  ],
-  "emails_found": [],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/buckthebuilder"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/buck.the.builder"
-  ],
-  "franchise_mentions": [
-   "rebath"
-  ],
-  "niche_word_counts": {
-   "kitchen": 11,
-   "bath": 9,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 1,
-   "cabinet": 3,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 385px, i.e. 10px wider than the screen; elements past the right edge: ['DIV.x-bg-layer-lower-image"
-  ],
-  "competitor_pool": [
-   {
-    "name": "A Action Construction",
-    "url": "https://www.aactionbcs.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Good Company Construction",
-    "url": "https://goodcompanyconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Stearns Design Build",
-    "url": "https://stearnsdesignbuild.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "College Station, TX"
-  ]
- },
- {
-  "id": "coloradocabinetrefacing.com",
-  "name": "Colorado Cabinet Refacing",
-  "region": "R4",
-  "website": "https://coloradocabinetrefacing.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Squarespace"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://coloradocabinetrefacing.com/"
+    "https://ootwc.com/"
    ],
    "contact": [
-    "https://coloradocabinetrefacing.com/contact"
+    "https://ootwc.com/custom-cabinetry-layton-utah/"
+   ],
+   "about": [
+    "https://ootwc.com/about-us/",
+    "https://ootwc.com/about-us/our-team/"
    ],
    "gallery": [
-    "https://coloradocabinetrefacing.com/gallery"
+    "https://ootwc.com/countertops/custom-stone-projects/",
+    "https://ootwc.com/recent-projects/"
+   ],
+   "legal": [
+    "https://ootwc.com",
+    "https://ootwc.com/privacy-policy/",
+    "https://ootwc.com/terms/"
    ]
   },
   "auto_signals": [
    {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJSVgA286Fa4cRRsJ8-ZmU4jE&hl=en",
-    "quote": "Jenny Conway: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+    "type": "site_dated_content",
+    "date": "2026-10-01",
+    "url": "https://ootwc.com/out-of-the-woods-1-cabinet-company-in-northern-utah/",
+    "quote": "wp-json/posts published 2026-10-01T10:00:00: 'Out of the Woods Named Back-to-Back Winner of #1 Cabinet Company in Northern Uta'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVgA286Fa4cRRsJ8-ZmU4jE&hl=en",
-  "gbp_title": "Colorado Cabinet Refacing",
-  "gbp_address": null,
-  "gbp_rating": "4.9\n(38)",
-  "gbp_phone": "phone:tel:+17205452189",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_ob6KADU4cRastTwWhfePw&hl=en",
+  "gbp_title": "Out Of The Woods Custom Cabinets and Countertops",
+  "gbp_address": "\ue0c8\n1720 W Gordon Ave, Layton, UT 84041, United States",
+  "gbp_rating": "4.7\n(429)",
+  "gbp_phone": "phone:tel:+18013364153",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Dina Drennan",
-    "when": "3 months ago",
+    "reviewer": "Debra Pedersen",
+    "when": "5 months ago",
     "stars": "5 stars",
-    "text": "We had Tad come and reface and replace all of our cabinets in the kitchen. From the initial meeting to the final product the whole process was efficient and organized. Tad is responsive and gives good design advice. The kicker is we had the \u2026",
-    "owner": "Response from the owner 3 months ago\nThank you, it was great working with you!"
+    "text": "I can't say enough about how wonderful this company is to work with. They deserve more than 5 stars. From the beginning to the end they are very customer focused. A big plus is our beautiful quartz countertops. Could not be happier.",
+    "owner": "Response from the owner 5 months ago\nThank you very much for your 5-star review Debra. We are thrilled that you are so happy with the product and service that you received. We strive for an amazing experience and we hope you enjoy your new space!"
    },
    {
-    "reviewer": "RJ",
-    "when": "a year ago",
+    "reviewer": "Wendy Holt",
+    "when": "5 months ago",
     "stars": "5 stars",
-    "text": "If we could give Tad 10 stars we would. His work ethic and Artisan talent are unrivaled.  If you want a new kitchen without the f cost and hassle of a full renovation then look to Tad at Colorado Cabinet Refacing. Tad takes extreme pride in \u2026",
-    "owner": null
+    "text": "We had a great experience with Out of the Woods! Our designer Michael designed exactly what I was hoping for. Install was quick and easy.",
+    "owner": "Response from the owner 5 months ago\nThank you so much for the 5-Star review Wendy! We are so happy that Michael and the rest of the Out of the Woods team were able to take care of you with your project. "
    },
    {
-    "reviewer": "Jenny Conway",
-    "when": "2 months ago",
+    "reviewer": "DAVE MILLIKEN",
+    "when": "2 years ago",
     "stars": "5 stars",
-    "text": "Tad Oitker did a fabulous job in my kitchen!  He refaced my kitchen's old honey oak cabinets into a beautiful modern looking maple kitchen. He is very hard working, has great woodworking skills and his attention to details and \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you! It was great working with you."
+    "text": "Our whole experience with Out of the Woods from design to installation was great!  Our cabinets were ready for installation on time and our experiences with all the staff  was exceptional.  They cared about us and our small project.  They \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you so much for the great review Dave! We really appreciate the opportunity to work on your project and help create a space that you love. It looks fantastic!"
    }
   ],
-  "emails_found": [],
-  "dm_snippets": [],
-  "facebook_links": [
-   "http://www.facebook.com/2008/fbml"
+  "emails_found": [
+   {
+    "email": "leads@ootwc.com",
+    "how": "plain text",
+    "raw": "leads@ootwc.com",
+    "page": "https://ootwc.com/privacy-policy/"
+   }
   ],
-  "instagram_links": [],
+  "dm_snippets": [
+   {
+    "page": "https://ootwc.com/about-us/",
+    "snippet": "In 2017, Lonne decided he wished to pursue other interests and Tige took over as the owner and CEO"
+   },
+   {
+    "page": "https://ootwc.com/about-us/our-team/",
+    "snippet": "President/CEO"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/ootwc",
+   "https://www.facebook.com/ootwc/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/ootw_cabinets",
+   "https://www.instagram.com/ootwcabinet_counter"
+  ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 7,
-   "bath": 0,
+   "kitchen": 20,
+   "bath": 11,
    "roof": 0,
-   "plumb": 0,
+   "plumb": 1,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 48,
+   "cabinet": 77,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -466,145 +529,551 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/577bc5292e69cf36235ae8c3/1684105962129-2OA6E4LVHFHNJB588D7C/Denver+Kitchen = 1,442,627 bytes (HTTP Content-Length)"
+   "dead phone or email link: tel: hrefs [] mailto: hrefs ['?subject=Contact Us&body=https://ootwc.com/custom-cabinetry-layton-utah/']"
   ],
   "competitor_pool": [
    {
-    "name": "Buerger Brothers Construction LLC",
-    "url": "https://bbcgolden.com/",
+    "name": "Crow Brothers LLC",
+    "url": "https://crowconstructionutah.com/",
     "gbp_address": null
    },
    {
-    "name": "Foothills Kitchens & Cabinetry",
-    "url": "https://foothillskitchens.com/",
+    "name": "Duncan Frazier",
+    "url": "https://www.duncanfrazier.com/",
     "gbp_address": null
    },
    {
-    "name": "Green Mountain Remodeling",
-    "url": "https://greenmountainremodeling.com/",
+    "name": "Elevated Kitchen & Bath",
+    "url": "https://elevatedkitchenandbathutah.com/",
     "gbp_address": null
    },
    {
-    "name": "Horowitz Family Construction",
-    "url": "https://horowitzfc.com/",
+    "name": "Horizon Renovations LLC",
+    "url": "https://www.horizonrenovationsco.com/",
     "gbp_address": null
    },
    {
-    "name": "Kinsman Construction, Inc",
-    "url": "https://www.kinsmanconstructioninc.com/",
+    "name": "Quality First Construction LLC",
+    "url": "https://qfconstruction.net/",
     "gbp_address": null
    },
    {
-    "name": "Reconstruct Colorado, LLC",
-    "url": "https://reconstruct-colorado.com/",
+    "name": "Premier Remodeling",
+    "url": "https://www.remodelbypremier.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Golden, CO"
+   "Kaysville, UT"
   ]
  },
  {
-  "id": "fivefoldkc.com",
-  "name": "Five Fold Solutions",
+  "id": "richlynnconstruction.com",
+  "name": "Richlynn Construction And Remodeling",
   "region": "R4",
-  "website": "https://www.fivefoldkc.com/",
+  "website": "https://www.richlynnconstruction.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "Squarespace"
+   "Wix"
   ],
   "pages_fetched": {
    "home": [
-    "https://www.fivefoldkc.com/"
+    "https://www.richlynnconstruction.com/"
    ],
    "contact": [
-    "https://www.fivefoldkc.com/contact-us"
+    "https://www.richlynnconstruction.com/contact"
    ],
    "about": [
-    "https://www.fivefoldkc.com/about-us",
-    "https://www.fivefoldkc.com/whole-home-renovations"
+    "https://www.richlynnconstruction.com/meettheteam"
    ],
-   "legal": [
-    "https://www.fivefoldkc.com/privacy",
-    "https://www.fivefoldkc.com/terms"
+   "gallery": [
+    "https://www.richlynnconstruction.com/gallery"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJtc-5v1bZlYQRLRcYhAlmVvo&hl=en",
-    "quote": "William With This Effin\u2019 GM Games: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ317tAuZubIcRvbRsZnOwHXQ&hl=en",
+    "quote": "Andrea Harrington: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
    },
    {
     "type": "site_dated_content",
     "date": "2026-10-12",
-    "url": "https://www.fivefoldkc.com/blog/how-much-does-a-home-addition-cost-get-insights",
-    "quote": "rss:https://www.fivefoldkc.com/blog?format=rss published Mon, 12 Oct 2026 17:38:53 +0000: 'How Much Does a Home Addition Cost? Get Insights'"
+    "url": "https://www.richlynnconstruction.com/post/why-choose-richlynn-construction-services-in-parker",
+    "quote": "rss:https://www.richlynnconstruction.com/blog-feed.xml published Mon, 12 Oct 2026 14:30:04 GMT: 'Why Choose Richlynn Construction Services in Parker'"
    }
   ],
   "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJtc-5v1bZlYQRLRcYhAlmVvo&hl=en",
-  "gbp_title": "Five Fold Solutions",
-  "gbp_address": "\ue0c8\n6310 Lamar Ave #130, Overland Park, KS 66202, United States",
-  "gbp_rating": "5.0\n(8)",
-  "gbp_phone": "phone:tel:+19139046400",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ317tAuZubIcRvbRsZnOwHXQ&hl=en",
+  "gbp_title": "Richlynn Construction And Remodeling",
+  "gbp_address": "\ue0c8\n10233 S Parker Rd Ste 300, Parker, CO 80134, United States",
+  "gbp_rating": "4.9\n(92)",
+  "gbp_phone": "phone:tel:+13032296341",
   "gbp_reviews_visible": [
    {
-    "reviewer": "William With This Effin\u2019 GM Games",
+    "reviewer": "Lauren Jones-Kaplan",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Rich, Alec, Juan and their team did an amazing job with our basement bathroom remodel that needed new drains, plumbing moved, and a shower built out of a space with nothing. They were so communicative, detailed, and timely! We will \u2026",
+    "owner": "Response from the owner 3 months ago\nThank you for the kind review, we hope you enjoy the new space ! "
+   },
+   {
+    "reviewer": "Jesse Rodgers",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "We couldn\u2019t be happier with our experience working with RichLynn Construction on our full basement finishing renovation. From start to finish, the communication was excellent\u2014Rich and Alec kept us informed at every stage of the project and \u2026",
+    "owner": "Response from the owner 9 months ago\nThank you Rachel and Jesse we are so happy we could bring your vision to life. Enjoy the new space! "
+   },
+   {
+    "reviewer": "Andrea Harrington",
     "when": "a month ago",
     "stars": "5 stars",
-    "text": "Friendly. Great price. Flexible. Bathroom looks great. Max and Jason are great guys who work with great people.",
-    "owner": "Response from the owner a month ago\nThank you, William! We truly appreciate your kind words and are delighted to hear that you\u2019re pleased with your new bathroom. Max and Jason take great pride in their work, and it\u2019s wonderful to know their efforts made a positive impact. If you need any further home improvement services, don\u2019t hesitate to reach out!"
-   },
-   {
-    "reviewer": "Karlie",
-    "when": "Edited a year ago",
-    "stars": "5 stars",
-    "text": "I am incredibly happy with the work Five Fold Solutions did for me this Spring. If you're looking for a reliable general contractor in Kansas City, Max and Jason are the guys to call. I couldn't be more pleased with the results. From the \u2026",
-    "owner": "Response from the owner a month ago\nThank you, Karlie! We\u2019re delighted to hear that you are so pleased with the renovation and our team's dedication to your vision. Max and Jason truly appreciate your kind words about their craftsmanship and customer service. It was a \u2026 More"
-   },
-   {
-    "reviewer": "Connie Kao",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "My deck was needing work and I had a limited budget to maintain it. Max and Jason at Five Fold were flexible, accommodating, and helped me understand my options while guiding me through problem-solving. They are truly people who care.",
-    "owner": "Response from the owner a month ago\nThank you, Connie, for your wonderful review! We're delighted to hear that Max and Jason could assist you with your deck project while staying within your budget. At Five Fold Solutions, we pride ourselves on providing flexible solutions \u2026 More"
+    "text": "We had an excellent experience with RichLynn on our kitchen, bathroom, and staircase remodel. The quality of their work is outstanding, and it\u2019s clear that they take real pride in what they do. \u2026",
+    "owner": "Response from the owner a month ago\nThank you Andrea for the kind review. Your patience is something to be admired. We know living without a kitchen is not what most people want to do and we managed to work together to get it back online as quickly as we could. Once again we \u2026 More"
    }
   ],
   "emails_found": [
    {
-    "email": "info@fivefoldkc.com",
+    "email": "richard@richlynn.com",
     "how": "mailto",
-    "raw": "href=\"mailto:info@fivefoldkc.com",
-    "page": "https://www.fivefoldkc.com/"
+    "raw": "href=\"mailto:richard@richlynn.com",
+    "page": "https://www.richlynnconstruction.com/"
+   },
+   {
+    "email": "southalameda@richlynn.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:southalameda@richlynn.com",
+    "page": "https://www.richlynnconstruction.com/meettheteam"
+   },
+   {
+    "email": "alec@richlynn.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:alec@richlynn.com",
+    "page": "https://www.richlynnconstruction.com/meettheteam"
    }
   ],
   "dm_snippets": [
    {
-    "page": "https://www.fivefoldkc.com/about-us",
-    "snippet": "Co-Founder \u2022 Business Strategy & Growth"
-   },
-   {
-    "page": "https://www.fivefoldkc.com/about-us",
-    "snippet": "Co-Founder \u2022 Client Experience & Production"
+    "page": "https://www.richlynnconstruction.com/meettheteam",
+    "snippet": "Founder & CEO"
    }
   ],
   "facebook_links": [
-   "http://www.facebook.com/2008/fbml",
-   "https://www.facebook.com/people/Five-Fold-Solutions/61569655514491/",
-   "https://www.facebook.com/profile.php?id=61569655514491"
+   "https://www.facebook.com/reuniondenver"
   ],
   "instagram_links": [
-   "https://www.instagram.com/five_fold_solutions",
-   "https://www.instagram.com/fivefoldsolutionskc"
+   "https://www.instagram.com/richlynnconstruction"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 6,
-   "bath": 14,
+   "kitchen": 3,
+   "bath": 3,
    "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 2,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://static.wixstatic.com/media/c11c54_c902cb7a1d0440cb90d37214460c5920~mv2.png/v1/fit/w_960,h_679,q_90,enc_avif,qual = 1,269,141 bytes (HTTP Content-Length)"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Clarke Contracting Inc.",
+    "url": "https://clarkecontractinginc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Pride Bath",
+    "url": "https://www.homepridebath.com/fortcollins-co",
+    "gbp_address": null
+   },
+   {
+    "name": "N&R Finishes | Basement Finishing & Remodeling",
+    "url": "https://www.nrfinishes.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Showplace Design Center | Denver Cabinetry Design",
+    "url": "https://showplacedesigncenter.com/location/parker-denver/",
+    "gbp_address": null
+   },
+   {
+    "name": "Vista Luxe Bathrooms",
+    "url": "https://www.vistaluxebathrooms.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Parker, CO"
+  ]
+ },
+ {
+  "id": "richlynnconstructionnc.com",
+  "name": "RichLynn Construction and Remodeling",
+  "region": "R4",
+  "website": "https://www.richlynnconstructionnc.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.richlynnconstructionnc.com/"
+   ],
+   "contact": [
+    "https://www.richlynnconstructionnc.com/contact"
+   ],
+   "about": [
+    "https://www.richlynnconstructionnc.com/meet-the-team"
+   ],
+   "gallery": [
+    "https://www.richlynnconstructionnc.com/gallery",
+    "https://www.richlynnconstructionnc.com/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-24..2026-09-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Wru-rH5a4cRiXkKeQBNCZQ&hl=en",
+    "quote": "Cynthia Paine (Grandma Cindy): '2 weeks ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Wru-rH5a4cRiXkKeQBNCZQ&hl=en",
+  "gbp_title": "RichLynn Construction and Remodeling",
+  "gbp_address": "\ue0c8\n350 Terry St, Longmont, CO 80501, United States",
+  "gbp_rating": "5.0\n(5)",
+  "gbp_phone": "phone:tel:+13032296341",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Ron Rudolph",
+    "when": "Edited a week ago",
+    "stars": "5 stars",
+    "text": "Being located in Northern / Eastern Colorado, I was able to utilize Travis and his employer for my remodeling project.. Five Stars!!\nIT was a Great experience! \u2026",
+    "owner": "Response from the owner 2 weeks ago\nThank you for the kind review ! \n"
+   },
+   {
+    "reviewer": "Cynthia Paine (Grandma Cindy)",
+    "when": "2 weeks ago",
+    "stars": "5 stars",
+    "text": "Travis the Project Manager at RichLynn Construction was and is a pleasure to work with. I am extremely happy with my remodel. It is nice that they now include the North and East areas of Denver, Brighton, Thorton, Longmont, Westminster and surrounding areas to name a few. I\u2019ll be sure to contact you when I start my next project.",
+    "owner": "Response from the owner 2 weeks ago\nThank you so much for the kind review! "
+   },
+   {
+    "reviewer": "Bella Metzger",
+    "when": "2 weeks ago",
+    "stars": "5 stars",
+    "text": "Outstanding service and wonderful communication- really loved the results! Highly recommend!!",
+    "owner": "Response from the owner 2 weeks ago\nThank you so much it was a pleasure working with you ! "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "richard@richlynn.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:richard@richlynn.com",
+    "page": "https://www.richlynnconstructionnc.com/"
+   },
+   {
+    "email": "southalameda@richlynn.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:southalameda@richlynn.com",
+    "page": "https://www.richlynnconstructionnc.com/meet-the-team"
+   },
+   {
+    "email": "alec@richlynn.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:alec@richlynn.com",
+    "page": "https://www.richlynnconstructionnc.com/meet-the-team"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.richlynnconstructionnc.com/meet-the-team",
+    "snippet": "Founder & CEO"
+   }
+  ],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 3,
+   "bath": 3,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 2,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://static.wixstatic.com/media/6ab2a5_91240736b6f642b689cf18eaa6c6e120~mv2.png/v1/fit/w_960,h_679,q_90,enc_avif,qual = 1,376,313 bytes (HTTP Content-Length)"
+  ],
+  "competitor_pool": [
+   {
+    "name": "A's Remodeling & Masonry, LLC",
+    "url": "https://mangga2bet.co.uk/",
+    "gbp_address": null
+   },
+   {
+    "name": "Baker Builders",
+    "url": "https://bakerbuildersco.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Concept 32",
+    "url": "https://concept32designs.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "De la torre Remodeling",
+    "url": "https://dltremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Koeppen Construction",
+    "url": "https://gjkconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JS Renovations & HandyMan Service",
+    "url": "https://www.jsrenoandhandyman.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Longmont, CO"
+  ]
+ },
+ {
+  "id": "rnrcrew.com",
+  "name": "RNR Construction",
+  "region": "R4",
+  "website": "https://www.rnrcrew.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.rnrcrew.com/"
+   ],
+   "about": [
+    "https://www.rnrcrew.com/meet-the-team-at-rnr/"
+   ],
+   "gallery": [
+    "https://www.rnrcrew.com/our-projects/"
+   ],
+   "legal": [
+    "https://www.rnrcrew.com/privacy-policy/",
+    "https://www.rnrcrew.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJcVbie7t_TYcRpfNfwmm5tz0&hl=en",
+    "quote": "Curtis Reese: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVbie7t_TYcRpfNfwmm5tz0&hl=en",
+  "gbp_title": "RNR Construction",
+  "gbp_address": "\ue0c8\n1675 N Freedom Blvd, Provo, UT 84604, United States",
+  "gbp_rating": "5.0\n(34)",
+  "gbp_phone": "phone:tel:+18019010543",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Curtis Reese",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Great people and great company that knows how to get the job done and willing to work with the homeowners to get the right set up for any remodel or basement finish.  Very pleased with their professional services and would highly recommend their company to anyone.",
+    "owner": null
+   },
+   {
+    "reviewer": "Jenny Thornton",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "These guys were an absolute dream to work with. Danny did an excellent job and in a timely manner. I will highly recommend and have more jobs for them.",
+    "owner": null
+   },
+   {
+    "reviewer": "Lauren Reese",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "I highly recommend working with RNR! They were professional and super easy to work with on finishing our basement. Best of all, they finished ahead of schedule in just under 6 weeks, which was amazing since we were in a time crunch to get \u2026",
+    "owner": "Response from the owner a year ago\nThanks Lauren! Enjoy the space! "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@rnrcrew.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@rnrcrew.com",
+    "page": "https://www.rnrcrew.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=61576346814897"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/rnr_construction_ut"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 7,
+   "bath": 4,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://www.rnrcrew.com/wp-content/uploads/2026/04/Home-Additions.png = 1,191,598 bytes (HTTP Content-Length); https://www.rnrcrew.com/wp-content/uploads/2026/0"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Above and Beyond Remodeling",
+    "url": "https://www.aboveandbeyondut.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "DreamMaker Bath & Kitchen",
+    "url": "https://dreammaker-remodel.com/nwa/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "Utah Bathroom Remodels",
+    "url": "https://utahbathroomremodels.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Utah Builders & Contractors",
+    "url": "https://www.utahconstructionservices.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Utah Valley Tub Repair LLC",
+    "url": "https://uvtubrepair.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Provo, UT"
+  ]
+ },
+ {
+  "id": "sdghomeconcepts.com",
+  "name": "SDG Home Concepts - Kitchen, Bath & Home Remodeling",
+  "region": "R4",
+  "website": "https://sdghomeconcepts.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://sdghomeconcepts.com/"
+   ],
+   "contact": [
+    "https://sdghomeconcepts.com/contact-us/",
+    "https://sdghomeconcepts.com/contact-us/"
+   ],
+   "about": [
+    "https://sdghomeconcepts.com/about/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-05",
+    "url": "https://sdghomeconcepts.com/2026_kitchen_remodeling_frisco/",
+    "quote": "wp-json/posts published 2026-10-05T19:44:13: 'Why Frisco TX Homeowners Are Upgrading in 2026'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWbcrzFHTIYRxHqwo4IrGfo&hl=en",
+  "gbp_title": "SDG Home Concepts - Kitchen, Bath & Home Remodeling",
+  "gbp_address": "\ue0c8\n1200 Bluestem Dr, Aubrey, TX 76227, United States",
+  "gbp_rating": "5.0\n(47)",
+  "gbp_phone": "phone:tel:+19723470279",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Richard",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "From initial consultation to completion of our home remodeling Serge took time to help us figure out what we could do within our budget and carried it out flawlessly. The work ethic of everyone from painting, tiling, plumbing, electrical, \u2026",
+    "owner": "Response from the owner 4 months ago\nDear Richard, thank you for your kind words-it was a pleasure working on your home. We are grateful you trusted SDG home concept with your remodeling projects. \u2026 More"
+   },
+   {
+    "reviewer": "Jason Garrett",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We hired SDG Home Concepts to update our home as well as to build a new detached garage and we couldn't be happier with the results. Serge and his team are skillful, knowledgeable, courteous, and they keep you in the loop throughout the \u2026",
+    "owner": "Response from the owner a year ago\nJason, it was a pleasure working on your projects. Thank you for taking the time to provide a review!"
+   },
+   {
+    "reviewer": "Rodrigo Fantini",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "I\u2019ve used SDG for the remodeling of two of my homes, and they are hands-down the best in the business. \u2026",
+    "owner": "Response from the owner 6 months ago\nThank you so much, Rodrigo-it truly means a lot to us.\n\nIt\u2019s been an absolute pleasure working with you on multiple homes, and we\u2019re \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@sdghomeconcepts.com",
+    "how": "plain text",
+    "raw": "info@sdghomeconcepts.com",
+    "page": "https://sdghomeconcepts.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/people/SDG-Home-Concepts/100086746124331/?sk=about_details",
+   "https://www.facebook.com/yourpage"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/sdg_homeconcepts",
+   "https://www.instagram.com/yourprofile"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 11,
+   "bath": 11,
+   "roof": 1,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
@@ -614,123 +1083,134 @@
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 0
+   "custom home": 8
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://static1.squarespace.com/static/6637e400a65dba341668e469/t/68c98059087f14378e341b74/1758036071094/KC+Outdoor+Livi = 2,048,349 bytes (HTTP Content-Length)"
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 385px, i.e. 10px wider than the screen; elements past the right edge: ['DIV.swiper-slide.swiper-sl"
   ],
   "competitor_pool": [
    {
-    "name": "Kansas City Kitchen Remodeling",
-    "url": "https://kansascitykitchenremodeling.com/",
+    "name": "A Plus Home Improvement",
+    "url": "https://ahomeimprovement.com/",
     "gbp_address": null
    },
    {
-    "name": "MA Renovation LLC",
-    "url": "https://marenovationkc.com/",
+    "name": "Dallas Remodel & Design",
+    "url": "https://dallasremodeldesign.com/",
     "gbp_address": null
    },
    {
-    "name": "Midwest Kitchens, LLC",
-    "url": "https://www.midwestkitchensllc.com/",
+    "name": "DTXRemode lnc Little Elm Tx",
+    "url": "https://www.dtxremodel.com/",
     "gbp_address": null
    },
    {
-    "name": "Mission Kitchen & Bath",
-    "url": "https://missionkb.com/",
+    "name": "Ultimate Remodeling",
+    "url": "https://friscoremodelingcontractor.com/",
     "gbp_address": null
    },
    {
-    "name": "NextGen Remodeling LLC",
-    "url": "https://nextgenkc.com/?%2Futm_source=gbp",
-    "gbp_address": null
-   },
-   {
-    "name": "REconstruct",
-    "url": "https://reconstructkc.com/",
+    "name": "Prosper Bathroom Remodelers",
+    "url": "https://prosperbathroomremodelers.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Prairie Village, KS"
+   "Prosper, TX"
   ]
  },
  {
-  "id": "mrbath.com",
-  "name": "Mr. Bath",
+  "id": "tilemeister.com",
+  "name": "Tile Meister Llc",
   "region": "R4",
-  "website": "https://www.mrbath.com/",
+  "website": "https://www.tilemeister.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
-  "platform": [],
+  "platform": [
+   "Squarespace"
+  ],
   "pages_fetched": {
    "home": [
-    "https://www.mrbath.com/"
+    "https://www.tilemeister.com/"
    ],
    "contact": [
-    "https://www.mrbath.com/contact-us/"
+    "https://www.tilemeister.com/contact",
+    "https://www.tilemeister.com/contact"
    ],
    "about": [
-    "https://www.mrbath.com/about-us/",
-    "https://www.mrbath.com/showers/"
+    "https://www.tilemeister.com/about-us-1",
+    "https://www.tilemeister.com/about-us-1"
    ],
    "gallery": [
-    "https://www.mrbath.com/past-projects/",
-    "https://www.mrbath.com/gallery/"
-   ],
-   "legal": [
-    "https://www.mrbath.com/",
-    "https://www.mrbath.com/privacy-policy/",
-    "https://www.mrbath.com/terms/"
+    "https://www.tilemeister.com/gallery"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJo_0d2sRCWAsRmA7hbBPbRIA&hl=en",
-    "quote": "Trenell luke: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJI1nrEfYcR4cR0v2T_fLAz2k&hl=en",
+    "quote": "Mark Smith: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_0d2sRCWAsRmA7hbBPbRIA&hl=en",
-  "gbp_title": "Mr. Bath",
-  "gbp_address": "\ue0c8\n2027 Philip Dr, Covington, LA 70433, United States",
-  "gbp_rating": "5.0\n(177)",
-  "gbp_phone": "phone:tel:+19853133209",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1nrEfYcR4cR0v2T_fLAz2k&hl=en",
+  "gbp_title": "Tile Meister Llc",
+  "gbp_address": "\ue0c8\n611 N 1st St, Grand Junction, CO 81501, United States",
+  "gbp_rating": "4.8\n(197)",
+  "gbp_phone": "phone:tel:+19702448453",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Trenell luke",
-    "when": "2 months ago",
+    "reviewer": "Mark Smith",
+    "when": "a month ago",
     "stars": "5 stars",
-    "text": "Very Courteous and patient with me and my circumstances. Gave me the best advice in the products and materials that will be used to make this a very safe and durable shower for my 6ft 1 365 lb autistic son. Very knowledgeable on material, \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you for this kind review! This means so much to us. We are thrilled that we could help make your home feel safe and comfortable for you and your son. We are honored that you chose Mr. Bath in the New Orleans, LA area for your accessible bathroom remodel."
+    "text": "We decided to use Tile Meister for the Tile work in both bathrooms. Also the counter top and sinks in the master bath. We are glad we did. Tony helped us decide on Tile and options for both bathrooms. We were lucky to have them use William \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Chris Folse",
-    "when": "6 months ago",
+    "reviewer": "Shauna \u201cNMN\u201d Arithson",
+    "when": "5 months ago",
     "stars": "5 stars",
-    "text": "Isaac is the nicest person. Very professional, very thorough and informative. He showed us pieces of the material and photos of what it will look like. He was so informative and really took his time to answer any questions we had. We are very excited to get this done.",
-    "owner": "Response from the owner 3 months ago\nYour satisfaction means everything to us! Thank you for trusting Mr. Bath with your bathtub installation in Thibodaux, LA."
+    "text": "Just finished a full bathroom remodel with Tilemeister (May 2026). This is my second time using them for a home project. I couldn't be more pleased. They are responsive, professional and talented. Jack, Isaah, Steve and Brandon worked \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Julie Taglauer",
-    "when": "7 months ago",
+    "reviewer": "Sarah McDermott",
+    "when": "3 months ago",
     "stars": "5 stars",
-    "text": "Issac took a lot of time to explain how the remodel would work. He went over various options and was able to show me what the finished shower would look like. I was very pleased with his presentation and felt comfortable signing the papers.",
-    "owner": "Response from the owner 2 months ago\nThanks for the wonderful feedback! It was a pleasure serving you with your bathroom remodel in Covington, LA."
+    "text": "I had such a great experience with Tile Meister! Jamie helped me and was amazing! I couldn\u2019t be more appreciative. \u2026",
+    "owner": null
    }
   ],
-  "emails_found": [],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/profile.php?id=61564328367439"
+  "emails_found": [
+   {
+    "email": "randy@tilemeister.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:randy@tilemeister.com",
+    "page": "https://www.tilemeister.com/contact"
+   }
   ],
-  "instagram_links": [],
+  "dm_snippets": [
+   {
+    "page": "https://www.tilemeister.com/contact",
+    "snippet": "Co-owner: Cheryl DiDonato"
+   },
+   {
+    "page": "https://www.tilemeister.com/contact",
+    "snippet": "Co-owner: Cheryl DiDonato"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/tilemeister"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/tilemeistersolutions"
+  ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 0,
-   "bath": 44,
+   "kitchen": 6,
+   "bath": 11,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
@@ -744,37 +1224,780 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "dead phone or email link: tel: hrefs [] mailto: hrefs ['?subject=Thought%20you%20might%20like%20this%20from Mr.%20Bath%20&body=Check%20this%20out%20from Mr.%20Bath $1,776 OFF Your Bathro"
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/59d67afaf5e2314fa5e5058f/1508188166628-H6UK86DHXC2OADRA4J57/Skylight_Edit. = 1,064,951 bytes (HTTP Content-Length)"
   ],
   "competitor_pool": [
    {
-    "name": "Brash Industries, LLC",
-    "url": "https://brashindustries.com/",
+    "name": "Bath Planet Kansas City",
+    "url": "https://bathplanet.com/dealers/bath-planet-of-kansas-city",
     "gbp_address": null
    },
    {
-    "name": "Mendoza Construction",
-    "url": "https://mendozaconstructioninc.com/",
+    "name": "BTO Cabinet & Design",
+    "url": "https://www.btocabinet.com/",
     "gbp_address": null
    },
    {
-    "name": "Northshore Renovations and Contracting",
-    "url": "https://www.northshorerenovationsandcontracting.com/",
+    "name": "Justin's Tile & Remodeling",
+    "url": "https://www.justinstile.com/",
     "gbp_address": null
    },
    {
-    "name": "Renovation Nation, LLC",
-    "url": "https://www.renovationnationllc.com/",
+    "name": "Keystone Custom Builders, Inc.",
+    "url": "https://www.kcbgj.com/",
     "gbp_address": null
    },
    {
-    "name": "Southern Accents Remodeling",
-    "url": "https://southernaccentsremodeling.com/?local=true",
+    "name": "Miracle Method Surface Refinishing",
+    "url": "https://www.miraclemethod.com/sonoma-marin",
+    "gbp_address": null
+   },
+   {
+    "name": "RG Cowan Design Build",
+    "url": "https://rgcowandesign.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Covington, LA"
+   "Grand Junction, CO"
+  ]
+ },
+ {
+  "id": "titangcparkcity.com",
+  "name": "Titan Construction",
+  "region": "R4",
+  "website": "https://titangcparkcity.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://titangcparkcity.com/"
+   ],
+   "about": [
+    "https://titangcparkcity.com/about/"
+   ],
+   "gallery": [
+    "https://titangcparkcity.com/services/general-contractor/project-management/"
+   ],
+   "legal": [
+    "https://titangcparkcity.com/privacy-policy/",
+    "https://titangcparkcity.com/privacy-policy/",
+    "https://titangcparkcity.com/terms-and-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJv1JczqFtUocRVUDkoQl87nA&hl=en",
+    "quote": "Jessica Pierce: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1JczqFtUocRVUDkoQl87nA&hl=en",
+  "gbp_title": "Titan Construction",
+  "gbp_address": "\ue0c8\n1743 Sidewinder Dr, Park City, UT 84060, United States",
+  "gbp_rating": "5.0\n(5)",
+  "gbp_phone": "phone:tel:+14357311455",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Jessica Pierce",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "We had a great experience with this construction company! The team was professional, reliable, and did an excellent job. They were communicative throughout the entire process and made everything as smooth and stress-free as possible. We\u2019re very happy with the final result and would definitely recommend them!",
+    "owner": null
+   },
+   {
+    "reviewer": "Stacy Wymore",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "\u200bYou won\u2019t find anyone who works harder or takes more pride in what they do than Titan Construction. Adam brings an incredible work ethic and dedication to every single project. If you're looking for someone reliable and truly committed to doing things right, I can\u2019t recommend him enough.",
+    "owner": null
+   },
+   {
+    "reviewer": "Lea Kadillak",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "I cannot recommend Titan Construction enough! My husband and I used them for remodeling our kitchen, bathroom and several bedrooms. Adam and his crew were always responsive and easy to communicate with. At one point our bathroom tile was \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "adamr@titanbuildgc.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:adamr@titanbuildgc.com",
+    "page": "https://titangcparkcity.com/privacy-policy/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 40,
+   "bath": 26,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 2,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://titangcparkcity.com/wp-content/uploads/2026/04/Screenshot-2024-12-10-at-1.24.06-PM.png = 1,754,274 bytes (HTTP Content-Length); https://titangcparkcity."
+  ],
+  "competitor_pool": [
+   {
+    "name": "Iron Homes Inc",
+    "url": "https://ironhomesparkcity.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Park City Home Pros",
+    "url": "https://www.parkcityhomepros.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Park City Interior Designs",
+    "url": "https://pcinteriordesigns.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "RemodelCo - Basements, Kitchens & Baths - Lehi",
+    "url": "https://remodelcoutah.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Renovate Park City",
+    "url": "https://renovateparkcity.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Wasatch Ridge Remodeling & Kitchen Design",
+    "url": "https://wasatchridgeparkcity.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Park City, UT"
+  ]
+ },
+ {
+  "id": "tulsadiscountexteriors.com",
+  "name": "Tulsa Discount Exteriors",
+  "region": "R4",
+  "website": "https://tulsadiscountexteriors.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://tulsadiscountexteriors.com/"
+   ],
+   "contact": [
+    "https://tulsadiscountexteriors.com/contact.html"
+   ],
+   "gallery": [
+    "https://tulsadiscountexteriors.com/gallery.html",
+    "https://tulsadiscountexteriors.com/gallery-roofing.html"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJdRbe0YDIm6QRELernZM9EPM&hl=en",
+    "quote": "Huy Luu: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRbe0YDIm6QRELernZM9EPM&hl=en",
+  "gbp_title": "Tulsa Discount Exteriors",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(28)",
+  "gbp_phone": "phone:tel:+19189285445",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Huy Luu",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Grady came by to investigate a water leak. He was thorough and clearly explained the problem and potential solutions. The cost was reasonable and we were grateful for his service. Highly recommend Tulsa discount exteriors!",
+    "owner": "Response from the owner a month ago\nThanks so much for your kind words! Our team is thrilled Grady could help and explain everything clearly."
+   },
+   {
+    "reviewer": "Troy Dunbar",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "It\u2019s been great. Grady did a great job finding a leak that other companies washed their hands of!  He worked on this leak until he found it, coming out on three occasions to recheck and water test the leak and repair. I would recommend \u2026",
+    "owner": "Response from the owner a month ago\nThanks so much for your kind words! Our team, especially Grady, is thrilled to help and really appreciate your recommendation!"
+   },
+   {
+    "reviewer": "Barbara Jeppesen",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Grady of Tulsa Discount Exteriors and his team did an excellent job of repairs to a home I\u2019m preparing to sell. He also returned a door for me, picked up a new door to install, and hauled off a trailer load of trash and discarded items. I \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "tulsadiscountexteriors@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:tulsadiscountexteriors@gmail.com",
+    "page": "https://tulsadiscountexteriors.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=100089969541998",
+   "https://www.facebook.com/tulsa-discount-exteriors-llc-110470143634693"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/tulsadiscountexteriors"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 2,
+   "bath": 2,
+   "roof": 5,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 2,
+   "cabinet": 0,
+   "siding": 6,
+   "window": 4,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://tulsadiscountexteriors.com/assets/about-1.jpg = 2,378,617 bytes (HTTP Content-Length); https://tulsadiscountexteriors.com/assets/about-2b.jpg = 3,231,67"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Creative Remodeling Solutions, LLC",
+    "url": "https://www.creativeremodeler.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Luxury Finishes Construction LLC",
+    "url": "https://luxuryfinishesllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Oak Harbor Construction LLC",
+    "url": "https://www.oakharborconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Pearce Kitchen & Bathroom Remodelers of Tulsa",
+    "url": "https://pearcekitchenbathroomremodelersoftulsa.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Reeves Remodeling",
+    "url": "https://reevesremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Remodeled Unlimited",
+    "url": "https://www.remodeledunlimited.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Owasso, OK"
+  ]
+ },
+ {
+  "id": "vick-construction.com",
+  "name": "Vick Construction & Remodeling Inc",
+  "region": "R4",
+  "website": "https://vick-construction.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://vick-construction.com/"
+   ],
+   "contact": [
+    "https://vick-construction.com/project-inquiry-form/"
+   ],
+   "about": [
+    "https://vick-construction.com/about-vick-construction/",
+    "https://vick-construction.com/about-kevin-vick/"
+   ],
+   "gallery": [
+    "https://vick-construction.com/portfolio/",
+    "https://vick-construction.com/home-remodeling-projects/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-05",
+    "url": "https://vick-construction.com/houston-2026-bbb-award-for-excellence/",
+    "quote": "rss:https://vick-construction.com/feed/ published Mon, 05 Oct 2026 15:34:26 +0000: 'Houston 2026 BBB Award For Excellence'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJByI6EhXoQIYRZgyu-zeDyeU&hl=en",
+  "gbp_title": "Vick Construction & Remodeling Inc",
+  "gbp_address": "\ue0c8\n104 Industrial Blvd Ste x, Sugar Land, TX 77478, United States",
+  "gbp_rating": "4.4\n(21)",
+  "gbp_phone": "phone:tel:+17133843966",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Superb Maids Houston",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Having visited numerous construction job sites through our post-construction cleaning work, we know what a well-run project looks like and Vick Construction & Remodeling truly stands out. The way they use professional plastic containment \u2026",
+    "owner": "Response from the owner 3 months ago\nThank you so much for your feedback and for observing how we go above and beyond to protect our clients' homes. We love our clients and respect their homes!"
+   },
+   {
+    "reviewer": "Jodi Ferguson",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "I cannot imagine finding better construction and remodeling experts than Kevin Vick and his team! From start to finish,  Kevin was meticulous about every detail of my Kitchen remodel.  It is the kitchen of my dreams! I'm grateful for the \u2026",
+    "owner": "Response from the owner 4 months ago\nJodi, your new kitchen, powder bath, and laundry are beautiful -- one of a kind! The wallpaper, paint colors, tiles and fixture selections you made with our designer, Crystal Reeves at CLR Design Services, are gorgeous. I hope you love your new space and are comfortable in it for many years to come. We look forward to your next project!"
+   },
+   {
+    "reviewer": "Daniel Johnson",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Working with Kevin and his incredible team was one of the most wonderful experiences of my life. His team was so easy to connect with and coordinate every last detail. I needed to design some very challenging spaces, and they were ready to \u2026",
+    "owner": "Response from the owner 3 months ago\nWe count it a privilege to work on your project with you. One of the best parts of our job is making people's dreams and visions come to life. We are glad that you have called on us to be on this journey with you to create your new studio space and look forward to your next project."
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://vick-construction.com/",
+    "snippet": "President"
+   },
+   {
+    "page": "https://vick-construction.com/about-kevin-vick/",
+    "snippet": "Kevin Vick - Owner | President Elect Remodelers Council-GHBA"
+   },
+   {
+    "page": "https://vick-construction.com/about-kevin-vick/",
+    "snippet": "Kevin Vick, owner and founder of Vick Construction & Remodeling has managed projects in Texas and Florida"
+   },
+   {
+    "page": "https://vick-construction.com/about-kevin-vick/",
+    "snippet": "He has served as the 2017 President of the Greater Houston Builders Association, (GHBA) Remodelers Council"
+   },
+   {
+    "page": "https://vick-construction.com/about-kevin-vick/",
+    "snippet": "He served as Vice President of the Remodelers Council in 2016"
+   },
+   {
+    "page": "https://vick-construction.com/about-kevin-vick/",
+    "snippet": "He is the incoming President of ASID Texas Gulf Coast starting October 2026"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/vickconstructionandremodeling/"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 6,
+   "bath": 6,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://vick-construction.com/wp-content/uploads/2021/02/Vick-Hi-res-LogoWide-from-Becky.jpg = 1,078,892 bytes; https://vick-construction.com/wp-content/uploads"
+  ],
+  "competitor_pool": [
+   {
+    "name": "AJ Remodel & Construction",
+    "url": "https://www.ajremodelconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "All-American Tile & Remodeling by Ry Brooks",
+    "url": "https://www.all-americantileandremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "HTR Houston Texas Remodeling",
+    "url": "https://www.houstontexasremodeling.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Solvers of Columbus",
+    "url": "https://kitchensolvers.com/columbus/",
+    "gbp_address": null
+   },
+   {
+    "name": "Grand Kitchen & Floor Woodlands",
+    "url": "https://modernkitchenmasters.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Morales Brothers Construction",
+    "url": "https://www.moralesbrothers.net/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Sugar Land, TX"
+  ]
+ },
+ {
+  "id": "winston-brown.com",
+  "name": "Winston Brown",
+  "region": "R4",
+  "website": "https://winston-brown.com/",
+  "bench_vendor_route": true,
+  "incumbent_vendor": "Website by Compass",
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://winston-brown.com/"
+   ],
+   "contact": [
+    "https://winston-brown.com/contact/"
+   ],
+   "about": [
+    "https://winston-brown.com/meet-our-team/",
+    "https://winston-brown.com/company-history/client-reviews-testimonials-winston-brown-remodeling/"
+   ],
+   "gallery": [
+    "https://winston-brown.com/portfolio/"
+   ],
+   "legal": [
+    "https://winston-brown.com/privacy-policy/",
+    "https://winston-brown.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ61Q5ZzL9vocR_ubeitKmoDo&hl=en",
+    "quote": "David Spotts: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-13",
+    "url": "https://winston-brown.com/spa-like-bathroom-remodel/",
+    "quote": "wp-json/posts published 2026-10-13T20:55:57: 'How to Create a Spa-Like Bathroom at Home'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61Q5ZzL9vocR_ubeitKmoDo&hl=en",
+  "gbp_title": "Winston Brown",
+  "gbp_address": "\ue0c8\n5600 SW 29th St, Topeka, KS 66614, United States",
+  "gbp_rating": "4.7\n(55)",
+  "gbp_phone": "phone:tel:+17852711661",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "David Spotts",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "We hire WinstonBrown to remodel our kitchen and fireplace, and the results exceeded our expectations. Their team delivered exceptional craftsmanship, professionalism, and clear communication throughout the project.  We always knew what work \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Amy Kester-Niehaus",
+    "when": "4 years ago",
+    "stars": "5 stars",
+    "text": "Oh my! If you saw the \u201cbefore\u201d pictures and our life \u201cbefore\u201d (we have been foster parents for 20 years!), you would truly appreciate the \u201cafter\u201d! \u2764\ufe0f We had our kitchen, our laundry room, 1/2 bath, master bedroom, master bath and two other \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Ted Yungclas",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "We could not be more pleased with our recently added three season enclosed porch and renovated back yard. Jake Brown and his crew of professional designers and experienced carpenters created a backyard oasis that we will enjoy for years. \u2026",
+    "owner": "Response from the owner 3 years ago\nThank you Ted! We had so much fun working on your oasis! We were so happy to see how much you enjoyed the end results. Keep us in mind for future projects!\nSincerely,\nWinston Brown Remodeling Team"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "winstonbrown@winston-brown.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:Winstonbrown@Winston-Brown.com",
+    "page": "https://winston-brown.com/"
+   },
+   {
+    "email": "%20jake@winston-brown.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:%20JAKE@WINSTON-BROWN.COM",
+    "page": "https://winston-brown.com/meet-our-team/"
+   },
+   {
+    "email": "gina@winston-brown.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:gina@winston-brown.com",
+    "page": "https://winston-brown.com/meet-our-team/"
+   },
+   {
+    "email": "cory@winston-brown.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:cory@winston-brown.com",
+    "page": "https://winston-brown.com/meet-our-team/"
+   },
+   {
+    "email": "jason@winston-brown.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:jason@winston-brown.com",
+    "page": "https://winston-brown.com/meet-our-team/"
+   },
+   {
+    "email": "matt@winston-brown.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:matt@winston-brown.com",
+    "page": "https://winston-brown.com/meet-our-team/"
+   },
+   {
+    "email": "natashia@winston-brown.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:natashia@winston-brown.com",
+    "page": "https://winston-brown.com/meet-our-team/"
+   },
+   {
+    "email": "andrea@winston-brown.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:andrea@winston-brown.com",
+    "page": "https://winston-brown.com/meet-our-team/"
+   },
+   {
+    "email": "laura@winston-brown.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:laura@winston-brown.com",
+    "page": "https://winston-brown.com/meet-our-team/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://winston-brown.com/meet-our-team/",
+    "snippet": "Jake Brown is the second-generation owner of Winston Brown, proudly carrying on the legacy started by his father, Gary Brown, who founded the company over 50 yea"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/winstonbrowndesignbuild"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/winstonbrown_designbuild"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 4,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://winston-brown.com/wp-content/uploads/2026/09/Winston-Brown_9168.jpg = 1,062,401 bytes (HTTP Content-Length); https://winston-brown.com/wp-content/upload"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Benchmark Property Remodeling",
+    "url": "https://benchmarkremodelingks.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Crane Bathroom Remodeling, LLC",
+    "url": "https://cranebathroomremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "PDQ Construction Inc.",
+    "url": "https://www.pdqconstruction.biz/",
+    "gbp_address": null
+   },
+   {
+    "name": "Thiessen Design + Construction",
+    "url": "https://www.tdesigncompany.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Window Design & Remodeling",
+    "url": "https://wdremodel.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Topeka, KS"
+  ]
+ },
+ {
+  "id": "yourdreamremodeling.com",
+  "name": "Your Dream Remodeling",
+  "region": "R4",
+  "website": "https://yourdreamremodeling.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://yourdreamremodeling.com/"
+   ],
+   "contact": [
+    "https://yourdreamremodeling.com/contact-us/",
+    "https://yourdreamremodeling.com/thank-you/"
+   ],
+   "about": [
+    "https://yourdreamremodeling.com/about-us/"
+   ],
+   "gallery": [
+    "https://yourdreamremodeling.com/projects/",
+    "https://yourdreamremodeling.com/projects/"
+   ],
+   "legal": [
+    "https://yourdreamremodeling.com/privacy-policy/",
+    "https://yourdreamremodeling.com/privacy-policy",
+    "https://yourdreamremodeling.com/terms-and-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJVRdlTx3XQIYRvtk-Qil6Z2A&hl=en",
+    "quote": "Danny Mcfarlin: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-30",
+    "url": "https://yourdreamremodeling.com/small-kitchen-remodel-ideas-that-work-houston/",
+    "quote": "wp-json/posts published 2026-09-30T11:47:45: 'Small Kitchen Remodel Ideas That Work | Houston 2026'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRdlTx3XQIYRvtk-Qil6Z2A&hl=en",
+  "gbp_title": "Your Dream Remodeling",
+  "gbp_address": "\ue0c8\n1718 N Fry Rd #330, Houston, TX 77084, United States",
+  "gbp_rating": "4.9\n(89)",
+  "gbp_phone": "phone:tel:+12815508900",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Derek Clark",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Your Dream Remodeling did an outstanding job renovating two of our bathrooms. From planning, design and costing with Garrett to the actual remodeling with Jose, Hugo and Ike. All of them were friendly, professional and communicative. I have no hesitation in recommending them very strongly.",
+    "owner": "Response from the owner 3 months ago\nThank you, Derek, for your kind words and recommendation. \n\nWe are happy you had a great experience with your bathroom remodeling projects \u2026 More"
+   },
+   {
+    "reviewer": "Danny Mcfarlin",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "The Your Dream Remodeling team did an excellent job in remodeling my bathroom. They met all the time lines and most importantly the price was very reasonable. The final product was beyond my expectations. Again thank you for an outstanding job.",
+    "owner": "Response from the owner 2 months ago\nThank you so much for giving us the opportunity. Our team is delighted knowing you are happy with your new bathroom. "
+   },
+   {
+    "reviewer": "Pamela Blum",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Your Dream Remodeling completed a full master bath remodeling by converting our standing shower and Jacuzzi tub to a zero curb  walk-in shower. They installed custom cabinets and new flooring throughout as well as a custom closet.  The project was completed within the estimated time and we are very pleased with the result.",
+    "owner": "Response from the owner a year ago\nWe really appreciate your feedback and our team is thankful to you. The greatest satisfaction we get is knowing that you got the space of your dream and had a great experience with us."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@yourdreamremodeling.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "c6afa8a0a986bfa9b3b4a2b4a3a7abb4a3aba9a2a3aaafa8a1e8a5a9ab",
+    "page": "https://yourdreamremodeling.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/yourdreamremodeling"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 17,
+   "bath": 22,
+   "roof": 1,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 3,
+   "cabinet": 5,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://yourdreamremodeling.com/wp-content/uploads/2024/06/5202-Devon-Green-1.jpg = 1,928,717 bytes; https://yourdreamremodeling.com/wp-content/uploads/2024/06/"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Anderson Remodeling",
+    "url": "https://andersonremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cisneros Construction Crew",
+    "url": "https://cisnerosconstructioncrew.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Costa Kitchens INC",
+    "url": "https://costakitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cypress Custom Home Remodeling",
+    "url": "https://cypresscustomhomeremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "EZ Bath",
+    "url": "https://www.ezbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "H-Towne & Around Remodelers Inc.",
+    "url": "https://h-towneremodelers.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Cypress, TX"
   ]
  }
 ]

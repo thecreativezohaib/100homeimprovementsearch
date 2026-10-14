@@ -126,6 +126,8 @@ def main():
                 continue
         if g is not None:
             detail = ev.get(g.lower()) or ev.get(g.lower() + "_reason") or st
+            if isinstance(detail, str):
+                detail = detail.replace("route1 route1", "route1")
             if st and st.startswith("PENDING"):
                 detail = f"[not completed] {detail}"
             others = [f"{x}:{gates.get(x)}" for x in ORDER if ORDER.index(x) > ORDER.index(g) and gates.get(x) == "FAIL"]
@@ -211,7 +213,9 @@ def main():
             for x in lst:
                 w.writerow(x)
     wcsv(f"{O}/prospects100.csv", rows, ["rank", "score_total", "prospect_id", "business_name"])
-    tmpl = {x["id"]: x for x in jl(f"{D}/template/*.jsonl")}
+    tmpl = {}
+    for x in jl(f"{D}/template/*.jsonl"):
+        tmpl.setdefault(x["id"], {}).update(x)
     p30 = []
     for r in rows[:30]:
         t = tmpl.get(r["prospect_id"], {})

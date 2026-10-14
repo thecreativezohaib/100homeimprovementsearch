@@ -13,3 +13,19 @@
 {"id": "kellowconstruction.com", "ok": true, "note": "12 professional project photographs incl. one framing/in-progress shot"}
 {"id": "buildwithaplus.com", "ok": true, "exclude": [2], "note": "11 unique project photographs (#2 is a re-crop of #1, excluded)"}
 {"id": "goldsmithremodelanddesign.com", "ok": true, "exclude": [5], "note": "11 unique photographs: projects, in-progress work, owners (#5 duplicates #1, excluded)"}
+{"id": "wadedesigninc.com", "ok": true, "note": "12 professional project photographs (kitchens, baths, exterior)"}
+{"id": "rikb.com", "ok": true, "exclude": [6], "note": "11 project photographs; #6 is a seminar advertisement graphic, excluded"}
+{"id": "frontierdesignremodeling.com", "ok": false, "note": "most contact-sheet images present as stock or rendered interiors (e.g. a European kitchen with signage), plus an award badge; could not confirm 8 original photographs, so rejected rather than assumed"}
+{"id": "kingremodelingsd.com", "ok": false, "note": "several images present as AI-generated or staged stock (workers at a table, materials collage, rendered rooms); fewer than 8 could be confirmed as original photographs, so rejected rather than assumed"}
+{"id": "straightlinedr.com", "ok": true, "exclude": [6, 7, 8], "note": "9 project photographs; #6-#8 are testimonial graphics, excluded"}
+{"id": "wrights-renovations.com", "ok": true, "exclude": [8, 9, 11, 12], "note": "8 unique project photographs; #8/#9/#11 re-crops of #2 and #12 an illustration, excluded"}
+{"id": "yourdreamremodeling.com", "ok": true, "note": "12 watermarked original project photographs (several rooms shot from multiple angles)"}
+{"id": "everythinghomedesigns.com", "ok": true, "note": "11 project photographs + founder portrait"}
+{"id": "ironwoodremodels.com", "ok": true, "note": "12 professional project photographs"}
+{"id": "remodelwithgjk.com", "ok": true, "exclude": [7], "note": "11 project photographs; #7 award badge excluded"}
+{"id": "rivercityboston.com", "ok": false, "note": "images carry text overlays and present as stock or rendered scenes (window install, handyman, deck); could not confirm 8 original photographs"}
+{"id": "gmh-remodeling.com", "ok": true, "note": "12 photographs: crew at work and completed projects"}
+{"id": "imagineremodel.com", "ok": false, "note": "#5-#12 (doors, windows) present as generated or stock imagery; fewer than 8 confirmable originals"}
+{"id": "mrbath.com", "ok": false, "note": "only 9 candidates; most present as catalogue-style product imagery (firm is a Sentrel dealer); could not confirm 8 original photographs"}
+{"id": "upscaleremodeling.com", "ok": true, "note": "12 project photographs incl. exteriors"}
+{"id": "whitebirchdesignllc.com", "ok": true, "note": "12 professional project photographs"}

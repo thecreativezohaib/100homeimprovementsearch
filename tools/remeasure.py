@@ -6,9 +6,10 @@ O = "/home/user/100homeimprovementsearch/output"; D = "/home/user/100homeimprove
 CH = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 Version/17.5 Mobile/15E148 Safari/604.1",
       "Accept": "image/avif,image/webp,image/apng,image/*,*/*;q=0.8"}
 CU = {"User-Agent": "curl/8.5.0", "Accept": "*/*"}
-out = open(f"{D}/remeasure.jsonl", "w")
+done = {json.loads(l)["id"] for l in open(f"{D}/remeasure.jsonl")} if __import__("os").path.exists(f"{D}/remeasure.jsonl") else set()
+out = open(f"{D}/remeasure.jsonl", "a")
 for r in csv.DictReader(open(f"{O}/prospects100.csv")):
-    if not r["G8_defect"].startswith("gallery images"):
+    if not r["G8_defect"].startswith("gallery images") or r["prospect_id"] in done:
         continue
     urls = re.findall(r"(https?://\S+?) = [\d,]+ bytes", r["G8_measurement"])
     rec = {"id": r["prospect_id"], "measured_on": "2026-10-14", "images": []}
