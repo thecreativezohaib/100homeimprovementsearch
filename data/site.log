@@ -440,3 +440,162 @@ If you want or need to use an HTML parser on this document, you can make this wa
 0 34.15 Renovation and Remodeling PASS
 25 4 Edges Construction PASS
 50 A Advance Home Renovations PASS
+75 AC Home Design PASS
+100 Advance Home Remodelers & Services Inc. PASS
+125 Great Kitchens & Baths PASS
+150 All City Remodeling PASS
+175 Aleman Home Services RETRY_BROWSER
+200 AMEK Design + Build PASS
+225 Am remodeling & services llc PASS
+250 A Plus Home Remodel PASS
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (90750000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (96800000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+275 Assess Construction PASS
+300 Artisan Kitchen & Bath PASS
+325 Bach Builders, LLC PASS
+350 Fred's General Contracting PASS
+375 BB&R Design-Build PASS
+400 Best Deal Inc. PASS
+425 Better Home Improvement PASS
+450 Blues Brothers Construction PASS
+475 Bouquet Tile Kitchen & Bath PASS
+500 TrueSpace Bath & Basement Finishing RETRY_BROWSER
+525 Stellar Construction RETRY_BROWSER
+550 BuildMark, Inc. PASS
+575 Byggmeister PASS
+600 Cabinet Tree Studio PASS
+625 CanterStone USA PASS
+650 Carolina Cabinet Warehouse LLC PASS
+675 Caspers Construction Long Beach PASS
+700 CD Remodeling - General Contractor PASS
+725 Clearview Prime Solutions PASS
+750 Swanson Systems Contracting PASS
+775 Construction Remodeling In Bay Area PASS
+800 Syracuse Home Improvements PASS
+825 C Ramos cabinetry and construction LLC. PASS
+850 Crystal Basin Construction LLC PASS
+875 Daze Marble & Granite RETRY_BROWSER
+900 Deltona Home, Kitchen, Bathroom Remodeling, Renovation, & Design Contractors PASS
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (129960000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+925 DFW Kitchen Bath and Flooring PASS
+950 D & J Kitchens & Baths PASS
+975 Dirty Construction RETRY_BROWSER
+1000 Dovira construction PASS
+1025 East Bay Kitchen & Bath PASS
+1050 Essential home services general construction PASS
+1075 Elbaz Construction & Bathroom Remodeling PASS
+1100 Espinoza & Son Inc. PASS
+1125 EWC Construction Services PASS
+1150 FEMMAR Renovations RETRY_BROWSER
+1175 Fidelis Woodworks PASS
+1200 Filippone Construction RETRY_BROWSER
+1225 Focal Kitchen & Bath PASS
+1250 Fuller Building & General Construction LLC PASS
+1275 Garris Construction, Inc. PASS
+1300 Genova Marble and Granite PASS
+1325 Gloucester Design RETRY_BROWSER
+1350 GMZ Kitchen and Bath PASS
+1375 Good Bro’s Bathroom Remodeling PASS
+1400 Greco Remodeling Services Contractor PASS
+1425 Hall Contracting, Inc PASS
+1450 Hausrack Interiors LLC PASS
+1475 High Standard Remodeling PASS
+1500 Home Design and Repair PASS
+1525 Homes Remodeling & Renovating PASS
+1550 Hometelligent Inc PASS
+1575 Distinguished Designs - Houston General Contractor, Kitchen & Bathroom Remodeling PASS
+1600 I Coat Construction PASS
+1625 Impressive Kitchen & Bath Inc PASS
+1650 J B Construction FAIL
+1675 James Remodeling, General Contractor Mission Viejo, Home Remodeler PASS
+1700 JJ CONSTRUCTION LLC PASS
+1725 Jerris Construction, Inc. RETRY_BROWSER
+1750 Just Right Kitchen Remodeling of Chula Vista RETRY_BROWSER
+1775 JMB Solutions Services LLC PASS
+1800 Kingdom Design and Build PASS
+1825 Kitchen and Bath Cabinets Center PASS
+1850 Kevco Refinishing PASS
+1875 Keen Improvements PASS
+1900 Kitchens & Baths By Curio PASS
+1925 Bath Master Kitchen & Bathroom Remodeling RETRY_BROWSER
+1950 KWV Construction and Remodel PASS
+1975 Legacy Home Solutions PASS
+2000 Leonardo's Kitchens PASS
+2025 Local Home Improvements PASS
+2050 M4 Builders FAIL
+2075 Magnolia State Construction PASS
+2100 Marblecast of Michigan Kitchen and Bath PASS
+2125 Masterpiece Remodeling & Restoration PASS
+2150 MDT, Inc PASS
+2175 MG Remodeling and Design RETRY_BROWSER
+2200 Michael Remodeling And Construcción PASS
+2225 Modern Bathroom Remodel And Renovation Fremont PASS
+2250 Mn Construction & Remodeling INC PASS
+2275 Woodwright Cabinet Company PASS
+2300 MUSE Residential PASS
+2325 Natural Table Kitchen Remodeler Lomita PASS
+2350 New England Construction & Home Improvement LLC RETRY_BROWSER
+2375 Golden Key Remodeling LLC PASS
+2400 North Country Companies, Inc PASS
+2425 Number One Kitchen Remodeling PASS
+2450 Omega Woodworks PASS
+2475 Onyx Kitchen & Bath PASS
+2500 Pacific Construction, General Contractors San Francisco PASS
+2525 Pasco Tile Marble & Granite llc. PASS
+/home/user/100homeimprovementsearch/tools/sitecheck.py:396: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(raw, "lxml")
+2550 PGC Installation PASS
+2575 P. J. Hussey Construction PASS
+2600 Precision Renovations SF PASS
+2625 Pro-Vision Home Improvement PASS
+2650 Powers Remodeling PASS
+2675 RAGC Construction PASS
+2700 ReDesign By Workman FAIL
+2725 Relia-Built Construction & Remodeling PASS
+2750 Reis Construction USA LLC PASS
+2775 Renovate Kitchen Renovation PASS
+2800 Renowned Group PASS
+2825 Reyes Kitchen & Bath PASS
+2850 Residential Resurrection, LLC RETRY_BROWSER
+2875 Rosenberg Renovations, LLC RETRY_BROWSER
+2900 Rothrock Kitchen & Bath Remodeling PASS
+2925 Salty Construction RETRY_BROWSER
+2950 RVA Construction PASS
+2975 SD Dream Home Kitchen and Bath PASS
+3000 SCR Construction PASS
+3025 Silver Lining Structures PASS
+3050 SophAlx Home Remodeling FAIL
+3075 Spectrum Cabinet Company PASS
+3100 Southern Oak Millworks LLC PASS
+3125 St. Louis Kitchen Remodel Co. PASS
+3150 Superior Shower and Flooring PASS
+3175 Supreme Builds Home Remodeling PASS
+3200 Talamantez Group LLC RETRY_BROWSER
+3225 Allied Builders Pro, Inc. PASS
+3250 TUC Pro Construction FAIL
+3275 Tile Expert LLC PASS
+3300 Ace Kitchen Remodeling PASS
+3325 Transformative Home Solutions PASS
+3350 Trendy Bathroom Remodel Works PASS
+3375 Ultimate Designs PASS
+3400 Updike Bathroom Remodeling PASS
+3425 U.S. Florida Stone PASS
+3450 Urban Tile Solutions PASS
+3475 Vivenda Homes PASS
+3500 WC Renovation LLC PASS
+3525 Winter Hill Builders PASS
+3550 WOW Kitchens - Kitchen & Bath Cabinets PASS
+3575 JCS Building & Remodeling PASS
