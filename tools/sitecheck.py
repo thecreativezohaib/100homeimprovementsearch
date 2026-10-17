@@ -637,7 +637,16 @@ def dated_content(final, raw, plat, s):
 
 def run(c):
     try:
-        return check_site(c)
+        import signal
+
+        def _alarm(*_):
+            raise TimeoutError("site check exceeded 180s")
+        signal.signal(signal.SIGALRM, _alarm)
+        signal.alarm(180)
+        try:
+            return check_site(c)
+        finally:
+            signal.alarm(0)
     except Exception as e:
         return {"id": c["id"], "name": c["name"], "input_url": c["website"], "g2": "ERROR", "g2_reason": repr(e)[:300]}
 
@@ -654,8 +663,11 @@ def main():
     todo = [c for c in cands if c["id"] not in done]
     print(f"{len(todo)} to check", file=sys.stderr)
 
+    from concurrent.futures import as_completed
     with ProcessPoolExecutor(workers) as ex, open(outp, "a") as fo:
-        for i, r in enumerate(ex.map(run, todo)):
+        futs = [ex.submit(run, c) for c in todo]
+        for i, fu in enumerate(as_completed(futs)):
+            r = fu.result()
             fo.write(json.dumps(r) + "\n")
             fo.flush()
             if i % 25 == 0:
