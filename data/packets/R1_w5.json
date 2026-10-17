@@ -1,0 +1,151 @@
+[
+ {
+  "id": "mermanconstruction.com",
+  "name": "Merman Construction Inc",
+  "region": "R1",
+  "website": "https://mermanconstruction.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://mermanconstruction.com/"
+   ],
+   "contact": [
+    "https://mermanconstruction.com/contact-us/"
+   ],
+   "about": [
+    "https://mermanconstruction.com/about/",
+    "https://mermanconstruction.com/home-addition-plymouth-meeting/"
+   ],
+   "gallery": [
+    "https://mermanconstruction.com/portfolio/",
+    "https://mermanconstruction.com/project/attached-two-car-garage-addition-skippack-pa/"
+   ],
+   "legal": [
+    "https://mermanconstruction.com/privacy-policy/",
+    "https://mermanconstruction.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-08-11",
+    "url": "https://mermanconstruction.com/home-addition-master-plan/",
+    "quote": "wp-json/posts published 2026-08-11T15:12:33: 'Thinking About a Home Addition? Start With a Master Plan'"
+   },
+   {
+    "type": "google_review",
+    "date": "2026-08-12",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJybHm2aORxokRq_CBXtEu7RE&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-17; not opened by the coordinator",
+    "quote": "Steve and his team at Merman Construction, Inc., Collegeville, PA, did a perfect job"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJybHm2aORxokRq_CBXtEu7RE&hl=en",
+  "gbp_title": "Merman Construction Inc",
+  "gbp_address": "\ue0c8\n10 Medway Cir, Collegeville, PA 19426, United States",
+  "gbp_rating": "5.0\n(29)",
+  "gbp_phone": "phone:tel:+16104894132",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Riley\u2019s Reviews",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "10/10 experience, with now a days prices Jana and Steve got us a GREAT and super competitive price! Not only was the price good, but the service to match it was better. Steve is SUPER diligent, master of his craft. Was able to analyze the \u2026",
+    "owner": "Response from the owner a year ago\nRayli, We can\u2019t thank you enough for this amazing review, it truly made our day! Working with you and Faith was such a great experience, you made our job so easy!!  Your trust and support mean so much to us, and it\u2019s been such a joy helping \u2026 More"
+   },
+   {
+    "reviewer": "Michael-Paul Morgan",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Merman Construction completed a large construction project for us in 2024. The project consisted of a 28x30 garage addition as well as a renovation of the existing garage space to a mudroom and new laundry room. Steve and his team are true \u2026",
+    "owner": "Response from the owner a year ago\nMichael-Paul, Thank you so much for the thoughtful review!  It was such a pleasure working with you and Julie from start to finish. Your trust, communication, and openness throughout the process made all the difference, and it was clear \u2026 More"
+   },
+   {
+    "reviewer": "Brian Gorney",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Steve and Jana were amazing - a very down-to-earth blue-collar team! I've heard of plenty of horror stories of working with contractors, so did my homework, and we couldn't have been happier with the choice. The whole process was pretty \u2026",
+    "owner": "Response from the owner 4 months ago\nWow, Brian, I can\u2019t thank you enough for taking the time to leave such a thorough and kind review. Steve and I appreciate it more than you know!! \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@mermanconstruction.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@mermanconstruction.com",
+    "page": "https://mermanconstruction.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://mermanconstruction.com/about/",
+    "snippet": "Steve Merman is the Owner and Founder of Merman Construction Inc"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/MermanConstructionInc/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/mermanconstructioninc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 6,
+   "bath": 7,
+   "roof": 1,
+   "plumb": 2,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 2,
+   "cabinet": 2,
+   "siding": 7,
+   "window": 6,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 47"
+  ],
+  "competitor_pool": [
+   {
+    "name": "AJR Painting & Interior Finishes, LLC",
+    "url": "https://www.albertrosatipainting.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Weinstein Bath & Kitchen Showroom in Collegeville",
+    "url": "https://www.betterbath-kitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Contracting Genius Home Improvement",
+    "url": "https://contractinggenius.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Hilburt Home Improvement LLC",
+    "url": "https://hilburthome.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Lotus Restore + Remodel",
+    "url": "https://www.lotusrr.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Pinnacle Trimwork",
+    "url": "https://pinnacletrimwork.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Collegeville, PA"
+  ]
+ }
+]

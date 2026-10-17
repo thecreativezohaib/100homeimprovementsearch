@@ -39,6 +39,9 @@ def jl(path):
     return out
 
 
+USER_REVIEWS = {}
+
+
 def load():
     ledger = {x["id"]: x for x in jl(f"{D}/ledger.jsonl")}
     site = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl") + jl(f"{D}/site_c.jsonl")}
@@ -65,6 +68,9 @@ def load():
     for x in jl(f"{D}/manual/*.jsonl"):
         manual.setdefault(x["id"], {}).update(x)
     pre = {x["id"]: x for x in jl(f"{D}/pregate_rejects.jsonl")}
+    # newest Google review dates the user collected through Gemini (output/review_requests/)
+    USER_REVIEWS.clear()
+    USER_REVIEWS.update({x["id"]: x for x in jl(f"{D}/reviews_user.jsonl")})
     for x in jl(f"{D}/remeasure.jsonl"):
         if x["id"] in site:
             site[x["id"]]["remeasure"] = x
@@ -254,6 +260,15 @@ def g4(c, s, m, man):
             continue
         if D90 <= dt <= RUN_DATE and x.get("url"):
             signals.append(x)
+    ur = USER_REVIEWS.get(c["id"])
+    if ur and "google_review" not in rej:
+        try:
+            dt = date.fromisoformat(ur["date"])
+        except Exception:
+            dt = None
+        if dt and D90 <= dt <= RUN_DATE:
+            signals.append({"type": "google_review", "date": ur["date"], "url": ur["url"], "source": ur["source"],
+                            "quote": ur["quote"]})
     types = {}
     for x in signals:
         types.setdefault(x["type"].replace("google_review", "google_review"), x)
