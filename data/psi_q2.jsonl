@@ -243,3 +243,5 @@
 {"id": "vshomebuilders.com", "tested_url": "https://vshomebuilders.com/", "attempts": [{"at": "2026-10-17T12:14:42+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-17T12:15:15+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "alandcs.com", "tested_url": "https://www.alandcs.com/", "attempts": [{"at": "2026-10-17T12:15:48+00:00", "http": 200}], "psi_score": 72, "psi_date": "2026-10-17T12:15:48+00:00"}
 {"id": "desmoinesbathcompany.com", "tested_url": "https://www.desmoinesbathcompany.com/", "attempts": [{"at": "2026-10-17T12:16:12+00:00", "http": 200}], "psi_score": 82, "psi_date": "2026-10-17T12:16:12+00:00"}
+{"id": "mamhr.com", "tested_url": "https://mamhr.com/contact/", "attempts": [{"at": "2026-10-17T12:17:06+00:00", "http": 200}], "psi_score": 63, "psi_date": "2026-10-17T12:17:06+00:00"}
+{"id": "mjsweebebuilders.com", "tested_url": "https://www.mjsweebebuilders.com/", "attempts": [{"at": "2026-10-17T12:17:19+00:00", "http": 200}], "psi_score": 64, "psi_date": "2026-10-17T12:17:19+00:00"}
