@@ -1,32 +1,32 @@
 {
  "funnel": {
-  "discovered": 14078,
-  "screened": 11802,
-  "reject_G3": 3551,
-  "reject_G4": 5072,
-  "reject_G2": 3060,
-  "reject_NICHE": 2121,
-  "reject_G5": 174,
-  "passed": 36,
-  "reject_G6": 20,
-  "duplicate_merged": 23,
+  "discovered": 18575,
+  "screened": 15379,
+  "reject_G3": 4625,
+  "reject_G4": 6402,
+  "reject_G2": 4242,
+  "reject_NICHE": 2921,
+  "reject_G6": 30,
+  "reject_G5": 244,
+  "passed": 44,
+  "contact_only": 8,
+  "duplicate_merged": 38,
   "reject_G8": 1,
-  "bench_vendor": 6,
-  "contact_only": 5,
-  "reject_G7": 9,
-  "rejected_total": 14008
+  "bench_vendor": 8,
+  "reject_G7": 12,
+  "rejected_total": 18477
  },
  "rejections_per_gate": {
-  "G4": 5072,
-  "G3": 3551,
-  "G2": 3060,
-  "NICHE": 2121,
-  "G5": 174,
-  "G6": 20,
-  "G7": 9,
+  "G4": 6402,
+  "G3": 4625,
+  "G2": 4242,
+  "NICHE": 2921,
+  "G5": 244,
+  "G6": 30,
+  "G7": 12,
   "G8": 1
  },
- "passed": 36,
+ "passed": 44,
  "top10": [
   {
    "rank": "1",
@@ -46,6 +46,14 @@
   },
   {
    "rank": "3",
+   "score_total": "16",
+   "business_name": "AC Remodeling Inc.",
+   "region": "R2",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "gallery images over 1MB each"
+  },
+  {
+   "rank": "4",
    "score_total": "14",
    "business_name": "JDI Construction",
    "region": "R5",
@@ -53,7 +61,7 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "4",
+   "rank": "5",
    "score_total": "13",
    "business_name": "All Exclusive Construction Inc",
    "region": "R5",
@@ -61,7 +69,7 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "5",
+   "rank": "6",
    "score_total": "13",
    "business_name": "Ann Arbor Remodeling",
    "region": "R3",
@@ -69,17 +77,9 @@
    "G8_defect": "gallery images over 1MB each"
   },
   {
-   "rank": "6",
-   "score_total": "13",
-   "business_name": "Craft Home Remodeling",
-   "region": "R5",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "mobile performance score below 60"
-  },
-  {
    "rank": "7",
    "score_total": "13",
-   "business_name": "Forward Design Build Remodel",
+   "business_name": "Assembly Squad Remodeling Chicago",
    "region": "R3",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
@@ -87,44 +87,46 @@
   {
    "rank": "8",
    "score_total": "13",
-   "business_name": "Hamlett Renovations",
-   "region": "R1",
+   "business_name": "Craft Home Remodeling",
+   "region": "R5",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
   },
   {
    "rank": "9",
-   "score_total": "12",
-   "business_name": "ALL Renovation & Design LLC",
-   "region": "R1",
+   "score_total": "13",
+   "business_name": "Forward Design Build Remodel",
+   "region": "R3",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
   },
   {
    "rank": "10",
-   "score_total": "12",
-   "business_name": "Boss Design Center Bath and Kitchen Remodeling",
-   "region": "R2",
+   "score_total": "13",
+   "business_name": "Hamlett Renovations",
+   "region": "R1",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
   }
  ],
  "defects": {
-  "mobile performance score below 60": 32,
-  "gallery images over 1MB each": 2,
+  "mobile performance score below 60": 39,
+  "gallery images over 1MB each": 3,
   "horizontal overflow at 375px": 2
  },
  "trigger_summary": {
   "event": 2,
-  "NONE FOUND": 34
+  "NONE FOUND": 42
  },
  "g9_signals": {
-  "Google Ads conversion tag (AW-)": 14,
-  "Meta Pixel fbevents.js": 13,
-  "Houzz Pro": 5,
+  "Google Ads conversion tag (AW-)": 17,
+  "Meta Pixel fbevents.js": 15,
+  "Houzz Pro": 6,
   "CallRail": 2,
   "HomeAdvisor": 1,
-  "Buildertrend": 1
+  "Buildertrend": 1,
+  "Microsoft Ads UET bat.bing.com": 1,
+  "Google Ads (googleadservices / AW- conversion)": 1
  },
  "temptations": [
   {
