@@ -6,7 +6,9 @@ import json, sys
 sys.path.insert(0, "/home/user/100homeimprovementsearch/tools")
 from decide import load, niche, g3, g5, g7, jl, D
 which = sys.argv[1]
-ids = {json.loads(l)["id"] for l in open(f"{D}/site_queue_r5.jsonl")}
+import os
+QF = os.environ.get("SITE_QUEUE", "site_queue_r5.jsonl")
+ids = {json.loads(l)["id"] for l in open(f"{D}/{QF}")}
 data = load(); L, site, maps, br, psi = data[:5]
 alive = []
 for cid in ids:
