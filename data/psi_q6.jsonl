@@ -82,3 +82,4 @@
 {"id": "hhktstone.com", "tested_url": "https://www.hhktstone.com/", "attempts": [{"at": "2026-10-17T09:14:56+00:00", "http": 200}], "psi_score": 45, "psi_date": "2026-10-17T09:14:56+00:00"}
 {"id": "homeconceptsgroup.com", "tested_url": "https://www.homeconceptsgroup.com/", "attempts": [{"at": "2026-10-17T09:15:21+00:00", "http": 200}], "psi_score": 85, "psi_date": "2026-10-17T09:15:21+00:00"}
 {"id": "homeproremodel.net", "tested_url": "https://www.homeproremodel.net/", "attempts": [{"at": "2026-10-17T09:15:43+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-17T09:16:17+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "hometowndb.net", "tested_url": "https://www.hometowndb.net/", "attempts": [{"at": "2026-10-17T09:16:50+00:00", "http": 200}], "psi_score": 41, "psi_date": "2026-10-17T09:16:50+00:00"}
