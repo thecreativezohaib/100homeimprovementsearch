@@ -1,33 +1,33 @@
 # Remodel 100: final report (run date 2026-10-14, updated 2026-10-17)
 
-**Result so far: 44 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard
-gates on evidence, every one passed a visual photo review, all 44 have template content captured, and each
+**Result so far: 46 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard
+gates on evidence, every one passed a visual photo review, all 46 have template content captured, and each
 gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "Still in progress").
 
-## How the count grew (18, then 24, 36, 40, 44)
-- **PageSpeed Insights with an API key (2026-10-17).** 39 of the 44 have a mobile performance score below 60 as their
+## How the count grew (18, then 24, 36, 40, 44, 46)
+- **PageSpeed Insights with an API key (2026-10-17).** 39 of the 46 have a mobile performance score below 60 as their
   measured defect.
 - **Review dates you supplied through Gemini** for 109 firms. 4 passed that way, and you confirmed all 4 while signed in.
-- **Agent waves 6 to 10.** Agents verified 377 firms that already had at least one activity signal and passed every
-  automated gate. 20 of them (about 1 in 19) passed after the photo review. Most of the others failed on niche (general contractors,
+- **Agent waves 6 to 11.** Agents verified 455 firms that already had at least one activity signal and passed every
+  automated gate. 22 of them (about 1 in 21) passed after the photo review. Most of the others failed on niche (general contractors,
   cabinet sellers, refinishers, design-only studios), on a missing second activity type, or on G6 (no full name and
   role on the firm's own site).
 - **Automatic social signal.** Dated posts are read from LinkedIn company pages, YouTube channel feeds and Pinterest
   feeds that the firm links from its own website.
 - **Discovery rounds 5 to 7.** Maps searches in 710 more towns. Rounds 5 and 6 added 7,395 companies. Round 7 (300
-  towns chosen from Census population data) is being screened now.
+  towns chosen from Census population data) added 5,159 more.
 
-## Counts (current; round-7 firms are still being screened)
+## Counts (current)
 | | |
 |---|---|
-| Discovered (unique companies after dedupe) | 18,575 |
-| **Passed all gates** (`prospects100.csv`) | **44** |
-| Contact-only (everything except a published email) | 8 |
-| Bench-vendor (failed only G3; vendor named; G8 defect measured) | 8 |
-| Rejected or not yet completed (`rejected.csv`) | 18,477 |
+| Discovered (unique companies after dedupe) | 23,734 |
+| **Passed all gates** (`prospects100.csv`) | **46** |
+| Contact-only (everything except a published email) | 9 |
+| Bench-vendor (failed only G3; vendor named; G8 defect measured) | 9 |
+| Rejected or not yet completed (`rejected.csv`) | 23,600 |
 
-Rejections by first failing gate: G4 6,402; G3 4,625; G2 4,242; NICHE 2,921; G5 244; G6 30; G7 12; G8 1. G4 is still
-the main filter. About 1,250 firms fail only G4, and they are in the Gemini request files (`review_requests/all/`).
+Rejections by first failing gate: G4 7,937; G2 5,935; G3 5,546; NICHE 3,855; G5 282; G6 31; G7 13; G8 1. G4 is still
+the main filter. About 1,370 firms fail only G4, and they are in the Gemini request files (`review_requests/all/`).
 
 ## Top 10 by score (out of 25)
 1. **MJ Kitchen & Bath** (Plymouth MI), 17: trigger, new showroom open 2026-06-29; live job posting.
@@ -42,15 +42,14 @@ the main filter. About 1,250 firms fail only G4, and they are in the Gemini requ
 10. **Hamlett Renovations** (Wayne NJ), 13: owner replied within 60 days.
 
 ## Most common defect, signal and trigger
-- **Defect:** PageSpeed mobile performance below 60 (39 of 44), gallery images over 1 MB (3), horizontal overflow at
-  375 px (2).
-- **G4 signal types across the 44:** dated site content 37, Google review 29, social post 16, permit 4, job post 2.
-- **Trigger:** 1 of 44 (MJ Kitchen & Bath).
-- **Paid spend:** Google Ads conversion tag 18, Meta Pixel 15, Houzz Pro 6, CallRail 2, HomeAdvisor 1, Buildertrend 1,
-  Microsoft Ads 1.
+- **Defect:** PageSpeed mobile performance below 60 (39 of 46), gallery images over 1 MB (5), horizontal
+  overflow at 375 px (2).
+- **G4 signal types across the 46:** site dated content 39, google review 30, social post 17, permit 4, job posting 2.
+- **Trigger:** 1 of 46 (MJ Kitchen & Bath).
+- **Paid spend:** Google Ads conversion tag 19, Meta Pixel 15, Houzz Pro 6, CallRail 2, HomeAdvisor 1, Buildertrend 1,
+  Microsoft Ads 1, Angi 1.
 
 ## Still in progress
-- Round-7 discovery firms: site checks, then Maps, social, browser and PageSpeed, then agent verification.
 - Gemini answers for the G4-only firms (`GEMINI_ALL_v2.md` plus two addenda). `tools/ingest_gemini_all.py` imports
   review, Facebook and Instagram dates. It counts a social account only if it is linked from the firm's own site. It
   also imports dated job posts, and owner and email hints, which agents verify on the firm's own pages.
@@ -74,6 +73,8 @@ the main filter. About 1,250 firms fail only G4, and they are in the Gemini requ
 - **Owner from separate first-name and surname mentions:** Sharon Stone Design ("Sharon (the owner)" and "Guy and
   Sharon Katz" on different lines) was rejected at G6 rather than joining the two.
 - **Emails only in structured data:** Premium Residential Remodeling (JSON-LD only) was not counted as published.
+- **Website-builder accounts:** LinkedIn and YouTube links to Wix's or Squarespace's own pages (template footers) are
+  excluded from social signals.
 - **Image sizes from re-serialised HTML:** CSS background URLs carried `&amp;`, which disabled the CDN's resizing and
   inflated byte counts. Assembly Squad's 1 MB defect was dropped for this reason and its G8 rests on PSI 48.
 - **Permits under another company name:** Callaway Homes (a Nashville permit names "Callaway Home Improvements") was
