@@ -1,0 +1,979 @@
+[
+ {
+  "id": "bathsbyspicerbros.com",
+  "name": "Baths by Spicer Bros.",
+  "region": "R2",
+  "website": "https://www.bathsbyspicerbros.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.bathsbyspicerbros.com/"
+   ],
+   "contact": [
+    "https://www.bathsbyspicerbros.com/contact-us/"
+   ],
+   "about": [
+    "https://www.bathsbyspicerbros.com/about-us/",
+    "https://www.bathsbyspicerbros.com/about-us/reviews/"
+   ],
+   "gallery": [
+    "https://www.bathsbyspicerbros.com/gallery/"
+   ],
+   "legal": [
+    "https://www.bathsbyspicerbros.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-13",
+    "url": "https://www.bathsbyspicerbros.com/bath-remodel/how-much-does-it-cost-to-remodel-a-bathroom/",
+    "quote": "wp-json/posts published 2026-10-13T03:00:29: 'How Much Does It Cost To Remodel A Bathroom?'"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-09-29",
+    "url": "https://www.youtube.com/watch?v=j9ALFJKHLco",
+    "quote": "YouTube channel https://www.youtube.com/channel/UCp74K-Xdcn0IW2KZEHdXmfw post: 'Save 20% on Your Bathroom Remodel | Baths by Spicer Brothers'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCp74K-Xdcn0IW2KZEHdXmfw <published>"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6DNVscduYkRbkAUwhexKU8&hl=en",
+  "gbp_title": "Baths by Spicer Bros.",
+  "gbp_address": "\ue0c8\n32071 Beaver Run Dr Ste A, Salisbury, MD 21804, United States",
+  "gbp_rating": "5.0\n(271)",
+  "gbp_phone": "phone:tel:+14105461190",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "John Brady",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "The entire Baths by Spicer Brothers team was amazing from start to finish! The install team (Dyonne, Chase & Kyle) were so professional and kept me in the loop throughout the 2 days they were here. They were on time, were so respectful of \u2026",
+    "owner": "Response from the owner 4 months ago\nJohn,\nIt means a lot to hear our team was respectful and professional! We thank you for trusting us with your project. \n-The Baths by Spicer Bros. Team "
+   },
+   {
+    "reviewer": "Tom Reed",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Dyonne and Leelyn did an excellent job installing my new shower.  They arrived early as promised and wrapped up before 3 pm. \u2026",
+    "owner": "Response from the owner 4 months ago\nTom,\nWe\u2019re so glad the time left you with a positive experience. We hope you enjoy the new shower!\n-The Baths by Spicer Bros. Team"
+   },
+   {
+    "reviewer": "Eric Fiore",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "I have used Spicer Brothers in the past for exterior work on my 36-unit condo complex and the work they performed was outstanding. So, when the wife and I came across their bath & shower booth at the OC Home & Garden show this past fall we \u2026",
+    "owner": "Response from the owner 8 months ago\nEric,\n\nWe want to sincerely thank you for taking the time to leave us this feedback! It \u2026 More"
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/BathsBySpicerBros"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/spicerbrosconstruction"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 38,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 42"
+  ],
+  "competitor_pool": [
+   {
+    "name": "One Stop Bath Shop",
+    "url": "https://1stopbathshop.com/contact-us/",
+    "gbp_address": null
+   },
+   {
+    "name": "Coastal Bath Company",
+    "url": "https://www.coastalbaths.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Coastal Bay Construction Inc",
+    "url": "https://coastalbayconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Delmarva Building Solutions",
+    "url": "https://delmarvabuildingsolutions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Concepts Plus",
+    "url": "https://kitchenconceptsplus.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "OC Home Services",
+    "url": "https://www.ocservice247.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Salisbury, MD"
+  ]
+ },
+ {
+  "id": "clearwatershowerbath.com",
+  "name": "Clearwater Shower Bath",
+  "region": "R2",
+  "website": "https://clearwatershowerbath.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://clearwatershowerbath.com/"
+   ],
+   "contact": [
+    "https://clearwatershowerbath.com/contact/"
+   ],
+   "about": [
+    "https://clearwatershowerbath.com/about-us/",
+    "https://clearwatershowerbath.com/bathroom-remodeling/"
+   ],
+   "legal": [
+    "https://clearwatershowerbath.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_ud1s7lwogRCIFC39KdOv0&hl=en",
+    "quote": "Fred Bishop: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_ud1s7lwogRCIFC39KdOv0&hl=en",
+  "gbp_title": "Clearwater Shower Bath",
+  "gbp_address": "\ue0c8\n13191 56th Ct N Suite 109, Clearwater, FL 33760, United States",
+  "gbp_rating": "4.9\n(554)",
+  "gbp_phone": "phone:tel:+17272651141",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Helen Smith",
+    "when": "Edited 2 months ago",
+    "stars": "5 stars",
+    "text": "I am so pleased with my new shower, it is beautiful and a pleasure to use.  Mark showed me all the different styles and colors to choose from, he answered all my questions, explained all the steps for getting the project completed.  The \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Fred Bishop",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "A unbelievable job on my shower, got rid of the old green bathtub and had a walk in shower installed. The two guys that did the work, Miguel and Angel were very professional and informative about what they were doing. Excellent job, I would \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Debra Yates",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "From beginning to the end Clearwater Shower Bath has been undeniably efficient.  They make you feel good about spending your money.  Greg Derrico showed up early for my design and pricing. He was confident my new shower would be installed \u2026",
+    "owner": "Response from the owner 5 months ago\nThis was such a rewarding note to read. Greg will appreciate you recognizing how he set clear expectations from the start, and Chris and Scott take real pride in delivering on that vision once installation day arrives. Having everything \u2026 More"
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/clearwatershowerbath"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/clearwatershowerbath"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 81,
+   "roof": 0,
+   "plumb": 8,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 42"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Home Love Construction",
+    "url": "https://homelove.construction/",
+    "gbp_address": null
+   },
+   {
+    "name": "Luxury Bath of Tampa Bay",
+    "url": "https://www.luxurybathcfl.com/bathroom-remodeling-tampa-fl",
+    "gbp_address": null
+   },
+   {
+    "name": "Nelson Construction And Renovations, Inc.",
+    "url": "https://nelsonconstructionrenos.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "New Bay Remodeling",
+    "url": "https://www.newbayremodeling.com/service-area-clearwater/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Clearwater, FL"
+  ]
+ },
+ {
+  "id": "oneclearwaterconstruction.com",
+  "name": "One Clearwater Construction",
+  "region": "R2",
+  "website": "https://oneclearwaterconstruction.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://oneclearwaterconstruction.com/"
+   ],
+   "contact": [
+    "https://oneclearwaterconstruction.com/contact/"
+   ],
+   "about": [
+    "https://oneclearwaterconstruction.com/about/"
+   ],
+   "gallery": [
+    "https://oneclearwaterconstruction.com/portfolio/",
+    "https://oneclearwaterconstruction.com/kitchen-remodeling-clearwater-fl/"
+   ],
+   "legal": [
+    "https://oneclearwaterconstruction.com/privacy-policy/",
+    "https://oneclearwaterconstruction.com/privacy-policy/",
+    "https://oneclearwaterconstruction.com/terms-and-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-13",
+    "url": "https://oneclearwaterconstruction.com/impact-sliding-doors-vs-french-doors/",
+    "quote": "wp-json/posts published 2026-10-13T09:44:41: 'Impact Sliding Doors vs French Doors: Which Is Right for Your Home?'"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-10-08",
+    "url": "https://www.youtube.com/shorts/XCEmCx337Yc",
+    "quote": "YouTube channel https://www.youtube.com/@OneClearwaterConstruction-z5c post: '8' Wood Gate for $450 Instead of $1,700 | DIY Build by'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UC9X9W0VzExrhrU6336zaraQ <published>"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40Vwbpe2bUwRCsbSgyHVMGY&hl=en",
+  "gbp_title": "One Clearwater Construction",
+  "gbp_address": "\ue0c8\n30190 US Highway 19 North, Clearwater, FL 33761, United States",
+  "gbp_rating": "5.0\n(24)",
+  "gbp_phone": "phone:tel:+17273142191",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Sam B.",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "Alex and the team at One Clearwater Construction were outstanding from start to finish. Their communication was clear, consistent, and proactive, which made it easy to trust them with our project. The crew was professional, respectful, and \u2026",
+    "owner": "Response from the owner 3 months ago\nSam, this means a lot \u2014 thank you. Kitchen renovations are some of the most personal projects we take on, and making sure every detail is handled with care from demo to final walkthrough is something I take seriously on every job. Clear, \u2026 More"
+   },
+   {
+    "reviewer": "Mob Kozminlombe",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "I found One Clearwater Construction online. I had just moved to where I\u2019m living and I needed some outdoor space. The front porch had been replaced with a \u2018deck\u2019 and 4 posts holding up the original roof. My back door opened out to basically \u2026",
+    "owner": "Response from the owner 3 months ago\nMob, thank you for trusting me with such a personal project \u2014 turning that bare back door and stripped-down front porch into the screened lanai and porch you envisioned was genuinely one of my favorite builds. Coordinating the generator pad \u2026 More"
+   },
+   {
+    "reviewer": "Teresa Harris",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "Alex and his team were absolutely incredible in handling a recent window replacement. I\u2019d previously had a mediocre contractor experience, so I went into the initial conversation quite wary\u2026Alex listened to my concerns and needs, and was \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@oneclearwaterconstruction.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "026b6c646d426d6c67616e6763707563766770616d6c7176707761766b6d6c2c616d6f",
+    "page": "https://oneclearwaterconstruction.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/OneClearwaterConstruction"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/oneclearwaterconstruction"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 35,
+   "bath": 25,
+   "roof": 1,
+   "plumb": 4,
+   "hvac": 1,
+   "handyman": 0,
+   "floor": 2,
+   "cabinet": 3,
+   "siding": 0,
+   "window": 25,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 53",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 448px, i.e. 73px wider than the screen; elements past the right edge: ['SPAN.ti-verified-tooltip r",
+   "gallery images over 1MB each: https://oneclearwaterconstruction.com/wp-content/uploads/2026/03/Remodeling-Cost-Guide-2026.png = 2,942,142 bytes; https://oneclearwaterconstruction.com/wp-cont"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Home Love Construction",
+    "url": "https://homelove.construction/",
+    "gbp_address": null
+   },
+   {
+    "name": "Luxury Bath of Tampa Bay",
+    "url": "https://www.luxurybathcfl.com/bathroom-remodeling-tampa-fl",
+    "gbp_address": null
+   },
+   {
+    "name": "Nelson Construction And Renovations, Inc.",
+    "url": "https://nelsonconstructionrenos.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "New Bay Remodeling",
+    "url": "https://www.newbayremodeling.com/service-area-clearwater/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Clearwater, FL"
+  ]
+ },
+ {
+  "id": "ydyconstruction.com",
+  "name": "YDY Professional Construction LLC",
+  "region": "R2",
+  "website": "https://www.ydyconstruction.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.ydyconstruction.com/"
+   ],
+   "contact": [
+    "https://www.ydyconstruction.com/contact",
+    "https://www.ydyconstruction.com/book-online"
+   ],
+   "about": [
+    "https://www.ydyconstruction.com/post/10-kitchen-remodeling-mistakes-tampa-homeowners-make-and-how-to-avoid-them"
+   ],
+   "gallery": [
+    "https://www.ydyconstruction.com/gallery",
+    "https://www.ydyconstruction.com/post/should-you-replace-your-flooring-before-or-after-installing-kitchen-cabinets"
+   ],
+   "legal": [
+    "https://www.ydyconstruction.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ33HZzjnGwogRq7xC185wfMg&hl=en",
+    "quote": "Michael Glazener: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-07-16",
+    "url": "https://www.ydyconstruction.com/post/10-kitchen-remodeling-mistakes-tampa-homeowners-make-and-how-to-avoid-them",
+    "quote": "rss:https://www.ydyconstruction.com/blog-feed.xml published Thu, 16 Jul 2026 02:28:04 GMT: '10 Kitchen Remodeling Mistakes Tampa Homeowners Make (And How to Avoid Them)'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33HZzjnGwogRq7xC185wfMg&hl=en",
+  "gbp_title": "YDY Professional Construction LLC",
+  "gbp_address": "\ue0c8\n8711 N Temple Ave, Tampa, FL 33617, United States",
+  "gbp_rating": "4.8\n(101)",
+  "gbp_phone": "phone:tel:+18134519780",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Anthony Rankin",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Big shout out for YDY Professional Construction. They completed a whole home tile floor installation, kitchen remodel and living room remodel for us. They really care about the details and making sure everything is done right and the client \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you so much for this amazing review and for trusting YDY Professional Construction LLC with your home renovation! It was a pleasure completing your whole-home tile flooring, kitchen, and living room remodel. We truly appreciate your \u2026 More"
+   },
+   {
+    "reviewer": "Michael Glazener",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "YDY was great to work with. Really nice guy and great installer. My house was built in 1925 and the floors and walls are all slanted but he went above and beyond to ensure the cabinets were rock solid and perfectly level! Really happy with the way it all came out.",
+    "owner": "Response from the owner 2 months ago\nThank you so much for the amazing review! It was truly a pleasure working on your home. We know older homes can present unique challenges, and we're glad we could deliver a result that you're happy with. Thank you for trusting YDY \u2026 More"
+   },
+   {
+    "reviewer": "Jennifer Perez",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "I\u2019m truly happy to write this review because we had a great experience with this family business. My siblings and I wanted to surprise our mom with a kitchen remodel, and after having disappointing experiences with other remodeling \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "ydyconstruction@hotmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:ydyconstruction@hotmail.com",
+    "page": "https://www.ydyconstruction.com/"
+   },
+   {
+    "email": "ydyconstruction@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:ydyconstruction@gmail.com",
+    "page": "https://www.ydyconstruction.com/privacy-policy"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/YDY-Professional-Construction-335286123847644/?modal=admin_todo_tour"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/ydy_construction",
+   "https://www.instagram.com/ydyconstruction"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 23,
+   "bath": 4,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 6,
+   "cabinet": 13,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 51"
+  ],
+  "competitor_pool": [
+   {
+    "name": "BAYCORE BUILDERS & REMODELING",
+    "url": "https://www.baycorebuild.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "CraftLine Remodeling",
+    "url": "https://craftlineremodeling.com/sarasota/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Leader Renovation",
+    "url": "https://homeleaderrenovation.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Picture Perfect Kitchen & Home",
+    "url": "https://pictureperfectkitchendesigns.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Pristine Remodeling",
+    "url": "https://www.pristinefl.com/tampabay-fl",
+    "gbp_address": null
+   },
+   {
+    "name": "Revive Design and Renovation",
+    "url": "https://www.revivedesignandrenovation.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Tampa, FL"
+  ]
+ },
+ {
+  "id": "jblantonbathrooms.com",
+  "name": "Bathrooms by J. Blanton",
+  "region": "R3",
+  "website": "https://jblantonbathrooms.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Webflow"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://jblantonbathrooms.com/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJp9XhtlrHD4gR_vzR8l2HVPg&hl=en",
+    "quote": "Jon Ferguson: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9XhtlrHD4gR_vzR8l2HVPg&hl=en",
+  "gbp_title": "Bathrooms by J. Blanton",
+  "gbp_address": "\ue0c8\n1945 Techny Rd Unit 12, Northbrook, IL 60062, United States",
+  "gbp_rating": "4.9\n(199)",
+  "gbp_phone": "phone:tel:+12242088949",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Diana Braun",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Had a sump pump and water conditioner replaced today, and can\u2019t be happier with the sales process, installation, and cleanup. Should you have plumbing issues, you\u2019ve found the best in Blanton.",
+    "owner": "Response from the owner 3 months ago\nHi Diana,\n\nThank you for such a thoughtful recommendation! We're delighted to hear your \u2026 More"
+   },
+   {
+    "reviewer": "John F",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Hubert did a fantastic job (sewer line camera, descaling and hydro-jetting a very corroded/damaged  cast iron pipe prior to pipe relining.  The home is 50+ years old and he took the time to identify all the hidden inlets/outlets and really cleaned things up.  Very professional and courteous service!!  Much appreciated.",
+    "owner": "Response from the owner 5 months ago\nHi John,\n\nThank you for sharing your experience! We\u2019re glad to hear Hubert handled such a \u2026 More"
+   },
+   {
+    "reviewer": "Jon Ferguson",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "We would like to extend our heartfelt thanks to everyone at J. Blanton Plumbing for discovering a gas leak that we were completely unaware of. They truly went above and beyond to ensure the safety of our family while also taking care of our \u2026",
+    "owner": "Response from the owner a month ago\nHi Jon,\n\nYour words mean so much to our entire team. Discovering an unexpected gas leak \u2026 More"
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 7,
+   "roof": 1,
+   "plumb": 7,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 40"
+  ],
+  "competitor_pool": [
+   {
+    "name": "4Ever Remodeling",
+    "url": "https://4everremodeling.com/service-areas/arlington-heights/",
+    "gbp_address": "\ue0c8\n415 W Golf Rd Ste 57, Arlington Heights, IL 60005, United States"
+   },
+   {
+    "name": "Comfort Home Remodeling Design",
+    "url": "https://www.comforthomedesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "DDK Remodeling - Glenview",
+    "url": "https://ddkkitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "Glenbrook Remodeling",
+    "url": "https://glenbrookremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchens & Baths Unlimited",
+    "url": "https://www.kitchensbathsunlimited.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Glenview, IL"
+  ]
+ },
+ {
+  "id": "woodfrontkitchens.com",
+  "name": "Wood Front Kitchens",
+  "region": "R3",
+  "website": "https://woodfrontkitchens.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://woodfrontkitchens.com/"
+   ],
+   "contact": [
+    "https://woodfrontkitchens.com/contact/",
+    "https://woodfrontkitchens.com/contact/"
+   ],
+   "about": [
+    "https://woodfrontkitchens.com/about/",
+    "https://woodfrontkitchens.com/about/"
+   ],
+   "gallery": [
+    "https://woodfrontkitchens.com/our-projects/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJdTx4PCtRCogRzGvbE3S3ub8&hl=en",
+    "quote": "Ben Tower: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTx4PCtRCogRzGvbE3S3ub8&hl=en",
+  "gbp_title": "Wood Front Kitchens",
+  "gbp_address": "\ue0c8\n203 Eastgate Drive, Washington, IL 61571, United States",
+  "gbp_rating": "4.9\n(124)",
+  "gbp_phone": "phone:tel:+13092282648",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Cindy Dohm",
+    "when": "Edited 7 months ago",
+    "stars": "5 stars",
+    "text": "I cannot give enough credit to WoodFront and their entire team for the work and transformation of our kitchen cabinets!   We\u2019ve got a quirky kitchen with a lot of doors and drawers but they over exceeded our expectations!  It turned out \u2026",
+    "owner": "Response from the owner 7 months ago\nCindy,\n\nWhat a privilege it is to get to hear these kind words! It is exactly what we \u2026 More"
+   },
+   {
+    "reviewer": "Ben Tower",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Woodfront Kitchens was so helpful and easy to work with. David offered practical ways to make our kitchen more functional and that made the most use of our existing cabinet boxes, minimizing cost and reducing waste. Jossie was very great \u2026",
+    "owner": "Response from the owner 2 months ago\nBen,\n\nYou and your wife were truly some of the most pleasurable people we've had the \u2026 More"
+   },
+   {
+    "reviewer": "Sandra",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Let me start off by saying I am very picky! I mean, who doesn\u2019t want what they pay for and what is promised? Well let me tell you, these guys deliver. Andrew and the crew went above and beyond to make sure everything looked great! That \u2026",
+    "owner": "Response from the owner 6 months ago\nSandra, \n\nWe don't view it as picky when it is your project that you are spending good \u2026 More"
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/WoodFrontKitchens/",
+   "https://www.facebook.com/woodfrontkitchens"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 49,
+   "bath": 0,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 22,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 395px, i.e. 20px wider than the screen; elements past the right edge: ['DIV.swiper-slide.swiper-sl"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bathtime",
+    "url": "https://www.bathtimebytroy.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "C.T. Gabbert Remodeling & Construction",
+    "url": "https://ctgabbert.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dan Waibel Designer Builder",
+    "url": "https://danwaibel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Perfect Choice Home Solutions",
+    "url": "https://www.perfectchoicehomesolutions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Remodel It",
+    "url": "https://www.remodelitpeoria.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "The Bath Connection",
+    "url": "https://www.the-bathconnection.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Peoria, IL"
+  ]
+ },
+ {
+  "id": "btbcabinets.com",
+  "name": "Beyond the Box, Inc.",
+  "region": "R5",
+  "website": "https://www.btbcabinets.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.btbcabinets.com/"
+   ],
+   "contact": [
+    "https://www.btbcabinets.com/contact-us/"
+   ],
+   "about": [
+    "https://www.btbcabinets.com/meet-btb/",
+    "https://www.btbcabinets.com/join-our-team/"
+   ],
+   "gallery": [
+    "https://www.btbcabinets.com/projects/",
+    "https://www.btbcabinets.com/projects/new-kitchens/"
+   ],
+   "legal": [
+    "https://www.btbcabinets.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-01",
+    "url": "https://www.btbcabinets.com/blog/product-spotlight/must-have-kitchen-feature-the-instant-hot-water-faucet/",
+    "quote": "wp-json/posts published 2026-09-01T16:52:13: 'Must-Have Kitchen Feature: The Instant Hot Water Faucet'"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-09-17",
+    "url": "https://www.youtube.com/shorts/jlWnP0PRwSs",
+    "quote": "YouTube channel https://www.youtube.com/channel/UCEup1FOT0VC9BBckPtSXGjA post: 'Vintage Industrial Office Room Sparks The Perfect Vibe'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCEup1FOT0VC9BBckPtSXGjA <published>"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJLy20tdx6SFMRJzcOkyBLT7g&hl=en",
+  "gbp_title": "Beyond the Box, Inc.",
+  "gbp_address": "\ue0c8\n724 First Ave N, Billings, MT 59101, United States",
+  "gbp_rating": "4.9\n(74)",
+  "gbp_phone": "phone:tel:+14062456981",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Amy Wiggs",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Kristy and her team at BtB are top notch. The team approach helped bring our design to life. They were there to help us in the initial planning process of our project, but then also to help answer our questions along the way and of course \u2026",
+    "owner": "Response from the owner 3 months ago\nAmy, thank you for this, it means a ton! You hit the nail on the head about what we're all about at BTB.  Understanding how you live and bringing that vision forward creating a kitchen that's both beautiful and works perfectly for your family. It was a joy working with both of you on your new build."
+   },
+   {
+    "reviewer": "Abbey Sage",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "Working with Kristy and the team at Beyond the Box was fantastic. At the point in my project where I was beginning to feel weary, they were reinvigorating. Making the final stages easy, efficient and positive. Thank you so much!!",
+    "owner": "Response from the owner 7 months ago\nThank you so much for your kind words, Abbey! We truly loved working on your project and are so grateful we could help bring some fresh energy to the finish line. It was a pleasure partnering with you to bring your kitchen and laundry room \u2026 More"
+   },
+   {
+    "reviewer": "Christine Bugnet",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "Highly recommend!!\nWe've had our cabinets for about a year and they're beautiful, high quality, and we get compliments every time someone new comes to visit. \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "kristy@btbcabinets.com",
+    "how": "plain text",
+    "raw": "kristy@btbcabinets.com",
+    "page": "https://www.btbcabinets.com/meet-btb/"
+   },
+   {
+    "email": "anita@btbcabinets.com",
+    "how": "plain text",
+    "raw": "anita@btbcabinets.com",
+    "page": "https://www.btbcabinets.com/meet-btb/"
+   },
+   {
+    "email": "emily@btbcabinets.com",
+    "how": "plain text",
+    "raw": "emily@btbcabinets.com",
+    "page": "https://www.btbcabinets.com/meet-btb/"
+   },
+   {
+    "email": "teri.haddick@btbcabinets.com",
+    "how": "plain text",
+    "raw": "teri.haddick@btbcabinets.com",
+    "page": "https://www.btbcabinets.com/meet-btb/"
+   },
+   {
+    "email": "olivia.black@btbcabinets.com",
+    "how": "plain text",
+    "raw": "olivia.black@btbcabinets.com",
+    "page": "https://www.btbcabinets.com/meet-btb/"
+   },
+   {
+    "email": "amanda.kelly@btbcabinets.com",
+    "how": "plain text",
+    "raw": "amanda.kelly@btbcabinets.com",
+    "page": "https://www.btbcabinets.com/meet-btb/"
+   },
+   {
+    "email": "haven.ferguson@btbcabinets.com",
+    "how": "plain text",
+    "raw": "haven.ferguson@btbcabinets.com",
+    "page": "https://www.btbcabinets.com/meet-btb/"
+   },
+   {
+    "email": "debbie@btbcabinets.com",
+    "how": "plain text",
+    "raw": "debbie@btbcabinets.com",
+    "page": "https://www.btbcabinets.com/meet-btb/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.btbcabinets.com/meet-btb/",
+    "snippet": "CEO/Owner"
+   },
+   {
+    "page": "https://www.btbcabinets.com/meet-btb/",
+    "snippet": "Owner and CEO with a record of verifiable success in business development, business strategy, team building, sales, marketing, and in"
+   },
+   {
+    "page": "https://www.btbcabinets.com/meet-btb/",
+    "snippet": "Founder/Retired"
+   },
+   {
+    "page": "https://www.btbcabinets.com/meet-btb/",
+    "snippet": "Founder/Retired"
+   },
+   {
+    "page": "https://www.btbcabinets.com/meet-btb/",
+    "snippet": "Beyond The Box founder, and Kitchen and Bath Designer, Debbie excelled in traditional, transitional, and craftsman projects throughout her car"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/beyondthebox.inc"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/beyondtheboxmt"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 11,
+   "bath": 7,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 7,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 36"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Big Sky Exterior Designs and Bath Solutions",
+    "url": "https://bigskyed.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elevated Construction",
+    "url": "https://elevatedconstructionbillings.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "HOME YELLOWSTONE",
+    "url": "https://homeyellowstone.com",
+    "gbp_address": null
+   },
+   {
+    "name": "Rimrock Cabinet Co",
+    "url": "https://www.rimrockcabinetandflooring.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Stapleton Construction",
+    "url": "https://www.stapletonconstructionmt.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ty Nelson Design & Remodel",
+    "url": "https://tynelsonconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Billings, MT"
+  ]
+ }
+]
