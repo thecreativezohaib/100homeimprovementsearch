@@ -42,6 +42,8 @@ def jl(path):
 USER_REVIEWS = {}
 SOCIAL = {}
 USER_SOCIAL, USER_JOBS, USER_HINTS = {}, {}, {}
+# website-builder template links (the platform's own accounts), not the company's
+PLATFORM_ACCT = re.compile(r"linkedin\.com/company/(wix-com|squarespace|godaddy|weebly|duda|hubspot|wordpress)|youtube\.com/(user/wix|@wix|@squarespace|user/squarespace|@godaddy)|pinterest\.[a-z.]+/(v3|pin|wix|squarespace)/", re.I)
 
 
 def load():
@@ -270,7 +272,8 @@ def g4(c, s, m, man):
     if "social_post" not in rej:
         # newest in-window post on an account linked from the company's own site (tools/social.py)
         posts = sorted((p for p in (SOCIAL.get(c["id"]) or {}).get("posts") or []
-                        if re.match(r"\d{4}-\d{2}-\d{2}$", p.get("date") or "") and D90 <= date.fromisoformat(p["date"]) <= RUN_DATE),
+                        if re.match(r"\d{4}-\d{2}-\d{2}$", p.get("date") or "") and D90 <= date.fromisoformat(p["date"]) <= RUN_DATE
+                        and not PLATFORM_ACCT.search(p.get("account") or "")),
                        key=lambda p: p["date"], reverse=True)
         if posts:
             p0 = posts[0]
