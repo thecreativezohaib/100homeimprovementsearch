@@ -8,8 +8,8 @@ gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "St
 - **PageSpeed Insights with an API key (2026-10-17).** 39 of the 44 have a mobile performance score below 60 as their
   measured defect.
 - **Review dates you supplied through Gemini** for 109 firms. 4 passed that way, and you confirmed all 4 while signed in.
-- **Agent waves 6 to 10.** Agents verified 371 firms that already had at least one activity signal and passed every
-  automated gate. About 1 in 13 passed after the photo review. Most of the others failed on niche (general contractors,
+- **Agent waves 6 to 10.** Agents verified 377 firms that already had at least one activity signal and passed every
+  automated gate. 20 of them (about 1 in 19) passed after the photo review. Most of the others failed on niche (general contractors,
   cabinet sellers, refinishers, design-only studios), on a missing second activity type, or on G6 (no full name and
   role on the firm's own site).
 - **Automatic social signal.** Dated posts are read from LinkedIn company pages, YouTube channel feeds and Pinterest
