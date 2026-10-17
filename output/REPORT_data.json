@@ -1,30 +1,32 @@
 {
  "funnel": {
-  "discovered": 11180,
-  "screened": 9374,
-  "reject_G3": 2840,
-  "reject_G4": 4119,
-  "reject_G2": 2406,
-  "reject_NICHE": 1602,
-  "reject_G5": 151,
-  "passed": 24,
-  "reject_G6": 11,
-  "duplicate_merged": 17,
-  "bench_vendor": 4,
-  "reject_G7": 3,
-  "contact_only": 3,
-  "rejected_total": 11132
+  "discovered": 14078,
+  "screened": 11802,
+  "reject_G3": 3551,
+  "reject_G4": 5072,
+  "reject_G2": 3060,
+  "reject_NICHE": 2121,
+  "reject_G5": 174,
+  "passed": 36,
+  "reject_G6": 20,
+  "duplicate_merged": 23,
+  "reject_G8": 1,
+  "bench_vendor": 6,
+  "contact_only": 5,
+  "reject_G7": 9,
+  "rejected_total": 14008
  },
  "rejections_per_gate": {
-  "G4": 4119,
-  "G3": 2840,
-  "G2": 2406,
-  "NICHE": 1602,
-  "G5": 151,
-  "G6": 11,
-  "G7": 3
+  "G4": 5072,
+  "G3": 3551,
+  "G2": 3060,
+  "NICHE": 2121,
+  "G5": 174,
+  "G6": 20,
+  "G7": 9,
+  "G8": 1
  },
- "passed": 24,
+ "passed": 36,
  "top10": [
   {
    "rank": "1",
@@ -36,16 +38,16 @@
   },
   {
    "rank": "2",
-   "score_total": "13",
-   "business_name": "Ann Arbor Remodeling",
+   "score_total": "17",
+   "business_name": "Majestic Home Solutions LLC",
    "region": "R3",
    "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "gallery images over 1MB each"
+   "G8_defect": "mobile performance score below 60"
   },
   {
    "rank": "3",
-   "score_total": "13",
-   "business_name": "Craft Home Remodeling",
+   "score_total": "14",
+   "business_name": "JDI Construction",
    "region": "R5",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
@@ -53,13 +55,45 @@
   {
    "rank": "4",
    "score_total": "13",
+   "business_name": "All Exclusive Construction Inc",
+   "region": "R5",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "mobile performance score below 60"
+  },
+  {
+   "rank": "5",
+   "score_total": "13",
+   "business_name": "Ann Arbor Remodeling",
+   "region": "R3",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "gallery images over 1MB each"
+  },
+  {
+   "rank": "6",
+   "score_total": "13",
+   "business_name": "Craft Home Remodeling",
+   "region": "R5",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "mobile performance score below 60"
+  },
+  {
+   "rank": "7",
+   "score_total": "13",
+   "business_name": "Forward Design Build Remodel",
+   "region": "R3",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "mobile performance score below 60"
+  },
+  {
+   "rank": "8",
+   "score_total": "13",
    "business_name": "Hamlett Renovations",
    "region": "R1",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "5",
+   "rank": "9",
    "score_total": "12",
    "business_name": "ALL Renovation & Design LLC",
    "region": "R1",
@@ -67,61 +101,30 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "6",
+   "rank": "10",
    "score_total": "12",
    "business_name": "Boss Design Center Bath and Kitchen Remodeling",
    "region": "R2",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
-  },
-  {
-   "rank": "7",
-   "score_total": "12",
-   "business_name": "Semper Fi Custom Remodeling of Asheville",
-   "region": "R2",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "mobile performance score below 60"
-  },
-  {
-   "rank": "8",
-   "score_total": "12",
-   "business_name": "Wade Design & Construction Inc.",
-   "region": "R3",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "mobile performance score below 60"
-  },
-  {
-   "rank": "9",
-   "score_total": "10",
-   "business_name": "Five Fold Solutions",
-   "region": "R4",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "mobile performance score below 60"
-  },
-  {
-   "rank": "10",
-   "score_total": "9",
-   "business_name": "ARIID Build & Remodel",
-   "region": "R5",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "horizontal overflow at 375px"
   }
  ],
  "defects": {
-  "mobile performance score below 60": 20,
+  "mobile performance score below 60": 32,
   "gallery images over 1MB each": 2,
   "horizontal overflow at 375px": 2
  },
  "trigger_summary": {
   "event": 2,
-  "NONE FOUND": 22
+  "NONE FOUND": 34
  },
  "g9_signals": {
-  "Google Ads conversion tag (AW-)": 13,
-  "Meta Pixel fbevents.js": 7,
-  "Houzz Pro": 2,
-  "Buildertrend": 1,
-  "CallRail": 1
+  "Google Ads conversion tag (AW-)": 14,
+  "Meta Pixel fbevents.js": 13,
+  "Houzz Pro": 5,
+  "CallRail": 2,
+  "HomeAdvisor": 1,
+  "Buildertrend": 1
  },
  "temptations": [
   {
@@ -459,6 +462,98 @@
   {
    "id": "mermanconstruction.com",
    "text": "Packet dm_snippet (Steve Merman, Owner and Founder) not recorded because the candidate stopped at NICHE."
+  },
+  {
+   "id": "amazingspacesllc.com",
+   "text": "Did not treat 2023-era Instagram shortcodes embedded on the about page as a dated social post; no dates are shown and the shortcodes predate the window."
+  },
+  {
+   "id": "bathrenew.com",
+   "text": "Did not count the site's JSON-LD review dates as site_dated_content; they are customer reviews, not project or blog additions."
+  },
+  {
+   "id": "bathrenew.com",
+   "text": "Did not treat GuildQuality 'HomeAndBathRenew' listing as this company; name differs and no link from bathrenew.com."
+  },
+  {
+   "id": "jeffboico.com",
+   "text": "Did not treat the article byline 'Scott' as a staff member or vendor; role not stated."
+  },
+  {
+   "id": "jeffboico.com",
+   "text": "Did not treat Andrew Boico or Classic Kitchen & Bath Center as related to this firm's ownership; the site names no relationship beyond 'my family's Kitchen & Bath design practice'."
+  },
+  {
+   "id": "jeffboico.com",
+   "text": "Did not treat the Pinterest brand account as a personal owner account; recorded with a note."
+  },
+  {
+   "id": "nelsonkitchenandbath.com",
+   "text": "Did not treat Houzz 'Best of Houzz 2024' badge or undated Houzz projects as an in-window social post."
+  },
+  {
+   "id": "norfolkkitchenandbath.com",
+   "text": "Did not treat 'Ben Rosen President & CEO' as the decision maker for this record because the run stopped at G5; he is named on /about-us/ if the coordinator overrides."
+  },
+  {
+   "id": "ormenogeneralconstruction.com",
+   "text": "Westchester County licence expiry 9/30/2028 implies a 2026 renewal cycle, but the portal shows no renewal or issue date, so licence_renewal was not counted (same rule as earlier waves)."
+  },
+  {
+   "id": "ormenogeneralconstruction.com",
+   "text": "G6 not reached: packet dm_snippets show 'Pedro Ormeno, founder' on the site and home page lists 'Owner Pedro Ormeno'; mailto ormenogc@gmail.com on home page. Not recorded because the candidate stopped at G4."
+  },
+  {
+   "id": "prestigemgcinc.com",
+   "text": "Westchester licence expiry 3/21/2028 not treated as a renewal signal (no renewal date shown; implied cycle is outside the window)."
+  },
+  {
+   "id": "prestigemgcinc.com",
+   "text": "G6 not reached: mailto info@prestigemgcinc.com on home page; no owner name seen. Not recorded because stopped at G4."
+  },
+  {
+   "id": "riemerkitchens.com",
+   "text": "About page says 'involved in the process from design through installation', but the process page assigns construction to the client's general contractor; not treated as a remodelling contractor."
+  },
+  {
+   "id": "robertskitchens.com",
+   "text": "Home page pop-up 'We're Moving! We're currently in the process of moving to a new location.' has no date; not used as a signal (relocation would be a scoring trigger only)."
+  },
+  {
+   "id": "robertskitchens.com",
+   "text": "G6 not reached: footer shows 'Email: info@robertskitchens.com'; no owner name seen. Not recorded because stopped at G4."
+  },
+  {
+   "id": "seiconstructioninc.com",
+   "text": "NJ licence expiry 3/31/2027 not used as a renewal signal: annual 31 March cycle places the renewal before 2026-07-16."
+  },
+  {
+   "id": "seiconstructioninc.com",
+   "text": "G6 not reached: packet dm_snippets show 'Mike Rizzo, Owner of SEI Construction, Inc' on the contact page; packet found no published email. Not recorded because stopped at G4."
+  },
+  {
+   "id": "sevenpinescorp.com",
+   "text": "Borderline: kitchen and bath lead the services menu, but the hero line and service cards give decks equal billing and roofing/siding are separate service lines, so not treated as primarily kitchen and bath."
+  },
+  {
+   "id": "sunshoreconstruction.com",
+   "text": "Did not attribute any Boston permit to Sun Shore by guessing the licence holder's name."
+  },
+  {
+   "id": "sunshoreconstruction.com",
+   "text": "G6 not reached: mailto sunshoreconstruction@gmail.com on home page (packet); blog byline 'Eric Zhang' and LinkedIn employee 'steven johnson' carry no stated owner role. Not recorded because stopped at G4."
+  },
+  {
+   "id": "superiorcustomkitchens.com",
+   "text": "NJ licence expiry 3/31/2027 not used as a renewal signal (31 March cycle, before the window)."
+  },
+  {
+   "id": "superiorcustomkitchens.com",
+   "text": "G6 not reached: NJ registry lists 'Owner Name: John Borna', but that is a third-party registry, not a page the business controls; about page shows a 'Co-Founder' label (packet). Home page mailto supkit@optonline.net. Not recorded because stopped at G4."
+  },
+  {
+   "id": "torresrenovationsincny.net",
+   "text": "G6 not reached: blog byline 'Jorge Torres' carries no owner role on the pages fetched, so not treated as decision maker; home page shows torrestilerenovations@gmail.com. Not recorded because stopped at G4."
   },
   {
    "id": "abbiejoan.com",
@@ -843,6 +938,162 @@
   {
    "id": "sandwkitchens.com",
    "text": "/services/luxury-remodeling/ (wp-json 2026-06-24) is password-protected; not used as a new service line trigger."
+  },
+  {
+   "id": "akbs-oldtown.com",
+   "text": "DPOR record OLD TOWN KITCHENS, INC. shares the 829 S Washington St address, but no page states it is the same business; not used."
+  },
+  {
+   "id": "akbs-oldtown.com",
+   "text": "DPOR Expiration Date 2027-04-30 does not state a renewal date in the window; not counted as licence_renewal."
+  },
+  {
+   "id": "contractorsource.com",
+   "text": "A Google review on their home page says 'this company is part of Spraggins'; a reviewer's claim is not evidence of a corporate parent, and G5 was not reached."
+  },
+  {
+   "id": "contractorsource.com",
+   "text": "Florida certified contractor licences cycle on 31 August of even years, but no renewal date was found; not counted as licence_renewal."
+  },
+  {
+   "id": "dfinedesignandbuild.com",
+   "text": "A Google review on the about page mentions 'I called Ahmet'; no page they control states Ahmet's role, so no decision maker recorded."
+  },
+  {
+   "id": "dfinedesignandbuild.com",
+   "text": "Review mention of a '$150K contract' is a customer statement, not advertised pricing; not used for high_ticket."
+  },
+  {
+   "id": "islandhomesfl.com",
+   "text": "The iHireConstruction search snippet for 'Island Homes & Renovations Inc.' showed no date and the listing is gone; not counted as job_posting."
+  },
+  {
+   "id": "islandhomesfl.com",
+   "text": "YouTube 'Employees' video (2026-06-08) is outside the window; not counted."
+  },
+  {
+   "id": "kbfdesigngallery.com",
+   "text": "Ownership transfer to Ashley Sheaffer and Adam Vellequette happened in 2021 per their own post, before the 2026-01-14 trigger window; not a trigger."
+  },
+  {
+   "id": "kbfdesigngallery.com",
+   "text": "Maitland showroom opened 2020 and New Smyrna Beach service area added 2024 per the anniversary post; both before the trigger window."
+  },
+  {
+   "id": "kbfdesigngallery.com",
+   "text": "Packet franchise_mentions 're-bath' matched only the URL fragment 'windermere-bathroom-remodeling'; no franchise found."
+  },
+  {
+   "id": "keystoneremodeling.com",
+   "text": "Page 'modified' timestamps of 2026-08-17 show edits, not a dated content addition; not counted as site_dated_content."
+  },
+  {
+   "id": "lazerremodel.com",
+   "text": "Did not treat the GBP review spelling 'Ed McIntosh' as the authoritative name; recorded the site spelling."
+  },
+  {
+   "id": "lazerremodel.com",
+   "text": "January 2026 launch not counted as an in-window trigger because no day is given."
+  },
+  {
+   "id": "lazerremodel.com",
+   "text": "On-site UENI review dates not counted as a separate signal type."
+  },
+  {
+   "id": "lowcountrybrc.com",
+   "text": "LinkedIn lists employees Michael Albrecht and Lyndsey Albrecht; did not attach the surname Albrecht to the owner 'Michael' because no page states it next to the role."
+  },
+  {
+   "id": "lowcountrybrc.com",
+   "text": "Did not treat LowCountry as the Bath Planet of Savannah dealer: that listing has a different phone and a Savannah GA location."
+  },
+  {
+   "id": "lowcountrybrc.com",
+   "text": "Blog byline 'Oakwynde Homes' not treated as a web vendor credit; it is a Wix author name with no link."
+  },
+  {
+   "id": "lowcountrybrc.com",
+   "text": "Nextdoor posts dated 2026-10-15/16 not counted (after 2026-10-14 window end)."
+  },
+  {
+   "id": "lowcountrybrc.com",
+   "text": "LinkedIn 'added another installation crew' (Jan 2026) and 'new Director of Installation Services' (Mar 2026) not counted as triggers (not a listed trigger type)."
+  },
+  {
+   "id": "manzercontracting.com",
+   "text": "Blog posts all modified 2026-06-18 and scheduled weekly; did not treat the publish cadence as evidence of ongoing activity beyond the dated posts themselves."
+  },
+  {
+   "id": "manzercontracting.com",
+   "text": "Georgia residential contractor licences renew in even years, but no renewal date was retrievable, so no licence_renewal signal was counted."
+  },
+  {
+   "id": "manzercontracting.com",
+   "text": "Footer 'Powered by Beaver Builder' and a 'local-search-seo-contact-page' plugin linking to totalhousehold.com were not treated as web vendor credits (theme builder and directory link)."
+  },
+  {
+   "id": "megakitchenandbath.com",
+   "text": "Post and case-study 'modified' dates in Jul to Sep 2026 not counted as dated content additions."
+  },
+  {
+   "id": "megakitchenandbath.com",
+   "text": "Ad landing pages created 2026-08-13 not counted as site_dated_content."
+  },
+  {
+   "id": "megakitchenandbath.com",
+   "text": "GuildQuality survey reviews not counted (not a listed signal type)."
+  },
+  {
+   "id": "newberryhome.com",
+   "text": "Ad landing pages created 2026-08-07 and Myrtle Beach campaign pages (2025) not counted as site_dated_content or as a new-location trigger; no opening date for the Myrtle Beach office was found."
+  },
+  {
+   "id": "newberryhome.com",
+   "text": "Did not assume Barry Dyer runs the YouTube or social accounts personally."
+  },
+  {
+   "id": "pyramidremodelinggroup.com",
+   "text": "Did not treat the SEO page title 'Kitchen Remodeling' as evidence that kitchens are the primary work; body copy lists kitchen and bath as one of six specialties."
+  },
+  {
+   "id": "pyramidremodelinggroup.com",
+   "text": "A homepage testimonial names 'it's owner, Mohamed Benkilani'; not recorded as decision maker (testimonial, and G6 not reached)."
+  },
+  {
+   "id": "reimaginemaryland.com",
+   "text": "Did not count kitchens and bathrooms appearing in the services menu as making them the primary work."
+  },
+  {
+   "id": "revivalclt.com",
+   "text": "Did not treat the 'Kitchens & Baths' service page or the primary-bath before/after slider as evidence that kitchen and bath is the primary work."
+  },
+  {
+   "id": "shdesignwoodcraft.com",
+   "text": "Did not treat agency-written blog cadence as evidence of owner activity."
+  },
+  {
+   "id": "shdesignwoodcraft.com",
+   "text": "Houzz 'Best of Houzz 2025' label not counted as a dated signal."
+  },
+  {
+   "id": "varenovations.com",
+   "text": "Did not treat the 'Selected work' heading 'Kitchens, baths, additions and everything between' as making kitchen and bath the primary line."
+  },
+  {
+   "id": "woodsman.biz",
+   "text": "No published email on home, about, ESOP, careers, contact, showroom or privacy pages (only a 'user@domain.com' form placeholder); did not construct one."
+  },
+  {
+   "id": "woodsman.biz",
+   "text": "Careers page heading 'Current Job Openings' has no listings in the fetched HTML; a SimplyHired kitchen and bath designer listing surfaced in WebSearch but returned 403 and showed no date, so not recorded as a live posting."
+  },
+  {
+   "id": "woodsman.biz",
+   "text": "Founder Rick Woods named on the about page; not recorded as decision maker since the company is now ESOP-owned and the ESOP page names Brad Mangold as President."
+  },
+  {
+   "id": "woodsman.biz",
+   "text": "2023 ESOP transition and 2026-09-18 'Remodeling Learning Center' launch not counted as triggers (outside window / not a listed trigger type)."
   },
   {
    "id": "annarborremodelingllc.com",
@@ -1317,6 +1568,166 @@
    "text": "Niche passed although the firm also sells cabinetry to builders (trade-professionals page); it installs and project-manages full kitchen and bath remodels directly for homeowners"
   },
   {
+   "id": "agservicesohllc.com",
+   "text": "Did not treat a homepage before/after image filename containing 'kitchen' as a kitchen remodelling service; its alt text describes interior painting and drywall"
+  },
+  {
+   "id": "agservicesohllc.com",
+   "text": "Did not treat 'Whole-House Renovation' as a kitchen service; its description lists wall removal, open floor plans, master suites, aging-in-place"
+  },
+  {
+   "id": "bakesandkropp.com",
+   "text": "Did not treat the blog project feature (a Pound Ridge NY kitchen) as evidence the firm acts as a remodelling contractor; it describes cabinetry design by a staff designer"
+  },
+  {
+   "id": "bakesandkropp.com",
+   "text": "Did not treat the GBP Bay Harbor MI showroom as a standalone local business; site footer names a Mount Clemens corporate office/factory"
+  },
+  {
+   "id": "degnandesignbuildremodel.com",
+   "text": "Did not decode the visible obfuscated address 'Contact-Us [at] DegnanDesignBuildRemodel [dot] com' into an email; recorded only the literal mailto amy@ found on the careers page (Amy Volkmann - Office Manager per Our People)"
+  },
+  {
+   "id": "degnandesignbuildremodel.com",
+   "text": "Contact page 'New Address : 6562 Lake Rd, Suite 4 Windsor' carries no date, so not recorded as a relocation trigger; LinkedIn and careers page still reference DeForest"
+  },
+  {
+   "id": "degnandesignbuildremodel.com",
+   "text": "Did not treat Bob Degnan as a current decision maker; site says he founded the company in 1981 but gives no current role"
+  },
+  {
+   "id": "degnandesignbuildremodel.com",
+   "text": "Competitor pool entries (Kansas City, NW Arkansas and other out-of-area firms) not used; chose a Madison firm from own search"
+  },
+  {
+   "id": "elevate-remodeling.com",
+   "text": "Did not treat Columbus permits for similarly named firms (Elevate Restorations LLC, Elevated Integrity, Elevate Equity LLC) as this company's permits"
+  },
+  {
+   "id": "elevate-remodeling.com",
+   "text": "Did not treat Michael Freed as owner; only blog author byline and email seen, no role stated in pages fetched"
+  },
+  {
+   "id": "foreverbaths.com",
+   "text": "Did not treat the footer LinkedIn company page as theirs; it describes Home Forever Baths of Bensenville, IL"
+  },
+  {
+   "id": "foreverbaths.com",
+   "text": "Did not record Chad and Lori as decision makers; the about page names them as founders of the parent business but G6 was not reached"
+  },
+  {
+   "id": "hbre-mn.com",
+   "text": "Did not treat Minneapolis permits from January 2026 or earlier as in-window activity"
+  },
+  {
+   "id": "hbre-mn.com",
+   "text": "Did not count Pinterest board as active; newest pin is from 2021"
+  },
+  {
+   "id": "larsoncustom.com",
+   "text": "Did not attribute Minneapolis permits from Larson Building or Larson Plumbing Inc to this firm"
+  },
+  {
+   "id": "larsoncustom.com",
+   "text": "Did not treat Luke and Kristen (named in reviews and FAQ) as owners; no role stated next to their names in pages fetched"
+  },
+  {
+   "id": "majestichomesolutions.com",
+   "text": "Did not record Zayne Roumaya as owner or president; the site states only that he founded the business in 1995"
+  },
+  {
+   "id": "majestichomesolutions.com",
+   "text": "Did not infer a current posting date for the careers page roles"
+  },
+  {
+   "id": "majestichomesolutions.com",
+   "text": "Did not treat the 'near-me' service-area pages as a franchise or multi-location locator; they are local service area pages with a single Sterling Heights address"
+  },
+  {
+   "id": "majestichomesolutions.com",
+   "text": "Did not treat Tool Team Home Solutions as a competitor; its title advertises handyman services"
+  },
+  {
+   "id": "mgcremodel.com",
+   "text": "Titles conflict between pages: homepage says 'Jordan Morell, CEO', Team page says 'Jordan Morell CFO / Co-Owner' and 'Joe Manske CEO / Co-Owner'; recorded Jordan Morell only as Co-Owner, the role both pages agree on"
+  },
+  {
+   "id": "mgcremodel.com",
+   "text": "Did not treat the Team page listing of Joe Manske as a dated new-owner trigger; no date or announcement found"
+  },
+  {
+   "id": "mgcremodel.com",
+   "text": "Did not use sitemap lastmod dates as signals; used CMS item creation dates instead"
+  },
+  {
+   "id": "mgcremodel.com",
+   "text": "Did not treat Kitchen Solvers of Columbus (franchise) from the competitor pool as a competitor"
+  },
+  {
+   "id": "mikhomesohio.com",
+   "text": "Did not treat sitemap lastmod 2026-05-26 / 2026-02-27 as site_dated_content (sitemap dates excluded and outside the window)."
+  },
+  {
+   "id": "mikhomesohio.com",
+   "text": "Did not attribute permits filed under unknown legal entity names to Mik Homes; no permit names Mik Homes."
+  },
+  {
+   "id": "mpcontracting-mo.com",
+   "text": "Did not record 'Matt' as decision maker: he is named only in customer reviews, with no role stated on a page the company controls."
+  },
+  {
+   "id": "mpcontracting-mo.com",
+   "text": "Blog posts may be produced by the UENI platform; counted only as dated on-site content, nothing inferred about who wrote them."
+  },
+  {
+   "id": "mpcontracting-mo.com",
+   "text": "On-site reviews dated Oct 2026 on /reviews were not used as a google_review signal (source platform not shown)."
+  },
+  {
+   "id": "planforward.net",
+   "text": "Pinterest items in window are saves of other sites' images (for example '6 Ways to Update Your Home Exterior, Little House of Chic'); counted as account activity dated by Pinterest, not as original project content."
+  },
+  {
+   "id": "planforward.net",
+   "text": "Did not treat the '2026 Horizontal Logo' image filename as a rebrand trigger; no page states a rebrand."
+  },
+  {
+   "id": "planforward.net",
+   "text": "Did not count the October 3, 2026 home tour event listing as site_dated_content."
+  },
+  {
+   "id": "spaceturtleconstruction.com",
+   "text": "Did not treat page modified dates (contact-2 2026-09-02) as site_dated_content; they are edits, not dated additions, and this candidate needs a non-site type anyway."
+  },
+  {
+   "id": "spaceturtleconstruction.com",
+   "text": "Did not treat the MN licence expiry 03/31/2027 as a renewal in window; no renewal date is shown and the MN cycle renews by 31 March."
+  },
+  {
+   "id": "stldesignandbuild.com",
+   "text": "Did not date the careers page openings from the page's dateModified 2026-06-10; no posting date is shown, and it is before the window anyway."
+  },
+  {
+   "id": "stldesignandbuild.com",
+   "text": "Did not treat Promotions pages as site_dated_content (offers, not project/blog additions)."
+  },
+  {
+   "id": "sweeneydesign.com",
+   "text": "Did not count tim@sweeneydesign.com or dpatnode@sweeneydesign.com: both appear only inside commented-out hidden 'debugEmail' form fields, not as published addresses."
+  },
+  {
+   "id": "sweeneydesign.com",
+   "text": "Did not treat Linda Sweeney as owner; the page states Vice President and that she joined her husband in the business, not ownership."
+  },
+  {
+   "id": "sweeneydesign.com",
+   "text": "Did not treat the 2026-10-13 new team member page (Kennan Stoker) as a trigger."
+  },
+  {
+   "id": "theshowerco.com",
+   "text": "Did not treat the packet's 're-bath' franchise_mentions hit as evidence; no Re-Bath text found in the pages refetched. G5 failure rests on the company's own Franchising page."
+  },
+  {
    "id": "newbathtub.com",
    "text": "Did not treat the Little Rock, AR GBP listing as an independent local business; the site's own privacy policy names SageHome, LLC as operator."
   },
@@ -1575,6 +1986,2966 @@
   {
    "id": "renokc.com",
    "text": "Did not treat the 'Clients - Jobtread' menu item as a new service line; it is a client portal link"
+  },
+  {
+   "id": "bathroomheadquarters.com",
+   "text": "Fall Sales Event dated September 7 to November 1, 2026 in the footer is a promotion, not a dated project/blog addition, so it was not counted as site_dated_content."
+  },
+  {
+   "id": "bathroomheadquarters.com",
+   "text": "MABCD 'No Application Found.' was not treated as evidence of no permits, because control searches also returned nothing."
+  },
+  {
+   "id": "drcustomremodeling.com",
+   "text": "Did not attribute Austin permits issued to 'D&R Remodeling' (2018-2020) or 'D&R Plumbing' to this company; names differ and none are in the window."
+  },
+  {
+   "id": "drcustomremodeling.com",
+   "text": "Did not count syndicated advertorial press releases as social_post; they are not an account the company controls."
+  },
+  {
+   "id": "dwrinteriors.com",
+   "text": "Did not treat Angela Harless as owner: the JSON-LD Person entry and reviews give no role."
+  },
+  {
+   "id": "dwrinteriors.com",
+   "text": "Did not use angela@dwrinteriors.com: it appears only in structured data, not as a published mailto or visible text."
+  },
+  {
+   "id": "dwrinteriors.com",
+   "text": "Did not treat 'DWR Construction' references as a 2026 rebrand; no date is given."
+  },
+  {
+   "id": "empirecabinet.info",
+   "text": "Did not treat cabinet installation in kitchens and bathroom vanities as full kitchen/bath remodelling; the site advertises cabinetry only."
+  },
+  {
+   "id": "homefixcos.com",
+   "text": "Did not treat a kitchen-heavy portfolio as the primary advertised work; services and headline lead with full-service home improvement and roofing."
+  },
+  {
+   "id": "homerenovationsandremodeling.com",
+   "text": "Did not accept 'Jason' / 'Jason Bell' as owner: the role comes only from a customer review quoted on the site."
+  },
+  {
+   "id": "homerenovationsandremodeling.com",
+   "text": "Did not treat Tiffany as a decision maker; her role is not stated."
+  },
+  {
+   "id": "homerenovationsandremodeling.com",
+   "text": "LinkedIn '2mo' relative post dates not converted into a dated signal."
+  },
+  {
+   "id": "kccabinetandmore.com",
+   "text": "Did not count the undated energyhire.com job listing as a job_posting."
+  },
+  {
+   "id": "kccabinetandmore.com",
+   "text": "Did not count sitemap lastmod dates as site_dated_content."
+  },
+  {
+   "id": "kitchenandbathremodelingandaccessories.com",
+   "text": "Did not count the April 2025 'new showroom' YouTube short as a trigger or signal; it is outside both windows."
+  },
+  {
+   "id": "lamberthome.com",
+   "text": "Did not treat client reviews mentioning kitchen and bath remodels as the firm's primary advertised work."
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "R"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "v"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "w"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "s"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "m"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "b"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "a"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "h"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "r"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "m"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "w"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "r"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "k"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "f"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": ","
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "b"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "u"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "r"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "v"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "w"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "m"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "x"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "s"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "h"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "c"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "m"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "p"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "a"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "y"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "'"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "s"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "a"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "d"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "v"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "r"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "s"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "d"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "p"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "s"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "g"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": ";"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "d"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "d"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "o"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "r"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "a"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "t"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "a"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "s"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "c"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "h"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": " "
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "v"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "i"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "d"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "n"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "c"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "e"
+  },
+  {
+   "id": "mdhremodeling.com",
+   "text": "."
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "D"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "i"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "d"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "n"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "o"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "r"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "e"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "a"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "h"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "e"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "2"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "0"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "2"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "6"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "-"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "0"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "7"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "-"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "1"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "3"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "b"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "l"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "o"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "g"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "p"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "o"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "s"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "a"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "s"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "i"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "n"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "-"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "w"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "i"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "n"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "d"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "o"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "w"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "."
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "D"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "i"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "d"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "n"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "o"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "r"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "e"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "a"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "p"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "a"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "g"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "e"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "'"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "m"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "o"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "d"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "i"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "f"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "i"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "e"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "d"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "'"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "i"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "m"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "e"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "s"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "a"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "m"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "p"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "s"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "("
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "h"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "o"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "m"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "e"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "2"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "0"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "2"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "6"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "-"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "0"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "9"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "-"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "0"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "3"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": ")"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "a"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "s"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "d"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "a"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "e"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "d"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": " "
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "c"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "o"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "n"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "e"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "n"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "t"
+  },
+  {
+   "id": "mybathcolorado.com",
+   "text": "."
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "D"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "i"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "i"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "f"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "h"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "K"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "l"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "l"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "y"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "A"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "m"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "B"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "l"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "i"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "p"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "u"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "c"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "-"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "w"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "g"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "h"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "f"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "m"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "h"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "h"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "u"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "m"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": ";"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "K"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "l"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "l"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "y"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "'"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "c"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "-"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "w"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "l"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "i"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "h"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "b"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "u"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "p"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "g"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": ","
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "A"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "m"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "i"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "c"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "l"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "y"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "P"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "i"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "/"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "c"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "-"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "f"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "o"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "u"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "n"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "r"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": " "
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "s"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "a"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "t"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "e"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "d"
+  },
+  {
+   "id": "renewthehome.com",
+   "text": "."
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "D"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "d"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "n"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "o"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "r"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "a"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "h"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "b"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "u"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "n"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "n"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "a"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "m"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "'"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "K"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "c"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "h"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "n"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": ","
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "B"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "a"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "h"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "&"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "B"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "a"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "m"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "n"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "'"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "("
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "G"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "o"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "o"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "g"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "l"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "p"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "r"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "o"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "f"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "l"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "l"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": ")"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "a"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "h"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "a"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "d"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "v"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "r"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "d"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "p"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "r"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "o"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "r"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "y"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": ";"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "h"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "'"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "h"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "r"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "o"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "a"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "n"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "d"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "o"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "f"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "f"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "r"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "l"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "a"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "d"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "w"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "i"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "h"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": " "
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "b"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "a"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "m"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "e"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "n"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "t"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "s"
+  },
+  {
+   "id": "swiftbuildsolutions.com",
+   "text": "."
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "D"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "i"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "d"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "n"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "o"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "c"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "o"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "u"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "n"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "p"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "r"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "o"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "j"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "e"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "c"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "p"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "a"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "g"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "e"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "s"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "a"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "s"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "s"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "i"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "e"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "_"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "d"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "a"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "e"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "d"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "_"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "c"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "o"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "n"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "e"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "n"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "f"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "r"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "o"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "m"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "s"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "i"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "e"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "m"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "a"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "p"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "l"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "a"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "s"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "m"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "o"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "d"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "o"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "r"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "p"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "a"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "g"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "e"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "u"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "p"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "d"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "a"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "e"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "d"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "O"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "n"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": " "
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "i"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "m"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "e"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "s"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "t"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "a"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "m"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "p"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "s"
+  },
+  {
+   "id": "vk-designstudio.com",
+   "text": "."
   },
   {
    "id": "desertremodel.com",
@@ -2119,37 +5490,297 @@
   {
    "id": "custombathsolutions.com",
    "text": "'Powered by Google' near the rating badge is the review widget label, not a vendor credit."
+  },
+  {
+   "id": "affinityhd.com",
+   "text": "Niche passed on the residential service statement, but the home page gives equal billing to 'MULTIFAMILY & CAPX' unit renovations and most featured projects are multifamily; coordinator may wish to treat niche as borderline."
+  },
+  {
+   "id": "affinityhd.com",
+   "text": "Home page states the company was 'established by Nathan Dunithan in 2010'; not recorded as decision maker because G6 was not reached."
+  },
+  {
+   "id": "affinityhd.com",
+   "text": "Careers page job titles were not counted as a job_posting: the page was last modified 2023-02-08 and links point to the discontinued Google Hire service, so no posting date in window exists."
+  },
+  {
+   "id": "affinityhd.com",
+   "text": "Footer and site emails use a staging domain (affinityhdstg1.wpenginepowered.com) in mailto links; not evaluated because G6 was not reached."
+  },
+  {
+   "id": "allexclusivepro.com",
+   "text": "A /santa-monica/ page created 2026-07-08 and a footer 'Santa Monica Location' were not recorded as a relocation/new-location trigger: no page states when that location opened."
+  },
+  {
+   "id": "allexclusivepro.com",
+   "text": "WebSearch summary of a third-party directory named Jacob Beckert as founder; not used. The decision maker comes from the company's own page."
+  },
+  {
+   "id": "allexclusivepro.com",
+   "text": "Niche passed because kitchen and bathroom remodelling lead the headline, nav and service list, but the site also markets ADUs, additions, roofing testimonials and commercial work."
+  },
+  {
+   "id": "ananiremodeling.com",
+   "text": "About page also lists 'Daniel Malinovskiy Owner' under 'The Team'; both role labels are on the company's own page, so recorded as Founder / Owner."
+  },
+  {
+   "id": "ananiremodeling.com",
+   "text": "About page 'View Careers' button links to /contact/ and /careers/ returns 404; not counted as a job posting."
+  },
+  {
+   "id": "ananiremodeling.com",
+   "text": "No owner personal social account is linked from the site; owner_account_post_60d left UNKNOWN rather than attributing the company Instagram to him."
+  },
+  {
+   "id": "bayareabathroomremodeling.com",
+   "text": "Did not treat the GBP name 'Bay Area Bathroom Remodeling' as the advertised niche; the website it redirects to leads with foundation and structural work."
+  },
+  {
+   "id": "bayareabathroomremodeling.com",
+   "text": "Packet dm_snippet 'Dany is the founder and managing director of iConstruction' not evaluated because G6 was not reached."
+  },
+  {
+   "id": "behomeremodelingwa.com",
+   "text": "Did not treat the high kitchen/bath word counts as proof of a kitchen and bath focus; the title, hero and service menu present general home remodelling."
+  },
+  {
+   "id": "behomeremodelingwa.com",
+   "text": "Packet dm_snippet 'founded by Benjamin Maor' not evaluated because G6 was not reached."
+  },
+  {
+   "id": "behomeremodelingwa.com",
+   "text": "Packet franchise_mentions 're-bath' not evaluated (stopped at NICHE)."
+  },
+  {
+   "id": "bestfitbath.com",
+   "text": "About page shows 'Jonathan Fiorillo Owner'; not recorded as decision maker because G6 was not reached."
+  },
+  {
+   "id": "bestfitbath.com",
+   "text": "Media uploads dated in window were not counted as site_dated_content: they are logo/truck/staff images, not a project, blog or gallery addition."
+  },
+  {
+   "id": "bestfitbath.com",
+   "text": "GBP lists Spokane, but the site's headline targets Pullman and Moscow; no location claim was made from the GBP."
+  },
+  {
+   "id": "brutskybuilds.com",
+   "text": "WA L&I open data lists primary principal 'BRUTSKY, ERIK' for licence BRUTSBL783ON; a state registry is not a page the company controls, so no decision maker was recorded."
+  },
+  {
+   "id": "brutskybuilds.com",
+   "text": "WA L&I shows licence expiration 2028-09-15 (effective date 2022-09-15); not recorded as a licence_renewal because no renewal date is shown."
+  },
+  {
+   "id": "brutskybuilds.com",
+   "text": "About page says 'Our upcoming services will include smart home integration and outdoor kitchen design'; undated and future tense, so not recorded as a new-service-line trigger."
+  },
+  {
+   "id": "brutskybuilds.com",
+   "text": "Footer lists four offices (two Bellevue, Kirkland, Seattle) with no opening dates; not recorded as a new location trigger."
+  },
+  {
+   "id": "brutskybuilds.com",
+   "text": "G5 passed on the absence of any franchise brand, parent or locator across home, about, contact and legal pages; the quoted line shows its own LLC and licence."
+  },
+  {
+   "id": "cervantescabinets.com",
+   "text": "info@cervantescabinets.com appears only in page source (Squarespace site settings 'contactEmail' and JSON-LD '\"email\":\"info@cervantescabinets.com\"' on https://cervantescabinets.com/contact), not as a mailto link or visible text, so email_confirm was left null; coordinator may decide whether structured-data emails qualify."
+  },
+  {
+   "id": "cervantescabinets.com",
+   "text": "Owner's Houzz account (joel-cervantes38) could not be read; company Pinterest and Instagram were not treated as the owner's own account."
+  },
+  {
+   "id": "cervantescabinets.com",
+   "text": "Niche passed: the business started as a cabinet shop, but the site title, menu and homepage advertise full kitchen and bath remodels with installation, not cabinet retail only."
+  },
+  {
+   "id": "helpconstructionoc.com",
+   "text": "Did not treat the packet's 'Kitchen & bath' keyword counts as the primary advertised work; the title and first-listed service are general contracting and new construction/ADUs."
+  },
+  {
+   "id": "helpconstructionoc.com",
+   "text": "Packet dm_snippet 'Meet Ryan, Owner & Founder' not evaluated because G6 was not reached."
+  },
+  {
+   "id": "inspiredremodels.com",
+   "text": "Careers page lists an 'Administrative Assistant' under 'VIEW OPEN POSITIONS', but the page was last modified 2024-02-12 and shows no posting date, so it was not recorded as a live job posting."
+  },
+  {
+   "id": "inspiredremodels.com",
+   "text": "Nav link 'Inspired Realty' points to a separate site (inspiredrealtyinc.com) with no dated launch evidence; not recorded as a new-service-line trigger."
+  },
+  {
+   "id": "inspiredremodels.com",
+   "text": "The team page lists a 'DIRECTOR OF MARKETING' (Bren O'Brien); this is in-house staff, not a web/marketing vendor credit, so no g3_vendor_found."
+  },
+  {
+   "id": "inspiredremodels.com",
+   "text": "Instagram feed dates come from the embed on the company's own site; the Instagram account itself was not opened."
+  },
+  {
+   "id": "integrityremodelinginc.com",
+   "text": "Did not treat the order of the service list (kitchen and bath first) as proof that kitchens and baths are the primary advertised work, given the title and the breadth of services."
+  },
+  {
+   "id": "integrityremodelinginc.com",
+   "text": "Packet dm_snippet 'Owner/Project Manager - Todd' not evaluated because G6 was not reached; WA L&I open data lists primary principal 'KUBICEK, TODD KENNETH' (a state registry, not used)."
+  },
+  {
+   "id": "inthedeets.com",
+   "text": "Did not treat the 'Design Build' nav label as making the firm a design-build contractor; the site states the build is done by partner Konstructo."
+  },
+  {
+   "id": "inthedeets.com",
+   "text": "Packet dm_snippet 'Owner & Principal Designer' not evaluated because G6 was not reached."
+  },
+  {
+   "id": "jdiconstruction.co",
+   "text": "Alex Kulchitskiy is labelled 'Founder' on /about/ and /team/; CEO Arthur Kulchitskiy recorded as the current decision maker because the team page says he carries 'forward the company his father founded'. WA L&I primary principal 'KULCHITSKIY, ALEKSANDR' not used as evidence."
+  },
+  {
+   "id": "jdiconstruction.co",
+   "text": "og:updated_time 2026-09-24 on the careers page was not treated as a job posting date."
+  },
+  {
+   "id": "jdiconstruction.co",
+   "text": "Permit CMI-389940 is a commercial remodel; counted only as dated permit activity, not as a kitchen/bath project."
+  },
+  {
+   "id": "jeffskitchens.com",
+   "text": "Niche passed on the site's own 'full-service kitchen and bathroom remodeling' wording, but the overview page also says 'We coordinate with our trusted licensed contractors to manage your installation' and names them as cabinet dealers; the coordinator may wish to treat this as a cabinet dealer."
+  },
+  {
+   "id": "jeffskitchens.com",
+   "text": "About page lists 'Jeff Fitch Founder & Designer' and 'Justin Fitch Principal Designer'; not evaluated as decision maker because the run stopped at G4."
+  },
+  {
+   "id": "jsremodel.com",
+   "text": "CCB data lists RMI 'JOHN M SRAMEK'; not used for ownership (third-party registry; not evaluated as run stopped at G4)."
+  },
+  {
+   "id": "jsremodel.com",
+   "text": "Footer email johns@jsremodel.com seen on homepage; not evaluated as email_confirm because the run stopped at G4."
+  },
+  {
+   "id": "niptuckremodel.com",
+   "text": "april@ntremodel.net appears only in a JavaScript dataLayer variable ('pagePostAuthor') on /our-team/, not as visible text or mailto; not recorded as a published email."
+  },
+  {
+   "id": "niptuckremodel.com",
+   "text": "April Bettinger's personal LinkedIn (https://www.linkedin.com/in/aprilbettinger) returned an auth wall; owner_account_post_60d left UNKNOWN."
+  },
+  {
+   "id": "niptuckremodel.com",
+   "text": "LinkedIn post date taken from the activity-ID timestamp, consistent with the page's relative '3d'/'4d' labels; not from an absolute date shown on the page."
+  },
+  {
+   "id": "pbcgroupinc.com",
+   "text": "Bathroom accessibility work overlaps the bath niche, but the site leads with aging-in-place assessments, ADA and universal design rather than kitchen and bath remodelling; not counted as primary K&B."
+  },
+  {
+   "id": "pbcgroupinc.com",
+   "text": "Wix bot check blocked the Chrome user agent; content retrieved with plain 'Mozilla/5.0' user agent."
+  },
+  {
+   "id": "remontremodel.com",
+   "text": "Homepage names 'Licensed General Contractor Ihor Chirkin' without an ownership role; About page names 'Viktor Chirkin' as owner, so Viktor recorded as decision maker. WA L&I lists primary principal 'CHIRKIN, IHOR' for REMONT REMODELING LLC; registry not used for ownership."
+  },
+  {
+   "id": "remontremodel.com",
+   "text": "Terms of Service contact email decodes (Cloudflare) to team@freshbathremodel.com, a different company's address left in a copied template; not used as email and not treated as franchise evidence."
+  },
+  {
+   "id": "remontremodel.com",
+   "text": "Email domain remontremodeling.com differs from the site domain remontremodel.com; recorded exactly as published."
+  },
+  {
+   "id": "rez-construction.com",
+   "text": "The auto site_dated_content signal (blog 2026-10-14 'Best Home Addition Layouts for Real Life') was not validated because the run stopped at NICHE; RSS shows posts every two days."
+  },
+  {
+   "id": "sdlresidential.com",
+   "text": "About page testimonial: 'they were able to produce the drawing sets for contractor, cabinet maker, and Sonoma County permits' and mentions 'our contractor during construction'; treated as evidence that SDL designs while others build."
+  },
+  {
+   "id": "seattleconstructionco.com",
+   "text": "Google reviews embedded on /projects/kitchen-remodeling/ name 'Yair Levi' heading the construction team, and Bellevue permits list contractor 'LEVITE CONSTRUCTION CO YAIR LEVI'; no page Levite controls states an ownership role next to his name, so decision_maker is null."
+  },
+  {
+   "id": "seattleconstructionco.com",
+   "text": "Privacy policy also shows leviteconstruction@gmail.com; info@leviteconstruction.com preferred as the contact-page business address."
+  },
+  {
+   "id": "seattleconstructionco.com",
+   "text": "Service menu also lists Roofing, Sidings, Water & Fire Damage Restoration and Custom Homes; niche passed because the homepage and Projects menu lead with kitchens and baths."
+  },
+  {
+   "id": "shebuildskitchens.com",
+   "text": "CCB insurance expiry 06/16/2027 is an insurance term, not a licence renewal; not counted."
+  },
+  {
+   "id": "shebuildskitchens.com",
+   "text": "Accela permit search by owner name 'Winkel' returned unrelated Winkel Way addresses; not counted."
+  },
+  {
+   "id": "uniquekitchenbaths.com",
+   "text": "About page lists 'Pete Haririan Head architect'; no ownership role stated, so decision_maker is null."
+  },
+  {
+   "id": "uniquekitchenbaths.com",
+   "text": "Contact page also has mailto:archicon@qode.com, a leftover from the Qode WordPress theme demo; not the business email and not a web vendor credit."
+  },
+  {
+   "id": "uniquekitchenbaths.com",
+   "text": "Careers page is a standing general application with no posting date; recorded as job_posting_live with date UNKNOWN."
+  },
+  {
+   "id": "uniquekitchenbaths.com",
+   "text": "Homepage 'Full Remodel Package Only $24,950' is a promotion, not counted as a trigger or as a >$30k project value."
   }
  ],
  "could_not_check": [
   "Indeed/ZipRecruiter direct (401/403)",
   "Facebook/Instagram posts (login wall)",
-  "Indeed/ZipRecruiter direct (blocked)",
   "Facebook/Instagram (login wall)",
+  "Indeed/ZipRecruiter direct (blocked)",
+  "Indeed/ZipRecruiter direct listings (blocked)",
   "G4-G6 and scoring not run because the candidate stopped at NICHE",
   "Facebook/Instagram posts (login-walled)",
-  "Indeed/ZipRecruiter direct listings (blocked)",
-  "G4-G6 and scoring not run (stopped at NICHE).",
-  "Owner personal accounts",
-  "Indeed/ZipRecruiter postings (blocked)",
+  "Facebook and Instagram posts (login wall)",
+  "Indeed/ZipRecruiter (blocked)",
+  "Facebook and Instagram (login wall)",
   "Facebook posts (login wall)",
+  "G4-G6 and scoring not run (stopped at NICHE).",
   "Facebook (login wall)",
+  "Facebook page posts (login wall)",
+  "Houzz (bot challenge)",
+  "Owner personal accounts",
+  "Facebook and Instagram login walls",
+  "Indeed/ZipRecruiter postings (blocked)",
+  "Indeed/ZipRecruiter direct pages (401/403)",
+  "G4 to G6 and scoring not run because the candidate stopped at NICHE",
   "G5, G6 and scoring not run (stopped at G4)",
   "Google review signal (user-supplied; Google Maps not reachable)",
-  "Facebook page posts (login wall)",
   "Google reviews beyond the 3 visible on GBP",
+  "Facebook/Instagram (login walls)",
   "Facebook/Instagram (none linked; login wall)",
   "Google Maps review (supplied by user, not opened per instructions)",
   "Facebook/Instagram/LinkedIn posts (login-walled)",
   "Facebook posts (login-walled)",
+  "Facebook and Instagram (login walls).",
   "Facebook/Instagram (none linked; login-walled)",
   "City of Durham permit data by contractor (not queried; Cary permit sufficed)",
+  "Facebook/Instagram posts (login walls)",
   "Owner personal accounts (no owner named on site)",
   "City of Rochester ACA permit portal (connection reset)",
+  "Facebook, Instagram and X posts (login wall)",
   "AZ ROC licence lookup (JavaScript-only)",
   "Houzz (blocked)",
   "Marin County / Novato permit portals by contractor name",
   "Facebook/Instagram/LinkedIn posts (login wall)",
+  "Indeed/ZipRecruiter direct (blocked; WebSearch found nothing)",
   "Greenwich CT permit records (no public online search; City Squared requires an account)",
   "Westchester village permit portals (Rye, Scarsdale, Chappaqua) not individually searched",
   "Facebook/Instagram (no account linked from site; login wall)",
@@ -2169,19 +5800,7 @@
   "MA HIC registration dates (lookup offline / contractorhub.mass.gov unreachable)",
   "RI CRLB registration (403)",
   "Seekonk OpenGov permits (search API forbidden)",
-  "Instagram/Facebook posts (login-walled)",
-  "NJ business registry / ownership history",
-  "Mount Laurel permits (not searched; G4 met)",
-  "Social accounts (none linked from site)",
-  "Newington/West Hartford permit portals (account required / no public search found)",
-  "Facebook and Instagram posts (login-walled)",
-  "Indeed/ZipRecruiter direct listings",
-  "NJ HIC registration issue date (lookup returned empty results)",
-  "Union County / Clark permit records",
-  "Google reviews (none captured in packet; Google blocked here)",
-  "Belmont permits after Feb 2026 (portal requires registration)",
-  "MA HIC registration dates (lookup offline)",
-  "Roger Gallagher LinkedIn activity (login wall)"
+  "Instagram/Facebook posts (login-walled)"
  ],
- "agents_manual_records": 187
+ "agents_manual_records": 296
 }

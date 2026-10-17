@@ -1,66 +1,57 @@
 # Remodel 100: final report (run date 2026-10-14, updated 2026-10-17)
 
-**Result: 24 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard gates on
-evidence, and each gate-critical claim is in `evidence.csv`.
+**Result so far: 36 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard
+gates on evidence, every one passed a visual photo review, and each gate-critical claim is in `evidence.csv`. Work
+toward 100 is continuing (see "Still in progress").
 
-**What changed on 2026-10-17 (18 to 24):**
-- PageSpeed Insights now runs with an API key. 20 of the 24 have a measured mobile performance score below 60.
-  allrd.com (38) and Hamlett Renovations (55) had dropped out at G8 and now pass.
-- You supplied the newest Google review dates for 109 firms that had one non-review activity signal and nothing
-  else failing except G8 (`output/review_requests/`, gathered with Gemini). 21 showed a review on or after
-  2026-07-16. After PSI, agent verification, the photo review and template capture, 4 of those 21 pass: MJ Kitchen
-  & Bath, Renovating KC, Gayler Design Build and S&W Kitchens.
-- These 4 rely on a review date I did not open myself. You confirmed on 2026-10-17, signed in to Google, that all 4
-  show a recent review. `evidence.csv` records this in `source_note`.
+## How the count grew (18, then 24, then 36)
+- **PageSpeed Insights with an API key (2026-10-17).** 32 of the 36 have a mobile performance score below 60 as their
+  measured defect.
+- **Review dates you supplied through Gemini** for 109 firms. 4 passed that way, and you confirmed all 4 while signed in.
+- **Agent waves 6 and 7.** Agents searched 147 firms that had one activity signal for a second kind (dated blog or
+  project posts, permits, job posts, social posts), plus independence, owner and email checks. 12 passed after the
+  photo review.
+- **Automatic social signal.** Dated posts are read from LinkedIn company pages, YouTube channel feeds and Pinterest
+  feeds that the firm links from its own website. 113 of 1,500 blocked firms had one in the window.
+- **Discovery round 5.** Maps searches in 160 more towns added 2,898 new companies, which are still being screened.
 
-## Counts
+## Counts (current; round-5 firms are still being screened)
 | | |
 |---|---|
-| Discovered (unique companies after dedupe; 23,711 Maps rows from 1,182 searches in 538 towns) | 11,180 |
-| Duplicates merged in the second pass (same final website after redirects) | 17 |
-| Screened past the pre-gate (has a website, Maps category in niche) | 9,374 |
-| **Passed all gates** (`prospects100.csv`) | **24** |
-| Contact-only (everything except a published email) | 3 |
-| Bench-vendor (failed only G3; vendor named; G8 defect measured) | 4 |
-| Rejected (`rejected.csv`) | 11,132 |
+| Discovered (unique companies after dedupe) | 14,078 |
+| **Passed all gates** (`prospects100.csv`) | **36** |
+| Contact-only (everything except a published email) | 5 |
+| Bench-vendor (failed only G3; vendor named; G8 defect measured) | 6 |
+| Rejected or not yet completed (`rejected.csv`) | 14,008 |
 
-## Rejections per gate (first failing gate, waterfall order)
-| Gate | Rejected | What it was |
-|---|---|---|
-| G1 | 0 | The exclusion block in the brief held only the unfilled placeholder, so nothing could be matched. |
-| G2 | 2,406 | 1,210 had no website on Google; 94 listed or redirected to a social or directory page; 48 domains do not resolve (confirmed by DNS-over-HTTPS); 18 parked or placeholder; 1,031 failed all three fetch routes (requests, curl, US Chromium); 5 not completed. |
-| G3 | 2,840 | Agency or vendor credit, an agency theme author, an agency platform (Duda, GoHighLevel, HubSpot, Tilda, Next.js and others), or a vendor credit the agents found on the page. |
-| G4 | 4,119 | 2,969 had no dated signal in the visible Google reviews or in dated site content. 1,102 had one signal and also failed a later automated gate, so no second signal was searched. 40 were searched by an agent and still had fewer than two types. 8 profiles are marked closed. |
-| NICHE | 1,602 | Pre-gate Maps category, site text, or the agents' reading of the site. |
-| G5 | 151 | Franchises, dealer networks, corporate parents, plus candidates never verified because a later gate fails (marked "[not completed]"). 11 of these now pass G4 on your review data but fail G8: PSI 60 or higher and no other measured defect. |
-| G6 | 11 | No named decision maker on any page the company controls. |
-| G7 | 3 | Fewer than 8 images I could confirm as original photographs (renderings, AI or stock imagery). |
-
-**The real filter is G4, then G3.** G4 dominates because anonymous Google Maps shows only 3 relevance-ordered
-reviews per profile (see "Could not check"). G8 no longer rejects anyone: every remaining G8 failure sits behind an
-earlier failing gate.
+Rejections by first failing gate: G4 5,072; G3 3,551; G2 3,060 (this includes round-5 sites not yet checked);
+NICHE 2,121; G5 174; G6 20; G7 9; G8 1. G4 is still the main filter. 1,005 firms fail only G4, and they are in the
+Gemini request file (`review_requests/all/GEMINI_ALL_v2.md`).
 
 ## Top 10 by score (out of 25)
-Only one of the 24 has a trigger event evidenced within 9 months.
-1. **MJ Kitchen & Bath** (Plymouth MI), 17: trigger, new showroom open 2026-06-29 ("6.29.26 Our new Showroom is now open!").
-2. **Ann Arbor Remodeling** (MI), 13: trigger none evidenced; owner replied to a review within 60 days.
-3. **Craft Home Remodeling** (CA), 13: trigger none evidenced; owner replied within 60 days.
-4. **Hamlett Renovations** (Wayne NJ), 13: trigger none evidenced; owner replied within 60 days.
-5. **ALL Renovation & Design** (Manheim PA), 12: trigger none evidenced; live job posting.
-6. **Boss Design Center** (MD/VA), 12: trigger none evidenced; live Operations Manager posting.
-7. **Semper Fi Custom Remodeling** (Asheville NC), 12: trigger none evidenced; live job posting.
-8. **Wade Design & Construction** (Mequon WI), 12: trigger none evidenced; live job posting.
-9. **Five Fold Solutions** (Overland Park KS), 10: trigger none evidenced; owner replied within 60 days.
-10. **ARIID Build & Remodel** (Kirkland WA), 9: trigger none evidenced; careers page taking applications.
+1. **MJ Kitchen & Bath** (Plymouth MI), 17: trigger, new showroom open 2026-06-29; live job posting.
+2. **Majestic Home Solutions** (Sterling Heights MI), 17: owner replied within 60 days; live job posting.
+3. **JDI Construction** (Vancouver WA), 14: owner replied within 60 days; live job posting.
+4. **All Exclusive Construction** (Westlake Village CA), 13: owner replied within 60 days.
+5. **Ann Arbor Remodeling** (MI), 13: owner replied within 60 days.
+6. **Craft Home Remodeling** (San Diego CA), 13: owner replied within 60 days.
+7. **Forward Design Build Remodel** (Ann Arbor MI), 13: owner replied within 60 days.
+8. **Hamlett Renovations** (Wayne NJ), 13: owner replied within 60 days.
+9. **ALL Renovation & Design** (Manheim PA), 12: live job posting.
+10. **Boss Design Center** (Bethesda MD), 12: live job posting.
 
-## Most common defect and trigger
-- **Defect:** a PageSpeed Insights mobile performance score below 60 (20 of 24; scores 28 to 59, measured
-  2026-10-17). The others: gallery images over 1 MB (2) and horizontal overflow at a 375 px phone width (2).
-- **Trigger:** 1 of 24 (MJ Kitchen & Bath, new showroom). Gayler Design Build mentions a "new showroom" but
-  publishes no opening date, so it scores 0 for trigger. Tenhulzen (renamed 2026-06-05, second office 2026-06-19)
-  failed G6 because no page names an owner or president. Wright's "new" repairs page stays disallowed (see below).
-- Paid-spend signal: a Google Ads conversion tag on 13, a Meta Pixel on 7, Houzz Pro on 2, CallRail on 1,
-  Buildertrend on 1.
+## Most common defect, signal and trigger
+- **Defect:** PageSpeed mobile performance below 60 (32 of 36), gallery images over 1 MB (2), horizontal overflow at
+  375 px (2).
+- **G4 signal types across the 36:** dated site content 29, Google review 24, social post 13, permit 4, job post 2.
+- **Trigger:** 1 of 36 (MJ Kitchen & Bath).
+- **Paid spend:** Google Ads conversion tag 14, Meta Pixel 13, Houzz Pro 5, CallRail 2, HomeAdvisor 1, Buildertrend 1.
+
+## Still in progress
+- Round-5 discovery firms: site checks, then Maps, social, browser and PageSpeed, then agent verification.
+- Gemini answers for the 1,005 G4-only firms. `tools/ingest_gemini_all.py` imports review, Facebook and Instagram
+  dates. It counts a social account only if it is linked from the firm's own site. It also imports dated job posts,
+  and owner and email hints, which agents verify on the firm's own pages.
 
 ## Where I or the agents were tempted to infer, and rejected instead
 460 entries are recorded in the agents' `inference_rejected` fields in `data/manual/`. The main patterns:
@@ -74,6 +65,10 @@ Only one of the 24 has a trigger event evidenced within 9 months.
 - **Franchise or parent inferred from a mention or filename:** "re-bath" in image filenames, Bath Planet in a
   testimonial. These were not treated as franchises. Real parents (SageHome, Window World group, Luxury Bath, a local
   parent company) were rejected.
+- **Owner from first names or testimonials:** LowCountry Bath Renewal (first name only, on Nextdoor) and Capitalmark
+  Interiors (surname only in customer testimonials) were rejected at G6.
+- **Permits under another company name:** Callaway Homes (a Nashville permit names "Callaway Home Improvements") was
+  not attributed.
 - **Undated trigger:** Gayler's "new showroom" has no published date, so it was not scored.
 - **Review data from Gemini:** 85 of the 106 dated rows you supplied fall before 2026-07-16 and were not counted.
   Gemini returned no reviewer names or "Edited" flags, so those fields were not used.
@@ -85,7 +80,7 @@ Only one of the 24 has a trigger event evidenced within 9 months.
   matching Canyon Cabinetry's showroom size. Neither was attributed.
 
 ## Could not check, and why
-- **G1 not enforced.** The brief's exclusion block was the unfilled placeholder. Run the 18 against your contacted
+- **G1 not enforced.** The brief's exclusion block was the unfilled placeholder. Run the list against your contacted
   list before any outreach.
 - **PageSpeed Insights:** on 2026-10-14 the keyless API returned HTTP 429 on every call. On 2026-10-17 it ran with
   a key for the 24 passers, allrd, Hamlett and the 21 review-window firms. Two URLs (adkitchenc.com and
@@ -98,9 +93,10 @@ Only one of the 24 has a trigger event evidenced within 9 months.
   109 firms through Gemini. When the text of Gemini's "newest" review matched one of my captured reviews (24 rows), its
   date matched my relative timestamp in 21. In 43 rows a review I captured was newer than Gemini's "newest", so
   Gemini did not always sort by newest. That gives false negatives, not false passes.
-- **Login walls and blocks:** Facebook, Instagram and LinkedIn are login-walled and Google Search returns a CAPTCHA.
-  Indeed and ZipRecruiter return 401/403. As a result `owner_account_post_60d` is UNKNOWN for every prospect, and
-  social activity came only from YouTube or Pinterest RSS feeds and Instagram feeds embedded on the company's own site.
+- **Login walls and blocks:** Facebook and Instagram are login-walled and Google Search returns a CAPTCHA. Indeed and
+  ZipRecruiter return 401/403. LinkedIn company pages, YouTube channel feeds and Pinterest feeds are readable, and
+  `tools/social.py` reads them automatically for accounts linked from the firm's own site. `owner_account_post_60d`
+  stays UNKNOWN because owners' personal accounts are login-walled.
 - **Not attempted:** Google Ads Transparency Center and Meta Ad Library. G9 relies on the raw HTML and on network
   requests fired on page load.
 - **Tool limits:** Apify and Firecrawl were out of credit. The shared web-search budget ran out late in wave 4, so a

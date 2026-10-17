@@ -4,8 +4,8 @@ Run date: 2026-10-14, updated 2026-10-17 (PSI with an API key; Google review dat
 
 | File | Contents |
 |---|---|
-| `prospects100.csv` | The verified prospects (24, not 100: see `REPORT.md`). One column per gate and per score component, sorted by score. |
-| `priority30.csv` | The top 30 by score (all 24 here) with the template content capture and the outreach angle. |
+| `prospects100.csv` | The verified prospects (36 so far, not 100: see `REPORT.md`). One column per gate and per score component, sorted by score. |
+| `priority30.csv` | The top 30 by score with the template content capture and the outreach angle. |
 | `rejected.csv` | Every candidate screened and rejected: failed gate, the evidence that failed, and any later gates also known to fail. |
 | `contact-only.csv` | Passed everything except a published email. |
 | `bench-vendor.csv` | Failed only G3 (incumbent web vendor named), with a measured G8 defect. |
