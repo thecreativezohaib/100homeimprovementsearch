@@ -20,3 +20,5 @@
 {"id": "farhatconstruction.com", "tested_url": "https://farhatconstruction.com/", "attempts": [{"at": "2026-10-17T10:06:46+00:00", "http": 200}], "psi_score": 60, "psi_date": "2026-10-17T10:06:46+00:00"}
 {"id": "lancasterkitchenandbaths.com", "tested_url": "https://lancasterkitchenandbaths.com/", "attempts": [{"at": "2026-10-17T10:07:11+00:00", "http": 200}], "psi_score": 62, "psi_date": "2026-10-17T10:07:11+00:00"}
 {"id": "myhousekitchen.com", "tested_url": "https://myhousekitchen.com/", "attempts": [{"at": "2026-10-17T10:07:30+00:00", "http": 200}], "psi_score": 43, "psi_date": "2026-10-17T10:07:30+00:00"}
+{"id": "prestigedesignbuildnj.com", "tested_url": "https://prestigedesignbuildnj.com/", "attempts": [{"at": "2026-10-17T10:07:56+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-17T10:08:29+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "rivercityboston.com", "tested_url": "https://rivercityboston.com/", "attempts": [{"at": "2026-10-17T10:09:02+00:00", "http": 200}], "psi_score": 66, "psi_date": "2026-10-17T10:09:02+00:00"}

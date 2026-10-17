@@ -41,6 +41,7 @@ def jl(path):
 
 USER_REVIEWS = {}
 SOCIAL = {}
+USER_SOCIAL, USER_JOBS, USER_HINTS = {}, {}, {}
 
 
 def load():
@@ -72,6 +73,9 @@ def load():
     # newest Google review dates the user collected through Gemini (output/review_requests/)
     SOCIAL.clear()
     SOCIAL.update({x["id"]: x for x in jl(f"{D}/social.jsonl")})
+    for name, dct in (("social_user", USER_SOCIAL), ("jobs_user", USER_JOBS), ("hints_user", USER_HINTS)):
+        dct.clear()
+        dct.update({x["id"]: x for x in jl(f"{D}/{name}.jsonl")})
     USER_REVIEWS.clear()
     USER_REVIEWS.update({x["id"]: x for x in jl(f"{D}/reviews_user.jsonl")})
     for x in jl(f"{D}/remeasure.jsonl"):
@@ -273,6 +277,18 @@ def g4(c, s, m, man):
             signals.append({"type": "social_post", "date": p0["date"], "url": p0["post_url"],
                             "quote": f"{p0['platform']} {p0['account']} post: '{' '.join(p0['quote'].split()[:12])}'",
                             "method": p0["method"]})
+    if (USER_HINTS.get(c["id"]) or {}).get("gbp_closed"):
+        return "FAIL", {"g4": "Google Business Profile shown as closed (user-supplied via Gemini)", "g4_gbp": (m or {}).get("gbp_url")}
+    if "social_post" not in rej:
+        for p in sorted((USER_SOCIAL.get(c["id"]) or {}).get("posts") or [], key=lambda p: p["date"], reverse=True):
+            if D90 <= date.fromisoformat(p["date"]) <= RUN_DATE:
+                signals.append({"type": "social_post", "date": p["date"], "url": p["account"], "source": p["method"],
+                                "quote": f"{p['platform']} {p['account']} latest post {p['date']}" + (f": '{p['quote']}'" if p["quote"] else "")})
+                break
+    uj = USER_JOBS.get(c["id"])
+    if uj and "job_posting" not in rej and D90 <= date.fromisoformat(uj["date"]) <= RUN_DATE:
+        signals.append({"type": "job_posting", "date": uj["date"], "url": uj["url"], "source": uj["source"],
+                        "quote": " ".join(f"job posting: {uj['title']}".split()[:15])})
     ur = USER_REVIEWS.get(c["id"])
     if ur and "google_review" not in rej:
         try:
