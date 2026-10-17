@@ -154,7 +154,7 @@ def main():
         sigs = ev["g4_signals"]
         d8 = ev["g8_defects"][0]
         row = {"score_total": total, **base,
-               "final_url": ev["g2_final_url"], "phone": (m or {}).get("phone", "").replace("phone:tel:", ""),
+               "final_url": ev["g2_final_url"], "phone": ((m or {}).get("phone") or "").replace("phone:tel:", ""),
                "gbp_url": (m or {}).get("gbp_url"), "gbp_address": (m or {}).get("address"),
                "decision_maker": dm.get("name"), "decision_maker_role": dm.get("role"), "decision_maker_source": dm.get("url"),
                "decision_maker_quote": dm.get("quote"), "email": em.get("email"), "email_source_url": em.get("url") or em.get("page"),
@@ -201,7 +201,9 @@ def main():
             sig = {"G4 signal 1": sigs[0], "G4 signal 2": sigs[1]}.get(f_)
             if sig and sig.get("source"):
                 note = sig["source"]
-                rdate = re.search(r"checked_on (\d{4}-\d{2}-\d{2})", note).group(1)
+                mco = re.search(r"checked_on (\d{4}-\d{2}-\d{2})", str(note))
+                rdate = mco.group(1) if mco else TODAY
+                note = note if isinstance(note, str) else json.dumps(note)
             if f_ == "G8 defect" and d8[3]:
                 rdate = str(d8[3])[:10]
             if f_ == "G8 PSI" and (psi.get(cid) or {}).get("psi_date"):
