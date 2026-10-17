@@ -1,3 +1,5 @@
 {"id": "airoom.com", "tested_url": "https://www.airoom.com/locations/hinsdale/", "attempts": [{"at": "2026-10-17T08:39:23+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-17T08:39:56+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "bakesandkropp.com", "tested_url": "https://www.bakesandkropp.com/", "attempts": [{"at": "2026-10-17T08:40:30+00:00", "http": 200}], "psi_score": 52, "psi_date": "2026-10-17T08:40:30+00:00"}
 {"id": "bestcarpenters.net", "tested_url": "https://bestcarpenters.net/", "attempts": [{"at": "2026-10-17T08:40:48+00:00", "http": 200}], "psi_score": 60, "psi_date": "2026-10-17T08:40:48+00:00"}
+{"id": "cervantescabinets.com", "tested_url": "https://cervantescabinets.com/", "attempts": [{"at": "2026-10-17T08:41:05+00:00", "http": 200}], "psi_score": 54, "psi_date": "2026-10-17T08:41:05+00:00"}
+{"id": "cthousebuilders.com", "tested_url": "https://cthousebuilders.com/", "attempts": [{"at": "2026-10-17T08:41:21+00:00", "http": 200}], "psi_score": 68, "psi_date": "2026-10-17T08:41:21+00:00"}

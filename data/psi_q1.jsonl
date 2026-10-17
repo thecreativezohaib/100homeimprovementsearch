@@ -2,3 +2,4 @@
 {"id": "amazingspacesllc.com", "tested_url": "https://www.amazingspacesllc.com/", "attempts": [{"at": "2026-10-17T08:39:37+00:00", "http": 200}], "psi_score": 38, "psi_date": "2026-10-17T08:39:37+00:00"}
 {"id": "bayareabathroomremodeling.com", "tested_url": "https://theiconstruction.com/", "attempts": [{"at": "2026-10-17T08:40:02+00:00", "http": 200}], "psi_score": 56, "psi_date": "2026-10-17T08:40:02+00:00"}
 {"id": "brighthomesutah.com", "tested_url": "https://brighthomesutah.com/", "attempts": [{"at": "2026-10-17T08:40:16+00:00", "http": 200}], "psi_score": 70, "psi_date": "2026-10-17T08:40:16+00:00"}
+{"id": "constructionmich.com", "tested_url": "https://www.constructionmich.com/", "attempts": [{"at": "2026-10-17T08:40:26+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-17T08:40:59+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
