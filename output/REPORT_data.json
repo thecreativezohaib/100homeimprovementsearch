@@ -2,34 +2,48 @@
  "funnel": {
   "discovered": 11180,
   "screened": 9374,
-  "reject_G3": 2839,
-  "reject_G4": 4140,
+  "reject_G3": 2840,
+  "reject_G4": 4119,
   "reject_G2": 2406,
-  "reject_NICHE": 1599,
-  "reject_G5": 140,
-  "reject_G8": 2,
-  "passed": 18,
-  "reject_G6": 10,
+  "reject_NICHE": 1602,
+  "reject_G5": 151,
+  "passed": 24,
+  "reject_G6": 11,
   "duplicate_merged": 17,
-  "bench_vendor": 3,
+  "bench_vendor": 4,
   "reject_G7": 3,
   "contact_only": 3,
-  "rejected_total": 11139
+  "rejected_total": 11132
  },
  "rejections_per_gate": {
-  "G4": 4140,
-  "G3": 2839,
+  "G4": 4119,
+  "G3": 2840,
   "G2": 2406,
-  "NICHE": 1599,
-  "G5": 140,
-  "G6": 10,
-  "G7": 3,
-  "G8": 2
+  "NICHE": 1602,
+  "G5": 151,
+  "G6": 11,
+  "G7": 3
  },
- "passed": 18,
+ "passed": 24,
  "top10": [
   {
    "rank": "1",
+   "score_total": "17",
+   "business_name": "MJ Kitchen & Bath",
+   "region": "R3",
+   "score_trigger_evidence": "{\"type\": \"relocation / new showroom\", \"date\": \"2026-06-29\", \"url\": \"https://mj-kitchens.com/new-plymouth-showroom-progress/\", \"quote\": \"6.29.26 Our new Showroom is now open!\"}",
+   "G8_defect": "mobile performance score below 60"
+  },
+  {
+   "rank": "2",
+   "score_total": "14",
+   "business_name": "Gayler Design Build",
+   "region": "R5",
+   "score_trigger_evidence": "{\"type\": \"new showroom\", \"date\": \"UNKNOWN\", \"url\": \"https://gaylerdesignbuild.com/seminars/\", \"quote\": \"Join us in our new showroom for expert insights and ideas to help you start planning.\", \"note\": \"Opening date not published. Page schema dateModified 2026-09-14; event shown as 'Thursday, October 15th at 6PM'. Footer address is 825 Hartz Way while the careers page still gives 390 Diablo Road Suite #210; no dated move announcement found (wp-json post search for showroom/Hartz returned nothing relevant; WebSearch found nothing).\"}",
+   "G8_defect": "mobile performance score below 60"
+  },
+  {
+   "rank": "3",
    "score_total": "13",
    "business_name": "Ann Arbor Remodeling",
    "region": "R3",
@@ -37,88 +51,75 @@
    "G8_defect": "gallery images over 1MB each"
   },
   {
-   "rank": "2",
+   "rank": "4",
    "score_total": "13",
    "business_name": "Craft Home Remodeling",
    "region": "R5",
    "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "gallery images over 1MB each"
+   "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "3",
+   "rank": "5",
+   "score_total": "13",
+   "business_name": "Hamlett Renovations",
+   "region": "R1",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "mobile performance score below 60"
+  },
+  {
+   "rank": "6",
+   "score_total": "12",
+   "business_name": "ALL Renovation & Design LLC",
+   "region": "R1",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "mobile performance score below 60"
+  },
+  {
+   "rank": "7",
    "score_total": "12",
    "business_name": "Boss Design Center Bath and Kitchen Remodeling",
    "region": "R2",
    "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "gallery images over 1MB each"
+   "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "4",
+   "rank": "8",
    "score_total": "12",
    "business_name": "Semper Fi Custom Remodeling of Asheville",
    "region": "R2",
    "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "gallery images over 1MB each"
+   "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "5",
+   "rank": "9",
    "score_total": "12",
    "business_name": "Wade Design & Construction Inc.",
    "region": "R3",
    "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "gallery images over 1MB each"
+   "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "6",
+   "rank": "10",
    "score_total": "10",
    "business_name": "Five Fold Solutions",
    "region": "R4",
    "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "gallery images over 1MB each"
-  },
-  {
-   "rank": "7",
-   "score_total": "9",
-   "business_name": "ARIID Build & Remodel",
-   "region": "R5",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "horizontal overflow at 375px"
-  },
-  {
-   "rank": "8",
-   "score_total": "9",
-   "business_name": "Kellow Construction",
-   "region": "R5",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "gallery images over 1MB each"
-  },
-  {
-   "rank": "9",
-   "score_total": "9",
-   "business_name": "RIKB Design Build",
-   "region": "R1",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "gallery images over 1MB each"
-  },
-  {
-   "rank": "10",
-   "score_total": "8",
-   "business_name": "A+ Custom builders",
-   "region": "R1",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "gallery images over 1MB each"
+   "G8_defect": "mobile performance score below 60"
   }
  ],
  "defects": {
-  "gallery images over 1MB each": 14,
-  "horizontal overflow at 375px": 4
+  "mobile performance score below 60": 20,
+  "gallery images over 1MB each": 2,
+  "horizontal overflow at 375px": 2
  },
  "trigger_summary": {
-  "NONE FOUND": 18
+  "event": 2,
+  "NONE FOUND": 22
  },
  "g9_signals": {
-  "Google Ads conversion tag (AW-)": 10,
-  "Meta Pixel fbevents.js": 6,
+  "Google Ads conversion tag (AW-)": 13,
+  "Meta Pixel fbevents.js": 7,
+  "Houzz Pro": 2,
   "Buildertrend": 1,
   "CallRail": 1
  },
@@ -450,6 +451,14 @@
   {
    "id": "upscaleremodeling.com",
    "text": "Did not construct an email for Steve Nash; none is published."
+  },
+  {
+   "id": "mermanconstruction.com",
+   "text": "Kitchen and bath work is offered (service page, 3 portfolio entries) but was not taken as the primary advertised work because the footer, title, menu order and portfolio all lead with additions and exterior work."
+  },
+  {
+   "id": "mermanconstruction.com",
+   "text": "Packet dm_snippet (Steve Merman, Owner and Founder) not recorded because the candidate stopped at NICHE."
   },
   {
    "id": "abbiejoan.com",
@@ -794,6 +803,46 @@
   {
    "id": "trendycabinet.com",
    "text": "Kitchen and bathroom remodelling service pages exist; they were not taken as the primary advertised work because the title, meta description, menu and hero all lead with cabinet retail."
+  },
+  {
+   "id": "bufordrenovations.com",
+   "text": "Pearl Marketing Digital credit appears on inner pages (contact, about, services, portfolio, blog) but not on the rebuilt homepage; the homepage builder is not named anywhere, so no current vendor is assumed for it."
+  },
+  {
+   "id": "bufordrenovations.com",
+   "text": "Blog bylines say 'Oscar Tamez, Licensed General Contractor'; the owner role was taken only from the author bio sentence quoted."
+  },
+  {
+   "id": "bufordrenovations.com",
+   "text": "Packet GBP address is Sugar Hill while the site says 'Buford, GA 30518'; not treated as a relocation trigger (no dated evidence)."
+  },
+  {
+   "id": "expertsremodel.com",
+   "text": "Kitchen and bath dominate word counts and the 2026 project list, and the homepage mentions a 'Kitchen + Bathroom Show Room', but the company's own self-description and 15-trade service menu do not present kitchens and baths as the primary advertised work."
+  },
+  {
+   "id": "sandwkitchens.com",
+   "text": "joe@sandwkitchens.com is published on the privacy policy as the general contact and unsubscribe address; it is not attributed to Joe Steenbeke Jr. on the basis of the local part."
+  },
+  {
+   "id": "sandwkitchens.com",
+   "text": "The team page image alt text and schema say 'Joe Steenbeke Jr., Vice President'; the visible text role 'President & CEO' was recorded instead."
+  },
+  {
+   "id": "sandwkitchens.com",
+   "text": "Seven showrooms are listed under a Showrooms menu; treated as company-owned locations of one family business (company history), not a franchise locator, consistent with bossdesigncenter.com passing with two showrooms."
+  },
+  {
+   "id": "sandwkitchens.com",
+   "text": "Sarasota design center opened in 2024 per WebSearch result; outside the trigger window. PR.com release dated 2026-07-02 announces a staff promotion (Chris Druschel), not a trigger type."
+  },
+  {
+   "id": "sandwkitchens.com",
+   "text": "Careers page says 'We are expanding to more locations.' with no date; not used as a trigger or job posting."
+  },
+  {
+   "id": "sandwkitchens.com",
+   "text": "/services/luxury-remodeling/ (wp-json 2026-06-24) is password-protected; not used as a new service line trigger."
   },
   {
    "id": "annarborremodelingllc.com",
@@ -1240,6 +1289,34 @@
    "text": "Niche passed on kitchens and bathrooms leading the service list; the firm also advertises basements, additions, decks, repairs and commercial work"
   },
   {
+   "id": "jmremodelingwi.com",
+   "text": "Niche borderline: Kitchens and Bathrooms lead the INTERIOR menu and the quote form's project-type list; rejected because the homepage and About page position the firm as full-service residential and commercial (About: 'interior and exterior remodeling, repair, and custom carpentry services for commercial, residential, and non-profit properties') with roofing, siding and commercial menus as equal lines. Same basis as theoakstandard.com. Coordinator may override."
+  },
+  {
+   "id": "jmremodelingwi.com",
+   "text": "Did not use the Gemini-supplied kitchen review, or GBP reviews about roof replacements, to judge primary advertised work"
+  },
+  {
+   "id": "jmremodelingwi.com",
+   "text": "customerservice@jmremodelingwi.com is published (header/footer, all pages) but not recorded as email_confirm because the candidate stopped at NICHE; no owner name was looked up for the same reason"
+  },
+  {
+   "id": "mj-kitchens.com",
+   "text": "Did not attribute asimkins@mj-kitchens.com to any named team member; the page presents it only as the address for job applications"
+  },
+  {
+   "id": "mj-kitchens.com",
+   "text": "Did not treat the December 2019 name change (MJ Cabinet Designs to MJ Kitchen & Bath) as a trigger; it is outside the 9-month window"
+  },
+  {
+   "id": "mj-kitchens.com",
+   "text": "Did not treat the Top 500 ranking or the National Remodelers Award finalist post as triggers; they are not listed trigger types"
+  },
+  {
+   "id": "mj-kitchens.com",
+   "text": "Niche passed although the firm also sells cabinetry to builders (trade-professionals page); it installs and project-manages full kitchen and bath remodels directly for homeowners"
+  },
+  {
    "id": "newbathtub.com",
    "text": "Did not treat the Little Rock, AR GBP listing as an independent local business; the site's own privacy policy names SageHome, LLC as operator."
   },
@@ -1482,6 +1559,22 @@
   {
    "id": "yourdreamremodeling.com",
    "text": "Did not treat the 'Listen to our interview on KSEV Radio' link as evidence of a trigger; no date or new development is stated."
+  },
+  {
+   "id": "renokc.com",
+   "text": "Niche borderline: the homepage tagline lists whole homes first and the team page says the company 'covers both residential and commercial property renovations'; accepted because Kitchen Remodeling and Bathroom Remodeling lead the services menu and footer service list and the portfolio and blog centre on kitchens and baths. Coordinator may override."
+  },
+  {
+   "id": "renokc.com",
+   "text": "Did not infer that Steven@RenoKC.com belongs to Steven Ross from the address; recorded only as the published business address on the contact page"
+  },
+  {
+   "id": "renokc.com",
+   "text": "Did not treat the 2026 posts on Ingram's 40 Under Forty, Ingram's fastest-growing list, the KC Homes & Style feature, REMY awards or Inc. 5000 as triggers; none is a listed trigger type"
+  },
+  {
+   "id": "renokc.com",
+   "text": "Did not treat the 'Clients - Jobtread' menu item as a new service line; it is a client portal link"
   },
   {
    "id": "desertremodel.com",
@@ -1962,11 +2055,75 @@
   {
    "id": "usaccurate.com",
    "text": "Our-story page states 'led by Fred Seraj, owner and general contractor' (packet dm_snippets); not evaluated because the run stopped at NICHE."
+  },
+  {
+   "id": "gaylerdesignbuild.com",
+   "text": "Natalie Gayler (team page role 'Bookkeeper') and George Gayler (about page: passed the business to Chris in January 2020) were not recorded as decision makers."
+  },
+  {
+   "id": "gaylerdesignbuild.com",
+   "text": "The 'new showroom' wording was not given an opening date; the seminars page modification date (2026-09-14) is not treated as the showroom opening date."
+  },
+  {
+   "id": "gaylerdesignbuild.com",
+   "text": "The address change from 390 Diablo Road to 825 Hartz Way was not recorded as a dated relocation trigger because no date for the move was retrieved."
+  },
+  {
+   "id": "gaylerdesignbuild.com",
+   "text": "Footer 'Powered by GDPR Cookie Compliance' is a cookie plugin label, not a web or marketing vendor credit."
+  },
+  {
+   "id": "gaylerdesignbuild.com",
+   "text": "Recent blog topics (pool house, pergola, outdoor living) were not taken to mean kitchens and baths are no longer primary; navigation and service pages list Kitchen Remodeling and Bathroom Remodeling first."
+  },
+  {
+   "id": "tenhulzen.com",
+   "text": "Michael Tenhulzen is styled 'Director' on the rebrand release ('said Michael Tenhulzen , Director') and on /meet-the-crew/; Director is not an accepted decision-maker role, so he was NOT recorded despite the surname and 'family-owned' wording."
+  },
+  {
+   "id": "tenhulzen.com",
+   "text": "Traci Tenhulzen is styled 'Executive Producer' on /meet-the-crew/; not an accepted role, not recorded."
+  },
+  {
+   "id": "tenhulzen.com",
+   "text": "The rebrand release says ownership remains the same but names no owner; ownership was not inferred."
+  },
+  {
+   "id": "tenhulzen.com",
+   "text": "Packet franchise_mentions 're-bath' was not found on any page fetched this wave (home, about, contact, posts, family and crew pages); no franchise, parent brand or locator was seen."
+  },
+  {
+   "id": "tenhulzen.com",
+   "text": "Packet 'roof' word count reflects exterior-repair mentions; service menu leads with Kitchens and Bathrooms, so niche kept."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "The only 'owner' statement ('walkthrough by Jesse the owner') is a Google review rendered by a review widget (data-provider=\"google\") on /reviews/; third-party text, so Jesse Vycital was NOT recorded as decision maker."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "WordPress user 'Jeff Mooney' (slug cbsjeff) appears in wp-json users and a widget review says 'Jeff has retired'; no role stated by the company, not recorded and not treated as an ownership-change trigger (undated)."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "Terms page names 'Custom Home Solutions LLC' as website owner; a legal entity, not a person."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "'Full bathroom makeover' and 'multiple-room renovations' were not treated as a primary-bath, whole-home or >$30k claim; high_ticket left NONE FOUND."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "Showroom text 'the largest Bestbath-dedicated showroom in North America' is a dealer relationship, not a franchise."
+  },
+  {
+   "id": "custombathsolutions.com",
+   "text": "'Powered by Google' near the rating badge is the review widget label, not a vendor credit."
   }
  ],
  "could_not_check": [
-  "Facebook/Instagram posts (login wall)",
   "Indeed/ZipRecruiter direct (401/403)",
+  "Facebook/Instagram posts (login wall)",
   "Indeed/ZipRecruiter direct (blocked)",
   "Facebook/Instagram (login wall)",
   "G4-G6 and scoring not run because the candidate stopped at NICHE",
@@ -1975,12 +2132,14 @@
   "G4-G6 and scoring not run (stopped at NICHE).",
   "Owner personal accounts",
   "Indeed/ZipRecruiter postings (blocked)",
-  "Facebook (login wall)",
   "Facebook posts (login wall)",
+  "Facebook (login wall)",
   "G5, G6 and scoring not run (stopped at G4)",
+  "Google review signal (user-supplied; Google Maps not reachable)",
   "Facebook page posts (login wall)",
   "Google reviews beyond the 3 visible on GBP",
   "Facebook/Instagram (none linked; login wall)",
+  "Google Maps review (supplied by user, not opened per instructions)",
   "Facebook/Instagram/LinkedIn posts (login-walled)",
   "Facebook posts (login-walled)",
   "Facebook/Instagram (none linked; login-walled)",
@@ -1990,6 +2149,7 @@
   "AZ ROC licence lookup (JavaScript-only)",
   "Houzz (blocked)",
   "Marin County / Novato permit portals by contractor name",
+  "Facebook/Instagram/LinkedIn posts (login wall)",
   "Greenwich CT permit records (no public online search; City Squared requires an account)",
   "Westchester village permit portals (Rye, Scarsdale, Chappaqua) not individually searched",
   "Facebook/Instagram (no account linked from site; login wall)",
@@ -2021,10 +2181,7 @@
   "Google reviews (none captured in packet; Google blocked here)",
   "Belmont permits after Feb 2026 (portal requires registration)",
   "MA HIC registration dates (lookup offline)",
-  "Roger Gallagher LinkedIn activity (login wall)",
-  "Mamaroneck/Stamford/Greenwich permit portals (not searched; no public contractor search identified)",
-  "LinkedIn company posts (login wall)",
-  "Ridgewood/Bergen County building permits (no contractor-searchable public portal identified)"
+  "Roger Gallagher LinkedIn activity (login wall)"
  ],
- "agents_manual_records": 177
+ "agents_manual_records": 187
 }

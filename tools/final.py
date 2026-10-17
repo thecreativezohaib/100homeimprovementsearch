@@ -19,7 +19,8 @@ def j(x):
 
 
 def sig_str(x):
-    return f"{x.get('type')} | {x.get('date')} | {x.get('url')} | {x.get('quote')}"
+    src = f" | source: {x['source']}" if x.get("source") else ""
+    return f"{x.get('type')} | {x.get('date')} | {x.get('url')} | {x.get('quote')}{src}"
 
 
 def rating(m):
@@ -49,7 +50,11 @@ def score(c, s, m, man):
         if isinstance(v, str) and v.upper().startswith("NONE"):
             return "NONE FOUND"
         return v
-    comp["trigger"] = (5, val("trigger"))
+    trig = val("trigger")
+    if isinstance(trig, dict):
+        # a trigger scores only when its date is evidenced on/after 2026-01-14 (9-month window)
+        trig = {**trig, "meets": bool(re.match(r"\d{4}-\d{2}-\d{2}", str(trig.get("date")))) and str(trig.get("date"))[:10] >= "2026-01-14"}
+    comp["trigger"] = (5, trig)
     orp = owner_reply(m)
     comp["owner_reply_60d"] = (5, orp if orp else ("NONE FOUND (3 visible GBP reviews checked)" if m and m.get("title") else "UNKNOWN"))
     comp["job_posting_live"] = (4, val("job_posting_live"))
@@ -192,8 +197,17 @@ def main():
              "PSI API v5 mobile performance: " + j((ev.get("g8_psi") or {}).get("attempts"))),
             ("G9 paid signal", ev["g9_signals"][0]["signal"], ev["g2_final_url"], ev["g9_signals"][0]["evidence"][:300]),
         ]:
+            note, rdate = "", TODAY
+            sig = {"G4 signal 1": sigs[0], "G4 signal 2": sigs[1]}.get(f_)
+            if sig and sig.get("source"):
+                note = sig["source"]
+                rdate = re.search(r"checked_on (\d{4}-\d{2}-\d{2})", note).group(1)
+            if f_ == "G8 defect" and d8[3]:
+                rdate = str(d8[3])[:10]
+            if f_ == "G8 PSI" and (psi.get(cid) or {}).get("psi_date"):
+                rdate = psi[cid]["psi_date"][:10]
             evid.append({"prospect": c["name"], "prospect_id": cid, "field": f_, "value": v_, "source_url": u_,
-                         "quote_or_method": q_, "retrieval_date": TODAY})
+                         "quote_or_method": q_, "retrieval_date": rdate, "source_note": note})
         logs[c["region"]].append({**base, "status": "PASSED", "gate": "", "detail": f"score {total}"})
     rows.sort(key=lambda x: (-x["score_total"], x["business_name"]))
     for i, r in enumerate(rows, 1):
