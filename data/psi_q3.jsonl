@@ -152,3 +152,6 @@
 {"id": "watchcitykitchens.com", "tested_url": "https://www.watchcitykitchens.com/", "attempts": [{"at": "2026-10-17T09:43:24+00:00", "http": 200}], "psi_score": 33, "psi_date": "2026-10-17T09:43:24+00:00"}
 {"id": "westtoeastdesign.com", "tested_url": "https://westtoeastdesign.com/", "attempts": [{"at": "2026-10-17T09:43:49+00:00", "http": 200}], "psi_score": 57, "psi_date": "2026-10-17T09:43:49+00:00"}
 {"id": "wncbuilt.com", "tested_url": "https://wncbuilt.com/", "attempts": [{"at": "2026-10-17T09:44:07+00:00", "http": 200}], "psi_score": 64, "psi_date": "2026-10-17T09:44:07+00:00"}
+{"id": "harmonyhomesco.com", "tested_url": "https://www.harmonyhomesco.com/", "attempts": [{"at": "2026-10-17T09:44:47+00:00", "http": 200}], "psi_score": 59, "psi_date": "2026-10-17T09:44:47+00:00"}
+{"id": "masshomeservice.com", "tested_url": "https://www.masshomeservice.com/bathroom", "attempts": [{"at": "2026-10-17T09:45:09+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-17T09:45:42+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "craftedspacesaz.com", "tested_url": "https://www.craftedspacesaz.com/", "attempts": [{"at": "2026-10-17T09:46:15+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-17T09:46:49+00:00", "http": 200}], "psi_score": 67, "psi_date": "2026-10-17T09:46:49+00:00"}
