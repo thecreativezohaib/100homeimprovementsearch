@@ -22,3 +22,189 @@ browserContext.close: Target page, context or browser has been closed
     at async /home/user/100homeimprovementsearch/tools/browser.js:79:5
 
 Node.js v22.22.0
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+browserContext.close: Target page, context or browser has been closed
+    at async /home/user/100homeimprovementsearch/tools/browser.js:79:5
+
+Node.js v22.22.0
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+browserContext.close: Protocol error (Target.disposeBrowserContext): Failed to find context with id D411BA58D2CE8D3637095E738CF2412C
+    at async /home/user/100homeimprovementsearch/tools/browser.js:79:5 {
+  name: 'Error'
+}
+
+Node.js v22.22.0
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+browserContext.close: Target page, context or browser has been closed
+Browser logs:
+
+[pid=22671][err] [1017/121455.967602:INFO:CONSOLE:1] "referrer: https://www.loraindesign.com/ -1", source: https://public.powrcdn.com/latest/assets/packs/d1ddc56e3686e68190ce7d54aaf750c98204505f/apps/paypalButton-f4e3dcce624f0908.js (1)
+[pid=22671][err] [1017/121457.085020:INFO:CONSOLE:62] "Trouble loading google analytics", source: https://public.powrcdn.com/latest/assets/packs/d1ddc56e3686e68190ce7d54aaf750c98204505f/apps-view-04aed7250fded073.js (62)
+[pid=22671][err] [1017/121503.575931:INFO:CONSOLE:398] "Unrecognized feature: 'vr'.", source: https://www.mjrimprovements.com/ (398)
+[pid=22671][err] [1017/121514.062326:INFO:CONSOLE:3343] "[2026-10-17T12:15:14.056Z]  @firebase/app-compat: 
+[pid=22671][err]     Warning: Firebase is already defined in the global scope. Please make sure
+[pid=22671][err]     Firebase library is only loaded once.
+[pid=22671][err]   ", source: https://static.parastorage.com/services/chat-widget/c1244486e39dd8b5d0270de29b98db1b603303e7713acef3eefe74f5/chat-sdk.chunk.min.js (3343)
+[pid=22671][err] [1017/121516.106086:INFO:CONSOLE:315] "Info: The current domain is not authorized for OAuth operations. This will prevent signInWithPopup, signInWithRedirect, linkWithPopup and linkWithRedirect from working. Add your domain (engage.wixapps.net) to the OAuth redirect domains list in the Firebase console -> Authentication -> Settings -> Authorized domains tab.", source: https://wix-engage-visitors-prod-23.firebaseapp.com/__/auth/iframe.js (315)
+[pid=22671][err] [1017/121516.372883:INFO:CONSOLE:384] "Unrecognized feature: 'vr'.", source: https://www.mjrimprovements.com/gallery (384)
+[pid=22671][err] [1017/121523.681672:INFO:CONSOLE:3343] "[2026-10-17T12:15:23.681Z]  @firebase/app-compat: 
+[pid=22671][err]     Warning: Firebase is already defined in the global scope. Please make sure
+[pid=22671][err]     Firebase library is only loaded once.
+[pid=22671][err]   ", source: https://static.parastorage.com/services/chat-widget/c1244486e39dd8b5d0270de29b98db1b603303e7713acef3eefe74f5/chat-sdk.chunk.min.js (3343)
+[pid=22671][err] [1017/121524.826425:INFO:CONSOLE:315] "Info: The current domain is not authorized for OAuth operations. This will prevent signInWithPopup, signInWithRedirect, linkWithPopup and linkWithRedirect from working. Add your domain (engage.wixapps.net) to the OAuth redirect domains list in the Firebase console -> Authentication -> Settings -> Authorized domains tab.", source: https://wix-engage-visitors-prod-23.firebaseapp.com/__/auth/iframe.js (315)
+[pid=22671][err] [1017/121526.881828:INFO:CONSOLE:2] "JQMIGRATE: Migrate is installed, version 3.4.1", source: https://mhcustom.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 (2)
+[pid=22671][err] [1017/121528.306781:INFO:CONSOLE:0] "Potential permissions policy violation: autoplay is not allowed in this document.", source:  (0)
+[pid=22671][err] [1017/121528.306923:INFO:CONSOLE:0] "Potential permissions policy violation: xr-spatial-tracking is not allowed in this document.", source:  (0)
+[pid=22671][err] [1017/121528.306940:INFO:CONSOLE:0] "Potential permissions policy violation: cross-origin-isolated is not allowed in this document.", source:  (0)
+[pid=22671][err] [1017/121528.306957:INFO:CONSOLE:0] "Potential permissions policy violation: keyboard-map is not allowed in this document.", source:  (0)
+[pid=22671][err] [1017/121528.307943:INFO:CONSOLE:2] "[Cloudflare Turnstile] Turnstile has already been rendered in this container. The render attempt was rejected.", source: https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad (2)
+[pid=22671][err] [1017/121528.347906:INFO:CONSOLE:1] "WebGPU is experimental on this platform. See https://github.com/gpuweb/gpuweb/wiki/Implementation-Status#implementation-status", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121528.349496:INFO:CONSOLE:1] "Failed to create WebGPU Context Provider", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121528.353107:INFO:third_party/blink/renderer/modules/peerconnection/peer_connection_dependency_factory.cc:885] Running WebRTC with a combined Network and Worker thread.
+[pid=22671][err] [1017/121528.398130:ERROR:services/network/p2p/socket_udp.cc:198] bind() to :::0 failed: -109
+[pid=22671][err] [1017/121528.398626:ERROR:services/network/p2p/socket_udp.cc:198] bind() to :::0 failed: -109
+[pid=22671][err] [1017/121528.398702:ERROR:services/network/p2p/socket_udp.cc:198] bind() to :::0 failed: -109
+[pid=22671][err] [1017/121528.398803:ERROR:services/network/p2p/socket_udp.cc:198] bind() to :::0 failed: -109
+[pid=22671][err] [1017/121528.398880:ERROR:services/network/p2p/socket_udp.cc:198] bind() to :::0 failed: -109
+[pid=22671][err] [1017/121528.399919:INFO:third_party/blink/renderer/platform/p2p/ipc_socket_factory.cc:576] Setting new p2p socket buffer limit to 262144
+[pid=22671][err] [1017/121528.539435:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.540763:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.541537:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.543500:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.544234:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.545553:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.545665:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.546739:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.610785:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.611153:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.967142:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121528.967202:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121529.283778:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121529.284131:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121529.495385:INFO:CONSOLE:1] "Error", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.500999:INFO:CONSOLE:1] "nJkL5", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.501311:INFO:CONSOLE:1] "nJkL5", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.501645:INFO:CONSOLE:1] "YCge9", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.501872:INFO:CONSOLE:1] "YCge9", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.502187:INFO:CONSOLE:1] "[object HTMLAnchorElement]", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.502435:INFO:CONSOLE:1] "[object HTMLAnchorElement]", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.508021:INFO:CONSOLE:1] " : 1", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.510493:INFO:CONSOLE:1] " : 1", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.511767:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.511991:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.512405:INFO:CONSOLE:1] " OROhR9: RmGBF2", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.513026:INFO:CONSOLE:1] " OROhR9: RmGBF2", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.513754:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent OROhR9: RmGBF2", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518889:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent OROhR9: RmGBF2", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518921:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518932:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518942:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518951:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518960:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518970:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518979:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent OROhR9: RmGBF2", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518989:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent OROhR9: RmGBF2", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.518998:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.519007:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.520069:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.521351:INFO:CONSOLE:1] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.529064:INFO:CONSOLE:1] "console.groupEnd", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.764798:INFO:CONSOLE:1] "OTS parsing error: Size of decompressed WOFF 2.0 is less than compressed size", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.767119:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[pid=22671][err] [1017/121529.767178:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[pid=22671][err] [1017/121529.767208:WARNING:dbus/property.cc:94] Failed to connect to PropertiesChangedsignal.
+[pid=22671][err] [1017/121529.767223:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: unknown error type: 
+[pid=22671][err] [1017/121529.767229:WARNING:dbus/property.cc:174] GetAll request failed for: org.freedesktop.UPower.Device
+[pid=22671][err] [1017/121529.883327:INFO:CONSOLE:1] "Failed to parse audio contentType: audio/mp4; codecs=mp4a.40.2", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.889627:INFO:CONSOLE:1] "Failed to parse video contentType: video/mp4; codecs=avc1.42E01E", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.890827:INFO:CONSOLE:1] "Failed to parse video contentType: video/mp4; codecs=avc1.4D401E", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.891285:INFO:CONSOLE:1] "Failed to parse video contentType: video/mp4; codecs=avc1.64001E", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121529.893704:INFO:CONSOLE:1] "Failed to parse video contentType: video/mp4; codecs=hev1.1.6.L93.B0", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121530.218751:ERROR:gpu/command_buffer/service/gles2_cmd_decoder_passthrough.cc:1101] [GroupMarkerNotSet(crbug.com/242999)!:A0B02009B4380000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.
+[pid=22671][err] [1017/121530.245380:ERROR:gpu/command_buffer/service/gles2_cmd_decoder_passthrough.cc:1101] [GroupMarkerNotSet(crbug.com/242999)!:A0102109B4380000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.
+[pid=22671][err] [1017/121530.569991:INFO:CONSOLE:0] "[GroupMarkerNotSet(crbug.com/242999)!:A0B02009B4380000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (0)
+[pid=22671][err] [1017/121530.570052:INFO:CONSOLE:0] "[GroupMarkerNotSet(crbug.com/242999)!:A0102109B4380000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (0)
+[pid=22671][err] [1017/121531.022117:INFO:CONSOLE:1] "Refused to connect to 'data:,' because it violates the following Content Security Policy directive: "connect-src 'self' https://hagen.challenges.cloudflare.com https://brunhild.challenges.cloudflare.com https://valid.alg13.dnstest.challenges.cloudflare.com https://invalid.alg13.dnstest.challenges.cloudflare.com https://dual-valid.mldsa44.dnstest.challenges.cloudflare.com https://valid.mldsa44.dnstest.challenges.cloudflare.com https://dnstest.dev".
+[pid=22671][err] ", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121531.022665:INFO:CONSOLE:1] "Refused to connect to 'data:,' because it violates the following Content Security Policy directive: "connect-src 'self' https://hagen.challenges.cloudflare.com https://brunhild.challenges.cloudflare.com https://valid.alg13.dnstest.challenges.cloudflare.com https://invalid.alg13.dnstest.challenges.cloudflare.com https://dual-valid.mldsa44.dnstest.challenges.cloudflare.com https://valid.mldsa44.dnstest.challenges.cloudflare.com https://dnstest.dev".
+[pid=22671][err] ", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121531.023012:INFO:CONSOLE:1] "Refused to connect to 'data:,' because it violates the following Content Security Policy directive: "connect-src 'self' https://hagen.challenges.cloudflare.com https://brunhild.challenges.cloudflare.com https://valid.alg13.dnstest.challenges.cloudflare.com https://invalid.alg13.dnstest.challenges.cloudflare.com https://dual-valid.mldsa44.dnstest.challenges.cloudflare.com https://valid.mldsa44.dnstest.challenges.cloudflare.com https://dnstest.dev".
+[pid=22671][err] ", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121531.023637:INFO:CONSOLE:1] "Fetch API cannot load data:,. Refused to connect because it violates the document's Content Security Policy.", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/h6jvy/0x4AAAAAAAbaszMygKLnGbeo/auto/fbE/new/normal?lang=auto (1)
+[pid=22671][err] [1017/121531.703889:INFO:CONSOLE:2] "[Cloudflare Turnstile] Error: 600010.", source: https://challenges.cloudflare.com/turnstile/v0/api.js?onload=turnstileLoad (2)
+[pid=22671][err] [1017/121531.910258:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121531.910428:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121532.126281:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121536.726143:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121536.727364:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121536.892858:INFO:CONSOLE:21] "Invalid property -webkit-backdrop-filter set to none Missing plugin? gsap.registerPlugin()", source: https://mhcustom.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40 (21)
+[pid=22671][err] [1017/121538.924841:INFO:CONSOLE:2] "JQMIGRATE: Migrate is installed, version 3.4.1", source: https://mhcustom.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 (2)
+[pid=22671][err] [1017/121542.282946:INFO:CONSOLE:0] "The resource https://mhcustom.com/wp-content/uploads/2026/07/mhcc-jakab-outdoor-kitchen-030-320x240_c.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://mhcustom.com/pa-kitchen-photo-gallery/ (0)
+[pid=22671][err] [1017/121547.410919:INFO:CONSOLE:0] "The resource https://mhcustom.com/wp-content/uploads/2026/07/mhcc-jakab-outdoor-kitchen-030-320x240_c.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://mhcustom.com/pa-kitchen-photo-gallery/ (0)
+[pid=22671][err] [1017/121550.368844:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-visitor_site_error_reporter", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121550.369505:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-cldr_resource_pack", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121550.369673:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-common_vendors_stable", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121550.369861:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-common_vendors", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121550.376781:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-user_account_core", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121550.376850:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-performance", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121601.522571:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-visitor_site_error_reporter", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121601.523291:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-cldr_resource_pack", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121601.525732:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-common_vendors_stable", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121601.525767:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-common_vendors", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121601.526233:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-user_account_core", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121601.526390:INFO:CONSOLE:8] "yui: NOT loaded: squarespace-performance", source: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js (8)
+[pid=22671][err] [1017/121601.780612:ERROR:gpu/command_buffer/service/gles2_cmd_decoder_passthrough.cc:964] ContextResult::kFatalFailure: fail_if_major_perf_caveat + software gl
+[pid=22671][err] [1017/121601.784702:ERROR:gpu/command_buffer/service/gles2_cmd_decoder_passthrough.cc:964] ContextResult::kFatalFailure: fail_if_major_perf_caveat + software gl
+[pid=22671][err] [1017/121613.464139:INFO:CONSOLE:2] "JQMIGRATE: Migrate is installed, version 3.4.1", source: https://thaconstruction.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 (2)
+[pid=22671][err] [1017/121614.593756:INFO:CONSOLE:5] "TEST", source: https://thaconstruction.com/wp-content/themes/thaconstruction/assets/js/post.js?ver=1.0.2 (5)
+[pid=22671][err] [1017/121614.594273:INFO:CONSOLE:5] "TEST custom.js", source: https://thaconstruction.com/wp-content/themes/thaconstruction/assets/js/custom.js?ver=1772205385 (5)
+[pid=22671][err] [1017/121614.758405:INFO:CONSOLE:405] "Unrecognized feature: 'private-token'.", source: https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsx6UBM1L2V6cv8/recaptcha__en.js (405)
+[pid=22671][err] [1017/121615.275623:INFO:CONSOLE:259] "requestStorageAccess: Permission denied.", source: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ld8MWEoAAAAAD_L0E1JeD7HGbVe_wLFlAJIrhHX&co=aHR0cHM6Ly90aGFjb25zdHJ1Y3Rpb24uY29tOjQ0Mw..&hl=en&v=4EDjxXf4knsx6UBM1L2V6cv8&size=invisible&anchor-ms=20000&execute-ms=30000&cb=wlxh5f5qxivy (259)
+[pid=22671][err] [1017/121615.402335:INFO:CONSOLE:195] "[VerifiedNode] Badge not found or inactive", source: https://verifiednode.com/api/badge.js (195)
+[pid=22671][err] [1017/121616.392803:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[pid=22671][err] [1017/121616.392967:WARNING:dbus/property.cc:94] Failed to connect to PropertiesChangedsignal.
+[pid=22671][err] [1017/121616.392998:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[pid=22671][err] [1017/121616.393014:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: unknown error type: 
+[pid=22671][err] [1017/121616.393018:WARNING:dbus/property.cc:174] GetAll request failed for: org.freedesktop.UPower.Device
+[pid=22671][err] [1017/121616.428012:ERROR:gpu/command_buffer/service/gles2_cmd_decoder_passthrough.cc:1101] [GroupMarkerNotSet(crbug.com/242999)!:A0B02009B4380000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.
+[pid=22671][err] [1017/121616.447447:INFO:CONSOLE:0] "[GroupMarkerNotSet(crbug.com/242999)!:A0B02009B4380000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.", source: https://thaconstruction.com/ (0)
+[pid=22671][err] [1017/121626.093550:INFO:CONSOLE:2] "JQMIGRATE: Migrate is installed, version 3.4.1", source: https://thaconstruction.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 (2)
+[pid=22671][err] [1017/121626.137446:INFO:CONSOLE:5] "TEST", source: https://thaconstruction.com/wp-content/themes/thaconstruction/assets/js/post.js?ver=1.0.2 (5)
+[pid=22671][err] [1017/121626.137481:INFO:CONSOLE:5] "TEST custom.js", source: https://thaconstruction.com/wp-content/themes/thaconstruction/assets/js/custom.js?ver=1772205385 (5)
+[pid=22671][err] [1017/121626.224695:INFO:CONSOLE:405] "Unrecognized feature: 'private-token'.", source: https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsx6UBM1L2V6cv8/recaptcha__en.js (405)
+[pid=22671][err] [1017/121626.575646:INFO:CONSOLE:259] "requestStorageAccess: Permission denied.", source: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ld8MWEoAAAAAD_L0E1JeD7HGbVe_wLFlAJIrhHX&co=aHR0cHM6Ly90aGFjb25zdHJ1Y3Rpb24uY29tOjQ0Mw..&hl=en&v=4EDjxXf4knsx6UBM1L2V6cv8&size=invisible&anchor-ms=20000&execute-ms=30000&cb=zhlkzuva7er4 (259)
+[pid=22671][err] [1017/121626.661937:INFO:CONSOLE:195] "[VerifiedNode] Badge not found or inactive", source: https://verifiednode.com/api/badge.js (195)
+[pid=22671][err] [1017/121627.077876:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[pid=22671][err] [1017/121627.077941:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[pid=22671][err] [1017/121627.078050:WARNING:dbus/property.cc:94] Failed to connect to PropertiesChangedsignal.
+[pid=22671][err] [1017/121627.078240:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: unknown error type: 
+[pid=22671][err] [1017/121627.078267:WARNING:dbus/property.cc:174] GetAll request failed for: org.freedesktop.UPower.Device
+[pid=22671][err] [1017/121627.094757:ERROR:gpu/command_buffer/service/gles2_cmd_decoder_passthrough.cc:1101] [GroupMarkerNotSet(crbug.com/242999)!:A0B02009B4380000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.
+[pid=22671][err] [1017/121627.107106:INFO:CONSOLE:0] "[GroupMarkerNotSet(crbug.com/242999)!:A0B02009B4380000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.", source: https://thaconstruction.com/projects/ (0)
+[pid=22671][err] [1017/121636.269429:INFO:CONSOLE:1510] "Allow attribute will take precedence over 'allowfullscreen'.", source: https://www.elevatebuildershawaii.com/ (1510)
+[pid=22671] <gracefully close start>
+[pid=22671][err] [1017/121643.340578:WARNING:content/common/zygote/zygote_communication_linux.cc:303] Error reading message from zygote: Connection reset by peer (104)
+[pid=22671][err] [1017/121643.345860:ERROR:content/common/zygote/zygote_communication_linux.cc:293] Failed to send GetTerminationStatus message to zygote
+[pid=22671][err] [1017/121643.345870:WARNING:content/common/zygote/zygote_communication_linux.cc:305] Socket closed prematurely.
+[pid=22671][err] [1017/121643.362893:ERROR:content/common/zygote/zygote_communication_linux.cc:293] Failed to send GetTerminationStatus message to zygote
+[pid=22671][err] [1017/121643.362905:WARNING:content/common/zygote/zygote_communication_linux.cc:305] Socket closed prematurely.
+    at async /home/user/100homeimprovementsearch/tools/browser.js:79:5
+
+Node.js v22.22.0
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+browserContext.close: Target page, context or browser has been closed
+    at async /home/user/100homeimprovementsearch/tools/browser.js:79:5
+
+Node.js v22.22.0
