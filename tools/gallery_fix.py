@@ -6,7 +6,7 @@ import json
 D = "/home/user/100homeimprovementsearch/data"
 EXCLUDE = {"remontremodel.com": [1, 2], "niptuckremodel.com": [8], "allexclusivepro.com": [1, 2, 3, 5],
            "kbfdesigngallery.com": [1, 5, 11], "ananiremodeling.com": [2], "degnandesignbuildremodel.com": [6],
-           "newberryhome.com": [9], "sweeneydesign.com": [1, 2, 7], "cs-enterprises.net": [1, 2, 6, 9], "elmbuilds.com": [11], "alphagenco.com": [8, 12], "havenrenokc.com": [4, 8, 12]}
+           "newberryhome.com": [9], "sweeneydesign.com": [1, 2, 7]}
 kept = {}
 for l in open(f"{D}/g7verify.jsonl"):
     x = json.loads(l)
