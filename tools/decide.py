@@ -40,6 +40,7 @@ def jl(path):
 
 
 USER_REVIEWS = {}
+SOCIAL = {}
 
 
 def load():
@@ -69,6 +70,8 @@ def load():
         manual.setdefault(x["id"], {}).update(x)
     pre = {x["id"]: x for x in jl(f"{D}/pregate_rejects.jsonl")}
     # newest Google review dates the user collected through Gemini (output/review_requests/)
+    SOCIAL.clear()
+    SOCIAL.update({x["id"]: x for x in jl(f"{D}/social.jsonl")})
     USER_REVIEWS.clear()
     USER_REVIEWS.update({x["id"]: x for x in jl(f"{D}/reviews_user.jsonl")})
     for x in jl(f"{D}/remeasure.jsonl"):
@@ -260,6 +263,16 @@ def g4(c, s, m, man):
             continue
         if D90 <= dt <= RUN_DATE and x.get("url"):
             signals.append(x)
+    if "social_post" not in rej:
+        # newest in-window post on an account linked from the company's own site (tools/social.py)
+        posts = sorted((p for p in (SOCIAL.get(c["id"]) or {}).get("posts") or []
+                        if re.match(r"\d{4}-\d{2}-\d{2}$", p.get("date") or "") and D90 <= date.fromisoformat(p["date"]) <= RUN_DATE),
+                       key=lambda p: p["date"], reverse=True)
+        if posts:
+            p0 = posts[0]
+            signals.append({"type": "social_post", "date": p0["date"], "url": p0["post_url"],
+                            "quote": f"{p0['platform']} {p0['account']} post: '{' '.join(p0['quote'].split()[:12])}'",
+                            "method": p0["method"]})
     ur = USER_REVIEWS.get(c["id"])
     if ur and "google_review" not in rej:
         try:
