@@ -288,7 +288,7 @@ def collect_imgs(soup, base):
         if cands:
             urls.append(urljoin(base, cands[0]))
     for m in re.finditer(r"url\(['\"]?(https?://[^)'\"]+\.(?:jpe?g|png|webp)[^)'\"]*)", str(soup)):
-        urls.append(m.group(1))
+        urls.append(htmlmod.unescape(m.group(1)))  # str(soup) re-escapes & as &amp; inside style attributes
     for m in re.finditer(r"https?://static\.wixstatic\.com/media/[A-Za-z0-9_~.\-]+\.(?:jpe?g|png|webp)", str(soup)):
         urls.append(m.group(0))
     out, seen = [], set()

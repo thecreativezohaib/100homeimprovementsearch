@@ -1,1 +1,2 @@
 {"id": "bbassociatesco.com", "tested_url": "https://www.bbassociatesco.com/", "attempts": [{"at": "2026-10-17T10:09:34+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-17T10:10:07+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "assemblyserviceil.com", "tested_url": "https://www.assemblyserviceil.com/", "attempts": [{"at": "2026-10-17T17:41:31+00:00", "http": 200}], "psi_score": 48, "psi_date": "2026-10-17T17:41:31+00:00"}

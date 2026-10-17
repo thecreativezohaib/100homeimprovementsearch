@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Re-measure 'gallery images over 1MB' defects for passed prospects with two client profiles:
 (a) Chrome-like Accept: image/avif,image/webp,*/*  (b) curl default Accept: */*. Full body downloaded, bytes counted."""
-import csv, json, re, requests
+import csv, html, json, re, requests
+from datetime import date
 O = "/home/user/100homeimprovementsearch/output"; D = "/home/user/100homeimprovementsearch/data"
 CH = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 Version/17.5 Mobile/15E148 Safari/604.1",
       "Accept": "image/avif,image/webp,image/apng,image/*,*/*;q=0.8"}
@@ -12,8 +13,9 @@ for r in csv.DictReader(open(f"{O}/prospects100.csv")):
     if not r["G8_defect"].startswith("gallery images") or r["prospect_id"] in done:
         continue
     urls = re.findall(r"(https?://\S+?) = [\d,]+ bytes", r["G8_measurement"])
-    rec = {"id": r["prospect_id"], "measured_on": "2026-10-14", "images": []}
+    rec = {"id": r["prospect_id"], "measured_on": date.today().isoformat(), "images": []}
     for u in urls:
+        u = html.unescape(u)  # earlier captures could carry &amp; from re-serialised HTML
         row = {"url": u}
         for name, h in (("browser_accept", CH), ("curl_accept", CU)):
             try:
