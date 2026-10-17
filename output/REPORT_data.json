@@ -31,19 +31,11 @@
    "score_total": "17",
    "business_name": "MJ Kitchen & Bath",
    "region": "R3",
-   "score_trigger_evidence": "{\"type\": \"relocation / new showroom\", \"date\": \"2026-06-29\", \"url\": \"https://mj-kitchens.com/new-plymouth-showroom-progress/\", \"quote\": \"6.29.26 Our new Showroom is now open!\"}",
+   "score_trigger_evidence": "{\"type\": \"relocation / new showroom\", \"date\": \"2026-06-29\", \"url\": \"https://mj-kitchens.com/new-plymouth-showroom-progress/\", \"quote\": \"6.29.26 Our new Showroom is now open!\", \"meets\": true}",
    "G8_defect": "mobile performance score below 60"
   },
   {
    "rank": "2",
-   "score_total": "14",
-   "business_name": "Gayler Design Build",
-   "region": "R5",
-   "score_trigger_evidence": "{\"type\": \"new showroom\", \"date\": \"UNKNOWN\", \"url\": \"https://gaylerdesignbuild.com/seminars/\", \"quote\": \"Join us in our new showroom for expert insights and ideas to help you start planning.\", \"note\": \"Opening date not published. Page schema dateModified 2026-09-14; event shown as 'Thursday, October 15th at 6PM'. Footer address is 825 Hartz Way while the careers page still gives 390 Diablo Road Suite #210; no dated move announcement found (wp-json post search for showroom/Hartz returned nothing relevant; WebSearch found nothing).\"}",
-   "G8_defect": "mobile performance score below 60"
-  },
-  {
-   "rank": "3",
    "score_total": "13",
    "business_name": "Ann Arbor Remodeling",
    "region": "R3",
@@ -51,7 +43,7 @@
    "G8_defect": "gallery images over 1MB each"
   },
   {
-   "rank": "4",
+   "rank": "3",
    "score_total": "13",
    "business_name": "Craft Home Remodeling",
    "region": "R5",
@@ -59,7 +51,7 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "5",
+   "rank": "4",
    "score_total": "13",
    "business_name": "Hamlett Renovations",
    "region": "R1",
@@ -67,7 +59,7 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "6",
+   "rank": "5",
    "score_total": "12",
    "business_name": "ALL Renovation & Design LLC",
    "region": "R1",
@@ -75,7 +67,7 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "7",
+   "rank": "6",
    "score_total": "12",
    "business_name": "Boss Design Center Bath and Kitchen Remodeling",
    "region": "R2",
@@ -83,7 +75,7 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "8",
+   "rank": "7",
    "score_total": "12",
    "business_name": "Semper Fi Custom Remodeling of Asheville",
    "region": "R2",
@@ -91,7 +83,7 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "9",
+   "rank": "8",
    "score_total": "12",
    "business_name": "Wade Design & Construction Inc.",
    "region": "R3",
@@ -99,12 +91,20 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "10",
+   "rank": "9",
    "score_total": "10",
    "business_name": "Five Fold Solutions",
    "region": "R4",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
+  },
+  {
+   "rank": "10",
+   "score_total": "9",
+   "business_name": "ARIID Build & Remodel",
+   "region": "R5",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "horizontal overflow at 375px"
   }
  ],
  "defects": {
