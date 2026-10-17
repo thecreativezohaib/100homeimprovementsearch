@@ -59,7 +59,7 @@ def load():
         if x["id"] not in maps or (x.get("title") and not maps[x["id"]].get("title")):
             maps[x["id"]] = x
     br = {x["id"]: x for x in jl(f"{D}/browser_*.jsonl") if "tested" in x}
-    psi = {x["id"]: x for x in jl(f"{D}/psi.jsonl")}
+    psi = {x["id"]: x for x in jl(f"{D}/psi.jsonl") + jl(f"{D}/psi_q?.jsonl") if "psi_score" in x}
     dns = {x["id"]: x for x in jl(f"{D}/dns.jsonl")}
     for x in jl(f"{D}/g8extra.jsonl"):
         if x["id"] in site:

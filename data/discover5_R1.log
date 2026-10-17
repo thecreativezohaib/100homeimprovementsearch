@@ -1,1 +1,63 @@
 R1 kitchen remodeler|Branford, CT 20
+R1 bathroom remodeler|Branford, CT 20
+R1 kitchen remodeler|Middletown, CT 21
+R1 bathroom remodeler|Middletown, CT 20
+R1 kitchen remodeler|Southbury, CT 21
+R1 bathroom remodeler|Southbury, CT 20
+R1 kitchen remodeler|Newtown, CT 21
+R1 bathroom remodeler|Newtown, CT 20
+R1 kitchen remodeler|Farmington, CT 20
+R1 bathroom remodeler|Farmington, CT 20
+R1 kitchen remodeler|Mystic, CT 20
+R1 bathroom remodeler|Mystic, CT 20
+R1 kitchen remodeler|Litchfield, CT 21
+R1 bathroom remodeler|Litchfield, CT 20
+R1 kitchen remodeler|Franklin, MA 20
+R1 bathroom remodeler|Franklin, MA 20
+R1 kitchen remodeler|Northampton, MA 20
+R1 bathroom remodeler|Northampton, MA 20
+R1 kitchen remodeler|Cohasset, MA 20
+R1 bathroom remodeler|Cohasset, MA 20
+R1 kitchen remodeler|Chatham, MA 20
+R1 bathroom remodeler|Chatham, MA 20
+R1 kitchen remodeler|Concord, NH 20
+R1 bathroom remodeler|Concord, NH 20
+R1 kitchen remodeler|Portland, ME 20
+R1 bathroom remodeler|Portland, ME 20
+R1 kitchen remodeler|Falmouth, ME 20
+R1 bathroom remodeler|Falmouth, ME 20
+R1 kitchen remodeler|Brunswick, ME 20
+R1 bathroom remodeler|Brunswick, ME 20
+R1 kitchen remodeler|Burlington, VT 20
+R1 bathroom remodeler|Burlington, VT 20
+R1 kitchen remodeler|Manchester, VT 20
+R1 bathroom remodeler|Manchester, VT 20
+R1 kitchen remodeler|Cherry Hill, NJ 21
+R1 bathroom remodeler|Cherry Hill, NJ 20
+R1 kitchen remodeler|Hoboken, NJ 20
+ERR bathroom remodeler|Hoboken, NJ page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R1 kitchen remodeler|Franklin Lakes, NJ 20
+R1 bathroom remodeler|Franklin Lakes, NJ 20
+R1 kitchen remodeler|Mendham, NJ 20
+R1 bathroom remodeler|Mendham, NJ 20
+R1 kitchen remodeler|Hopewell, NJ 20
+ERR bathroom remodeler|Hopewell, NJ page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R1 kitchen remodeler|Manhasset, NY 20
+R1 bathroom remodeler|Manhasset, NY 20
+R1 kitchen remodeler|Port Washington, NY 20
+ERR bathroom remodeler|Port Washington, NY page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R1 kitchen remodeler|Katonah, NY 20
+R1 bathroom remodeler|Katonah, NY 20
+R1 kitchen remodeler|Rhinebeck, NY 20
+R1 bathroom remodeler|Rhinebeck, NY 20
+R1 kitchen remodeler|East Aurora, NY 20
+R1 bathroom remodeler|East Aurora, NY 20

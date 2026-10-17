@@ -1,1 +1,90 @@
 R4 kitchen remodeler|Aurora, CO 20
+R4 bathroom remodeler|Aurora, CO 20
+R4 kitchen remodeler|Broomfield, CO 20
+R4 bathroom remodeler|Broomfield, CO 20
+R4 kitchen remodeler|Steamboat Springs, CO 20
+R4 bathroom remodeler|Steamboat Springs, CO 20
+R4 kitchen remodeler|Oklahoma City, OK 22
+R4 bathroom remodeler|Oklahoma City, OK 21
+R4 kitchen remodeler|Austin, TX 20
+R4 bathroom remodeler|Austin, TX 20
+R4 kitchen remodeler|Leander, TX 20
+ERR bathroom remodeler|Leander, TX page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R4 kitchen remodeler|San Antonio, TX 20
+R4 bathroom remodeler|San Antonio, TX 20
+ERR kitchen remodeler|Helotes, TX page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+ERR bathroom remodeler|Helotes, TX page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R4 kitchen remodeler|Grapevine, TX 20
+R4 bathroom remodeler|Grapevine, TX 20
+R4 kitchen remodeler|Celina, TX 20
+ERR bathroom remodeler|Celina, TX page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R4 kitchen remodeler|Denton, TX 20
+R4 bathroom remodeler|Denton, TX 20
+R4 kitchen remodeler|Midland, TX 20
+R4 bathroom remodeler|Midland, TX 20
+R4 kitchen remodeler|Amarillo, TX 20
+R4 bathroom remodeler|Amarillo, TX 20
+ERR kitchen remodeler|Corpus Christi, TX page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R4 bathroom remodeler|Corpus Christi, TX 20
+R4 kitchen remodeler|Conroe, TX 20
+ERR bathroom remodeler|Conroe, TX page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R4 kitchen remodeler|League City, TX 20
+R4 bathroom remodeler|League City, TX 20
+R4 kitchen remodeler|Friendswood, TX 20
+R4 bathroom remodeler|Friendswood, TX 20
+R4 kitchen remodeler|Humble, TX 20
+R4 bathroom remodeler|Humble, TX 20
+R4 kitchen remodeler|Abilene, TX 20
+R4 bathroom remodeler|Abilene, TX 20
+R4 kitchen remodeler|Orem, UT 20
+R4 bathroom remodeler|Orem, UT 20
+ERR kitchen remodeler|Ogden, UT page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R4 bathroom remodeler|Ogden, UT 20
+R4 kitchen remodeler|South Jordan, UT 20
+R4 bathroom remodeler|South Jordan, UT 20
+R4 kitchen remodeler|Rio Rancho, NM 20
+ERR bathroom remodeler|Rio Rancho, NM page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+ERR kitchen remodeler|Las Cruces, NM page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R4 bathroom remodeler|Las Cruces, NM 20
+R4 kitchen remodeler|Cheyenne, WY 20
+R4 bathroom remodeler|Cheyenne, WY 20
+R4 kitchen remodeler|Jackson, WY 20
+ERR bathroom remodeler|Jackson, WY page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+ERR kitchen remodeler|Casper, WY page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+ERR bathroom remodeler|Casper, WY page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+

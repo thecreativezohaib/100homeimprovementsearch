@@ -1,1 +1,87 @@
 R3 kitchen remodeler|Glenview, IL 20
+R3 bathroom remodeler|Glenview, IL 20
+R3 kitchen remodeler|Wilmette, IL 20
+R3 bathroom remodeler|Wilmette, IL 20
+R3 kitchen remodeler|Winnetka, IL 20
+R3 bathroom remodeler|Winnetka, IL 20
+ERR kitchen remodeler|Champaign, IL page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R3 bathroom remodeler|Champaign, IL 20
+R3 kitchen remodeler|Peoria, IL 20
+R3 bathroom remodeler|Peoria, IL 20
+R3 kitchen remodeler|Rockford, IL 20
+ERR bathroom remodeler|Rockford, IL page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R3 kitchen remodeler|South Bend, IN 20
+R3 bathroom remodeler|South Bend, IN 20
+R3 kitchen remodeler|Kalamazoo, MI 20
+ERR bathroom remodeler|Kalamazoo, MI page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+ERR kitchen remodeler|Lansing, MI page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+ERR bathroom remodeler|Lansing, MI page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R3 kitchen remodeler|Midland, MI 20
+R3 bathroom remodeler|Midland, MI 20
+R3 kitchen remodeler|St. Cloud, MN 20
+R3 bathroom remodeler|St. Cloud, MN 20
+R3 kitchen remodeler|Mankato, MN 20
+R3 bathroom remodeler|Mankato, MN 20
+R3 kitchen remodeler|Kansas City, MO 20
+R3 bathroom remodeler|Kansas City, MO 20
+R3 kitchen remodeler|New Albany, OH 20
+R3 bathroom remodeler|New Albany, OH 20
+ERR kitchen remodeler|Worthington, OH page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+ERR bathroom remodeler|Worthington, OH page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R3 kitchen remodeler|Chagrin Falls, OH 20
+R3 bathroom remodeler|Chagrin Falls, OH 20
+R3 kitchen remodeler|Centerville, OH 21
+R3 bathroom remodeler|Centerville, OH 21
+R3 kitchen remodeler|Akron, OH 20
+ERR bathroom remodeler|Akron, OH page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+ERR kitchen remodeler|Cincinnati, OH page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R3 bathroom remodeler|Cincinnati, OH 20
+R3 kitchen remodeler|Elm Grove, WI 20
+R3 bathroom remodeler|Elm Grove, WI 20
+R3 kitchen remodeler|Cedarburg, WI 20
+ERR bathroom remodeler|Cedarburg, WI page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R3 kitchen remodeler|Kenosha, WI 20
+R3 bathroom remodeler|Kenosha, WI 20
+R3 kitchen remodeler|Des Moines, IA 20
+R3 bathroom remodeler|Des Moines, IA 21
+R3 kitchen remodeler|Iowa City, IA 20
+R3 bathroom remodeler|Iowa City, IA 20
+R3 kitchen remodeler|Dubuque, IA 20
+R3 bathroom remodeler|Dubuque, IA 20
+R3 kitchen remodeler|Omaha, NE 20
+R3 bathroom remodeler|Omaha, NE 21
+R3 kitchen remodeler|Lincoln, NE 20
+R3 bathroom remodeler|Lincoln, NE 20
+R3 kitchen remodeler|Fargo, ND 20
+R3 bathroom remodeler|Fargo, ND 20
+R3 kitchen remodeler|Rapid City, SD 20
