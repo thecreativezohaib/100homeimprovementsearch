@@ -144,3 +144,6 @@
 {"id": "thekitchenloft.com", "tested_url": "https://thekitchenloft.com/", "attempts": [{"at": "2026-10-17T09:40:02+00:00", "http": 200}], "psi_score": 62, "psi_date": "2026-10-17T09:40:02+00:00"}
 {"id": "thomsonremodeling.com", "tested_url": "https://thomsonremodeling.com/", "attempts": [{"at": "2026-10-17T09:40:23+00:00", "http": 200}], "psi_score": 77, "psi_date": "2026-10-17T09:40:23+00:00"}
 {"id": "tlremodel.com", "tested_url": "https://www.tlremodel.com/", "attempts": [{"at": "2026-10-17T09:40:39+00:00", "http": 200}], "psi_score": 79, "psi_date": "2026-10-17T09:40:39+00:00"}
+{"id": "transcendentconstruction.com", "tested_url": "https://transcendentconstruction.com/", "attempts": [{"at": "2026-10-17T09:41:04+00:00", "http": 200}], "psi_score": 62, "psi_date": "2026-10-17T09:41:04+00:00"}
+{"id": "trudesignco.com", "tested_url": "https://trudesignco.com/", "attempts": [{"at": "2026-10-17T09:41:23+00:00", "http": 200}], "psi_score": 46, "psi_date": "2026-10-17T09:41:23+00:00"}
+{"id": "universalfactorydirect.com", "tested_url": "https://universalfactorydirect.com/", "attempts": [{"at": "2026-10-17T09:41:43+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-17T09:42:16+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
