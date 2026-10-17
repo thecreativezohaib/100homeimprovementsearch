@@ -1,0 +1,1331 @@
+[
+ {
+  "id": "ambianceatlanta.com",
+  "name": "Ambiance Atlanta",
+  "region": "R2",
+  "website": "https://www.ambianceatlanta.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.ambianceatlanta.com/"
+   ],
+   "contact": [
+    "https://www.ambianceatlanta.com/contact"
+   ],
+   "about": [
+    "https://www.ambianceatlanta.com/about"
+   ],
+   "gallery": [
+    "https://www.ambianceatlanta.com/gallery",
+    "https://www.ambianceatlanta.com/featured"
+   ],
+   "legal": [
+    "https://www.ambianceatlanta.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____3MS9YgROoniNGRaI0o&hl=en",
+    "quote": "Roxanne Waite: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-07-29",
+    "url": "https://www.linkedin.com/posts/ambianceatlanta_atlanta-basementfinishing-homerenovation-activity-7488212298210205696-2Tlk",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/ambianceatlanta/ post: 'From unfinished to unforgettable! \ud83c\udfe1\u2728 This basement started as an empty space'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____3MS9YgROoniNGRaI0o&hl=en",
+  "gbp_title": "Ambiance Atlanta",
+  "gbp_address": null,
+  "gbp_rating": "4.8\n(84)",
+  "gbp_phone": "phone:tel:+14047878220",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Roxanne Waite",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "We hired Ambiance Atlanta for a  remodel of our kitchen. Initially we thought we would source each step out ourselves but after we purchased cabinets we decided we should hire a contractor. After some research we decided to go with Ambiance \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you so much for your wonderful review! We're delighted you chose Ambiance Atlanta for your kitchen remodel and are thrilled to hear Elmer made the process smooth from start to finish. We truly appreciate your trust and kind words, and \u2026 More"
+   },
+   {
+    "reviewer": "James Malatos",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "Mike and his team did a wonderful job turning part of our unfinished basement into a home gym. The space came out just how we envisions and Mike & his team were easy to work with. \u2026",
+    "owner": "Response from the owner 8 months ago\nDear James,\nWe are very happy to hear that you are satisfied with your basement project. Thank you for your kind words and for trusting us with your home. We look forward to bringing another one of your dreams to life in the near future. "
+   },
+   {
+    "reviewer": "Brandon Herman",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "Fantastic experience with Mike, Elmer, Grace and the Ambiance Atlanta team. Mike was creative in helping us design our terrace level, flexible when we wanted to make changes to the plan mid project, and a great communicator throughout. He \u2026",
+    "owner": "Response from the owner 11 months ago\nDear Brandon,\nIt was a pleasure creating your space. We\u2019re so happy to hear that you\u2019re satisfied with the results, and we look forward to helping you with your future projects."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@ambianceatlanta.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@ambianceatlanta.com",
+    "page": "https://www.ambianceatlanta.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.ambianceatlanta.com/about",
+    "snippet": "ch), Mike started his professional career in heavy machinery manufacturing - where he rapidly progressed to become Vice President of Engineering for a global firm"
+   },
+   {
+    "page": "https://www.ambianceatlanta.com/about",
+    "snippet": "\u2014 Mike Vahdat, Founder"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/ambianceatl/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/ambiance_atl"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 3
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 46"
+  ],
+  "competitor_pool": [
+   {
+    "name": "7 Day Kitchen",
+    "url": "https://7daykitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Affordable Bathroom Remodeling and Home Remodeling Atlanta",
+    "url": "https://affordablebathroomremodelingandhomeremodelingatlanta.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Jacuzzi Bath Remodel of Atlanta",
+    "url": "https://www.atlantabaths.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Copper Sky Design + Remodel",
+    "url": "https://copperskyrenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "FD Remodeling Atlanta",
+    "url": "https://fdremodelingatlanta.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Innovative Design + Build",
+    "url": "https://innovateatlanta.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Atlanta, GA"
+  ]
+ },
+ {
+  "id": "aplushomeimprovements.com",
+  "name": "APlus Interior Design & Remodeling",
+  "region": "R5",
+  "website": "https://www.aplushomeimprovements.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.aplushomeimprovements.com/"
+   ],
+   "about": [
+    "https://www.aplushomeimprovements.com/about-us/"
+   ],
+   "gallery": [
+    "https://www.aplushomeimprovements.com/gallery/",
+    "https://www.aplushomeimprovements.com/portfolio_page/196-san-clemente-complete-home-remodel/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-15",
+    "url": "https://www.aplushomeimprovements.com/coastal-prestige-a-custom-transitional-home-and-kitchen-remodel-in-newport-beach/",
+    "quote": "wp-json/posts published 2026-09-15T10:34:23: 'Coastal Prestige: A Custom Transitional Home and Kitchen Remodel in Newport Beac'"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-10-13",
+    "url": "https://www.pinterest.com/pin/849702654740875553/",
+    "quote": "Pinterest profile https://www.pinterest.com/aplusremodeling/ post: 'This Anaheim kitchen transformation showcases the striking appeal of dark transitional design.'",
+    "method": "Pinterest profile RSS https://www.pinterest.com/aplusremodeling/feed.rss <pubDate>"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SpiDxrW3IARCSFZpeq5gfs&hl=en",
+  "gbp_title": "APlus Interior Design & Remodeling",
+  "gbp_address": "\ue0c8\n401 E La Palma Ave, Anaheim, CA 92801, United States",
+  "gbp_rating": "4.9\n(57)",
+  "gbp_phone": "phone:tel:+19494582108",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Michelle Varner",
+    "when": "5 years ago",
+    "stars": "5 stars",
+    "text": "Words can\u2019t even express how much I LOVE my new custom kitchen.  A-Plus is hands down the very best and a pleasure to work with. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Alice Chrystie",
+    "when": "Edited a year ago",
+    "stars": "5 stars",
+    "text": "After discussing our kitchen remodel project with a few other contractors, we decided to hire A Plus Kitchen & Bath Contracting in Anaheim and we are so pleased that we did.  We absolutely love our new custom kitchen and eating area. The \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Eric Moore",
+    "when": "5 years ago",
+    "stars": "5 stars",
+    "text": "We purchased our kitchen cabinets 13 years ago from A-Plus and have been extremely happy ever since. We chose A-Plus for several reasons: cabinets are totally custom made in their shop in CA (not cheap modular units that are not custom fit \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/apluskitchens"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/apluskitchens"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 30,
+   "bath": 10,
+   "roof": 7,
+   "plumb": 2,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 15,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 38"
+  ],
+  "competitor_pool": [
+   {
+    "name": "ONE FINISH REMODELING",
+    "url": "https://1finish.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "American Best Remodeling",
+    "url": "https://americanbestremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "California Signature Kitchen, Bath & Flooring",
+    "url": "https://californiasignature.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Cabinets and Beyond",
+    "url": "https://kitchencabinetsandbeyond.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Modern Renovations",
+    "url": "https://www.modernrenovations.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Anaheim, CA",
+   "Orange, CA"
+  ]
+ },
+ {
+  "id": "bbrdesignbuild.com",
+  "name": "BB&R Design-Build",
+  "region": "R1",
+  "website": "https://www.bbrdesignbuild.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Webflow"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.bbrdesignbuild.com/"
+   ],
+   "contact": [
+    "https://www.bbrdesignbuild.com/contact"
+   ],
+   "about": [
+    "https://www.bbrdesignbuild.com/about"
+   ],
+   "gallery": [
+    "https://www.bbrdesignbuild.com/portfolio",
+    "https://www.bbrdesignbuild.com/portfolio/tranquil-lakes"
+   ],
+   "legal": [
+    "https://www.bbrdesignbuild.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dn6hloG5IkR5PCmbEc9Kxc&hl=en",
+    "quote": "Joel Lund: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dn6hloG5IkR5PCmbEc9Kxc&hl=en",
+  "gbp_title": "BB&R Design-Build",
+  "gbp_address": "\ue0c8\n99 Prescott St Ste 101, Worcester, MA 01605, United States",
+  "gbp_rating": "5.0\n(20)",
+  "gbp_phone": "phone:tel:+15088291900",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Joel Lund",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Had a complete house renovation and can\u2019t say enough about how wonderful the experience was with BB&R.  From a great design review process to quote, site prep, contractor work communication, and quality of work.  Highly recommend.",
+    "owner": null
+   },
+   {
+    "reviewer": "Michelle Power",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "There are businesses that support their community once, and then there are businesses that quietly and consistently show up year after year. BB&R Design-Build is one of those companies. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Meghan Petrowski",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We are so happy we partnered with the BB&R team- Kevin, Jane, Nancy and team did a phenomenal job, we feel like we're living in a new house! \u2026",
+    "owner": "Response from the owner a year ago\nThank you so much, Meghan! We're thrilled to hear that you're loving your \"new\" home after partnering with the BB&R Design-Build team here in Worcester. Kevin, Jane, and Nancy truly enjoyed working with you to bring your vision to life. The \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "kevin@bbrdesignbuild.com",
+    "how": "plain text",
+    "raw": "kevin@bbrdesignbuild.com",
+    "page": "https://www.bbrdesignbuild.com/privacy-policy"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.bbrdesignbuild.com/",
+    "snippet": "Founder-President"
+   },
+   {
+    "page": "https://www.bbrdesignbuild.com/about",
+    "snippet": "Founder-President"
+   },
+   {
+    "page": "https://www.bbrdesignbuild.com/about",
+    "snippet": "Kevin is the founder and principal of BB&R Design-Build, bringing 30+ years of residential and commercial construction experience supported by a Civil Eng"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/BarnesBuilding"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/bbrdesignbuild"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 29,
+   "bath": 25,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 48",
+   "gallery images over 1MB each: https://cdn.prod.website-files.com/63f2dd434ae743e02f790467/6a5e492b5dec556c93810566_West-0006-02-second-pass-small.jpg = 1,046,910 bytes; https://cdn.prod.webs"
+  ],
+  "competitor_pool": [
+   {
+    "name": "A-Team Building, Inc",
+    "url": "https://www.ateambuildinginc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "KB Home Improvement",
+    "url": "https://kbhomeimprovementma.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Oasis Construction Inc",
+    "url": "https://oci360.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Regal Kitchen Remodeling LLC",
+    "url": "https://regalkitchenremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "RenoVista - Basement and Kitchen Remodeling",
+    "url": "https://renovistaconstruction.com/?local=true",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Worcester, MA"
+  ]
+ },
+ {
+  "id": "aybarbuild.com",
+  "name": "Aybar Build Co.",
+  "region": "R2",
+  "website": "https://aybarbuild.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://aybarbuild.com/"
+   ],
+   "contact": [
+    "https://aybarbuild.com/contacts.php",
+    "https://aybarbuild.com/contacts.php?service=Kitchen+Remodeling"
+   ],
+   "about": [
+    "https://aybarbuild.com/about-us.php"
+   ],
+   "gallery": [
+    "https://aybarbuild.com/gallery.php",
+    "https://aybarbuild.com/contacts.php?service=Kitchen%20Remodeling"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJWXr384LpVqgRhjzTrb5JNFE&hl=en",
+    "quote": "Robyn Vichich: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXr384LpVqgRhjzTrb5JNFE&hl=en",
+  "gbp_title": "Aybar Build Co.",
+  "gbp_address": "\ue0c8\n2830 Osceola Pkwy #311, Kissimmee, FL 34743, United States",
+  "gbp_rating": "5.0\n(16)",
+  "gbp_phone": "phone:tel:+14072740981",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Massiel Abreu",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "I couldn\u2019t be happier with the installation of my kitchen range hood. Ramon and Juana were professional, punctual, and paid close attention to every detail from start to finish. \u2026",
+    "owner": "Response from the owner 3 months ago\nThank you so much, Massiel, for taking the time to leave such a thoughtful review! We truly appreciate your kind words and are grateful that you trusted us with your kitchen project. \u2026 More"
+   },
+   {
+    "reviewer": "Brett Livingston",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "Aybar Build has become our go-to contractor, and for good reason. We\u2019ve used them multiple times now, and every single project has been handled with the same level of care, professionalism, and efficiency. \u2026",
+    "owner": "Response from the owner 10 months ago\nThank you so much, Brett! We truly appreciate your continued trust and the opportunity to work on your home. It means a lot to us when clients return for additional projects\u2014not just because of the business, but because it shows we\u2019re \u2026 More"
+   },
+   {
+    "reviewer": "Robyn Vichich",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "I love, Love, LOVE this group. Not only have they met or exceeded all of my building and repair needs, they are easy to reach, fast and friendly, never too busy to answer a question or explain a process, and very professional. So much so \u2026",
+    "owner": "Response from the owner a month ago\nThank you so much, Robyn, for this incredible review! \u2b50\u2b50\u2b50\u2b50\u2b50\n\nIt means a lot to our entire team to know that you value not only the quality of \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@aybarbuild.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@aybarbuild.com",
+    "page": "https://aybarbuild.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 16,
+   "bath": 4,
+   "roof": 0,
+   "plumb": 2,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 3,
+   "cabinet": 4,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://aybarbuild.com/uploads/20260730-203154-b93e30f89342.png?v=1785443514 = 2,435,087 bytes (HTTP Content-Length); https://aybarbuild.com/uploads/20260730-20"
+  ],
+  "competitor_pool": [
+   {
+    "name": "BathTubGuys Refinishing (Orlando)",
+    "url": "https://bathtubguys.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Beto Multiflooring Modern Bath",
+    "url": "https://betomultiflooringmodernbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Brandvera Construction Services LLC",
+    "url": "https://brandveraconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Easy Florida Kitchen Cabinets",
+    "url": "https://easyflorida.us/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Glow Design LLC",
+    "url": "https://homeglow.design/",
+    "gbp_address": null
+   },
+   {
+    "name": "JMB Solutions Services LLC",
+    "url": "https://jmbsolutionsservices.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Kissimmee, FL"
+  ]
+ },
+ {
+  "id": "integritycontractorsllc.com",
+  "name": "Integrity Contractors LLC",
+  "region": "R2",
+  "website": "https://www.integritycontractorsllc.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.integritycontractorsllc.com/"
+   ],
+   "contact": [
+    "https://www.integritycontractorsllc.com/contact"
+   ],
+   "about": [
+    "https://www.integritycontractorsllc.com/about"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJq1hvtiYttokR4LY_woD-Dw8&hl=en",
+    "quote": "Kirk Lew: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1hvtiYttokR4LY_woD-Dw8&hl=en",
+  "gbp_title": "Integrity Contractors LLC",
+  "gbp_address": "\ue0c8\n11 Pine Ridge Ct, Germantown, MD 20874, United States",
+  "gbp_rating": "5.0\n(40)",
+  "gbp_phone": "phone:tel:+12408698689",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Anand",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Just amazing work done by Michael and his team. Completed the project on time and perfectly done. From start to finish excellent communication and very practical suggestions. We would definitely recommend his services to anyone looking for quality and craftsmanship. We already have him booked to complete our garage.",
+    "owner": "Response from the owner a year ago\nFirst of all, thank you and your wife for giving us the opportunity to work in your project. We are honored to serve you and your family."
+   },
+   {
+    "reviewer": "Kirk Lew",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Integrity contractors recently completed an outdoor painting job. They did a wonderful job and the communication throughout the process was perfect. I would recommend them for work in the future and refer them to anyone looking for a good contractor.",
+    "owner": "Response from the owner a month ago\nGood morning, Kirk,\n\nThank you for the review; we are glad you liked our work. If you need any help \u2026 More"
+   },
+   {
+    "reviewer": "Yasmine Azud-Moten",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "They did a wonderful job. They arrived on time and communicated great about any delays. They Were able to get done exactly what I asked for and I would definitely use them again",
+    "owner": "Response from the owner 3 months ago\nGood afternoon, Yasmine. \n\nThank you for your review and for the opportunity to be part of your projects. \u2026 More"
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml"
+  ],
+  "instagram_links": [
+   "http://instagram.com/squarespace"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 7,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 36",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/6663855b9dc59a1104ae0340/54b9de64-9c1d-48bf-b742-cf2dd51e3dd8/7.jpg?format = 1,150,603 bytes (HTTP Content-Length)"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Elevate remodels",
+    "url": "https://elevateremodels.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Handy Pro LLC",
+    "url": "https://handy-dmv.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "HandyMike Home Improvement & Remodeling LLC",
+    "url": "https://handymikemd.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Leiva's Remodeling LLC",
+    "url": "https://leivasremodelingllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "RS General Contractor",
+    "url": "https://rsgcontractor.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "VR Painting & Remodeling LLC",
+    "url": "https://vrremodelingservices.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Germantown, MD"
+  ]
+ },
+ {
+  "id": "velartdesign.com",
+  "name": "VelArt Designer Kitchens & Baths",
+  "region": "R2",
+  "website": "https://www.velartdesign.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.velartdesign.com/"
+   ],
+   "about": [
+    "https://www.velartdesign.com/about-us",
+    "https://www.velartdesign.com/"
+   ],
+   "gallery": [
+    "https://www.velartdesign.com/custom-closets-and-modern-storage-solutions-miami-south-florida"
+   ],
+   "legal": [
+    "https://www.velartdesign.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-01",
+    "url": "https://www.velartdesign.com/post/your-complete-guide-to-getting-a-designer-closet-quote-in-miami",
+    "quote": "rss:https://www.velartdesign.com/blog-feed.xml published Tue, 01 Sep 2026 04:00:00 GMT: 'Your Complete Guide to Getting a Designer Closet Quote in Miami &#38; South Flor'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdOGOJuy2YgR22vtvNs08iQ&hl=en",
+  "gbp_title": "VelArt Designer Kitchens & Baths",
+  "gbp_address": "\ue0c8\n17830 NE 5th Ave, Miami, FL 33162, United States",
+  "gbp_rating": "5.0\n(117)",
+  "gbp_phone": "phone:tel:+19549442729",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Viktor United Porte FL",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "Great experience working with Mikhail and his team on our custom kitchen in Miami. The quality of the cabinets is excellent, and the whole process from design to installation was smooth and professional. Highly recommend!",
+    "owner": "Response from the owner 7 months ago\nDear Viktor,\nThank you so much for your amazing Google review! We truly appreciate you taking the time to share your positive experience regarding your custom-designed \u2026 More"
+   },
+   {
+    "reviewer": "Jordan Steinlauf",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\n\nQuality, Service, Professionalism \u2026",
+    "owner": "Response from the owner 8 months ago\nDear Jordan,\nThank you so much for the amazing review you left for us on Google! We are thrilled to hear that you had a great experience with VelArt, and truly appreciate \u2026 More"
+   },
+   {
+    "reviewer": "Alina",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "I am very happy with company VelArt and their work. The quality of the furniture is excellent, and everything is made with great attention to detail. The kitchen turned out exactly as I wanted \u2014 beautiful, functional, and well-built. \u2026",
+    "owner": "Response from the owner 4 months ago\nDear Alina,\nThank you so much for sharing your positive experience with VelArt Designer Kitchens & Baths in Miami for your custom high-end kitchen cabinets and countertops. \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info.velartinc@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info.velartinc@gmail.com",
+    "page": "https://www.velartdesign.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [
+   "https://www.instagram.com/velartdesigns"
+  ],
+  "franchise_mentions": [
+   "bath experts"
+  ],
+  "niche_word_counts": {
+   "kitchen": 45,
+   "bath": 26,
+   "roof": 1,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 12,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 58"
+  ],
+  "competitor_pool": [
+   {
+    "name": "18 Construction Kitchen and Bathroom Remodel Management Group LLC",
+    "url": "https://18projectsm.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Armando Gonzalez Remodeling Inc.",
+    "url": "https://www.armandoremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elbaz Construction & Bathroom Remodeling",
+    "url": "https://elbazconstructioncorp.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Florida one kitchen cabinets Inc",
+    "url": "https://fl1kitchencabinets.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Jacuzzi Bath Remodel of Miami",
+    "url": "https://www.flbaths.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Miami Kitchen & Bath Remodeling LLC",
+    "url": "https://kitchenandbathmiami.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Miami, FL"
+  ]
+ },
+ {
+  "id": "xtramileconstruction.com",
+  "name": "Xtra Mile Construction",
+  "region": "R3",
+  "website": "https://www.xtramileconstruction.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.xtramileconstruction.com/"
+   ],
+   "about": [
+    "https://www.xtramileconstruction.com/our-story",
+    "https://www.xtramileconstruction.com/about-1"
+   ],
+   "gallery": [
+    "https://www.xtramileconstruction.com/portfolio"
+   ],
+   "legal": [
+    "https://www.xtramileconstruction.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJWdfBjKhps1IReCLA4KmYMls&hl=en",
+    "quote": "Jessa Austin: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdfBjKhps1IReCLA4KmYMls&hl=en",
+  "gbp_title": "Xtra Mile Construction",
+  "gbp_address": "\ue0c8\n19031 Triangle Rd NW Ste A, Elk River, MN 55330, United States",
+  "gbp_rating": "4.9\n(74)",
+  "gbp_phone": "phone:tel:+17634823956",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "LeGi Cleaning Services",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Wow what I can I say, We have partnered with Xtra Mile Construction to complete their post Construction projects, and I can say without hesitation they are one of the best premiere Construction companies we have worked with. Their level of \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Laurie M",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We can't say enough about how great an experience working with Xtra mile was.  From the beginning, Justin and Jenna were a dream to work with.  We are second time home owners who had never undertaken a major renovation in our before, and \u2026",
+    "owner": "Response from the owner a year ago\nLaurie, thank you for trusting us with your home. We loved working with you and are so happy with how it turned out. -XtraMile Team"
+   },
+   {
+    "reviewer": "Jessa Austin",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Justin and Ariela at Xtra Mile Construction are the best in the business. They know how to bring a vision to life and do with excellence. We are so happy with the renovations they did after we had water damage. They came out right away and didn't hesitate to help us get our house feeling like a home again! Thank you!!",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@xtramileconstruction.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@xtramileconstruction.com",
+    "page": "https://www.xtramileconstruction.com/privacy-policy"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.xtramileconstruction.com/our-story",
+    "snippet": "CEO"
+   },
+   {
+    "page": "https://www.xtramileconstruction.com/our-story",
+    "snippet": "As acting CEO, Justin plays many roles in Xtra Mile"
+   },
+   {
+    "page": "https://www.xtramileconstruction.com/our-story",
+    "snippet": "As owner of Xtra Mile Construction, DJ is a significant part of our team"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/XMC2016"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/xtramileconstruction"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 3,
+   "bath": 3,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 3,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 42",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/6319e5ae33cab776c30b1238/1ceabe8d-cbd0-4f63-bd4b-7e3d23cf6622/Ryan+Cabinet = 1,011,635 bytes (HTTP Content-Length)"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Albrecht Building & Remodeling",
+    "url": "https://abrmn.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "construction2style",
+    "url": "https://construction2style.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Landson Construction",
+    "url": "https://landsonremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "McChesney Cabinets",
+    "url": "https://www.mcchesneycabinets.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Royal Construction & Remodeling LLC",
+    "url": "https://www.royalhomesmn.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Elk River, MN"
+  ]
+ },
+ {
+  "id": "metroplexprobuilders.com",
+  "name": "Metroplex Pro Builders - General Contractors | Kitchen Remodeling - Richardson, TX",
+  "region": "R4",
+  "website": "https://metroplexprobuilders.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://metroplexprobuilders.com/"
+   ],
+   "contact": [
+    "https://metroplexprobuilders.com/contact/"
+   ],
+   "about": [
+    "https://metroplexprobuilders.com/about-us/"
+   ],
+   "gallery": [
+    "https://metroplexprobuilders.com/gallery/",
+    "https://metroplexprobuilders.com/projects/"
+   ],
+   "legal": [
+    "https://metroplexprobuilders.com/privacy-policy/",
+    "https://metroplexprobuilders.com/privacy-policy/",
+    "https://metroplexprobuilders.com/terms-and-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-10",
+    "url": "https://metroplexprobuilders.com/does-cool-paint-really-work-checklist/",
+    "quote": "wp-json/posts published 2026-10-10T22:43:09: 'Does Cool Paint Really Work? Checklist Before You Decide'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaismmQfTIYRDUe2KvpkfeI&hl=en",
+  "gbp_title": "Metroplex Pro Builders - General Contractors | Kitchen Remodeling - Richardson, TX",
+  "gbp_address": "\ue0c8\n1202 E Arapaho Rd #147, Richardson, TX 75081, United States",
+  "gbp_rating": "4.7\n(78)",
+  "gbp_phone": "phone:tel:+14693005559",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Courtney Gracia",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Metroplex Pro contacted us through Thumbtack (at my request) and I\u2019m so glad they did! We were paired with Avi and Amit and. From the first consultation, Avi was informative and clearly an expert in his field. He was able to explain the \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Alexis Hurst",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "We recently completed a full home remodeling project, and the results are incredible. The bathroom remodeling, kitchen design, custom cabinets, and new hardwood flooring completely transformed our house. Every detail was handled professionally, and the quality exceeded our expectations.",
+    "owner": "Response from the owner 3 months ago\nAlexis, a full home remodel covering the bathroom, kitchen, custom cabinets, and hardwood flooring is a big undertaking \u2014 glad the team delivered on every detail. We're happy Metroplex Pro Builders could turn your house into something you're proud of!"
+   },
+   {
+    "reviewer": "Heather Clyde",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "I recently had the pleasure of working with Metroplex Pro Builders to convert half our garage into a new bedroom for my daughter, and I couldn\u2019t be more thrilled with the results! John and his team demonstrated exceptional professionalism, \u2026",
+    "owner": "Response from the owner a year ago\nHello Heather! Thank you so much for taking the time to leave a review! Your feedback means a lot to us and helps us continually improve. We\u2019re thrilled to hear you had a positive experience, and we appreciate your support. We look forward to serving you again soon! Thanks again for sharing your thoughts with us!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "office@metroplexprobuilders.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:office@metroplexprobuilders.com",
+    "page": "https://metroplexprobuilders.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 10,
+   "bath": 10,
+   "roof": 10,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 8,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 52",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 9180px, i.e. 8805px wider than the screen; elements past the right edge: ['DIV.image-carousel-item"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bluestone Bathroom Remodeling",
+    "url": "https://callbluestone.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Everlast Remodeling & Construction",
+    "url": "https://everlastdfw.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Solvers of Columbus",
+    "url": "https://kitchensolvers.com/columbus/",
+    "gbp_address": null
+   },
+   {
+    "name": "Grand Kitchen & Floor Woodlands",
+    "url": "https://modernkitchenmasters.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Oak Custom Remodeling",
+    "url": "https://oakcustomremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "TL Remodeling",
+    "url": "https://tlremodeling.us/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Richardson, TX"
+  ]
+ },
+ {
+  "id": "friendly-remodeling.com",
+  "name": "Friendly Remodeling",
+  "region": "R5",
+  "website": "https://friendly-remodeling.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://friendly-remodeling.com/"
+   ],
+   "contact": [
+    "https://friendly-remodeling.com/contact-us"
+   ],
+   "about": [
+    "https://friendly-remodeling.com/about"
+   ],
+   "gallery": [
+    "https://friendly-remodeling.com/portfolio"
+   ],
+   "legal": [
+    "https://friendly-remodeling.com/privacy",
+    "https://friendly-remodeling.com/privacy-policy",
+    "https://friendly-remodeling.com/terms"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJAVtClBZP2YARVpJvWWtY88g&hl=en",
+    "quote": "Nataly Hernandez: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJAVtClBZP2YARVpJvWWtY88g&hl=en",
+  "gbp_title": "Friendly Remodeling",
+  "gbp_address": "\ue0c8\nSkylark Wy, Chula Vista, CA 91911, United States",
+  "gbp_rating": "4.8\n(19)",
+  "gbp_phone": "phone:tel:+16197758556",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Nataly Hernandez",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Best team in Chula Vista trust me I looked! Amit and the crew did a great job on our master bathroom . From the start, he sat down with me to talk through what I wanted, gave me the list of materials to buy, and estimated four to six weeks. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "David Kargbo",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "We hired Friendly Remodeling for our master bedroom and bathroom remodel in our rental unit in Carlsbad, and working with Amit was an excellent experience. From the initial planning to the final walkthrough, He was most responsive which is \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Ava Lamison",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Thank you to the Friendly Remodeling crew for a beautiful bathroom remodel. We are extremely happy and cannot wait to do another remodel with you in the future. From the beginning, we found Amit to be the best team for us. He listened to \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "amit.netzer@yahoo.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:amit.netzer@yahoo.com",
+    "page": "https://friendly-remodeling.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/people/Friendly-Remodeling/100063559451898/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/friendly_remodeling"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 3,
+   "bath": 3,
+   "roof": 3,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 3,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 33",
+   "gallery images over 1MB each: https://friendly-remodeling.com/uploads/modern-home.jpg = 1,037,048 bytes; https://friendly-remodeling.com/uploads/s3.jpg = 1,338,994 bytes; https://friendly-re"
+  ],
+  "competitor_pool": [
+   {
+    "name": "AHI Restoration",
+    "url": "https://ahirestoration.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Fausto Construction Inc.",
+    "url": "https://faustoconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Gloria Construction Inc",
+    "url": "https://gloriaconstructioninc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Chula Vista, CA"
+  ]
+ },
+ {
+  "id": "prolifeconstruction.com",
+  "name": "Pro Life Construction INC",
+  "region": "R5",
+  "website": "https://prolifeconstruction.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://prolifeconstruction.com/"
+   ],
+   "contact": [
+    "https://prolifeconstruction.com/contact-us/",
+    "https://prolifeconstruction.com/contact-us/"
+   ],
+   "about": [
+    "https://prolifeconstruction.com/about-us/",
+    "https://prolifeconstruction.com/about-us/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-30",
+    "url": "https://prolifeconstruction.com/blog/sacramento-deck-repair-vs-rebuild/",
+    "quote": "wp-json/posts published 2026-09-30T14:53:41: 'Sacramento Deck Repair vs Rebuild: What to Check First'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXJIRijZmoARjI1ZcTEcBGo&hl=en",
+  "gbp_title": "Pro Life Construction INC",
+  "gbp_address": "\ue0c8\n4300 Fell St, Sacramento, CA 95838, United States",
+  "gbp_rating": "4.8\n(28)",
+  "gbp_phone": "phone:tel:+19162006617",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Ian Latta",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "Thank you to Paul and Vitaly for building us a beautiful kitchen in record time! Our renovation was huge, but they got the job done so quickly and so beautifully. They were very attentive to detail, and made sure we got exactly what we wanted. We love our new kitchen so much! Do not hesitate to use these guys.",
+    "owner": "Response from the owner 6 months ago\nThank you so much, lan Latta, for your kind words and for trusting us with such a big kitchen renovation. We truly appreciate your support and are very happy to hear you are pleased with the result. It was a pleasure working with you, and we\u2019re always here if you need anything in  future."
+   },
+   {
+    "reviewer": "Behnam Noorizadeh",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "They did an amazing job installing the ikea kitchen cabinets. Very professional and quick. Highly recommend them.",
+    "owner": "Response from the owner 3 months ago\nThank you so much for your wonderful review and kind words! We\u2019re very happy to hear that you\u2019re satisfied with your IKEA kitchen cabinet installation. It was a pleasure working with you, and we truly appreciate your recommendation and trust in our team!"
+   },
+   {
+    "reviewer": "Jackie Kang Bousquin",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Pavlo and serge did a great job with our ikea kitchen installation. What would have taken us 3 weeks and a lot of fighting, they did in 1 day! Good attention to detail and precise fitting. Seeing how they worked with an ikea kitchen, I\u2019m \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much for your kind review! It was a pleasure working with you, and we truly appreciate your support. Enjoy your new kitchen!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "prolifeconstruction2025@gmail.com",
+    "how": "plain text",
+    "raw": "prolifeconstruction2025@gmail.com",
+    "page": "https://prolifeconstruction.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 18,
+   "bath": 5,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 4,
+   "siding": 4,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 38"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Best of Remodel",
+    "url": "https://bestofremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Blue Heaven Constructions",
+    "url": "https://www.blueheavenconstructions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Capital Construction",
+    "url": "https://capitalconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "D & J Kitchens & Baths",
+    "url": "https://djkitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "America's Dream HomeWorks",
+    "url": "https://www.dreamhomeworks.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JB Hammond Co.",
+    "url": "https://www.jbhammondco.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Sacramento, CA"
+  ]
+ }
+]
