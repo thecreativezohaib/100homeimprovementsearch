@@ -10,8 +10,8 @@ evidence, and each gate-critical claim is in `evidence.csv`.
   else failing except G8 (`output/review_requests/`, gathered with Gemini). 21 showed a review on or after
   2026-07-16. After PSI, agent verification, the photo review and template capture, 4 of those 21 pass: MJ Kitchen
   & Bath, Renovating KC, Gayler Design Build and S&W Kitchens.
-- **These 4 rely on a review date I did not open myself.** `evidence.csv` labels each such row in `source_note`.
-  Before outreach, open those 4 Maps links while signed in and confirm the newest review date.
+- These 4 rely on a review date I did not open myself. You confirmed on 2026-10-17, signed in to Google, that all 4
+  show a recent review. `evidence.csv` records this in `source_note`.
 
 ## Counts
 | | |
