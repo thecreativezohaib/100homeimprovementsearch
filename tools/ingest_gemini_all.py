@@ -15,7 +15,7 @@ from decide import jl, D  # noqa: E402
 ISO = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 firms = {r["row"]: r for r in csv.DictReader(open("/home/user/100homeimprovementsearch/output/review_requests/all/firms.csv"))}
 site = {}
-for f in ("site", "site_b", "site_c", "site_render"):
+for f in ("site", "site_b", "site_c", "site_d", "site_render"):
     for x in jl(f"{D}/{f}.jsonl"):
         site[x["id"]] = x
 

@@ -46,7 +46,7 @@ USER_SOCIAL, USER_JOBS, USER_HINTS = {}, {}, {}
 
 def load():
     ledger = {x["id"]: x for x in jl(f"{D}/ledger.jsonl")}
-    site = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl") + jl(f"{D}/site_c.jsonl")}
+    site = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl") + jl(f"{D}/site_c.jsonl") + jl(f"{D}/site_d.jsonl")}
     for x in jl(f"{D}/site_render.jsonl"):
         orig = site.get(x["id"], {})
         if x.get("g2") == "PASS":
