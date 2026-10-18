@@ -1,0 +1,680 @@
+[
+ {
+  "id": "overlandremodeling.com",
+  "name": "Overland Remodeling and Builders",
+  "region": "R5",
+  "website": "https://overlandremodeling.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://overlandremodeling.com/"
+   ],
+   "contact": [
+    "https://overlandremodeling.com/contact"
+   ],
+   "about": [
+    "https://overlandremodeling.com/about"
+   ],
+   "gallery": [
+    "https://overlandremodeling.com/kitchens-gallery",
+    "https://overlandremodeling.com/bathrooms-gallery"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-08-02",
+    "url": "https://www.pinterest.com/pin/455778424814397886/",
+    "quote": "Pinterest profile https://www.pinterest.com/OverlandRemodel/ post: 'Our Mar Vista Kitchen remodel from start to finish #kitchenremodel #beforeandafter #marvista'",
+    "method": "Pinterest profile RSS https://www.pinterest.com/OverlandRemodel/feed.rss <pubDate>"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-oH_SQ23YAR91eEPrVH1zQ&hl=en",
+  "gbp_title": "Overland Remodeling and Builders",
+  "gbp_address": "\ue0c8\n10880 Wilshire Blvd Suite 1101 - #3201, Los Angeles, CA 90024, United States",
+  "gbp_rating": "4.9\n(31)",
+  "gbp_phone": "phone:tel:+18664245184",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Evelyn Cover",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "I\u2019ve worked with Shahar and his team on three projects now. They\u2019ll done a wonderful job every time. The times I was unsure about what options to choose, whether which hardwood floors to go with or what stucco to add to the exterior, he\u2019s \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Colby Moss",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Shahar remodeled our master bathroom after we became first-time homeowners and needed to repair major damage that made it inoperable. He was the perfect combination of knowledgeable, helpful, open and patient that novice renovators like us \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Jen Weiser",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "I had a great experience working with this contractor. From the start, Shahar took the time to really understand the problem I was dealing with and helped me figure out the best possible solution rather than just pushing the easiest or most \u2026",
+    "owner": "Response from the owner 6 months ago\nThank you Jen for your review. Hope to be of service again in the future."
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://overlandremodeling.com/",
+    "snippet": "Founder \u00b7 Licensed General Contractor \u00b7 Overland Remodeling & Builders"
+   },
+   {
+    "page": "https://overlandremodeling.com/about",
+    "snippet": "Founder \u00b7 Licensed General Contractor \u00b7 Overland Remodeling and Builders"
+   },
+   {
+    "page": "https://overlandremodeling.com/about",
+    "snippet": "\u2014 Shahar Giladi \u00b7 Founder, Overland Remodeling and Builders"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://facebook.com/overlandremodeling/",
+   "https://www.facebook.com/overlandremodeling/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/overlandremodeling"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 17,
+   "bath": 17,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 51"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Los Angeles Remodeling & Development",
+    "url": "https://26remodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "AP Remodeling Inc.",
+    "url": "https://www.apremodelinginc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Green American Builders",
+    "url": "https://greenamericanbuilders.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "GreenWise Builders",
+    "url": "https://greenwisebuilders.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "MDM Custom Remodeling Inc",
+    "url": "https://mdmcustomremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "My Choice Bathroom Remodeling",
+    "url": "https://mychoicebathroom.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Culver City, CA"
+  ]
+ },
+ {
+  "id": "pacificprogroup.com",
+  "name": "Pacific Pro Group",
+  "region": "R5",
+  "website": "https://pacificprogroup.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://pacificprogroup.com/"
+   ],
+   "about": [
+    "https://pacificprogroup.com/"
+   ],
+   "gallery": [
+    "https://pacificprogroup.com/portfolio/"
+   ],
+   "legal": [
+    "https://pacificprogroup.com/privacy-policy/",
+    "https://pacificprogroup.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-10-14",
+    "url": "https://www.pinterest.com/pin/972636850802481040/",
+    "quote": "Pinterest profile https://www.pinterest.com/pacificprogroup/ post: 'The best moment of any build isn\u2019t the final walkthrough, it\u2019s the'",
+    "method": "Pinterest profile RSS https://www.pinterest.com/pacificprogroup/feed.rss <pubDate>"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-9uWTX9FG8R9G4sJQQKQJo&hl=en",
+  "gbp_title": "Pacific Pro Group",
+  "gbp_address": "\ue0c8\n144 Railroad Ave #307, Edmonds, WA 98020, United States",
+  "gbp_rating": "5.0\n(74)",
+  "gbp_phone": "phone:tel:+12064465656",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Marcus Finney",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Mila and Alex and the crew are incredible. Professional, punctual, on your side, and kept importantly experts at what they do. My wife and I had a basement sewage back up and had been out of luck with a few vendors we tried before a \u2026",
+    "owner": "Response from the owner 4 months ago\nHi Marcus, \nThank you so much for this incredible review! Mila, Alex, and the entire crew are absolutely thrilled to read your kind words. Dealing with a basement sewage \u2026 More"
+   },
+   {
+    "reviewer": "Serhii Hubenia",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "Pacific Pro Group did a great job on our home addition where we added a bathroom. The work was done professionally, the process was smooth, and everything came out exactly how we wanted. The team was easy to work with and kept things moving from start to finish. We\u2019re very happy with the results and would recommend them.",
+    "owner": "Response from the owner 9 months ago\nHi Serhii, \nWe\u2019re really happy to hear that your bathroom addition turned out exactly as you envisioned and that the process felt smooth along the way. Our team enjoyed working on your project, and we appreciate the recommendation."
+   },
+   {
+    "reviewer": "Barbara Swanson",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "I hired Pacific Pro Group for a complete remodel.  They took the house down to the floor and created a totally new house to showcase the view.  They provided a clear plan and calendar and kept me informed throughout the project.  They \u2026",
+    "owner": "Response from the owner 10 months ago\nHi Barbara, \nThank you for sharing your experience! We're glad to have been a part of your project, and we're excited to begin the next phase of the project with you."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "admin@pacificprogroup.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:admin@pacificprogroup.com",
+    "page": "https://pacificprogroup.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/61586597330261/",
+   "https://www.facebook.com/people/Pacific-Pro-Group/61586597330261/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/pacific_pro_group",
+   "https://www.instagram.com/pacificprogroup"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 13,
+   "bath": 13,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 52"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Hillcrest Renovation, LLC",
+    "url": "https://hillcrestren.com/home",
+    "gbp_address": null
+   },
+   {
+    "name": "Johnson And Sons Construction LLC",
+    "url": "https://jasconst.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JL Remodeling, Inc.",
+    "url": "https://jlremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "MacCoy Home Solutions",
+    "url": "https://maccoyhomesolutions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Northwest Home Pros",
+    "url": "https://www.northwesthomepros.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Pro Remodeling LLC",
+    "url": "https://proremodelingsea.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Edmonds, WA"
+  ]
+ },
+ {
+  "id": "projat.com",
+  "name": "Projat Solutions",
+  "region": "R5",
+  "website": "https://projat.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://projat.com/"
+   ],
+   "contact": [
+    "https://projat.com/contact-us/",
+    "https://projat.com/contact-us/"
+   ],
+   "about": [
+    "https://projat.com/bathroom-renovation-timeline-contra-costa-county/"
+   ],
+   "gallery": [
+    "https://projat.com/portfolio/",
+    "https://projat.com/portfolio/kitchen-upgrade/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-08-21",
+    "url": "https://projat.com/bathroom-renovation-timeline-contra-costa-county/",
+    "quote": "wp-json/posts published 2026-08-21T12:55:31: 'Bathroom Renovation Timeline in Contra Costa County: What Homeowners Should Expe'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwSEltZlhYARPpt_8ppcLEI&hl=en",
+  "gbp_title": "Projat Solutions",
+  "gbp_address": "\ue0c8\n2131 Knollwood Dr, Martinez, CA 94553, United States",
+  "gbp_rating": "4.8\n(18)",
+  "gbp_phone": "phone:tel:+19258003636",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Nirmit Shah",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "I had emergency chimney siding damage and needed to redo the siding for the entire chimney. Prithvi and the team did an excellent job from start to finish. I would highly recommend their services.",
+    "owner": null
+   },
+   {
+    "reviewer": "Armaan Deol",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "I worked with Projat Solutions to upgrade my old kitchen. I told them I wanted a simplistic modern design which fits the theme of the rest of my home, and they carried out the work exactly how I wanted it. Highly recommend this contractor!",
+    "owner": null
+   },
+   {
+    "reviewer": "Rachael Macek",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Projat Solutions did an excellent job on this remodel. Their attention to detail really shows in the clean finishes and overall quality of the work. They were professional, efficient, and kept the project moving smoothly. I\u2019m very happy with how everything turned out.",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@projat.com",
+    "how": "plain text",
+    "raw": "info@projat.com",
+    "page": "https://projat.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/ProjatSolutions"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/projatsolutions"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 13,
+   "bath": 14,
+   "roof": 0,
+   "plumb": 5,
+   "hvac": 0,
+   "handyman": 2,
+   "floor": 1,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 58",
+   "gallery images over 1MB each: https://projat.com/wp-content/uploads/2026/04/ChatGPT-Image-Aug-21-2026-06_03_24-PM-1024x1024.png = 1,031,583 bytes; https://projat.com/wp-content/uploads/2026/"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Golden Heights Remodeling",
+    "url": "https://goldenheightsremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Green Bay Remodeling, Inc. HQ",
+    "url": "https://www.greenbayremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Quality Remodeling",
+    "url": "https://homequalityremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ingenious General Construction",
+    "url": "https://www.ingeniousgeneralconstructionca.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Solutions, Inc.",
+    "url": "https://www.kitchensolutionsca.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Martinez Builder Construction",
+    "url": "https://www.martinezbuilderconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Martinez, CA"
+  ]
+ },
+ {
+  "id": "socalbathworks.com",
+  "name": "SOCAL BATH WORKS",
+  "region": "R5",
+  "website": "https://socalbathworks.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://socalbathworks.com/"
+   ],
+   "contact": [
+    "https://socalbathworks.com/contact/"
+   ],
+   "about": [
+    "https://socalbathworks.com/about/"
+   ],
+   "gallery": [
+    "https://socalbathworks.com/portfolio/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-28",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJqcv0EdTp3IAR0a_Vb-ewGdA&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "After an exhaustive process to find a reasonably priced yet top notch company"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcv0EdTp3IAR0a_Vb-ewGdA&hl=en",
+  "gbp_title": "SOCAL BATH WORKS",
+  "gbp_address": "\ue0c8\n24001 Via Fabricante #1005, Mission Viejo, CA 92691, United States",
+  "gbp_rating": "5.0\n(24)",
+  "gbp_phone": "phone:tel:+19495199560",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "cindy j",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "SoCal Bath Works remodeled our 40? year old bathroom. Now the bathroom is so beautiful...it is surreal. \u2028The guys who did the tile were incredible. The job took longer than anticipated, there were changes that added to the time. Any issues \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Eleonora Serra",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "SoCal Bath has done an amazing job with all of my remodeling projects, they do it all, from flooring to bathrooms to kitchens. I have yet to find anyone that can beat their price and that doesn\u2019t flake. I honestly can\u2019t wait to do another \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Eric Hendry",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Gabriel and his team did a full kitchen remodel on my home that included  a wall removal and a beam. Gabriel was extremely helpful with design and layout and my kitchen looks like a model home. With this remodel we had our stairs redone and \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@socalbathworks.info",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@socalbathworks.info",
+    "page": "https://socalbathworks.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 40,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://socalbathworks.com/wp-content/uploads/2024/01/orange-county-bathroom-remodeling-5.jpg = 1,253,560 bytes (HTTP Content-Length); https://socalbathworks.co"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Elite Living Construction",
+    "url": "https://elitelivingconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "KBF Remodeling",
+    "url": "https://www.kbfremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Luxe Remodeling",
+    "url": "https://www.luxeremodelings.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "New Horizon Repair Services",
+    "url": "https://newhorizonrepairservices.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Orange Design Builds",
+    "url": "https://www.orangedesignbuilds.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ruhi Construction - Bathroom and Kitchen Remodeling",
+    "url": "https://ruhiconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Aliso Viejo, CA",
+   "Irvine, CA",
+   "Lake Forest, CA",
+   "Mission Viejo, CA",
+   "Rancho Santa Margarita, CA"
+  ]
+ },
+ {
+  "id": "vertexdevelopersinc.com",
+  "name": "Vertex Developers Inc.",
+  "region": "R5",
+  "website": "https://www.vertexdevelopersinc.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.vertexdevelopersinc.com/"
+   ],
+   "about": [
+    "https://www.vertexdevelopersinc.com/about-us/"
+   ],
+   "gallery": [
+    "https://www.vertexdevelopersinc.com/recent-work/"
+   ],
+   "legal": [
+    "https://www.vertexdevelopersinc.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-30",
+    "url": "https://www.vertexdevelopersinc.com/adus/building-permit-requirements/",
+    "quote": "wp-json/posts published 2026-09-30T12:24:49: 'Do You Need a Permit to Build an ADU? (California ADU Permit Guide)'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80wal8O7woARt-GoI9JOo6A&hl=en",
+  "gbp_title": "Vertex Developers Inc.",
+  "gbp_address": "\ue0c8\n11122 Washington Blvd, Culver City, CA 90232, United States",
+  "gbp_rating": "5.0\n(46)",
+  "gbp_phone": "phone:tel:+14246674385",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Ariel Albornoz",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Vertex did a great job on our bathroom remodel. We love the results and would definitely recommend if you want high quality work and reasonable prices. Ben was amazing and very responsive throughout the entire project.",
+    "owner": "Response from the owner 6 months ago\nMr Albornoz \nIt was our pleasure to work with you .\nThanks for your trust and kind words ."
+   },
+   {
+    "reviewer": "Robert Starkman",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We hired Vertex Developers to remodel our powder room. We obtained 3 qualified bids before hiring Vertex. We are 100% satisfied with the work performed. Oren provided excellent communications and listened carefully. His construction \u2026",
+    "owner": "Response from the owner a year ago\nThank you very much Robert!!!\n\nIt was a pleasure working with you! \u2026 More"
+   },
+   {
+    "reviewer": "Labone K",
+    "when": "Edited 6 months ago",
+    "stars": "5 stars",
+    "text": "Exceptional Experience with Vertex\nAfter months of searching for a reliable contractor for our bathroom project, we were so relieved and happy to have found Vertex. Their professionalism and \u2026",
+    "owner": "Response from the owner 6 months ago\nThank you Very Much Labone! It was a pleasure working with you."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "contact@vertex.la",
+    "how": "mailto",
+    "raw": "href=\"mailto:contact@vertex.la",
+    "page": "https://www.vertexdevelopersinc.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.vertexdevelopersinc.com/about-us/",
+    "snippet": "Founder & CEO Vertex Developers"
+   },
+   {
+    "page": "https://www.vertexdevelopersinc.com/about-us/",
+    "snippet": "As a result of the founder\u2019s many years in real estate development, we\u2019ve created a streamlined process that produces finished projects that go be"
+   }
+  ],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 7,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 4
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 57"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Los Angeles Remodeling & Development",
+    "url": "https://26remodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "AP Remodeling Inc.",
+    "url": "https://www.apremodelinginc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Green American Builders",
+    "url": "https://greenamericanbuilders.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "GreenWise Builders",
+    "url": "https://greenwisebuilders.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "MDM Custom Remodeling Inc",
+    "url": "https://mdmcustomremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "My Choice Bathroom Remodeling",
+    "url": "https://mychoicebathroom.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Culver City, CA"
+  ]
+ }
+]

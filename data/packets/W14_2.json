@@ -1,0 +1,967 @@
+[
+ {
+  "id": "kitchenkrafter.com",
+  "name": "Kitchen Krafter",
+  "region": "R1",
+  "website": "https://www.kitchenkrafter.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.kitchenkrafter.com/"
+   ],
+   "contact": [
+    "https://www.kitchenkrafter.com/contact.html"
+   ],
+   "about": [
+    "https://www.kitchenkrafter.com/about.html"
+   ],
+   "gallery": [
+    "https://www.kitchenkrafter.com/projects.html"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-08-27",
+    "url": "https://www.linkedin.com/posts/kitchen-krafter_kitchen-krafter-luxury-kitchen-bath-design-activity-7498753497920618496-MkZy",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/kitchen-krafter/ post: 'Please check our newly revamped website www.kitchenkrafter.com for all your residential &'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Q4SrboowokRbS0JZdt92g4&hl=en",
+  "gbp_title": "Kitchen Krafter",
+  "gbp_address": "\ue0c8\n3421 Sunset Ave, Ocean Township, NJ 07712, United States",
+  "gbp_rating": "4.9\n(33)",
+  "gbp_phone": "phone:tel:+17326956111",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Emily Sonntag",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "We had an amazing experience with our kitchen remodel! From start to finish, Lisa was professional, responsive, and incredibly detail-oriented. She helped bring our vision to life and made the whole process feel easy and stress-free. We would absolutely recommend them to anyone looking to remodel.",
+    "owner": null
+   },
+   {
+    "reviewer": "Thomas Bomboy",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "Lisa and David at Kitchen Krafters were a pleasure to work with . George & Son at Upright Renovation did an outstanding job bringing Lisa's creative design to fruition.  Both were faced with the challenges posed by a circa 1880's house and \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Johan Singh",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "Lisa, David, and Jamie were incredible to work with from start to finish.  We gave Lisa a challenging space to work with, and the final product was beyond what we imagined.  She worked within the budget and provided quality support, even for things outside of her scope.  I do think she worked magic!  Recommend all the way.",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/KitchenKrafterNJ/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/kitchen_krafter"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 93,
+   "bath": 14,
+   "roof": 2,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 27,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 397px, i.e. 22px wider than the screen; elements past the right edge: ['DIV.drawer-top right=774',"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Alfano Renovations",
+    "url": "https://www.alfanorenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Atlantic Home Remodeling",
+    "url": "https://atlantichomeremodelingnj.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Beautiful Bathrooms & more...",
+    "url": "https://beautifulbathroomsnj.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "F&J Quality Handyman & Construction",
+    "url": "https://www.fjqualityhandyman.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Good Life Kitchen and Bath Renovation",
+    "url": "https://www.goodliferenovation.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "My Soho Design",
+    "url": "https://mysohokitchencabinets.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Tinton Falls, NJ"
+  ]
+ },
+ {
+  "id": "njrbathrooms.com",
+  "name": "NJR Bathrooms",
+  "region": "R1",
+  "website": "https://njrbathrooms.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://njrbathrooms.com/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJVYb41QeM8EcRSNWnXXeRD3s&hl=en",
+    "quote": "Brandon: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYb41QeM8EcRSNWnXXeRD3s&hl=en",
+  "gbp_title": "NJR Bathrooms",
+  "gbp_address": null,
+  "gbp_rating": "4.8\n(26)",
+  "gbp_phone": "phone:tel:+16038920420",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Brandon",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "We couldn\u2019t be happier with the work Nilmar and his team did. We hired NJR for a very complicated master bathroom/closet/ bedroom renovation (everything from joist and framing work new copper etc.) I\u2019m extremely detail-oriented and had a \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Sam Pazhanisamy",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Fantastic fully updated bathroom (July 2025) - Nilmar updated our entire bathroom by expanding the walk-in shower area with a nice multi-functional shower system, installed new tiles inside and outside shower, and replaced the entire sink \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Christine Theriault",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "I am so happy with the results from Nilmar and his team from NJR Bathrooms.  They did a shower for us, and then a kitchen backsplash.  The backsplash tile was a mosaic pattern, and even the counter installers were impressed with the job.  I recommend them, and will use them again for more projects if we have the opportunity.",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 26,
+   "roof": 0,
+   "plumb": 4,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 49"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Centurion Construction",
+    "url": "https://www.centurionconstruction.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dream Kitchens & Baths by Nelson, Inc.",
+    "url": "https://www.dreamkitchens.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "J.Stone and Company, INC",
+    "url": "https://jstoneandco.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchens Plus Flooring",
+    "url": "https://www.kitchensplusflooring.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Nordic Hammer Home Renovations",
+    "url": "https://www.nordichammerhome.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Premier Home Renovations LLC",
+    "url": "https://premier-homerenovations.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Gardner, MA"
+  ]
+ },
+ {
+  "id": "olinchyconstructionservices.com",
+  "name": "O'Linchy Construction Services LLC - New Castle, PA",
+  "region": "R1",
+  "website": "https://olinchyconstructionservices.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://olinchyconstructionservices.com/"
+   ],
+   "contact": [
+    "https://olinchyconstructionservices.com/contact-us/"
+   ],
+   "about": [
+    "https://olinchyconstructionservices.com/about-us/"
+   ],
+   "gallery": [
+    "https://olinchyconstructionservices.com/gallery/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-08",
+    "url": "https://olinchyconstructionservices.com/home-addition-planning-new-castle-pa/",
+    "quote": "wp-json/posts published 2026-09-08T09:40:32: 'Planning a Home Addition: What to Know Before You Build'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJPywxR_7AM4gRvU5ATJPmNSY&hl=en",
+  "gbp_title": "O'Linchy Construction Services LLC - New Castle, PA",
+  "gbp_address": "\ue0c8\n3699 State Rd, New Castle, PA 16101, United States",
+  "gbp_rating": "4.6\n(29)",
+  "gbp_phone": "phone:tel:+17249017044",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Cody Lyons",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Ben and his team are top notch contractors. I had them build a 24x30 two car attached garage and a 30' retaining wall. They exceeded my expectations and did not cut any corners. Everyone associated with O'Linchy was professional, respectful and thorough throughout the project. I'd highly recommend for your next project!",
+    "owner": "Response from the owner 9 months ago\nThank you for your review. We appreciate the business. "
+   },
+   {
+    "reviewer": "SALLY PALKOVICH",
+    "when": "Edited 2 years ago",
+    "stars": "5 stars",
+    "text": "In August 2022, my husband and I contacted Ben O'Linchy Construction Services, to get some ideas on covering our large upper deck.  Being an open deck, we never used it because the weather was too hot and sunny.  Plus, we were tired of \u2026",
+    "owner": "Response from the owner 2 years ago\nSally, thank you so much for taking the time to leave us a review. It was a pleasure completing your project. I look forward to working with you again in the future. "
+   },
+   {
+    "reviewer": "Tina Fenrick",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "I am writing to express my sincere appreciation for the fantastic service provided by O\u2019Linchy\u2019s Construction Service, LLC. I was very impressed with the experience and wanted to share my positive feedback. \u2026",
+    "owner": "Response from the owner 4 months ago\nThank you so much for the amazing feedback! We absolutely loved taking on your garage-to-office conversion and getting the plumbing and layout exactly right for your fleet detailing. We always aim to be that stress-free, one-stop shop general contractor, so we're just thrilled we could exceed your expectations!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "ben@olinchyconstructionservices.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "c8aaada688a7a4a1a6aba0b1aba7a6bbbcbabdabbca1a7a6bbadbabea1abadbbe6aba7a5",
+    "page": "https://olinchyconstructionservices.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [
+   "https://www.instagram.com/olinchy_llc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 4,
+   "roof": 2,
+   "plumb": 0,
+   "hvac": 3,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 4,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 4
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 391px, i.e. 16px wider than the screen; elements past the right edge: ['DIV.slick-track right=1740"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Divine Tubs LLC",
+    "url": "https://www.divinetubsinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Down Home Contracting",
+    "url": "https://downhomecontracting.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Team Home Improvements",
+    "url": "https://gowithhometeam.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Precison Cabinets Countertops N More",
+    "url": "https://www.precisioncabinetspa.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Premier Kitchens & Baths LLC",
+    "url": "https://www.premierkbllc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "New Castle, PA"
+  ]
+ },
+ {
+  "id": "schluter.com",
+  "name": "Schluter Systems",
+  "region": "R1",
+  "website": "https://www.schluter.com/schluter-us/en_US/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.schluter.com/schluter-us/en_US/"
+   ],
+   "contact": [
+    "https://www.schluter.com/schluter-us/en_US/contact"
+   ],
+   "about": [
+    "https://www.schluter.com/schluter-us/en_US/showers/residential_steam_showers",
+    "https://www.schluter.com/schluter-us/en_US/showers/commercial_steam_showers"
+   ],
+   "gallery": [
+    "https://www.schluter.com/schluter-us/en_US/projects"
+   ],
+   "legal": [
+    "https://www.schluter.com/schluter-us/en_US/terms"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-10-13",
+    "url": "https://www.linkedin.com/posts/schluter-systems_schlutersystems-trendline-tiledesign-activity-7515735658158616576-bUNw",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/schluter-systems/ post: 'Bring both function and design to your next project with shelves in'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0Etbx9HykwR9TG2LEZjYA4&hl=en",
+  "gbp_title": "Schluter Systems",
+  "gbp_address": "\ue0c8\n194 Pleasant Ridge Rd, Plattsburgh, NY 12901, United States",
+  "gbp_rating": "4.1\n(48)",
+  "gbp_phone": "phone:tel:+18884724588",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "John Babcock",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "Great group working the office and shipping dock. Picked up on a Friday around 11am and was in and out in less than one hour. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "The Way",
+    "when": "3 years ago",
+    "stars": "4 stars",
+    "text": "[1st Visit, Pickup, DEC 01, 2022]\n(Appointment 17:00 / arrival 16:00 / door 17:00 / departure 18:00)\nkeep going through under bridge \u2014-> \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "King \u201cVincenzo the trucker\u201d Love",
+    "when": "2 years ago",
+    "stars": "4 stars",
+    "text": "Truckers if you have to come here to 194 pleasant ridge the shipping n receiving entrance in down the road towards trailers and if you need the shipping n receiving office go straight down the driveway n then bear left u will come up a \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/schlutersystems"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/schlutersystemsna"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 2,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 46",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 383px, i.e. 8px wider than the screen; elements past the right edge: ['DIV.slick-track right=1695'"
+  ],
+  "competitor_pool": [
+   {
+    "name": "F.W. Webb Company - Rutland",
+    "url": "https://www.fwwebb.com/locations/branch.php?st=VT&city=Rutland",
+    "gbp_address": null
+   },
+   {
+    "name": "Red Maple Painting",
+    "url": "https://redmaplepainting.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "VP Supply Corp",
+    "url": "https://www.vpsupply.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Plattsburgh, NY"
+  ]
+ },
+ {
+  "id": "stevenmiele.com",
+  "name": "Steven Miele, LLC - Residential Remodeling",
+  "region": "R1",
+  "website": "https://stevenmiele.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://stevenmiele.com/"
+   ],
+   "contact": [
+    "https://stevenmiele.com/contact/",
+    "https://stevenmiele.com/contact/"
+   ],
+   "about": [
+    "https://stevenmiele.com/about-us/"
+   ],
+   "gallery": [
+    "https://stevenmiele.com/portfolio/",
+    "https://stevenmiele.com/video-portfolio-2/"
+   ],
+   "legal": [
+    "https://stevenmiele.com/privacy-policy/",
+    "https://stevenmiele.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJv4mEzREvwokRzBFgs19DC7Y&hl=en",
+    "quote": "Margaret Callahan: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4mEzREvwokRzBFgs19DC7Y&hl=en",
+  "gbp_title": "Steven Miele, LLC - Residential Remodeling",
+  "gbp_address": "\ue0c8\n5 Surrey Ln, Eatontown, NJ 07724, United States",
+  "gbp_rating": "5.0\n(13)",
+  "gbp_phone": "phone:tel:+17326930138",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Allison Wrede",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Steve Miele completed a two story addition and kitchen renovation to our house. Both projects were done professionally and within the projected timeframe. Steve was always available to answer any of our questions. His team were hard working \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Linda Ensor",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "It's hard to find the right words to express what a remarkable job Steven Miele and his team did for us. My husband and I waited more that thirty years to renovate the front section of our house, and we are lucky to have found this amazing \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Margaret Callahan",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "I had my bathroom completely remodeled and the results were beautiful. Steve and his crew were very responsive to any questions or concerns I had during the process. The quality of their work is exceptional. The recessed niche in the shower \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/homeprojectmanagement/"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 8,
+   "bath": 7,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://stevenmiele.com/wp-content/uploads/2016/12/JUNDEF-028-PS.png = 1,444,224 bytes; https://stevenmiele.com/wp-content/uploads/2023/10/Screenshot-2023-10-04"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Alfano Renovations",
+    "url": "https://www.alfanorenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Atlantic Home Remodeling",
+    "url": "https://atlantichomeremodelingnj.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Beautiful Bathrooms & more...",
+    "url": "https://beautifulbathroomsnj.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "F&J Quality Handyman & Construction",
+    "url": "https://www.fjqualityhandyman.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Good Life Kitchen and Bath Renovation",
+    "url": "https://www.goodliferenovation.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "My Soho Design",
+    "url": "https://mysohokitchencabinets.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Tinton Falls, NJ"
+  ]
+ },
+ {
+  "id": "youngsimprovements.com",
+  "name": "Young's Home Improvements",
+  "region": "R1",
+  "website": "https://www.youngsimprovements.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Webflow"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.youngsimprovements.com/"
+   ],
+   "contact": [
+    "https://www.youngsimprovements.com/about-us"
+   ],
+   "gallery": [
+    "https://www.youngsimprovements.com/our-work"
+   ],
+   "legal": [
+    "https://www.youngsimprovements.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJgYTuNwkrykwRyCynxIxqC40&hl=en",
+    "quote": "Bunny Esposito: 'a month ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYTuNwkrykwRyCynxIxqC40&hl=en",
+  "gbp_title": "Young's Home Improvements",
+  "gbp_address": "\ue0c8\n9 East St, Mooers, NY 12958, United States",
+  "gbp_rating": "5.0\n(32)",
+  "gbp_phone": "phone:tel:+15183352648",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Bunny Esposito",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Stephen and his crew at Young\u2019s Home Improvement did an outstanding job on my new window replacements and sliding glass door in my family room.  It was a major project and they were professional and hard working. Everything was completed to \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Laurence Soroka",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "In addition to top quality work,  other aspects of their work  makes them our \u201cgo to\u201d team. After accepting their bid for a bathroom remodel, they gave us a start and end date.  They met both to the day. Not only were they timely, the final \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "champy champy",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Steve and his crew did an awesome job on my deck.  He was on time and on budget.  I would recommend Young's Home Improvements for any of your needs.  I've attached before and after photos.  It came out exactly how I had it pictured in my head.  Thank you, Steve.!",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "stephen@youngsimprovements.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:stephen@youngsimprovements.com",
+    "page": "https://www.youngsimprovements.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.youngsimprovements.com/about-us",
+    "snippet": "Young\u2019s Home Improvements is locally owned and operated by the Young family in"
+   },
+   {
+    "page": "https://www.youngsimprovements.com/about-us",
+    "snippet": "The owner and operator, Stephen, has a background in math"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/106864177587822/reviews"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 6,
+   "roof": 0,
+   "plumb": 12,
+   "hvac": 0,
+   "handyman": 1,
+   "floor": 1,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 57"
+  ],
+  "competitor_pool": [
+   {
+    "name": "F.W. Webb Company - Rutland",
+    "url": "https://www.fwwebb.com/locations/branch.php?st=VT&city=Rutland",
+    "gbp_address": null
+   },
+   {
+    "name": "Red Maple Painting",
+    "url": "https://redmaplepainting.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "VP Supply Corp",
+    "url": "https://www.vpsupply.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Plattsburgh, NY"
+  ]
+ },
+ {
+  "id": "aaaleaks.com",
+  "name": "A&A Leaks",
+  "region": "R2",
+  "website": "https://aaaleaks.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://aaaleaks.com/"
+   ],
+   "contact": [
+    "https://aaaleaks.com/contact-us/"
+   ],
+   "about": [
+    "https://aaaleaks.com/home-improvement-company/"
+   ],
+   "gallery": [
+    "https://aaaleaks.com/remodeling-projects/"
+   ],
+   "legal": [
+    "https://aaaleaks.com/privacy-policy/",
+    "https://aaaleaks.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJkc1ZzDRqAIkRQLPugkXDo7k&hl=en",
+    "quote": "Amy Rancourt: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJkc1ZzDRqAIkRQLPugkXDo7k&hl=en",
+  "gbp_title": "A&A Leaks",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(24)",
+  "gbp_phone": "phone:tel:+18436858768",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Amy Rancourt",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Tony and his crew are very professional and all around great company. He came to the job site daily and walked us through any questions or concerns we had.  They were always on time and the crew was so polite. Pictures do not do the craftsmanship justice.  Would highly recommend!",
+    "owner": "Response from the owner 2 months ago\nThank you so much have a blessed day. It was amazing working with you and your husband Jeff. He made us laugh every day."
+   },
+   {
+    "reviewer": "Marguerite MacIver",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "We\u2019re having 2 bathrooms remodeled by Anthony and his team of Juan and Mara.  This is our 1st experience where we\u2019ve picked out tiles, countertops, vanities and everything else bathroom related.  I can\u2019t speak highly enough of them all. \u2026",
+    "owner": "Response from the owner 6 months ago\nThank you so much. It is a pleasure working with you and Ken."
+   },
+   {
+    "reviewer": "Sarah McCutcheon",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Excellent workmanship, on time as scheduled, kept us up on what was going on at all times. Anthony made sure the job got done on time and got done right!!! Highly recommend!!!!",
+    "owner": "Response from the owner 3 months ago\nThank you so much it was a pleasure working with you and your husband. "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "aaaleaks@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:aaaleaks@gmail.com",
+    "page": "https://aaaleaks.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/aaaleaks/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/aaleaksllc_"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 21,
+   "bath": 28,
+   "roof": 0,
+   "plumb": 17,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 8,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 395px, i.e. 20px wider than the screen; elements past the right edge: ['LI.breakdance-menu-topbar "
+  ],
+  "competitor_pool": [
+   {
+    "name": "Elevated Solutions Construction",
+    "url": "https://www.elevatedsolutionsconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Surfside Remodeling | Bathroom & Kitchen Experts",
+    "url": "https://surfsideremodelingsc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "West Shore Home",
+    "url": "https://westshorehome.com/locations/hartford-ct/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Conway, SC"
+  ]
+ },
+ {
+  "id": "cci-florida.com",
+  "name": "Coastal Construction Inc",
+  "region": "R2",
+  "website": "https://cci-florida.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://cci-florida.com/"
+   ],
+   "contact": [
+    "https://cci-florida.com/contact-us/",
+    "https://cci-florida.com/contact-us/"
+   ],
+   "about": [
+    "https://cci-florida.com/about-us/",
+    "https://cci-florida.com/about-us/who-we-are/"
+   ],
+   "gallery": [
+    "https://cci-florida.com/gallery/"
+   ],
+   "legal": [
+    "https://cci-florida.com/privacy-policy/",
+    "https://cci-florida.com/privacy-policy/",
+    "https://cci-florida.com/terms-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-14",
+    "url": "https://cci-florida.com/how-can-new-commercial-construction-services-meet-your-business-needs/",
+    "quote": "wp-json/posts published 2026-09-14T01:32:45: 'How Can New Commercial Construction Services Meet Your Business Needs'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7w4_s4qGfgsRnmD0Fs2WLaU&hl=en",
+  "gbp_title": "Coastal Construction Inc",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(8)",
+  "gbp_phone": "phone:tel:+13862424228",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "BARBARA PETRILLO",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "Coastal Construction handled some renovations on our New Smyrna Beach. Townhouse.  Since we live in NY, all coordination was handled through long distance communication.  The owner, Mike, was a pleasure to deal with- providing continuous \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you for your kind review, Barbara! We are thrilled to hear that you had a great experience with our team at Coastal Construction Inc. We pride ourselves on providing excellent work, maintaining strong communication throughout the \u2026 More"
+   },
+   {
+    "reviewer": "Stephen McAleese",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "Coastal Construction Inc is a top notch Florida Certified Building Contractor with superb attention to details and customer\u2019s needs. I would hire Mike and his firm again in the future without question! His pricing was within the budget he \u2026",
+    "owner": "Response from the owner 3 years ago\nThank you so much for your kind words, Stephen! We're thrilled to hear that you had a great experience with Coastal Construction Inc. Our team takes pride in providing exceptional service and paying attention to every detail. We appreciate \u2026 More"
+   },
+   {
+    "reviewer": "Corey Chubon",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Mike and team are very professional and excellent at communicating scope of work, expectations, timing, etc.  They were prompt in completion of work that is excellent quality.  I\u2019m happy with the outcome, will use again in the future, and would recommend.",
+    "owner": "Response from the owner a year ago\nThank you so much for taking the time to leave us such a positive review, Corey! We look forward to working with you on your next project.  Thank you again for choosing Coastal Construction Inc - General Contractor in Central Florida!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@cci-florida.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@cci-florida.com",
+    "page": "https://cci-florida.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/CoastalConstructionInc/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/coastalconstructioninc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 3,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://cci-florida.com/wp-content/uploads/2025/01/EPA_Leadsafe_Logo_NAT-F281885-1.png = 1,013,193 bytes; https://cci-florida.com/wp-content/uploads/2025/01/EPA"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Florida Coast to Coast Construction",
+    "url": "https://floridacoasttocoastconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Result Cabinetry",
+    "url": "https://resultcabinetry.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "The Cabinet Dude",
+    "url": "https://www.thecabinetdude.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "New Smyrna Beach, FL"
+  ]
+ }
+]

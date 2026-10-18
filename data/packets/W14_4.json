@@ -1,0 +1,1109 @@
+[
+ {
+  "id": "kitchendepotus.com",
+  "name": "The Kitchen Depot",
+  "region": "R2",
+  "website": "https://www.kitchendepotus.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.kitchendepotus.com/"
+   ],
+   "about": [
+    "https://www.kitchendepotus.com/about"
+   ],
+   "gallery": [
+    "https://www.kitchendepotus.com/portfolio"
+   ],
+   "legal": [
+    "https://www.kitchendepotus.com/privacy",
+    "https://www.kitchendepotus.com/terms"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-25",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJW4FnfKNRw4gRTap8MRkkZRM&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "I want to thank Alex and the Kitchen Depot for an excellent job"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4FnfKNRw4gRTap8MRkkZRM&hl=en",
+  "gbp_title": "The Kitchen Depot",
+  "gbp_address": "\ue0c8\n1200 Jacaranda Blvd, Venice, FL 34292, United States",
+  "gbp_rating": "4.9\n(76)",
+  "gbp_phone": "phone:tel:+19414515294",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Robert A",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "Excellent experience with Kitchen Depot in Venice! We purchased our kitchen cabinets from Alex, and the entire process was smooth from start to finish. \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you very much! Appreciate it and glad we could provide you great service! \n"
+   },
+   {
+    "reviewer": "Nancy Szafranski",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "From the initial call to get an estimate the very next morning to the finished result of the cabinets, Alex was so impressive with his knowledge and professionalism. He communicated clearly and always in a timely manner. We are thrilled with the high quality, cabinet color and style selection.",
+    "owner": null
+   },
+   {
+    "reviewer": "Igor Novikov",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We recently worked with The Kitchen Depot, and I can confidently say it was an outstanding experience from start to finish! Alex, the owner, is incredibly professional, knowledgeable, and genuinely cares about delivering the kitchen of your \u2026",
+    "owner": "Response from the owner a year ago\nThank you! Was a pleasure. The kitchen looks great! Glad we can help."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@kitchendepotus.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@kitchendepotus.com",
+    "page": "https://www.kitchendepotus.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.kitchendepotus.com/about",
+    "snippet": "Our installs are handled in-house by the owner and family, which means the work is personal"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=61559488994764"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/the_kitchen_depot_us"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 44,
+   "bath": 11,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 30,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "dead phone or email link: tel: hrefs [] mailto: hrefs ['']"
+  ],
+  "competitor_pool": [
+   {
+    "name": "D&Y Remodeling",
+    "url": "https://www.dnyremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dan Rutkowski Construction",
+    "url": "https://www.drcvenice.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Florida Kitchen Remodel",
+    "url": "https://floridakitchenremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Florida Kitchens and Closets",
+    "url": "https://www.floridakitchensandclosets.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen and Bath on the Isle",
+    "url": "https://kbontheisle.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Total Houz Remodeling",
+    "url": "https://totalhouz.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Venice, FL"
+  ]
+ },
+ {
+  "id": "libertyhomesandbuilding.com",
+  "name": "Liberty Homes & Building",
+  "region": "R2",
+  "website": "https://www.libertyhomesandbuilding.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.libertyhomesandbuilding.com/"
+   ],
+   "contact": [
+    "https://www.libertyhomesandbuilding.com/contact-us/"
+   ],
+   "about": [
+    "https://www.libertyhomesandbuilding.com/floor-plan/copperwynd/",
+    "https://www.libertyhomesandbuilding.com/floor-plan/duval/"
+   ],
+   "gallery": [
+    "https://www.libertyhomesandbuilding.com/photo-gallery/"
+   ],
+   "legal": [
+    "https://www.libertyhomesandbuilding.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-13",
+    "url": "https://www.libertyhomesandbuilding.com/blog/rafters-vs-roof-trusses-why-liberty-homes-chooses-site-built-roof-framing/",
+    "quote": "wp-json/posts published 2026-10-13T09:25:53: 'Rafters vs. Roof Trusses: Why Liberty Homes Chooses Site-Built Roof Framing'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYhgjzYZqokR4Zlgw9k3a28&hl=en",
+  "gbp_title": "Liberty Homes & Building",
+  "gbp_address": "\ue0c8\n1107 New Pointe Blvd Ste 15 Ste 15, Leland, NC 28451, United States",
+  "gbp_rating": "5.0\n(100)",
+  "gbp_phone": "phone:tel:+19103972777",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Malik Willard",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Building our new home with Liberty Homes was truly an outstanding experience from start to finish. The entire team demonstrated professionalism, quality craftsmanship, and excellent customer service throughout the process. What could have \u2026",
+    "owner": "Response from the owner 4 months ago\nHi Malik, thank you so much for taking the time to share such an incredibly detailed and thoughtful 5-star review! \u2026 More"
+   },
+   {
+    "reviewer": "Dossandra Lazar",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Working with Liberty Homes has been an amazing experience from day one! Once we saw the quality and craftsmanship of their model home, the Copperwynd, we fell in love. We were very impressed with their willingness to make modifications in \u2026",
+    "owner": "Response from the owner 4 months ago\nHi Dossandra and Mike, thank you so much for taking the time to share such a beautiful and heartfelt 5-star review! \u2026 More"
+   },
+   {
+    "reviewer": "K Gro",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Liberty Homes only gets 5 stars because that\u2019s as high as Google will let me. They built our home for us and every step of the way we were informed and involved. From our first meeting with Jim, who really listened to what we wanted and \u2026",
+    "owner": "Response from the owner 5 months ago\nJim, our design team, and Adrian will all be thrilled to hear this. Our goal is always to listen well, communicate clearly, and help guide our clients through the process with honesty and care. \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "hello@libertyhomesandbuilding.com",
+    "how": "plain text",
+    "raw": "hello@libertyhomesandbuilding.com",
+    "page": "https://www.libertyhomesandbuilding.com/privacy-policy/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Biscayne III"
+   },
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Palmetto II"
+   },
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Summerlyn"
+   },
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Palmetto"
+   },
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Summerlyn"
+   },
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Summerlyn"
+   },
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Palmetto"
+   },
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Summerlyn"
+   },
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Biscayne III"
+   },
+   {
+    "page": "https://www.libertyhomesandbuilding.com/",
+    "snippet": "Happy Owner of Summerlyn"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/LibertyHomesandBuilding",
+   "https://www.facebook.com/LibertyHomesandBuilding/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/libertyhomesandbuildingnc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 39,
+   "roof": 4,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 6
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 47",
+   "dead phone or email link: tel: hrefs [] mailto: hrefs ['?subject=Contact%20Us&#038;body=https%3A%2F%2Fwww.libertyhomesandbuilding.com%2Fcontact-us%2F', '?subject=Copperwynd&#038;body=htt"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Complete Renovation Solutions LLC",
+    "url": "https://completerenovationsnc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Delaney's Coastal Construction LLC",
+    "url": "https://www.delaneyscoastalconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Goulet Remodeling",
+    "url": "https://www.gouletremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "The Kitchen Man",
+    "url": "https://kitchenmannc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "S R Remodeling Inc.",
+    "url": "https://www.srremodelingnc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Willow Creek Designs LLC",
+    "url": "https://www.willowcreekdesignsnc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Leland, NC"
+  ]
+ },
+ {
+  "id": "lrgkitandbath.com",
+  "name": "LRG Kitchen and Bath Design",
+  "region": "R2",
+  "website": "https://www.lrgkitandbath.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.lrgkitandbath.com/"
+   ],
+   "contact": [
+    "https://www.lrgkitandbath.com/contact-us"
+   ],
+   "about": [
+    "https://www.lrgkitandbath.com/about"
+   ],
+   "gallery": [
+    "https://www.lrgkitandbath.com/portfolio"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-07-22",
+    "url": "https://www.lrgkitandbath.com/post/cabinet-refacing-in-southport-nc",
+    "quote": "rss:https://www.lrgkitandbath.com/blog-feed.xml published Wed, 22 Jul 2026 19:28:29 GMT: 'Cabinet Refacing in Southport, NC'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTXNq87kwkERx4AbXPrXMLU&hl=en",
+  "gbp_title": "LRG Kitchen and Bath Design",
+  "gbp_address": "\ue0c8\n1517 N Howe St Ste 13, Southport, NC 28461, United States",
+  "gbp_rating": "5.0\n(10)",
+  "gbp_phone": "phone:tel:+19105120017",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Patricia Rueb",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "LRG Kitchen and Bath are wonderful!  MaryEllen and Drew were easy and great to work with.  Love my new kitchen, turned out better then I could have imagined.",
+    "owner": "Response from the owner 4 months ago\nWe love your new kitchen too! Thank you for your kind words - we so enjoyed getting to know you and bringing your dream kitchen to life!"
+   },
+   {
+    "reviewer": "Karen Reilly",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "We loved working with LRG Kitchen and Bath Design on phase 1 of our kitchen project- replacing the countertop and backsplash.  Mary Ellen was extremely helpful (and patient) as we were selecting between quartz and granite to duplicate the \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you Karen! We are looking forward to working with you in Phase 2! "
+   },
+   {
+    "reviewer": "Jennifer Robbins",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Mary Ellen and Drew are an incredible couple and will take great care of you from start to finish with your project. Mary Ellen has such a flair for design and detail and Drew will build that design out perfectly. You are in great hands if you choose LRG for your kitchen and bath build.",
+    "owner": "Response from the owner a year ago\nThank you for your vote of confidence Jennifer! We appreciate you!\n"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "drew.ibkitbath@outlook.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:drew.ibkitbath@outlook.com",
+    "page": "https://www.lrgkitandbath.com/about"
+   },
+   {
+    "email": "maryellen8878@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:maryellen8878@gmail.com",
+    "page": "https://www.lrgkitandbath.com/about"
+   },
+   {
+    "email": "drewwillson@live.com",
+    "how": "plain text",
+    "raw": "drewwillson@live.com",
+    "page": "https://www.lrgkitandbath.com/about"
+   },
+   {
+    "email": "maryellen@wkbnc.com",
+    "how": "plain text",
+    "raw": "maryellen@wkbnc.com",
+    "page": "https://www.lrgkitandbath.com/about"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.lrgkitandbath.com/about",
+    "snippet": "Co-Owner, Lead Designer, Head of Operations"
+   },
+   {
+    "page": "https://www.lrgkitandbath.com/about",
+    "snippet": "Principal"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/LRGKitandBath"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/lrgkitchens.baths"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 18,
+   "bath": 15,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 10,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 58"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Complete Renovation Solutions LLC",
+    "url": "https://completerenovationsnc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Delaney's Coastal Construction LLC",
+    "url": "https://www.delaneyscoastalconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Goulet Remodeling",
+    "url": "https://www.gouletremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "The Kitchen Man",
+    "url": "https://kitchenmannc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "S R Remodeling Inc.",
+    "url": "https://www.srremodelingnc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Willow Creek Designs LLC",
+    "url": "https://www.willowcreekdesignsnc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Leland, NC"
+  ]
+ },
+ {
+  "id": "masterhandconstructionservices.com",
+  "name": "Master Hand Construction Services",
+  "region": "R2",
+  "website": "https://www.masterhandconstructionservices.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.masterhandconstructionservices.com/"
+   ],
+   "contact": [
+    "https://www.masterhandconstructionservices.com/contact/"
+   ],
+   "about": [
+    "https://www.masterhandconstructionservices.com/our-story/"
+   ],
+   "gallery": [
+    "https://www.masterhandconstructionservices.com/our-work/",
+    "https://www.masterhandconstructionservices.com/our-work/farragut-composite-deck/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJUxr6uVLRXYgRovaOMf-qEfU&hl=en",
+    "quote": "Blake Chesson: 'a month ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxr6uVLRXYgRovaOMf-qEfU&hl=en",
+  "gbp_title": "Master Hand Construction Services",
+  "gbp_address": "\ue0c8\n130 Kingberry St, Oak Ridge, TN 37830, United States",
+  "gbp_rating": "5.0\n(11)",
+  "gbp_phone": "phone:tel:+18655561108",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Blake Chesson",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "I can\u2019t say enough good things about Master Hand Construction Services. They\u2019ve completed several projects for our family, including our kitchen, our pergola, and a number of other jobs around our home, and the quality of work has been \u2026",
+    "owner": "Response from the owner a month ago\nWe truly appreciate your uplifting feedback! It's wonderful to know that our commitment to quality and detail made such a positive impact on your projects. Your trust in us is incredibly valued, and we're excited to work on more projects with you in the future. Thank you so much for your kind recommendation!"
+   },
+   {
+    "reviewer": "Kailyn head",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Can't recommend Dan enough! He removed some stubborn engineered hardwood in our home. He was very clear and transparent on how the job would get done and the timeline. He was quick to respond to our texts and kept us updated the entire \u2026",
+    "owner": "Response from the owner a month ago\nThank you so much for your incredibly kind words! We're delighted to know that Dan provided such a smooth experience for you. It's wonderful to hear how happy you are with the work, and your referrals mean the world to us. We're here for any future projects you might have!"
+   },
+   {
+    "reviewer": "Jake Gardner",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "This company is fantastic! Great service, showed up, did the work, quality craftsmanship, honest service and will definitely use them again. Can\u2019t recommend them enough! If you have a job that you want done right, you want them to do it!",
+    "owner": "Response from the owner a day ago\nThank you, Jake! We really appreciate your kind words and recommendation."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "help@masterhandconstructionservices.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:help@masterhandconstructionservices.com",
+    "page": "https://www.masterhandconstructionservices.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.masterhandconstructionservices.com/",
+    "snippet": "Co-founder \u00b7 General Construction and Plumbing"
+   },
+   {
+    "page": "https://www.masterhandconstructionservices.com/",
+    "snippet": "Co-founder \u00b7 Interior Design and Management"
+   }
+  ],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 27,
+   "bath": 29,
+   "roof": 1,
+   "plumb": 17,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 2
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 52"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bath Planet Kansas City",
+    "url": "https://bathplanet.com/dealers/bath-planet-of-kansas-city",
+    "gbp_address": null
+   },
+   {
+    "name": "BDE Construction & Kitchen Cabinets",
+    "url": "https://www.bde-construction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "G.E.S. Custom Remodel LLC",
+    "url": "https://www.eddiesanford.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "K&P Remodeling",
+    "url": "https://www.kpremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Mike and Melissa\u2019s Home Remodeling LLC",
+    "url": "https://www.mikeandmelissashomeremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "RIO Creations LLC",
+    "url": "https://www.riocreationsllc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Oak Ridge, TN"
+  ]
+ },
+ {
+  "id": "moralesconstructionnc.com",
+  "name": "Morales Construction of NC Inc",
+  "region": "R2",
+  "website": "https://www.moralesconstructionnc.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.moralesconstructionnc.com/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJN4GxKTgZqokR3qwpZ3fFPu8&hl=en",
+    "quote": "nicole woltering: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4GxKTgZqokR3qwpZ3fFPu8&hl=en",
+  "gbp_title": "Morales Construction of NC Inc",
+  "gbp_address": "\ue0c8\n9435 Playground Way NE, Leland, NC 28451, United States",
+  "gbp_rating": "5.0\n(45)",
+  "gbp_phone": "phone:tel:+19104319472",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Bolivar G Hernandez",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "\u2b50\u2b50\u2b50\u2b50\u2b50\n\nI couldn\u2019t be happier with the kitchen transformation completed by Morales \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Z Nichols",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "I\u2019ve had the pleasure of working with Jose on multiple projects, and I highly recommend his company. Jose is reliable, communicates clearly throughout the entire process, and consistently delivers quality work. He is professional, \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "nicole woltering",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Morales Construction did a great job fixing my patio after I had a tree fall on it. Jose and his crew are a pleasure to work with. They are fast, responsive, and got everything built back into perfect condition.",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/share/1EWZKsbh2T/?mibextid=wwXIfr"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/moralesconstructioninc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 2,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 2,
+   "window": 2,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 2
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 56"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Complete Renovation Solutions LLC",
+    "url": "https://completerenovationsnc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Delaney's Coastal Construction LLC",
+    "url": "https://www.delaneyscoastalconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Goulet Remodeling",
+    "url": "https://www.gouletremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "The Kitchen Man",
+    "url": "https://kitchenmannc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "S R Remodeling Inc.",
+    "url": "https://www.srremodelingnc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Willow Creek Designs LLC",
+    "url": "https://www.willowcreekdesignsnc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Leland, NC"
+  ]
+ },
+ {
+  "id": "tricitiesreglazing.com",
+  "name": "Miraculous Makeovers",
+  "region": "R2",
+  "website": "https://tricitiesreglazing.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://tricitiesreglazing.com/"
+   ],
+   "contact": [
+    "https://tricitiesreglazing.com/contact/"
+   ],
+   "about": [
+    "https://tricitiesreglazing.com/about-2/"
+   ],
+   "gallery": [
+    "https://tricitiesreglazing.com/before-and-after/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-09-16",
+    "url": "https://www.linkedin.com/posts/miraculousmakeovers_bathtubrefinishing-propertymanagement-activity-7506021265623691264-1ewN",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/miraculousmakeovers/ post: '\ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc29\ud835\udc1e\ud835\udc2b\ud835\udc2d\ud835\udc32 \ud835\udc0c\ud835\udc1a\ud835\udc27\ud835\udc1a\ud835\udc20\ud835\udc1e\ud835\udc2b\ud835\udc2c\u2014\ud835\udc13\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc1d \ud835\udc28\ud835\udc1f \ud835\udc15\ud835\udc1a\ud835\udc1c\ud835\udc1a\ud835\udc27\ud835\udc1c\ud835\udc22\ud835\udc1e\ud835\udc2c \ud835\udc03\ud835\udc2b\ud835\udc1a\ud835\udc20\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc0e\ud835\udc27 \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc13\ud835\udc2e\ud835\udc2b\ud835\udc27\ud835\udc28\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc02\ud835\udc28\ud835\udc2c\ud835\udc2d\ud835\udc2c \ud835\udc0f\ud835\udc22\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc14\ud835\udc29? \ud83d\udd27\u2728'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcqsYox2UIgRtF0YwKFQKLU&hl=en",
+  "gbp_title": "Miraculous Makeovers",
+  "gbp_address": "\ue0c8\n917 E State St, Bristol, TN 37620, United States",
+  "gbp_rating": "4.8\n(101)",
+  "gbp_phone": "phone:tel:+14236124174",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Brucey Carra",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "The bathtub had been refinished before we bought the house by an unknown person. After about a year of use, the finish/enamel/ paint began to peel off the tub. Eventually the bathtub became unusable. We investigated various options for a \u2026",
+    "owner": "Response from the owner a year ago\nHi Matthew! Thanks for letting us help with your bathtub. We know how annoying it is to see peeling, worn-out tubs daily\u2014it ruins your bathrooms vibe. \u2026 More"
+   },
+   {
+    "reviewer": "Edd Hill",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "Thank you for the wonderful job you did repairing and re lazing our Jason Jacuzzi tub. You saved us thousands of dollars that it would have cost to remove and replace it. You are true professionals. You were careful and thorough in \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you, Edd & Suzanne Hill! \n\nWe\u2019re thrilled to have helped restore your Jason Jacuzzi tub through our bathtub \u2026 More"
+   },
+   {
+    "reviewer": "Andy Dishner",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "My tub was very old, believe installed before the year 1950. It was dull, cracked and very bad condition. Removing it would have been time consuming and very expensive. Also, it had been finished 8 years ago and it was a poor job. Very \u2026",
+    "owner": "Response from the owner a year ago\nHi Andy. Thank you so much for your kind words and for sharing these amazing pictures with your review! We\u2019re thrilled to hear that you\u2019re satisfied with the bathtub refinishing work we did on your tub in Johnson City, TN. It was a pleasure \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "sales@tricitiesreglazing.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:sales@tricitiesreglazing.com",
+    "page": "https://tricitiesreglazing.com/contact/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://tricitiesreglazing.com/about-2/",
+    "snippet": "My name is Brett, I am the owner of Miraculous Makeovers"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/tricitiesreglazing"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/tricitiesreglazing"
+  ],
+  "franchise_mentions": [
+   "re-bath"
+  ],
+  "niche_word_counts": {
+   "kitchen": 16,
+   "bath": 28,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 54",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 383px, i.e. 8px wider than the screen; elements past the right edge: ['DIV.elementor-motion-effect",
+   "gallery images over 1MB each: https://tricitiesreglazing.com/wp-content/uploads/2017/10/after-bathtub-refinishing-bristol-tn.jpg = 5,733,055 bytes; https://tricitiesreglazing.com/wp-content/"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Barry Dye Construction",
+    "url": "https://barrydyeconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Compass Construction Services LLC",
+    "url": "https://www.compassconstructionservice.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elevated Home Solutions LLC",
+    "url": "https://elevatedhomesolutions.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Pro Of The Tri-Cities",
+    "url": "https://www.homeproofthetricities.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Knight Brothers Construction Services LLC",
+    "url": "https://www.knightbrosconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "R&D Construction and Handyman LLC",
+    "url": "https://www.rdconstructionllc.net/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Bristol, TN"
+  ]
+ },
+ {
+  "id": "wildwoodcabinets.com",
+  "name": "Wildwood Cabinets, Inc.",
+  "region": "R2",
+  "website": "https://www.wildwoodcabinets.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.wildwoodcabinets.com/"
+   ],
+   "contact": [
+    "https://www.wildwoodcabinets.com/contact/",
+    "https://www.wildwoodcabinets.com/contact/"
+   ],
+   "gallery": [
+    "https://www.wildwoodcabinets.com/our-work/",
+    "https://www.wildwoodcabinets.com/our-work/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-16",
+    "url": "https://www.wildwoodcabinets.com/what-your-cabinet-designer-wishes-you-knew/",
+    "quote": "wp-json/posts published 2026-09-16T11:38:19: 'What Your Cabinet Designer Wishes You Knew'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJjykFpf2cXogRETEY7re8T7M&hl=en",
+  "gbp_title": "Wildwood Cabinets, Inc.",
+  "gbp_address": "\ue0c8\n1103 Clendenen Rd, Maryville, TN 37801, United States",
+  "gbp_rating": "4.5\n(38)",
+  "gbp_phone": "phone:tel:+18659831466",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Crystal R",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "To say that Wildwood exceeded our expectations would be an understatement! They went above and beyond with every aspect. From the design (Paige is a genius) to the install, to answering ALL of our questions\u2026they are there for you every step \u2026",
+    "owner": "Response from the owner 2 years ago\nCrystal, you are too kind. It was an honor to design and create the cabinetry for your gorgeous modern home. "
+   },
+   {
+    "reviewer": "Jason Green",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "I had a wonderful experience with Ken and his team at Wildwood Cabinets. From the initial consultation through the installation, it was everything I wanted in a cabinet maker. I wanted modern cabinetry and had a very specific idea about \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you Jason for your gracious review.  Your mid century home is a masterpiece and we are so proud to be a part. "
+   },
+   {
+    "reviewer": "Stan Bednarek",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "The team at Wildwood exceeded expectations! My wife and I wanted a complete kitchen remodel in a house we are currently rehabbing. Wildwood took the opportunity to help design the layout, provide guidance with material selection, and \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you for your gracious review, Stan. It was truly our pleasure to bring your modern kitchen vision to life!  "
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/WildwoodCabinetryTN/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/wildwood_cabinetry"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 9,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 26,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 41",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 479px, i.e. 104px wider than the screen; elements past the right edge: ['DIV.et_pb_module.et_pb_im"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Debuty Builders, Inc",
+    "url": "https://debutybuildersinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Harris Construction Services",
+    "url": "https://harrisconstructionservicestn.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Revolving Renovations",
+    "url": "https://revolvingrenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Slansky Builders Home Improvement",
+    "url": "https://www.slanskybuilders.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "True North Builders LLC",
+    "url": "https://truenorthbuilders-tn.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Maryville, TN"
+  ]
+ },
+ {
+  "id": "atcabinetry.net",
+  "name": "AT Cabinetry",
+  "region": "R3",
+  "website": "https://atcabinetry.net/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://atcabinetry.net/"
+   ],
+   "contact": [
+    "https://atcabinetry.net/contact/"
+   ],
+   "about": [
+    "https://atcabinetry.net/about/"
+   ],
+   "gallery": [
+    "https://atcabinetry.net/lookbook/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJH5Y20i0TBYgRZj3nPF0GR_U&hl=en",
+    "quote": "Nabil Alfahel: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5Y20i0TBYgRZj3nPF0GR_U&hl=en",
+  "gbp_title": "AT Cabinetry",
+  "gbp_address": "\ue0c8\n5056 W Ashland Way, Franklin, WI 53132, United States",
+  "gbp_rating": "5.0\n(5)",
+  "gbp_phone": "phone:tel:+14144062222",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Nabil Alfahel",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "I recently just had a bathroom renovation with a walk-in closet, I was referred to this cabinet maker by a friend. I\u2019ll tell you what I was not disappointed after all the work was done excellent work, professional, and reasonable.well recommended",
+    "owner": null
+   },
+   {
+    "reviewer": "Mohammed Hamdan",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "\u2b50\u2b50\u2b50\u2b50\u2b50\n\nI couldn\u2019t be happier with the work from At Cabinetry. They built this custom \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Luay Kattoum",
+    "when": "3 days ago",
+    "stars": "5 stars",
+    "text": "Excellent Quality and Outstanding Service!\nI highly recommend AT Cabinetry to anyone looking for beautiful, high-quality cabinets and professional service. Their attention to detail, craftsmanship, and \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "sales@atcabinetryllc.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:Sales@atcabinetryllc.com",
+    "page": "https://atcabinetry.net/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 15,
+   "bath": 7,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 39,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 53"
+  ],
+  "competitor_pool": [
+   {
+    "name": "2nd Life Home Remodeling",
+    "url": "https://2ndlifehomeremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "A&A Home Improvement",
+    "url": "https://aandahomeimprovement.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Brew City Remodeling Llc",
+    "url": "https://brewcityremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "European Remodeling and Design LLC",
+    "url": "https://www.euroremodelwi.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "J&J Contractors I LLC",
+    "url": "https://www.jjcontractorsllc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Franklin, WI"
+  ]
+ }
+]
