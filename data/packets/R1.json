@@ -1,429 +1,142 @@
 [
  {
-  "id": "agreenvalleyconstruction.com",
-  "name": "A Green Valley Construction",
+  "id": "bencarbuildingsystems.com",
+  "name": "Bencar Building Systems LLC",
   "region": "R1",
-  "website": "https://agreenvalleyconstruction.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://agreenvalleyconstruction.com/"
-   ],
-   "contact": [
-    "https://agreenvalleyconstruction.com/contact/"
-   ],
-   "about": [
-    "https://agreenvalleyconstruction.com/about-us/"
-   ],
-   "gallery": [
-    "https://agreenvalleyconstruction.com/customized-projects/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "social_post",
-    "date": "2026-10-05",
-    "url": "https://www.facebook.com/agreenvalleyconstruction/",
-    "source": "Facebook page latest post date gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator; account linked from the company's own site",
-    "quote": "Facebook page https://www.facebook.com/agreenvalleyconstruction/ latest post 2026-10-05: 'Two local businesses. One family. Complete care for your home.'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2Xpr0k5R4YRMuFr81vVRdE&hl=en",
-  "gbp_title": "A Green Valley Construction",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(61)",
-  "gbp_phone": "phone:tel:+15088615029",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Elizabeth Q",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "If you\u2019re looking for an excellent, reliable, and skilled contractor with no drama, I highly recommend A Green Valley Construction. They did a FANTASTIC job for me. \u2026",
-    "owner": "Response from the owner 6 months ago\nThank you so much for this incredible review, Elizabeth! We truly appreciate the trust you placed in A Green Valley Construction to renovate your bathrooms and complete the upgrades in your home. \u2026 More"
-   },
-   {
-    "reviewer": "Shirley Hinchman",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "I highly recommend Green Valley Construction. Their team is professional, reliable, and committed to quality. The workmanship was excellent, communication was clear, and the project was completed on time and with great attention to detail. \u2026",
-    "owner": "Response from the owner 3 months ago\nHello Shirley, thank you so much for your kind review and recommendation! We\u2019re grateful for your trust in A Green Valley Construction and happy to hear that you were pleased with our workmanship, communication, and attention to detail. \u2026 More"
-   },
-   {
-    "reviewer": "wanda Geer",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "Excellent experience working with A Green Valley Construction. From start to finish, the team was responsive, professional, and timely\u2014communication was clear at every step, and the work was completed on schedule without any surprises. It's \u2026",
-    "owner": "Response from the owner 3 months ago\nHello Wanda, thank you so much for your wonderful review and recommendation! We truly appreciate your trust in A Green Valley Construction. We're delighted to hear that you had an excellent experience and that our communication, \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "contact@agreenvalleyconstruction.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:contact@agreenvalleyconstruction.com",
-    "page": "https://agreenvalleyconstruction.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://agreenvalleyconstruction.com/",
-    "snippet": "Founded by Matheus and Patricia, proud locals of Westborough who brought their expertise and love for home construction from Brazi"
-   },
-   {
-    "page": "https://agreenvalleyconstruction.com/about-us/",
-    "snippet": "Founded by Matheus and Patricia, proud locals of Westborough who brought their expertise and love for home construction from Brazi"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/agreenvalleyconstruction/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/agreenvalleyconstruction"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 6,
-   "bath": 6,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 4,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 386px, i.e. 11px wider than the screen; elements past the right edge: ['DIV.qodef-e.swiper-slide r"
-  ],
-  "competitor_pool": [
-   {
-    "name": "B & D Construction Co., Inc.",
-    "url": "https://www.banddconst.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Fast & Fine Remodeling",
-    "url": "https://www.fastandfine.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "GA Building & Remodeling",
-    "url": "https://gabremodeling.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Prime Bath",
-    "url": "https://getprimebath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Makeover and Finishes Group Inc",
-    "url": "https://makeoverfinishesgroup.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Mid-State Kitchens",
-    "url": "https://www.mid-statekitchens.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Hopkinton, MA"
-  ]
- },
- {
-  "id": "albakitchen.com",
-  "name": "Alba Kitchen and Bath - East Hanover",
-  "region": "R1",
-  "website": "https://www.albakitchen.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.albakitchen.com/"
-   ],
-   "contact": [
-    "https://www.albakitchen.com/contact"
-   ],
-   "gallery": [
-    "https://www.albakitchen.com/completed-projects-new",
-    "https://www.albakitchen.com/inspiration-gallery"
-   ],
-   "legal": [
-    "https://www.albakitchen.com/privacy",
-    "https://www.albakitchen.com/privacy-policy",
-    "https://www.albakitchen.com/terms"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "social_post",
-    "date": "2026-09-04",
-    "url": "https://www.facebook.com/albakitchen/",
-    "source": "Facebook page latest post date gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator; account linked from the company's own site",
-    "quote": "Facebook page https://www.facebook.com/albakitchen/ latest post 2026-09-04: 'Alba Kitchen and Bath is at Alba Kitchen and Bath.'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfnr_S6pw4kRkxyAPFPGzq4&hl=en",
-  "gbp_title": "Alba Kitchen and Bath - East Hanover",
-  "gbp_address": "\ue0c8\n213 NJ-10, East Hanover, NJ 07936, United States",
-  "gbp_rating": "4.9\n(55)",
-  "gbp_phone": "phone:tel:+12012779277",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Kelly Mannarino",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Extremely happy with my experience using Alba for a kitchen renovation!! I met with several contractors and Alba was the most responsive by far. Ted was our designer and he did a truly fantastic job putting together the perfect layout. He \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Bob Ferguson",
-    "when": "11 months ago",
-    "stars": "5 stars",
-    "text": "Our experience with Alba Kitchen and Bath was exceptional. We spent a good deal of time shopping for cabinets, finally deciding to go with Alba. They are a great value. The cabinets are beautiful. the layout is just what we had hoped for. Take a look at our before and after pics.",
-    "owner": null
-   },
-   {
-    "reviewer": "Stephanie Ventura",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We met with a lot of different kitchen designers during our remodel, and ultimately chose Serenay at Alba. She really took the time to listen to our ideas and came to the table with thoughtful suggestions of her own\u2014offering guidance on \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@albakitchen.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@albakitchen.com",
-    "page": "https://www.albakitchen.com/privacy"
-   },
-   {
-    "email": "info@albakithen.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@albakithen.com",
-    "page": "https://www.albakitchen.com/privacy"
-   },
-   {
-    "email": "info@mysite.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@mysite.com",
-    "page": "https://www.albakitchen.com/privacy"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/albakitchen"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/albakitchen"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 50,
-   "bath": 8,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 27,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/806035769_18494321662103197_3976725636361810701_n.jpg?stp=dst-jp = 3,063,457 bytes; https://scontent-den"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Home Touch Design Kitchen and Bath",
-    "url": "https://hometouchdesign.com/pages/cabinet-store-new-jersey",
-    "gbp_address": null
-   },
-   {
-    "name": "J&G Remodeling LLC",
-    "url": "https://jgremodelnj.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Mr. Kitchen & Bath LLC",
-    "url": "https://www.mrkitchenandbathnj.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "VIC Construction LLC",
-    "url": "https://vicconstructionllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "All County One Day Bath",
-    "url": "https://www.allcountyonedaybath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Breathe Easy Remodeling",
-    "url": "https://www.breatheeasyremodeling.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Auburn, ME",
-   "Livingston, NJ"
-  ]
- },
- {
-  "id": "amegaenterprises.com",
-  "name": "Amega Enterprises LLC",
-  "region": "R1",
-  "website": "http://amegaenterprises.com/",
+  "website": "https://www.bencarbuildingsystems.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [],
   "pages_fetched": {
    "home": [
-    "http://amegaenterprises.com/"
+    "https://www.bencarbuildingsystems.com/"
    ],
    "contact": [
-    "http://amegaenterprises.com/contact.html"
+    "https://www.bencarbuildingsystems.com/contact-us"
    ],
    "about": [
-    "http://amegaenterprises.com/about.html"
+    "https://www.bencarbuildingsystems.com/employment",
+    "https://www.bencarbuildingsystems.com/about"
+   ],
+   "gallery": [
+    "https://www.bencarbuildingsystems.com/gallery",
+    "https://www.bencarbuildingsystems.com/gallery/finished-attic-project-in-madison-connecticut"
    ],
    "legal": [
-    "http://amegaenterprises.com/privacy",
-    "http://amegaenterprises.com/privacy-policy",
-    "http://amegaenterprises.com/terms"
+    "https://www.bencarbuildingsystems.com/privacy",
+    "https://www.bencarbuildingsystems.com/terms"
    ]
   },
   "auto_signals": [
    {
-    "type": "google_review",
-    "date": "2026-08-15",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJt-Y21KoxwYkRPXFM7QovelE&hl=en",
-    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
-    "quote": "Amega did a fantastic job on my newly purchased home!"
+    "type": "social_post",
+    "date": "2026-10-06",
+    "url": "https://www.facebook.com/BencarBuildingSystemsLLC/",
+    "source": "Facebook page latest post date gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator; account linked from the company's own site",
+    "quote": "Facebook page https://www.facebook.com/BencarBuildingSystemsLLC/ latest post 2026-10-06: 'Like most relationships in life, communication is key to the homeowner-remodeler'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-Y21KoxwYkRPXFM7QovelE&hl=en",
-  "gbp_title": "Amega Enterprises LLC",
-  "gbp_address": "\ue0c8\n617 Stokes Rd Ste 4334, Medford, NJ 08055, United States",
-  "gbp_rating": "4.7\n(12)",
-  "gbp_phone": "phone:tel:+16099531984",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37VzGGfO54kRM0tvuP6aZ8k&hl=en",
+  "gbp_title": "Bencar Building Systems LLC",
+  "gbp_address": "\ue0c8\n210 N Plains Industrial Rd, Wallingford, CT 06492, United States",
+  "gbp_rating": "4.9\n(55)",
+  "gbp_phone": "phone:tel:+12032699204",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Andrea Kozak",
-    "when": "a year ago",
+    "reviewer": "Moireen Covey",
+    "when": "11 months ago",
     "stars": "5 stars",
-    "text": "We had our entire home interior painted, as well as had crown molding and chair rails/shadow boxes installed. Dave was our painter and he was very thorough and detail-oriented. The paint work is flawless and we have some difficult high \u2026",
-    "owner": "Response from the owner a year ago\nThank you, Andrea! We look forward to working with you again!"
+    "text": "We recently had an addition built onto our home by Bencar, and we couldn't be more pleased with the entire process. Communication was excellent from start to finish. Lisa and Nancy were wonderful to work with- always friendly, organized, \u2026",
+    "owner": "Response from the owner 11 months ago\nThank you for your review Moireen!  We enjoyed working with you and Trevor and we hope you and your family enjoy the new space for many years to come!"
    },
    {
-    "reviewer": "Nina Loccisano",
+    "reviewer": "Ted C.",
     "when": "2 years ago",
     "stars": "5 stars",
-    "text": "I wish I could give Amega 100 stars! I truly can't recommend the entire Amega team enough - Bill, Mike, Elise and Maggie are fantastic from start to finish. From the minute we hired Amega for our primary bathroom renovation project, we knew \u2026",
-    "owner": "Response from the owner 2 years ago\nThank you Nina, for the kind review! We very much enjoy working with you as well! "
+    "text": "Our full kitchen renovation project was recently completed by Bencar Building Systems LLC and we couldn't be happier. From beginning to end they are a fantastic contractor to do business with on this type of project. Their attention to \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you for your review!  We're so happy that we were able to bring your dream kitchen to life for you!  We all work hard to make sure that a homeowner's experience is a positive one.  We really enjoyed working with you."
    },
    {
-    "reviewer": "Rachel Amato",
-    "when": "2 years ago",
+    "reviewer": "Kimberly Bogert",
+    "when": "4 years ago",
     "stars": "5 stars",
-    "text": "I would highly recommend Amega Enterprises!  Years ago, they remodeled our entire kitchen and did a fabulous job!  Just recently, we redid the entire exterior of our house (roof, siding, windows, stone work, garage doors, front door, front \u2026",
-    "owner": "Response from the owner 2 years ago\nThank you Rachel for the kind review! It was a pleasure working with you! "
+    "text": "We had our raised ranch kitchen, dining area, and living room made into an open concept space. Bencar was incredible to work with from our initial appointment to its completion. We were given a schedule of the project so we knew what to \u2026",
+    "owner": "Response from the owner 4 years ago\nThank you!  We enjoyed helping you with your home transformation!  It looks incredible and we know you'll enjoy for many years to come."
    }
   ],
-  "emails_found": [
+  "emails_found": [],
+  "dm_snippets": [
    {
-    "email": "info@amegaenterprises.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@amegaenterprises.com",
-    "page": "http://amegaenterprises.com/"
+    "page": "https://www.bencarbuildingsystems.com/employment",
+    "snippet": "Mark Benson is the owner of Bencar Building Systems"
    }
   ],
-  "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/amegaenterprises"
+   "https://www.facebook.com/BencarBuildingSystemsLLC"
   ],
   "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 3,
-   "bath": 2,
+   "kitchen": 7,
+   "bath": 6,
    "roof": 0,
-   "plumb": 1,
+   "plumb": 0,
    "hvac": 0,
    "handyman": 0,
-   "floor": 2,
-   "cabinet": 0,
+   "floor": 0,
+   "cabinet": 1,
    "siding": 0,
-   "window": 1,
+   "window": 3,
    "pool": 0,
-   "solar": 1,
+   "solar": 0,
    "custom home": 0
   },
   "g8_defects_measured": [
-   "not served over HTTPS / invalid certificate: final URL scheme http; https:// probe: {'https_error': \"SSLError: HTTPSConnectionPool(host='amegaenterprises.com', port=443): Max retries exceeded with url: / (",
-   "gallery images over 1MB each: https://0201.nccdn.net/1_2/000/000/138/eae/img_9621.jpg = 4,722,648 bytes (HTTP Content-Length); https://0201.nccdn.net/1_2/000/000/152/891/img_1014-preview.jpg"
+   "mobile performance score below 60: PSI mobile performance 49"
   ],
   "competitor_pool": [
    {
-    "name": "Amiano & Son, Design-Build",
-    "url": "https://www.amianoandson.com/showrooms/southampton-showroom/",
+    "name": "CT Elite Remodelling",
+    "url": "https://cteliteremodel.com/",
     "gbp_address": null
    },
    {
-    "name": "CMB General Contractors",
-    "url": "https://cmbcontracting.com/",
+    "name": "M & R Kitchens + Baths",
+    "url": "https://www.mrkitchenandbath.com/",
     "gbp_address": null
    },
    {
-    "name": "Kitchen and Bath Gallery",
-    "url": "https://www.newkitchenandbathgallery.com/",
+    "name": "Peragallo Construction - Home Remodeling, Construction, and Repair",
+    "url": "https://www.peragalloconstructionct.com/",
     "gbp_address": null
    },
    {
-    "name": "Next Level Remodeling",
-    "url": "https://nextlevelremodeling.com/",
+    "name": "Ricci Construction Group, Inc.",
+    "url": "https://ricciconstructiongroup.com/",
     "gbp_address": null
    },
    {
-    "name": "The Cabinet Cove",
-    "url": "https://www.thecabinetcove.com/",
+    "name": "Ricci's Home Improvment",
+    "url": "https://www.riccishomeimprovement.com/",
     "gbp_address": null
    },
    {
-    "name": "T&T Kitchens LLC",
-    "url": "https://ttkitchensllc.com/",
+    "name": "Summa Construction Services LLC.",
+    "url": "https://www.summaconstructionservices.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Medford, NJ"
+   "Cheshire, CT",
+   "Wallingford, CT"
   ]
  },
  {
-  "id": "ameliacabinetcompany.com",
-  "name": "Amelia Cabinet Company",
+  "id": "calahanbath.com",
+  "name": "Calahan Bath, Kitchen and Sunrooms",
   "region": "R1",
-  "website": "http://ameliacabinetcompany.com/",
+  "website": "https://calahanbath.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -431,134 +144,123 @@
   ],
   "pages_fetched": {
    "home": [
-    "http://ameliacabinetcompany.com/"
-   ],
-   "contact": [
-    "http://ameliacabinetcompany.com/contact/"
-   ],
-   "about": [
-    "http://ameliacabinetcompany.com/about/"
-   ],
-   "gallery": [
-    "http://ameliacabinetcompany.com/portfolio/",
-    "http://ameliacabinetcompany.com/project/bridgewater-2/"
-   ],
-   "legal": [
-    "http://ameliacabinetcompany.com/privacy-policy/",
-    "http://ameliacabinetcompany.com/privacy-policy/"
+    "https://calahanbath.com/"
    ]
   },
   "auto_signals": [
    {
-    "type": "google_review",
-    "date": "2026-08-05",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Zx73sSQ54kRFMovAW-L9Sc&hl=en",
-    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
-    "quote": "The entire team at Amelia CC were so amazing to work with."
+    "type": "social_post",
+    "date": "2026-10-09",
+    "url": "https://www.facebook.com/calahanbath/",
+    "source": "Facebook page latest post date gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator; account linked from the company's own site",
+    "quote": "Facebook page https://www.facebook.com/calahanbath/ latest post 2026-10-09"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Zx73sSQ54kRFMovAW-L9Sc&hl=en",
-  "gbp_title": "Amelia Cabinet Company",
-  "gbp_address": "\ue0c8\n174 West St Yard, Litchfield, CT 06759, United States",
-  "gbp_rating": "5.0\n(9)",
-  "gbp_phone": "phone:tel:+18605671717",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3safM17x4kRmhA6jDmm5Ok&hl=en",
+  "gbp_title": "Calahan Bath, Kitchen and Sunrooms",
+  "gbp_address": "\ue0c8\n9 N 5 Points Rd #8, West Chester, PA 19380, United States",
+  "gbp_rating": "4.8\n(21)",
+  "gbp_phone": "phone:tel:+18556106222",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Meredith Moffat",
-    "when": "3 years ago",
+    "reviewer": "Jeffrey Dreyer",
+    "when": "3 months ago",
     "stars": "5 stars",
-    "text": "I cannot begin to describe how beautiful my kitchen is. Every day I love it more and more; from the color of the cabinets , which was not an easy color to create to the bespoke dairy table.  The Amelia team from Melanie to the two Daves went above and beyond.  I no longer envy other people's kitchens, I have exactly what I wanted!",
-    "owner": null
+    "text": "Our experience was excellent from the moment we walked into the showroom. Sarah talked with us for a long time and answered all of our questions about the sunroom products. Dan the owner worked with us directly to insure the measurements \u2026",
+    "owner": "Response from the owner 3 months ago\nHi Jeffrey, thank you so much for the wonderful review! We are absolutely thrilled to hear that your experience converting your screened-in porch into a beautiful new three-season sunroom was excellent from start to finish. We truly enjoyed \u2026 More"
    },
    {
-    "reviewer": "Ann Leibell",
-    "when": "10 months ago",
-    "stars": "5 stars",
-    "text": "Working with the Amelia team from start to finish was a delight! We truly have our dream kitchen and appreciate the craftsmanship and outstanding quality every day. Dave, Melanie and the team worked with exacting care to be sure we were \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Steven Gruber",
+    "reviewer": "Patricia Volk",
     "when": "7 months ago",
     "stars": "5 stars",
-    "text": "Can't say enough about working with David at Amelia. His work ethic is so refreshing.  Pride, personal ownership a skilled craftsman and a great communicator. We are so happy we joined up with Amelia. \u2026",
-    "owner": null
+    "text": "Calahan Bath remodeled our three bathrooms.  Exceptional workmanship, exceptional customer service, and good quality products.   We are very happy with the finished bathrooms.  We highly recommend Calahan Bath and will utilize them for future renovations.",
+    "owner": "Response from the owner 7 months ago\nHi Patricia, thank you so much for the glowing review! It was truly a pleasure working with you on your three-bathroom remodel. Our team takes great pride in delivering high-quality workmanship and service, so hearing that you are happy \u2026 More"
+   },
+   {
+    "reviewer": "Tracy Raymond",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "So long to the 1990s!  We are so pleased with our new countertops and Fibo backsplash. What an amazing improvement without having to paint our cabinets to make it work. Touching up the stain and varnish along with changing out the hardware \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you for your feedback Tracy! We hope you enjoy your kitchen refresh!! "
    }
   ],
   "emails_found": [
    {
-    "email": "info@ameliacabinetcompany.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@ameliacabinetcompany.com",
-    "page": "http://ameliacabinetcompany.com/"
+    "email": "office@calahanbath.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "274841414e44426744464b464f46494546534f0944484a",
+    "page": "https://calahanbath.com/"
    }
   ],
-  "dm_snippets": [
-   {
-    "page": "http://ameliacabinetcompany.com/about/",
-    "snippet": "ter Institute of Technology (RIT), with a degree in Industrial Design and minors in business, he superseded David Sr as president of Amelia Cabinet Company"
-   }
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/calahanbath",
+   "https://www.facebook.com/calahanbath",
+   "https://www.facebook.com/calahanbath/"
   ],
-  "facebook_links": [],
   "instagram_links": [
-   "https://www.instagram.com/amelia_cabinet_company"
+   "https://www.instagram.com/calahan.bath.kitch.sunrooms"
   ],
-  "franchise_mentions": [],
+  "franchise_mentions": [
+   "bath concepts"
+  ],
   "niche_word_counts": {
-   "kitchen": 2,
-   "bath": 0,
-   "roof": 0,
+   "kitchen": 50,
+   "bath": 67,
+   "roof": 7,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
-   "floor": 0,
-   "cabinet": 14,
+   "floor": 1,
+   "cabinet": 5,
    "siding": 0,
-   "window": 0,
+   "window": 1,
    "pool": 0,
    "solar": 0,
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 40",
-   "not served over HTTPS / invalid certificate: final URL scheme http; https:// probe: {'https_error': 'SSLError: HTTPSConnectionPool(host=\\'ameliacabinetcompany.com\\', port=443): Max retries exceeded with ur",
-   "gallery images over 1MB each: http://ameliacabinetcompany.com/wp-content/uploads/2025/09/calkinstown-bar-2-scaled.jpg = 3,413,311 bytes (HTTP Content-Length); http://ameliacabinetcompany.com"
+   "mobile performance score below 60: PSI mobile performance 30",
+   "gallery images over 1MB each: https://calahanbath.com/wp-content/uploads/2026/02/Bathroom-Banner-Screen-Shot.png = 1,028,936 bytes; https://calahanbath.com/wp-content/uploads/2026/02/Cathedr"
   ],
   "competitor_pool": [
    {
-    "name": "Casanova Remodeling",
-    "url": "https://casanovaremodeling.com/",
+    "name": "ACA Remodeling Inc.",
+    "url": "https://acaremodelinginc.com/",
     "gbp_address": null
    },
    {
-    "name": "PrimeBuild Construction",
-    "url": "https://constructionprimebuild.com/",
+    "name": "Chester County Kitchen & Bath",
+    "url": "https://cckab.com/",
     "gbp_address": null
    },
    {
-    "name": "Connecticut Kitchen & Bath Studio LLC",
-    "url": "https://ctkitchenandbath.com/",
+    "name": "Couture Design & Renovations",
+    "url": "https://couturerenovation.com/",
     "gbp_address": null
    },
    {
-    "name": "Litchfield Hills Kitchen & Bath",
-    "url": "https://lhkitchenbath.com/",
+    "name": "Fedor Fabrication Inc",
+    "url": "https://www.fedorfab.com/",
     "gbp_address": null
    },
    {
-    "name": "Total Bath Systems",
-    "url": "https://www.totalbathsystems.com/",
+    "name": "MacLaren Kitchen and Bath",
+    "url": "https://maclarenfab.com/",
     "gbp_address": null
    },
    {
-    "name": "Victoria Building LLC",
-    "url": "https://www.victoriabuildingct.com/",
+    "name": "Paravati Kitchen & Bath",
+    "url": "https://paravati-inc.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Litchfield, CT"
+   "Chester, PA",
+   "Newark, DE",
+   "West Chester, PA",
+   "Wilmington, DE"
   ]
  }
 ]

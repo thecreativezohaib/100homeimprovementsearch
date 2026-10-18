@@ -2,7 +2,8 @@
 """G7 strict verification: re-collect images from home + gallery pages (cap 30 candidates), master-URL correction,
 width >= 800, drop stock signatures, drop near-duplicates (64-bit dHash, Hamming <= 6), drop flat/graphic images
 (>55% near-white pixels or <24 distinct colour buckets), then write a contact sheet for visual review.
-Usage: g7verify.py <id> [<id> ...]"""
+Usage: g7verify.py <id>[=<extra page url>,...] ...  (extra pages, e.g. a portfolio the site check missed,
+are scanned too and the id is re-run even if done; the newest line per id wins)"""
 import json, sys, requests
 from io import BytesIO
 from PIL import Image, ImageDraw
@@ -26,10 +27,12 @@ def flat(im):
 data = load(); site = data[1]
 done = {x["id"] for x in jl(f"{D}/g7verify.jsonl")}
 out = open(f"{D}/g7verify.jsonl", "a")
-for cid in sys.argv[1:]:
-    if cid in done: continue
+for arg in sys.argv[1:]:
+    cid, _, extra = arg.partition("=")
+    if cid in done and not extra: continue
     s = site[cid]
     pages = [(k, u) for k in ("home", "gallery") for u in (s.get("pages_fetched") or {}).get(k, [])]
+    pages = [("extra", u) for u in extra.split(",") if u] + pages  # first, so the 30-candidate cap keeps them
     cands = []
     for k, u in pages:
         try:

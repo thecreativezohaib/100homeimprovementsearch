@@ -1,9 +1,9 @@
 [
  {
-  "id": "doctordomicile.com",
-  "name": "Dr. Domicile LLC",
+  "id": "hoeftdesignbuild.com",
+  "name": "Hoeft Design Build",
   "region": "R4",
-  "website": "https://doctordomicile.com/",
+  "website": "https://hoeftdesignbuild.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,77 +11,519 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://doctordomicile.com/"
+    "https://hoeftdesignbuild.com/"
    ],
    "contact": [
-    "https://doctordomicile.com/contact-us/"
+    "https://hoeftdesignbuild.com/contact/",
+    "https://hoeftdesignbuild.com/contact/"
    ],
-   "about": [
-    "https://doctordomicile.com/about-us/"
+   "gallery": [
+    "https://hoeftdesignbuild.com/gallery/",
+    "https://hoeftdesignbuild.com/outdoor-living-georgetown/"
+   ],
+   "legal": [
+    "https://hoeftdesignbuild.com/privacy-policy/"
    ]
   },
   "auto_signals": [
    {
-    "type": "site_dated_content",
-    "date": "2026-09-24",
-    "url": "https://doctordomicile.com/how-to-improve-bathroom-ventilation-during-a-remodel/",
-    "quote": "wp-json/posts published 2026-09-24T11:14:13: 'How to Improve Bathroom Ventilation During a Remodel'"
+    "type": "social_post",
+    "date": "2026-10-09",
+    "url": "https://www.linkedin.com/posts/hoeftdesignbuild_the-question-is-not-whats-popular-the-activity-7514424767249092608-PMAQ",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/hoeftdesignbuild/ post: 'The question is not \u201cwhat\u2019s popular\u201d. The question is \u201cwhat is your'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1zIQSKtJE4cRhZgJ-9CC_o0&hl=en",
-  "gbp_title": "Dr. Domicile LLC",
-  "gbp_address": null,
-  "gbp_rating": "4.9\n(39)",
-  "gbp_phone": "phone:tel:+17194009220",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJEx39zNSog0sRoiFvSj-FamQ&hl=en",
+  "gbp_title": "Hoeft Design Build",
+  "gbp_address": "\ue0c8\n501 S Austin Ave #1220, Georgetown, TX 78626, United States",
+  "gbp_rating": "5.0\n(58)",
+  "gbp_phone": "phone:tel:+15125477009",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Daisha Duke",
+    "reviewer": "Kathy Hocher",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "We would highly recommend Hoeft Design for any residential remodeling project. We had Luke and his team remodel our master bedroom and bathroom and our upstairs bedroom/bathroom and we are very pleased with the results.  Luke was great to \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Rick Outland",
     "when": "4 months ago",
     "stars": "5 stars",
-    "text": "We recently completed a full bathroom remodel with Anthony and his team, and we could not be happier with the results. \u2026",
-    "owner": "Response from the owner 4 months ago\nThank you so much for the review! Definitely walked out with bathroom envy! I love your color scheme so much!!! Please have me back for your master bathroom renovation whenever you get there!!"
+    "text": "Do not hesitate selecting Luke and his team for your work at home. Luke\u2019s team of electricians, plumbers, cabinet makers and painters were each very professional. I would highly recommend them for any home renovation project.",
+    "owner": "Response from the owner 4 months ago\nThank you for your recommendation, Richard! It was great working with you."
    },
    {
-    "reviewer": "Yewkiat Tay",
-    "when": "3 months ago",
+    "reviewer": "Regina Koltak",
+    "when": "7 months ago",
     "stars": "5 stars",
-    "text": "\u2b50\u2b50\u2b50\u2b50\u2b50 Outstanding Service \u2013 Highly Recommend Dr. Domicile LLC!\n\nI cannot thank Dr. Domicile LLC enough for the outstanding service they provided \u2026",
-    "owner": "Response from the owner 3 months ago\nMy my my! What a wonderful review to leave!! You were such a wonderful customer to have and we certainly look forward to coming back for another plate of stir fry!! Take care and thank you again for taking the time to leave a review like that. Most unexpected:)"
-   },
-   {
-    "reviewer": "Jesse R",
-    "when": "9 months ago",
-    "stars": "5 stars",
-    "text": "Anthony and his team are top notch craftsmen! We are extremely satisfied with our bathroom remodel. They transformed our outdated space into a spa quality oasis and we can't thank them enough!",
-    "owner": "Response from the owner 9 months ago\nYour project was a absolute blast! I would love to be involved in any project you come up with in the future!"
+    "text": "We had a great experience remodeling with Hoeft Design Build. Luke was very communicative and helpful throughout the process. If any concerns arose he was quick to address them and we felt very comfortable with the solutions. The price was \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you Regina! It was a pleasure working with you. I wish you the best with your upcoming move."
    }
   ],
   "emails_found": [
    {
-    "email": "dr.domicile14@gmail.com",
+    "email": "info@hoeftdesignbuild.com",
     "how": "mailto",
-    "raw": "href=\"mailto:dr.domicile14@gmail.com",
-    "page": "https://doctordomicile.com/"
+    "raw": "href=\"mailto:info@hoeftdesignbuild.com",
+    "page": "https://hoeftdesignbuild.com/"
    }
   ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://facebook.com/dr.domicile14/"
+  "dm_snippets": [
+   {
+    "page": "https://hoeftdesignbuild.com/",
+    "snippet": "\u201cOwner of Hoeft Design Build, Luke, takes the utmost care & concern for his most discerning customers\u2026 Practicable design, con"
+   },
+   {
+    "page": "https://hoeftdesignbuild.com/outdoor-living-georgetown/",
+    "snippet": "\u201cOwner of Hoeft Design Build, Luke, takes the utmost care & concern for his most discerning customers\u2026 Practicable design, con"
+   }
   ],
-  "instagram_links": [],
+  "facebook_links": [
+   "https://www.facebook.com/people/Hoeft-Design-Build/61564132093758/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/hoeftdesignbuild"
+  ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 14,
-   "bath": 14,
-   "roof": 0,
-   "plumb": 10,
+   "kitchen": 23,
+   "bath": 23,
+   "roof": 1,
+   "plumb": 2,
    "hvac": 0,
    "handyman": 0,
-   "floor": 14,
+   "floor": 1,
+   "cabinet": 6,
+   "siding": 0,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 47"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Austin Kitchen and Bath",
+    "url": "https://austinkitchenandbath.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Custom Elite Remodeling",
+    "url": "https://www.customeliteremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Diverse Trades Custom Construction and Remodeling",
+    "url": "https://www.diversetradesllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Expo Home Improvement",
+    "url": "https://www.expohomeimprovement.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kinsey Interiors & Remodel",
+    "url": "https://kinseyinteriors.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Georgetown, TX"
+  ]
+ },
+ {
+  "id": "ivycabinets.com",
+  "name": "Ivy Cabinets",
+  "region": "R4",
+  "website": "https://www.ivycabinets.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.ivycabinets.com/"
+   ],
+   "contact": [
+    "https://www.ivycabinets.com/contact-ivy-cabinets"
+   ],
+   "about": [
+    "https://www.ivycabinets.com/about-ivy-cabinets-history-expertise"
+   ],
+   "gallery": [
+    "https://www.ivycabinets.com/cabinetry-portfolio"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-09-23",
+    "url": "https://www.linkedin.com/posts/ivy-cabinets_customcabinetry-customcabinets-bathroomcabinetry-activity-7508558356555632640-zC6-",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/ivy-cabinets/ post: 'An unusual angle became one of the best details in the room.'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJFensMs0RyYcRWiNuq_pcREM&hl=en",
+  "gbp_title": "Ivy Cabinets",
+  "gbp_address": "\ue0c8\n1106 NW 10th St, Bentonville, AR 72712, United States",
+  "gbp_rating": "5.0\n(56)",
+  "gbp_phone": "phone:tel:+14795824201",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Chelsey Gobi",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "We could not be happier with our Ivy Kitchen! The craftsmanship, attention to detail, knowledge, collaboration, and professionalism at Ivy is unmatched! They provide luxury but with a cool down to earth experience. They are the best of the best and have lifetime clients in us! 10/10 recommend!!",
+    "owner": "Response from the owner 4 months ago\nWOW! Thank you for this raving review and for sharing your experience with us at Ivy. We're still ooo'ing and aww'ing over the beautiful space we helped create for your family."
+   },
+   {
+    "reviewer": "mitchell whiddon",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "The cabinets from Ivy were made to our special request and design perfectly. Ivy cabinets measurements were perfect the first time saving me time and money. I highly recommend Ivy Cabinets for all your cabinet needs. \u2026",
+    "owner": "Response from the owner 7 months ago\nWe're grateful to have had the opportunity to get to know and work with you and your family. Thank you for sharing your experience with our team at Ivy Cabinets. "
+   },
+   {
+    "reviewer": "Brent Sperry",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Had custom office shelves designed, fabricated and installed by Ivy Cabinets. Scott and Will were great to work with and the install crew made everything come out terrific. The best part was a bookcase which is actually a hidden door. Great craftsmanship and took a crazy idea to a cool result.",
+    "owner": "Response from the owner 6 months ago\nI'm so glad you stopped in to see what we're about. It was wonderful working with you and being able to build such a cool hidden door. Enjoy!\n-Scott"
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/ivycabinets"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/ivycabinets"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 3,
+   "bath": 3,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 10,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 49",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/67f48563ab10743373e744ef/2e301853-b7ca-44ac-b545-05fbe914d3d1/Custom+dog+k = 1,727,206 bytes; https://images.squar"
+  ],
+  "competitor_pool": [
+   {
+    "name": "A TO Z REMODEL SERVICES",
+    "url": "https://atozremodelservices.carrd.co/",
+    "gbp_address": null
+   },
+   {
+    "name": "D.Q construction",
+    "url": "https://www.dqconstructions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Enhancing Homes Inc",
+    "url": "https://www.ehicabinets.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Endeavor Construction Services LLC",
+    "url": "https://endeavorconstructionsvcs.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "Maker Cabinets",
+    "url": "https://www.makercabinets.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Bella Vista, AR",
+   "Bentonville, AR"
+  ]
+ },
+ {
+  "id": "nexuskbr.com",
+  "name": "Nexus Kitchen and Bath",
+  "region": "R4",
+  "website": "https://nexuskbr.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://nexuskbr.com/"
+   ],
+   "contact": [
+    "https://nexuskbr.com/contact-us/"
+   ],
+   "about": [
+    "https://nexuskbr.com/about/"
+   ],
+   "gallery": [
+    "https://nexuskbr.com/projects/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-08-22",
+    "url": "https://www.linkedin.com/posts/nexus-kitchen-and-bath_kitchenremodel-countertops-stonefabrication-activity-7496779997030805504-QuTs",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/nexus-kitchen-and-bath/ post: 'A beautiful remodel is not an accident. It\u2019s the result of hundreds'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJezKAkZYrhmsROzGS-KNQcKc&hl=en",
+  "gbp_title": "Nexus Kitchen and Bath",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(5)",
+  "gbp_phone": "phone:tel:+18016617277",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "C Barker",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Highly Recommend Chris for Project Management & Remodeling\nIf you are looking for a contractor who is as meticulous with a budget as he is with a floor plan, hire Chris. He recently managed our whole home remodel, and \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Taylor Jones",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Anyone looking for a bathroom remodel should work with Nexus! Chris is by far the most thorough project manager we have ever worked with. From the estimate, through the completion of the project Chris was transparent with every single \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Wendy VonSosen",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "Chris was fantastic and was very attentive to the details of our bathroom/laundry room remodel, was easy to communicate with and checked in almost daily. His subcontractors were all highly skilled, clean, and friendly. I highly recommend Nexus for all of your home projects!",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "chris@nexuskbr.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "02616a706b71426c677a77716960702c616d6f",
+    "page": "https://nexuskbr.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://nexuskbr.com/",
+    "snippet": "President"
+   },
+   {
+    "page": "https://nexuskbr.com/contact-us/",
+    "snippet": "President"
+   },
+   {
+    "page": "https://nexuskbr.com/about/",
+    "snippet": "President"
+   },
+   {
+    "page": "https://nexuskbr.com/projects/",
+    "snippet": "President"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=61574968895219"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/nexuskbr"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 24,
+   "bath": 14,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 38"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Allied Kitchen, Bath and Basement Remodeling",
+    "url": "https://alliedhomecontractors.com/lehi/",
+    "gbp_address": null
+   },
+   {
+    "name": "DreamMaker Bath & Kitchen",
+    "url": "https://dreammaker-remodel.com/nwa/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elevated Kitchen & Bath",
+    "url": "https://elevatedkitchenandbathutah.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "IRONCREST PRIME CONSTRUCTION LLC",
+    "url": "https://ironcrestconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Onyx Wolf Construction LLC",
+    "url": "https://onyxwolfconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "RemodelCo - Basements, Kitchens & Baths - Lehi",
+    "url": "https://remodelcoutah.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Draper, UT",
+   "Riverton, UT"
+  ]
+ },
+ {
+  "id": "pinnacleremodel.com",
+  "name": "Pinnacle Remodel",
+  "region": "R4",
+  "website": "https://www.pinnacleremodel.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.pinnacleremodel.com/"
+   ],
+   "contact": [
+    "https://www.pinnacleremodel.com/about/contact"
+   ],
+   "about": [
+    "https://www.pinnacleremodel.com/about",
+    "https://www.pinnacleremodel.com/about/our-team"
+   ],
+   "gallery": [
+    "https://www.pinnacleremodel.com/portfolio",
+    "https://www.pinnacleremodel.com/portfolio/a-modern-classic%3A-light%2C-flow%2C-%26-functionality-redefined"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-10-04",
+    "url": "https://www.youtube.com/shorts/8iDjZ4EkzSQ",
+    "quote": "YouTube channel https://www.youtube.com/@pinnaclewichita post: 'An Elevated Powder Room\u2728'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCevfGQAQnmFdGkL_UWR34_g <published>"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeD10UUdu4cR-z_hJftjJPA&hl=en",
+  "gbp_title": "Pinnacle Remodel",
+  "gbp_address": "\ue0c8\n5700 E Huffman Rd Ste A, Kechi, KS 67067, United States",
+  "gbp_rating": "5.0\n(86)",
+  "gbp_phone": "phone:tel:+13162604502",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Jim Meyer",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "The team from Pinnacle Remodel did an outstanding job on our remodeling project.\nEveryone was so nice and easy to work with.\nThey made sure we were happy with everything along the way.",
+    "owner": "Response from the owner 7 months ago\nThank you so much for your kind words, Jim! We\u2019re thrilled to hear that you had a wonderful experience with us on your remodel. "
+   },
+   {
+    "reviewer": "Kathleen Valentine",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "We are very pleased with our deck project, from beginning to end.  Steven and Jason began the project by building the foundation,  then Steven took it from there, bringing it to an excellent finish.  This was done with superb precision and \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you for your review, Kathleen! We appreciate it very much!"
+   },
+   {
+    "reviewer": "Colleen Young",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "Loving our new shower and linen closet/robe and towel area!  Pinnacle did a great job giving us our dream master bath!!",
+    "owner": "Response from the owner 10 months ago\nThank you so much for the 5-star review! We\u2019re thrilled to hear you\u2019re loving your new shower and linen/towel area. It was a pleasure working with you and bringing your dream master bath to life. We truly appreciate you choosing Pinnacle!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@pinnacleremodel.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@pinnacleremodel.com",
+    "page": "https://www.pinnacleremodel.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.pinnacleremodel.com/about/our-team",
+    "snippet": "Owner and Founder"
+   },
+   {
+    "page": "https://www.pinnacleremodel.com/about/our-team",
+    "snippet": "Co-Owner"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/PinnacleWichita/",
+   "https://www.facebook.com/WixStudio"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/pinnaclewichita",
+   "https://www.instagram.com/wix"
+  ],
+  "franchise_mentions": [
+   "rebath"
+  ],
+  "niche_word_counts": {
+   "kitchen": 15,
+   "bath": 8,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
    "cabinet": 0,
    "siding": 0,
-   "window": 4,
+   "window": 0,
    "pool": 0,
    "solar": 0,
    "custom home": 0
@@ -91,562 +533,38 @@
   ],
   "competitor_pool": [
    {
-    "name": "Apex Shower & Bath",
-    "url": "https://www.apexshowers.com/",
+    "name": "Five Star Remodeling LLC",
+    "url": "https://fivestarwichita.com/",
     "gbp_address": null
    },
    {
-    "name": "Bob McGrath Construction",
-    "url": "https://bobmcgrathconstruction.com/",
+    "name": "Honey Do Homes",
+    "url": "https://honeydohomes.com/",
     "gbp_address": null
    },
    {
-    "name": "Center Point Renovations Colorado",
-    "url": "https://www.centerpointrenovationscolorado.com/",
+    "name": "Kitchen Concepts Design Studio",
+    "url": "https://www.kitchenconceptsdesign.com/",
     "gbp_address": null
    },
    {
-    "name": "Stillwater Bath and Shower",
-    "url": "https://coloradospringsbathroomremodels.com/",
-    "gbp_address": "\ue0c8\n2210 E La Salle St Suite 224, Colorado Springs, CO 80909, United States"
-   },
-   {
-    "name": "Hammerhead Remodeling",
-    "url": "https://www.hammerheadremodeling.com/",
+    "name": "Strategic Remodel Inc.",
+    "url": "https://remodelks.com/",
     "gbp_address": null
    },
    {
-    "name": "Holloway Custom Kitchen, Bath, and Basement Remodeling",
-    "url": "https://www.hollowaycustoms.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Fountain, CO"
-  ]
- },
- {
-  "id": "jahirverdehomes.com",
-  "name": "Best General Construction",
-  "region": "R4",
-  "website": "https://www.jahirverdehomes.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://www.jahirverdehomes.com/"
-   ],
-   "contact": [
-    "https://contact.jahirverdehomes.com/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAElN9vTIYRn7tkz4bp_P0&hl=en",
-    "quote": "James: 'a month ago' (Google relative timestamp, retrieved 2026-10-18)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAElN9vTIYRn7tkz4bp_P0&hl=en",
-  "gbp_title": "Best General Construction",
-  "gbp_address": "\ue0c8\n320 W Fulton St, Van Alstyne, TX 75495, United States",
-  "gbp_rating": "5.0\n(5)",
-  "gbp_phone": "phone:tel:+14697711017",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "James",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "Jahir and team completed a stucco job along with some siding, fascia and painting. His crew did a great job and the communication was great. I would recommend for hire.",
-    "owner": null
-   },
-   {
-    "reviewer": "Drake Kniffin",
-    "when": "3 days ago",
-    "stars": "5 stars",
-    "text": "Great work done in a timely manner. They did a wooden fence, siding on my house, repairs and staining on the pergola and shutters, and repaired and stained the porch and posts. They looked for every little detail that they could to make it perfect. Worked long late hours to get done quickly. Will use them for anything in the future",
-    "owner": null
-   },
-   {
-    "reviewer": "Kala Elliott",
-    "when": "a week ago",
-    "stars": "5 stars",
-    "text": "Mr. Verde and his crew were awesome! They did timely work showed up did it at the price quoted made sure I was happy with all the work fix any little bitty issues and I\u2019m gonna continue to use him for all my home needs. I highly recommend!",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "jahir.verde@bestgenconstruction.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:Jahir.verde@bestgenconstruction.com",
-    "page": "https://www.jahirverdehomes.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/people/Jahir-Verde-Homes/61592574642056/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/jahirverdehomes"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 4,
-   "bath": 3,
-   "roof": 8,
-   "plumb": 1,
-   "hvac": 1,
-   "handyman": 0,
-   "floor": 2,
-   "cabinet": 2,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 11
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 34"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Adams General Contracting, Inc.",
-    "url": "https://adamsgcinc.com/",
+    "name": "Sunflower State Remodelers",
+    "url": "https://sunflowerstateremodelers.com/",
     "gbp_address": null
    },
    {
-    "name": "MSM Cabinets",
-    "url": "https://www.msmcabinets.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Prime Construction & Remodeling LLC",
-    "url": "https://primeconstructionremodel.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Rowtex Remodeling LLC",
-    "url": "https://www.rowtexremodeling.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "USA Cabinets Outlet",
-    "url": "https://usacabinetsoutlet.com/",
+    "name": "Tailored Roofing and Remodeling Inc",
+    "url": "https://www.tailoredremodeling.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Anna, TX"
-  ]
- },
- {
-  "id": "masterixbuilders.com",
-  "name": "Masterix Builders LLC",
-  "region": "R4",
-  "website": "https://masterixbuilders.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://masterixbuilders.com/"
-   ],
-   "contact": [
-    "https://masterixbuilders.com/contact/"
-   ],
-   "about": [
-    "https://masterixbuilders.com/about/"
-   ],
-   "gallery": [
-    "https://masterixbuilders.com/projects/",
-    "https://masterixbuilders.com/our-recent-project/from-garage-to-dream-pilates-studio/"
-   ],
-   "legal": [
-    "https://masterixbuilders.com/privacy-policy/",
-    "https://masterixbuilders.com/privacy-policy/",
-    "https://masterixbuilders.com/terms-and-conditions/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-09-22",
-    "url": "https://masterixbuilders.com/luxury-remodeling-innovative-construction-in-utah-designing-for-lasting-performance/",
-    "quote": "wp-json/posts published 2026-09-22T09:02:34: 'Luxury Remodeling &#038; Innovative Construction in Utah: Designing for Lasting '"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4A-dt_Qe04ReZL6kO4L4Rw&hl=en",
-  "gbp_title": "Masterix Builders LLC",
-  "gbp_address": "\ue0c8\n427 N 500 W, Clearfield, UT 84015, United States",
-  "gbp_rating": "5.0\n(15)",
-  "gbp_phone": "phone:tel:+13852402656",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Sandra Paletta",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "I love the attention of detail in my new beautiful walking shower. Samuel took the time to do this proyect the right way. I will hiring them again on my nexts projects. I highly recommend this company..",
-    "owner": "Response from the owner 3 months ago\nThank you, Sandra! We\u2019re thrilled you love your new walking shower and that Samuel\u2019s attention to detail made the project right. We appreciate your high recommendation and look forward to working with you on your next projects."
-   },
-   {
-    "reviewer": "Marco Colindres",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "Re-did out fireplace. Dropped in 12\u201d and chances from black tile to natural stone. Added a mantle too. Incredible work. Professional, trustworthy! Reasonably priced. I will be using them again!",
-    "owner": "Response from the owner 4 months ago\nThank you, Marco! We\u2019re thrilled you love the new fireplace, stone work, and mantle. We appreciate your kind words about our professionalism, trustworthiness, and pricing. We look forward to working with you again on your next project."
-   },
-   {
-    "reviewer": "Dana Manning",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "Cesar and his team were recommended by our realtor. He did not disappoint! We hired him to remove carpet and install LVP in our basement, the bedroom, and bathroom (downstairs) before installing a complete kitchenette with soft-closing \u2026",
-    "owner": "Response from the owner 4 months ago\nThank you, Dana, for the wonderful review and for trusting us with your new home. We\u2019re glad Cesar, Samuel, and Cristobal delivered on the LVP, kitchenette, plumbing, ventilation, and toilet work and that our estimates and timelines met \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "contact@masterixbuilders.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:Contact@masterixbuilders.com",
-    "page": "https://masterixbuilders.com/"
-   },
-   {
-    "email": "info@masterixbuilders.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@masterixbuilders.com",
-    "page": "https://masterixbuilders.com/terms-and-conditions/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 14,
-   "bath": 11,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 1,
-   "floor": 2,
-   "cabinet": 1,
-   "siding": 3,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 46",
-   "gallery images over 1MB each: https://masterixbuilders.com/wp-content/uploads/2026/04/d3e28d3f-2648-4395-9ad2-452250120730.png = 2,108,815 bytes; https://masterixbuilders.com/wp-content/uplo"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Alpha801",
-    "url": "https://alpha801.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Built Right Contractors",
-    "url": "https://www.builtrighthome.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Hanson Home Works Inc",
-    "url": "https://hansonhomeworks.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "North Davis Cabinet",
-    "url": "https://ndcabinet.com:443/",
-    "gbp_address": null
-   },
-   {
-    "name": "Out Of The Woods Custom Cabinets and Countertops",
-    "url": "https://ootwc.com/",
-    "gbp_address": "\ue0c8\n1720 W Gordon Ave, Layton, UT 84041, United States"
-   },
-   {
-    "name": "Premier Remodeling",
-    "url": "https://www.remodelbypremier.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Clearfield, UT",
-   "Syracuse, UT"
-  ]
- },
- {
-  "id": "texas7homes.com",
-  "name": "TEXAS 7 HOMES LLC",
-  "region": "R4",
-  "website": "https://texas7homes.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://texas7homes.com/"
-   ],
-   "contact": [
-    "https://texas7homes.com/.lsrecap/recaptcha?"
-   ],
-   "about": [
-    "https://texas7homes.com/about/"
-   ],
-   "gallery": [
-    "https://texas7homes.com/gallery/"
-   ],
-   "legal": [
-    "https://texas7homes.com/privacy-policy/",
-    "https://texas7homes.com/privacy-policy/",
-    "https://texas7homes.com/terms"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-10-06",
-    "url": "https://texas7homes.com/buying-a-lot-in-bell-county-tx/",
-    "quote": "wp-json/posts published 2026-10-06T15:31:07: 'Buying a Lot in Bell County: Costs Beyond the Lot Price'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33GeEEAsi6QR_WHpOfW2XTk&hl=en",
-  "gbp_title": "TEXAS 7 HOMES LLC",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(22)",
-  "gbp_phone": "phone:tel:+12548030861",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Raye Mayhorn",
-    "when": "5 months ago",
-    "stars": "5 stars",
-    "text": "What beautiful homes. Their custom designs stand out with quality and imaginative features. With so many homes and the same floor plans it\u2019s hard to distinguish one from the other. But you\u2019ll know you have a Texas 7 Home when you see the architects design. Before you commit to build check them out, you\u2019ll be so glad you did.",
-    "owner": "Response from the owner 5 months ago\nThank you Raye!!! That means so much to hear that from you!"
-   },
-   {
-    "reviewer": "Christopher Bailey",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "This is an awesome company to deal with ! Don\u2019t wait to call them for your home building needs. They will be with you every step of the way!",
-    "owner": "Response from the owner 5 months ago\nThank You let us know when you get someone ready to build !"
-   },
-   {
-    "reviewer": "Wanda Smetana",
-    "when": "8 months ago",
-    "stars": "5 stars",
-    "text": "I bought a new home from Texas 7 Homes and I absolutely love it.  Its well built and perfect for me.  I definitely recommend!!",
-    "owner": "Response from the owner 8 months ago\nYour home was so fun to build we love that floor plan. The 3 car garage is a must now days!"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@texas7homes.net",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@texas7homes.net",
-    "page": "https://texas7homes.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 3,
-   "bath": 1,
-   "roof": 0,
-   "plumb": 1,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 1,
-   "cabinet": 3,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 6
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 51"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Peavy\u2019s Remodeling and Construction LLC",
-    "url": "https://reviews.birdeye.com/peavy-s-remodeling-and-construction-llc-172498538407775",
-    "gbp_address": null
-   },
-   {
-    "name": "Finally Yours Construction",
-    "url": "https://www.fybuilders.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "JW Construction",
-    "url": "https://www.jwconstructionbelton.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Kitchen Encounters LLC",
-    "url": "https://www.kitchenenc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Lonestar Construction Pros",
-    "url": "https://lonestarconstructionpros.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Salado Creek Remodeling, LLC",
-    "url": "https://saladocreekremodeling.com",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Belton, TX"
-  ]
- },
- {
-  "id": "top1builders.com",
-  "name": "Top Builders",
-  "region": "R4",
-  "website": "https://top1builders.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://top1builders.com/"
-   ],
-   "contact": [
-    "https://top1builders.com/contact-us/"
-   ],
-   "about": [
-    "https://top1builders.com/about-us/"
-   ],
-   "gallery": [
-    "https://top1builders.com/gallery/",
-    "https://top1builders.com/services/demolition/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-09-22",
-    "url": "https://top1builders.com/blog/bathroom-remodel-cost-arvada/",
-    "quote": "wp-json/posts published 2026-09-22T11:47:23: 'How Much Does a Bathroom Remodel Cost in Arvada, CO?'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJcw01yESnuYkR8kdFpklPnUk&hl=en",
-  "gbp_title": "Top Builders",
-  "gbp_address": "\ue0c8\n3320 Ingalls St, Wheat Ridge, CO 80033, United States",
-  "gbp_rating": "5.0\n(52)",
-  "gbp_phone": "phone:tel:+17208037204",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Kail",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "5 Stars!\n\nI cannot say enough good things about Top Builders in Denver! When I bought my \u2026",
-    "owner": "Response from the owner Edited 3 months ago\nWow, Kail, your review absolutely made our day! We're overjoyed that Eli and the team could deliver your perfect bathroom makeover. Knowing that we helped turn your house into a home fills us with pride. If you have any more projects in mind, we'd be thrilled to assist!"
-   },
-   {
-    "reviewer": "Sandra L\u00f3pez",
-    "when": "7 months ago",
-    "stars": "5 stars",
-    "text": "Our project was new bathroom remodel for our master bathroom. Me and my husband move to a new house and we had to remodel our bathroom after checking with few companies. Eli from Top builders was our choice. They did a great job. Pay \u2026",
-    "owner": "Response from the owner Edited 3 months ago\nWe're absolutely delighted to hear your new bathroom turned out just as you wanted! Your kind words mean the world to us and it's wonderful knowing our team could exceed your expectations. We're here to help with any future projects. Thank you again for trusting Top Builders!"
-   },
-   {
-    "reviewer": "Shelly Klain",
-    "when": "2 years ago",
-    "stars": "5 stars",
-    "text": "Eli and Top builders -Decks did an amazing job replacing our old deck and lower patio! From beginning to end, Eli helped with the planning and design and was happy to make any changes along the way. He was always available to answer any \u2026",
-    "owner": "Response from the owner Edited 3 months ago\nWe truly appreciate your wonderful feedback, and we\u2019re overjoyed that you loved the work Eli and our team did on your deck and patio! Knowing you felt supported through every step of the process really makes us smile. Your recommendation means a lot to us, and we're excited to potentially assist you with any future projects!"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "coloradotopbuilders@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:coloradotopbuilders@gmail.com",
-    "page": "https://top1builders.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/people/Top-builders/61556232315361/?mibextid=LQQJ4d",
-   "https://www.facebook.com/profile.php?id=61556232315361"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/topbuilders8"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 19,
-   "bath": 26,
-   "roof": 9,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 9,
-   "cabinet": 2,
-   "siding": 10,
-   "window": 1,
-   "pool": 1,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 58"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Buerger Brothers Construction LLC",
-    "url": "https://bbcgolden.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Cress Kitchen & Bath",
-    "url": "https://www.cresskitchenbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Custom Cabinets LLC",
-    "url": "https://www.customcabinets303.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "JM Kitchen & Bath Design",
-    "url": "https://jmwoodworks.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Kitchen and Bath by Design",
-    "url": "https://kbdcolorado.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Latigo Construction",
-    "url": "https://www.latigoconstructioninc.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Wheat Ridge, CO"
+   "Wichita, KS"
   ]
  }
 ]

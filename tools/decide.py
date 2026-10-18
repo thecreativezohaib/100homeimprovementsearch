@@ -69,8 +69,13 @@ def load():
         if x["id"] in site:
             site[x["id"]]["g8extra"] = x
     manual = {}
-    for x in jl(f"{D}/manual/*.jsonl"):
-        manual.setdefault(x["id"], {}).update(x)
+    def wave_order(f):  # later waves win: R*.jsonl (waves 1 to 6), then W7..W13 by number, coord.jsonl last
+        b = os.path.basename(f)
+        m = re.match(r"W(\d+)_(\d+)", b)
+        return (2, 0, 0, b) if b.startswith("coord") else (1, int(m[1]), int(m[2]), b) if m else (0, 0, 0, b)
+    for f in sorted(glob.glob(f"{D}/manual/*.jsonl"), key=wave_order):
+        for x in jl(f):
+            manual.setdefault(x["id"], {}).update(x)
     pre = {x["id"]: x for x in jl(f"{D}/pregate_rejects.jsonl")}
     # newest Google review dates the user collected through Gemini (output/review_requests/)
     SOCIAL.clear()
