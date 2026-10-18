@@ -13,6 +13,23 @@ sys.path.insert(0, "/home/user/100homeimprovementsearch/tools")
 from decide import jl, D  # noqa: E402
 
 ISO = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+from common import rel_window  # noqa: E402
+from datetime import date  # noqa: E402
+UNIT = {"d": "day", "w": "week", "m": "month", "y": "year", "h": "hour"}
+
+
+def as_date(v, checked):
+    """ISO dates pass through; Facebook-style relative stamps ('10w', '3d', '2 weeks ago') become the EARLIEST
+    possible date on the checked_on day (common.rel_window), with a note. Anything else is dropped."""
+    if ISO.match(v):
+        return v, ""
+    m = re.match(r"^(\d+)\s*([dwmyh])$", v.strip().lower())
+    rel = f"{m[1]} {UNIT[m[2]]}s ago" if m else v
+    try:
+        w = rel_window(rel, retrieved=date.fromisoformat(checked))
+    except ValueError:
+        w = None
+    return (w[0].isoformat(), f" (shown as '{v}' on {checked}; earliest possible date used)") if w else ("", "")
 # rows refer to firms_complete.csv (GEMINI_COMPLETE.md); pass --old for answers to GEMINI_ALL_v2.md and its addenda
 FIRMS = "firms.csv" if "--old" in sys.argv else "firms_complete.csv"
 sys.argv = [a for a in sys.argv if a != "--old"]
@@ -62,14 +79,14 @@ for path in sys.argv[1:]:
         posts = []
         for plat, uk, dk, qk in (("Facebook page", "facebook_url", "facebook_latest_post_date", "facebook_post_first_words"),
                                  ("Instagram account", "instagram_url", "instagram_latest_post_date", None)):
-            u, dd = val(r, uk), val(r, dk)
-            if not (u and ISO.match(dd)):
+            u, (dd, relnote) = val(r, uk), as_date(val(r, dk), chk)
+            if not (u and dd):
                 continue
             if norm_acct(u) not in linked:
                 cnt["social_not_linked"] += 1
                 continue
             posts.append({"date": dd, "platform": plat, "account": u, "quote": " ".join(val(r, qk).split()[:12]) if qk else "",
-                          "method": f"{plat} latest post date {src}; account linked from the company's own site"})
+                          "method": f"{plat} latest post date{relnote} {src}; account linked from the company's own site"})
         if posts:
             social[cid] = {"id": cid, "posts": posts}
             cnt["social"] += 1
