@@ -1,0 +1,2036 @@
+[
+ {
+  "id": "craftedhome.com",
+  "name": "CRAFTED Custom Homes + Renovations",
+  "region": "R4",
+  "website": "https://craftedhome.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://craftedhome.com/"
+   ],
+   "contact": [
+    "https://craftedhome.com/contact-us"
+   ],
+   "about": [
+    "https://craftedhome.com/meet-the-team",
+    "https://craftedhome.com/homeowner-tips"
+   ],
+   "gallery": [
+    "https://craftedhome.com/portfolio",
+    "https://craftedhome.com/portfolio"
+   ],
+   "legal": [
+    "https://craftedhome.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJS8oCGIbBQIYRr8yarAUYYf0&hl=en",
+    "quote": "charisse Marshall: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-10-14",
+    "url": "https://www.linkedin.com/posts/crafted-home-houston_builder-horror-story-1-failing-brick-activity-7516151764518309889-QLmM",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/crafted-home-houston/ post: 'Imagine finding your car crushed by the falling bricks of your house.'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8oCGIbBQIYRr8yarAUYYf0&hl=en",
+  "gbp_title": "CRAFTED Custom Homes + Renovations",
+  "gbp_address": "\ue0c8\n5323 Gulfton St, Houston, TX 77081, United States",
+  "gbp_rating": "4.8\n(24)",
+  "gbp_phone": "phone:tel:+17136647131",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "JR Lay",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "It's been a great experience working with Crafted to begin building our custom home. \u2026",
+    "owner": "Response from the owner 3 months ago\nJR, we are truly grateful for the kind words.\n\nBuilding homes like yours keeps us motivated. \u2026 More"
+   },
+   {
+    "reviewer": "charisse Marshall",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "an organized home builder who does not cut corners and strives to meet the demand of details! Jeff Matson goes the extra 10 miles to make sure that all desires are met and follows through with all trades to assure compliance!!!!!!!",
+    "owner": "Response from the owner 2 months ago\nThank you Charisse! We do our best!"
+   },
+   {
+    "reviewer": "Bill Brown",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "The work replacement done by Custom Crafted Homes after a tornado hit our house was of the highest quality and the workmanship was on time and created a superb look.",
+    "owner": "Response from the owner 6 months ago\nThanks Bill!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@craftedhome.com",
+    "how": "plain text",
+    "raw": "info@craftedhome.com",
+    "page": "https://craftedhome.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://craftedhome.com/",
+    "snippet": "FOUNDER & PRINCIPAL"
+   },
+   {
+    "page": "https://craftedhome.com/",
+    "snippet": "Builder Insights from our Founder"
+   },
+   {
+    "page": "https://craftedhome.com/meet-the-team",
+    "snippet": "FOUNDER & PRINCIPAL"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/CraftedCustomHomes/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/craftedhomehouston"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 7,
+   "bath": 8,
+   "roof": 0,
+   "plumb": 3,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 7
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 32",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/59e9fe7ed0e6286614bf08e4/bb4532cb-f75d-4863-937e-ed1fcbaa1bb7/Ext+1+-+no+s = 1,085,542 bytes (HTTP Content-Length)"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Crescent Remodeling Houston",
+    "url": "https://crescentremodelinghouston.com/contact-us/",
+    "gbp_address": null
+   },
+   {
+    "name": "HTR Houston Texas Remodeling",
+    "url": "https://www.houstontexasremodeling.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Grand Kitchen & Floor Woodlands",
+    "url": "https://modernkitchenmasters.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "She Builds All",
+    "url": "https://shebuildsall.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Unique Builders and Remodeling Houston",
+    "url": "https://www.uniquebuilderstexas.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "YAB Kitchen & Bathoom Remodeling",
+    "url": "https://yabconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Bellaire, TX"
+  ]
+ },
+ {
+  "id": "custom-contracting.com",
+  "name": "Custom Contracting Inc.",
+  "region": "R1",
+  "website": "https://custom-contracting.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://custom-contracting.com/"
+   ],
+   "contact": [
+    "https://custom-contracting.com/contact/",
+    "https://custom-contracting.com/contact/"
+   ],
+   "about": [
+    "https://custom-contracting.com/about/"
+   ],
+   "gallery": [
+    "https://custom-contracting.com/portfolio/"
+   ],
+   "legal": [
+    "https://custom-contracting.com/privacy-policy/",
+    "https://custom-contracting.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJxZ8rTzt244kRcmcUKbJjU3w&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "The Custom contracting team is extraordinary and should"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZ8rTzt244kRcmcUKbJjU3w&hl=en",
+  "gbp_title": "Custom Contracting Inc.",
+  "gbp_address": "\ue0c8\n1267A Massachusetts Ave, Arlington, MA 02476, United States",
+  "gbp_rating": "4.7\n(13)",
+  "gbp_phone": "phone:tel:+17816482835",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Kyu Han Lee",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Custom Contracting took on a kitchen/dining room renovation project at our home. They are incredibly good at what they do and take pride in the quality of their work. To top it off, it felt like we were working with neighborhood friends. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Simon Islam",
+    "when": "4 years ago",
+    "stars": "1 star",
+    "text": "I contacted CC to inquire about a significant project for my home in West Medford. The office was great and said the owner would be following up with me shortly. He contacted me many weeks later and oddly stated he could not take on my \u2026",
+    "owner": "Response from the owner 3 years ago\nWe decided the project was not a fit for us. He is correct, I did not call back and let him know and I apologize "
+   },
+   {
+    "reviewer": "Daniel Gomez",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "Hired Cust9m Contracting for a Master beedroom/bathroom renovation.\nFrom the very beginning they were very professional. Their proposal came with a daily/weekly schedule with exactly what we could expect day by day. \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "cci@custom-contracting.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:cci@custom-contracting.com",
+    "page": "https://custom-contracting.com/"
+   },
+   {
+    "email": "office@custom-contracting.com",
+    "how": "plain text",
+    "raw": "office@custom-contracting.com",
+    "page": "https://custom-contracting.com/privacy-policy/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://custom-contracting.com/about/",
+    "snippet": "President"
+   },
+   {
+    "page": "https://custom-contracting.com/about/",
+    "snippet": "General Manager"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/CustomContractingInc"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/customcontractingma"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 16,
+   "bath": 16,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://custom-contracting.com/wp-content/uploads/2024/06/HVS00629-2-e1719174671347.jpg = 1,576,444 bytes (HTTP Content-Length); https://custom-contracting.com/"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Arcady's Carpentry",
+    "url": "https://www.arcadyscarpentry.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bay State Remodeling",
+    "url": "https://baystateremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "MK Renovation",
+    "url": "https://mkrenovationma.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "River City Construction Inc",
+    "url": "https://rivercityboston.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "S+H Construction",
+    "url": "https://www.shconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Creative Design Interiors Kitchen and Bath",
+    "url": "https://www.cdikitchens.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Belmont, MA",
+   "Winchester, MA"
+  ]
+ },
+ {
+  "id": "socaldesignonline.com",
+  "name": "SoCal Design + Build",
+  "region": "R5",
+  "website": "https://www.socaldesignonline.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.socaldesignonline.com/"
+   ],
+   "contact": [
+    "https://www.socaldesignonline.com/contact-us/"
+   ],
+   "about": [
+    "https://www.socaldesignonline.com/our-company/about-socal/"
+   ],
+   "legal": [
+    "https://www.socaldesignonline.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-14",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJTc7q_M1bwoARZMchs-OUKp8&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "Amazing crew, my designers were easy to work"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJTc7q_M1bwoARZMchs-OUKp8&hl=en",
+  "gbp_title": "SoCal Design + Build",
+  "gbp_address": "\ue0c8\n42332 1/4 10th St W, Lancaster, CA 93534, United States",
+  "gbp_rating": "4.7\n(15)",
+  "gbp_phone": null,
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Michael Polda",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "We recently had our kitchen remodeled by SoCal Design + Build, and the transformation is incredible. What was once a dark, dated kitchen is now a bright, modern, and highly functional space that we genuinely enjoy spending time in. \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you for the kind words, Michael. We enjoyed working with you and your family. We love your love of color. \ud83d\udc99\ud83d\udc9a\ud83e\udde1 \u2026"
+   },
+   {
+    "reviewer": "Kerry Perkins",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Nothing but great things to say about my experience with my kitchen cabinets refresh. Amber was great to work with - straightforward and honest and I felt very confident in her proposals. Dimitri was my designer and understood exactly what \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Cliff Relyea",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "Both Amber and John were very helpful in the design and remodel of our kitchen. Their vast knowledge made this a wonderful experience. We just love our new recessed lighting, as well as our quartz counter tops. We highly recommend them for your next project.",
+    "owner": "Response from the owner 5 months ago\nThank you Cliff. Meeting you and Beverly was an absolute pleasure. We were happy to assist in making your home even more beautiful than it already was. "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@socaldesignonline.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@socaldesignonline.com",
+    "page": "https://www.socaldesignonline.com/contact-us/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 7,
+   "bath": 5,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 55"
+  ],
+  "competitor_pool": [
+   {
+    "name": "ModernRise Bathroom Lancaster",
+    "url": "https://6aa7e0b9258b2.site123.me/",
+    "gbp_address": null
+   },
+   {
+    "name": "Advanced Construction and Design Inc",
+    "url": "https://www.advancedconstructionanddesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "CR Remodeling",
+    "url": "https://www.crremodelingca.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Diamond Construction Co.",
+    "url": "https://diamondconstruction-co.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Town Remodeling",
+    "url": "https://hometownremodelinginc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "IronBuilt Inc.",
+    "url": "https://www.ironbuiltinc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Lancaster, CA",
+   "Palmdale, CA"
+  ]
+ },
+ {
+  "id": "extraordinaryremodeling.com",
+  "name": "Extraordinary Remodeling LLC",
+  "region": "R4",
+  "website": "https://extraordinaryremodeling.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://extraordinaryremodeling.com/"
+   ],
+   "legal": [
+    "https://extraordinaryremodeling.com/privacy-policy/",
+    "https://extraordinaryremodeling.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-04",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WTGJgg3TIYRWb9CjppFVS0&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "They did the accent walls in both of"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WTGJgg3TIYRWb9CjppFVS0&hl=en",
+  "gbp_title": "Extraordinary Remodeling LLC",
+  "gbp_address": null,
+  "gbp_rating": "4.8\n(58)",
+  "gbp_phone": "phone:tel:+12149515612",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Elizabeth Hall",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "We have used Extraordinary Remodeling for two significant home projects, a master bathroom remodel including changing the layout and a media room to game room conversion. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Michelle Strommer",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "Extraordinary Remodeling has done two jobs for us and they will easily be our first choice for our next project as well.   The consultation was easy to set up and the quotes we were given were very reasonable for the jobs we requested. \u2026",
+    "owner": "Response from the owner 2 years ago\n\nThank you very much for taking the time to share your thoughts and experience with our company, Extraordinary Remodeling. We are thrilled to hear that you are \u2026 More"
+   },
+   {
+    "reviewer": "jackson singer",
+    "when": "Edited 3 years ago",
+    "stars": "5 stars",
+    "text": "Juan and his crew are phenomenal.  They are always early to the job and do they whatever makes the customer happy.  They make sure everything is clean and even during a remodel, you never know they are there.  His crew is friendly, \u2026",
+    "owner": "Response from the owner 3 years ago\nThank you for your review; it is always fun and delightful working for your family. "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "extraordinaryremodeling@gmail.com",
+    "how": "plain text",
+    "raw": "extraordinaryremodeling@gmail.com",
+    "page": "https://extraordinaryremodeling.com/privacy-policy/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [
+   "https://www.instagram.com/extraordinaryremodeling"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 8,
+   "bath": 17,
+   "roof": 0,
+   "plumb": 2,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 56"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Dallas Remodel & Design",
+    "url": "https://dallasremodeldesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "DTXRemode lnc Little Elm Tx",
+    "url": "https://www.dtxremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Southstar Contracting Home & Bathroom remodel LLC",
+    "url": "https://southstarcontracting.com",
+    "gbp_address": null
+   },
+   {
+    "name": "What's Next Remodeling LLC",
+    "url": "https://whatsnextremodeling.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Little Elm, TX"
+  ]
+ },
+ {
+  "id": "gcontracting.com",
+  "name": "G Contracting",
+  "region": "R1",
+  "website": "https://gcontracting.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://gcontracting.com/"
+   ],
+   "contact": [
+    "https://gcontracting.com/contact-us"
+   ],
+   "about": [
+    "https://gcontracting.com/about-us"
+   ],
+   "gallery": [
+    "https://gcontracting.com/portfolio"
+   ],
+   "legal": [
+    "https://gcontracting.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJo0F4LCU5xIkRo2bK8HD58wk&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "The East Hills Moravian Church board of Trustees"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0F4LCU5xIkRo2bK8HD58wk&hl=en",
+  "gbp_title": "G Contracting",
+  "gbp_address": "\ue0c8\n1032 N Irving St, Allentown, PA 18109, United States",
+  "gbp_rating": "4.8\n(100)",
+  "gbp_phone": "phone:tel:+16108493946",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Alicia Wood",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "I had my master bath remodeled and G did a fantastic job. They took my builder grade bath and turned it into a luxurious bath. The process from start to finish was seem less. It can be very overwhelming making selections and Kate our \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Coleen Harleman",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "If you are considering a home remodel, look no further than G Contracting & Design. From start to finish, our kitchen/ family room renovation was a seamless experience. It started with Kate, our incredible designer, who listened to what we \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Jennifer Chomo",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "We hired G Contracting on the recommendation of friends and we could not be more pleased with the results! After 26 years, it was time for a refresh of our downstairs. We needed paint, countertops and backsplash, lighting, and just a \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "office@gcontracting.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:office@gcontracting.com",
+    "page": "https://gcontracting.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/gcontractingllc/",
+   "https://www.facebook.com/gcontractingllc/reviews/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/gcontractingllc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 2,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 39"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bath Planet of Eastern Pennsylvania",
+    "url": "https://greenecosolutions.com/bathroom-remodeling/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Solvers of Columbus",
+    "url": "https://kitchensolvers.com/columbus/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kozi Contracting LLC",
+    "url": "https://www.kozicontracting.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Lehigh Valley Kitchen & Bath",
+    "url": "https://lvkitchenbath.com/kitchen-remodel-quote/",
+    "gbp_address": null
+   },
+   {
+    "name": "Penn Contractors Inc.",
+    "url": "https://www.penncontractors.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Perfect Kitchens and Baths",
+    "url": "https://www.perfectkitchensandbaths.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Allentown, PA"
+  ]
+ },
+ {
+  "id": "twopoorteachers.com",
+  "name": "Two Poor Teachers",
+  "region": "R2",
+  "website": "https://twopoorteachers.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://twopoorteachers.com/"
+   ],
+   "contact": [
+    "https://twopoorteachers.com/contact/"
+   ],
+   "about": [
+    "https://twopoorteachers.com/about/"
+   ],
+   "gallery": [
+    "https://twopoorteachers.com/projects/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-09-26",
+    "url": "https://www.linkedin.com/posts/twopoorteachers_bathroomdesign-twopoorteachers-activity-7509718943775793152-B2f6",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/twopoorteachers/ post: 'We use the latest modern trends in our bathroom remodels. Marble-look tile,'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5ic8kmzt4kRq_DV0_3xfsA&hl=en",
+  "gbp_title": "Two Poor Teachers",
+  "gbp_address": "\ue0c8\n12332 Quiet Hollow Ct, Fairfax, VA 22033, United States",
+  "gbp_rating": "4.7\n(47)",
+  "gbp_phone": "phone:tel:+17039992929",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Kimi Sugen",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "The bathroom in our basement had a major leak from a burst pipe and we were in need of a complete gut and remodel. Our realtor recommended we contact Two Poor Teachers since they helped her with a kitchen remodel. \u2026",
+    "owner": "Response from the owner 4 months ago\nKimi,\nThank you and your family for letting us get your bathroom taken care of after the leak. Enjoy the new remodel!\n-TPT"
+   },
+   {
+    "reviewer": "Vicky Mishra",
+    "when": "Edited 7 years ago",
+    "stars": "5 stars",
+    "text": "Long time customers of Two Poor Teachers, had a bathroom remodel done 11 years ago when we bought our home. This time we had them remodel our kitchen after starting to remodel our living room. As always it turned out great and we are happy with the outcome. Thank you again!",
+    "owner": "Response from the owner 7 years ago\nThank you for your review! We appreciate your business! Ken and the TPT family..."
+   },
+   {
+    "reviewer": "Yongchil Ly",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "Main bathroom renovation, we are very happy with the work, professional and on time. They kept our home clean every day after they leave. Overall the process went well.",
+    "owner": "Response from the owner 3 years ago\nThank you for entrusting us with your remodel.  Ken and the TPT family... :)"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "jklein@twopoorteachers.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:jklein@twopoorteachers.com",
+    "page": "https://twopoorteachers.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://twopoorteachers.com/about/",
+    "snippet": "Founded by two Fairfax PE teachers with a passion for quality work, Two Poor Teachers has been delivering exceptional kitchen and"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/twopoorteachers"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/twopoorteachers"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 11,
+   "bath": 15,
+   "roof": 1,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 3,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 51"
+  ],
+  "competitor_pool": [
+   {
+    "name": "City Kitchen & Bath",
+    "url": "https://citykitchenandbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cyrus Construction LLC",
+    "url": "https://www.cyrus-construction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "HandyMensch Home Remodeling",
+    "url": "https://www.handymensch.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "HomeDesign Pro",
+    "url": "https://homedesigndc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "KBA Kitchen And Bath Design And Build",
+    "url": "https://kbakitchenandbath.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Fairfax, VA"
+  ]
+ },
+ {
+  "id": "allockitchenandbath.com",
+  "name": "All OC Kitchen & Bath Design",
+  "region": "R5",
+  "website": "https://allockitchenandbath.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://allockitchenandbath.com/"
+   ],
+   "contact": [
+    "https://allockitchenandbath.com/contact-us/"
+   ],
+   "about": [
+    "https://allockitchenandbath.com/about-us/",
+    "https://allockitchenandbath.com/meet-the-team/"
+   ],
+   "gallery": [
+    "https://allockitchenandbath.com/alloc-photo-gallery/",
+    "https://allockitchenandbath.com/before-after/"
+   ],
+   "legal": [
+    "https://allockitchenandbath.com/privacy-policy/",
+    "https://allockitchenandbath.com/privacy-policy/",
+    "https://allockitchenandbath.com/terms-and-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-27",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ__fSdYHp3IARLPP_XubC5P8&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "I had a wonderful experience with All OC"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__fSdYHp3IARLPP_XubC5P8&hl=en",
+  "gbp_title": "All OC Kitchen & Bath Design",
+  "gbp_address": "\ue0c8\n22967 La Cadena Dr, Laguna Hills, CA 92653, United States",
+  "gbp_rating": "4.6\n(27)",
+  "gbp_phone": "phone:tel:+19495408797",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Ke Coco",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "All OC Kitchen & Bath just completed the renovation of my two bathrooms. Working with them was a great experience, and I\u2019m very happy with the results. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Donna DeLoss",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "We hired All OC kitchen and bath to remodel our master bathroom and so happy we did! From the first time meeting with Jim at our house we felt very comfortable and confident they would do a beautiful job! After reading all the positive \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Chip DeSon",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "We recently used All OC Kitchen and Bath for our kitchen remodel project.  Carrie did a great job on the design and their contractor/installers were easy to work with and did a super quality job.  Like most remodel projects, ours had some \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "sales@allockbd.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "1a697b767f695a7b7676757971787e34797577",
+    "page": "https://allockitchenandbath.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/allockitchenandbath"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/allockitchenandbath"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 31,
+   "bath": 32,
+   "roof": 3,
+   "plumb": 2,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 9,
+   "cabinet": 8,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 36"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Elite Living Construction",
+    "url": "https://elitelivingconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "KBF Remodeling",
+    "url": "https://www.kbfremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Luxe Remodeling",
+    "url": "https://www.luxeremodelings.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "New Horizon Repair Services",
+    "url": "https://newhorizonrepairservices.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Orange Design Builds",
+    "url": "https://www.orangedesignbuilds.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ruhi Construction - Bathroom and Kitchen Remodeling",
+    "url": "https://ruhiconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Aliso Viejo, CA",
+   "Dana Point, CA",
+   "Irvine, CA",
+   "Laguna Hills, CA",
+   "Laguna Niguel, CA",
+   "Lake Forest, CA"
+  ]
+ },
+ {
+  "id": "craftsmenhome.com",
+  "name": "Craftsmen Home Improvements",
+  "region": "R3",
+  "website": "https://www.craftsmenhome.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.craftsmenhome.com/"
+   ],
+   "contact": [
+    "https://www.craftsmenhome.com/contact-us/"
+   ],
+   "about": [
+    "https://www.craftsmenhome.com/about-us/",
+    "https://www.craftsmenhome.com/home-remodeling-services/kitchen-remodeling/"
+   ],
+   "gallery": [
+    "https://www.craftsmenhome.com/home-remodeling-services/kitchen-remodeling/gallery/",
+    "https://www.craftsmenhome.com/home-remodeling-services/bathroom-remodeling/gallery/"
+   ],
+   "legal": [
+    "https://www.craftsmenhome.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-22",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJl40Yx4mGQIgRaqA-92gpMLQ&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "I highly recommend Craftsmen to anyone looking for"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJl40Yx4mGQIgRaqA-92gpMLQ&hl=en",
+  "gbp_title": "Craftsmen Home Improvements",
+  "gbp_address": "\ue0c8\n2663 S Dixie Dr, Dayton, OH 45409, United States",
+  "gbp_rating": "4.7\n(139)",
+  "gbp_phone": "phone:tel:+19372995201",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Sonja Keaton",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Craftsman Home Improvements staff did a great job! The two remodelers Rick and his son Hunter did an exceptional job on our kitchen remodel. They worked as if they were remodeling for themselves. They were very professional at their job and \u2026",
+    "owner": "Response from the owner 5 months ago\nSonja,  Thank you so much for the great review!  Your kitchen looks fantastic!  It was a pleasure working with you both!  ---Jason"
+   },
+   {
+    "reviewer": "Rick Pohl",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "Craftsman Home Improvements staff did a Fantastic job.  The two Remodelers, Jan and Jade did a Beautiful job.  They work as if they were doing it for themselves. They are very professional at their job and you can tell that they really CARE \u2026",
+    "owner": "Response from the owner 7 months ago\nHi Rick! Thank you so much for your thoughtful review and for trusting Craftsmen Home Improvements with your kitchen remodel. We\u2019re thrilled to hear how happy you are with the finished space. Jan and Jade take great pride in their \u2026 More"
+   },
+   {
+    "reviewer": "JoAnn Christie",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "We recently had Craftsman complete a kitchen remodel for us, and we are very pleased with their process, workmanship, professionalism and the final result. Jason and the rest of the team were incredibly responsive and knowledgeable, always \u2026",
+    "owner": "Response from the owner 7 months ago\nJoAnn, \nThank you so much for the great review!  Your kitchen looks fantastic!  It was a pleasure to work with you both, I hope you enjoy your kitchen for years to come!  --Jason"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "crafts70@aol.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "94f7e6f5f2e0e7a3a4d4f5fbf8baf7fbf9",
+    "page": "https://www.craftsmenhome.com/privacy-policy/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 12,
+   "bath": 11,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 6,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 48"
+  ],
+  "competitor_pool": [
+   {
+    "name": "A.D. Kistler & Son Bathroom Remodeling",
+    "url": "https://adkistler.com/?doing_wp_cron=1791994944.9155950546264648437500",
+    "gbp_address": null
+   },
+   {
+    "name": "Builders Group Construction (BGC)",
+    "url": "https://bgcnow.us/",
+    "gbp_address": null
+   },
+   {
+    "name": "Nick Rohler's Dayton Home Improvement",
+    "url": "https://daytonhomeimprovement.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Houck Remodeling",
+    "url": "https://www.houckremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Limitless Construction",
+    "url": "https://limitlessdayton.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bath Creations",
+    "url": "https://www.mybathcreations.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Dayton, OH",
+   "Huber Heights, OH",
+   "Kettering, OH"
+  ]
+ },
+ {
+  "id": "truepittsburghremodeling.net",
+  "name": "True Pittsburgh Remodeling",
+  "region": "R1",
+  "website": "https://www.truepittsburghremodeling.net/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.truepittsburghremodeling.net/"
+   ],
+   "contact": [
+    "https://www.truepittsburghremodeling.net/contact"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-03",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJDXyAkLCcjIIR5n5RuvSqn6k&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "Kurt and his team at True Pittsburgh Remodeling"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXyAkLCcjIIR5n5RuvSqn6k&hl=en",
+  "gbp_title": "True Pittsburgh Remodeling",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(17)",
+  "gbp_phone": "phone:tel:+14122874536",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Vivian Novak",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "We recently had our bathroom remodeled and could not be happier with the results. The tile work was absolutely outstanding \u2014 every cut, pattern, and finish was done with incredible precision and craftsmanship. The attention to detail \u2026",
+    "owner": "Response from the owner 2 months ago\nThanks so much!"
+   },
+   {
+    "reviewer": "Matt Wilk",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Kurt and Dave at True Pittsburgh Remodeling did an amazing job on our bathroom remodel. They were easy to work with, kept everything on schedule, and really cared about making sure every detail was right. Our bathroom turned out exactly how \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you Matt!"
+   },
+   {
+    "reviewer": "Jillian B",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "We absolutely love the work True Pittsburgh Remodeling did on our bathroom remodel and built-in closet project. From the beginning, they were full of creative ideas and helped us truly visualize what the finished spaces could look like. The \u2026",
+    "owner": "Response from the owner 4 months ago\nJillian, thank you for the amazing review!\n\nIt was a pleasure bringing your bathroom and closet projects to life, and we\u2019re \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "truepittsburghremodeling@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:truepittsburghremodeling@gmail.com",
+    "page": "https://www.truepittsburghremodeling.net/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 6,
+   "bath": 5,
+   "roof": 0,
+   "plumb": 2,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 46"
+  ],
+  "competitor_pool": [
+   {
+    "name": "AKN Interiors",
+    "url": "https://akninteriors.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "C & C Home Remodeling",
+    "url": "https://www.candchomeremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ceramic Tile Sales",
+    "url": "https://www.ctsandmore.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Hemrich and son contracting",
+    "url": "https://hemrichandsoncontracting.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Integrated Contracting and Renovations",
+    "url": "https://www.integratedcontractingandrenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kingswood Designs",
+    "url": "https://www.kingswooddesigns.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Bethel Park, PA",
+   "West Mifflin, PA"
+  ]
+ },
+ {
+  "id": "supernovaconstructioninc.com",
+  "name": "Supernova Construction Inc.",
+  "region": "R1",
+  "website": "https://www.supernovaconstructioninc.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.supernovaconstructioninc.com/"
+   ],
+   "contact": [
+    "https://www.supernovaconstructioninc.com/",
+    "https://www.supernovaconstructioninc.com/contact"
+   ],
+   "gallery": [
+    "https://www.supernovaconstructioninc.com/projects"
+   ],
+   "legal": [
+    "https://www.supernovaconstructioninc.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-29",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJDV24J2NgM68R6C7Yl-orQFA&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "Really impressed with Supernova Construction Inc. They were"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJDV24J2NgM68R6C7Yl-orQFA&hl=en",
+  "gbp_title": "Supernova Construction Inc.",
+  "gbp_address": "\ue0c8\n86 E Main St, Milford, MA 01757, United States",
+  "gbp_rating": "4.9\n(19)",
+  "gbp_phone": "phone:tel:+17742442310",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Keila Maia",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "I had a great experience with Supernova Construction! They handled multiple projects in my home, including interior painting, wall touch-ups, door replacement, and installing a dog door, and everything was done with great attention to \u2026",
+    "owner": "Response from the owner 6 months ago\nHi Keila, thank you so much for the thoughtful review! It was truly a pleasure working on your home and helping with the interior painting, wall touch-ups, door replacements, and the dog door installation. We\u2019re so glad to hear you were \u2026 More"
+   },
+   {
+    "reviewer": "Jeff Kramer",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "I knew Supernova did great work as they have done work in the common areas of my condominium. It was the reason I asked them to give me a quote for painting my unit.  Their quote was in line with a few other quotes I received, but because \u2026",
+    "owner": "Response from the owner 4 months ago\nThank you so much, Jeff, for taking the time to leave such a thoughtful review. It was truly a pleasure working with you on your unit at Milton Landing. \u2026 More"
+   },
+   {
+    "reviewer": "Claudia Green",
+    "when": "4 months ago",
+    "stars": "4 stars",
+    "text": "Silvio has done three different jobs for us, all related to rebuilding different aspects of our deck; most recently when a downed tree crushed part of the railing. Silvio helped us think through what would work and look best, and completed the jobs quickly and well. The deck looks great! Thanks for the great service!",
+    "owner": "Response from the owner 4 months ago\nThank you, Claudia! We truly appreciate your continued trust in us over the years. It was a pleasure helping restore the deck railing after the tree damage, and we\u2019re glad you\u2019re happy with how everything turned out. Thank you again for the \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "estimates@supernovaconstructioninc.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:estimates@supernovaconstructioninc.com",
+    "page": "https://www.supernovaconstructioninc.com/"
+   },
+   {
+    "email": "info@supernovaconstructioninc.com",
+    "how": "plain text",
+    "raw": "info@supernovaconstructioninc.com",
+    "page": "https://www.supernovaconstructioninc.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/supernovaconstructioninc"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/supernovaconstruction"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 3,
+   "bath": 3,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 1,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 30"
+  ],
+  "competitor_pool": [
+   {
+    "name": "American Bath Works",
+    "url": "https://www.abwrenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "All Around Construction LLC",
+    "url": "https://www.allaroundconstructionllc.org/",
+    "gbp_address": null
+   },
+   {
+    "name": "All Times Construction",
+    "url": "https://alltimesconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "ATLANTIC HOME & CO.",
+    "url": "https://atlantichomeco.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cumberland Kitchen & Bath",
+    "url": "https://www.cumberlandkitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Doak & Co. Contracting LLC",
+    "url": "https://www.doakandcocontracting.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Brunswick, ME"
+  ]
+ },
+ {
+  "id": "michaelremodeling.com",
+  "name": "Michael Remodeling And Construcci\u00f3n",
+  "region": "R3",
+  "website": "https://michaelremodeling.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://michaelremodeling.com/"
+   ],
+   "contact": [
+    "https://michaelremodeling.com/contact-us-2/",
+    "https://michaelremodeling.com/contact-us-2/"
+   ],
+   "about": [
+    "https://michaelremodeling.com/about-us-2/"
+   ],
+   "gallery": [
+    "https://michaelremodeling.com/",
+    "https://michaelremodeling.com/kitchen-gallery/"
+   ],
+   "legal": [
+    "https://michaelremodeling.com/privacy-policy/",
+    "https://michaelremodeling.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-29",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJgbXaMsjTD4gRkgOxgbSkWFs&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "They did a fantastic job on my project."
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbXaMsjTD4gRkgOxgbSkWFs&hl=en",
+  "gbp_title": "Michael Remodeling And Construcci\u00f3n",
+  "gbp_address": "\ue0c8\n6024 N Whipple St, Chicago, IL 60659, United States",
+  "gbp_rating": "4.7\n(39)",
+  "gbp_phone": "phone:tel:+17739576730",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "James Beeby",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Michael and his team recently completed a full remodel of my condo bathroom including shower, tile, flooring and glass installation. Overall I am very happy with the final result. The bathroom looks much more modern and updated and the \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you, James, for taking the time to share your comments and for the trust you have placed in us, it will always be a pleasure to assist with your future projects."
+   },
+   {
+    "reviewer": "Christopher Nichols",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "We had a great experience working with Michael Remodeling. Michael and his team renovated our primary bathroom and also handled some flooring repairs and updates in a guest bathroom. I chose him based on his strong reviews on Yelp and \u2026",
+    "owner": "Response from the owner 8 months ago\nChristopher your feedback is so helpful to us and we appreciate it so much for sharing your experience with our community as well and I hope that we could help you in the future with your projects thanks."
+   },
+   {
+    "reviewer": "Chris M",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "We hired Michael to remodel 2 bathrooms and redo a family room's walls, and floors for 3 rooms. Michael's work was incredible and very meticulous. His attention to detail is incredible and he looks out for his customers. This was our first \u2026",
+    "owner": "Response from the owner 4 months ago\nHi Chris thank you for trusting Michael Remodeling we are delighted to hear of your satisfaction with the work performed, and thank you very much for taking the time to provide this recommendation it will always be a pleasure to assist you with your future projects."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "michaelremodelingcorp@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:m&#105;&#099;h&#097;&#101;&#108;&#114;e&#109;ode&#108;&#105;&#110;&#103;c&#111;r&#112;&#064;&#103;&#109;&#0",
+    "page": "https://michaelremodeling.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/michaelremodeling",
+   "https://www.facebook.com/michaelremodeling/reviews"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 8,
+   "bath": 7,
+   "roof": 0,
+   "plumb": 4,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "dead phone or email link: tel: hrefs [] mailto: hrefs ['&#109;&#105;&#099;&#104;&#097;&#101;lr&#101;mo&#100;&#101;l&#105;ng&#099;o&#114;p&#064;&#103;ma&#105;&#108;.co&#109;', '&#109;&#10"
+  ],
+  "competitor_pool": [
+   {
+    "name": "312 Kitchen & Bath",
+    "url": "https://www.312kitchenbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "4Ever Remodeling",
+    "url": "https://4everremodeling.com/service-areas/arlington-heights/",
+    "gbp_address": "\ue0c8\n415 W Golf Rd Ste 57, Arlington Heights, IL 60005, United States"
+   },
+   {
+    "name": "All Pros Kitchen and Bathroom Remodel",
+    "url": "https://allproskitchenandbathroomremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "AR REMODELING GROUP LLC",
+    "url": "https://arremodelinggroupllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Chicago Custom Remodeling, Inc. 30 years in business \u2714\ufe0f",
+    "url": "https://chicagocustomremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Chi Renovation & Design",
+    "url": "https://www.chirenovation.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Chicago, IL"
+  ]
+ },
+ {
+  "id": "kingstonbld.com",
+  "name": "Kingston Build & Remodel",
+  "region": "R5",
+  "website": "https://www.kingstonbld.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.kingstonbld.com/"
+   ],
+   "contact": [
+    "https://www.kingstonbld.com/contact"
+   ],
+   "gallery": [
+    "https://www.kingstonbld.com/work"
+   ],
+   "legal": [
+    "https://www.kingstonbld.com/privacy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-26",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJP6FSwcGKSioR0gBw2lE3nps&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "We would definitely work with Simon and his"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6FSwcGKSioR0gBw2lE3nps&hl=en",
+  "gbp_title": "Kingston Build & Remodel",
+  "gbp_address": null,
+  "gbp_rating": "4.9\n(17)",
+  "gbp_phone": "phone:tel:+12532260813",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Martine F. Wagoner",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Simon transformed my sixty year-old, three bed, one and one-half bath rambler into a modern and amazing place to live. Over the span of three months, he oversaw the demolition of the house, removing two load bearing walls as well as all of \u2026",
+    "owner": "Response from the owner a year ago\nThank you for your mind review Martine! It was a great experience for us as well and we are very happy with the relationship we created and are looking forward to working together in the future!"
+   },
+   {
+    "reviewer": "Xiao Liu",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "I recently undertook an urgent shower room update project, and I couldn't be more pleased with the results. The team managed to perfectly schedule the entire timeline and completed the work at the fastest possible pace. Mariya provided \u2026",
+    "owner": "Response from the owner a year ago\nThank you for your kind review! We\u2019re very glad our team made the process easy and efficient. Having a happy customer is exactly why we do what we do. Enjoy your new space, and we\u2019re here if you need anything in the future!"
+   },
+   {
+    "reviewer": "Tsu-Hsuan Cheng",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "I had a wonderful experience with The Kitchen & Bath Upgrade. My contractor, Simon, was extremely friendly, patient, and very responsible throughout the whole process. He took the time to walk me through every step and made sure I \u2026",
+    "owner": "Response from the owner a year ago\nThank you for your review and we are looking forward to working with you in the future!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "estimates@kingstonbld.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:estimates@kingstonbld.com",
+    "page": "https://www.kingstonbld.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/kingstonbld"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/kingstonbuildremodel"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 4,
+   "roof": 0,
+   "plumb": 2,
+   "hvac": 1,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 33"
+  ],
+  "competitor_pool": [
+   {
+    "name": "\ud83d\udcf1 FREE QUOTE | Royalty Bathroom Remodeling - Parkland",
+    "url": "https://www.energystar.gov/",
+    "gbp_address": null
+   },
+   {
+    "name": "Apex Home Solutions, LLC",
+    "url": "https://hireapexpros.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JLS Interiors-Home Remodeling Services,Interior Remodeling in Lakewood, WA",
+    "url": "https://www.jlsinteriorremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kairos Construction LLC",
+    "url": "https://kairosremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Magenta Home Services",
+    "url": "https://magentahomeservices.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "MIDNIGHT TILE & REMODEL, LLC",
+    "url": "https://www.midnighttileandremodelllc.com//",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Lakewood, WA",
+   "Pullman, WA",
+   "University Place, WA"
+  ]
+ },
+ {
+  "id": "thecrafteddifference.com",
+  "name": "Crafted, LLC",
+  "region": "R3",
+  "website": "https://www.thecrafteddifference.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.thecrafteddifference.com/"
+   ],
+   "contact": [
+    "https://www.thecrafteddifference.com/contact"
+   ],
+   "about": [
+    "https://www.thecrafteddifference.com/about"
+   ],
+   "gallery": [
+    "https://www.thecrafteddifference.com/projectupdates",
+    "https://www.thecrafteddifference.com/projectupdates/farmhouse"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-10",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJw3uMmhAQhyoRoJTmf8sQ984&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "His team was dependable, excellent craftsmen and respectful."
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3uMmhAQhyoRoJTmf8sQ984&hl=en",
+  "gbp_title": "Crafted, LLC",
+  "gbp_address": "\ue0c8\n7600 Macon Dr, Cedar Rapids, IA 52411, United States",
+  "gbp_rating": "5.0\n(19)",
+  "gbp_phone": "phone:tel:+15154228332",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Teresa C",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Dane and his team are superior! Excellent communication, craftsmanship, clean/organized work environment and easy to have conversations with. Dane listens well and asks great questions. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Katy Santiago",
+    "when": "Edited 5 months ago",
+    "stars": "5 stars",
+    "text": "Best contractor experience we have ever had!\n\nWe have long planned for an extensive main floor renovation, but didn\u2019t know who \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Tony Komisar",
+    "when": "Edited 2 years ago",
+    "stars": "5 stars",
+    "text": "Dane did a outstanding job for us again! He built our basement bathroom a year ago so we had him & his crew ( Jeff & Nate ) finish the rest of the basement. We love it so much! What a great family room! Got it done just in time for \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "dane@thecrafteddifference.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:dane@thecrafteddifference.com",
+    "page": "https://www.thecrafteddifference.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/profile.php?id=61555414777921"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 2,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 52",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/6181636b0b829457272fc566/86047fb7-4a05-42af-a69d-82bbf38a0b48/FFS+CZECH+ST = 1,209,595 bytes (HTTP Content-Length)"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bath Planet Kansas City",
+    "url": "https://bathplanet.com/dealers/bath-planet-of-kansas-city",
+    "gbp_address": null
+   },
+   {
+    "name": "Cabinet Studio, Inc",
+    "url": "https://www.cabinetstudioinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of Eastern Iowa",
+    "url": "https://easterniowabath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "KBD",
+    "url": "https://www.kbyd.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "The Design House",
+    "url": "https://www.thedesignhouseia.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Urban Edge Construction & Remodeling",
+    "url": "https://urbanedgeremodel.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Cedar Rapids, IA"
+  ]
+ },
+ {
+  "id": "wengertshomecenter1.com",
+  "name": "Wengert's Home Center",
+  "region": "R1",
+  "website": "https://www.wengertshomecenter1.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.wengertshomecenter1.com/"
+   ],
+   "contact": [
+    "https://www.wengertshomecenter1.com/contactwengerts"
+   ],
+   "about": [
+    "https://www.wengertshomecenter1.com/aboutwengerts"
+   ],
+   "gallery": [
+    "https://www.wengertshomecenter1.com/projects"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-06",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJsTROIRSoyIkRH-oHElVlHEs&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "Wengers is historically a local family owned business"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTROIRSoyIkRH-oHElVlHEs&hl=en",
+  "gbp_title": "Wengert's Home Center",
+  "gbp_address": "\ue0c8\n101 E Pine St, Cleona, PA 17042, United States",
+  "gbp_rating": "4.5\n(37)",
+  "gbp_phone": "phone:tel:+17172738131",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Genevieve Hachey",
+    "when": "7 years ago",
+    "stars": "5 stars",
+    "text": "Wengert's Home Center is a wonderful local company that can help you with nearly any home improvement project. They are friendly, punctual, and know what they are doing, completing tasks correctly and safely. Wengert remodeled our bathroom \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Allen Stoltzfus",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "Highly recommend Wengert\u2019s, had a chance to work with Vince on a siding project and had a great experience .",
+    "owner": null
+   },
+   {
+    "reviewer": "J A G",
+    "when": "2 years ago",
+    "stars": "3 stars",
+    "text": "I wish I could leave a good review.  However, I stopped out there once over a month ago inquiring about some home improvement projects updates I needed to have done. \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "customerservice@wengertshomecenter1.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:customerservice@wengertshomecenter1.com",
+    "page": "https://www.wengertshomecenter1.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=100063502793482"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 2,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 58"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Amazing Builders",
+    "url": "https://www.amazingbuilderspa.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "American Countertop Experts, Inc.",
+    "url": "https://www.americancountertopexpertsinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Blue Mountain Bathrooms",
+    "url": "https://bmbaths.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Earl Weaver Contractors LLC",
+    "url": "https://earlweaver.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Inch by Inch Construction",
+    "url": "https://inchbyinchconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "ISM Construction",
+    "url": "https://ismconstruction.net/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Lebanon, PA"
+  ]
+ },
+ {
+  "id": "lonecypressvb.com",
+  "name": "Lone Cypress VB",
+  "region": "R2",
+  "website": "https://www.lonecypressvb.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.lonecypressvb.com/"
+   ],
+   "contact": [
+    "https://www.lonecypressvb.com/contact"
+   ],
+   "about": [
+    "https://www.lonecypressvb.com/about"
+   ],
+   "gallery": [
+    "https://www.lonecypressvb.com/portfolio"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJG6RnJABf3ogR7ww_bu7IrGg&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "I highly recommend Lone Cypress, and would definitely"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6RnJABf3ogR7ww_bu7IrGg&hl=en",
+  "gbp_title": "Lone Cypress VB",
+  "gbp_address": "\ue0c8\n1821 Lemon Ave C, Vero Beach, FL 32960, United States",
+  "gbp_rating": "5.0\n(13)",
+  "gbp_phone": "phone:tel:+18636347561",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "pam varner",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Ben Pauley, owner, is not only a fantastic contractor but also a very trustworthy person. He is a true business professional and amazing craftsman.\nBen and his team have great communication, on time and daily clean up and \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Michelle Penny",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Ben worked with us to open up the back of our living room for new sliding doors supplied and installed by a third party. It was clear from the moment he came to the house to discuss the project that he values customer service, clear \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Jay Gulick",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "I hired Lone Cypress VB to replace all of our interior doors and replace the bedroom trim.  Ben provided a clear and concise quote.  He was very easy to work with and got the job done on time.  As I was remote it was important for me to \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "lonecypressllc.00@gmail.com",
+    "how": "plain text",
+    "raw": "lonecypressllc.00@gmail.com",
+    "page": "https://www.lonecypressvb.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.lonecypressvb.com/about",
+    "snippet": "Lone Cypress was founded by native Floridian, Ben Pauley, whose passion for building began long before construction became his career"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 3
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 57"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Di Rocco Construction",
+    "url": "https://diroccoconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "European Kitchen & Bath",
+    "url": "https://europeansink.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Final Touch Kitchen & Bath Design",
+    "url": "https://finaltouchvero.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "DC Construction & Company, Inc.",
+    "url": "https://ibuildwithcare.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "The JD Builders",
+    "url": "https://thejdbuilders.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Vero Beach, FL"
+  ]
+ }
+]
