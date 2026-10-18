@@ -10,7 +10,7 @@ EXCLUDE = {"remontremodel.com": [1, 2], "niptuckremodel.com": [8], "allexclusive
 kept = {}
 for l in open(f"{D}/g7verify.jsonl"):
     x = json.loads(l)
-    kept[x["id"]] = x.get("kept") or []
+    kept[x["id"]] = [u if isinstance(u, str) else u.get("url") for u in x.get("kept") or []]
 with open(f"{D}/template/zz_coord.jsonl", "a") as f:
     for cid, ex in EXCLUDE.items():
         urls = [u for i, u in enumerate(kept[cid], 1) if i not in ex][:8]
