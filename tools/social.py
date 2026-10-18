@@ -61,9 +61,13 @@ def youtube(url):
             return [], f"no channel id (HTTP {st})"
         cid = m.group(1)
     feed = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
-    st, x = get(feed)
+    for attempt in range(3):  # the feed endpoint returns intermittent 404/500
+        st, x = get(feed)
+        if st == 200:
+            break
+        __import__("time").sleep(4)
     if st != 200:
-        return [], f"feed HTTP {st}"
+        return youtube_videos_page(cid, url, f"feed HTTP {st}")
     out = []
     for e in re.findall(r"<entry>(.*?)</entry>", x, re.S):
         pub = re.search(r"<published>([^<]+)</published>", e)
@@ -73,6 +77,29 @@ def youtube(url):
             out.append({"date": pub.group(1)[:10], "quote": words(ti.group(1) if ti else ""), "post_url": li.group(1) if li else feed,
                         "account": url, "platform": "YouTube channel", "method": f"YouTube channel RSS {feed} <published>"})
     return out, "ok"
+
+
+def youtube_videos_page(cid, url, why):
+    """Fallback when the RSS feed fails: the channel's /videos page lists relative upload times ("3 weeks ago").
+    Each is turned into the conservative earliest possible date (common.rel_window) on the retrieval date."""
+    from common import rel_window
+    page = f"https://www.youtube.com/channel/{cid}/videos"
+    st, h = get(page)
+    if st != 200:
+        return [], f"{why}; videos page HTTP {st}"
+    today = datetime.now(timezone.utc).date()
+    out = []
+    for m in re.finditer(r'"videoId":"([\w-]{11})".{0,1500}?"title":\{"runs":\[\{"text":"(.*?)"\}.{0,1500}?"publishedTimeText":\{"simpleText":"(.*?)"\}', h, re.S):
+        vid, title, when = m.group(1), m.group(2), m.group(3)
+        w = rel_window(when, retrieved=today)
+        if not w:
+            continue
+        out.append({"date": w[0].isoformat(), "date_latest": w[1].isoformat(), "when": when, "quote": words(title),
+                    "post_url": f"https://www.youtube.com/watch?v={vid}", "account": url, "platform": "YouTube channel",
+                    "method": f"YouTube channel videos page {page}: '{when}' on {today.isoformat()} (earliest possible date used)"})
+        if len(out) >= 10:
+            break
+    return out, f"{why}; videos page ok"
 
 
 def pinterest(user, url):
