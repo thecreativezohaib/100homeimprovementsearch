@@ -1,0 +1,530 @@
+[
+ {
+  "id": "intermarblefabrication.com",
+  "name": "Intermarble Fabrication",
+  "region": "R1",
+  "website": "https://intermarblefabrication.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://intermarblefabrication.com/"
+   ],
+   "contact": [
+    "https://intermarblefabrication.com/contact"
+   ],
+   "about": [
+    "https://intermarblefabrication.com/about",
+    "https://intermarblefabrication.com/about"
+   ],
+   "gallery": [
+    "https://intermarblefabrication.com/projects",
+    "https://intermarblefabrication.com/kitchen-countertops-long-island"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-28",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJEe2ORzOPwokRAz35advPCbs&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "Intermarble did a beautiful job fabricating and installing our marble fireplace and hearth."
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJEe2ORzOPwokRAz35advPCbs&hl=en",
+  "gbp_title": "Intermarble Fabrication",
+  "gbp_address": "\ue0c8\n1090 Port Washington Blvd, Port Washington, NY 11050, United States",
+  "gbp_rating": "4.5\n(24)",
+  "gbp_phone": "phone:tel:+15169447533",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Jason Baer",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "I can\u2019t say enough good things about the team at Intermarble. Joslyn is a total pleasure to work with, and Roberto is an artist. We hired them for both our kitchen counters and backsplash, and also our fireplace surround. The outstanding quality of their work speaks for itself!",
+    "owner": "Response from the owner 6 months ago\nThank you for taking the time to share your experience with us! \n\nIt was a pleasure working with you across your kitchen countertops, backsplash, \u2026 More"
+   },
+   {
+    "reviewer": "Brenda R",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "I had an amazing experience from start to finish. The custom arabescato marble table they created for me is absolutely stunning. The craftsmanship and attention to detail are top-notch. Joslyn was incredible to work with. She was super \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you for the wonderful review and for sharing photos of your custom Arabescato marble table \u2014 it was a special piece to fabricate. \u2026 More"
+   },
+   {
+    "reviewer": "ischool usa",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "Roberto at Intermarble did an outstanding job on a high end install replacing our granite kitchen countertops. Amazingly, he and his team completed the entire removal of the old granite and installation of the new countertops in just 1 day. \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you for the thoughtful review! We\u2019re so glad you\u2019re happy with your new granite kitchen countertops. Every installation is a little different, and we take great care with details like leveling and fit to make sure the finished result \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@intermarblefabrication.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@intermarblefabrication.com",
+    "page": "https://intermarblefabrication.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml"
+  ],
+  "instagram_links": [
+   "http://www.instagram.com/inter.marble"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 31,
+   "bath": 11,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 40",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/5efa3e384d777f29ab8516de/196f04d5-f8a0-4e2d-9e79-72d6ce6db600/Reforma_Whit = 1,983,742 bytes; https://images.squar"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bathroom & Kitchen Remodeling",
+    "url": "https://bathroomandkitchenremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Precision Plus Home Remodelers Inc. Kitchens & Baths by Precision Inc.",
+    "url": "https://www.precisionplusremodelers.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Manhasset Kitchen & Bath Remodeling",
+    "url": "https://remodelinglongisland.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Woodwall Group",
+    "url": "https://woodwallgroup.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Port Washington, NY"
+  ]
+ },
+ {
+  "id": "sunshinekitchensandbaths.com",
+  "name": "Kitchens and Baths LLC",
+  "region": "R2",
+  "website": "https://www.sunshinekitchensandbaths.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.sunshinekitchensandbaths.com/"
+   ],
+   "contact": [
+    "https://www.sunshinekitchensandbaths.com/book-online"
+   ],
+   "about": [
+    "https://www.sunshinekitchensandbaths.com/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-10-12",
+    "url": "https://www.instagram.com/sunshine_kitchens_and_baths",
+    "source": "Instagram account latest post date gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator; account linked from the company's own site",
+    "quote": "Instagram account https://www.instagram.com/sunshine_kitchens_and_baths latest post 2026-10-12"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJKac5FOaD3YgRHq-9C09a9EY&hl=en",
+  "gbp_title": "Kitchens and Baths LLC",
+  "gbp_address": null,
+  "gbp_rating": "4.6\n(29)",
+  "gbp_phone": "phone:tel:+18633881243",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Steve Schreiver",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "Elliot did a great job. I described what I wanted and he made it happen! Everything was awesome! Enjoyed working with Elliot hoping to do more work. Thank you",
+    "owner": null
+   },
+   {
+    "reviewer": "Chaille Spicer",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "I was so confident in Elliot\u2019s ability and please with his services that after he completed my kitchen, I employed his services to do my bathroom and floors. He also raised several outlets and mounted TVs.  My experience with working with \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Gary",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "I hired Elliot and Jose Granite to fabricate countertops for my outdoor kitchen, and laundry room. I also had them create 3 new windowsills to replace wood ones that had water damage. The craftsmanship was very good, and I saved a few \u2026",
+    "owner": "Response from the owner 3 years ago\nThank you Mr Gary. We are glad you are very please with our workmanship. Thanks again for your trust. Enjoy your new outdoor kitchen. Blessings "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@mysite.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@mysite.com",
+    "page": "https://www.sunshinekitchensandbaths.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/Sunshinekitchensandbaths"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/sunshine_kitchens_and_baths"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 10,
+   "bath": 9,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 51"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Easy Florida Kitchen Cabinets",
+    "url": "https://easyflorida.us/",
+    "gbp_address": null
+   },
+   {
+    "name": "FVZ Home Remodeling",
+    "url": "https://www.fvzhomeremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "IKON Home Solutions",
+    "url": "https://ikonhomesolutions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Imendes Remodeling",
+    "url": "https://imendesremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Luxury Bath of Tampa Bay",
+    "url": "https://www.luxurybathcfl.com/bathroom-remodeling-tampa-fl",
+    "gbp_address": null
+   },
+   {
+    "name": "Rafah kitchen & Bathroom Remodel Orlando",
+    "url": "https://rafahconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Celebration, FL",
+   "Kissimmee, FL"
+  ]
+ },
+ {
+  "id": "specialtykitchensandbaths.com",
+  "name": "Specialty Kitchens and Baths, LLC",
+  "region": "R3",
+  "website": "https://www.specialtykitchensandbaths.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.specialtykitchensandbaths.com/"
+   ],
+   "contact": [
+    "https://www.specialtykitchensandbaths.com/contact-us/"
+   ],
+   "about": [
+    "https://www.specialtykitchensandbaths.com/about/"
+   ],
+   "gallery": [
+    "https://www.specialtykitchensandbaths.com/gallery/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-08",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ63mox__GJIgRDclnxSPCnHc&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "I had a great experience with Specialty Kitchens and Baths, LLC."
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63mox__GJIgRDclnxSPCnHc&hl=en",
+  "gbp_title": "Specialty Kitchens and Baths, LLC",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(32)",
+  "gbp_phone": "phone:tel:+12487981000",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Ryan Doyle",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "Howard and his team created a dreamy dreamy kitchen for us. We are in love with the final results. The process of working with him and his team was easy. They handled the entire thing from A to Z. When problems arose, they took control of \u2026",
+    "owner": "Response from the owner 2 years ago\nIt was great meeting your whole family and working along with you during the whole course of the renovation from start to finish and was able to complete both you and your wife\u2019s Vision for a finished product. Enjoy. Thank you again, Howard."
+   },
+   {
+    "reviewer": "Marie Kaufman",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "We are so happy with our bathroom (2) remodel. The crew was professional but personable. They helped us through design decisions and made recommendations that we are glad we followed. If anything went wrong (a given with this much work!), \u2026",
+    "owner": "Response from the owner 2 years ago\n\nIt was great working with both of you and all the Remodeling projects worked wonderfully and I\u2019m glad I was able to help you get to your final vision with specs \u2026 More"
+   },
+   {
+    "reviewer": "Michelle Wegienka-Lowe",
+    "when": "Edited 5 years ago",
+    "stars": "5 stars",
+    "text": "This company is fantastic to work with. They remodeled our master bathroom and it looks amazing. The entire team was professional, conscientious, and treated our home like it was theirs. Great suggestions were made to us about color and \u2026",
+    "owner": "Response from the owner 5 years ago\nWhat started out with one project became several one after another . I feel I have a place to stay if my wife ever kicks me out\ud83d\ude07but 40 years of marriage think we have good track record . It\u2019s been my pleasure meeting everyone and taking \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "designsinglass@gmail.com",
+    "how": "plain text",
+    "raw": "designsinglass@gmail.com",
+    "page": "https://www.specialtykitchensandbaths.com/about/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.specialtykitchensandbaths.com/",
+    "snippet": "It is no secret that Howard Emmer (owner of Designs in Glass) is one of the leading names in Michigan kitchen & bathroom remodeling"
+   },
+   {
+    "page": "https://www.specialtykitchensandbaths.com/about/",
+    "snippet": "Howard Emmer (owner of Specialty Kitchens and Baths, LLC and Designs in Glass) is one of the leading names in the Michigan remodeling marke"
+   },
+   {
+    "page": "https://www.specialtykitchensandbaths.com/about/",
+    "snippet": "-Howard Emmer, Owner of Designs in Glass"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/SpecialtyKitchensandBaths/"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 23,
+   "bath": 32,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 2,
+   "cabinet": 7,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 49",
+   "gallery images over 1MB each: https://www.specialtykitchensandbaths.com/wp-content/uploads/2015/10/bathroom-remodeling-before-after-1-1500x1125.png = 2,229,704 bytes; https://www.specialtyki"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Allor Remodeling and Construction",
+    "url": "https://allorremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Jacuzzi Bath Remodel of Metro Detroit",
+    "url": "https://www.detroitbaths.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Gittleman Construction",
+    "url": "https://gittleman.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "The Kitchen Top Shop",
+    "url": "https://kitchentopshop.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kurtis Kitchen & Bath",
+    "url": "https://www.kurtiskitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Stone Works Remodeling",
+    "url": "https://www.stoneworksremodeling.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Farmington Hills, MI",
+   "Pontiac, MI",
+   "Portage, IN",
+   "Southfield, MI",
+   "West Bloomfield, MI"
+  ]
+ },
+ {
+  "id": "peerlessconstructioncorp.com",
+  "name": "Peerless Construction",
+  "region": "R2",
+  "website": "https://www.peerlessconstructioncorp.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.peerlessconstructioncorp.com/"
+   ],
+   "contact": [
+    "https://www.peerlessconstructioncorp.com/"
+   ],
+   "gallery": [
+    "https://www.peerlessconstructioncorp.com/primary-bathroom-remodel-chantilly-before-after"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-16",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJk0pcn2Zef28R3fBAsQu9e1k&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "Darius and his team were wonderful to work with, reasonably priced, and completed the"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0pcn2Zef28R3fBAsQu9e1k&hl=en",
+  "gbp_title": "Peerless Construction",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(24)",
+  "gbp_phone": "phone:tel:+17035477409",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Michelle Han",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Darius and his team at Peerless Construction were an absolute pleasure to work with! My husband and I finally decided to remodel our primary bathroom, and Darius was so helpful in explaining all the different design details, and making \u2026",
+    "owner": "Response from the owner 3 months ago\nMichelle, thank you so much for taking the time to leave such a thoughtful review. It truly means a lot to our entire team. \u2026 More"
+   },
+   {
+    "reviewer": "Jaime Bosserman",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "We had an amazing experience with Peerless Construction! Darius responded to communication in a very organized manner. Our project was completed in a very timely manner with a high level of quality. He went above and beyond to make sure we \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you so much for the kind words and for trusting Peerless Construction with your kitchen and primary bathroom transformation. It truly means a lot to hear that our communication, timeliness, and attention to detail stood out to you. We \u2026 More"
+   },
+   {
+    "reviewer": "Jimmy Neutron",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "I was looking for a remodeling contractor here in Ashburn that could help us with both design as well as complete the project in a timely fashion and with good communication skills - we settled on Peerless and were very impressed with \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much for taking the time to share such a detailed review and for trusting Peerless Construction with your master bathroom remodel in Ashburn. \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "darius@peerlessconstructioncorp.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:darius@peerlessconstructioncorp.com",
+    "page": "https://www.peerlessconstructioncorp.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 15,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://static.wixstatic.com/media/d53635_a4a0a1f1f3674ef191e7c6985de28ea6~mv2.png = 2,229,854 bytes (HTTP Content-Length); https://static.wixstatic.com/media/d"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Build With Maverick",
+    "url": "https://buildbymaverick.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elegant Kitchen and Bath",
+    "url": "https://www.elegantkitchenbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ferrane Construction",
+    "url": "https://www.ferrane.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "First Call Contractors",
+    "url": "https://firstcallcontractors.com/contact-us/",
+    "gbp_address": null
+   },
+   {
+    "name": "Great Falls Construction",
+    "url": "https://greatfallsconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JBG Remodeling Services, LLC",
+    "url": "https://jbgremodelingservicellc.com/appointment/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Great Falls, VA"
+  ]
+ }
+]
