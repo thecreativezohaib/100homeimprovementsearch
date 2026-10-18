@@ -26,7 +26,7 @@ def as_date(v, checked):
     m = re.match(r"^(\d+)\s*([dwmyh])$", v.strip().lower())
     rel = f"{m[1]} {UNIT[m[2]]}s ago" if m else v
     try:
-        w = rel_window(rel, retrieved=date.fromisoformat(checked))
+        w = rel_window(rel.replace("a week ago", "1 week ago"), retrieved=date.fromisoformat(checked))
     except ValueError:
         w = None
     return (w[0].isoformat(), f" (shown as '{v}' on {checked}; earliest possible date used)") if w else ("", "")
@@ -69,10 +69,10 @@ for path in sys.argv[1:]:
         if "closed" in (r.get("status") or "").lower():
             cnt["closed"] += 1
             hints.setdefault(cid, {"id": cid})["gbp_closed"] = True
-        d, q = val(r, "newest_review_date"), val(r, "newest_review_first_words")
-        if ISO.match(d) and q:
+        (d, drel), q = as_date(val(r, "newest_review_date"), chk), val(r, "newest_review_first_words")
+        if d and q:
             reviews[cid] = {"id": cid, "row": int(f["row"]), "date": d, "url": f["maps_url"], "quote": " ".join(q.split()[:15]),
-                            "source": "Google Maps review data " + src}
+                            "source": "Google Maps review data" + drel + " " + src}
             cnt["review"] += 1
         s = site.get(cid) or {}
         linked = {norm_acct(u) for u in (s.get("facebook_links") or []) + (s.get("instagram_links") or [])}
@@ -90,9 +90,9 @@ for path in sys.argv[1:]:
         if posts:
             social[cid] = {"id": cid, "posts": posts}
             cnt["social"] += 1
-        ju, jd = val(r, "job_posting_url"), val(r, "job_posting_date")
-        if ju and ISO.match(jd):
-            jobs[cid] = {"id": cid, "url": ju, "date": jd, "title": val(r, "job_title"), "source": "job posting " + src}
+        ju, (jd, jrel) = val(r, "job_posting_url"), as_date(val(r, "job_posting_date"), chk)
+        if ju and jd:
+            jobs[cid] = {"id": cid, "url": ju, "date": jd, "title": val(r, "job_title"), "source": "job posting" + jrel + " " + src}
             cnt["job"] += 1
         h = hints.setdefault(cid, {"id": cid})
         for k in ("owner_name", "owner_role", "owner_source_url", "email", "email_source_url"):
