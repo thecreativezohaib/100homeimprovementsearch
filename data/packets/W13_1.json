@@ -1,0 +1,481 @@
+[
+ {
+  "id": "remodelsbyelite.com",
+  "name": "ELITE Remodels",
+  "website": "https://remodelsbyelite.com/",
+  "continuation": true,
+  "note": "An earlier wave stopped this firm at G4, or it was never sent to an agent. G4 now passes with the two signal types in auto_signals (one is a Google review or Facebook post date supplied by the user through Gemini; do not try to re-verify that one). Do NOT include a g4_extra_signals key. If there is no earlier_line, check NICHE first (step 2), then G5 onward.",
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-09-21",
+    "url": "https://www.youtube.com/shorts/107sbp-zXXA",
+    "quote": "YouTube channel https://www.youtube.com/channel/UClNEoaDGkVDtpePoikbmY2w post: 'GIVEAWAY 2026 #interiordesign #luxuryrealestate #homedecor'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UClNEoaDGkVDtpePoikbmY2w <published>"
+   },
+   {
+    "type": "google_review",
+    "date": "2026-09-24",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJTZF8lptU6YARgnGLAtEXldY&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "We hired Elite for a two and a half complete bathroom remodel and"
+   }
+  ],
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZF8lptU6YARgnGLAtEXldY&hl=en",
+  "gbp_address": "\ue0c8\n2267 Las Positas Rd, Santa Barbara, CA 93105, United States",
+  "gbp_phone": "phone:tel:+18058692391",
+  "gemini_hints": {
+   "id": "remodelsbyelite.com",
+   "owner_name": "Jerry",
+   "owner_role": "Founder / Owner",
+   "owner_source_url": "https://remodelsbyelite.com/about-elite-remodeling-santa-barbara",
+   "email": "hello@remodelsbyelite.com",
+   "email_source_url": "https://remodelsbyelite.com/"
+  },
+  "emails_found": [
+   {
+    "email": "hello@remodelsbyelite.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:hello@remodelsbyelite.com",
+    "page": "https://remodelsbyelite.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://remodelsbyelite.com/elite-contact-2",
+    "snippet": "A message from ELITE founder, Jerry Jaimes"
+   },
+   {
+    "page": "https://remodelsbyelite.com/about-elite-remodeling-santa-barbara",
+    "snippet": "A message from ELITE founder, Jerry Jaimes"
+   },
+   {
+    "page": "https://remodelsbyelite.com/about-elite-remodeling-santa-barbara",
+    "snippet": "As founder and general contractor of ELITE Remodels, Jerry has built a company defined by precision, professionalism, and a genuin"
+   }
+  ],
+  "locations_seen": [
+   "Santa Barbara, CA"
+  ],
+  "earlier_line": {
+   "id": "remodelsbyelite.com",
+   "name": "ELITE Remodels",
+   "niche_ok": true,
+   "niche_evidence": {
+    "url": "https://remodelsbyelite.com/",
+    "quote": "Kitchen + Bath Remodeling in Santa Barbara - Elite Remodels"
+   },
+   "g4_extra_signals": [],
+   "g4_done": true,
+   "g4_notes": "FAIL: only one signal type (social_post, auto, spot-checked: YouTube RSS channel UClNEoaDGkVDtpePoikbmY2w entry 'GIVEAWAY 2026 #interiordesign #luxuryrealestate #homedecor' published 2026-09-21T18:21:23; further giveaway videos 2026-09-16 and 2026-09-17). Searched: Squarespace blog RSS (/blog?format=rss) newest post 'This Italian-Villa Inspired Kitchen Remodel in Santa Barbara is Everything' 2026-04-30 (out of window); case-study, portfolio, refresh and directory collections show no item dated in window; wp-json 404; no careers page; WebSearch for ELITE Remodels job postings: NONE FOUND; Santa Barbara city and County Accela global search (aca-prod.accela.com SANTABARBARA and SBCO) for 'Elite Remodel', 'ELITE REMODEL', 'ELITE KITCHEN': no ELITE Remodels permits; no CSLB number published on the pages fetched, so no licence lookup.",
+   "g5_pass": "UNKNOWN",
+   "g5_evidence": "UNKNOWN",
+   "decision_maker": "UNKNOWN",
+   "email_confirm": "UNKNOWN",
+   "contact_form_url": "https://remodelsbyelite.com/elite-contact-2",
+   "phone": "805.869.2391",
+   "socials": [
+    "https://www.facebook.com/remodelsbyelite",
+    "https://www.instagram.com/remodelsbyelite",
+    "https://www.youtube.com/channel/UClNEoaDGkVDtpePoikbmY2w"
+   ],
+   "score": {
+    "trigger": "UNKNOWN",
+    "job_posting_live": "UNKNOWN",
+    "competitor": "UNKNOWN",
+    "owner_account_post_60d": "UNKNOWN",
+    "high_ticket": "UNKNOWN"
+   },
+   "assessment": "Opinion: a showroom-based Santa Barbara kitchen and bath design-build firm with an active 2026 giveaway campaign; its blog stopped in April, so only one activity type is datable in the window. Founder Jerry Jaimes is named on the about and contact pages if the coordinator revisits.",
+   "inference_rejected": [
+    "The /elite-remodel-giveaway page states 'Entries accepted September 1, 2026 through November 1, 2026', but its Squarespace collection id dates the page to 2026-03-24 and it is a promotion page, not a dated blog/project/news post; not counted as site_dated_content.",
+    "Santa Barbara County Accela results for 'Jaimes' were not attributed to the company (name match only)."
+   ],
+   "could_not_check": [
+    "Facebook/Instagram (login wall)",
+    "CSLB licence (number not found on pages fetched)",
+    "Accela licensed-professional search (only global search tried)"
+   ],
+   "g3_vendor_found": null,
+   "auto_signals_rejected": [],
+   "stopped_at": "G4"
+  }
+ },
+ {
+  "id": "kitchenplacesventura.com",
+  "name": "Kitchen Places",
+  "website": "http://kitchenplacesventura.com/",
+  "continuation": true,
+  "note": "An earlier wave stopped this firm at G4, or it was never sent to an agent. G4 now passes with the two signal types in auto_signals (one is a Google review or Facebook post date supplied by the user through Gemini; do not try to re-verify that one). Do NOT include a g4_extra_signals key. If there is no earlier_line, check NICHE first (step 2), then G5 onward.",
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-08-06",
+    "url": "http://kitchenplacesventura.com/project/sea-la-vie/",
+    "quote": "wp-json/project published 2026-08-06T00:07:45: 'Sea La Vie'"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-09-17",
+    "url": "https://www.facebook.com/kitchenplacesinc/",
+    "source": "Facebook page latest post date gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator; account linked from the company's own site",
+    "quote": "Facebook page https://www.facebook.com/kitchenplacesinc/ latest post 2026-09-17: 'Visit us today to kick off your remodeling project. #SupportLocal'"
+   }
+  ],
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJj70QCaxS6IAR6JnwlVGMQjQ&hl=en",
+  "gbp_address": "\ue0c8\n1500 Callens Rd, Ventura, CA 93003, United States",
+  "gbp_phone": "phone:tel:+18056580440",
+  "gemini_hints": {
+   "id": "kitchenplacesventura.com",
+   "owner_name": "Jeff King",
+   "owner_role": "President / Owner",
+   "owner_source_url": "http://kitchenplacesventura.com/design-services/"
+  },
+  "emails_found": [
+   {
+    "email": "info@kitchenplacesventura.com",
+    "how": "plain text",
+    "raw": "info@kitchenplacesventura.com",
+    "page": "http://kitchenplacesventura.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "http://kitchenplacesventura.com/design-services/",
+    "snippet": "Jeff King, President"
+   },
+   {
+    "page": "http://kitchenplacesventura.com/design-services/",
+    "snippet": "Owner of Kitchen Places since 1993, Jeff attended the University of California at Santa Barbara after 4 years in the U"
+   },
+   {
+    "page": "https://kitchenplacesventura.com/design-services/",
+    "snippet": "Jeff King, President"
+   },
+   {
+    "page": "https://kitchenplacesventura.com/design-services/",
+    "snippet": "Owner of Kitchen Places since 1993, Jeff attended the University of California at Santa Barbara after 4 years in the U"
+   }
+  ],
+  "locations_seen": [
+   "Oxnard, CA",
+   "San Buenaventura, CA",
+   "Ventura, CA"
+  ],
+  "earlier_line": {
+   "id": "kitchenplacesventura.com",
+   "name": "Kitchen Places",
+   "niche_ok": true,
+   "niche_evidence": {
+    "url": "https://kitchenplacesventura.com/how-we-work/",
+    "quote": "we bring your plans to life with our flow chart based installation system. Celebration! Your new kitchen or bath"
+   },
+   "g4_extra_signals": [],
+   "g4_done": false,
+   "g4_notes": "FAIL: only 1 signal type. Auto site_dated_content validated: portfolio project 'Sea La Vie' is listed on the homepage with the visible date 'August 6, 2026' (wp-json project 2026-08-06), a genuine project page with cabinet/countertop specs; previous project 'Simple + Serene' June 16, 2026. Searched for a second type: Google reviews visible on the GBP are 'a year ago' and older; CSLB licence 764241 (KITCHEN PLACES INC, issue 06/10/1999, reissue 12/05/2006, expire 12/31/2026, bond effective 04/30/2025 - no renewal in window); WebSearch for job postings NONE FOUND; Facebook/Instagram linked but login-walled.",
+   "auto_signals_rejected": [],
+   "g3_vendor_found": "NONE FOUND",
+   "g5_pass": "UNKNOWN",
+   "g5_evidence": "UNKNOWN",
+   "decision_maker": "UNKNOWN",
+   "email_confirm": {
+    "email": "info@kitchenplacesventura.com",
+    "url": "http://kitchenplacesventura.com/",
+    "raw": "<span style=\"color: #000000;\">info@kitchenplacesventura.com</span>",
+    "method": "visible text"
+   },
+   "contact_form_url": "https://kitchenplacesventura.com/contact/",
+   "phone": "805.658.0440",
+   "socials": [
+    "http://www.facebook.com/kitchenplacesinc",
+    "https://www.instagram.com/kitchenplacesventura/"
+   ],
+   "score": {
+    "trigger": "UNKNOWN",
+    "job_posting_live": "UNKNOWN",
+    "competitor": "UNKNOWN",
+    "owner_account_post_60d": "UNKNOWN",
+    "high_ticket": "UNKNOWN"
+   },
+   "assessment": "Opinion: a long-established Ventura kitchen design-and-install showroom (since 1993) with a dated Divi site; on-niche and still adding projects, but only one signal type could be dated in the window.",
+   "inference_rejected": [
+    "/design-services/ carries 'Jeff King, President' and 'Owner of Kitchen Places since 1993' (packet dm_snippets); not evaluated because the run stopped at G4.",
+    "Site testimonials are not Google reviews and were not counted as google_review."
+   ],
+   "could_not_check": [
+    "City of Ventura permits by contractor name (no open contractor-name dataset found)",
+    "Facebook/Instagram posts (login wall)",
+    "Indeed/ZipRecruiter direct (401/403)"
+   ],
+   "stopped_at": "G4"
+  }
+ },
+ {
+  "id": "thrivehomeconstruction.com",
+  "name": "Thrive Home Construction",
+  "website": "https://thrivehomeconstruction.com/",
+  "continuation": true,
+  "note": "An earlier wave stopped this firm at G4, or it was never sent to an agent. G4 now passes with the two signal types in auto_signals (one is a Google review or Facebook post date supplied by the user through Gemini; do not try to re-verify that one). Do NOT include a g4_extra_signals key. If there is no earlier_line, check NICHE first (step 2), then G5 onward.",
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-07-21",
+    "url": "https://www.youtube.com/shorts/Jsw61G75AZw",
+    "quote": "YouTube channel https://www.youtube.com/@ThriveHomeConstruction post: 'Before you remodel your bathroom. Consider this.'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UC3z0vTNLGGipXDjchk1LQ8A <published>"
+   },
+   {
+    "type": "google_review",
+    "date": "2026-08-11",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJl1VoPBQnm4ARSPG5S7ytWS0&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "Thrive Home Construction was amazing to work with taking my concept and turning"
+   }
+  ],
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1VoPBQnm4ARSPG5S7ytWS0&hl=en",
+  "gbp_address": "\ue0c8\n1750 Howe Ave Ste 300, Sacramento, CA 95825, United States",
+  "gbp_phone": "phone:tel:+19163084575",
+  "gemini_hints": {
+   "id": "thrivehomeconstruction.com",
+   "owner_name": "Andrey Tsushko",
+   "owner_role": "Founder / Owner",
+   "owner_source_url": "https://thrivehomeconstruction.com/about-us/"
+  },
+  "emails_found": [
+   {
+    "email": "info@thrivehomeconstruction.com",
+    "how": "plain text",
+    "raw": "info@thrivehomeconstruction.com",
+    "page": "https://thrivehomeconstruction.com/"
+   },
+   {
+    "email": "thrivehomeconstruction@gmail.com",
+    "how": "plain text",
+    "raw": "thrivehomeconstruction@gmail.com",
+    "page": "https://thrivehomeconstruction.com/terms-and-conditions/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://thrivehomeconstruction.com/about-us/",
+    "snippet": "Hi, I'm Andrey Tsushko, founder of Thrive Home Construction, a family-owned bathroom remodeling company specializing in durable, stylish designs for bu"
+   },
+   {
+    "page": "https://thrivehomeconstruction.com/about-us/",
+    "snippet": "Hi, I'm Andrey Tsushko, founder of Thrive Home Construction, a family-owned bathroom remodeling company specializing in durable, stylish designs for bu"
+   }
+  ],
+  "locations_seen": [
+   "Sacramento, CA"
+  ],
+  "earlier_line": {
+   "id": "thrivehomeconstruction.com",
+   "name": "Thrive Home Construction",
+   "niche_ok": true,
+   "niche_evidence": {
+    "url": "https://thrivehomeconstruction.com/",
+    "quote": "Bathroom & Kitchen Remodeling in Sacramento California"
+   },
+   "g4_extra_signals": [],
+   "g4_done": true,
+   "g4_notes": "Existing type: social_post (YouTube channel @ThriveHomeConstruction, linked from the site footer, 2026-07-21). Searched for a second type: wp-json posts (two posts dated 2026-07-12, four days before the window; previous 2026-01-14); wp-json pages (2026-07-20 'Free In-Home Bathroom Quote' landing page, not a project or blog addition); City of Sacramento ArcGIS permit layers BldgPermitApplied_CurrentYear and BldgPermitIssued_CurrentYear by Contractor LIKE THRIVE returned one permit, RES-2611939 (275 Hartnell Pl, guest bathroom remodel) applied 06/09/2026 and issued 07/09/2026, both before 2026-07-16, now Finaled with no final date published; WebSearch for job postings found none (results were other Thrive companies); no careers page. No second type evidenced.",
+   "auto_signals_rejected": [],
+   "g5_pass": "UNKNOWN",
+   "g5_evidence": "UNKNOWN",
+   "decision_maker": {
+    "name": "Andrey Tsushko",
+    "role": "Founder",
+    "url": "https://thrivehomeconstruction.com/about-us/",
+    "quote": "Hi, I'm Andrey Tsushko, founder of Thrive Home Construction, a family-owned bathroom remodeling company",
+    "note": "recorded for reference; G6 not reached"
+   },
+   "email_confirm": {
+    "email": "info@thrivehomeconstruction.com",
+    "url": "https://thrivehomeconstruction.com/",
+    "raw": "info@thrivehomeconstruction.com",
+    "method": "visible footer text (recorded for reference; G6 not reached)"
+   },
+   "contact_form_url": "UNKNOWN",
+   "phone": "916-308-4575",
+   "socials": [
+    "https://www.youtube.com/@ThriveHomeConstruction",
+    "https://www.linkedin.com/company/thrive-home-construction/",
+    "https://www.instagram.com/thrivehomeconstruction/",
+    "https://www.tiktok.com/@thrivehomeconstruction"
+   ],
+   "score": {
+    "trigger": "UNKNOWN",
+    "job_posting_live": "UNKNOWN",
+    "competitor": "UNKNOWN",
+    "owner_account_post_60d": "UNKNOWN",
+    "high_ticket": "UNKNOWN"
+   },
+   "assessment": "Opinion: a founder-led Sacramento bath-first remodeller with real permits and a YouTube channel; it narrowly misses G4 because its latest blog posts and city permit fall just before the window.",
+   "inference_rejected": [],
+   "could_not_check": [
+    "Sacramento County, Roseville, Folsom and Elk Grove permit portals (no open-data contractor search found)",
+    "CSLB renewal date (lookup does not publish a renewal date)"
+   ],
+   "g3_vendor_found": null,
+   "stopped_at": "G4"
+  }
+ },
+ {
+  "id": "vivifyremodeling.com",
+  "name": "Vivify Custom Remodeling Inc",
+  "website": "https://vivifyremodeling.com/",
+  "continuation": true,
+  "note": "An earlier wave stopped this firm at G4, or it was never sent to an agent. G4 now passes with the two signal types in auto_signals (one is a Google review or Facebook post date supplied by the user through Gemini; do not try to re-verify that one). Do NOT include a g4_extra_signals key. If there is no earlier_line, check NICHE first (step 2), then G5 onward.",
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-09-25",
+    "url": "https://www.youtube.com/shorts/v0ewQ0WOFUQ",
+    "quote": "YouTube channel https://www.youtube.com/@VivifyCustomRemodeling post: 'unknown'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCTqXy4cpWP0YWwdnJYpthag <published>"
+   },
+   {
+    "type": "google_review",
+    "date": "2026-09-15",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJa3rwlAV0g2MRJWy3KhVtDYc&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "Vivify and their team did great repair and renovation work in my house"
+   }
+  ],
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3rwlAV0g2MRJWy3KhVtDYc&hl=en",
+  "gbp_address": "\ue0c8\n601 Commerce Dr Ste 140, Roseville, CA 95678, United States",
+  "gbp_phone": "phone:tel:+19162377255",
+  "gemini_hints": {
+   "id": "vivifyremodeling.com"
+  },
+  "emails_found": [
+   {
+    "email": "info@vivifycustomremodeling.com",
+    "how": "plain text",
+    "raw": "info@vivifycustomremodeling.com",
+    "page": "https://vivifyremodeling.com/contact"
+   },
+   {
+    "email": "admin@vivifyremodeling.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:Admin@vivifyremodeling.com",
+    "page": "https://vivifyremodeling.com/privacy-policy"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://vivifyremodeling.com/about",
+    "snippet": "CEO & Founder"
+   }
+  ],
+  "locations_seen": [
+   "Roseville, CA"
+  ],
+  "earlier_line": null
+ },
+ {
+  "id": "volcanobuilders.com",
+  "name": "Volcano Builders",
+  "website": "https://volcanobuilders.com/",
+  "continuation": true,
+  "note": "An earlier wave stopped this firm at G4, or it was never sent to an agent. G4 now passes with the two signal types in auto_signals (one is a Google review or Facebook post date supplied by the user through Gemini; do not try to re-verify that one). Do NOT include a g4_extra_signals key. If there is no earlier_line, check NICHE first (step 2), then G5 onward.",
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-10-14",
+    "url": "https://www.youtube.com/shorts/A97g5Jr6dno",
+    "quote": "YouTube channel https://www.youtube.com/@VolcanoBuildersHomeRemodeling post: 'Tell Me You See It Too \ud83d\ude02'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UClhpG_Pk92cc-sc96ChQHJQ <published>"
+   },
+   {
+    "type": "google_review",
+    "date": "2026-08-25",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJVQPzYBRtkFQRaRB-I76eReI&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "A remodel or any type of build can be stressful but working with"
+   }
+  ],
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQPzYBRtkFQRaRB-I76eReI&hl=en",
+  "gbp_address": "\ue0c8\n1750 112th Ave NE #b217, Bellevue, WA 98004, United States",
+  "gbp_phone": "phone:tel:+14252305561",
+  "gemini_hints": {
+   "id": "volcanobuilders.com",
+   "owner_name": "Bar Unger",
+   "owner_role": "Founder / Owner",
+   "owner_source_url": "https://volcanobuilders.com/about-us/"
+  },
+  "emails_found": [
+   {
+    "email": "contact@volcanobuilders.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:contact@volcanobuilders.com",
+    "page": "https://volcanobuilders.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://volcanobuilders.com/",
+    "snippet": "Founder, Volcano Builders"
+   },
+   {
+    "page": "https://volcanobuilders.com/about-us/",
+    "snippet": "Bar Unger: Founder, Volcano Builders"
+   },
+   {
+    "page": "https://volcanobuilders.com/about-us/",
+    "snippet": "Meet the Founder"
+   },
+   {
+    "page": "https://volcanobuilders.com/about-us/",
+    "snippet": "Founder"
+   }
+  ],
+  "locations_seen": [
+   "Bellevue, WA"
+  ],
+  "earlier_line": {
+   "id": "volcanobuilders.com",
+   "name": "Volcano Builders",
+   "niche_ok": true,
+   "niche_evidence": {
+    "url": "https://volcanobuilders.com/",
+    "quote": "We handle bathrooms, kitchens, decks, basements, ADUs and whole home renovations."
+   },
+   "g4_extra_signals": [],
+   "g4_done": true,
+   "g4_notes": "FAIL: only one signal type (social_post, auto, spot-checked: YouTube RSS channel UClhpG_Pk92cc-sc96ChQHJQ entries published 2026-10-14 and 2026-10-09; homepage also embeds Instagram posts, same type). Searched: /wp-json and /feed/ return 410; crawled all 361 sitemap URLs: newest blog post published 2024-11-18, newest project/portfolio page 2025-05-28; pages published in window are pricing-guide service pages (2026-10-14) and /signature-spaces/ pages (2026-10-15, outside window), not project/blog additions; blog posts show 'Updated October 9, 2026' style revision dates, not new posts, so not counted; no careers page in sitemap; Bellevue open data permits (Bellevue_Permit FeatureServer, CONTRACTOR like VOLCANO or UNGER): newest 23 111152 TG issued 2023-07-07; Seattle permits dataset (76t5-zqzr) has no contractor field; WA L&I licence VOLCABI792C6 effective 2021-02-26, expires 2027-02-26 (no renewal date in window); WebSearch for Volcano Builders jobs: NONE FOUND.",
+   "g5_pass": "UNKNOWN",
+   "g5_evidence": "UNKNOWN",
+   "decision_maker": "UNKNOWN",
+   "email_confirm": "UNKNOWN",
+   "contact_form_url": "https://volcanobuilders.com/contact/",
+   "phone": "(425) 230-5561 (GBP)",
+   "socials": [
+    "https://www.facebook.com/volcanobuilders/",
+    "https://www.instagram.com/volcanobuilders",
+    "https://www.houzz.com/pro/volcanobuilders/volcano-builders-inc",
+    "https://www.youtube.com/@VolcanoBuildersHomeRemodeling"
+   ],
+   "score": {
+    "trigger": "UNKNOWN",
+    "job_posting_live": "UNKNOWN",
+    "competitor": "UNKNOWN",
+    "owner_account_post_60d": "UNKNOWN",
+    "high_ticket": "UNKNOWN"
+   },
+   "assessment": "Opinion: a Bellevue general contractor with a very broad offer (residential remodels, commercial build-outs, restoration, roofing, painting); the site is actively revised but no second dated activity type could be evidenced in the window.",
+   "inference_rejected": [
+    "Niche passed with reservation: the homepage leads with home remodelling and lists bathrooms and kitchens first, but the menu also advertises commercial construction, insurance restoration, painting, insulation and roofing; the coordinator may treat it as a general contractor.",
+    "Blog 'Updated' dates (e.g. 'Updated October 9, 2026' on /should-i-allow-home-assessor-in-after-basement-remodel/) were not counted as site_dated_content because they revise posts first published in 2024.",
+    "About page names 'Bar Unger: Founder, Volcano Builders.'; not evaluated as decision maker because the run stopped at G4."
+   ],
+   "could_not_check": [
+    "Facebook/Instagram (login wall)",
+    "Seattle permits by contractor (dataset has no contractor field)",
+    "Houzz (not fetched)"
+   ],
+   "g3_vendor_found": null,
+   "stopped_at": "G4"
+  }
+ }
+]

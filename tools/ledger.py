@@ -65,13 +65,17 @@ def main():
     byname = {}
     for r in rows:
         byname.setdefault(r["nkey"], []).append(r)
+    doms = {}  # root -> websites in that group, kept in step with each union below
+    for x in rows:
+        if x["dom"]:
+            doms.setdefault(find(f"row:{x['_i']}"), set()).add(x["dom"])
     for nk, rs in byname.items():
         for r in rs[1:]:
             a, b = find(f"row:{rs[0]['_i']}"), find(f"row:{r['_i']}")
-            da = {x["dom"] for x in rows if x["dom"] and find(f"row:{x['_i']}") == a}
-            db = {x["dom"] for x in rows if x["dom"] and find(f"row:{x['_i']}") == b}
-            if not da or not db or da & db:
+            da, db = doms.get(a, set()), doms.get(b, set())
+            if a != b and (not da or not db or da & db):
                 union(a, b)
+                doms[find(b)] = da | db
     groups = {}
     for r in rows:
         groups.setdefault(find(f"row:{r['_i']}"), []).append(r)
