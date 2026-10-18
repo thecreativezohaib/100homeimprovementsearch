@@ -1,9 +1,9 @@
 [
  {
-  "id": "adamovreglazing.com",
-  "name": "Adamov Reglazing",
+  "id": "405cs.com",
+  "name": "405 Cabinets & Stone",
   "region": "R5",
-  "website": "http://adamovreglazing.com/",
+  "website": "https://405cs.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,630 +11,89 @@
   ],
   "pages_fetched": {
    "home": [
-    "http://adamovreglazing.com/"
+    "https://405cs.com/"
    ],
    "contact": [
-    "https://adamovreglazing.com/contact/"
-   ],
-   "about": [
-    "https://adamovreglazing.com/about-us-adamov-reglazing/"
+    "https://405cs.com/contact-us/",
+    "https://405cs.com/contact-us/"
    ],
    "gallery": [
-    "http://adamovreglazing.com/gallery/",
-    "https://adamovreglazing.com/gallery/"
+    "https://405cs.com/kitchen-gallery/",
+    "https://405cs.com/bathroom-gallery/"
    ],
    "legal": [
-    "http://adamovreglazing.com",
-    "http://adamovreglazing.com",
-    "http://adamovreglazing.com"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-08-25",
-    "url": "http://adamovreglazing.com/blogs/post/bathtub-reglazing-cost-orange-county/",
-    "quote": "wp-json/posts published 2026-08-25T02:30:26: 'How much does it cost to reglaze a bathtub in Orange County?'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRdJWprf3IAR0lc_VDm_PAM&hl=en",
-  "gbp_title": "Adamov Reglazing",
-  "gbp_address": "\ue0c8\n98 Fair Dr, Costa Mesa, CA 92626, United States",
-  "gbp_rating": "5.0\n(145)",
-  "gbp_phone": "phone:tel:+13104014491",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Stephen Lewis-Lam",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "Excellent workmanship, communication and a very neat and clean. I highly recommend 100% happy all around. Our tub looks brand new. We went from 90\u2019s red to a bright white 21st century.",
-    "owner": "Response from the owner 3 months ago\nThank you!"
-   },
-   {
-    "reviewer": "D Bo",
-    "when": "10 months ago",
-    "stars": "5 stars",
-    "text": "Amazing Result !!!\n\nWhen I called Adamov Reglazing, I had no references or prior knowledge of their \u2026",
-    "owner": "Response from the owner 10 months ago\nThank you for kind words! Appreciate your feedback \ud83d\udc4d\ud83c\udffb \u2026"
-   },
-   {
-    "reviewer": "Timothy Evans",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "Eli first repaired a damaged area then did a marvelous job on reglazing our bathtub. It looks fabulous and new! Eli was on time, explained the process, and cleaned up nicely. We highly recommend Adamov Reglazing for his great work and good price.",
-    "owner": "Response from the owner Edited 3 months ago\nThank you!"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "sales@adamovreglazing.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:sales@adamovreglazing.com",
-    "page": "https://adamovreglazing.com/contact/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://adamovreglazing.com/about-us-adamov-reglazing/",
-    "snippet": "My name is Eli, and I\u2019m the owner of Adamov Reglazing"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/adamovreglazing/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/adamovreglazing"
-  ],
-  "franchise_mentions": [
-   "re-bath"
-  ],
-  "niche_word_counts": {
-   "kitchen": 0,
-   "bath": 4,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "not served over HTTPS / invalid certificate: final URL scheme http; https:// probe: {'https_status': 200}",
-   "gallery images over 1MB each: https://adamovreglazing.com/wp-content/uploads/2025/08/46C3D5CD-29C1-4653-B021-95B7768A8BDB-2.jpeg = 1,222,816 bytes (HTTP Content-Length); https://adamovreglaz"
-  ],
-  "competitor_pool": [
-   {
-    "name": "AAA Kitchen Bath Remodel",
-    "url": "https://aaakbr.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "CALbath Renovations",
-    "url": "https://www.calbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Creative Construction 360 Inc.",
-    "url": "https://www.creativeconstruction360.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "CRS CONSTRUCTION - Kitchen & Bath Renovation",
-    "url": "https://crs-construction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Design And Create Builders",
-    "url": "https://designandcreatebuilders.com/service-locations/costa-mesa/",
-    "gbp_address": null
-   },
-   {
-    "name": "Haynes Cabinet Design",
-    "url": "https://haynescabinetdesign.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Costa Mesa, CA"
-  ]
- },
- {
-  "id": "add-bath.com",
-  "name": "Add Bath",
-  "region": "R5",
-  "website": "https://add-bath.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://add-bath.com/"
-   ],
-   "contact": [
-    "https://add-bath.com/contacts/"
-   ],
-   "about": [
-    "https://add-bath.com/about/"
-   ],
-   "legal": [
-    "https://add-bath.com/privacy-policy/",
-    "https://add-bath.com/privacy-policy/",
-    "https://add-bath.com/terms-of-use/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJFZyEevKpJSQRLnROsdBluEY&hl=en",
-    "quote": "Xin Xiong: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZyEevKpJSQRLnROsdBluEY&hl=en",
-  "gbp_title": "Add Bath",
-  "gbp_address": "\ue0c8\n500 SE Everett Mall Way B-222, Everett, WA 98208, United States",
-  "gbp_rating": "5.0\n(84)",
-  "gbp_phone": "phone:tel:+14255509475",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Xin Xiong",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Dmitrii is a professional that you can trust for a home project. He was very responsive from the very beginning, was very patient throughout the process to answer all my questions. He understood my budget limit and gave me his suggestion \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you, Xin, for the wonderful review and recommendation. I\u2019m glad we could meet your budget and that our responsiveness, patience, and work quality left you satisfied. I appreciate your trust in me and the team. We look forward to helping with any future projects around your home."
-   },
-   {
-    "reviewer": "Brian Woolard",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Dimitri came to repair my bathroom and closet from water damage and a leaking shower. He is easy to work with and has good quality craftsmanship.",
-    "owner": null
-   },
-   {
-    "reviewer": "Terea b",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We discovered a soft spot on our bathroom floor. We did some research and decided Add Bath was the right company for the job. Dmitrii entered our nasty crawlspace, and came up with an estimate that was quite reasonable. After the initial \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "up@add-bath.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:up@add-bath.com",
-    "page": "https://add-bath.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/addbath"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/add.bath"
-  ],
-  "franchise_mentions": [
-   "dreammaker"
-  ],
-  "niche_word_counts": {
-   "kitchen": 3,
-   "bath": 38,
-   "roof": 0,
-   "plumb": 3,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 1,
-   "cabinet": 1,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 391px, i.e. 16px wider than the screen; elements past the right edge: ['DIV.btcd-fld-itm.b1-3 righ"
-  ],
-  "competitor_pool": [
-   {
-    "name": "360 House Remodeling",
-    "url": "https://www.360houseremodeling.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Classic Remodeling NW Inc",
-    "url": "https://www.classicremodelingnw.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Luxury Construction",
-    "url": "https://luxuryconstructionwa.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Luxury kitchen and bath remodeling",
-    "url": "https://luxurykbllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Yoline Construction",
-    "url": "https://yolineindustries.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Everett, WA"
-  ]
- },
- {
-  "id": "bathroompros.net",
-  "name": "Bathroom Pros",
-  "region": "R5",
-  "website": "https://www.bathroompros.net/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Squarespace"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.bathroompros.net/"
-   ],
-   "contact": [
-    "https://www.bathroompros.net/contact"
-   ],
-   "about": [
-    "https://www.bathroompros.net/quartz",
-    "https://www.bathroompros.net/vanity"
-   ],
-   "gallery": [
-    "https://www.bathroompros.net/before-and-afters",
-    "https://www.bathroompros.net/before-and-afters"
+    "https://405cs.com/privacy-policy/",
+    "https://405cs.com/privacy-policy/"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJq0SCszI9kIAROJB2dGnKjiw&hl=en",
-    "quote": "Marc Foss: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0SCszI9kIAROJB2dGnKjiw&hl=en",
-  "gbp_title": "Bathroom Pros",
-  "gbp_address": "\ue0c8\n232 W Larch Rd Unit G, Tracy, CA 95304, United States",
-  "gbp_rating": "4.9\n(65)",
-  "gbp_phone": "phone:tel:+12092297713",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Robert Fulton",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "I absolutely recommend Bath Pros for your remodel. From start to finish everything went great and the outcome exceeded my expectations. The master and hall bath pictures show the expertise, detail and quality of work. Complete precision and perfection. Superior all the way around. Thank you Bath Pros!",
-    "owner": null
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJcy-SGk4n3YAR1YOHyJscCyY&hl=en",
+    "quote": "Lauren Speegle: 'a month ago' (Google relative timestamp, retrieved 2026-10-18)"
    },
-   {
-    "reviewer": "Marc Foss",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "We found Bathroom Pros at the Spring Home Show at the Alameda County Fairgrounds. We liked Kristen's approach.with their company and had them redo our 1950,s bathroom. As a owners of a family  business ourselves, Bathroom Pros is family \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Leland Wardell",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We met Bathroom Pros at the Santa Clara Convention Center. Their booth was front and center as you walked in. Met Pete and Kristine who are members of this family owned business.  They had actual example models of Bathroom styles to look at \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [],
-  "dm_snippets": [
-   {
-    "page": "https://www.bathroompros.net/",
-    "snippet": "Pete, our owner and licensed general contractor (LIC# 1029818), leads a skilled crew made up of his brother-in-law Koady and best frien"
-   }
-  ],
-  "facebook_links": [
-   "http://facebook.com/bathroompros",
-   "http://www.facebook.com/2008/fbml"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/bathroompros"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 0,
-   "bath": 8,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 3,
-   "cabinet": 1,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 49",
-   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/5f610ed4ea4e256419c57d35/c78cf7a3-da01-4ea3-be68-96a38ebd4b90/Bathroom+pro = 1,452,449 bytes (HTTP Content-Length)"
-  ],
-  "competitor_pool": [
-   {
-    "name": "AG7 Tile Natural Stone Inc",
-    "url": "https://ag7tilenaturalstone.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Alfa Woodworks LLC",
-    "url": "https://www.alfawoodworks.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Jb remodeling experts inc",
-    "url": "https://www.jbremodelingexperts.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Quality Construction & Remodeling LLC",
-    "url": "https://njquality.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Urias Construction, Inc.",
-    "url": "https://uriasconstructioninc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "All Pro Home Repair M H Construction",
-    "url": "https://allprohomerepairanddecor.webnode.page/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Tracy, CA"
-  ]
- },
- {
-  "id": "bellrc.com",
-  "name": "Bell Remodeling and Construction",
-  "region": "R5",
-  "website": "https://www.bellrc.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://www.bellrc.com/"
-   ],
-   "contact": [
-    "https://www.bellrc.com/contact-us.php"
-   ],
-   "about": [
-    "https://www.bellrc.com/about.php"
-   ],
-   "gallery": [
-    "https://www.bellrc.com/projects.php",
-    "https://www.bellrc.com/our-projects.php"
-   ],
-   "legal": [
-    "https://www.bellrc.com/privacy",
-    "https://www.bellrc.com/privacy-policy",
-    "https://www.bellrc.com/terms"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJYYPERphXwoARZOwkBPLGEDI&hl=en",
-    "quote": "P Miller: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYPERphXwoARZOwkBPLGEDI&hl=en",
-  "gbp_title": "Bell Remodeling and Construction",
-  "gbp_address": "\ue0c8\n3166 E Palmdale Blvd #219, Palmdale, CA 93550, United States",
-  "gbp_rating": "4.7\n(119)",
-  "gbp_phone": "phone:tel:+16617959427",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "gloria McCary",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "Bell Remodeling and Construction did an amazing job remodeling my front and backyard! Their team was professional, efficient, and maintained excellent communication throughout the entire project. They kept the job site clean, finished on \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you so much, Gloria, for your amazing 5-star review!\n\nWe truly appreciate you trusting Bell Remodeling and Construction with the \u2026 More"
-   },
-   {
-    "reviewer": "John Tek",
-    "when": "8 months ago",
-    "stars": "5 stars",
-    "text": "Bell completely remodeled the outside of my house for a fair price great quality and in good time. \u2026",
-    "owner": "Response from the owner 8 months ago\nThank you so much, John, for this incredible review and for sharing the before-and-after photos!  We're absolutely thrilled to hear that you're loving the transformation and that everything turned out even better than you imagined. Edgar, \u2026 More"
-   },
-   {
-    "reviewer": "P Miller",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Bell Remodeling and Construction extended my patio and did a great job matching my existing patio cover. Completed the job quickly at a great price. Job well done. Would highly recommend.",
-    "owner": "Response from the owner 2 months ago\nThank you so much for your wonderful 5-star review!\n\nWe're delighted to hear that you're happy with your new patio extension and that \u2026 More"
-   }
-  ],
-  "emails_found": [],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/bell.remodeling.construction/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/bell.remodeling.construction"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 2,
-   "bath": 2,
-   "roof": 3,
-   "plumb": 1,
-   "hvac": 1,
-   "handyman": 0,
-   "floor": 1,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 2,
-   "pool": 0,
-   "solar": 3,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 43",
-   "gallery images over 1MB each: https://www.bellrc.com/images/rotator1.png = 1,509,145 bytes; https://www.bellrc.com/images/rotator3.png = 1,440,855 bytes; https://www.bellrc.com/images/rotato"
-  ],
-  "competitor_pool": [
-   {
-    "name": "ModernRise Bathroom Lancaster",
-    "url": "https://6aa7e0b9258b2.site123.me/",
-    "gbp_address": null
-   },
-   {
-    "name": "Advanced Construction and Design Inc",
-    "url": "https://www.advancedconstructionanddesign.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "CR Remodeling",
-    "url": "https://www.crremodelingca.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Diamond Construction Co.",
-    "url": "https://diamondconstruction-co.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Home Town Remodeling",
-    "url": "https://hometownremodelinginc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "IronBuilt Inc.",
-    "url": "https://www.ironbuiltinc.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Lancaster, CA",
-   "Palmdale, CA"
-  ]
- },
- {
-  "id": "cabinetrefresh.com",
-  "name": "Cabinet Refresh",
-  "region": "R5",
-  "website": "https://cabinetrefresh.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://cabinetrefresh.com/"
-   ],
-   "contact": [
-    "https://cabinetrefresh.com/contact/",
-    "https://cabinetrefresh.com/contact/"
-   ],
-   "about": [
-    "https://cabinetrefresh.com/about-us/",
-    "https://cabinetrefresh.com/cabinets/"
-   ],
-   "gallery": [
-    "https://cabinetrefresh.com/gallery/"
-   ],
-   "legal": [
-    "https://cabinetrefresh.com/privacy-policy/",
-    "https://cabinetrefresh.com/privacy-policy/",
-    "https://cabinetrefresh.com/terms-and-conditions/"
-   ]
-  },
-  "auto_signals": [
    {
     "type": "site_dated_content",
-    "date": "2026-10-08",
-    "url": "https://cabinetrefresh.com/will-white-oak-cabinets-look-dated-in-10-years-like-honey-oak-did/",
-    "quote": "wp-json/posts published 2026-10-08T06:29:59: 'Will White Oak Cabinets Look Dated in 10 Years  Like Honey Oak Did?'"
+    "date": "2026-10-13",
+    "url": "https://405cs.com/viet-hoangs-kitchen/",
+    "quote": "wp-json/posts published 2026-10-13T21:56:30: 'Viet Hoang&#8217;s Kitchen'"
    }
   ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJTceywKawwoAR7P0e_XuYHv0&hl=en",
-  "gbp_title": "Cabinet Refresh",
-  "gbp_address": "\ue0c8\n5811 S Denker Ave, Los Angeles, CA 90047, United States",
-  "gbp_rating": "4.9\n(363)",
-  "gbp_phone": "phone:tel:+18888852058",
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJcy-SGk4n3YAR1YOHyJscCyY&hl=en",
+  "gbp_title": "405 Cabinets & Stone",
+  "gbp_address": "\ue0c8\n18315 Mt Baldy Cir, Fountain Valley, CA 92708, United States",
+  "gbp_rating": "4.6\n(490)",
+  "gbp_phone": "phone:tel:+17145003855",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Josef Gamper",
-    "when": "4 months ago",
+    "reviewer": "Liam Miller",
+    "when": "3 months ago",
     "stars": "5 stars",
-    "text": "I hired Cabinet Refresh for my kitchen renovation project, and they did such an amazing job! The transformation turned out even better than I could have expected. The team did an immaculate job refreshing the kitchen with a combo of \u2026",
-    "owner": "Response from the owner 4 months ago\nThank you for the photos, what an incredible transformation! Thank you for trusting us."
+    "text": "I\u2019m from Colorado and have worked with Michael at 405 Cabinets on a couple of projects with my contractor. Whether it was a small project or a larger one, Michael always provided the same great service. He was patient, took the time to \u2026",
+    "owner": "Response from the owner 2 months ago\nThanks for review, Liam, and for going the extra mile(s) to get extraordinary cabinetry. Michael and our design consultants will always go the extra mile for customers like you. We wish your family many happy moments in your new space. Congratulations! "
    },
    {
-    "reviewer": "MarSanMar",
-    "when": "7 months ago",
-    "stars": "4 stars",
-    "text": "Cabinet Refresh did most of our kitchen remodel, including painting the cabinets white, replacing hinges and pulls, modifying part of the cabinet space to fit a new oven/microwave combo, taking down the bar top to make the counter all one \u2026",
-    "owner": "Response from the owner 7 months ago\nThank you for taking the time to do a review, we so appreciate it.\nThank you for your business, we are always striving for improvement."
+    "reviewer": "Lauren Speegle",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "We are very happy with 405 cabinets and our rep Annalie. All of the staff we\u2019ve engaged with are helpful, friendly and knowledgeable. Annalie listened to our vision and we never felt rushed, every step of the process was clearly communicated. Our cabinets turned out great!",
+    "owner": "Response from the owner a month ago\nHi Lauren. Thanks for the review and photos! We're happy to help you bring your vision to life. The project looks like it's coming along great!"
    },
    {
-    "reviewer": "gocharlesb",
-    "when": "6 months ago",
+    "reviewer": "Lam Dang",
+    "when": "3 months ago",
     "stars": "5 stars",
-    "text": "Cabinet Refresh review - 25 year old kitchen brought back to life!\n\nOur Kitchen was over 25 years old and badly outdated. The layout was also \u2026",
-    "owner": "Response from the owner 5 months ago\nThank you so much for your review! We are so glad that you had such a great experience with us! \u263a\ufe0f"
+    "text": "I bought some bathroom vanities from 405 a long time ago.  Their beauty and quality brought me back for a greater remodeling work this time.  Sale rep V\u0169 guided me how to measure my kitchen correctly as well as to choose the right stone for \u2026",
+    "owner": "Response from the owner 3 months ago\nThank you for the review, Lam. We're so glad to your project has been a success, and proud to be on your project team. We hope you enjoy making many new memories in your new space. "
    }
   ],
   "emails_found": [
    {
-    "email": "customerservice@cabinetrefresh.com",
+    "email": "support@405cs.com",
     "how": "plain text",
-    "raw": "CustomerService@CabinetRefresh.com",
-    "page": "https://cabinetrefresh.com/contact/"
+    "raw": "support@405cs.com",
+    "page": "https://405cs.com/"
    }
   ],
-  "dm_snippets": [
-   {
-    "page": "https://cabinetrefresh.com/about-us/",
-    "snippet": "Founder & VP of Sales"
-   }
-  ],
+  "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/CabinetRefresh"
+   "https://www.facebook.com/405CS/"
   ],
   "instagram_links": [
-   "https://www.instagram.com/cabinetrefresh"
+   "https://www.instagram.com/405cs"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 21,
-   "bath": 13,
+   "kitchen": 35,
+   "bath": 12,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 64,
+   "cabinet": 50,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -642,413 +101,23 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://cabinetrefresh.com/wp-content/uploads/2026/10/image-2.png = 2,041,748 bytes; https://cabinetrefresh.com/wp-content/uploads/2026/10/image.png = 2,573,211"
+   "mobile performance score below 60: PSI mobile performance 56",
+   "gallery images over 1MB each: https://405cs.com/wp-content/uploads/2026/03/homepage-banner-slide-3.webp = 1,625,448 bytes; https://405cs.com/wp-content/uploads/2026/03/third-homepage-banner-"
   ],
   "competitor_pool": [
    {
-    "name": "Jenkins Construction of Los angeles",
-    "url": "https://www.jenkinsconstructionla.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Inglewood, CA"
-  ]
- },
- {
-  "id": "cabinetscore.com",
-  "name": "Cabinets Core",
-  "region": "R5",
-  "website": "https://cabinetscore.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://cabinetscore.com/"
-   ],
-   "about": [
-    "https://cabinetscore.com/about-us/"
-   ],
-   "gallery": [
-    "https://cabinetscore.com/projects/"
-   ],
-   "legal": [
-    "https://cabinetscore.com/privacy-policy/",
-    "https://cabinetscore.com/privacy-policy/",
-    "https://cabinetscore.com/terms/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-09-22",
-    "url": "https://cabinetscore.com/planning-kitchen-remodel-gig-harbor/",
-    "quote": "wp-json/posts published 2026-09-22T09:27:57: 'Planning a Kitchen Remodel in Gig Harbor: Questions Answered'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWAtYb5ZkFQR85Ag4VXzKk8&hl=en",
-  "gbp_title": "Cabinets Core",
-  "gbp_address": "\ue0c8\n3902 W Valley Hwy N #502, Auburn, WA 98001, United States",
-  "gbp_rating": "5.0\n(83)",
-  "gbp_phone": "phone:tel:+14255056473",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Stephen Song",
-    "when": "8 months ago",
-    "stars": "5 stars",
-    "text": "We had a great experience working with Cabinets Core on our kitchen remodel. Nick and his whole team were outstanding \u2014 highly responsive, thoughtful in 3D design, and excellent at keeping the project on track from start to finish. \u2026",
-    "owner": "Response from the owner 8 months ago\nThank you so much for the great review Stephen! We\u2019re thrilled to hear you had such a smooth experience from design through installation and that everything stayed on track. We sincerely appreciate you choosing Cabinets Core for your \u2026 More"
-   },
-   {
-    "reviewer": "Michele Bailey",
-    "when": "8 months ago",
-    "stars": "5 stars",
-    "text": "We did a down to the studs remodel, which included kitchen,  bathrooms x3 and laundry. Trang designed all the spaces and everything turned out beautifully. Everyone was very helpful and responsive to my many questions!  Here are a few before and after photos!",
-    "owner": "Response from the owner 8 months ago\nThank you so much Michele! We\u2019re so happy to hear you loved the final results and had a great experience working with Trang and our team. It truly means a lot that you trusted Cabinets Core for your cabinets and tile throughout your remodel. Enjoy your beautiful new spaces!"
-   },
-   {
-    "reviewer": "Zurab",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "Excellent store with great prices and a wide selection. As a contractor, I shop here regularly and have always had a great experience. The staff is helpful, the products are reliable, and it's easy to find what I need for my projects. Highly recommend this store to both professionals and homeowners!",
-    "owner": "Response from the owner 5 days ago\nThank you for your recommendation and continued support! We\u2019re glad you can count on us for your projects and look forward to seeing you again!"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "office@cabinetscore.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:office@CabinetsCore.com",
-    "page": "https://cabinetscore.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/CabinetsCore",
-   "https://www.facebook.com/people/EuroStar-Holdings-LLC/61550655617132/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/cabinets.core",
-   "https://www.instagram.com/eurostarholdings"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 50,
-   "bath": 4,
-   "roof": 0,
-   "plumb": 1,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 18,
-   "cabinet": 105,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 520px, i.e. 145px wider than the screen; elements past the right edge: ['DIV.elementor-widget-cont"
-  ],
-  "competitor_pool": [
-   {
-    "name": "BMB ROCKSOLID BUILDERS",
-    "url": "https://bmbrocksolidbuilders.com/",
+    "name": "ONE FINISH REMODELING",
+    "url": "https://1finish.com/",
     "gbp_address": null
    },
    {
-    "name": "CAP Construction",
-    "url": "https://www.capconstructionremodeling.com/",
+    "name": "American Best Remodeling",
+    "url": "https://americanbestremodel.com/",
     "gbp_address": null
    },
    {
-    "name": "NW Diamond Tile and Remodel",
-    "url": "https://www.diamondtileandremodel.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Massey Remodel + Design",
-    "url": "https://www.masseyrd.com/tacoma-wa-remodeling/",
-    "gbp_address": "\ue0c8\n1120 Pacific Ave Ste 211, Tacoma, WA 98402, United States"
-   },
-   {
-    "name": "Mendoza's Residential Remodeling LLC",
-    "url": "https://mendozaremodelingnw.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Suarez Home Remodeling LLC",
-    "url": "https://suarezhomeremodelingllc.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Auburn, WA"
-  ]
- },
- {
-  "id": "createconstructionca.com",
-  "name": "Create Construction | Design and remodel company",
-  "region": "R5",
-  "website": "https://createconstructionca.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://createconstructionca.com/"
-   ],
-   "contact": [
-    "https://createconstructionca.com/contact-us/"
-   ],
-   "about": [
-    "https://createconstructionca.com/about-us/"
-   ],
-   "gallery": [
-    "https://createconstructionca.com/our-work/",
-    "https://createconstructionca.com/construction-project-management/"
-   ],
-   "legal": [
-    "https://createconstructionca.com/privacy-policy/",
-    "https://createconstructionca.com/privacy-policy/",
-    "https://createconstructionca.com/terms-and-conditions/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Z5EC6G_woARfRhnz2mUrPY&hl=en",
-    "quote": "Derek Bannar: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
-   },
-   {
-    "type": "site_dated_content",
-    "date": "2026-07-21",
-    "url": "https://createconstructionca.com/smart-additions-maximizing-home-value-in-santa-monica/",
-    "quote": "wp-json/posts published 2026-07-21T14:20:55: 'Smart Additions: Maximizing Home Value in Santa Monica'"
-   },
-   {
-    "type": "social_post",
-    "date": "2026-10-13",
-    "url": "https://www.youtube.com/shorts/JcYmUWLDeAA",
-    "quote": "YouTube channel https://www.youtube.com/@createconstruction post: 'Before Create vs. After Create'",
-    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCiurzbvxLBAAxeAPvAqdA2g <published>"
-   }
-  ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Z5EC6G_woARfRhnz2mUrPY&hl=en",
-  "gbp_title": "Create Construction | Design and remodel company",
-  "gbp_address": "\ue0c8\n3500 W Olive Ave #300, Burbank, CA 91505, United States",
-  "gbp_rating": "5.0\n(30)",
-  "gbp_phone": "phone:tel:+18188044727",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Derek Bannar",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "I recently had my kitchen remodeled and had a very good experience with Create Construction and would recommend them to anyone. The project went really smoothly, with only minor hiccups which were always resolved quickly and fairly. I \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you Derek! It was our pleasure working with you. "
-   },
-   {
-    "reviewer": "Summer Thorson",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We recently completed a full remodel of both our primary and guest bathrooms, and I can't say enough great things about the experience. From the very first meeting with Yarin, we knew this was the company we wanted to work with. He listened \u2026",
-    "owner": "Response from the owner a year ago\nThank you so much for the kind words! It was a true pleasure working with you and your family. We\u2019re thrilled you love the new bathrooms and grateful you trusted us with your vision. Wishing you all the best!"
-   },
-   {
-    "reviewer": "Earl Valdez",
-    "when": "7 months ago",
-    "stars": "5 stars",
-    "text": "We hired Create Construction for a major renovation that included an office addition, a complete kitchen remodel, a master bathroom remodel, adding a brand-new powder room, full home electrical re-wiring, removing old flooring and \u2026",
-    "owner": "Response from the owner 5 months ago\nThank you so much for the kind words. We truly appreciate it. It was a pleasure working with you on such a special project, and we\u2019re so glad you\u2019re happy with the result. \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@createconstructionca.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@createconstructionca.com",
-    "page": "https://createconstructionca.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://createconstructionca.com/about-us/",
-    "snippet": "Co-Founder"
-   },
-   {
-    "page": "https://createconstructionca.com/about-us/",
-    "snippet": "Co-Founder"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/createconstructionca",
-   "https://www.facebook.com/createconstructionca/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/createconstructionca",
-   "https://www.instagram.com/p",
-   "https://www.instagram.com/reel"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 118,
-   "bath": 120,
-   "roof": 2,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 1,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 21
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 27"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Home Builders",
-    "url": "https://thingsreview.com/generic/home-builders/",
-    "gbp_address": null
-   },
-   {
-    "name": "Burbank Kitchen Remodel And Bath Co",
-    "url": "https://burbankkitchenremodelandbathco.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Creative Home Remodeling Group Inc.",
-    "url": "https://creativeremodeling.ca/",
-    "gbp_address": null
-   },
-   {
-    "name": "PrimePinnacle Genaral Contractors",
-    "url": "https://thefranciscoguide.com/generic/primepinnacle-genaral-contractors/",
-    "gbp_address": null
-   },
-   {
-    "name": "MDRN Construction",
-    "url": "https://mdrnconstruction.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Burbank, CA"
-  ]
- },
- {
-  "id": "donerightbuildersandremodeling.com",
-  "name": "Done Right Builders and Remodeling",
-  "region": "R5",
-  "website": "https://www.donerightbuildersandremodeling.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.donerightbuildersandremodeling.com/"
-   ],
-   "contact": [
-    "https://www.donerightbuildersandremodeling.com/contact-form"
-   ],
-   "about": [
-    "https://www.donerightbuildersandremodeling.com/about-us"
-   ],
-   "gallery": [
-    "https://www.donerightbuildersandremodeling.com/projects"
-   ],
-   "legal": [
-    "https://www.donerightbuildersandremodeling.com/privacy-policy"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-09-28",
-    "url": "https://www.donerightbuildersandremodeling.com/post/outdoor-living-remodeling-covered-patio-deck-build-ideas",
-    "quote": "rss:https://www.donerightbuildersandremodeling.com/blog-feed.xml published Mon, 28 Sep 2026 19:00:09 GMT: 'Outdoor Living Remodeling: Covered Patio &#38; Deck Build Ideas'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-BLHT_Lj4ARVxxjgnqi7lE&hl=en",
-  "gbp_title": "Done Right Builders and Remodeling",
-  "gbp_address": "\ue0c8\n1825 De La Cruz Blvd #203, Santa Clara, CA 95050, United States",
-  "gbp_rating": "5.0\n(52)",
-  "gbp_phone": "phone:tel:+18008160000",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Mark Campbell",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "We chose Done Right Builders and Remodeling for our full kitchen renovation after meeting with six highly rated contractors from Google. They offered a mid-range quote and a realistic timeline of 6-8 weeks. Our project manager, Ryan, went \u2026",
-    "owner": "Response from the owner 5 months ago\nThank you Mark, we appreciate your trust in us for your kitchen renovation. Glad Ryan and the team delivered beyond expectations and kept everything on track. Looking forward to helping with your bathroom project as well."
-   },
-   {
-    "reviewer": "Eric Burroughs",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "We reached out to Done Right Builders & Remodeling to handle a long overdue kitchen remodeling job. The team showed up on time for the consultation and patiently listened to our small requests about drawer placements. The installation of \u2026",
-    "owner": "Response from the owner Edited 3 months ago\nThank you, Eric, for taking the time to share your experience. We're glad you trusted Done Right Builders & Remodeling with your kitchen remodeling project. We appreciate your understanding regarding the countertop adjustment and are happy we could resolve it quickly. Thank you for choosing us!"
-   },
-   {
-    "reviewer": "doron galpaz",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Wow! I can\u2019t say enough good things about Done right Builder and Remodeling They completely transformed my home, and I\u2019m in love with the results. From the very beginning, they were professional, friendly, and truly listened to what I \u2026",
-    "owner": "Response from the owner 9 months ago\nThank you for the amazing review, Doron! We're glad to have transformed your home and made the experience a positive one. Your satisfaction means the world to us, and we truly appreciate your recommendation"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "orenmoving@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:orenmoving@gmail.com",
-    "page": "https://www.donerightbuildersandremodeling.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/DoneRightHomeRemodeling/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/doneright_builders_remodeling"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 38,
-   "bath": 27,
-   "roof": 0,
-   "plumb": 1,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 2,
-   "cabinet": 5,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 8
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 29"
-  ],
-  "competitor_pool": [
-   {
-    "name": "AJ Home Remodeling Inc",
-    "url": "https://aj-homeremodeling.com/",
+    "name": "California Signature Kitchen, Bath & Flooring",
+    "url": "https://californiasignature.com/",
     "gbp_address": null
    },
    {
@@ -1057,35 +126,202 @@
     "gbp_address": null
    },
    {
-    "name": "GADI Construction",
-    "url": "https://gadiconstruction.com/",
+    "name": "Kitchen Cabinets and Beyond",
+    "url": "https://kitchencabinetsandbeyond.com/",
     "gbp_address": null
    },
    {
-    "name": "Golden Ridge Construction Inc.",
-    "url": "https://goldenridgeconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Kitchen Renovation INC",
-    "url": "https://kitchenrenovationca.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Maison Remodeling Group",
-    "url": "https://maisonremodeling.com/",
+    "name": "Modern Renovations",
+    "url": "https://www.modernrenovations.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Santa Clara, CA"
+   "Anaheim, CA",
+   "Fountain Valley, CA",
+   "Irvine, CA",
+   "Orange, CA"
   ]
  },
  {
-  "id": "jbconstructionsd.com",
-  "name": "J B Construction & Renovations",
+  "id": "advancedremodelingwa.com",
+  "name": "Advanced Remodeling LLC.",
   "region": "R5",
-  "website": "https://jbconstructionsd.com/",
+  "website": "https://advancedremodelingwa.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://advancedremodelingwa.com/"
+   ],
+   "contact": [
+    "https://advancedremodelingwa.com/contact"
+   ],
+   "about": [
+    "https://advancedremodelingwa.com/services/full-home-remodel",
+    "https://advancedremodelingwa.com/about"
+   ],
+   "gallery": [
+    "https://advancedremodelingwa.com/portfolio"
+   ],
+   "legal": [
+    "https://advancedremodelingwa.com/privacy",
+    "https://advancedremodelingwa.com/privacy",
+    "https://advancedremodelingwa.com/terms"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-29",
+    "url": "https://advancedremodelingwa.com/blog/roofing-cost-guide-shoreline-wa",
+    "quote": "rss:https://advancedremodelingwa.com/blog/rss.xml published Tue, 29 Sep 2026 13:06:22 GMT: 'Shoreline Roofing Cost Guide: 2024 Prices for WA Homes'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4AYVjlPJiUR6naSahKmLfo&hl=en",
+  "gbp_title": "Advanced Remodeling LLC.",
+  "gbp_address": "\ue0c8\n7116 220th St SW Suite 12, Mountlake Terrace, WA 98043, United States",
+  "gbp_rating": "5.0\n(44)",
+  "gbp_phone": "phone:tel:+14256007735",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Mazda Hutapea",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "I\u2019m really glad I chose to work with Dominik and his team!\n\nI had unstable tiles on the back wall of my shower from a poor previous \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much for sharing your experience! Our team loved working with you and is thrilled to hear you appreciated the personalized approach and attention to detail."
+   },
+   {
+    "reviewer": "brian gilbert",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "JJ, Dominick, Erik, Jayson, Marco and the entire crew at Advanced did an amazing job with our basement, bath, laundry room remodel after a basement flooding issue.  Would hire them again and recommend them highly.",
+    "owner": null
+   },
+   {
+    "reviewer": "Sarah Schumacher",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "We are so glad that we chose to work with the team at Advanced Remodeling for our recent remodel of two bathrooms and a laundry room. There are so many positives to highlight: \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much for sharing your experience! Our team loved working with you and is thrilled you\u2019re happy with the results."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@advancedremodelingwa.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@advancedremodelingwa.com",
+    "page": "https://advancedremodelingwa.com/contact"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://advancedremodelingwa.com/",
+    "snippet": "As an owner of a real estate team myself, we love working with and referring Dominic and his team over at Advanced Remodeling"
+   },
+   {
+    "page": "https://advancedremodelingwa.com/",
+    "snippet": "As an owner of a real estate team myself, we love working with and referring Dominic and his team over at Advanced Remodeling"
+   },
+   {
+    "page": "https://advancedremodelingwa.com/contact",
+    "snippet": "General Manager"
+   },
+   {
+    "page": "https://advancedremodelingwa.com/services/full-home-remodel",
+    "snippet": "General Manager at Advanced Remodeling"
+   },
+   {
+    "page": "https://advancedremodelingwa.com/services/full-home-remodel",
+    "snippet": "As an owner of a real estate team myself, we love working with and referring Dominic and his team over at Advanced Remodeling"
+   },
+   {
+    "page": "https://advancedremodelingwa.com/services/full-home-remodel",
+    "snippet": "As an owner of a real estate team myself, we love working with and referring Dominic and his team over at Advanced Remodeling"
+   },
+   {
+    "page": "https://advancedremodelingwa.com/about",
+    "snippet": "General Manager"
+   },
+   {
+    "page": "https://advancedremodelingwa.com/about",
+    "snippet": "Founder / Senior Project Lead"
+   },
+   {
+    "page": "https://advancedremodelingwa.com/about",
+    "snippet": "General Manager at Advanced Remodeling"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=61559056081154"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/advanced_remodeling"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 34,
+   "bath": 38,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 11,
+   "siding": 0,
+   "window": 3,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://advancedremodelingwa.com/api/public/media/highlight-of-project/1304417-Kitchen_Dining.png?w=1600&q=70&resize=cov = 1,315,539 bytes; https://advancedremo"
+  ],
+  "competitor_pool": [
+   {
+    "name": "All Types of Painting Remodeling sheet rock repair",
+    "url": "https://www.alltypesofremodelingrepairs.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "ANew Shower",
+    "url": "https://anewshower.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Blended Contracting",
+    "url": "https://www.blendedcontracting.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Carl Hamilton Renovations, LLC",
+    "url": "https://www.carrhamilton.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Rock Solid Construction",
+    "url": "https://rocksolidconstruction.carrd.co/",
+    "gbp_address": null
+   },
+   {
+    "name": "Core Concepts LLC.",
+    "url": "https://shopcoreconcepts.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Biloxi, MS",
+   "Gulfport, MS",
+   "Shoreline, WA"
+  ]
+ },
+ {
+  "id": "aframirezconstruction.com",
+  "name": "A and F Ramirez Construction",
+  "region": "R5",
+  "website": "https://aframirezconstruction.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -1093,354 +329,103 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://jbconstructionsd.com/"
+    "https://aframirezconstruction.com/"
    ],
    "contact": [
-    "https://jbconstructionsd.com/contact-form/",
-    "https://jbconstructionsd.com/contact-form/"
-   ],
-   "about": [
-    "https://jbconstructionsd.com/about-us/"
+    "https://aframirezconstruction.com/contact-us/"
    ],
    "gallery": [
-    "https://jbconstructionsd.com/services/commercial-projects/",
-    "https://jbconstructionsd.com/gallery/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJYYKdERRZ2YARsrzHQV9_0m4&hl=en",
-    "quote": "Meredith Van Lier: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYKdERRZ2YARsrzHQV9_0m4&hl=en",
-  "gbp_title": "J B Construction & Renovations",
-  "gbp_address": "\ue0c8\n204 Greenfield Dr B, El Cajon, CA 92020, United States",
-  "gbp_rating": "4.8\n(40)",
-  "gbp_phone": "phone:tel:+16196424027",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Meredith Van Lier",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "We are thrilled with our new kitchen and bathroom. JB Construction provided high-quality products and craftsmanship. The biggest selling point was how reliable they were. They were at our house daily, sometimes with 2 or 3 crews. Our remodel was done in less than 3 months. We would highly recommend them!",
-    "owner": "Response from the owner a month ago\nThank you so much, Meredith! It was truly a pleasure working with you and Jeanlier and bringing your kitchen and bathroom vision to life. We truly appreciate your kind words and especially your recognition of our team\u2019s reliability and \u2026 More"
-   },
-   {
-    "reviewer": "Erika Fellars",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "I have been using JB Construction for various house projects since 2016.  I have been 100% satisfied with their work, and Jose is just so awesome to work with. The work quality is top notch! I have them lined up for a closet remodel this \u2026",
-    "owner": "Response from the owner Edited a month ago\nThank you so much, Erika! We truly appreciate your continued trust and support over the years. It has been a pleasure working with you on your different home projects since 2016. \u2026 More"
-   },
-   {
-    "reviewer": "Deborah Wolfe",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "JB Construction & Renovations did a fantastic job on my kitchen and bath remodel. Everything was done to my specifications and with attention to details. They were professional, every worker was a true craftsman who took pride in their \u2026",
-    "owner": "Response from the owner a year ago\nDeborah,\nThank you for the wonderful review! We're so glad we could bring your kitchen and bath vision to life with precision and care. Every member of our team takes \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "infojb@jbconstructionsd.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:infojb@jbconstructionsd.com",
-    "page": "https://jbconstructionsd.com/"
-   },
-   {
-    "email": "info@jbconstructionsd.com",
-    "how": "plain text",
-    "raw": "info@jbconstructionsd.com",
-    "page": "https://jbconstructionsd.com/gallery/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/JBconstructionandrenovations"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/jbconstructionsd"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 7,
-   "bath": 5,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 8,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 52"
-  ],
-  "competitor_pool": [
-   {
-    "name": "The Kitchen Doctor San Diego",
-    "url": "https://kitchendoctorsd.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Ram Construction SD",
-    "url": "https://www.ramconstructionsd.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Superior Kitchen & Bath, Inc",
-    "url": "https://www.superiorkb.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Team Renovate",
-    "url": "https://www.teamrenovatesd.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "El Cajon, CA"
-  ]
- },
- {
-  "id": "junioreliteservices.com",
-  "name": "Junior Elite Services",
-  "region": "R5",
-  "website": "https://www.junioreliteservices.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://www.junioreliteservices.com/"
-   ],
-   "about": [
-    "https://www.junioreliteservices.com/about/"
-   ],
-   "gallery": [
-    "https://www.junioreliteservices.com/our-work/"
+    "https://aframirezconstruction.com/gallery/"
    ],
    "legal": [
-    "https://www.junioreliteservices.com/privacy/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJC3qa6gzZ8gERdQ8pjduejuk&hl=en",
-    "quote": "Michael Ziganti: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3qa6gzZ8gERdQ8pjduejuk&hl=en",
-  "gbp_title": "Junior Elite Services",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(11)",
-  "gbp_phone": "phone:tel:+16507842770",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Andr\u00e9a Arruda Escorel",
-    "when": "8 months ago",
-    "stars": "5 stars",
-    "text": "Excellent professional. I hired him for several handyman services and was very satisfied every time. I did get lower quotes from other professionals, but I would gladly pay more again for the quality of work and results I received from him. \u2026",
-    "owner": "Response from the owner 7 months ago\nThank you so much, Andr\u00e9a! I truly appreciate your kind words and your continued trust in my work. It\u2019s always a pleasure helping you with your projects. At Junior Elite Services we always focus on quality, reliability, and attention to \u2026 More"
-   },
-   {
-    "reviewer": "Michael Ziganti",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "Very handy, took care of issue easily. Fair pricing.",
-    "owner": null
-   },
-   {
-    "reviewer": "Marcelo Mowatt",
-    "when": "8 months ago",
-    "stars": "5 stars",
-    "text": "Great service: very professional, reliable, quality and at reasonable cost.  I highly recommend!",
-    "owner": "Response from the owner 7 months ago\nThank you very much, Marcelo! We truly appreciate your kind words and your trust in our work. It was a pleasure helping with your project. At Junior Elite Services we always focus on professionalism, reliability, and quality workmanship at \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@junioreliteservices.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@junioreliteservices.com",
-    "page": "https://www.junioreliteservices.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/profile.php?id=61577018368540"
-  ],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 9,
-   "bath": 11,
-   "roof": 7,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 14,
-   "floor": 0,
-   "cabinet": 3,
-   "siding": 1,
-   "window": 6,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 408px, i.e. 33px wider than the screen; elements past the right edge: ['DIV right=408', 'H2 right="
-  ],
-  "competitor_pool": [
-   {
-    "name": "Axa Construction Inc",
-    "url": "https://www.axaconstructioninc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "California First Class Construction",
-    "url": "https://cfccinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Home Pride Construction, Inc",
-    "url": "https://homeprideinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "J & N Kitchen Cabinets, Inc.",
-    "url": "https://www.jnnkitchens.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "K&B Remodeling & Sons Inc",
-    "url": "https://www.knbremodeling.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Pacific Construction, General Contractors San Francisco",
-    "url": "https://pacificconstructionsf.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Daly City, CA"
-  ]
- },
- {
-  "id": "kandbusa.com",
-  "name": "Kitchen & Bath Direct USA",
-  "region": "R5",
-  "website": "https://www.kandbusa.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.kandbusa.com/"
-   ],
-   "contact": [
-    "https://www.kandbusa.com/contact-us"
-   ],
-   "gallery": [
-    "https://www.kandbusa.com/kitchen-remodeling-projects"
-   ],
-   "legal": [
-    "https://www.kandbusa.com/privacy-policy"
+    "https://aframirezconstruction.com/privacy-policy/",
+    "https://aframirezconstruction.com/privacy-policy/",
+    "https://aframirezconstruction.com/terms-and-conditions/"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WQXGqjL3IARJ1kAwHyFrps&hl=en",
-    "quote": "J: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJKQ6cca0vw4ARECuzvV0-OeM&hl=en",
+    "quote": "Cindy Oetomo: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-07-20",
+    "url": "https://aframirezconstruction.com/water-damage-repair-for-kitchens-bathrooms-and-basements-key-differences/",
+    "quote": "wp-json/posts published 2026-07-20T16:09:08: 'Water Damage Repair for Kitchens, Bathrooms, and Basements: Key Differences'"
    }
   ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WQXGqjL3IARJ1kAwHyFrps&hl=en",
-  "gbp_title": "Kitchen & Bath Direct USA",
-  "gbp_address": "\ue0c8\n4651 E Airport Dr, Ontario, CA 91761, United States",
-  "gbp_rating": "4.7\n(142)",
-  "gbp_phone": "phone:tel:+19096861121",
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQ6cca0vw4ARECuzvV0-OeM&hl=en",
+  "gbp_title": "A and F Ramirez Construction",
+  "gbp_address": "\ue0c8\n1170 Oneil St, Upland, CA 91784, United States",
+  "gbp_rating": "5.0\n(32)",
+  "gbp_phone": "phone:tel:+19092769936",
   "gbp_reviews_visible": [
    {
-    "reviewer": "J",
+    "reviewer": "Cindy Oetomo",
     "when": "2 months ago",
-    "stars": "3 stars",
-    "text": "Recently purchased a vanity from Kitchen and Bath Direct USA in Ontario on Wednesday, 07/22/2026.The selection of options was impressive with way more variety than the big box stores, and the pricing offers noticeably better value for the \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you for your feedback. We\u2019re sorry your experience fell short. Please contact our Ontario location directly so we can further assist you!"
-   },
-   {
-    "reviewer": "Cynthia Q",
-    "when": "11 months ago",
     "stars": "5 stars",
-    "text": "Pictures are from January 2025. Good prices. Great customer service, we dealt with Graciela, she was great. We ended up getting our cabinets from here. Highly recommend this place.",
-    "owner": "Response from the owner 11 months ago\nThank you so much for the awesome review! \ud83d\ude4c\nWe\u2019re happy you got great prices and service. Enjoy the new cabinets, and thanks for the high recommendation! \u2026 More"
+    "text": "Felipe and his crew are legit the best, real deal contractor / mold remediation company. They did a fantastic job on my home. We had a horrible experience with another contractor who tried to scam us and Felipe took over the job. Got it \u2026",
+    "owner": "Response from the owner a month ago\nCindy, thank you so much for taking the time to share your experience and for your kind words. I know this project came with a lot of stress, especially after what you had already been through, so I truly appreciate the trust you placed in \u2026 More"
    },
    {
-    "reviewer": "Robert Velasquez",
-    "when": "3 months ago",
-    "stars": "4 stars",
-    "text": "They have a good selection of kitchen and bath cabinets and counter tops at fair prices. They do charge if you want the cabinets assembled though so be aware of that. I think it is around 100 dollars per cabinet. \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you for your feedback and for choosing us. We\u2019re glad you appreciated our selection and fair pricing. Cabinet assembly is optional, and fees may vary by item. We appreciate your business."
+    "reviewer": "Khi Smalls",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We couldn\u2019t be happier with the work A and F Ramirez Construction did for us! They completely transformed our garage into a beautiful, fully functional studio that feels like a natural extension of our home. The highlight was the stunning \u2026",
+    "owner": "Response from the owner a year ago\nHi Khi, Thank you so much for your heartfelt review! We truly enjoyed working on your project and are thrilled to hear you're happy with the garage transformation into a studio, the beautiful bathroom, and the storage shed. It means a lot \u2026 More"
+   },
+   {
+    "reviewer": "Amir Nejad",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "I have nothing but great things to say about Felipe and his team. We recently completed an ADU conversion in West Hollywood. It was a tremendous amount of work, much more than we anticipated. We met Felipe by chance after we split from our \u2026",
+    "owner": "Response from the owner a year ago\nAmir, Thank you very much for your kind words. It\u2019s been a pleasure working with such wonderful clients like you. We're grateful for the opportunity to assist with your project and appreciate your trust in Felipe and our team. It\u2019s \u2026 More"
    }
   ],
   "emails_found": [
    {
-    "email": "customerservice@kandbusa.com",
+    "email": "felipe@aframirezconstruction.com",
     "how": "mailto",
-    "raw": "href=\"mailto:customerservice@kandbusa.com",
-    "page": "https://www.kandbusa.com/"
+    "raw": "href=\"mailto:felipe@aframirezconstruction.com",
+    "page": "https://aframirezconstruction.com/"
    },
    {
-    "email": "info@kandbusa.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@kandbusa.com",
-    "page": "https://www.kandbusa.com/contact-us"
-   },
-   {
-    "email": "bowen@kandbusa.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:bowen@kandbusa.com",
-    "page": "https://www.kandbusa.com/privacy-policy"
+    "email": "info@aframirezconstruction.com",
+    "how": "plain text",
+    "raw": "info@aframirezconstruction.com",
+    "page": "https://aframirezconstruction.com/contact-us/"
    }
   ],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/kandbdirect/"
+   "https://www.facebook.com/people/AF-Ramirez-Construction-Inc/100063856250164/"
   ],
-  "instagram_links": [],
+  "instagram_links": [
+   "https://www.instagram.com/af.ramirez.construction.inc"
+  ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 6,
-   "bath": 4,
-   "roof": 0,
-   "plumb": 0,
+   "kitchen": 12,
+   "bath": 10,
+   "roof": 6,
+   "plumb": 6,
    "hvac": 0,
    "handyman": 0,
-   "floor": 1,
+   "floor": 6,
    "cabinet": 1,
-   "siding": 0,
-   "window": 0,
+   "siding": 3,
+   "window": 1,
    "pool": 0,
    "solar": 0,
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 22"
+   "mobile performance score below 60: PSI mobile performance 53",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 381px, i.e. 6px wider than the screen; elements past the right edge: ['DIV.et_pb_button_module_wra"
   ],
   "competitor_pool": [
    {
@@ -1449,18 +434,13 @@
     "gbp_address": null
    },
    {
-    "name": "Cozy n Bath Miducha Phonis inc",
-    "url": "https://cozybath.com/",
+    "name": "Ayala Building And Remodeling",
+    "url": "https://www.ayalaremodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "HDZ CONSTRUCT & DESIGN INC.",
-    "url": "https://hdzremodels.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Home Masters Int'l",
-    "url": "https://homemastersintl.com/",
+    "name": "Home Improvement Industries",
+    "url": "https://homeimprovementla.com/",
     "gbp_address": null
    },
    {
@@ -1475,142 +455,150 @@
    }
   ],
   "locations_seen": [
-   "Ontario, CA"
+   "Upland, CA"
   ]
  },
  {
-  "id": "kitchenandbath.builders",
-  "name": "Kitchen and Bath Builders",
+  "id": "barkandbuild.com",
+  "name": "Bark and Build Builders",
   "region": "R5",
-  "website": "https://kitchenandbath.builders/",
+  "website": "https://barkandbuild.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "GoDaddy",
    "WordPress"
   ],
   "pages_fetched": {
    "home": [
-    "https://kitchenandbath.builders/"
+    "https://barkandbuild.com/"
    ],
    "contact": [
-    "https://kitchenandbath.builders/contact-us/"
+    "https://barkandbuild.com/contact/"
    ],
    "about": [
-    "https://kitchenandbath.builders/meet-the-team/"
+    "https://barkandbuild.com/about/"
    ],
    "gallery": [
-    "https://kitchenandbath.builders/portfolio/",
-    "https://kitchenandbath.builders/portfolio/"
+    "https://barkandbuild.com/portfolio/"
+   ],
+   "legal": [
+    "https://barkandbuild.com/privacy-policy-2/",
+    "https://barkandbuild.com/privacy-policy-2/",
+    "https://barkandbuild.com/terms-of-service/"
    ]
   },
   "auto_signals": [
    {
     "type": "site_dated_content",
-    "date": "2026-10-10",
-    "url": "https://kitchenandbath.builders/custom-vs-semi-custom-vs-stock-cabinets/",
-    "quote": "wp-json/posts published 2026-10-10T12:40:49: 'Custom vs. Semi-Custom vs. Stock Cabinets: Which Is Right for You?'"
+    "date": "2026-10-07",
+    "url": "https://barkandbuild.com/full-gut-remodel-before-drywall/",
+    "quote": "wp-json/posts published 2026-10-07T07:27:32: 'Full Gut Remodel: What Happens Before Drywall?'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XKufddXkFQRrYVYPKhHpt0&hl=en",
-  "gbp_title": "Kitchen and Bath Builders",
-  "gbp_address": "\ue0c8\n3325 SW 344th St, Federal Way, WA 98023, United States",
-  "gbp_rating": "5.0\n(36)",
-  "gbp_phone": "phone:tel:+12062761717",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyhbepAebicRwu_wviIXIPY&hl=en",
+  "gbp_title": "Bark and Build Builders",
+  "gbp_address": "\ue0c8\n303 Twin Dolphin Dr Ste 600, Redwood City, CA 94065, United States",
+  "gbp_rating": "4.9\n(73)",
+  "gbp_phone": "phone:tel:+14083009279",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Tanya Tarabochia",
-    "when": "5 months ago",
+    "reviewer": "Andrew Murray",
+    "when": "4 months ago",
     "stars": "5 stars",
-    "text": "We had such a great experience working with Elia and Tony on our kitchen remodel. From start to finish, their communication was excellent, and they were genuinely some of the kindest people to work with. \u2026",
-    "owner": "Response from the owner 5 months ago\nHi Tanya. Thank you so much for the wonderful 5-star review. We appreciate you trusting us. Please keep us in mind if you ever need us again in the future."
+    "text": "We had an excellent experience with Bark & Build on our full kitchen remodel, including structural work. Mike Romi was our project manager and did a fantastic job throughout the entire process. Communication was always clear and proactive, \u2026",
+    "owner": "Response from the owner 4 months ago\nThank you, Andrew, for your thoughtful review. We are thrilled to hear about your positive experience with your kitchen remodel. At Bark and Build Builders, we strive to ensure every renovation project, especially those involving structural \u2026 More"
    },
    {
-    "reviewer": "Vladimir Novojilov",
+    "reviewer": "Yer Alviar",
     "when": "3 months ago",
     "stars": "5 stars",
-    "text": "Highly Recommended!\nAs the owner of Aqua Life Plumbing, I absolutely love working with this contractor. They are always on time, completely honest, and their paperwork is always in \u2026",
-    "owner": "Response from the owner 2 months ago\nHi Vladimir. Thanks so much for the 5-star review. We look forward to more collaboration!"
+    "text": "My husband and I had a great experience working w/ Bark & Build. We had a full house remodel (2 bathrooms and kitchen + complete house layout reconfiguration). It was a big project. We chose Bark & Build because they provided all the \u2026",
+    "owner": "Response from the owner 3 months ago\nThank you, Yer, for your detailed and thoughtful review. We are thrilled to hear that you and your husband had a positive experience with Bark and Build Builders for your full house remodel. Managing a project of such magnitude, involving \u2026 More"
    },
    {
-    "reviewer": "CR Rohrbough",
-    "when": "7 months ago",
+    "reviewer": "Casey Kurtyka",
+    "when": "3 months ago",
     "stars": "5 stars",
-    "text": "We recently had our kitchen remodeled by Kitchen Bath Builders, owned by Tony, and the experience exceeded expectations from start to finish. \u2026",
-    "owner": "Response from the owner 7 months ago\nThank you CR! It was our pleasure working with you and Tara. Please don't hesitate to reach out if you ever need us again in the future. Thanks again for choosing our team and for a wonderful review!"
+    "text": "We recently worked with Bark and Build Builders on a remodel of two full bathrooms, one half bathroom, and a walk-in closet. Overall, we\u2019re very happy with the final result and would definitely consider working with them again on a future \u2026",
+    "owner": "Response from the owner 3 months ago\nThank you, Casey, for taking the time to share your experience with Bark and Build Builders. We are thrilled to hear that you are pleased with the remodel of your bathrooms and walk-in closet. Our team takes great pride in ensuring that \u2026 More"
    }
   ],
   "emails_found": [
    {
-    "email": "info@kitchenandbath.builders",
+    "email": "info@barkandbuild.com",
     "how": "mailto",
-    "raw": "href=\"mailto:info@kitchenandbath.builders",
-    "page": "https://kitchenandbath.builders/"
+    "raw": "href=\"mailto:info@barkandbuild.com",
+    "page": "https://barkandbuild.com/"
    }
   ],
-  "dm_snippets": [
-   {
-    "page": "https://kitchenandbath.builders/",
-    "snippet": "As the owner of Aqua Life Plumbing, I absolutely love working with this contractor"
-   },
-   {
-    "page": "https://kitchenandbath.builders/meet-the-team/",
-    "snippet": "CO-OWNER/PROJECT MANAGER"
-   },
-   {
-    "page": "https://kitchenandbath.builders/meet-the-team/",
-    "snippet": "CO-OWNER/INTERIOR DESIGNER"
-   }
-  ],
+  "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/kitchenbathbuilders/"
+   "https://www.facebook.com/profile.php?id=61563550074162"
   ],
   "instagram_links": [
-   "https://www.instagram.com/kitchenandbathbuilders"
+   "https://www.instagram.com/bark.and.build"
   ],
-  "franchise_mentions": [
-   "re-bath"
-  ],
+  "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 68,
-   "bath": 64,
-   "roof": 0,
-   "plumb": 5,
+   "kitchen": 5,
+   "bath": 16,
+   "roof": 2,
+   "plumb": 1,
    "hvac": 0,
    "handyman": 0,
-   "floor": 4,
-   "cabinet": 4,
+   "floor": 0,
+   "cabinet": 0,
    "siding": 0,
    "window": 0,
-   "pool": 0,
+   "pool": 2,
    "solar": 0,
-   "custom home": 0
+   "custom home": 3
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 58"
+   "mobile performance score below 60: PSI mobile performance 59"
   ],
   "competitor_pool": [
    {
-    "name": "Massey Remodel + Design",
-    "url": "https://www.masseyrd.com/tacoma-wa-remodeling/",
-    "gbp_address": "\ue0c8\n1120 Pacific Ave Ste 211, Tacoma, WA 98402, United States"
+    "name": "Blu Remodeling",
+    "url": "https://blu-remodeling.com/",
+    "gbp_address": null
    },
    {
-    "name": "ProTileNW",
-    "url": "https://protilenw.com:443/",
+    "name": "CASTADA CONSTRUCTION CORP",
+    "url": "https://castadaconstructioncorp.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Danz Construction",
+    "url": "https://danzconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elite General Construction, Inc",
+    "url": "https://elitegeneralco.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Maharaj Wood Works",
+    "url": "https://maharajwworks.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Mint Construction",
+    "url": "https://mintconstruction.pro/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Federal Way, WA"
+   "Redwood City, CA"
   ]
  },
  {
-  "id": "kitchenconceptsinoregon.com",
-  "name": "Kitchen Concepts NW LLC",
+  "id": "bbbhomeremodeling.com",
+  "name": "BetterBuilt Builders",
   "region": "R5",
-  "website": "https://kitchenconceptsinoregon.com/",
+  "website": "https://bbbhomeremodeling.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -1618,106 +606,94 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://kitchenconceptsinoregon.com/"
+    "https://bbbhomeremodeling.com/"
    ],
    "contact": [
-    "https://kitchenconceptsinoregon.com/contact-us-today/"
+    "https://bbbhomeremodeling.com/contact-us/"
    ],
    "about": [
-    "https://kitchenconceptsinoregon.com/why-choose-us/",
-    "https://kitchenconceptsinoregon.com/kitchen-remodeling-basics/"
+    "https://bbbhomeremodeling.com/about/"
    ],
    "gallery": [
-    "https://kitchenconceptsinoregon.com/category/before-and-afters/"
+    "https://bbbhomeremodeling.com/design-build-contractor-portfolio/",
+    "https://bbbhomeremodeling.com/portfolio/villa-st-mountain-view/"
+   ],
+   "legal": [
+    "https://bbbhomeremodeling.com/privacy-policy/",
+    "https://bbbhomeremodeling.com/privacy-policy/"
    ]
   },
   "auto_signals": [
    {
     "type": "site_dated_content",
-    "date": "2026-10-08",
-    "url": "https://kitchenconceptsinoregon.com/quartz-vs-granite-what-should-you-consider-for-your-kitchen/",
-    "quote": "wp-json/posts published 2026-10-08T14:08:05: 'Quartz vs. Granite: What Should You Consider for Your Kitchen?'"
-   },
-   {
-    "type": "social_post",
-    "date": "2026-10-08",
-    "url": "https://www.linkedin.com/posts/kitchen-concepts-nw_kitchenremodeling-kitchendesign-quartzcountertops-activity-7513964929079672833-0fsQ",
-    "quote": "LinkedIn company page https://www.linkedin.com/company/kitchen-concepts-nw/ post: 'Good kitchen design is about more than choosing beautiful materials. Quartz and'",
-    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+    "date": "2026-10-14",
+    "url": "https://bbbhomeremodeling.com/remodeling-consultation-checklist/",
+    "quote": "wp-json/posts published 2026-10-14T09:00:00: 'Your Remodeling Consultation: What to Bring and Ask'"
    }
   ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJPx8XSGCYlVQRxH7KhcUQ1us&hl=en",
-  "gbp_title": "Kitchen Concepts NW LLC",
-  "gbp_address": "\ue0c8\nParking lot, 400 NE Division St, Gresham, OR 97030, United States",
-  "gbp_rating": "5.0\n(15)",
-  "gbp_phone": "phone:tel:+15036696802",
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJH45RuMZ-xKQR1VsmY21HB_o&hl=en",
+  "gbp_title": "BetterBuilt Builders",
+  "gbp_address": "\ue0c8\n1828 S Milpitas Blvd, Milpitas, CA 95035, United States",
+  "gbp_rating": "5.0\n(32)",
+  "gbp_phone": "phone:tel:+14087521069",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Francisco Juarez Jr.",
+    "reviewer": "HY J",
     "when": "a year ago",
     "stars": "5 stars",
-    "text": "Matt was amazing! Thank you for listening to my concerns regarding my project. Looking forward to hearing from you soon. \u2026",
-    "owner": "Response from the owner 6 months ago\nHi Francisco, thank you for the kind words. We\u2019re really glad Matt was able to take the time to listen to your concerns and talk through your project with you. Helping customers feel comfortable and heard is something we care a lot about. \u2026 More"
+    "text": "We hired BBB to renovate our home and deck a couple of years ago. From start to finish, their communication was outstanding\u2014they always kept us updated and made sure we understood the next steps. They did their best for coordinating \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you! We appreciate your trust and support. It was a pleasure working with you on your home renovation, and we\u2019re grateful to have been part of creating a space you love. Thank you for choosing BetterBuilt Builders!"
    },
    {
-    "reviewer": "mary catalano",
-    "when": "2 years ago",
+    "reviewer": "Betty Janet",
+    "when": "3 months ago",
     "stars": "5 stars",
-    "text": "Matthew and the staff here were all great to work with! They were professional, honest and always walked us through every step start to finish. We could not be happier with the results of our stunning Cabinets and Counter Tops!",
-    "owner": "Response from the owner 6 months ago\nHi Mary, thank you for such a thoughtful review. We\u2019re so glad Matthew and the team were able to guide you through the process and help bring everything together from start to finish. Hearing that you\u2019re happy with your cabinets and \u2026 More"
+    "text": "BetterBuilt Builders did an amazing job on our home upgrade in Milpitas. Jonathan guided us through the planning, and Jose made sure the work was handled carefully. From the kitchen and bathrooms remodel to the home addition, everything was \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you, Betty! We truly appreciate your kind words and recommendation. It was a pleasure working with you, and we\u2019re grateful for the opportunity to be part of your home improvement project. Thank you for trusting BetterBuilt Builders!"
    },
    {
-    "reviewer": "Jamie Nash",
-    "when": "9 years ago",
+    "reviewer": "Sang Jun Lee",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "I write this review of Kitchen Concepts and owner/operator Dave Warren.  I want to make mention I was not asked or encouraged to write this review.  I am a School Counselor at the highest poverty, elementary school in Gresham.  We are a \u2026",
-    "owner": "Response from the owner 4 months ago\nHi Jamie, thank you for sharing such a thoughtful review. Supporting our local community has always been important to us, and we were truly honored to be able to help create a space that makes your work with students easier and more \u2026 More"
+    "text": "BBB completed my house renovation (750 sq ft expansion, kitchen renovation, flooring, roofing, 2.5 bath renovation and build) in 2023, and we chose to work with them again for our deck renovation. Jonathan and the team, including Jose and \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you, Sang Jun! We truly appreciate your continued trust and support. It has been a pleasure working with you on your renovation projects, and we\u2019re grateful for the opportunity to be part of your home improvements. We look forward to working with you again in the future!"
    }
   ],
-  "emails_found": [],
+  "emails_found": [
+   {
+    "email": "info@bbbhomeremodeling.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@bbbhomeremodeling.com",
+    "page": "https://bbbhomeremodeling.com/"
+   }
+  ],
   "dm_snippets": [
    {
-    "page": "https://kitchenconceptsinoregon.com/contact-us-today/",
-    "snippet": "Kitchen Concepts was founded by David Warren (pictured far right) in 1989"
+    "page": "https://bbbhomeremodeling.com/",
+    "snippet": "Founded by Jonathan after 15+ years of managing complex remodeling projects for leading contractors, he saw an opportunity to crea"
    },
    {
-    "page": "https://kitchenconceptsinoregon.com/contact-us-today/",
-    "snippet": "en you entrust your project to us you have the assurance of knowing that the contractor responsible for your job is the owner of the company, not a outsider with no permanent relationship to the business"
-   },
-   {
-    "page": "https://kitchenconceptsinoregon.com/why-choose-us/",
-    "snippet": "Kitchen Concepts was founded by David Warren (pictured far right) in 1989"
-   },
-   {
-    "page": "https://kitchenconceptsinoregon.com/why-choose-us/",
-    "snippet": "en you entrust your project to us you have the assurance of knowing that the contractor responsible for your job is the owner of the company, not a outsider with no permanent relationship to the business"
-   },
-   {
-    "page": "https://kitchenconceptsinoregon.com/kitchen-remodeling-basics/",
-    "snippet": "Kitchen Concepts was founded by David Warren (pictured far right) in 1989"
-   },
-   {
-    "page": "https://kitchenconceptsinoregon.com/kitchen-remodeling-basics/",
-    "snippet": "en you entrust your project to us you have the assurance of knowing that the contractor responsible for your job is the owner of the company, not a outsider with no permanent relationship to the business"
+    "page": "https://bbbhomeremodeling.com/about/",
+    "snippet": "Founded by Jonathan after years of managing remodeling projects, our team helps homeowners coordinate design, material selections,"
    }
   ],
   "facebook_links": [
-   "https://www.facebook.com/kitchenconceptsnw"
+   "https://www.facebook.com/bbbhomeremodeling"
   ],
   "instagram_links": [
-   "https://www.instagram.com/kitchenconceptsinoregon"
+   "https://instagram.com/betterbuilt_builders"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 63,
-   "bath": 5,
+   "kitchen": 15,
+   "bath": 10,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 26,
+   "cabinet": 1,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -1725,160 +701,35 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://kitchenconceptsinoregon.com/wp-content/uploads/2026/08/20260805_151803.jpg = 1,317,779 bytes (HTTP Content-Length); https://kitchenconceptsinoregon.com/"
+   "mobile performance score below 60: PSI mobile performance 36",
+   "gallery images over 1MB each: https://bbbhomeremodeling.com/wp-content/uploads/2026/09/arizona-project-01-9db8c034.jpg = 1,118,889 bytes; https://bbbhomeremodeling.com/wp-content/uploads/202"
   ],
   "competitor_pool": [
    {
-    "name": "Home Remodeler Contractor | Custom Concept Homes Portland",
-    "url": "https://customconcepthomesportland.com/",
+    "name": "AMD Construct",
+    "url": "https://amd-construct.com/turnkeybathroom",
     "gbp_address": null
    },
    {
-    "name": "Gresham Door & Cabinet",
-    "url": "https://www.greshamcustomcabinets.com/",
+    "name": "Full Home Renovations",
+    "url": "https://www.fullhomerenovations.com/",
     "gbp_address": null
    },
    {
-    "name": "HandyCrew & Contracting LLC",
-    "url": "https://handycrewgc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "HBI General Contractor",
-    "url": "https://hbigeneralcontractor.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Integrity Construction and Restoration, Inc.",
-    "url": "https://www.icrestoration.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Prime Remodel and Restoration LLC",
-    "url": "https://primeremodel.co/",
+    "name": "Green Bay Remodeling, Inc. HQ",
+    "url": "https://www.greenbayremodeling.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Gresham, OR"
+   "Milpitas, CA"
   ]
  },
  {
-  "id": "marcsconstruction.com",
-  "name": "Marc's Construction",
+  "id": "buildahouseca.com",
+  "name": "Build a house llc",
   "region": "R5",
-  "website": "https://marcsconstruction.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://marcsconstruction.com/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJpQY9rori82ERXhJIPwVvSu8&hl=en",
-    "quote": "Art: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQY9rori82ERXhJIPwVvSu8&hl=en",
-  "gbp_title": "Marc's Construction",
-  "gbp_address": "\ue0c8\n2600 W Olive Ave, Burbank, CA 91505, United States",
-  "gbp_rating": "5.0\n(11)",
-  "gbp_phone": "phone:tel:+12134410111",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Art",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Marc\u2019s Construction did a great job on our backyard fence. The team was professional, efficient, and the quality of the work exceeded our expectations. We\u2019re very happy with the result!!!",
-    "owner": "Response from the owner a week ago\nThank you so much for the great review! We\u2019re happy to hear you\u2019re pleased with your new fence and the quality of the work. We truly appreciate your trust in our team and are glad we could exceed your expectations!"
-   },
-   {
-    "reviewer": "Ruslan Nurullayev",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Could not be happier with the job Marcs Construction did with our remodel. Total house remodel, floors, kitchen, bathrooms, doors and pool. They were up front with cost, looked for ways to save us money and delivered on all promises. \u2026",
-    "owner": "Response from the owner a week ago\nThank you for the amazing review! We\u2019re so happy you\u2019re pleased with the remodel and the finished result. It was a pleasure working on your home, and we truly appreciate your trust in our team!"
-   },
-   {
-    "reviewer": "K K",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "I had a great experience with this company and I definitely recommend them. From the beginning, the communication was clear and easy. They answered all my questions without making things complicated, and they always kept me updated on what was going on. That really made me feel comfortable and confident in choosing them.",
-    "owner": "Response from the owner a week ago\nThank you so much for your feedback! We\u2019re glad you had a great experience and felt comfortable throughout the process. Clear communication and keeping our customers informed are very important to us. We truly appreciate your recommendation!"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@marcsconstruction.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@marcsconstruction.com",
-    "page": "https://marcsconstruction.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 9,
-   "bath": 7,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 4,
-   "cabinet": 1,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 3,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://marcsconstruction.com/__l5e/assets-v1/74e53c84-b1f6-40c2-b7b9-c8cb93b89397/glendale-kitchen-2.png = 1,623,170 bytes (HTTP Content-Length); https://marcs"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Home Builders",
-    "url": "https://thingsreview.com/generic/home-builders/",
-    "gbp_address": null
-   },
-   {
-    "name": "Burbank Kitchen Remodel And Bath Co",
-    "url": "https://burbankkitchenremodelandbathco.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Creative Home Remodeling Group Inc.",
-    "url": "https://creativeremodeling.ca/",
-    "gbp_address": null
-   },
-   {
-    "name": "PrimePinnacle Genaral Contractors",
-    "url": "https://thefranciscoguide.com/generic/primepinnacle-genaral-contractors/",
-    "gbp_address": null
-   },
-   {
-    "name": "MDRN Construction",
-    "url": "https://mdrnconstruction.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Burbank, CA"
-  ]
- },
- {
-  "id": "newlifehi.com",
-  "name": "New Life Kitchen & Bath",
-  "region": "R5",
-  "website": "https://www.newlifehi.com/",
+  "website": "https://www.buildahouseca.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -1886,113 +737,87 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://www.newlifehi.com/"
+    "https://www.buildahouseca.com/"
    ],
    "contact": [
-    "https://www.newlifehi.com/contact"
+    "https://www.buildahouseca.com/contact"
    ],
    "about": [
-    "https://www.newlifehi.com/team"
+    "https://www.buildahouseca.com/about"
    ],
    "gallery": [
-    "https://www.newlifehi.com/portfolio",
-    "https://www.newlifehi.com/blog/things-to-consider-before-starting-a-kitchen-renovation"
-   ],
-   "legal": [
-    "https://www.newlifehi.com/privacy-policy"
+    "https://www.buildahouseca.com/gallery"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJKTCLr2Jr7IAR29ixtahlm3c&hl=en",
-    "quote": "Nina Reinacher: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
-   },
-   {
-    "type": "social_post",
-    "date": "2026-10-13",
-    "url": "https://www.youtube.com/watch?v=uV2K3YOBCPU",
-    "quote": "YouTube channel http://www.youtube.com/c/NewLifeBathKitchenSantaMaria post: 'Hall bathroom remodel in Orcutt, CA'",
-    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UChkVOzZbyHLkczfAHz-EpNw <published>"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJE0fcWbIn3YAR32kFH7p8g1E&hl=en",
+    "quote": "Naomi Alonzo: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
    }
   ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTCLr2Jr7IAR29ixtahlm3c&hl=en",
-  "gbp_title": "New Life Kitchen & Bath",
-  "gbp_address": "\ue0c8\n2648 Industrial Pkwy, Santa Maria, CA 93455, United States",
-  "gbp_rating": "4.8\n(98)",
-  "gbp_phone": "phone:tel:+18059379836",
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0fcWbIn3YAR32kFH7p8g1E&hl=en",
+  "gbp_title": "Build a house llc",
+  "gbp_address": "\ue0c8\n9698 Rose Ave, Fountain Valley, CA 92708, United States",
+  "gbp_rating": "5.0\n(10)",
+  "gbp_phone": "phone:tel:+17149363811",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Jo Ken",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "We had been talking about remodeling our master bath for the last three years. A few months ago we finally decided to do it. We were lucky enough to find New Life to help us make this happen as painlessly as possible. \u2026",
-    "owner": "Response from the owner 4 months ago\nThank you so much for taking the time to share such a thoughtful review. We\u2019re thrilled to hear that you\u2019re enjoying your new master bath and that the process felt smooth from start to finish. \u2026 More"
-   },
-   {
-    "reviewer": "Nina Reinacher",
+    "reviewer": "Naomi Alonzo",
     "when": "2 months ago",
     "stars": "5 stars",
-    "text": "I just had my hall bathroom remodeled by New Life Kitchen and Bath and I am very happy with the process and results. While so many decisions needed to be made, I felt guided and supported by Cassandra, Paul and the staff. Communication and \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you for the wonderful review, Nina! We\u2019re glad Cassandra, Paul, Mike, and the rest of our team helped make the many decisions involved in your bathroom remodel feel easier. We truly appreciate your recommendation and hope you enjoy your new bathroom for many years to come!"
+    "text": "We checked with four contractors and chose Build A house and Denny! We needed a small powder room remodeled. Dennys quote was in the middle and about what we expected to pay for this bathroom. His quotes are broken out, which I like a lot! \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Nathan Dendinger",
-    "when": "9 months ago",
+    "reviewer": "Socal Real Estate Diva KW",
+    "when": "6 months ago",
     "stars": "5 stars",
-    "text": "We had a wonderful experience with New Life! Paul did an excellent job assessing the work we wanted to get done, adding in helpful suggestions and steering us towards a remodel that really fit our needs. \u2026",
-    "owner": "Response from the owner 9 months ago\nNathan, thank you for the great review and for trusting New Life Kitchen & Bath with your remodel. We\u2019re glad to hear Paul\u2019s guidance helped shape a design that fit your needs, and that Wayne and Eric delivered the level of craftsmanship \u2026 More"
+    "text": "Denny is an absolutely trustworthy, highly proficient, dedicated, and meticulous contractor. He renovated our 3 bathrooms and the kitchen. He is great to talk to, super friendly, and very detail oriented. He works efficiently, solves \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Vicky Ding",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "I highly recommend this amazing team. Their work is very professional, and they followed the agreed schedule closely. The quality of their workmanship exceeded my expectations. They kept the job site very clean and paid great attention to detail, even fixing things I hadn\u2019t noticed. I\u2019m very satisfied with the results.",
+    "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "chuck@newlifehi.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:chuck@newlifehi.com",
-    "page": "https://www.newlifehi.com/"
+    "email": "buildahouse.denny@gmail.com",
+    "how": "plain text",
+    "raw": "buildahouse.denny@gmail.com",
+    "page": "https://www.buildahouseca.com/"
    },
    {
-    "email": "noah@newlifehi.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:noah@newlifehi.com",
-    "page": "https://www.newlifehi.com/"
+    "email": "buildahouse.anna@gmail.com",
+    "how": "plain text",
+    "raw": "buildahouse.anna@gmail.com",
+    "page": "https://www.buildahouseca.com/"
    }
   ],
-  "dm_snippets": [
-   {
-    "page": "https://www.newlifehi.com/",
-    "snippet": "In this video, company President Chuck Winkles walks you through a bathroom remodeling project in Lompoc, CA"
-   },
-   {
-    "page": "https://www.newlifehi.com/team",
-    "snippet": "President"
-   },
-   {
-    "page": "https://www.newlifehi.com/team",
-    "snippet": "General Manager and Estimator"
-   },
-   {
-    "page": "https://www.newlifehi.com/team",
-    "snippet": "In 2010 Paul and his family relocated to the Santa Maria valley and shortly thereafter he joined the New Life team as General Manager and Project Estimator in the Bath and Kitchen department"
-   }
-  ],
+  "dm_snippets": [],
   "facebook_links": [
    "http://www.facebook.com/2008/fbml",
-   "https://www.facebook.com/newlifehi"
+   "https://www.facebook.com/squarespace/"
   ],
-  "instagram_links": [],
+  "instagram_links": [
+   "https://www.instagram.com/buildahouseca"
+  ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 32,
-   "bath": 25,
+   "kitchen": 1,
+   "bath": 1,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 6,
+   "cabinet": 0,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -2000,132 +825,525 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 27"
+   "mobile performance score below 60: PSI mobile performance 57"
   ],
   "competitor_pool": [
    {
-    "name": "Advanced Property Services Inc.",
-    "url": "https://advpropertyservices.com/",
+    "name": "AAA Kitchen Bath Remodel",
+    "url": "https://aaakbr.com/",
     "gbp_address": null
    },
    {
-    "name": "Alonso Construction LLC",
-    "url": "https://alonsoconstruction.net/",
+    "name": "CRS CONSTRUCTION - Kitchen & Bath Renovation",
+    "url": "https://crs-construction.com/",
     "gbp_address": null
    },
    {
-    "name": "BlueTec Home Remodeling Services",
-    "url": "https://bluetechomeremodeling.com/santa-maria",
+    "name": "Procore Products Inc",
+    "url": "https://www.procorebuildingsolutions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "SOCO GENERAL BUILDERS",
+    "url": "https://socogeneralbuilder.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Santa Maria, CA"
+   "Fountain Valley, CA"
   ]
  },
  {
-  "id": "reformcph.com",
-  "name": "Reform Showroom Costa Mesa",
+  "id": "devart8.com",
+  "name": "DevArt8 Builders",
   "region": "R5",
-  "website": "https://www.reformcph.com/us",
+  "website": "https://www.devart8.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.devart8.com/"
+   ],
+   "contact": [
+    "https://www.devart8.com/contact-us/"
+   ],
+   "about": [
+    "https://www.devart8.com/about-us/"
+   ],
+   "gallery": [
+    "https://www.devart8.com/our-projects/"
+   ],
+   "legal": [
+    "https://www.devart8.com/privacy-policy/",
+    "https://www.devart8.com/privacy-policy/",
+    "https://www.devart8.com/terms-and-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJPyMKFWbPj4ARwZZwEVqAjGo&hl=en",
+    "quote": "Caroline Turvey: 'a month ago' (Google relative timestamp, retrieved 2026-10-18)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-25",
+    "url": "https://www.devart8.com/adding-on-or-moving-up-in-milpitas-the-numbers-behind-the-decision/",
+    "quote": "wp-json/posts published 2026-09-25T03:00:00: 'Adding On or Moving Up in Milpitas: The Numbers Behind the Decision'"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-08-31",
+    "url": "https://www.pinterest.com/pin/945967096755111141/",
+    "quote": "Pinterest profile https://www.pinterest.com/devart8ca/ post: 'Dark bathroom finishes need the right light plan to feel dramatic, not'",
+    "method": "Pinterest profile RSS https://www.pinterest.com/devart8ca/feed.rss <pubDate>"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyMKFWbPj4ARwZZwEVqAjGo&hl=en",
+  "gbp_title": "DevArt8 Builders",
+  "gbp_address": "\ue0c8\n1828 S Milpitas Blvd #506, Milpitas, CA 95035, United States",
+  "gbp_rating": "5.0\n(167)",
+  "gbp_phone": "phone:tel:+16693223368",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Caroline Turvey",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "We had a great experience working with DevArt8 Builders on our home remodel. They remodeled our master bathroom, bedroom, and closets, and an additional bathroom. \u2026",
+    "owner": "Response from the owner a month ago\nThank you so much, Caroline, for the wonderful review. We\u2019re thrilled that your master bathroom, bedroom, closets, and additional bathroom turned out exactly as you imagined and that our team made the process smooth and stress-free. I\u2019ll be \u2026 More"
+   },
+   {
+    "reviewer": "Nicholas Delao",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "I recently hired DevArt8 Builders to construct an Accessory Dwelling Unit (ADU) on my property, and I wanted to share my experience for anyone considering a similar project. \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you, Nicholas, for the detailed review and for trusting DevArt8 Builders with your 700 sq ft ADU project. We\u2019re glad Daniel and the team provided consistent communication, quality workmanship, and stayed aligned with the budget \u2026 More"
+   },
+   {
+    "reviewer": "gangarjun veeramurthy",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "We hired Devart8 for our kitchen remodel and had a very positive overall experience. They were well-organized from the start, highly responsive, and paid great attention to detail throughout the project. \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you, Gangarjun, for the wonderful review and for trusting Devart8 with your kitchen remodel. We're thrilled our team, Ray, Joan and Carlos, were responsive and detail-oriented, and that Joan was able to resolve the gas issue even on \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "office@devart8.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:office@devart8.com",
+    "page": "https://www.devart8.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.devart8.com/",
+    "snippet": "\u2013 Founder DevArt8"
+   },
+   {
+    "page": "https://www.devart8.com/about-us/",
+    "snippet": "\u2013 Founder Devart 8"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/devart8/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/devart.8"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 34,
+   "bath": 26,
+   "roof": 0,
+   "plumb": 3,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 2,
+   "pool": 13,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 47",
+   "gallery images over 1MB each: https://www.devart8.com/wp-content/uploads/2025/04/7.png = 2,197,207 bytes; https://www.devart8.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-7-2025-12_07_07"
+  ],
+  "competitor_pool": [
+   {
+    "name": "AMD Construct",
+    "url": "https://amd-construct.com/turnkeybathroom",
+    "gbp_address": null
+   },
+   {
+    "name": "Full Home Renovations",
+    "url": "https://www.fullhomerenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Green Bay Remodeling, Inc. HQ",
+    "url": "https://www.greenbayremodeling.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Milpitas, CA"
+  ]
+ },
+ {
+  "id": "dodihome.com",
+  "name": "DodiHome",
+  "region": "R5",
+  "website": "https://www.dodihome.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [],
   "pages_fetched": {
    "home": [
-    "https://www.reformcph.com/us"
+    "https://www.dodihome.com/"
    ],
    "contact": [
-    "https://www.reformcph.com/us/contact/contact-us",
-    "https://www.reformcph.com/us/contact/professionals"
-   ],
-   "about": [
-    "https://www.reformcph.com/us/book-a-meeting-today",
-    "https://www.reformcph.com/us/book-a-meeting"
+    "https://www.dodihome.com/contact"
    ],
    "gallery": [
-    "https://www.reformcph.com/us/planning/get-a-price-estimate-for-your-project"
+    "https://www.dodihome.com/gallery",
+    "https://www.dodihome.com/projects/tiburon-light-wood-kitchen-laundry"
    ],
    "legal": [
-    "https://www.reformcph.com/us/privacy",
-    "https://www.reformcph.com/us/legal/privacy-policy",
-    "https://www.reformcph.com/us/terms"
+    "https://www.dodihome.com/privacy",
+    "https://www.dodihome.com/terms"
    ]
   },
   "auto_signals": [
    {
     "type": "social_post",
-    "date": "2026-10-12",
-    "url": "https://www.linkedin.com/posts/reformcph_reform-is-hiring-were-looking-for-a-marketing-activity-7515388368281731072-7j-A",
-    "quote": "LinkedIn company page https://www.linkedin.com/company/reformcph/ post: 'Reform is hiring We're looking for a Marketing Coordinator to join our'",
+    "date": "2026-10-02",
+    "url": "https://www.linkedin.com/posts/dodihome_whiteoakrift-bayareacustomcabinets-kitchendesign-activity-7511870236183183360-45Sn",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/dodihome/ post: 'This is Rift Cut White Oak finished in Rubio Monocoat, Mist 5%'",
     "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_U2uZs8h3YARAYcPfo3p0WY&hl=en",
-  "gbp_title": "Reform Showroom Costa Mesa",
-  "gbp_address": "\ue0c8\n3323 Hyland Ave, Costa Mesa, CA 92626, United States",
-  "gbp_rating": "5.0\n(36)",
-  "gbp_phone": "phone:tel:+18337336769",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xY7L6vPj4ARrI232yKAajE&hl=en",
+  "gbp_title": "DodiHome",
+  "gbp_address": "\ue0c8\n1025 Sinclair Frontage Rd, Milpitas, CA 95035, United States",
+  "gbp_rating": "5.0\n(11)",
+  "gbp_phone": "phone:tel:+14086683634",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Trent Hancock",
-    "when": "Edited 6 months ago",
+    "reviewer": "Jonathan Carey",
+    "when": "7 months ago",
     "stars": "5 stars",
-    "text": "I\u2019ve been building homes for over ten years and this process was as good as it gets. Hannah is a true professional and was able to nail the time line, budget and aesthetic. 10/10 would recommend! Our project is still underway but it already looks beautiful. Progress photo attached.",
+    "text": "What a great experience and product at a reasonable price! Good quality maple boxes, choices like Shinooki and Mirlux finishes, laser-cut, custom-fit, customizable designs made for your kitchen within 4 weeks. The Dodi team was delightful to work with. Highly recommend!",
     "owner": null
    },
    {
-    "reviewer": "Megan Malstrom",
-    "when": "6 months ago",
+    "reviewer": "Alvin W",
+    "when": "10 months ago",
     "stars": "5 stars",
-    "text": "We had an amazing experience with Brandon . He  was exceptional throughout the entire process, from his thoughtful design ideas to his consistent follow-through. He was incredibly gracious, responsive, and made everything feel seamless. His \u2026",
+    "text": "We used DodiHome to remodel our Eichler kitchen and master bathroom. Cabinets were well made, high quality and customizable to fit our specifications. Corey, our consultant, was an amazing partner to help me figure out the design. Their \u2026",
     "owner": null
    },
    {
-    "reviewer": "Michael Jones",
-    "when": "a year ago",
+    "reviewer": "Jeff Jones",
+    "when": "7 months ago",
     "stars": "5 stars",
-    "text": "We recently used Reform Cabinets for our kitchen renovation, and we couldn\u2019t be happier with the result! Our rep, Nisha, was fantastic\u2014she really listened to our ideas and had great suggestions that helped bring everything together. \u2026",
+    "text": "I would highly recommend Dodi Cabinets for your kitchen remodel project.  Corey was fantastic to work with throughout the process.  And, the quality of their cabinets is amazing.  We are super happy with our cabinets and would definitely use them again\u2026you should too!",
     "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "hi@reformcph.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "036b6a437166656c716e60736b2d606c6e",
-    "page": "https://www.reformcph.com/us/contact/contact-us"
+    "email": "info@dodihome.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@dodihome.com",
+    "page": "https://www.dodihome.com/contact"
    },
    {
-    "email": "csus@reformcph.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "f99a8a8c8ab98b9c9f968b949a8991d79a9694",
-    "page": "https://www.reformcph.com/us/contact/contact-us"
-   },
-   {
-    "email": "press@reformcph.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "2f5f5d4a5c5c6f5d4a49405d424c5f47014c4042",
-    "page": "https://www.reformcph.com/us/contact/contact-us"
-   },
-   {
-    "email": "privacy@reformcph.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "3343415a4552504a734156555c415e50435b1d505c5e",
-    "page": "https://www.reformcph.com/us/legal/privacy-policy"
+    "email": "support@dodihome.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:support@dodihome.com",
+    "page": "https://www.dodihome.com/contact"
    }
   ],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/reformcph/"
+   "https://www.facebook.com/getdodi"
   ],
   "instagram_links": [
-   "https://www.instagram.com/reformcph"
+   "https://www.instagram.com/getdodi"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 6,
+   "kitchen": 17,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 15,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 41"
+  ],
+  "competitor_pool": [
+   {
+    "name": "AMD Construct",
+    "url": "https://amd-construct.com/turnkeybathroom",
+    "gbp_address": null
+   },
+   {
+    "name": "Full Home Renovations",
+    "url": "https://www.fullhomerenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Green Bay Remodeling, Inc. HQ",
+    "url": "https://www.greenbayremodeling.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Milpitas, CA"
+  ]
+ },
+ {
+  "id": "remodelcarpenters.com",
+  "name": "Remodel Carpenters",
+  "region": "R5",
+  "website": "https://www.remodelcarpenters.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.remodelcarpenters.com/"
+   ],
+   "about": [
+    "https://www.remodelcarpenters.com/about-us/"
+   ],
+   "gallery": [
+    "https://www.remodelcarpenters.com/blog/",
+    "https://www.remodelcarpenters.com/how-were-so-fast-good-and-stress-free/"
+   ],
+   "legal": [
+    "https://www.remodelcarpenters.com/privacy-statement/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJf8WftpGI_W4RsfWh_hZv9GE&hl=en",
+    "quote": "Daniel French: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-02",
+    "url": "https://www.remodelcarpenters.com/affordable-tile-installer/",
+    "quote": "wp-json/posts published 2026-10-02T17:22:44: 'Affordable Tile Installer'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8WftpGI_W4RsfWh_hZv9GE&hl=en",
+  "gbp_title": "Remodel Carpenters",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(16)",
+  "gbp_phone": "phone:tel:+15109276300",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Sally Renata",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Zack did work for me a few years ago. He framed out windows, painted inside and out, and impressively solved a problem I had in the back yard. I had two stumps I couldn\u2019t  pull out without disrupting everything around them, so he created \u2026",
+    "owner": "Response from the owner a year ago\nThank you for the good word! "
+   },
+   {
+    "reviewer": "Daniel French",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "I hired Zack of Remodel Carpenters to replace the tile on my bathtub surround and my bathroom and laundry floors in July 2026, and overall, I\u2019m really pleased with the results. His rates were reasonable, and letting me supply my own \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Mark W",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We hired Zack to install new stone framing around our bathroom window. It was a small but complicated job. Zack was affordable,  communicative, knowledgeable and very attentive to detail. We are happy with his work and we would definitely hire him again.",
+    "owner": "Response from the owner a year ago\nMark, we very much appreciate your business and the good word. Thank you. "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "zack@remodelcarpenters.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:zack@remodelcarpenters.com",
+    "page": "https://www.remodelcarpenters.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.remodelcarpenters.com/about-us/",
+    "snippet": "Meet the founder"
+   },
+   {
+    "page": "https://www.remodelcarpenters.com/about-us/",
+    "snippet": "The founder"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/remodelcarpenters"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 3,
+   "bath": 6,
+   "roof": 0,
+   "plumb": 2,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 8,
+   "cabinet": 21,
+   "siding": 0,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "not served over HTTPS / invalid certificate: final URL scheme https; https:// probe: {'https_error': 'TooManyRedirects: Exceeded 30 redirects.'}"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bay Area Remodeling by Colibri Kitchen & Bath",
+    "url": "https://www.colibrikitchenbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "Remodeling Heroes",
+    "url": "https://heroes.services/remodeling-heroes/",
+    "gbp_address": null
+   },
+   {
+    "name": "My Remodeling Group Inc",
+    "url": "https://www.myremodelingroup.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Rose Remodeling",
+    "url": "https://www.roseremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Zacarias Remodeling Construction Inc",
+    "url": "https://zacariasremodelingconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Alameda, CA"
+  ]
+ },
+ {
+  "id": "toptierrenovations.com",
+  "name": "Top Tier Renovations",
+  "region": "R5",
+  "website": "https://www.toptierrenovations.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.toptierrenovations.com/"
+   ],
+   "contact": [
+    "https://www.toptierrenovations.com/contact"
+   ],
+   "about": [
+    "https://www.toptierrenovations.com/about"
+   ],
+   "gallery": [
+    "https://www.toptierrenovations.com/gallery"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJdR0OURlJQlMRrzlez7EYc3E&hl=en",
+    "quote": "Nancy Raley: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJdR0OURlJQlMRrzlez7EYc3E&hl=en",
+  "gbp_title": "Top Tier Renovations",
+  "gbp_address": "\ue0c8\n2501 Old Airport Rd Ste 2, Great Falls, MT 59404, United States",
+  "gbp_rating": "4.9\n(74)",
+  "gbp_phone": "phone:tel:+14065901905",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Tandra Murray",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Top Tier Renovation was incredible to work with for our full house remodel. Every step of the way, they were kind, professional, and welcomed all of our questions. They took the time to get to know us and understand our family's needs and \u2026",
+    "owner": "Response from the owner a year ago\nThank you, Tandra, for your review! We thoroughly enjoyed transforming your home into the vision you had for your family. We are so happy you all are enjoying it."
+   },
+   {
+    "reviewer": "Nancy Raley",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "We hired Top Tier Renovations to remodel our master bathroom, and it was one of the best decisions we've made. The crew arrived on time every day, communicated throughout the project, and made sure we were happy with every step. The \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Lynn",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "TOP TIER IS TOP NOTCH!!\nWhat a great company to work with! There are several things that set Top Tier apart from other contractors we\u2019ve had experiences with over the last few years. \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "office@toptiergf.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:office@toptiergf.com",
+    "page": "https://www.toptierrenovations.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/toptierrenovationsgreatfalls/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/toptierrenovations"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 8,
    "bath": 0,
    "roof": 0,
    "plumb": 0,
@@ -2137,53 +1355,47 @@
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 0
+   "custom home": 1
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 50",
-   "gallery images over 1MB each: https://cdn-ws.reformcph.com/contents/pageblock/column-production.jpg = 3,365,631 bytes (HTTP Content-Length); https://cdn-ws.reformcph.com/contents/pageblock/k"
+   "mobile performance score below 60: PSI mobile performance 40"
   ],
   "competitor_pool": [
    {
-    "name": "AAA Kitchen Bath Remodel",
-    "url": "https://aaakbr.com/",
+    "name": "Tiberius Smith Construction Company, Inc",
+    "url": "https://www.generalcontractorgreatfalls.com/",
     "gbp_address": null
    },
    {
-    "name": "CALbath Renovations",
-    "url": "https://www.calbath.com/",
+    "name": "Moderne Cabinet",
+    "url": "https://modernecabinet.com/",
     "gbp_address": null
    },
    {
-    "name": "Creative Construction 360 Inc.",
-    "url": "https://www.creativeconstruction360.com/",
+    "name": "Precision Remodel Inc.",
+    "url": "https://precisionremodelmt.com/",
     "gbp_address": null
    },
    {
-    "name": "CRS CONSTRUCTION - Kitchen & Bath Renovation",
-    "url": "https://crs-construction.com/",
+    "name": "Precision Woodworks, Inc.",
+    "url": "https://precisionwoodworksinc.com/",
     "gbp_address": null
    },
    {
-    "name": "Design And Create Builders",
-    "url": "https://designandcreatebuilders.com/service-locations/costa-mesa/",
-    "gbp_address": null
-   },
-   {
-    "name": "Haynes Cabinet Design",
-    "url": "https://haynescabinetdesign.com/",
+    "name": "Trim Works Construction",
+    "url": "https://trimworksmt.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Costa Mesa, CA"
+   "Great Falls, MT"
   ]
  },
  {
-  "id": "rfremodel.com",
-  "name": "RF Remodel",
+  "id": "valleyfinish.com",
+  "name": "Valley Finish, Inc.",
   "region": "R5",
-  "website": "https://rfremodel.com/",
+  "website": "https://valleyfinish.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -2191,383 +1403,82 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://rfremodel.com/"
+    "https://valleyfinish.com/"
    ],
    "contact": [
-    "https://rfremodel.com/contact/"
+    "https://valleyfinish.com/contact-us/"
    ],
    "about": [
-    "https://rfremodel.com/about/",
-    "https://rfremodel.com/bathroom-remodeling/"
+    "https://valleyfinish.com/about/",
+    "https://valleyfinish.com/about/"
    ],
    "gallery": [
-    "https://rfremodel.com/gallery/",
-    "https://rfremodel.com/kitchen-remodeling/"
-   ],
-   "legal": [
-    "https://rfremodel.com/privacy-policy/",
-    "https://rfremodel.com/privacy-policy/"
+    "https://valleyfinish.com/gallery/",
+    "https://valleyfinish.com/commercial-cabinets/"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ58X33TAdBSkRQPnobsRbRjs&hl=en",
-    "quote": "Rashi Agarwal: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJY3nbVB-2r1QRdUWQviGJdu8&hl=en",
+    "quote": "Angela Callahan: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58X33TAdBSkRQPnobsRbRjs&hl=en",
-  "gbp_title": "RF Remodel",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(9)",
-  "gbp_phone": "phone:tel:+12532610091",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3nbVB-2r1QRdUWQviGJdu8&hl=en",
+  "gbp_title": "Valley Finish, Inc.",
+  "gbp_address": "\ue0c8\n20061 Monte Wy, Caldwell, ID 83607, United States",
+  "gbp_rating": "4.8\n(19)",
+  "gbp_phone": "phone:tel:+12085650373",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Andriy Matsyuk",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "We recently hired RF Remodel for a kitchen project, and overall had a great experience. The team was professional, showed up on time, and paid attention to details. Communication was clear throughout the process, and they were easy to work \u2026",
-    "owner": "Response from the owner 6 months ago\nThank you so much for your thoughtful review\u2014we truly appreciate it.\n\nIt was a pleasure working with you on your kitchen project, and we\u2019re glad to \u2026 More"
-   },
-   {
-    "reviewer": "Nazar Sysko",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "I had a great experience with RF Remodel. The team was professional, on time, and paid close attention to detail. They listened to what I wanted and delivered high-quality work that exceeded my expectations. \u2026",
-    "owner": "Response from the owner 6 months ago\nThank you so much for your kind words\u2014we really appreciate you taking the time to share your experience. \u2026 More"
-   },
-   {
-    "reviewer": "Rashi Agarwal",
+    "reviewer": "Angela Callahan",
     "when": "2 months ago",
     "stars": "5 stars",
-    "text": "We had a fantastic experience with RF Remodel from start to finish for our kitchen and bathroom cabinet remodel. They were honest, transparent, and provided a detailed, easy-to-understand proposal with no surprises along the way. \u2026",
+    "text": "Valley Finish was recommended to us by our contractor. We're having an addition on our house and needed laundry room and master bath cabinets built. The selection of materials and quality are top notch. Erica followed through with us from design to install to make sure everything was done correctly.  They are a high quality business.",
+    "owner": null
+   },
+   {
+    "reviewer": "Jake P",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "Thank you so much for your quality work and amazing team! Truly local owned and family operated. Quality work. Nice laundry room overhaul!",
+    "owner": null
+   },
+   {
+    "reviewer": "scott schmid",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Extremely detail oriented not just with the workmanship but the customer service and experience. Communication is excellent and I got exactly what I wanted! You can tell these guys actually care, like a true locally owned Idaho business!",
     "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "roman@rfremodel.com",
-    "how": "plain text",
-    "raw": "Roman@rfremodel.com",
-    "page": "https://rfremodel.com/"
-   },
-   {
-    "email": "info@rfremodel.com",
+    "email": "customerservice@valleyfinish.com",
     "how": "mailto",
-    "raw": "href=\"mailto:info@rfremodel.com",
-    "page": "https://rfremodel.com/privacy-policy/"
+    "raw": "href=\"mailto:customerservice@valleyfinish.com",
+    "page": "https://valleyfinish.com/"
    }
   ],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/people/RF-Remodel/61582845730967/"
+   "https://www.facebook.com/vf.cabinetry/"
   ],
   "instagram_links": [
-   "https://www.instagram.com/rfremodelpnw"
+   "https://www.instagram.com/vf.cabinetry"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 52,
-   "bath": 36,
+   "kitchen": 4,
+   "bath": 3,
    "roof": 0,
-   "plumb": 5,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 5,
-   "cabinet": 20,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 57",
-   "gallery images over 1MB each: https://rfremodel.com/wp-content/uploads/2026/01/Slim-Oak-Display.png = 1,719,065 bytes; https://rfremodel.com/wp-content/uploads/2026/01/Deluxe-White-Shaker-Di"
-  ],
-  "competitor_pool": [
-   {
-    "name": "1ST PROSERVICE LLC",
-    "url": "https://www.1stproservice.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "ATG Built",
-    "url": "https://atgbuilt.com/contact-us/",
-    "gbp_address": null
-   },
-   {
-    "name": "Cornerstone Home Renovators, LLC",
-    "url": "https://cornerstonehomerenovators.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Homez Remodel",
-    "url": "https://homezremodel.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "RAINCITY RESTORATION LLC",
-    "url": "https://raincityrestoration.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Renuity Home Improvement of Grand Rapids",
-    "url": "https://renuityhome.com/michigan/grand-rapids-mi/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Kent, WA"
-  ]
- },
- {
-  "id": "romyconstructioninc.com",
-  "name": "Romy Construction",
-  "region": "R5",
-  "website": "https://romyconstructioninc.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "GoDaddy",
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://romyconstructioninc.com/"
-   ],
-   "contact": [
-    "https://romyconstructioninc.com/contact-us/"
-   ],
-   "about": [
-    "https://romyconstructioninc.com/about/"
-   ],
-   "gallery": [
-    "https://romyconstructioninc.com/south-san-francisco/home-remodeling/"
-   ],
-   "legal": [
-    "https://romyconstructioninc.com/privacy-policy/",
-    "https://romyconstructioninc.com/privacy-policy/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ4x4kdyg8DgYRZDlKi4lIFHM&hl=en",
-    "quote": "Cristina P: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4x4kdyg8DgYRZDlKi4lIFHM&hl=en",
-  "gbp_title": "Romy Construction",
-  "gbp_address": "\ue0c8\nSouth San Francisco, CA 94080, United States",
-  "gbp_rating": "5.0\n(33)",
-  "gbp_phone": "phone:tel:+14158137931",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Cristina P",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "I recently hired Romy Construction for our bathroom remodel, and the entire experience exceeded our expectations. From start to finish, Roman's attention to detail was exceptional. He was on-site every day to oversee the project, answer my \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you so much for your thoughtful and detailed review! It was truly a pleasure working with you on your bathroom remodel. We sincerely appreciate the trust you placed in Romy Construction and are grateful for the opportunity to bring \u2026 More"
-   },
-   {
-    "reviewer": "Lucia Valle",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "Romy and his worker were very professional, friendly, respectful and very clean while working and after leaving my place. They were very detailed and accommodating to my needs.  I truly appreciated his work and his dedication to the job he \u2026",
-    "owner": "Response from the owner 4 months ago\n\nThank you so much for your kind words and for taking the time to share your experience with us, it was truly a pleasure to working with you on your bathroom \u2026 More"
-   },
-   {
-    "reviewer": "Tony Garcia",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We were looking for a contractor to do interior and exterior repairs and renovations. Romy Construction Inc was there to do the project which consisted of window replacements, waterproofing, new exterior stucco, new insulation and drywall \u2026",
-    "owner": "Response from the owner a year ago\nThanks for shearing your experience with us, Tony. We\u2019re glad you\u2019re happy with the interior and exterior renovation  we just completed, we\u2019ll be there here to help with any other renovations. "
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@romyconstructioninc.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@romyconstructioninc.com",
-    "page": "https://romyconstructioninc.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://romyconstructioninc.com/about/",
-    "snippet": "The founder and owner of Romy Construction, Romy Valdez, is highly skilled and knowledgeable"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/people/Romy-construction-inc-general-contractor/100082690085612/"
-  ],
-  "instagram_links": [
-   "http://instagram.com/romyconstructioninc"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 33,
-   "bath": 37,
-   "roof": 3,
-   "plumb": 1,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 2,
-   "siding": 1,
-   "window": 4,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 2
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://romyconstructioninc.com/wp-content/uploads/2026/09/5F04235E-9E7D-436D-AC50-5EEFE5D43F12.png = 1,564,470 bytes; https://romyconstructioninc.com/wp-conten"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Axa Construction Inc",
-    "url": "https://www.axaconstructioninc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "California First Class Construction",
-    "url": "https://cfccinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Home Pride Construction, Inc",
-    "url": "https://homeprideinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "J & N Kitchen Cabinets, Inc.",
-    "url": "https://www.jnnkitchens.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "K&B Remodeling & Sons Inc",
-    "url": "https://www.knbremodeling.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Pacific Construction, General Contractors San Francisco",
-    "url": "https://pacificconstructionsf.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Daly City, CA",
-   "Vista, CA"
-  ]
- },
- {
-  "id": "ronahomeremodeling.com",
-  "name": "Rona Home Remodeling",
-  "region": "R5",
-  "website": "https://ronahomeremodeling.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://ronahomeremodeling.com/"
-   ],
-   "contact": [
-    "https://ronahomeremodeling.com/home/contact-us/"
-   ],
-   "about": [
-    "https://ronahomeremodeling.com/home/about/"
-   ],
-   "gallery": [
-    "https://ronahomeremodeling.com/home/gallery/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJN_HvMEqfFEcRrSjIEgujdZc&hl=en",
-    "quote": "Jonathan Mover: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
-   },
-   {
-    "type": "site_dated_content",
-    "date": "2026-10-12",
-    "url": "https://ronahomeremodeling.com/energy-efficient-home-remodeling-planning/",
-    "quote": "wp-json/posts published 2026-10-12T20:44:27: 'Before You Replace Windows, Plan Your Home\u2019s Energy Upgrades'"
-   }
-  ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_HvMEqfFEcRrSjIEgujdZc&hl=en",
-  "gbp_title": "Rona Home Remodeling",
-  "gbp_address": "\ue0c8\n1101 Ocean Front Walk Unit 15, Venice, CA 90291, United States",
-  "gbp_rating": "5.0\n(71)",
-  "gbp_phone": "phone:tel:+14243029076",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Jonathan Mover",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "I interviewed and accepted bids from nine kitchen contractors and Yoti & Rona Home Remodeling was, by far, the best and right choice. He wasn't the most or least expensive, but beyond the reasonable price, his understanding of the job was \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Noa Levy",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We recently had our bathroom remodeled by Rona Home Remodeling, and the results are fantastic. Yoti, the owner, was professional, detail-oriented, and kept the project on schedule. The team handled everything from demolition to the \u2026",
-    "owner": "Response from the owner 11 months ago\nThank you Noa for a kind words, it was pleasure to work with you on this project.\nEnjoy your new bathroom and we cant wait to work with you again. \u2026 More"
-   },
-   {
-    "reviewer": "Jacob Davies",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "We had a fantastic experience with Rona Home Remodeling! Yoti made our bathroom remodel smooth from start to finish with great communication, attention to detail, and quality workmanship. The project was completed professionally, and the \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "yoti@ronahomeremodeling.com",
-    "how": "plain text",
-    "raw": "yoti@ronahomeremodeling.com",
-    "page": "https://ronahomeremodeling.com/"
-   },
-   {
-    "email": "%20yoti@ronahomeremodeling.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:%20yoti@ronahomeremodeling.com",
-    "page": "https://ronahomeremodeling.com/home/contact-us/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://ronahomeremodeling.com/home/about/",
-    "snippet": "Tired of the industry\u2019s one-size-fits-all approach, our founder, Yotam Feller, set out to create a company that puts"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/rona.homeremodeling"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/rona_homeremodeling"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 10,
-   "bath": 12,
-   "roof": 1,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
+   "floor": 1,
+   "cabinet": 22,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -2575,536 +1486,118 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 52"
+   "mobile performance score below 60: PSI mobile performance 56",
+   "gallery images over 1MB each: https://valleyfinish.com/wp-content/uploads/2025/09/Shaker-Honey-Kitchen-2048x1152.jpg = 1,096,049 bytes; https://valleyfinish.com/wp-content/uploads/2025/09/Oa"
   ],
   "competitor_pool": [
    {
-    "name": "Nova Builders Inc",
-    "url": "https://novabuildersusa.com/",
+    "name": "B&T Construction and Remodels",
+    "url": "https://btconstructionremodels.com/",
     "gbp_address": null
    },
    {
-    "name": "Santa Monica Kitchen Remodel And Bath Co",
-    "url": "https://santamonicakitchenremodelandbathco.com/",
+    "name": "Good Vibes Construction",
+    "url": "https://goodvibesofidaho.com/",
     "gbp_address": null
    },
    {
-    "name": "Welcome Renovation",
-    "url": "https://www.welcomerenovation.com/",
+    "name": "Integrity Builders Group",
+    "url": "https://integritybuildersidaho.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Jedd Shippy LLC",
+    "url": "https://jeddshippy.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Mallard Custom Construction llc",
+    "url": "https://mallardcustom.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Santa Monica, CA"
+   "Caldwell, ID"
   ]
  },
  {
-  "id": "sincerehomedecor.com",
-  "name": "Sincere Home Decor",
+  "id": "vanderbekenremodel.com",
+  "name": "VanderBeken Remodel",
   "region": "R5",
-  "website": "https://sincerehomedecor.com/",
+  "website": "https://vanderbekenremodel.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
-  "platform": [],
+  "platform": [
+   "WordPress"
+  ],
   "pages_fetched": {
    "home": [
-    "https://sincerehomedecor.com/"
+    "https://vanderbekenremodel.com/"
    ],
    "contact": [
-    "https://sincerehomedecor.com/Home/contact"
+    "https://vanderbekenremodel.com/contact-us/"
    ],
    "about": [
-    "https://sincerehomedecor.com/Home/About"
+    "https://vanderbekenremodel.com/about/"
    ],
    "gallery": [
-    "https://sincerehomedecor.com/ADU",
-    "https://sincerehomedecor.com/Portfolios"
+    "https://vanderbekenremodel.com/portfolio/",
+    "https://vanderbekenremodel.com/kitchen-remodels-portfolio/"
    ],
    "legal": [
-    "https://sincerehomedecor.com/Oops.html?aspxerrorpath=/privacy",
-    "https://sincerehomedecor.com/Oops.html?aspxerrorpath=/privacy-policy",
-    "https://sincerehomedecor.com/Oops.html?aspxerrorpath=/terms"
+    "https://vanderbekenremodel.com/privacy-policy/"
    ]
   },
   "auto_signals": [
    {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJY8whGct5j4ARcXZCBD0Yi7U&hl=en",
-    "quote": "Priscilla Lau: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+    "type": "site_dated_content",
+    "date": "2026-10-08",
+    "url": "https://vanderbekenremodel.com/blog/before-open-floor-plan-design-questions/",
+    "quote": "wp-json/posts published 2026-10-08T10:29:24: 'Before You Open Up Your Floor Plan, Consider These 7 Design Questions'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8whGct5j4ARcXZCBD0Yi7U&hl=en",
-  "gbp_title": "Sincere Home Decor",
-  "gbp_address": "\ue0c8\n470 S Airport Blvd, South San Francisco, CA 94080, United States",
-  "gbp_rating": "4.0\n(52)",
-  "gbp_phone": "phone:tel:+14152218808",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJyftiQItThVQR0Den2gISZI8&hl=en",
+  "gbp_title": "VanderBeken Remodel",
+  "gbp_address": "\ue0c8\n306 State Ave, Marysville, WA 98270, United States",
+  "gbp_rating": "4.4\n(27)",
+  "gbp_phone": "phone:tel:+14258708123",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Karl Voss",
-    "when": "4 months ago",
+    "reviewer": "Brian Grewe",
+    "when": "6 months ago",
     "stars": "5 stars",
-    "text": "We ordered a set of kitchen cabinets. No countertop, flooring or tile (purchased elsewhere). I am quite happy with the experience. The designer/sales rep, Kalei, put in a lot of work to make sure that we got exactly the design we wanted, \u2026",
-    "owner": "Response from the owner 4 months ago\nHi Karl, \n\n       We're so glad to hear that you are happy with your experience with \u2026 More"
+    "text": "We came to VanderBeken with a demanding task - we had just bought a house and had three months to do a whole gut and remodel before moving in. They walked us through the design process with ease, envisioning what we wanted our home to be \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much for your kind words, it truly means a lot to our team. Working with you was a pleasure and we love how your new home reflects your style. Enjoy it and thank you again for trusting us with such an important project!"
    },
    {
-    "reviewer": "Christopher Altman",
-    "when": "4 months ago",
-    "stars": "1 star",
-    "text": "I'm so pissed.  These jerks sold me a slab for my countertop that had been sitting around in their warehouse for so long that it was damaged by the elements.  It is now installed and turns out it is permanetley stained.  Ugh.  They offered \u2026",
-    "owner": null
+    "reviewer": "Barbara Piper (Mill Creek WA)",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "It was a pleasure to work with VanderBeken Remodel to make my vision of a new master bathroom come to life.  Their communication is top notch.  Throughout the process, they were available for questions, responded quickly to issues, provided \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you for your thoughtful and kind review. It means a lot to our team to receive such positive feedback. It was a pleasure to work with you on this project!"
    },
    {
-    "reviewer": "Priscilla Lau",
-    "when": "2 months ago",
+    "reviewer": "Claudia McClain",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "Bought appliances and my vanities from here - repeat customer and definitely recommend. Keith and Kalei were great - informative, friendly, detailed and always patient. \u2026",
-    "owner": "Response from the owner 2 months ago\nHi Priscilla,\n\n     Glad to hear that Keith and Kalei helped you with your appliances and \u2026 More"
+    "text": "We recently completed a major remodel of our master bathroom, laundry room, kitchen, and guest bedroom with VanderBeken Remodel, and we couldn't be happier with the results! From the initial design phase to the final touches, the quality of \u2026",
+    "owner": "Response from the owner a year ago\nThank you for your feedback Claudia - we appreciate it immensely! A hug thank you to you for being such a delight to work with. "
    }
   ],
   "emails_found": [],
-  "dm_snippets": [
-   {
-    "page": "https://sincerehomedecor.com/Home/About",
-    "snippet": "Sincere Home Decor began in 1989 as a neighborhood plumbing and hardware retail store in Oakland, California, founded by Ho Nin Au-Yeung and Connie Au-Yeung"
-   }
-  ],
-  "facebook_links": [
-   "http://www.facebook.com/2008/fbml",
-   "https://www.facebook.com/SincereHomeDecor/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/sincerehomedecor"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 51,
-   "bath": 30,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 8,
-   "cabinet": 23,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 54",
-   "gallery images over 1MB each: https://sincerehomedecor.com/images/slideshow/SSO-2.png = 1,170,776 bytes; https://sincerehomedecor.com/images/products/kitchen/cabinet/showroom/ssf/Liberty-Com"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Bay Remodels",
-    "url": "https://bayremodels.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "California First Class Construction",
-    "url": "https://cfccinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Coast to Coast Remodel",
-    "url": "https://coasttocoastremodel.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Emerald C Construction, Inc",
-    "url": "https://www.emeraldcconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Home Pride Construction, Inc",
-    "url": "https://homeprideinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "J & N Kitchen Cabinets, Inc.",
-    "url": "https://www.jnnkitchens.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Vista, CA"
-  ]
- },
- {
-  "id": "srtbuilding.com",
-  "name": "SRT Building and Renovation, Inc.",
-  "region": "R5",
-  "website": "https://srtbuilding.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "GoDaddy",
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://srtbuilding.com/"
-   ],
-   "contact": [
-    "https://srtbuilding.com/contact/"
-   ],
-   "about": [
-    "https://srtbuilding.com/about-us/"
-   ],
-   "gallery": [
-    "https://srtbuilding.com/projects/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJQ957PoXl-SwRoWSjWTrIL58&hl=en",
-    "quote": "Kelcey Sholl: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ957PoXl-SwRoWSjWTrIL58&hl=en",
-  "gbp_title": "SRT Building and Renovation, Inc.",
-  "gbp_address": "\ue0c8\n10773 San Jose Ave, Lynwood, CA 90262, United States",
-  "gbp_rating": "5.0\n(19)",
-  "gbp_phone": "phone:tel:+13104936591",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Kelcey Sholl",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "We had a great experience working with SRT Building on the renovation of our new home, which included a full kitchen remodel and 2.5 bathrooms. From start to finish, Mario, the owner, Carlos, our project lead, and the entire crew were \u2026",
-    "owner": "Response from the owner a month ago\nKelcey and Sareen, thank you for taking the time to write your review \u2014 we truly appreciate it. The team and I, Mario, loved working on your beautiful project. \u2026 More"
-   },
-   {
-    "reviewer": "brian petras",
-    "when": "11 months ago",
-    "stars": "5 stars",
-    "text": "We recently completed a nearly whole-house renovation, interior and exterior, with SRT Building and Renovation, and we are very happy with our experience and their quality of work. \u2026",
-    "owner": "Response from the owner 10 months ago\nDear Brian, Thank you so much for taking the time to give us your feed back. I'm truly grateful for the opportunity and your trust. SRT team and I enjoyed the journey on working on your beautiful home, For you and your family to enjoy. \u2026 More"
-   },
-   {
-    "reviewer": "Donald Lezama",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We chose SRT for our full bathroom remodel after recommendation from friends & they did not disappoint!\nMario & his team helped us achieve a beautiful bathroom. Even after running into \u2026",
-    "owner": "Response from the owner a year ago\nDonald, we greatly apricate your review/feed back this is a great way for us to know how satisfied our clients are at the end of each project,  it has been a pleasure to be of a service on behalf of team, we enjoyed the journey of your \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@srtbuilding.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:Info@srtbuilding.com",
-    "page": "https://srtbuilding.com/"
-   }
-  ],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/p/SRT-Building-and-Renovation-Inc-100064024155425/"
+   "https://www.facebook.com/vanderbekenremodel"
   ],
   "instagram_links": [
-   "https://www.instagram.com/srtbuilding"
+   "https://www.instagram.com/vanderbekenremodel"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 12,
-   "bath": 12,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 5,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 2
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://srtbuilding.com/wp-content/uploads/2026/03/COVER-TESTIMONAIL.png = 1,103,604 bytes; https://srtbuilding.com/wp-content/uploads/2024/09/SRT_LaderaHeights"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Hernandez Contractors Group Inc",
-    "url": "https://hernandezcontractorsgroupinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Luna\u2019s Design & Construction Co.",
-    "url": "https://lunasdesignandconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Perez construction & Remodeling",
-    "url": "https://perezconstruction.group/",
-    "gbp_address": null
-   },
-   {
-    "name": "AACR General Construction INC",
-    "url": "https://aacrgeneralconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "DFI Stone & Cabinets",
-    "url": "https://dfistonecabinetsllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "j&s ktchen and bath",
-    "url": "https://jskitchenbath.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Compton, CA",
-   "South Gate, CA"
-  ]
- },
- {
-  "id": "unitedhomeremodeling.com",
-  "name": "United Home Remodeling INC",
-  "region": "R5",
-  "website": "https://www.unitedhomeremodeling.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.unitedhomeremodeling.com/"
-   ],
-   "contact": [
-    "https://www.unitedhomeremodeling.com/contact"
-   ],
-   "about": [
-    "https://www.unitedhomeremodeling.com/about-us"
-   ],
-   "gallery": [
-    "https://www.unitedhomeremodeling.com/projects-8"
-   ],
-   "legal": [
-    "https://www.unitedhomeremodeling.com/privacy-policy"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-10-07",
-    "url": "https://www.unitedhomeremodeling.com/post/open-concept-remodeling-is-removing-a-wall-right-for-your-home",
-    "quote": "rss:https://www.unitedhomeremodeling.com/blog-feed.xml published Wed, 07 Oct 2026 21:18:27 GMT: 'Open-Concept Remodeling: Is Removing a Wall Right for Your Home?'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSMcXEct3YARalnV9XFG9e0&hl=en",
-  "gbp_title": "United Home Remodeling INC",
-  "gbp_address": "\ue0c8\n5529 Lincoln Ave, Cypress, CA 90630, United States",
-  "gbp_rating": "4.8\n(48)",
-  "gbp_phone": "phone:tel:+17142527475",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Monica Pereira",
-    "when": "Edited 8 months ago",
-    "stars": "5 stars",
-    "text": "It all started when we needed our guest bathroom sink replaced & decided just remodel the 50 year old bathroom.  We were so impressed with Augustine & his crew's work in such a small bathroom that we decided to work on the rest of our \u2026",
-    "owner": "Response from the owner 3 years ago\nHello, thank you very much for sharing your before and after photos of our project.We are very grateful for having given us the opportunity to work for you in order to carry out your project as you expect and as you deserve.Thank you very \u2026 More"
-   },
-   {
-    "reviewer": "Sjctalls Steve",
-    "when": "4 years ago",
-    "stars": "5 stars",
-    "text": "United Home Remodeling has now completed four projects for us over 4 years for us. A full bath, a half-bath, wood floors and an attic pull-down stairs.  We keep coming back because United Home Remodeling bids the project and completes it \u2026",
-    "owner": "Response from the owner 4 years ago\nThanks again for your feedback today and so happy to hear that from you and we will be happy to help you and the future project thanks"
-   },
-   {
-    "reviewer": "Kira Jones",
-    "when": "5 years ago",
-    "stars": "5 stars",
-    "text": "Augustin is THE contractor you want to work with. He\u2019s got years of experience and has an eye for design so he can make recommendations too. We had wood rot from a long term leak under our bath/shower and he did the demo and remodel. The \u2026",
-    "owner": "Response from the owner 3 years ago\nWe greatly value your positive comment, for us it is an honor to be able to count on each of you to move forward and to be able to continue doing our work much better each time, our service for each of you."
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "unitedhomeremodelinginc.site@gmail.com",
-    "how": "plain text",
-    "raw": "unitedhomeremodelinginc.site@gmail.com",
-    "page": "https://www.unitedhomeremodeling.com/privacy-policy"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/Uhrinc?mibextid=wwXIfr"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/unitedhomeremodeling"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 4,
+   "kitchen": 3,
    "bath": 4,
    "roof": 1,
-   "plumb": 1,
-   "hvac": 1,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 1,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 51"
-  ],
-  "competitor_pool": [
-   {
-    "name": "PureStyle Bathrooms Norwalk",
-    "url": "https://6aa7de1dc407a.site123.me/",
-    "gbp_address": null
-   },
-   {
-    "name": "Family Home Improvements",
-    "url": "https://familyhomeimprovements.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "Hybrid Renovations",
-    "url": "https://www.hybridrenovations.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "KDK Kitchen and Bath",
-    "url": "https://kdkfamily.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Homes & Kitchens By Graceful LLC",
-    "url": "https://kitchentechnologies.store/",
-    "gbp_address": null
-   },
-   {
-    "name": "Remodel House Inc",
-    "url": "https://www.remodelhouse.cc/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Norwalk, CA"
-  ]
- },
- {
-  "id": "woolseyconstructionsd.com",
-  "name": "Woolsey Construction",
-  "region": "R5",
-  "website": "https://www.woolseyconstructionsd.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.woolseyconstructionsd.com/"
-   ],
-   "contact": [
-    "https://www.woolseyconstructionsd.com/contact/",
-    "https://www.woolseyconstructionsd.com/contact/"
-   ],
-   "about": [
-    "https://www.woolseyconstructionsd.com/team/"
-   ],
-   "gallery": [
-    "https://www.woolseyconstructionsd.com/woolsey-construction-portfolio/",
-    "https://www.woolseyconstructionsd.com/project/normal-heights/"
-   ],
-   "legal": [
-    "https://www.woolseyconstructionsd.com/privacy-policy/",
-    "https://www.woolseyconstructionsd.com/privacy-policy/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-10-07",
-    "url": "https://www.woolseyconstructionsd.com/rancho-santa-fe-remodel-costs-redfin/",
-    "quote": "wp-json/posts published 2026-10-07T16:33:47: 'What It Really Costs to Live in Russell Wilson\u2019s Neighborhood'"
-   },
-   {
-    "type": "social_post",
-    "date": "2026-10-09",
-    "url": "https://www.youtube.com/watch?v=ukK6A-TwC8Y",
-    "quote": "YouTube channel https://www.youtube.com/@woolseyconstructionsd post: 'How a Home Remodel Design Comes Together | Design Development Explained'",
-    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCZyKqrL1tZFS3GTG0Vl4f8A <published>"
-   }
-  ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ387x6p_i24ARKsWTSJQD-Qo&hl=en",
-  "gbp_title": "Woolsey Construction",
-  "gbp_address": "\ue0c8\n1934 John Towers Ave Ste e, El Cajon, CA 92020, United States",
-  "gbp_rating": "4.9\n(34)",
-  "gbp_phone": "phone:tel:+16194490633",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Alejandro Krongold",
-    "when": "7 months ago",
-    "stars": "5 stars",
-    "text": "Woolsey built an ADU in our backyard and the experience exceeded expectations from start to finish. Taking on a construction project at home can be stressful, but their team made the entire process feel organized and under control. \u2026",
-    "owner": "Response from the owner 7 months ago\nThank you for the incredible review. We\u2019re honored you trusted us with your San Diego ADU project. \u2026 More"
-   },
-   {
-    "reviewer": "Stu Clott",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Woolsey Construction recently completed a room addition for our home, and we couldn\u2019t be happier with the result. In an industry where it\u2019s common to run into flaky or unresponsive contractors, Woolsey stands out in the best way possible. \u2026",
-    "owner": "Response from the owner a year ago\nThank you for your wonderful review, Stu! We are thrilled to hear that you are happy with your room addition and our team's communication and dedication. Your support and recommendations mean a lot to us. We look forward to assisting you with any future projects!"
-   },
-   {
-    "reviewer": "Mark Hays",
-    "when": "3 years ago",
-    "stars": "5 stars",
-    "text": "My wife and I had Woolsey Construction add a second floor to our home and we are absolutely thrilled with the end result! They added two large bedrooms and a full bath and from start to finish, our project manager, Seth Woolsey, kept us up \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "sales@woolseyconstructionsd.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:sales@woolseyconstructionsd.com",
-    "page": "https://www.woolseyconstructionsd.com/contact/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://www.woolseyconstructionsd.com/team/",
-    "snippet": "FOUNDER & CEO"
-   },
-   {
-    "page": "https://www.woolseyconstructionsd.com/team/",
-    "snippet": "CO-FOUNDER"
-   },
-   {
-    "page": "https://www.woolseyconstructionsd.com/team/",
-    "snippet": "Leah Woolsey, a proud San Diego native, and co-founder of Woolsey Construction, began her career as a real estate agent in 2007"
-   }
-  ],
-  "facebook_links": [],
-  "instagram_links": [
-   "https://www.instagram.com/woolseyconstructionsd"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 4,
-   "bath": 2,
-   "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
@@ -3112,37 +1605,47 @@
    "cabinet": 0,
    "siding": 0,
    "window": 0,
-   "pool": 1,
+   "pool": 0,
    "solar": 0,
-   "custom home": 8
+   "custom home": 0
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://www.woolseyconstructionsd.com/wp-content/uploads/2025/12/Dawsey-Side-scaled.jpeg = 1,219,312 bytes; https://www.woolseyconstructionsd.com/wp-content/upl"
+   "mobile performance score below 60: PSI mobile performance 44"
   ],
   "competitor_pool": [
    {
-    "name": "The Kitchen Doctor San Diego",
-    "url": "https://kitchendoctorsd.com/",
+    "name": "A1 Home Improvement",
+    "url": "https://a1homeimprovementwa.com",
     "gbp_address": null
    },
    {
-    "name": "Ram Construction SD",
-    "url": "https://www.ramconstructionsd.com/",
+    "name": "Advanced Home Repairs",
+    "url": "https://advancedhomerepairs.co/",
     "gbp_address": null
    },
    {
-    "name": "Superior Kitchen & Bath, Inc",
-    "url": "https://www.superiorkb.com/",
+    "name": "Hubenia Construction",
+    "url": "https://hubeniaconstruction.com/",
     "gbp_address": null
    },
    {
-    "name": "Team Renovate",
-    "url": "https://www.teamrenovatesd.com/",
+    "name": "J.B. Construction NW LLC",
+    "url": "https://jbconstructionnw.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Luxury kitchen and bath remodeling",
+    "url": "https://luxurykbllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "New Day Construction Kitchen & Bathroom Showroom",
+    "url": "https://www.newdayconstruction.co/bellevue-kitchen-remodeling/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "El Cajon, CA"
+   "Marysville, WA"
   ]
  }
 ]

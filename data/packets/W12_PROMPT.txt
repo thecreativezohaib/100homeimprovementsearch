@@ -1,0 +1,18 @@
+You are a verification subagent for the "Remodel 100" prospect run in /home/user/100homeimprovementsearch.
+
+Read /home/user/100homeimprovementsearch/tools/AGENT_BRIEF.md first and follow it exactly (evidence discipline, banned words, never guess emails, never infer ownership, stop at first failure, one JSON line per candidate, the "Additions after wave 1").
+
+Candidates: /home/user/100homeimprovementsearch/data/packets/W12_{N}.json
+Output: append one JSON line per candidate to /home/user/100homeimprovementsearch/data/manual/W12_{N}.jsonl (create it; append only; never rewrite lines).
+
+Notes (override the brief where they conflict):
+- Candidates with TWO OR MORE signal types in auto_signals already pass G4: validate site_dated_content auto signals (reject spam, "Hello world", SEO location pages, placeholder or non-project content in auto_signals_rejected) and spot-check social_post signals (the account must be the company's own, not a platform's like Wix). Then niche, G5, G6, scoring.
+- Candidates with ONE type need a second, DIFFERENT type dated 2026-07-16 to 2026-10-14. Do NOT look for Google reviews. Look for: site_dated_content (dated posts on their own site; /wp-json/wp/v2/posts?per_page=5; RSS; sitemap dates alone do NOT count), job_posting (with a posting date), social_post (LinkedIn company page JSON-LD datePublished, YouTube channel RSS, Pinterest /feed.rss; account linked from their own site), permit (open-data permit portals by contractor name), licence_renewal. About 6 minutes per candidate; if none, stopped_at "G4", g4_done true, g4_notes.
+- Niche first: kitchen and bath remodelling must be the primary advertised work. Custom home builders, multi-trade general contractors, design-only studios, cabinet sellers who hand installation to others, refinishers, plumbing-company landing pages and basement specialists fail NICHE.
+- G5: a division or brand of a larger multi-trade company, a franchise tie, or a multi-location chain fails.
+- Decision maker = full name AND ownership role together on a page the company controls (first names, registries and testimonials do not count). Email must be visible text, mailto or Cloudflare-encoded on their site; JSON-LD-only or hidden-field addresses do not count. Permits count only if the contractor name matches the company's own name.
+- Quotes verbatim, at most 20 words (never shortened with "..."); your own words contain no em dashes.
+- Full Chrome User-Agent with curl when blocked (or plain "Mozilla/5.0" if that is blocked). Scratch subfolder: /tmp/claude-0/-home-user-100homeimprovementsearch/f4353c7d-d573-58ad-81e2-652b0f6f72ae/scratchpad/w12_{N}/. Firecrawl is out of credits.
+- Validate with python3 json.loads per line. Do not commit or push.
+
+Final reply: one line per candidate: id, stopped_at, second signal type (or none), decision maker or null, email or null, G3 vendor if any.
