@@ -1,0 +1,213 @@
+[
+ {
+  "id": "jcrremodelingusa.com",
+  "name": "JCR Remodeling",
+  "website": "https://jcrremodelingusa.com/",
+  "continuation": true,
+  "note": "An earlier wave stopped this firm at G4. G4 now passes with the two signal types in auto_signals (one is a Google review or Facebook post date supplied by the user through Gemini; do not try to re-verify that one). Start at step 3 (G5). Do NOT include a g4_extra_signals key.",
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-10-02",
+    "url": "https://www.youtube.com/shorts/KlcovmYJo1U",
+    "quote": "YouTube channel https://www.youtube.com/@JCRAMERICANSERVICES post: 'Bathroom renovation'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCtsl1FXAeIlD8JXWijPZ0dg <published>"
+   },
+   {
+    "type": "google_review",
+    "date": "2026-09-13",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJQyQbf3Ll5aARJrtAgSFT_eI&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator",
+    "quote": "They also did an exceptional job with tiling our bathroom floor and completely"
+   }
+  ],
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyQbf3Ll5aARJrtAgSFT_eI&hl=en",
+  "gbp_address": "\ue0c8\n3000 Monticello Pl #103, Orlando, FL 32835, United States",
+  "gbp_phone": "phone:tel:+13213140746",
+  "gemini_hints": {
+   "id": "jcrremodelingusa.com",
+   "email": "jcr.remodeling.usa@gmail.com",
+   "email_source_url": "https://jcrremodelingusa.com/"
+  },
+  "emails_found": [
+   {
+    "email": "jcr.remodeling.usa@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:jcr.remodeling.usa@gmail.com",
+    "page": "https://jcrremodelingusa.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://jcrremodelingusa.com/",
+    "snippet": "Founded by an immigrant determined to succeed through honest work, excellence, and a commitment to operating legally and responsib"
+   }
+  ],
+  "locations_seen": [
+   "Orlando, FL"
+  ],
+  "earlier_line": {
+   "id": "jcrremodelingusa.com",
+   "name": "JCR Remodeling",
+   "niche_ok": true,
+   "niche_evidence": {
+    "url": "https://jcrremodelingusa.com/",
+    "quote": "Premium Remodeling Services Luxury Kitchen Transformations Where culinary dreams meet elegant design"
+   },
+   "g4_extra_signals": [],
+   "g4_done": true,
+   "g4_notes": "Auto signal confirmed: YouTube channel 'JCR AMERICAN SERVICES' (linked from the site footer as youtube.com/@JCRAMERICANSERVICES) RSS shows 'Bathroom renovation' published 2026-10-02 and 2026-09-25 (social_post). Second type searched, NONE FOUND: site_dated_content (wp-json/wp/v2/posts returns only the default 'Hello world!' post of 2026-01-22; pages Reviews, Service Areas, Services dated 2026-01-22; no blog or projects page); permit (City of Orlando open-data permits dataset ryhf-m453 queried for contractor or contractor_name containing JCR: only WJCREATE LLC 2019-2020, not this company; Orange County Fast Track is an address lookup with no contractor-name search); job_posting (web search for JCR Remodeling Orlando hiring and for JCR American Services: no postings); licence_renewal (no licence number published on the site; nothing found). The LinkedIn link in the footer is a personal profile (linkedin.com/in/raphael-souza-7b7926401), not a company page. Niche passed narrowly: hero banners are kitchen, bathroom and flooring, and the about text says 'specialized in flooring and remodeling'.",
+   "auto_signals_rejected": [
+    {
+     "signal": {
+      "type": "site_dated_content",
+      "date": "2026-01-22",
+      "url": "https://jcrremodelingusa.com/hello-world/"
+     },
+     "reason": "Default WordPress 'Hello world!' post (not an auto signal in the packet; noted so it is not used later)."
+    }
+   ],
+   "g5_pass": "UNKNOWN",
+   "g5_evidence": "UNKNOWN",
+   "decision_maker": "UNKNOWN",
+   "email_confirm": {
+    "email": "jcr.remodeling.usa@gmail.com",
+    "url": "https://jcrremodelingusa.com/",
+    "raw": "href=\"mailto:jcr.remodeling.usa@gmail.com",
+    "method": "mailto (recorded for reference; G6 not reached)"
+   },
+   "contact_form_url": "UNKNOWN",
+   "phone": "+1 (321) 314-0746",
+   "socials": [
+    "https://www.facebook.com/jcr.usa.remodeling/",
+    "https://www.instagram.com/jcr.usa.remodeling",
+    "https://www.youtube.com/@JCRAMERICANSERVICES",
+    "https://www.linkedin.com/in/raphael-souza-7b7926401/"
+   ],
+   "score": {
+    "trigger": "UNKNOWN",
+    "job_posting_live": "UNKNOWN",
+    "competitor": "UNKNOWN",
+    "owner_account_post_60d": "UNKNOWN",
+    "high_ticket": "UNKNOWN"
+   },
+   "assessment": "Opinion: a three-year-old Orlando kitchen, bath and flooring remodeler with a one-page site and an active YouTube Shorts channel, but no second activity type could be evidenced in the window.",
+   "inference_rejected": [
+    "Did not treat the personal LinkedIn profile of Raphael Souza as an owner: the site does not state his name or role (the about text says only 'Founded by an immigrant')."
+   ],
+   "could_not_check": [
+    "Orange County (unincorporated) permits by contractor name: no open-data contractor search",
+    "Facebook and Instagram (login walls)"
+   ],
+   "g3_vendor_found": null,
+   "stopped_at": "G4"
+  }
+ },
+ {
+  "id": "betterremodels.com",
+  "name": "Better Remodels",
+  "website": "https://betterremodels.com/",
+  "continuation": true,
+  "note": "An earlier wave stopped this firm at G4. G4 now passes with the two signal types in auto_signals (one is a Google review or Facebook post date supplied by the user through Gemini; do not try to re-verify that one). Start at step 3 (G5). Do NOT include a g4_extra_signals key.",
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJK0pL6DzX3IARI_aCaHr7y-o&hl=en",
+    "quote": "Marlene Inez: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-09-21",
+    "url": "https://www.facebook.com/BetterRemodels/",
+    "source": "Facebook page latest post date gathered with Gemini and supplied by the user, checked_on 2026-10-18; not opened by the coordinator; account linked from the company's own site",
+    "quote": "Facebook page https://www.facebook.com/BetterRemodels/ latest post 2026-09-21: 'Client Testimonial: Friendly, Effective, and Beautiful Results Word of mouth is the'"
+   }
+  ],
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0pL6DzX3IARI_aCaHr7y-o&hl=en",
+  "gbp_address": "\ue0c8\n249 E Emerson Ave Suite A, Orange, CA 92865, United States",
+  "gbp_phone": "phone:tel:+19495080300",
+  "gemini_hints": {
+   "id": "betterremodels.com",
+   "owner_name": "Donald Garcia",
+   "owner_role": "CEO & Founder",
+   "owner_source_url": "https://betterremodels.com/about-us/",
+   "email": "info@betterremodels.com",
+   "email_source_url": "https://betterremodels.com/about-us/"
+  },
+  "emails_found": [
+   {
+    "email": "info@betterremodels.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@betterremodels.com",
+    "page": "https://betterremodels.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://betterremodels.com/",
+    "snippet": "Meet Our CEO & Founder"
+   },
+   {
+    "page": "https://betterremodels.com/about-us/",
+    "snippet": "Meet Our CEO & Founder"
+   },
+   {
+    "page": "https://betterremodels.com/about-us/",
+    "snippet": "Meet Our CEO & Founder"
+   }
+  ],
+  "locations_seen": [
+   "Orange, CA"
+  ],
+  "earlier_line": {
+   "id": "betterremodels.com",
+   "name": "Better Remodels",
+   "niche_ok": true,
+   "niche_evidence": {
+    "url": "https://betterremodels.com/",
+    "quote": "From dream kitchens to spa-like bathrooms, Better Remodels brings your vision to life with expert designs, quality craftsmanship,"
+   },
+   "g4_extra_signals": [],
+   "g4_done": true,
+   "g4_notes": "FAIL: only one type (auto google_review, not re-opened). Searched: wp-json posts (newest 2026-04-13 'What Is the Best Bathroom Color?', outside window); portfolios post type (newest 2026-02-16 'Bathroom Remodel Irvine, CA'); pages created 2026-09-22 (Referral Program, Warranty, Financing) and 2026-08-27 (Founding Cohort, a contractor coaching sales page) are not project, blog or gallery additions, so not counted; WebSearch for jobs found none; CSLB licence 1047759 (via prelien.co) shows 'Expires: Dec 31, 2026', so no renewal in window; site links only Facebook, Instagram and Houzz (Facebook and Instagram login-walled, Houzz returned a 3 KB block page); no YouTube, LinkedIn or Pinterest account linked from the site (LinkedIn and Pinterest appear only as share-button config); no contractor-name permit open data found for Orange, Irvine or Garden Grove.",
+   "auto_signals_rejected": [],
+   "g5_pass": "UNKNOWN",
+   "g5_evidence": "UNKNOWN",
+   "decision_maker": {
+    "name": "Donald Garcia",
+    "role": "CEO & Founder",
+    "url": "https://betterremodels.com/about-us/",
+    "quote": "Meet Our CEO & Founder Donald Garcia, MBA",
+    "note": "recorded for reference; G6 not reached"
+   },
+   "email_confirm": null,
+   "contact_form_url": "https://betterremodels.com/contact-us/",
+   "phone": "949-508-0300",
+   "socials": [
+    "https://www.facebook.com/BetterRemodels",
+    "https://www.instagram.com/betterremodels/",
+    "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/better-remodels-pfvwus-pf~1670012702"
+   ],
+   "score": {
+    "trigger": "UNKNOWN",
+    "job_posting_live": "UNKNOWN",
+    "competitor": "UNKNOWN",
+    "owner_account_post_60d": "UNKNOWN",
+    "high_ticket": "UNKNOWN"
+   },
+   "assessment": "Opinion: an Orange County kitchen and bath led remodeler that also sells ADUs, house extensions and new construction. Its founder has launched a coaching programme for other contractors, but the business shows no evidenced second activity type in the window.",
+   "inference_rejected": [
+    "Niche passed on the kitchen and bath lead copy and the about page title 'Kitchen and Bath Remodeling'; the service menu also lists ADUs, New Construction and House Extension, so the coordinator may override to NICHE fail (compare dhibuilds.com).",
+    "The 'Founding Cohort' coaching page (published 2026-08-27) was not used as a G4 signal; it would only be relevant as a possible new-service-line trigger if the candidate passes later.",
+    "info@betterremodels.com mailto is in the packet but not recorded, since G6 was not reached."
+   ],
+   "could_not_check": [
+    "Facebook, Instagram (login wall) and Houzz (blocked)",
+    "G5, G6 and scoring were not run because the candidate stopped at G4"
+   ],
+   "g3_vendor_found": null,
+   "stopped_at": "G4"
+  }
+ }
+]
