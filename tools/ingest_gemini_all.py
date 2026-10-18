@@ -13,7 +13,10 @@ sys.path.insert(0, "/home/user/100homeimprovementsearch/tools")
 from decide import jl, D  # noqa: E402
 
 ISO = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-firms = {r["row"]: r for r in csv.DictReader(open("/home/user/100homeimprovementsearch/output/review_requests/all/firms.csv"))}
+# rows refer to firms_complete.csv (GEMINI_COMPLETE.md); pass --old for answers to GEMINI_ALL_v2.md and its addenda
+FIRMS = "firms.csv" if "--old" in sys.argv else "firms_complete.csv"
+sys.argv = [a for a in sys.argv if a != "--old"]
+firms = {r["row"]: r for r in csv.DictReader(open(f"/home/user/100homeimprovementsearch/output/review_requests/all/{FIRMS}"))}
 site = {}
 for f in ("site", "site_b", "site_c", "site_d", "site_render"):
     for x in jl(f"{D}/{f}.jsonl"):
