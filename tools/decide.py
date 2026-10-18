@@ -433,12 +433,12 @@ def g8(c, s, b, p):
                           f"right edge: {b.get('offenders', [])[:3]}", b.get("final_url"), b["tested"][:10]))
         big = b.get("served_images_over_1mb") or []
         if len(big) >= 2:
-            found.append(("gallery images over 1MB each", "; ".join(f"{x['url'][:120]} = {x['bytes']:,} bytes" for x in big[:4]),
+            found.append(("gallery images over 1MB each", "; ".join(f"{x['url']} = {x['bytes']:,} bytes" for x in big[:4]),
                           b.get("gallery_tested") or b.get("final_url"), b["tested"][:10]))
     if s:
         big = s.get("served_sizes_over_1mb") or []
         if len(big) >= 2 and not any(f[0].startswith("gallery images") for f in found):
-            found.append(("gallery images over 1MB each", "; ".join(f"{x['url'][:120]} = {x['bytes']:,} bytes (HTTP Content-Length)" for x in big[:4]),
+            found.append(("gallery images over 1MB each", "; ".join(f"{x['url']} = {x['bytes']:,} bytes (HTTP Content-Length)" for x in big[:4]),
                           s["final_url"], s["fetch_date"]))
         gx = s.get("g8extra") or {}
         for dm in gx.get("dead_mail", []):
