@@ -1,9 +1,161 @@
 [
  {
-  "id": "missourikitchenandbathcreations.com",
-  "name": "Missouri Kitchen and Bath Creations",
+  "id": "3daycabinetprosandmore.com",
+  "name": "3 Day Cabinet Pros and More",
   "region": "R3",
-  "website": "https://www.missourikitchenandbathcreations.com/",
+  "website": "https://3daycabinetprosandmore.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://3daycabinetprosandmore.com/"
+   ],
+   "contact": [
+    "https://3daycabinetprosandmore.com/contact-us/"
+   ],
+   "about": [
+    "https://3daycabinetprosandmore.com/about-us/"
+   ],
+   "gallery": [
+    "https://3daycabinetprosandmore.com/portfolio/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJx_fLuU6_CIgRnTHDGURQoic&hl=en",
+    "quote": "Valerie English: 'a month ago' (Google relative timestamp, retrieved 2026-10-18)"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-07-17",
+    "url": "https://www.youtube.com/shorts/1m-YaSM2FTk",
+    "quote": "YouTube channel https://www.youtube.com/@3daycabinetpros post: 'How to Bond Wood Quickly and Effectively #kitchen #cabinet #interiordesign'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCx08TVVQVTCeO2pF4EHTnQg <published>"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_fLuU6_CIgRnTHDGURQoic&hl=en",
+  "gbp_title": "3 Day Cabinet Pros and More",
+  "gbp_address": "\ue0c8\n1117 Turret Dr, Machesney Park, IL 61115, United States",
+  "gbp_rating": "5.0\n(130)",
+  "gbp_phone": "phone:tel:+18157802038",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Glen Higgenbotham",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Liam and his team did a wonderful job at replacing our kitchen cabinets, countertops, sink and added a backsplash. We appreciate his dedication and attention to detail. He is truly a professional. Liam was easy to work with and made the \u2026",
+    "owner": "Response from the owner 2 months ago\nThanks so much Glen! You were a pleasure to work for."
+   },
+   {
+    "reviewer": "Valerie English",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Liam and the team (LaVelle and Tresa) were exceptional from start to finish!\nWe were impressed with Liam\u2019s expertise and knowledge from the first consultation. He listened to exactly what we wanted and helped us design a wonderful, \u2026",
+    "owner": "Response from the owner a month ago\nThanks so much Valerie! It was good seeing you again. "
+   },
+   {
+    "reviewer": "Lou Horneij",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "After many years we decided to get our kitchen updated. We had your basic slab doors and the finish was dark. Liam and his crew from 3 Day Cabinet Pros fulfilled our expectations . We now have an updated and brighter kitchen. Would recommend for a reasonable update.Thank you Liam.",
+    "owner": "Response from the owner a month ago\nThanks Lou!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "liam@3daycabinetpros.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:liam@3daycabinetpros.com",
+    "page": "https://3daycabinetprosandmore.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://3daycabinetprosandmore.com/about-us/",
+    "snippet": "Founder"
+   },
+   {
+    "page": "https://3daycabinetprosandmore.com/about-us/",
+    "snippet": "Our founder, Liam McCormack didn\u2019t take the traditional path"
+   },
+   {
+    "page": "https://3daycabinetprosandmore.com/about-us/",
+    "snippet": "President and Founder"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/3daycabinetpros"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/3daycabinetpros"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 32,
+   "bath": 4,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 25,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 38"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Luxury Kitchen & Bath.",
+    "url": "https://www.637-bath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Blevins Kitchen & Bath",
+    "url": "https://www.blevinskitchenandbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Burnett Remodeling",
+    "url": "https://www.builtbyburnetts.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Built by Warner",
+    "url": "https://builtbywarner.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dream Line Remodeling",
+    "url": "https://www.dreamlineremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Midwest Stone Source + Design Studio",
+    "url": "https://midweststonesource.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Loves Park, IL",
+   "Machesney Park, IL"
+  ]
+ },
+ {
+  "id": "fonsinoremodeling.com",
+  "name": "Fonsino Remodeling",
+  "region": "R3",
+  "website": "https://www.fonsinoremodeling.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,80 +163,225 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://www.missourikitchenandbathcreations.com/"
+    "https://www.fonsinoremodeling.com/"
    ],
    "contact": [
-    "https://www.missourikitchenandbathcreations.com/contact-us",
-    "https://www.missourikitchenandbathcreations.com/"
+    "https://www.fonsinoremodeling.com/contact-8",
+    "https://www.fonsinoremodeling.com/"
    ],
    "about": [
-    "https://www.missourikitchenandbathcreations.com/about-us"
+    "https://www.fonsinoremodeling.com/about-me"
    ],
    "gallery": [
-    "https://www.missourikitchenandbathcreations.com/kitchen-bath-gallery",
-    "https://www.missourikitchenandbathcreations.com/projects-1"
-   ],
-   "legal": [
-    "https://www.missourikitchenandbathcreations.com/privacy-policy"
+    "https://www.fonsinoremodeling.com/gallery",
+    "https://www.fonsinoremodeling.com/portfolio"
    ]
   },
   "auto_signals": [
    {
-    "type": "social_post",
-    "date": "2026-09-28",
-    "url": "https://www.youtube.com/watch?v=AOviIoKWtfg",
-    "quote": "YouTube channel https://www.youtube.com/c/CambriaSurfaces post: 'Cambria Quartz Design: Wyncrest\u2122'",
-    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCrNUaYClqpTTJEDkKIH2vKw <published>"
+    "type": "site_dated_content",
+    "date": "2026-10-01",
+    "url": "https://www.fonsinoremodeling.com/post/home-safety-remodeling-detector-rules-interconnected-tech-and-code-realities",
+    "quote": "rss:https://www.fonsinoremodeling.com/blog-feed.xml published Thu, 01 Oct 2026 20:30:02 GMT: 'Home Safety &#38; Remodeling: Smoke Detector Rules, Interconnected Tech, and Cod'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cgJfP1xz4cRhwCyQJ9W5yI&hl=en",
-  "gbp_title": "Missouri Kitchen and Bath Creations",
-  "gbp_address": "\ue0c8\n4173 N 20th St Ste C, Ozark, MO 65721, United States",
-  "gbp_rating": "5.0\n(2)",
-  "gbp_phone": "phone:tel:+14172246875",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82sMgHKHUigRP3LCx0YCvbc&hl=en",
+  "gbp_title": "Fonsino Remodeling",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(17)",
+  "gbp_phone": null,
   "gbp_reviews_visible": [
    {
-    "reviewer": "Tommy and Maryann Smith",
-    "when": "4 years ago",
+    "reviewer": "Keelan Amelianovich",
+    "when": "6 months ago",
     "stars": "5 stars",
-    "text": "Outstanding work ethic and attention to detail.  True professional that is hard to find these days.",
-    "owner": null
+    "text": "We worked with Patrick Fonsino on a full renovation of our laundry room and adjoining bathroom, and it was a 5-star experience from start to finish. \u2026",
+    "owner": "Response from the owner 6 months ago\nFantastic before and after Pictures! Thanks for posting those.  We were happy to make that space more functional for you and your active family. Thanks for being such great clients. We look forward to doing your next project. Thank you for the kind review!  "
    },
    {
-    "reviewer": "Ashley Christiansen",
-    "when": "4 years ago",
+    "reviewer": "Eric Hendrickson",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": null,
+    "text": "Patrick and his team did an incredible job.  They turned my unfinished basement into a gorgeous living area, which includes a kitchen area, living space, full bathroom and bedroom/office area.  Patrick treated us like family.  He truly cares about his clients and takes pride in his work.  Will will be using them again in the future.",
+    "owner": "Response from the owner a year ago\nThanks, Eric \nIt was a pleasure working with you.  That space is a great addition for your growing family!  We look forward to working on future projects with you.  \n"
+   },
+   {
+    "reviewer": "Daria Schaffeld",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Fonsino Remodeling exceeded my expectations! They transformed my old, run-down patio\u2014with its worn screens and outdated sliding doors\u2014into a stunning three-season room complete with windows, fresh paint, electricity, and secure doors that \u2026",
+    "owner": "Response from the owner a year ago\nThank you, I am sure you will enjoy this upgraded space for many seasons.  It was a pleasure working with you!  "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "fonsino.inc@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:Fonsino.inc@gmail.com",
+    "page": "https://www.fonsinoremodeling.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.fonsinoremodeling.com/about-me",
+    "snippet": "President"
+   }
+  ],
+  "facebook_links": [],
+  "instagram_links": [
+   "https://www.instagram.com/fonsino_remodel"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 2,
+   "bath": 2,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://static.wixstatic.com/media/1a1f2d_f72163353dc34ba39e6120bd43e02b48~mv2.jpg = 3,837,575 bytes (HTTP Content-Length); https://static.wixstatic.com/media/1"
+  ],
+  "competitor_pool": [
+   {
+    "name": "4Ever Remodeling",
+    "url": "https://4everremodeling.com/service-areas/arlington-heights/",
+    "gbp_address": "\ue0c8\n415 W Golf Rd Ste 57, Arlington Heights, IL 60005, United States"
+   },
+   {
+    "name": "Designers Point, Inc.",
+    "url": "https://www.designers-point.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen & Bath Mart",
+    "url": "https://www.kitchenandbathmart.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "LuxRenoGroup",
+    "url": "https://luxrenogroup.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Premier Kitchen & Bath Remodeling",
+    "url": "https://premierhomeimprove.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Remodeling Contractors Inc.",
+    "url": "https://remodelingcontractorschicagoland.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Rolling Meadows, IL"
+  ]
+ },
+ {
+  "id": "lakeside-restoration.com",
+  "name": "Lakeside Restoration LLC",
+  "region": "R3",
+  "website": "https://lakeside-restoration.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Webflow"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://lakeside-restoration.com/"
+   ],
+   "contact": [
+    "https://lakeside-restoration.com/contact-us"
+   ],
+   "about": [
+    "https://lakeside-restoration.com/about-us",
+    "https://lakeside-restoration.com/teams/lak-36056b-webflow-io-teams-ana-carrillo"
+   ],
+   "gallery": [
+    "https://lakeside-restoration.com/projects",
+    "https://lakeside-restoration.com/projects/residential---upstairs-bathroom-tile-shower-and-freestanding-tub-install"
+   ],
+   "legal": [
+    "https://lakeside-restoration.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJVy2l7elKvYoRA47WtTpl-Vw&hl=en",
+    "quote": "Adam Fry: 'a month ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJVy2l7elKvYoRA47WtTpl-Vw&hl=en",
+  "gbp_title": "Lakeside Restoration LLC",
+  "gbp_address": "\ue0c8\n1463 1st Ave NW, New Brighton, MN 55112, United States",
+  "gbp_rating": "4.9\n(56)",
+  "gbp_phone": "phone:tel:+16515081703",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Chad Potas",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Just moved into my first home and needed to make some adjustments to a some what worn out carpeting, was always set on new floors. lakeside restoration made the process incredibly easy, after working together with one their wonderful \u2026",
+    "owner": "Response from the owner 6 months ago\nChad, thank you so much for the awesome review. We appreciate you taking the time to share your experience. Congrats on your first home too, that is a big milestone! It was great working with you and we're glad we could make the process \u2026 More"
+   },
+   {
+    "reviewer": "Bridget Zepeda",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "We recently partnered with Lakeside Restoration on a project, and the experience was outstanding from start to finish. Their team was professional, responsive, and committed to delivering high-quality work. Communication was excellent \u2026",
+    "owner": "Response from the owner 4 months ago\nHi Bridget, thank you for the kind words. We appreciate the opportunity to work alongside your team! We enjoyed collaborating with you and look forward to working together again in the future! Thank you for the recommendation!"
+   },
+   {
+    "reviewer": "Adam Fry",
+    "when": "a month ago",
+    "stars": "2 stars",
+    "text": "Please be mindful if you use Lakeside Restoration for any basement repair! The initial meeting/planning with the team went well and everything was communicated clearly... However, once the project actually began, my wife and I became the \u2026",
     "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "sales@missourikbc.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:sales@missourikbc.com",
-    "page": "https://www.missourikitchenandbathcreations.com/"
-   },
-   {
-    "email": "missourikbc@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:missourikbc@gmail.com",
-    "page": "https://www.missourikitchenandbathcreations.com/privacy-policy"
+    "email": "info@lakeside-restoration.com",
+    "how": "plain text",
+    "raw": "info@lakeside-restoration.com",
+    "page": "https://lakeside-restoration.com/contact-us"
    }
   ],
-  "dm_snippets": [],
+  "dm_snippets": [
+   {
+    "page": "https://lakeside-restoration.com/about-us",
+    "snippet": "Mitch Spence is the owner of Lakeside Restoration and a well-renowned general contractor and restoration expert"
+   },
+   {
+    "page": "https://lakeside-restoration.com/teams/lak-36056b-webflow-io-teams-ana-carrillo",
+    "snippet": "Mitch Spence is the owner of Lakeside Restoration and a well-renowned general contractor and restoration expert"
+   }
+  ],
   "facebook_links": [
-   "https://www.facebook.com/profile.php?id=100075204339353"
+   "https://www.facebook.com/profile.php?id=61574462490481"
   ],
   "instagram_links": [
-   "https://www.instagram.com/missourikbc"
+   "https://www.instagram.com/lakesiderestorationmn"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 16,
-   "bath": 16,
-   "roof": 0,
+   "kitchen": 0,
+   "bath": 2,
+   "roof": 1,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
@@ -97,42 +394,320 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 35"
+   "mobile performance score below 60: PSI mobile performance 31",
+   "gallery images over 1MB each: https://cdn.prod.website-files.com/68c1e0fd0e78facd24f0341a/6a3c87e90f86b3b073f850f1_Black%20and%20White%20Lash%20Tech%20Before%20and%20After%20Instagram%20Post"
   ],
   "competitor_pool": [
    {
-    "name": "CBS Cabinets",
-    "url": "https://cbscabinetsllc.com/",
+    "name": "Custom Home Remodeling Inc",
+    "url": "https://customremod.com/",
     "gbp_address": null
    },
    {
-    "name": "Fair & True Construction, LLC",
-    "url": "https://fairandtrueconstruction.com/",
+    "name": "Julkowski, Inc.",
+    "url": "https://www.julkowskiinc.com/",
     "gbp_address": null
    },
    {
-    "name": "Olivent Construction Services",
-    "url": "https://www.oliventconstruction.com/",
+    "name": "Kitchens By Design",
+    "url": "https://kitchensbydesign-mn.com/",
     "gbp_address": null
    },
    {
-    "name": "Paul Davis Restoration of Idaho - Idaho Falls Office",
-    "url": "https://idaho.pauldavis.com/",
+    "name": "Kitchens Made Simple",
+    "url": "https://kitchensmadesimple.com/",
     "gbp_address": null
    },
    {
-    "name": "Sorenson Renovation Company",
-    "url": "https://www.src417.com/",
+    "name": "Mindful Kitchens",
+    "url": "https://mindfulkitchens.com/",
     "gbp_address": null
    },
    {
-    "name": "Top Tier Kitchens & Baths",
-    "url": "https://www.toptierkitchens.com/",
+    "name": "Minnesota Remodeling Company",
+    "url": "https://minnesotaremodelingcompany.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Nixa, MO"
+   "New Brighton, MN"
+  ]
+ },
+ {
+  "id": "mnbr.homes",
+  "name": "MNBR Homes",
+  "region": "R3",
+  "website": "https://www.mnbrhomes.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.mnbrhomes.com/"
+   ],
+   "contact": [
+    "https://www.mnbrhomes.com/contact",
+    "https://www.mnbrhomes.com/start-your-project"
+   ],
+   "about": [
+    "https://www.mnbrhomes.com/about"
+   ],
+   "gallery": [
+    "https://www.mnbrhomes.com/projects"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJuaVzebo7s1IRZCi0LG_3wxo&hl=en",
+    "quote": "Bonnie Mc Cabe: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJuaVzebo7s1IRZCi0LG_3wxo&hl=en",
+  "gbp_title": "MNBR Homes",
+  "gbp_address": "\ue0c8\n13110 Dayton River Rd, Dayton, MN 55327, United States",
+  "gbp_rating": "5.0\n(19)",
+  "gbp_phone": "phone:tel:+16122002190",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Jill Coolbroth",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "We had a terrific experience working with David at MNBR Homes. Our project involved remodeling an existing garage into a beautiful pool house and recreational space, and we couldn't be happier with the results. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Bonnie Mc Cabe",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "I, as an Interior Designer, worked with the client 12 years ago but now they wanted help with two full baths, powder room and laundry room. I knew I needed a good contractor to do the \u201cheavy lifting\u201d. My client had contacted another company \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Michelle O'Leary",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "We can\u2019t say enough good things about David. His commitment to follow-through, integrity, and professionalism truly set him apart. Throughout the entire project, he demonstrated patience, perseverance, and an unwavering dedication to doing \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://www.mnbrhomes.com/about",
+    "snippet": "\u2014 David Hefner, Founder + Foreman"
+   }
+  ],
+  "facebook_links": [
+   "http://facebook.com/squarespace",
+   "http://www.facebook.com/2008/fbml"
+  ],
+  "instagram_links": [
+   "http://instagram.com/squarespace"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 5,
+   "bath": 9,
+   "roof": 1,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 2,
+   "cabinet": 1,
+   "siding": 1,
+   "window": 2,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 50",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/69952255436c1d35e134d8c5/ffe47181-ec01-419b-916c-1969ea4cc89b/MNBR_Home_Remodeling_Contractor_Services?format=2500"
+  ],
+  "competitor_pool": [
+   {
+    "name": "419 Home Improvements",
+    "url": "https://www.bbb.org/us/oh/perrysville/profile/home-improvement/419-home-improvements-llc-0272-235837036",
+    "gbp_address": null
+   },
+   {
+    "name": "Bigfoot Home Works LLC",
+    "url": "https://www.bigfoothomeworks.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Solvers of Columbus",
+    "url": "https://kitchensolvers.com/columbus/",
+    "gbp_address": null
+   },
+   {
+    "name": "Labor Gurus",
+    "url": "https://laborgurusmn.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Next Level Remodeling MN",
+    "url": "https://nextlevelremodelingmn.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "ProWork Builders",
+    "url": "https://proworkbuilders.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Champlin, MN"
+  ]
+ },
+ {
+  "id": "styleandrail.com",
+  "name": "Style & Rail Kitchens",
+  "region": "R3",
+  "website": "https://styleandrail.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "GoDaddy",
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://styleandrail.com/"
+   ],
+   "contact": [
+    "https://styleandrail.com/contact/",
+    "https://styleandrail.com/contact/"
+   ],
+   "about": [
+    "https://styleandrail.com/about/",
+    "https://styleandrail.com/about/meet-jon/"
+   ],
+   "gallery": [
+    "https://styleandrail.com/gallery/",
+    "https://styleandrail.com/project/project-armijo-kitchen/"
+   ],
+   "legal": [
+    "https://styleandrail.com/privacy-policy/",
+    "https://styleandrail.com/privacy-policy/",
+    "https://styleandrail.com/terms-of-service/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-12",
+    "url": "https://styleandrail.com/kitchen-design-showroom-iowa-city/",
+    "quote": "wp-json/posts published 2026-10-12T14:37:58: 'Kitchen Design Showroom in Iowa City: What to Expect'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92Cbamzv44cR4f4tdbk-DQU&hl=en",
+  "gbp_title": "Style & Rail Kitchens",
+  "gbp_address": "\ue0c8\n3500 Oakview Dr Ste D, Muscatine, IA 52761, United States",
+  "gbp_rating": "5.0\n(4)",
+  "gbp_phone": "phone:tel:+15636079007",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Jasmine Ortiz",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "I recently had my kitchen remodeled and couldn\u2019t be happier. The team was attentive and really listened to what I wanted, keeping me in the loop at every step. They came up with smart ideas that made my small kitchen feel much bigger than I \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you for the kind review! We are so happy that you are loving your new kitchen. What a transformation! :)"
+   },
+   {
+    "reviewer": "Bryan Zimmer",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Style & Rail raises the bar in kitchen renovation. Jon has some of the highest standards I've ever seen when it comes to quality and craftsmanship. He definitely holds those around him to those standards. With Style & Rail handling your \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Gary Hafner",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Excellent work!\nOld school craftsmanship. Neat and clean.\nAlways showed up on time. \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@styleandrail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@styleandrail.com",
+    "page": "https://styleandrail.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://styleandrail.com/about/",
+    "snippet": "President + General Contractor"
+   },
+   {
+    "page": "https://styleandrail.com/about/meet-jon/",
+    "snippet": "President + General Contractor"
+   }
+  ],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 37,
+   "bath": 3,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 3,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://cdn.fastpixel.io/fp/ret_auto+v_f42/styleandrail.com%2Fwp-content%2Fuploads%2F2025%2F12%2FBanner-Image-example.png = 1,446,366 bytes (HTTP Content-Length"
+  ],
+  "competitor_pool": [
+   {
+    "name": "A to Z Remodeling",
+    "url": "https://www.123atozremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "All Star Home Services",
+    "url": "https://all-starhomeservices.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Noble Construction",
+    "url": "https://builtbynoble.com/contact/",
+    "gbp_address": null
+   },
+   {
+    "name": "Gainz Construction",
+    "url": "https://gainzconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Moose Ridge Design-Build Construction\u200b",
+    "url": "https://www.mooseridgedbc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "V.H. Willis Company",
+    "url": "https://vhwillis.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Muscatine, IA"
   ]
  }
 ]

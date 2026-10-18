@@ -1,85 +1,93 @@
 [
  {
-  "id": "mccawcabinetry.com",
-  "name": "McCaw Cabinetry",
+  "id": "onyxbros.com",
+  "name": "ONYX Bros",
   "region": "R4",
-  "website": "https://mccawcabinetry.com/",
+  "website": "https://onyxbros.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "WordPress"
+   "Squarespace"
   ],
   "pages_fetched": {
    "home": [
-    "https://mccawcabinetry.com/"
+    "https://onyxbros.com/"
    ],
    "contact": [
-    "https://mccawcabinetry.com/contact-us/"
+    "https://onyxbros.com/contact"
    ],
    "about": [
-    "https://mccawcabinetry.com/about/"
+    "https://onyxbros.com/about"
    ],
    "gallery": [
-    "https://mccawcabinetry.com/projects/",
-    "https://mccawcabinetry.com/our-projects/banbury-project/"
+    "https://onyxbros.com/gallery",
+    "https://onyxbros.com/gallery/tile-gallery"
    ]
   },
   "auto_signals": [
    {
-    "type": "site_dated_content",
-    "date": "2026-08-27",
-    "url": "https://mccawcabinetry.com/floating-vanity-vs-floor-mounted-vanity-which-is-better-for-your-bathroom-remodel/",
-    "quote": "wp-json/posts published 2026-08-27T19:25:46: 'Floating Vanity vs. Floor-Mounted Vanity: Which Is Better for Your Bathroom Remo'"
+    "type": "social_post",
+    "date": "2026-07-31",
+    "url": "https://www.youtube.com/shorts/BF0FKhfTbw4",
+    "quote": "YouTube channel https://www.youtube.com/@OnyxBros post: 'Let their be floor! #construction #home #remodeling #homeimprovement'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UC0renooY_dDTY7KVn_tmUNg <published>"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____9i2PoYRLxvYLSbTStI&hl=en",
-  "gbp_title": "McCaw Cabinetry",
-  "gbp_address": "\ue0c8\n1430 Nall St, Port Neches, TX 77651, United States",
-  "gbp_rating": "5.0\n(2)",
-  "gbp_phone": "phone:tel:+14097240477",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQYGRSSBKSoRVLQf9TXqkYY&hl=en",
+  "gbp_title": "ONYX Bros",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(12)",
+  "gbp_phone": "phone:tel:+12082427752",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Linda Burkom",
-    "when": "3 months ago",
+    "reviewer": "Alisha Alletto",
+    "when": "7 months ago",
     "stars": "5 stars",
-    "text": null,
-    "owner": null
+    "text": "Onyx Remodeling and Construction did an excellent job on the remodel of my home. Ryan is very trust worthy, as he worked on my home while I was out of town. I love how he was able to help my vision come to life with a new bathroom vanity, \u2026",
+    "owner": "Response from the owner 7 months ago\nAlisha! Thank you for the feedback. We are glad to hear it and looking forward to the bathroom remodel!"
    },
    {
-    "reviewer": "Israel Santana",
-    "when": "5 years ago",
+    "reviewer": "H Jensen",
+    "when": "3 months ago",
     "stars": "5 stars",
-    "text": null,
-    "owner": null
+    "text": "Ryan and Tyler are simply amazing! I explained my project to them, and it turned out better than I ever hoped. They are meticulous in their attention to detail. Great communication.  I could not be happier with the finished product!",
+    "owner": "Response from the owner 3 months ago\nThank you! We really enjoyed remodeling the bathroom. Thanks for choosing us to handle your project and thank you for including photos in your review, we very much appreciate it. Please don't hesitate to reach out in the future!"
+   },
+   {
+    "reviewer": "Ash Jacobson",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "I\u2019ve used Ryan at Onyx for several remodels and projects big and small over the past decade and he is so easy to work with. He has done fantastic, quality work each time. He always listens to what I want the finished project to look like \u2026",
+    "owner": "Response from the owner 9 months ago\nThanks, Ash! I really appreciate you trusting me with so many projects over the years. I\u2019m glad the work has turned out the way you pictured it, and I appreciate the kind words about being on time, fair on pricing, and paying attention to the details. Thanks again for the recommendation! \ud83d\udc4d\ud83c\udffc \u2026"
    }
   ],
   "emails_found": [
    {
-    "email": "office@mccawcabinetry.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:office@mccawcabinetry.com",
-    "page": "https://mccawcabinetry.com/"
+    "email": "ryan@onyxbros.com",
+    "how": "plain text",
+    "raw": "ryan@onyxbros.com",
+    "page": "https://onyxbros.com/"
    }
   ],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/61584759752942/",
-   "https://www.facebook.com/profile.php?id=61584759752942"
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/onyx.bros/"
   ],
   "instagram_links": [
-   "https://www.instagram.com/mccaw_cabinetry"
+   "https://www.instagram.com/onyx.bros"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 7,
-   "bath": 6,
+   "kitchen": 13,
+   "bath": 14,
    "roof": 0,
-   "plumb": 1,
+   "plumb": 2,
    "hvac": 0,
    "handyman": 0,
-   "floor": 0,
-   "cabinet": 41,
+   "floor": 9,
+   "cabinet": 2,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -87,27 +95,33 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 48"
+   "mobile performance score below 60: PSI mobile performance 49",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/67d228edd7fcaf11782de24f/cdc96ac9-5f46-4701-b9ef-f63c8f82698c/framing+logan+ut.png?format=1500w = 7,149,660 bytes;"
   ],
   "competitor_pool": [
    {
-    "name": "409 Group - A/C - Plumbing - Electrical - Construction",
-    "url": "https://409-group.com/",
+    "name": "Dependable Construction LLC",
+    "url": "https://dependableconstructionutah.com/",
     "gbp_address": null
    },
    {
-    "name": "AR Stucco & Stone Contractor",
-    "url": "https://arstuccostone.com/",
+    "name": "Logan Drywall & Floors LLC",
+    "url": "https://logandrywallfloorsllc.com/",
     "gbp_address": null
    },
    {
-    "name": "K2NC home remodeling",
-    "url": "https://k2nchomeremodeling.com",
+    "name": "Premier Cabinets",
+    "url": "https://www.premiercabinets.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Sierra Restoration",
+    "url": "https://sierrarestoration.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Nederland, TX"
+   "Smithfield, UT"
   ]
  }
 ]

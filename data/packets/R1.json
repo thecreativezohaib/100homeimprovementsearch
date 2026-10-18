@@ -1,356 +1,98 @@
 [
  {
-  "id": "ecocleanearth.com",
-  "name": "EcoClean Residential and Commercial",
+  "id": "burkyswoodwork.com",
+  "name": "Burky's Woodwork LLC",
   "region": "R1",
-  "website": "https://uppervalley.ecocleanearth.com/",
+  "website": "https://www.burkyswoodwork.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "WordPress"
+   "Squarespace"
   ],
   "pages_fetched": {
    "home": [
-    "https://uppervalley.ecocleanearth.com/"
+    "https://www.burkyswoodwork.com/"
    ],
    "contact": [
-    "https://uppervalley.ecocleanearth.com/contact/"
+    "https://www.burkyswoodwork.com/contact"
    ],
-   "legal": [
-    "https://uppervalley.ecocleanearth.com/privacy-policy/",
-    "https://uppervalley.ecocleanearth.com/privacy-policy/"
+   "about": [
+    "https://www.burkyswoodwork.com/about"
+   ],
+   "gallery": [
+    "https://www.burkyswoodwork.com/gallery"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJZ375Cqq1tEwRbtDIVLwF11c&hl=en",
-    "quote": "n: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJgaJN5cYl0YkRo3wAqJQdVB8&hl=en",
+    "quote": "R Ragosta: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-10-07",
+    "url": "https://www.pinterest.com/pin/1031042908464395327/",
+    "quote": "Pinterest profile https://www.pinterest.com/burkyswoodwork/ post: '9 feet of Black Walnut coming together. \ud83c\udf33\ud83d\udd25 This table is starting'",
+    "method": "Pinterest profile RSS https://www.pinterest.com/burkyswoodwork/feed.rss <pubDate>"
    }
   ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ375Cqq1tEwRbtDIVLwF11c&hl=en",
-  "gbp_title": "EcoClean Residential and Commercial",
-  "gbp_address": "\ue0c8\n45 Hanover St, Lebanon, NH 03766, United States",
-  "gbp_rating": "4.6\n(121)",
-  "gbp_phone": "phone:tel:+16037698756",
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJgaJN5cYl0YkRo3wAqJQdVB8&hl=en",
+  "gbp_title": "Burky's Woodwork LLC",
+  "gbp_address": "\ue0c8\n122 N Genesee St, Geneva, NY 14456, United States",
+  "gbp_rating": "5.0\n(32)",
+  "gbp_phone": "phone:tel:+15853540943",
   "gbp_reviews_visible": [
    {
-    "reviewer": "n",
-    "when": "2 months ago",
-    "stars": "1 star",
-    "text": "I employed this company for a deep house cleaning . They were gone in under 2  hrs. They provide a check list of everything that will be done and they didn't come close to accomplishing it. \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Liz Mulkey",
-    "when": "2 months ago",
-    "stars": "1 star",
-    "text": "Do not work with this company. Over charging for terrible service, POOR SERVICE, POOR MANAGEMENT, LOST MONEY FIXING THEIR MISTAKES, MORE ...last minute no show AND last minute cancelations though I had scheduled weeks in advance. NO efforts \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Katharine Christie",
-    "when": "6 months ago",
+    "reviewer": "Jessica Reed",
+    "when": "7 months ago",
     "stars": "5 stars",
-    "text": "Our cleaners, two wonderful women who are friendly and intelligent, are hard working and efficient. They leave every room sparkling, fresh, and neat, with no odors of cleaning compounds. I love that we can set up what they will clean and \u2026",
-    "owner": null
+    "text": "Beyond impressed with the facelift this gave my kitchen! From the beginning it was like planning a renovation with a friend and not just a company. Derek is very easy to work with and communicates through the entire process. I had full \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you so much!  This was a pleasure to see the amazing upgrade!"
+   },
+   {
+    "reviewer": "Jane Blakely",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "We just received our custom dining room gaming table and it\u2019s STUNNING. It\u2019s a life long statement piece in our house and we couldn\u2019t be more excited. Derek was a great communicator, added custom details, and is a true artist. 11/10 would recommend.",
+    "owner": "Response from the owner 9 months ago\nThank you so much! I loved making this piece! "
+   },
+   {
+    "reviewer": "R Ragosta",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "I cannot recommend Burky\u2019s Woodwork LLC highly enough. Derek is an incredibly talented carpenter, but what truly sets him apart is the kind of person he is. He is kind, professional, collaborative, and an excellent communicator from start \u2026",
+    "owner": "Response from the owner a month ago\nThank you so much Rachel. Words cannot express how grateful I am for the opportunity to create such a cool amazing ceiling!  Cant wait for the next project!! "
    }
   ],
   "emails_found": [
    {
-    "email": "lebnh@ecocleanearth.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:LebNH@ecocleanearth.com",
-    "page": "https://uppervalley.ecocleanearth.com/"
-   },
-   {
-    "email": "info@ecocleanearth.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@ecocleanearth.com",
-    "page": "https://uppervalley.ecocleanearth.com/contact/"
+    "email": "burkyswoodwork@gmail.com",
+    "how": "plain text",
+    "raw": "Burkyswoodwork@gmail.com",
+    "page": "https://www.burkyswoodwork.com/"
    }
   ],
   "dm_snippets": [],
-  "facebook_links": [],
-  "instagram_links": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/burkyswoodwork"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/burkyswoodwork"
+  ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 0,
-   "bath": 1,
+   "kitchen": 1,
+   "bath": 0,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 1,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 56"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Foremost Builders",
-    "url": "https://foremostbuilders.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Sakin Home Inc.",
-    "url": "https://www.sakinhome.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Cabinet en-Counter",
-    "url": "https://thecabinetencounter.com/",
-    "gbp_address": "\ue0c8\n105 Hanover St, Lebanon, NH 03766, United States"
-   }
-  ],
-  "locations_seen": [
-   "Lebanon, NH"
-  ]
- },
- {
-  "id": "homecrafthomeimprovement.com",
-  "name": "HomeCraft Home Improvements LLC",
-  "region": "R1",
-  "website": "https://homecrafthomeimprovement.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "GoDaddy"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://homecrafthomeimprovement.com/"
-   ],
-   "contact": [
-    "https://homecrafthomeimprovement.com/contact"
-   ],
-   "about": [
-    "https://homecrafthomeimprovement.com/about",
-    "https://homecrafthomeimprovement.com/services/roofing"
-   ],
-   "gallery": [
-    "https://homecrafthomeimprovement.com/gallery"
-   ],
-   "legal": [
-    "https://homecrafthomeimprovement.com/privacy",
-    "https://homecrafthomeimprovement.com/privacy-policy",
-    "https://homecrafthomeimprovement.com/terms"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ42K-UGVAkR-TaleCIhLKc&hl=en",
-    "quote": "P Moore: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ42K-UGVAkR-TaleCIhLKc&hl=en",
-  "gbp_title": "HomeCraft Home Improvements LLC",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(5)",
-  "gbp_phone": "phone:tel:+19088641113",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "P Moore",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Home craft did a great job on multiple projects on my home they where responsive, professional, & very informative\n& did great work I would definitely recommend this team to anyone",
-    "owner": "Response from the owner 2 months ago\nThank you, Patrick for the feedback much appreciated and it was good working with you"
-   },
-   {
-    "reviewer": "Jacinto Zambrano",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "I had an outstanding experience with  HomeCraft Home Improvement. Thomas and his crew were professional, reliable, and paid attention to every detail from start to finish. They showed up on time, explained everything clearly,  kept the area \u2026",
-    "owner": "Response from the owner Edited 2 months ago\nThank you for your feedback."
-   },
-   {
-    "reviewer": "Patrick Murphy",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Great experience guys showed up on time cleaning and tidy Work side excellent price love Tom Overall experience would recommend to anybody",
-    "owner": "Response from the owner 2 months ago\nThank you Patrick for your kind feedback."
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "homecrafthomeimprovement@gmail.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "eca4838189af9e8d8a98a4838189a5819c9e839a8981898298ac8b818d8580c28f8381",
-    "page": "https://homecrafthomeimprovement.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/HomeCraftHomeImprovements"
-  ],
-  "instagram_links": [],
-  "franchise_mentions": [
-   "re-bath"
-  ],
-  "niche_word_counts": {
-   "kitchen": 6,
-   "bath": 13,
-   "roof": 20,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 2,
-   "cabinet": 1,
-   "siding": 17,
-   "window": 5,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://homecrafthomeimprovement.com/airo-assets/images/pages/gallery/siding-1 = 2,462,486 bytes; https://homecrafthomeimprovement.com/airo-assets/images/pages/"
-  ],
-  "competitor_pool": [
-   {
-    "name": "A & S General Construction LLC",
-    "url": "https://asgcnj.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Beauty Craft Kitchen & Baths",
-    "url": "https://beautycraftkitchens.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Legacy Contracting, LLC.",
-    "url": "https://call-legacy.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Classic Masonry & Home Improvements",
-    "url": "https://classicmasonryandhomeimprovements.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "KAS Home Improvement",
-    "url": "https://www.kashomeimprovement.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Precision Home Renovations NJ",
-    "url": "https://www.precisionrenovationsnj.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Middlesex, NJ"
-  ]
- },
- {
-  "id": "wolfhomepros.com",
-  "name": "Wolf Home Pros",
-  "region": "R1",
-  "website": "https://www.wolfhomepros.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.wolfhomepros.com/"
-   ],
-   "about": [
-    "https://www.wolfhomepros.com/about-us/",
-    "https://www.wolfhomepros.com/about-us/"
-   ],
-   "legal": [
-    "https://www.wolfhomepros.com/privacy-policy/",
-    "https://www.wolfhomepros.com/privacy-policy/",
-    "https://www.wolfhomepros.com/terms-of-service/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJOzB236jJ04gRXLtpmQ4b6ZI&hl=en",
-    "quote": "John T.: '2 months ago' (Google relative timestamp, retrieved 2026-10-18)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzB236jJ04gRXLtpmQ4b6ZI&hl=en",
-  "gbp_title": "Wolf Home Pros",
-  "gbp_address": null,
-  "gbp_rating": "4.9\n(70)",
-  "gbp_phone": "phone:tel:+14848812929",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "John T.",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Wolf Home Pros is great! Their attention to detail and customer service is unmatched. I've dealt with a lot of contractors over the years and so often they are unreliable, do shoddy work or miraculously more money half-way through the job. \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Jon Dyer",
-    "when": "9 months ago",
-    "stars": "5 stars",
-    "text": "As the owner of a professional painting company, I am very selective about the contractors I collaborate with and confidently recommend. I have had the pleasure of working alongside Wolf Home Pros, led by Dan and his brothers, on several \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Stefanie Seese",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "We had various work done around our home, including drywall repair, interior painting and exterior painting. Wolf Home Pros did an amazing job with all of it! They were very communicative, polite, friendly and their work was A+. I would definitely call them again for a future project and highly recommend them!",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "contact@wolfhomepros.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:contact@wolfhomepros.com",
-    "page": "https://www.wolfhomepros.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://www.wolfhomepros.com/",
-    "snippet": "Wolf Home Pros is owned and operated by three brothers who grew up in Chester County and still call the area home"
-   },
-   {
-    "page": "https://www.wolfhomepros.com/about-us/",
-    "snippet": "Wolf Home Pros is owned and operated by three brothers who grew up in Chester County and now work in the same communities they call home"
-   },
-   {
-    "page": "https://www.wolfhomepros.com/about-us/",
-    "snippet": "Wolf Home Pros is owned and operated by three brothers who grew up in Chester County and now work in the same communities they call home"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/wolfhomepros"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/wolfhomepros"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 4,
-   "bath": 7,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 4,
-   "floor": 1,
-   "cabinet": 1,
+   "cabinet": 6,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -358,42 +100,162 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 37"
+   "mobile performance score below 60: PSI mobile performance 36",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/6595451f4fa058266d5e45a5/1739812497456-J6TPPMOXQEY4H8JZJK7H/tempImagejb2cGz.gif?format=2500w = 3,907,349 bytes; ht"
   ],
   "competitor_pool": [
    {
-    "name": "Augustine Home Improvements LLC",
-    "url": "https://www.augustinehomeimprovements.com/",
+    "name": "FLX Home Solutions",
+    "url": "https://flxhomesolutions.com/",
     "gbp_address": null
    },
    {
-    "name": "Pro Install Services",
-    "url": "https://proinstallnow.com/",
+    "name": "Kitchens by Oaks",
+    "url": "https://kitchensbyoaks.com/webster-showroom/",
     "gbp_address": null
    },
    {
-    "name": "Pulgarin Roofing and Remodeling LLC",
-    "url": "https://pulgarinroofing.com/",
+    "name": "Kreative Design Kitchen And Bath LLC",
+    "url": "https://www.kreativedesignkitchenandbath.com/",
     "gbp_address": null
    },
    {
-    "name": "Rittenhouse Builders",
-    "url": "https://www.rittenhousebuilders.com/",
+    "name": "Ontario Concrete & Paving Co Inc.",
+    "url": "https://www.ontarioconcreteandpaving.com/",
     "gbp_address": null
    },
    {
-    "name": "Shenberger & Sons General Contractor",
-    "url": "https://shenbergerandsons.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Trimmed Out Interiors",
-    "url": "https://www.trimmedoutinteriors.com/",
+    "name": "RS Signature Kitchens",
+    "url": "https://canandaiguakitchendesign.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Coatesville, PA"
+   "Geneva, NY"
+  ]
+ },
+ {
+  "id": "tcrbuilders.com",
+  "name": "TCR BUILDERS",
+  "region": "R1",
+  "website": "https://tcrbuilders.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://tcrbuilders.com/"
+   ],
+   "contact": [
+    "https://tcrbuilders.com/contact-us/",
+    "https://tcrbuilders.com/contact-us/"
+   ],
+   "about": [
+    "https://tcrbuilders.com/about-us-tcr-builders/"
+   ],
+   "gallery": [
+    "https://tcrbuilders.com/project/home-extension-halesite/",
+    "https://tcrbuilders.com/project/accessory-apartment-bay-shore-long-island/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-21",
+    "url": "https://tcrbuilders.com/the-true-bathroom-remodel-price-in-long-island-from-basic-upgrades-to-new-additions/",
+    "quote": "wp-json/posts published 2026-09-21T18:54:28: 'The True Bathroom Remodel Price in Long Island: From Basic Upgrades to New Addit'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJyX4HJFwr6IkRXwU5LQ7KcxA&hl=en",
+  "gbp_title": "TCR BUILDERS",
+  "gbp_address": "\ue0c8\n912 Straight Path, West Babylon, NY 11704, United States",
+  "gbp_rating": "5.0\n(65)",
+  "gbp_phone": "phone:tel:+15167273060",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Carol Maroney",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "My daughter got married in December.   My front porch was compromised and had to be rebuilt otherwise we risked the bride falling thru on the wedding day.  Murphys law!  Enter TCR.  Sam and the entire TCR team including the gals in the \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you so much for taking the time to share this. We\u2019re really grateful you trusted TCR during such an important (and stressful!) moment. With a wedding coming up, we know how much was riding on getting this right, and we\u2019re so happy we \u2026 More"
+   },
+   {
+    "reviewer": "N Story",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "We had a 3 week project recently completed to re-level our floors which required re-installing subflooring, hardwood floors, and baseboards, along with sistering and leveling joists (about 1200 sq ft). Sam and Anderson were very responsive \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you for your thoughtful feedback! We\u2019re delighted to hear that you were satisfied with the re-leveling of your floors and the overall experience. It\u2019s our priority to ensure our clients are happy at every step, and we\u2019re glad that Sam \u2026 More"
+   },
+   {
+    "reviewer": "Emma G",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "Used TCR Builders to build a carport to specifications. The best experience I\u2019ve had with a GC! The project manager, Anderson and his team were attentive, available and a pleasure to work with throughout the project! Anderson walked through \u2026",
+    "owner": "Response from the owner Edited 9 months ago\nThanks Emma for trusting us and our Team. We will be here for you and your family for any future projects. Thanks \ud83d\ude4f\ud83c\udffd Happy New Year! \u2026"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "crm@tcrbuilders.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:crm@tcrbuilders.com",
+    "page": "https://tcrbuilders.com/"
+   },
+   {
+    "email": "info@tcrbuilders.com",
+    "how": "plain text",
+    "raw": "info@tcrbuilders.com",
+    "page": "https://tcrbuilders.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/tcrbuilders"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/tcrbuildersg"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 6,
+   "roof": 5,
+   "plumb": 2,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 4,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 11
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 52"
+  ],
+  "competitor_pool": [
+   {
+    "name": "GAMCO Remodeling",
+    "url": "https://gamcoremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "H&G General Home Remodeling Corp",
+    "url": "https://hggeneralhomeremodelingcorp.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Royal Kitchens & Baths",
+    "url": "https://www.royalknb.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Babylon, NY"
   ]
  }
 ]
