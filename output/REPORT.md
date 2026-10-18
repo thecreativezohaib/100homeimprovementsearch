@@ -1,10 +1,10 @@
 # Remodel 100: final report (run date 2026-10-14, updated 2026-10-17)
 
-**Result so far: 48 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard
-gates on evidence, every one passed a visual photo review, all 48 have template content captured, and each
+**Result so far: 49 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard
+gates on evidence, every one passed a visual photo review, all 49 have template content captured, and each
 gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "Still in progress").
 
-## How the count grew (18, then 24, 36, 40, 44, 46, 48)
+## How the count grew (18, then 24, 36, 40, 44, 46, 48, 49)
 - **PageSpeed Insights with an API key (2026-10-17).** 39 of the 46 have a mobile performance score below 60 as their
   measured defect.
 - **Review dates you supplied through Gemini** for 109 firms. 4 passed that way, and you confirmed all 4 while signed in.
@@ -21,7 +21,7 @@ gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "St
 | | |
 |---|---|
 | Discovered (unique companies after dedupe) | 23,734 |
-| **Passed all gates** (`prospects100.csv`) | **48** |
+| **Passed all gates** (`prospects100.csv`) | **49** |
 | Contact-only (everything except a published email) | 9 |
 | Bench-vendor (failed only G3; vendor named; G8 defect measured) | 9 |
 | Rejected or not yet completed (`rejected.csv`) | 23,600 |
