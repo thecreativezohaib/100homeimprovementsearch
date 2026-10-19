@@ -1,0 +1,394 @@
+[
+ {
+  "id": "t1remodeling.com",
+  "name": "Tier One Remodeling Inc.",
+  "region": "R1",
+  "website": "https://www.t1remodeling.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.t1remodeling.com/"
+   ],
+   "contact": [
+    "https://www.t1remodeling.com/contact-local-expert-remodeling-contractor"
+   ],
+   "about": [
+    "https://www.t1remodeling.com/buffalo-remodeling"
+   ],
+   "gallery": [
+    "https://www.t1remodeling.com/beautiful-bathrooms-kitchen-remodels"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-27",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJJe7RTbbRroQRMgUnorXINqk&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "Had Tier One remodel bathroom and was completely"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJJe7RTbbRroQRMgUnorXINqk&hl=en",
+  "gbp_title": "Tier One Remodeling Inc.",
+  "gbp_address": "\ue0c8\n487 Erie St, Lancaster, NY 14086, United States",
+  "gbp_rating": "5.0\n(19)",
+  "gbp_phone": "phone:tel:+17163615459",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Arianne J",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Our experience with Tier One Remodeling was fantastic! Eric the owner exceeded our expectations immensely! We hired Eric to do a full gut remodel on our two bathrooms, one was a half bath that Eric turned into a full bath with walk in \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much! You did an amazing job designing your bathrooms, they turned out so great."
+   },
+   {
+    "reviewer": "Kelly Lamm",
+    "when": "Edited 6 months ago",
+    "stars": "5 stars",
+    "text": "We had full bathroom demo & remodel done. It turned out great! Eric was very responsive & easy to work with. Would definitely recommend Eric.",
+    "owner": "Response from the owner 6 months ago\nThank you! I hope you guys love your new bathroom!"
+   },
+   {
+    "reviewer": "Sandra Perillo",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We had Tier One do several remodel jobs at our home over the last several years. A complete full bath remodel, a half bath remodel and most recently a full kitchen remodel and hardwood floors installed on the first floor of our home. They \u2026",
+    "owner": "Response from the owner a year ago\nThank you! Your kitchen is one of our favorites ! "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "eric@t1remodeling.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:eric@t1remodeling.com",
+    "page": "https://www.t1remodeling.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/Tier1remodeling/"
+  ],
+  "instagram_links": [
+   "http://instagram.com/mariahmagazinedesign",
+   "http://instagram.com/tieroneremodeling"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 7,
+   "bath": 11,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 46",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/5b76eeb1d274cba8fddced27/1536689770684-4J8XN6S7LADD0HG3OX16/FD1288EE-F899-4364-9336-0857057452DE.jpg = 1,049,942 b"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Ace Kitchen and Bath Remodeling",
+    "url": "https://www.acekitchenbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Interior Maintenance Services",
+    "url": "https://interiormaintenanceservices.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "K-Kitchen Co.",
+    "url": "https://www.k-kitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Saver",
+    "url": "https://www.kitchensaver.com/locations/pennsylvania/altoona/?source=90556",
+    "gbp_address": null
+   },
+   {
+    "name": "New York Kitchen & Bath",
+    "url": "https://www.nykitchenandbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Tupchik Development",
+    "url": "https://www.tupchikdevelopment.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Depew, NY"
+  ]
+ },
+ {
+  "id": "woodenspecialties.net",
+  "name": "Wooden Specialties",
+  "region": "R4",
+  "website": "https://www.woodenspecialties.net/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.woodenspecialties.net/"
+   ],
+   "contact": [
+    "https://www.woodenspecialties.net/contact-us/"
+   ],
+   "about": [
+    "https://www.woodenspecialties.net/about-us.html"
+   ],
+   "gallery": [
+    "https://www.woodenspecialties.net/custom-cabinets/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-14",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJd16tfEedJIYRPphhGqo76KQ&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "The design may include hanging sections, drawers, adjustable"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJd16tfEedJIYRPphhGqo76KQ&hl=en",
+  "gbp_title": "Wooden Specialties",
+  "gbp_address": "\ue0c8\n110 Turn Row, Lafayette, LA 70508, United States",
+  "gbp_rating": "4.8\n(24)",
+  "gbp_phone": "phone:tel:+13372378888",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Danny Domingue",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "We had several quotes before choosing to work with Bryan and his team at Wooden Specialties. Even though they were priced reasonable compared to all bids, cost wasn\u2019t the deciding factor. \u2026",
+    "owner": "Response from the owner 11 months ago\nThank you so much for trusting Bryan and our team with your project! It means a lot that you chose to work with us after comparing several bids. We\u2019re thrilled to hear everything came together smoothly and that the finished product exceeded \u2026 More"
+   },
+   {
+    "reviewer": "Lindsey L",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "We had an AMAZING experience with Wooden Specialities. From the first meeting, my husband and I felt as though everyone was so patient with us as we tried to design the perfect entertainment center to meet our families needs. They continued \u2026",
+    "owner": "Response from the owner 11 months ago\nThank you so much for your thoughtful review! We\u2019re thrilled to hear that you and your husband had such a positive experience designing your entertainment center with us. It was a pleasure bringing your vision to life, and we\u2019re so glad you \u2026 More"
+   },
+   {
+    "reviewer": "Kristen Foster",
+    "when": "4 years ago",
+    "stars": "5 stars",
+    "text": "Thank you Wooden Specialties for our beautiful custom cabinets! We highly recommend this awesome company! We have worked with them on multiple projects and each time we are amazed with their beautiful craftsmanship. They built us a custom \u2026",
+    "owner": "Response from the owner 4 years ago\nKristen, we love working with you!  Thank you for your 5 star review and we are looking forward to working with you again on your next project."
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/woodenspecialties/"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 2,
+   "bath": 2,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 8,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 34",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 3890px, i.e. 3515px wider than the screen; elements past the right edge: ['A right=3890', 'IMG rig",
+   "gallery images over 1MB each: https://www.woodenspecialties.net/images/ImageGallery/Kitchen/lisaknight3.JPG = 1,237,704 bytes; https://www.woodenspecialties.net/images/ImageGallery/Kitchen/l"
+  ],
+  "competitor_pool": [
+   {
+    "name": "A.L.I. Home Improvement Company",
+    "url": "https://www.alihomeimprovement.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bryan Building and Design",
+    "url": "https://www.bryanbuildinganddesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Courville Construction",
+    "url": "https://www.courvilleconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Remodeling Pros Lafayette, LA",
+    "url": "https://www.homeremodelinglafayettela.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kingdom Builders",
+    "url": "https://www.kingdombuilderia.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Youngsville, LA"
+  ]
+ },
+ {
+  "id": "schulzdesignllc.com",
+  "name": "Schulz Design Build, Portland Home Builder",
+  "region": "R5",
+  "website": "https://www.schulzdesignbuild.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.schulzdesignbuild.com/"
+   ],
+   "contact": [
+    "https://www.schulzdesignbuild.com/contact"
+   ],
+   "about": [
+    "https://www.schulzdesignbuild.com/about"
+   ],
+   "gallery": [
+    "https://www.schulzdesignbuild.com/portfolio"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-24",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJda2-aktzlVQR-jHImEpyubg&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "She is experienced, professional and has wonderful ideas"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJda2-aktzlVQR-jHImEpyubg&hl=en",
+  "gbp_title": "Schulz Design Build, Portland Home Builder",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(24)",
+  "gbp_phone": "phone:tel:+15039984846",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Betty Jiang",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "I recommend Melissia and her team without reservation. She did an absolutely amazing home office remodel for us. I trust her completely in details, follow through, and pricing. Subsequent to that project, she also redesigned our primary bedroom. And this year we are having her do our formal living room and dining room.",
+    "owner": null
+   },
+   {
+    "reviewer": "Jesse Spicher",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "If you are looking for a designer who is detail\u2011oriented, on top of the latest trends, and truly delivers what clients want, Melissia Schulz is the one.\nI have partnered with Melissia on multiple projects as her tile installer, and \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you so much for the kind words and for being such a valued partner on our projects. Working with trusted trades like you makes all the difference, and your craftsmanship, professionalism, and attention to detail consistently elevate \u2026 More"
+   },
+   {
+    "reviewer": "Kayla Jones",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "I\u2019ve had the pleasure of working with Melissia for many years, and she continues to be an absolute standout. She\u2019s incredibly present throughout every project, truly listens to her clients, and brings a level of creativity that\u2019s hard to \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you so much for your kind review. We truly value the partnership we\u2019ve built together. Having vendors we can rely on for quality, professionalism, and clear communication makes all the difference\u2014not only for our team, but for our \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@schulzdesignllc.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@schulzdesignllc.com",
+    "page": "https://www.schulzdesignbuild.com/contact"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/schulzdesignllc"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/schulzdesignbuild"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 47",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/6131440a5b075e0997d7b614/1729709068606-EOTV7VC25R9NQU4YZD3K/Untitled+design+%282%29.png?format=2500w = 4,039,976 b"
+  ],
+  "competitor_pool": [
+   {
+    "name": "A&C Innovative Contractors",
+    "url": "https://www.acinnovativecontractor.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Custom Kitchen Renovations",
+    "url": "https://customkitchenrenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "In Your Home",
+    "url": "https://www.iyhusa.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Metke Remodeling & Luxury Homes",
+    "url": "https://metkeremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Mosaik Design",
+    "url": "https://mosaikdesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "The Remodel Group",
+    "url": "https://theremodelgroup.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Tualatin, OR"
+  ]
+ }
+]

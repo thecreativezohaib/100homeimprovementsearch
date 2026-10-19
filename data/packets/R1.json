@@ -1,0 +1,137 @@
+[
+ {
+  "id": "t1remodeling.com",
+  "name": "Tier One Remodeling Inc.",
+  "region": "R1",
+  "website": "https://www.t1remodeling.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.t1remodeling.com/"
+   ],
+   "contact": [
+    "https://www.t1remodeling.com/contact-local-expert-remodeling-contractor"
+   ],
+   "about": [
+    "https://www.t1remodeling.com/buffalo-remodeling"
+   ],
+   "gallery": [
+    "https://www.t1remodeling.com/beautiful-bathrooms-kitchen-remodels"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-27",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJJe7RTbbRroQRMgUnorXINqk&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "Had Tier One remodel bathroom and was completely"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJJe7RTbbRroQRMgUnorXINqk&hl=en",
+  "gbp_title": "Tier One Remodeling Inc.",
+  "gbp_address": "\ue0c8\n487 Erie St, Lancaster, NY 14086, United States",
+  "gbp_rating": "5.0\n(19)",
+  "gbp_phone": "phone:tel:+17163615459",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Arianne J",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Our experience with Tier One Remodeling was fantastic! Eric the owner exceeded our expectations immensely! We hired Eric to do a full gut remodel on our two bathrooms, one was a half bath that Eric turned into a full bath with walk in \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much! You did an amazing job designing your bathrooms, they turned out so great."
+   },
+   {
+    "reviewer": "Kelly Lamm",
+    "when": "Edited 6 months ago",
+    "stars": "5 stars",
+    "text": "We had full bathroom demo & remodel done. It turned out great! Eric was very responsive & easy to work with. Would definitely recommend Eric.",
+    "owner": "Response from the owner 6 months ago\nThank you! I hope you guys love your new bathroom!"
+   },
+   {
+    "reviewer": "Sandra Perillo",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We had Tier One do several remodel jobs at our home over the last several years. A complete full bath remodel, a half bath remodel and most recently a full kitchen remodel and hardwood floors installed on the first floor of our home. They \u2026",
+    "owner": "Response from the owner a year ago\nThank you! Your kitchen is one of our favorites ! "
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "eric@t1remodeling.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:eric@t1remodeling.com",
+    "page": "https://www.t1remodeling.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/Tier1remodeling/"
+  ],
+  "instagram_links": [
+   "http://instagram.com/mariahmagazinedesign",
+   "http://instagram.com/tieroneremodeling"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 7,
+   "bath": 11,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 46",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/5b76eeb1d274cba8fddced27/1536689770684-4J8XN6S7LADD0HG3OX16/FD1288EE-F899-4364-9336-0857057452DE.jpg = 1,049,942 b"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Ace Kitchen and Bath Remodeling",
+    "url": "https://www.acekitchenbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Interior Maintenance Services",
+    "url": "https://interiormaintenanceservices.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "K-Kitchen Co.",
+    "url": "https://www.k-kitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Saver",
+    "url": "https://www.kitchensaver.com/locations/pennsylvania/altoona/?source=90556",
+    "gbp_address": null
+   },
+   {
+    "name": "New York Kitchen & Bath",
+    "url": "https://www.nykitchenandbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Tupchik Development",
+    "url": "https://www.tupchikdevelopment.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Depew, NY"
+  ]
+ }
+]

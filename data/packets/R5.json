@@ -1,388 +1,235 @@
 [
  {
-  "id": "experthomebuilders.com",
-  "name": "Expert Home Builders",
+  "id": "persiarenovation.com",
+  "name": "Persia renovation LLC",
   "region": "R5",
-  "website": "https://experthomebuilders.com/",
+  "website": "https://www.persiarenovation.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "WordPress"
+   "Wix"
   ],
   "pages_fetched": {
    "home": [
-    "https://experthomebuilders.com/"
+    "https://www.persiarenovation.com/"
    ],
    "contact": [
-    "https://experthomebuilders.com/contact-us/"
+    "https://www.persiarenovation.com/"
    ],
    "about": [
-    "https://experthomebuilders.com/about-us/"
+    "https://www.persiarenovation.com/about-5"
    ],
    "gallery": [
-    "https://experthomebuilders.com/project/",
-    "https://experthomebuilders.com/project/complete-remodeling-encino/"
-   ],
-   "legal": [
-    "https://experthomebuilders.com/privacy-policy-2/",
-    "https://experthomebuilders.com/privacy-policy-2/",
-    "https://experthomebuilders.com/terms-conditions/"
+    "https://www.persiarenovation.com/projects"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
-    "date": "2026-10-02",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJHcjoP8DHwoARO-XSBtRuk74&hl=en",
+    "date": "2026-08-31",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJlYrNOIXyDygRg-AN1LoO-No&hl=en",
     "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
-    "quote": "We got several quotes before choosing to work"
+    "quote": "We hired Persia Renovation to completely gut and"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcjoP8DHwoARO-XSBtRuk74&hl=en",
-  "gbp_title": "Expert Home Builders",
-  "gbp_address": "\ue0c8\n5800 S Eastern Ave Suit 500, Commerce, CA 90040, United States",
-  "gbp_rating": "4.4\n(306)",
-  "gbp_phone": "phone:tel:+13235032344",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYrNOIXyDygRg-AN1LoO-No&hl=en",
+  "gbp_title": "Persia renovation LLC",
+  "gbp_address": "\ue0c8\nPersia renovation llc, 15875 Boones Ferry Rd Ste 2096, Lake Grove, OR 97035, United States",
+  "gbp_rating": "5.0\n(23)",
+  "gbp_phone": "phone:tel:+19714472330",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Henry Carter",
-    "when": "6 months ago",
+    "reviewer": "Noah Levinson",
+    "when": "4 months ago",
     "stars": "5 stars",
-    "text": "From the initial consultation to the final walkthrough, everything was smooth and well-organized. They communicated clearly and kept me updated throughout the process. The quality of their work is outstanding. I would definitely recommend them to anyone looking for reliable home builders.",
-    "owner": null
+    "text": "We had such a great experience working with Saeed and Persia Renovation on our bathroom remodel. Our old bathroom honestly looked like it was from the 70s, and he completely transformed it into a space we love. \u2026",
+    "owner": "Response from the owner 4 months ago\nThank you so much, Noah! It was truly a pleasure working with you and your family.\nI really appreciate your kind words and the trust you placed in me throughout \u2026 More"
    },
    {
-    "reviewer": "pc06 lab",
-    "when": "6 months ago",
+    "reviewer": "Robert Messick",
+    "when": "Edited 4 months ago",
     "stars": "5 stars",
-    "text": "Their craftsmanship and attention to detail really stood out. They took the time to understand exactly what I wanted and delivered beyond expectations. The entire team was friendly and easy to work with. I\u2019m very satisfied with the results.",
-    "owner": null
+    "text": "I would highly recommend Persia Renovations LLC for your bathroom renovation. It was a pleasure working with Saeed and company.\nWe had an outdated small bath off the main bedroom that was in dire need of \u2026",
+    "owner": "Response from the owner 4 months ago\nThank you, Robert! We really appreciate your support and your trust throughout the project. \nIt was a pleasure helping transform your bathroom l, and we are glad the final \u2026 More"
    },
    {
-    "reviewer": "Thomas Garcia",
+    "reviewer": "Mary LaMotte",
     "when": "5 months ago",
     "stars": "5 stars",
-    "text": "Working with this team was a fantastic experience from beginning to end. They stayed professional, communicated clearly, and completed the project with impressive attention to detail. The final results completely transformed the space in the best way possible.",
-    "owner": null
+    "text": "The five star rating we're giving Saeed is not enough!\nWe had a house in need of an interior face lift prior to putting it up for sale. The house was a mess from a tenant who had caused a lot of property damage. We \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much for the kind words and detailed review ,I really appreciate it . It was a pleasure working on your project ,and I\u2019m glad we could get everything done on time and to your satisfaction, specially with the tight schedule. \u2026 More"
    }
   ],
   "emails_found": [
    {
-    "email": "build@experthomebuilders.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "5b192e32373f1b3e232b3e292f3334363e392e32373f3e292875383436",
-    "page": "https://experthomebuilders.com/"
+    "email": "info@persiarenovation.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:Info@persiarenovation.com",
+    "page": "https://www.persiarenovation.com/"
    },
    {
-    "email": "info@intoriastudio.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "264f484049664f485249544f47555253424f490845494b",
-    "page": "https://experthomebuilders.com/"
+    "email": "persiarenovation@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:persiarenovation@gmail.com",
+    "page": "https://www.persiarenovation.com/about-5"
    }
   ],
   "dm_snippets": [
    {
-    "page": "https://experthomebuilders.com/about-us/",
-    "snippet": "Founder"
+    "page": "https://www.persiarenovation.com/about-5",
+    "snippet": "\u201cWe\u201d, \u201cus\u201d or \u201cour\u201d means Persia Renovation LLC, with its principal place of business located at 12547 SW Main St Apt 313 Tigard OR US 97223-6281"
    },
    {
-    "page": "https://experthomebuilders.com/about-us/",
-    "snippet": "President of Sales"
+    "page": "https://www.persiarenovation.com/about-5",
+    "snippet": "The data controller of your personal information is Persia Renovation LLC, with its principal place of business located at 12547 SW Main St Apt 313 Tigard OR US 97223-6281"
    }
   ],
   "facebook_links": [
-   "https://www.facebook.com/profile.php?id=100054384827362"
+   "https://www.facebook.com/share/1FrJMZBEqd/?mibextid=wwXIfr"
   ],
   "instagram_links": [
-   "https://www.instagram.com/experthomebuilders"
+   "https://www.instagram.com/persiarenovationllc"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 7,
-   "bath": 6,
+   "kitchen": 1,
+   "bath": 5,
    "roof": 0,
-   "plumb": 1,
+   "plumb": 0,
    "hvac": 0,
-   "handyman": 0,
-   "floor": 4,
+   "handyman": 1,
+   "floor": 2,
    "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 4,
-   "solar": 0,
-   "custom home": 13
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 46"
-  ],
-  "competitor_pool": [
-   {
-    "name": "j&s ktchen and bath",
-    "url": "https://jskitchenbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Kitchen Remodel & Cabinets Suwanee and Lawrenceville",
-    "url": "https://www.youtube.com/user/admaxco/videos",
-    "gbp_address": null
-   },
-   {
-    "name": "LA Reglazing",
-    "url": "https://www.lareglazing.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Cudahy, CA",
-   "Maywood, CA"
-  ]
- },
- {
-  "id": "seadesignbuild.com",
-  "name": "SEA Design & Build",
-  "region": "R5",
-  "website": "https://seadesignbuild.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://seadesignbuild.com/"
-   ],
-   "contact": [
-    "https://seadesignbuild.com/home-remodeling-bay-area-contact-us/"
-   ],
-   "about": [
-    "https://seadesignbuild.com/sea-design-build-about-us/"
-   ],
-   "gallery": [
-    "https://seadesignbuild.com/sea-design-build-recent-projects/",
-    "https://seadesignbuild.com/san-francisco-bay-area-remodeling-contractor/"
-   ],
-   "legal": [
-    "https://seadesignbuild.com/privacy-policy-2/",
-    "https://seadesignbuild.com/privacy-policy-2/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJQfFMpMSfj4ARgIBVNXAxfxA&hl=en",
-    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
-    "quote": "We recently completed our first remodel with SEA"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfFMpMSfj4ARgIBVNXAxfxA&hl=en",
-  "gbp_title": "SEA Design & Build",
-  "gbp_address": "\ue0c8\n763 Polhemus Rd suite 1, San Mateo, CA 94402, United States",
-  "gbp_rating": "5.0\n(6)",
-  "gbp_phone": "phone:tel:+16502874202",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Kit Cutler",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "We chose SEA Construction to build an ADU over our garage at our house in Half Moon Bay, and we have been very pleased with the result. Steve Albert and his team have exceptionally high integrity, and they always found practical and fair \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "James Regan",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "SEA Construction did a wonderful job designing and building our lower floor addition.  We love our expanded home.  Steve Albert has always been candid with our options and has remained available to us whenever we've had questions or requested additional work.  Project manager Ethan was also a pleasure to work with.",
-    "owner": null
-   },
-   {
-    "reviewer": "Mark McCarthy",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "SEA Design and Build were our contractors for a kitchen remodelling in 2023. We chose SEA after reviewing multiple contractors and were pleased we did. SEA completed the work to the highest professional standards, and with very little \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@seadesignbuild.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@seadesignbuild.com",
-    "page": "https://seadesignbuild.com/"
-   },
-   {
-    "email": "info@seaconstruction.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@seaconstruction.com",
-    "page": "https://seadesignbuild.com/home-remodeling-bay-area-contact-us/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/seaconstructioninc"
-  ],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 30,
-   "bath": 22,
-   "roof": 4,
-   "plumb": 1,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 3,
    "siding": 0,
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 2
+   "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 49"
+   "mobile performance score below 60: PSI mobile performance 58"
   ],
   "competitor_pool": [
    {
-    "name": "Bath Planet Kansas City",
-    "url": "https://bathplanet.com/dealers/bath-planet-of-kansas-city",
+    "name": "A&C Innovative Contractors",
+    "url": "https://www.acinnovativecontractor.com/",
     "gbp_address": null
    },
    {
-    "name": "BELDV INC",
-    "url": "https://beldv.com/",
+    "name": "Custom Kitchen Renovations",
+    "url": "https://customkitchenrenovations.com/",
     "gbp_address": null
    },
    {
-    "name": "BuilderDuty Inc. \u2013 Commercial Construction Subcontractor",
-    "url": "https://builderduty.com/",
+    "name": "In Your Home",
+    "url": "https://www.iyhusa.com/",
     "gbp_address": null
    },
    {
-    "name": "Genesis Home Remodeling",
-    "url": "https://genesisremodelingca.com/",
+    "name": "Metke Remodeling & Luxury Homes",
+    "url": "https://metkeremodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "Home Pride Construction, Inc",
-    "url": "https://homeprideinc.com/",
+    "name": "Mosaik Design",
+    "url": "https://mosaikdesign.com/",
     "gbp_address": null
    },
    {
-    "name": "KB Cabinets",
-    "url": "https://www.kbcabinets.net/",
+    "name": "The Remodel Group",
+    "url": "https://theremodelgroup.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Millbrae, CA"
+   "Tualatin, OR"
   ]
  },
  {
-  "id": "steinerremodel.com",
-  "name": "Steiner Remodel",
+  "id": "schulzdesignllc.com",
+  "name": "Schulz Design Build, Portland Home Builder",
   "region": "R5",
-  "website": "https://www.steinerremodel.com/",
+  "website": "https://www.schulzdesignbuild.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "Webflow"
+   "Squarespace"
   ],
   "pages_fetched": {
    "home": [
-    "https://www.steinerremodel.com/"
+    "https://www.schulzdesignbuild.com/"
    ],
    "contact": [
-    "https://www.steinerremodel.com/contact-us"
+    "https://www.schulzdesignbuild.com/contact"
    ],
    "about": [
-    "https://www.steinerremodel.com/about"
+    "https://www.schulzdesignbuild.com/about"
    ],
    "gallery": [
-    "https://www.steinerremodel.com/before-and-after",
-    "https://www.steinerremodel.com/gallery"
-   ],
-   "legal": [
-    "https://www.steinerremodel.com/privacy-policy"
+    "https://www.schulzdesignbuild.com/portfolio"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
-    "date": "2026-09-17",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9gYLLkLlVQR79ABwbz9fzU&hl=en",
+    "date": "2026-09-24",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJda2-aktzlVQR-jHImEpyubg&hl=en",
     "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
-    "quote": "We loved our experience with Tim Steiner and"
+    "quote": "She is experienced, professional and has wonderful ideas"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9gYLLkLlVQR79ABwbz9fzU&hl=en",
-  "gbp_title": "Steiner Remodel",
-  "gbp_address": "\ue0c8\n1887 SE Milport Rd, Milwaukie, OR 97222, United States",
-  "gbp_rating": "5.0\n(26)",
-  "gbp_phone": "phone:tel:+15037555110",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJda2-aktzlVQR-jHImEpyubg&hl=en",
+  "gbp_title": "Schulz Design Build, Portland Home Builder",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(24)",
+  "gbp_phone": "phone:tel:+15039984846",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Becky Nelson",
-    "when": "a year ago",
+    "reviewer": "Betty Jiang",
+    "when": "3 months ago",
     "stars": "5 stars",
-    "text": "We've had Tim, Mike, and their crew work on several projects in our home, from replacing wooden floors to building a (rad) covered deck, to building out our basement. They have consistently done an excellent job, with a keen eye for design \u2026",
+    "text": "I recommend Melissia and her team without reservation. She did an absolutely amazing home office remodel for us. I trust her completely in details, follow through, and pricing. Subsequent to that project, she also redesigned our primary bedroom. And this year we are having her do our formal living room and dining room.",
     "owner": null
    },
    {
-    "reviewer": "Mark Bowes",
-    "when": "Edited 5 months ago",
+    "reviewer": "Jesse Spicher",
+    "when": "8 months ago",
     "stars": "5 stars",
-    "text": "My wife and I contracted Steiner Remodel for a pretty large home renovation project on our 1920s bungalow. This involved design and build to convert an unfinished basement to a fully finished living space with a full bath and \u2026",
-    "owner": null
+    "text": "If you are looking for a designer who is detail\u2011oriented, on top of the latest trends, and truly delivers what clients want, Melissia Schulz is the one.\nI have partnered with Melissia on multiple projects as her tile installer, and \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you so much for the kind words and for being such a valued partner on our projects. Working with trusted trades like you makes all the difference, and your craftsmanship, professionalism, and attention to detail consistently elevate \u2026 More"
    },
    {
-    "reviewer": "Susan Bowes",
-    "when": "6 months ago",
+    "reviewer": "Kayla Jones",
+    "when": "8 months ago",
     "stars": "5 stars",
-    "text": "Steiner Remodel did an amazing job on our basement remodel. When we first met the owner, Tim, it was clear that he'd be attentive to our needs and fully understood the scope of our project, from an engineering as well as aesthetic \u2026",
-    "owner": null
+    "text": "I\u2019ve had the pleasure of working with Melissia for many years, and she continues to be an absolute standout. She\u2019s incredibly present throughout every project, truly listens to her clients, and brings a level of creativity that\u2019s hard to \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you so much for your kind review. We truly value the partnership we\u2019ve built together. Having vendors we can rely on for quality, professionalism, and clear communication makes all the difference\u2014not only for our team, but for our \u2026 More"
    }
   ],
   "emails_found": [
    {
-    "email": "getstarted@steinerremodel.com",
+    "email": "info@schulzdesignllc.com",
     "how": "mailto",
-    "raw": "href=\"mailto:getstarted@steinerremodel.com",
-    "page": "https://www.steinerremodel.com/"
+    "raw": "href=\"mailto:info@schulzdesignllc.com",
+    "page": "https://www.schulzdesignbuild.com/contact"
    }
   ],
-  "dm_snippets": [
-   {
-    "page": "https://www.steinerremodel.com/",
-    "snippet": "To kick off the remodeling process, you'll have a call with Tim, the owner of Steiner Remodel"
-   },
-   {
-    "page": "https://www.steinerremodel.com/",
-    "snippet": "Tim, the owner of Steiner Remodel, stays personally involved throughout the project, helping ensure clear communication, accountabilit"
-   },
-   {
-    "page": "https://www.steinerremodel.com/",
-    "snippet": "Tim, the owner of Steiner Remodel, stays personally involved in the project and oversees communication, scheduling, and day-to-day pro"
-   },
-   {
-    "page": "https://www.steinerremodel.com/about",
-    "snippet": "CEO & Designer"
-   }
-  ],
+  "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/Steiner-Custom-Building-591227617971784"
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/schulzdesignllc"
   ],
   "instagram_links": [
-   "https://www.instagram.com/steinercustombuilding"
+   "https://www.instagram.com/schulzdesignbuild"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 14,
-   "bath": 10,
-   "roof": 2,
-   "plumb": 1,
+   "kitchen": 4,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
@@ -394,50 +241,50 @@
    "custom home": 1
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 50",
-   "gallery images over 1MB each: https://cdn.prod.website-files.com/6a3be2796dfa6aa18f871dc6/6a82e3e81e6ac888674dea3e_Edited.webp = 1,020,556 bytes; https://cdn.prod.website-files.com/6a3be2796"
+   "mobile performance score below 60: PSI mobile performance 47",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/6131440a5b075e0997d7b614/1729709068606-EOTV7VC25R9NQU4YZD3K/Untitled+design+%282%29.png?format=2500w = 4,039,976 b"
   ],
   "competitor_pool": [
    {
-    "name": "American Made Construction LLC",
-    "url": "https://www.americanmadecontractor.com/",
+    "name": "A&C Innovative Contractors",
+    "url": "https://www.acinnovativecontractor.com/",
     "gbp_address": null
    },
    {
-    "name": "Catchings Defined Construction Inc",
-    "url": "https://catchingsdefined.com/",
+    "name": "Custom Kitchen Renovations",
+    "url": "https://customkitchenrenovations.com/",
     "gbp_address": null
    },
    {
-    "name": "DWV Construction, LLC",
-    "url": "https://www.dwvconstruction.com/",
+    "name": "In Your Home",
+    "url": "https://www.iyhusa.com/",
     "gbp_address": null
    },
    {
-    "name": "Portland Tile & Remodels",
-    "url": "https://portlandtile.com/",
+    "name": "Metke Remodeling & Luxury Homes",
+    "url": "https://metkeremodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "Restore Renew Remodel",
-    "url": "https://restorerenewremodel.com/",
+    "name": "Mosaik Design",
+    "url": "https://mosaikdesign.com/",
     "gbp_address": null
    },
    {
-    "name": "Tortoise Construction LLC - Kitchens and Remodeling",
-    "url": "https://tortoiseconstructionllc.com/",
+    "name": "The Remodel Group",
+    "url": "https://theremodelgroup.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Milwaukie, OR"
+   "Tualatin, OR"
   ]
  },
  {
-  "id": "westernbuildingsolutions.com",
-  "name": "Western Building Solutions",
+  "id": "simlersolutions.com",
+  "name": "Simler Solutions LLC | General Contractor & Handyman",
   "region": "R5",
-  "website": "https://www.westernbuildingsolutions.com/",
+  "website": "https://www.simlersolutions.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -445,256 +292,111 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://www.westernbuildingsolutions.com/"
+    "https://www.simlersolutions.com/"
    ],
    "contact": [
-    "https://www.westernbuildingsolutions.com/contact"
+    "https://www.simlersolutions.com/contact-us"
    ],
    "about": [
-    "https://www.westernbuildingsolutions.com/about"
-   ],
-   "gallery": [
-    "https://www.westernbuildingsolutions.com/projects"
-   ],
-   "legal": [
-    "https://www.westernbuildingsolutions.com/privacy-policy"
+    "https://www.simlersolutions.com/about-us"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
-    "date": "2026-07-16",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJPWFJAXtrn0wRzZRrT45Zbi4&hl=en",
+    "date": "2026-10-10",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ486sZAFedU4RtmF6dxAiBA4&hl=en",
     "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
-    "quote": "Called Western Building Solutions to redo my garage"
+    "quote": "Great group of folks who built a new"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWFJAXtrn0wRzZRrT45Zbi4&hl=en",
-  "gbp_title": "Western Building Solutions",
-  "gbp_address": "\ue0c8\n430 Foothill Blvd Ste D, La Ca\u00f1ada Flintridge, CA 91011, United States",
-  "gbp_rating": "5.0\n(52)",
-  "gbp_phone": "phone:tel:+18558536100",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ486sZAFedU4RtmF6dxAiBA4&hl=en",
+  "gbp_title": "Simler Solutions LLC | General Contractor & Handyman",
+  "gbp_address": null,
+  "gbp_rating": "4.9\n(65)",
+  "gbp_phone": "phone:tel:+12088000700",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Hakop Ansuryan",
-    "when": "9 months ago",
+    "reviewer": "Maynard Mcclintock",
+    "when": "Edited 7 months ago",
     "stars": "5 stars",
-    "text": "We originally wanted to add square footage to our existing house for my in-laws to move in, but after going over the pros and cons with Western Building Solutions, we went with their suggestion of building an ADU. They helped us understand \u2026",
-    "owner": "Response from the owner 9 months ago\nMr. Ansuryan,\nThank you for this stellar review, and we hope your in-laws are enjoying the new space! If there is anything else we can help with, please don't hesitate to reach out"
+    "text": "Very pleased with the professional work and skill in building my new deck.\nAccommodating in making unforeseen changes and working with me to customize the final project. High recommendations\nThank you Ryan, Tyler, Austin and Sam",
+    "owner": "Response from the owner 10 months ago\nThank you for the 5-star review! We\u2019re so glad you love your new deck. Our team \u2014 Ryan, Tyler, Austin, and Sam \u2014 appreciated working with you and customizing the project to your vision. We\u2019re grateful for your trust and here anytime you need us!"
    },
    {
-    "reviewer": "Hagop Darbinyan",
-    "when": "a year ago",
+    "reviewer": "Merrill-Lee Pick",
+    "when": "5 months ago",
     "stars": "5 stars",
-    "text": "Our kitchen remodel turned out better than we ever imagined! Jay and Matt were fantastic to work with. They were professional, detail-oriented, and truly committed to quality. They helped bring our vision to life with high-end finishes, \u2026",
-    "owner": "Response from the owner a year ago\nMr. Darbinyan,\nThank you for sharing such kind words about your kitchen remodel experience with us! We\u2019re thrilled to hear that Jay and Matt were able to bring your vision to \u2026 More"
+    "text": "Hard working, knowledgeable, and detailed. We had an issue with our sewer line and Ryan was able to come, diagnose, work, and fix it. He was willing to stop take pictures and explain what had happened and why all that he did needed to be \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much for the thoughtful review and for trusting us during such a stressful situation. Sewer line issues are never fun, especially when unexpected problems are uncovered, but we\u2019re glad Ryan could help diagnose the issue, walk \u2026 More"
    },
    {
-    "reviewer": "Khoren Khatchatourian",
-    "when": "a year ago",
+    "reviewer": "Hannah Harrington",
+    "when": "4 months ago",
     "stars": "5 stars",
-    "text": "Western Building Solutions recently completed a full kitchen remodel for us and we\u2019re really happy with how it turned out. From the initial consultation to the final walkthrough, the team was professional, clear about expectations, and easy \u2026",
-    "owner": "Response from the owner a year ago\nThank you for the kind words and for trusting us with your kitchen remodel. We\u2019re glad to hear the new layout feels more open and functional, and that the final result met your expectations. Staying on budget and on schedule is something we take pride in. We appreciate your support and are here whenever you need us for future projects."
+    "text": "Ryan and his team were able to squeeze my project in after months of battling my insurance company, allowing me to get my house on the market ASAP. Highly recommend!",
+    "owner": "Response from the owner 4 months ago\nThank you for the recommendation, Hannah! We know dealing with insurance delays can be frustrating, so we were happy to help get your project completed and your home ready for the market as quickly as possible. We truly appreciate your trust in our team and wish you all the best with the sale of your home!"
    }
   ],
-  "emails_found": [
-   {
-    "email": "info@westernbuildingsolutions.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@westernbuildingsolutions.com",
-    "page": "https://www.westernbuildingsolutions.com/"
-   }
-  ],
+  "emails_found": [],
   "dm_snippets": [
    {
-    "page": "https://www.westernbuildingsolutions.com/about",
-    "snippet": "The company is licensed by the California Contractors State License Board, CSLB #1139272, and was founded by Jirir \"Jay\" Wosgerijyan and Sevada \"Matt\" Babakhani"
-   },
-   {
-    "page": "https://www.westernbuildingsolutions.com/about",
-    "snippet": "Whichever owner walks your house on day one is the owner who runs your job to the last day - we don't hand projects off to someone you've never spoken to"
-   },
-   {
-    "page": "https://www.westernbuildingsolutions.com/about",
-    "snippet": "Co-Founder"
-   },
-   {
-    "page": "https://www.westernbuildingsolutions.com/about",
-    "snippet": "Co-Founder"
-   },
-   {
-    "page": "https://www.westernbuildingsolutions.com/about",
-    "snippet": "\u2713 The owner who sold you the job is the owner who runs it"
+    "page": "https://www.simlersolutions.com/about-us",
+    "snippet": "Ryan Simler is the owner and general contractor behind Simler Solutions LLC, serving Moscow, Pullman, Lewiston, Clarkston, and the surrounding a"
    }
   ],
   "facebook_links": [
    "http://www.facebook.com/2008/fbml",
-   "https://www.facebook.com/profile.php?id=61576110167890"
+   "https://www.facebook.com/profile.php?id=100086637733333"
   ],
   "instagram_links": [
-   "https://www.instagram.com/westernbuildingsolutions"
+   "https://www.instagram.com/simlersolutions"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 12,
-   "bath": 11,
-   "roof": 1,
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 0,
    "plumb": 0,
    "hvac": 0,
-   "handyman": 0,
+   "handyman": 2,
    "floor": 0,
-   "cabinet": 2,
+   "cabinet": 0,
    "siding": 0,
-   "window": 1,
+   "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 6
+   "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 51",
-   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/67ccc53bd5dd831141060938/1a4d5c44-4d03-40c5-b2ed-416689976751/ADU+backhouse.png?format=2500w = 3,604,536 bytes (HT"
+   "mobile performance score below 60: PSI mobile performance 55",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/6346412e4cd8e95bdc64f64f/ac01a213-89b3-4998-bd8f-5a6224a651bc/ChatGPT+Image+Apr+22%2C+2026%2C+03_28_48+PM.png?form"
   ],
   "competitor_pool": [
    {
-    "name": "ClearChoice Bathrooms",
-    "url": "https://6aa7df79b06d9.site123.me/",
+    "name": "Balustrade Construction Management",
+    "url": "https://bcmbuildersusa.com/",
     "gbp_address": null
    },
    {
-    "name": "Altadena Kitchen Remodeling",
-    "url": "https://www.altadenakitchenremodeling.com/",
+    "name": "Home Grown Projects",
+    "url": "https://homegrown-projects.com/",
     "gbp_address": null
    },
    {
-    "name": "Lungu Construction Group",
-    "url": "https://lunguconstruction.com/",
+    "name": "J&J Maintenance Solutions LLC",
+    "url": "https://www.jjmaintenancesolutionsllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Quality Craftsman & Appliance",
+    "url": "https://qualitycanda.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "La Ca\u00f1ada Flintridge, CA"
-  ]
- },
- {
-  "id": "worldconstructionllc.com",
-  "name": "World Construction LLC",
-  "region": "R5",
-  "website": "https://worldconstructionllc.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://worldconstructionllc.com/"
-   ],
-   "gallery": [
-    "https://worldconstructionllc.com/project-based-installations/",
-    "https://worldconstructionllc.com/bathroom-shower-tiling-project-based-installations-setting-by-location-service/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-09-17",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJoR_KhuO1lVQRTUjTllSwdYk&hl=en",
-    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
-    "quote": "World construction did a wonderful job on the"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJoR_KhuO1lVQRTUjTllSwdYk&hl=en",
-  "gbp_title": "World Construction LLC",
-  "gbp_address": "\ue0c8\n807 NW 21st Ave, Battle Ground, WA 98604, United States",
-  "gbp_rating": "5.0\n(103)",
-  "gbp_phone": "phone:tel:+13608308942",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Tyler Monaghan",
-    "when": "9 months ago",
-    "stars": "5 stars",
-    "text": "World Construction LLC is a phenomenon construction artist.\nWould hire him for any job, came in after a flood. Came in with great assurance insurance. Contract him before your Adjustor. Pre demo \u2026",
-    "owner": "Response from the owner 9 months ago\nThanks Tyler!"
-   },
-   {
-    "reviewer": "Madelynn",
-    "when": "11 months ago",
-    "stars": "5 stars",
-    "text": "Highly recommend!! Needed the shower lowered to make it a roll in shower. I\u2019m in a wheelchair and needed to upgrade my bathroom at an ADA shower and roll under sink!! Anatiliy exceeded my expectations! Hard working, worked fast and focused \u2026",
-    "owner": "Response from the owner 11 months ago\nThank you so much Madelynn! You guys are awesome to work with!"
-   },
-   {
-    "reviewer": "Oleksandr Shelkopliasov",
-    "when": "11 months ago",
-    "stars": "5 stars",
-    "text": "World Construction LLC did an outstanding job on our project! Anatoly and his team were professional, reliable, and highly skilled from start to finish. Every detail was completed with precision and care, and the communication throughout \u2026",
-    "owner": "Response from the owner 11 months ago\nThank you Alex!"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "worldconstructionbusiness@gmail.com",
-    "how": "plain text",
-    "raw": "WorldConstructionBusiness@Gmail.com",
-    "page": "https://worldconstructionllc.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://worldconstructionllc.com/",
-    "snippet": "Founder"
-   },
-   {
-    "page": "https://worldconstructionllc.com/",
-    "snippet": "Hello, I am Anatoliy Rubanenko, the founder of World Construction LLC"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/WorldConstructionLLC"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/worldconstructionllc"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 25,
-   "bath": 22,
-   "roof": 24,
-   "plumb": 12,
-   "hvac": 6,
-   "handyman": 0,
-   "floor": 3,
-   "cabinet": 3,
-   "siding": 31,
-   "window": 31,
-   "pool": 3,
-   "solar": 3,
-   "custom home": 9
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 39"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Compass Contractors LLC",
-    "url": "https://compass.contractors/",
-    "gbp_address": null
-   },
-   {
-    "name": "Revo Kitchen & Bath",
-    "url": "https://revokitchenandbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Riverview Construction",
-    "url": "https://riverviewconstruct.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Battle Ground, WA"
+   "Moscow, ID"
   ]
  }
 ]

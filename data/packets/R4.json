@@ -1,379 +1,195 @@
 [
  {
-  "id": "alpinecleaning.com",
-  "name": "Alpine Cleaning & Restoration Specialists",
+  "id": "stinehome.com",
+  "name": "Stine Home & Yard Natchitoches",
   "region": "R4",
-  "website": "https://alpinecleaning.com/",
+  "website": "https://www.stinehome.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
+  "platform": [],
   "pages_fetched": {
    "home": [
-    "https://alpinecleaning.com/"
+    "https://www.stinehome.com/"
    ],
    "contact": [
-    "https://alpinecleaning.com/contact-us/"
+    "https://www.stinehome.com/customer-service.html",
+    "https://www.stinehome.com/on/demandware.store/Sites-Stine-Site/en_US/ContactUs-Show"
    ],
    "about": [
-    "https://alpinecleaning.com/utah-restoration-company/"
+    "https://www.stinehome.com/our-story.html"
    ],
-   "legal": [
-    "https://alpinecleaning.com/privacy-policy/",
-    "https://alpinecleaning.com/privacy-policy/",
-    "https://alpinecleaning.com/terms-of-service/"
+   "gallery": [
+    "https://www.stinehome.com/projects-guides.html"
    ]
   },
   "auto_signals": [
    {
     "type": "job_posting",
-    "date": "2026-09-30",
-    "url": "https://www.careerbuilder.com/job-details/restoration-technician-smithfield-ut--a49697b9-3aa4-434b-9c03-7af38a0981f8",
+    "date": "2026-10-02",
+    "url": "https://www.ziprecruiter.com/c/stine/Job/Hardware-Sales-Associate-FT/-in-Natchitoches,LA?jid=3b85c4d895c7c728",
     "source": "job posting gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
     "quote": "job posting:"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1bNpsBiVIcRakTjPomjm1c&hl=en",
-  "gbp_title": "Alpine Cleaning & Restoration Specialists",
-  "gbp_address": "\ue0c8\n177 S Main St, Smithfield, UT 84335, United States",
-  "gbp_rating": "4.7\n(369)",
-  "gbp_phone": "phone:tel:+14352926485",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJbV_S5_GHMIYRh5s56tSs8Gk&hl=en",
+  "gbp_title": "Stine Home & Yard Natchitoches",
+  "gbp_address": "\ue0c8\n5690 LA-1, Natchitoches, LA 71457, United States",
+  "gbp_rating": "3.8\n(204)",
+  "gbp_phone": "phone:tel:+13182140065",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Marvin Biggs",
-    "when": "Edited 5 months ago",
+    "reviewer": "Katie Bergeron",
+    "when": "4 months ago",
     "stars": "5 stars",
-    "text": "Trason and his team did a great job of cleaning up and clearing out.  Very helpful in every way. Explained what to expect and what needs to be done. Highly recommend this group. \u2026",
-    "owner": "Response from the owner 6 months ago\nThank you, Marvin \u2014 we\u2019re glad Trason and his team could help with the cleaning up and clearing out and that they were so helpful in explaining what to expect. We really appreciate your recommendation and are here anytime you need us."
+    "text": "I placed an online order and was immediately notified that the washer was not in stock. Chuck did an excellent job of notifying me and working with me to identify items that were in stock. Chuck and Ben provided excellent service on me \u2026",
+    "owner": "Response from the owner 4 months ago\nThanks for your feedback, Katie! We appreciate you sharing your recent experience with us!"
    },
    {
-    "reviewer": "Kasey Alder",
-    "when": "7 months ago",
-    "stars": "5 stars",
-    "text": "So grateful for Alpines quick response to our issue! They were at our house within 24 hours and took care of us - going above and beyond my expectations.  They safely got rid of all the mold and even suggested to us they look in places we \u2026",
-    "owner": "Response from the owner 6 months ago\nThank you so much, Kasey \u2014 we really appreciate your kind words. We're glad Ken and Quinn could respond quickly, take care of the mold, and that the air purifiers helped you feel safe at home."
+    "reviewer": "Tawny Wardell",
+    "when": "3 months ago",
+    "stars": "3 stars",
+    "text": "Every time I drive way to their can never get help to get what I'm looking for they keep the stuff so locked up and staff don't even greet or ask you if you need help \ud83d\ude12 \u2026",
+    "owner": "Response from the owner 3 months ago\nWe are sorry to hear this, Tawny. Thank you for letting us know about your experience. We are sharing your feedback with the leadership team in order to improve our customer service."
    },
    {
-    "reviewer": "Constance Rebecca",
-    "when": "8 months ago",
-    "stars": "2 stars",
-    "text": "Let\u2019s start with the positive: they are very quick to respond at the beginning. Initial contact? Great. First inspection? Professional. The drying crew? Fantastic. Lots of fans, lots of follow-up, lots of reassurance that we were in good \u2026",
-    "owner": "Response from the owner 6 months ago\nThank you for highlighting our quick response, professional inspection, and the drying crew\u2019s efforts. We\u2019re sorry to hear the later communication and remaining work were frustrating, and we appreciate you sharing this feedback to help us improve."
+    "reviewer": "Deneen Franks",
+    "when": "5 months ago",
+    "stars": "3 stars",
+    "text": "These guys are pretty overpriced on the inventory you are so have to usually hunt down help in there also.",
+    "owner": "Response from the owner 5 months ago\nThanks for the review, Deneen. We're sorry to hear that our inventory is hard to find. We'll review that. We do have a price match guarantee: \u2026 More"
    }
   ],
-  "emails_found": [
-   {
-    "email": "info@alpinecleaning.com",
-    "how": "plain text",
-    "raw": "info@alpinecleaning.com",
-    "page": "https://alpinecleaning.com/privacy-policy/"
-   }
-  ],
+  "emails_found": [],
   "dm_snippets": [
    {
-    "page": "https://alpinecleaning.com/utah-restoration-company/",
-    "snippet": "In 1989, founder Chris Harris started the company with little more than determination and a commitment to quality work"
+    "page": "https://www.stinehome.com/our-story.html",
+    "snippet": "said CEO Dennis Stine"
    }
   ],
   "facebook_links": [
-   "https://www.facebook.com/Alpine-Cleaning-and-Restoration-Specialists-124966447044/",
-   "https://www.facebook.com/Alpine-Cleaning-and-Restoration-Specialists-124966447044/reviews",
-   "https://www.facebook.com/AlpineCleaningRestoration",
-   "https://www.facebook.com/alpinecleaningsaltlakecity/reviews",
-   "https://www.facebook.com/profile.php?id=100078242806720"
+   "http://www.facebook.com/stinehomestore"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/stinehome"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 13,
+   "bath": 22,
+   "roof": 14,
+   "plumb": 16,
+   "hvac": 10,
+   "handyman": 0,
+   "floor": 28,
+   "cabinet": 20,
+   "siding": 13,
+   "window": 25,
+   "pool": 7,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 28",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 390px, i.e. 15px wider than the screen; elements past the right edge: ['DIV.slick-track right=4875"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Innovative Remodeling & Designs",
+    "url": "https://innovativeremodeling.design/",
+    "gbp_address": null
+   },
+   {
+    "name": "Poche's Wood Specialties, LLC",
+    "url": "https://www.pocheswoodspecialtiesllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "CG Construction",
+    "url": "https://www.simplywise.com:443/booking-link/cgconstruction1268.simplywise.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Natchitoches, LA"
+  ]
+ },
+ {
+  "id": "woodenspecialties.net",
+  "name": "Wooden Specialties",
+  "region": "R4",
+  "website": "https://www.woodenspecialties.net/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.woodenspecialties.net/"
+   ],
+   "contact": [
+    "https://www.woodenspecialties.net/contact-us/"
+   ],
+   "about": [
+    "https://www.woodenspecialties.net/about-us.html"
+   ],
+   "gallery": [
+    "https://www.woodenspecialties.net/custom-cabinets/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-14",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJd16tfEedJIYRPphhGqo76KQ&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "The design may include hanging sections, drawers, adjustable"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJd16tfEedJIYRPphhGqo76KQ&hl=en",
+  "gbp_title": "Wooden Specialties",
+  "gbp_address": "\ue0c8\n110 Turn Row, Lafayette, LA 70508, United States",
+  "gbp_rating": "4.8\n(24)",
+  "gbp_phone": "phone:tel:+13372378888",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Danny Domingue",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "We had several quotes before choosing to work with Bryan and his team at Wooden Specialties. Even though they were priced reasonable compared to all bids, cost wasn\u2019t the deciding factor. \u2026",
+    "owner": "Response from the owner 11 months ago\nThank you so much for trusting Bryan and our team with your project! It means a lot that you chose to work with us after comparing several bids. We\u2019re thrilled to hear everything came together smoothly and that the finished product exceeded \u2026 More"
+   },
+   {
+    "reviewer": "Lindsey L",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "We had an AMAZING experience with Wooden Specialities. From the first meeting, my husband and I felt as though everyone was so patient with us as we tried to design the perfect entertainment center to meet our families needs. They continued \u2026",
+    "owner": "Response from the owner 11 months ago\nThank you so much for your thoughtful review! We\u2019re thrilled to hear that you and your husband had such a positive experience designing your entertainment center with us. It was a pleasure bringing your vision to life, and we\u2019re so glad you \u2026 More"
+   },
+   {
+    "reviewer": "Kristen Foster",
+    "when": "4 years ago",
+    "stars": "5 stars",
+    "text": "Thank you Wooden Specialties for our beautiful custom cabinets! We highly recommend this awesome company! We have worked with them on multiple projects and each time we are amazed with their beautiful craftsmanship. They built us a custom \u2026",
+    "owner": "Response from the owner 4 years ago\nKristen, we love working with you!  Thank you for your 5 star review and we are looking forward to working with you again on your next project."
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/woodenspecialties/"
   ],
   "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 1,
-   "bath": 1,
-   "roof": 2,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 49",
-   "gallery images over 1MB each: https://alpinecleaning.com/wp-content/uploads/2024/04/Mold-Growing-On-Walls-1.png = 1,099,074 bytes; https://alpinecleaning.com/wp-content/uploads/2024/04/Storm"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Footprints Bath and Tile Broomfield / Boulder",
-    "url": "https://footprintsbathandtile.com/broomfield",
-    "gbp_address": null
-   },
-   {
-    "name": "Foxwood Inc.",
-    "url": "https://www.foxwoodinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Herring Construction & Basement Finishing",
-    "url": "https://herring-construction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Renovate Ease",
-    "url": "https://www.renovateease.com/bountiful",
-    "gbp_address": null
-   },
-   {
-    "name": "Utah Small Jobs LLC",
-    "url": "https://utahsmalljobs.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Dependable Construction LLC",
-    "url": "https://dependableconstructionutah.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "North Salt Lake, UT",
-   "Smithfield, UT"
-  ]
- },
- {
-  "id": "number1son.com",
-  "name": "Number 1 Son Handyman and Home Improvement",
-  "region": "R4",
-  "website": "https://www.number1son.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.number1son.com/"
-   ],
-   "contact": [
-    "https://www.number1son.com/contact-us"
-   ],
-   "about": [
-    "https://www.number1son.com/about-5"
-   ],
-   "gallery": [
-    "https://www.number1son.com/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-09-24",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJLYj8vftME4cRX7zUWex8Wa8&hl=en",
-    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
-    "quote": "Number One Son handyman was quick and thorough!"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYj8vftME4cRX7zUWex8Wa8&hl=en",
-  "gbp_title": "Number 1 Son Handyman and Home Improvement",
-  "gbp_address": null,
-  "gbp_rating": "4.8\n(194)",
-  "gbp_phone": "phone:tel:+18886271766",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Tami Schneider",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "I very much enjoyed Number one Sons employees, contractors,and volunteers.\nEveryone was so polite and enjoying their job  that they were doing, it was a delight to be around them. The work they did was very professional and was \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "M R",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "#1 Son and Cory are great.  I appreciate and am confident that the results of a project are likely to be better than I expected or even imagined.  The quality has been top notch every time.  I highly recommend and will continue to keep them coming back.",
-    "owner": null
-   },
-   {
-    "reviewer": "Cheryl Allen",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "Finding a good handyman is hard these days, but Number 1 Son handyman service delivered great service for our summer projects. Initially, a little hiccup,  but they made it right and got our projects done to our expectations.  We will definitely call again. A trustworthy  dependable service!",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "information@number1son.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:information@number1son.com",
-    "page": "https://www.number1son.com/"
-   },
-   {
-    "email": "information@number-1-son.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:information@number-1-son.com",
-    "page": "https://www.number1son.com/contact-us"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://www.number1son.com/about-5",
-    "snippet": "Drawing inspiration from this, our founder, also an eldest and highly trusted son, became fondly known as the \"Number One Son\" by his parents after watching Charl"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/profile.php?id=61559020067648",
-   "https://www.facebook.com/wix"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/number1sonco",
-   "https://www.instagram.com/wix"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
    "kitchen": 2,
-   "bath": 1,
-   "roof": 1,
-   "plumb": 1,
-   "hvac": 1,
-   "handyman": 3,
-   "floor": 2,
-   "cabinet": 2,
-   "siding": 0,
-   "window": 2,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 52"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Amelias Kitchen and Bath Images",
-    "url": "https://ameliadreamhomes.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Castle Rock Remodeling",
-    "url": "https://castlerockremodels.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Home Pride Bath",
-    "url": "https://www.homepridebath.com/fortcollins-co",
-    "gbp_address": null
-   },
-   {
-    "name": "Home Sky, Inc.",
-    "url": "https://homeskyinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "JM Kitchen & Bath Design",
-    "url": "https://jmwoodworks.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "PREP Basements and Remodeling",
-    "url": "https://prepbasements.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Castle Pines, CO"
-  ]
- },
- {
-  "id": "timberlinetransformations.com",
-  "name": "Timberline Transformations",
-  "region": "R4",
-  "website": "https://www.timberlinetransformations.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.timberlinetransformations.com/"
-   ],
-   "about": [
-    "https://www.timberlinetransformations.com/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-09-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZVsm4XZXE0RcO6d7uOB4Xg&hl=en",
-    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
-    "quote": "Corey and Jimmy of Timberline Transformations are absolutely"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZVsm4XZXE0RcO6d7uOB4Xg&hl=en",
-  "gbp_title": "Timberline Transformations",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(7)",
-  "gbp_phone": "phone:tel:+17204322224",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Katie Fischer",
-    "when": "5 months ago",
-    "stars": "5 stars",
-    "text": "I would highly recommend using Cory. He redid my mother-in-law\u2018s bathroom and it looks absolutely stunning. He was so easy to work with overly accommodating and did it at a great price. We will definitely be using him again in the future and we\u2019ve already recommended him to friends.",
-    "owner": "Response from the owner 5 months ago\nThank you for the kind words Kate. It was a pleasure working with your on her bathroom. Thanks! "
-   },
-   {
-    "reviewer": "Julie Morris McKenny",
-    "when": "10 months ago",
-    "stars": "5 stars",
-    "text": "Cory & Dave did such a nice job on my unconventional home projects.  They were creative, flexible and very knowledgeable.  I so appreciate their hard work & look forward to having them do many more projects in my new home.  Thank you!",
-    "owner": "Response from the owner 10 months ago\nHi Julie, \nThank you for the kind words. We are thrilled you are happy with our work. We are looking forward to helping you out in the future. Thanks Julie! "
-   },
-   {
-    "reviewer": "Kevin Harkin",
-    "when": "10 months ago",
-    "stars": "5 stars",
-    "text": "Great people. On time, professional and good clean up. Used them for several projects and looking for another one.",
-    "owner": "Response from the owner 10 months ago\nThanks for the kind words Kevin! We are delighted you are happy with the work we performed. Looking forward to your next project!"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "tltransformations@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:tltransformations@gmail.com",
-    "page": "https://www.timberlinetransformations.com/"
-   },
-   {
-    "email": "tltransformationsltd@gmail.com",
-    "how": "plain text",
-    "raw": "tltransformationsltd@gmail.com",
-    "page": "https://www.timberlinetransformations.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/profile.php?id=61583588918314"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/timberlinetransformations"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 0,
    "bath": 2,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 0,
+   "cabinet": 8,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -381,42 +197,44 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 43"
+   "mobile performance score below 60: PSI mobile performance 34",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 3890px, i.e. 3515px wider than the screen; elements past the right edge: ['A right=3890', 'IMG rig",
+   "gallery images over 1MB each: https://www.woodenspecialties.net/images/ImageGallery/Kitchen/lisaknight3.JPG = 1,237,704 bytes; https://www.woodenspecialties.net/images/ImageGallery/Kitchen/l"
   ],
   "competitor_pool": [
    {
-    "name": "Amelias Kitchen and Bath Images",
-    "url": "https://ameliadreamhomes.com/",
+    "name": "A.L.I. Home Improvement Company",
+    "url": "https://www.alihomeimprovement.com/",
     "gbp_address": null
    },
    {
-    "name": "Castle Rock Remodeling",
-    "url": "https://castlerockremodels.com/",
+    "name": "Bryan Building and Design",
+    "url": "https://www.bryanbuildinganddesign.com/",
     "gbp_address": null
    },
    {
-    "name": "Home Pride Bath",
-    "url": "https://www.homepridebath.com/fortcollins-co",
+    "name": "Courville Construction",
+    "url": "https://www.courvilleconstruction.com/",
     "gbp_address": null
    },
    {
-    "name": "Home Sky, Inc.",
-    "url": "https://homeskyinc.com/",
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
     "gbp_address": null
    },
    {
-    "name": "JM Kitchen & Bath Design",
-    "url": "https://jmwoodworks.com/",
+    "name": "Home Remodeling Pros Lafayette, LA",
+    "url": "https://www.homeremodelinglafayettela.com/",
     "gbp_address": null
    },
    {
-    "name": "PREP Basements and Remodeling",
-    "url": "https://prepbasements.com/",
+    "name": "Kingdom Builders",
+    "url": "https://www.kingdombuilderia.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Castle Pines, CO"
+   "Youngsville, LA"
   ]
  }
 ]
