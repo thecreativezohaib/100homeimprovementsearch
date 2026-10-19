@@ -1090,3 +1090,5 @@
 {"id": "builtbyblueridge.com", "tested_url": "https://builtbyblueridge.com/", "attempts": [{"at": "2026-10-19T06:16:27+00:00", "http": 200}], "psi_score": 59, "psi_date": "2026-10-19T06:16:27+00:00"}
 {"id": "builtmooreaz.com", "tested_url": "https://builtmooreaz.com/", "attempts": [{"at": "2026-10-19T06:16:44+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:17:18+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "burnshomeconstructioninc.com", "tested_url": "https://burnshomeconstructioninc.com/", "attempts": [{"at": "2026-10-19T06:17:52+00:00", "http": 200}], "psi_score": 78, "psi_date": "2026-10-19T06:17:52+00:00"}
+{"id": "bzinstaller.com", "tested_url": "https://www.bzinstaller.com/", "attempts": [{"at": "2026-10-19T06:18:12+00:00", "http": 200}], "psi_score": 55, "psi_date": "2026-10-19T06:18:12+00:00"}
+{"id": "cabinexremodeling.com", "tested_url": "https://home.cabinexremodeling.com/", "attempts": [{"at": "2026-10-19T06:18:29+00:00", "http": 200}], "psi_score": 62, "psi_date": "2026-10-19T06:18:29+00:00"}
