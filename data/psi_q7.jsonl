@@ -623,3 +623,5 @@
 {"id": "restorationsunlimitedme.com", "tested_url": "https://www.restorationsunlimitedme.com/", "attempts": [{"at": "2026-10-19T08:24:02+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T08:24:36+00:00", "http": 200}], "psi_score": 67, "psi_date": "2026-10-19T08:24:36+00:00"}
 {"id": "southcoastbuildersinc.com", "tested_url": "https://southcoastbuildersinc.com/", "attempts": [{"at": "2026-10-19T08:25:00+00:00", "http": 200}], "psi_score": 80, "psi_date": "2026-10-19T08:25:00+00:00"}
 {"id": "straightlineconst.com", "tested_url": "https://www.straightlineconst.com/", "attempts": [{"at": "2026-10-19T08:25:10+00:00", "http": 200}], "psi_score": 59, "psi_date": "2026-10-19T08:25:10+00:00"}
+{"id": "t-a-interiors.com", "tested_url": "https://t-a-interiors.com/", "attempts": [{"at": "2026-10-19T08:25:31+00:00", "http": 200}], "psi_score": 60, "psi_date": "2026-10-19T08:25:31+00:00"}
+{"id": "templetonbc.com", "tested_url": "https://www.templetonbc.com/", "attempts": [{"at": "2026-10-19T08:25:49+00:00", "error": "TypeError"}, {"at": "2026-10-19T08:26:07+00:00", "error": "TypeError"}], "psi_score": "PSI_TIMEOUT"}
