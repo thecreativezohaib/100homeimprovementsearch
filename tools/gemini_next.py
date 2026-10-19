@@ -41,11 +41,29 @@ for cid, c in L.items():
     if [k for k, v in g.items() if v == "FAIL" and k != "G4"]:
         continue
     new.append((cid, c, s, m))
+# agent-checked firms that are real kitchen and bath remodellers but stopped at G4 with no Google review yet:
+# one newest-review date from Gemini can complete their G4, so they go first (priority NEXT-A)
+from decide import first_fail  # noqa: E402
+rev = {x["id"] for x in __import__("decide").jl(f"{D}/reviews_user.jsonl")}
+top = []
+for cid, m in man.items():
+    if cid in listed or cid in rev or cid not in L:
+        continue
+    if str(m.get("niche_ok")).lower() != "true":
+        continue
+    ev = evaluate(L[cid], d)
+    if ev.get("niche") == "FAIL" or first_fail(ev)[0] != "G4":
+        continue
+    if "google_review" in {x["type"] for x in ev["ev"].get("g4_signals") or []}:
+        continue
+    s, mp = site.get(cid), maps.get(cid)
+    if s and mp and mp.get("title"):
+        top.append((cid, L[cid], s, mp))
 start = max(int(r["row"]) for r in fc) + 1
 with open(f"{O}/firms_complete.csv", "a", newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(fc[0].keys()))
-    for i, (cid, c, s, m) in enumerate(new):
-        w.writerow({"row": start + i, "priority": "NEXT", "prospect_id": cid, "business_name": m.get("title") or c["name"],
+    for i, (cid, c, s, m) in enumerate(top + new):
+        w.writerow({"row": start + i, "priority": "NEXT-A" if i < len(top) else "NEXT", "prospect_id": cid, "business_name": m.get("title") or c["name"],
                     "address": (m.get("address") or "").replace("", "").strip(),
                     "phone": (m.get("phone") or "").replace("phone:tel:", ""), "website": s["final_url"],
                     "maps_url": m.get("gbp_url"), "have_already": "none"})
@@ -53,13 +71,13 @@ fc = list(csv.DictReader(open(f"{O}/firms_complete.csv")))
 buf = io.StringIO(); w = csv.writer(buf, lineterminator="\n")
 w.writerow(["row", "business_name", "address", "website", "maps_url", "facebook", "instagram"])
 n = 0
-for r in fc:
-    if r["row"] in answered or r["priority"] != "NEXT":
+for r in sorted(fc, key=lambda r: r["priority"] != "NEXT-A"):
+    if r["row"] in answered or r["priority"] not in ("NEXT", "NEXT-A"):
         continue
     c = L.get(r["prospect_id"])
     if c:  # drop firms that have since failed another gate (e.g. G9 after the browser run)
         ev = evaluate(c, d)
-        if ev.get("niche") == "FAIL" or [k for k, v in ev["gates"].items() if v == "FAIL" and k != "G4"] or ev["gates"].get("G4") == "PASS":
+        if r["priority"] == "NEXT" and (ev.get("niche") == "FAIL" or [k for k, v in ev["gates"].items() if v == "FAIL" and k != "G4"] or ev["gates"].get("G4") == "PASS"):
             continue
     s = site.get(r["prospect_id"]) or {}
     w.writerow([r["row"], r["business_name"], r["address"], r["website"], r["maps_url"], acct(s.get("facebook_links")), acct(s.get("instagram_links"))])
@@ -69,4 +87,4 @@ open(f"{O}/GEMINI_NEXT.md", "w").write(
     f"# Remodel 100: Gemini file NEXT ({n} firms, all outstanding)\n\nThis one file always holds every firm still waiting for Gemini. "
     f"It is rebuilt as new firms qualify, so download the newest copy each time. Split it across several Gemini chats if it is long "
     f"(about 100 rows per chat).\n\n## Prompt{prompt}## Companies\n```csv\n{buf.getvalue()}```\n")
-print("added", len(new), "outstanding", n)
+print("added", len(top), "agent-confirmed (first) +", len(new), "new; outstanding", n)

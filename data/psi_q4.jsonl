@@ -1100,3 +1100,6 @@
 {"id": "cazconstruction.com", "tested_url": "https://www.cazconstruction.com/", "attempts": [{"at": "2026-10-19T06:20:30+00:00", "http": 200}], "psi_score": 59, "psi_date": "2026-10-19T06:20:30+00:00"}
 {"id": "cdremodelinginc.com", "tested_url": "https://cdremodelinginc.com/", "attempts": [{"at": "2026-10-19T06:20:52+00:00", "http": 200}], "psi_score": 93, "psi_date": "2026-10-19T06:20:52+00:00"}
 {"id": "cerretticabinetsandconstruction.com", "tested_url": "https://cerretticabinetsandconstruction.com/", "attempts": [{"at": "2026-10-19T06:21:09+00:00", "http": 200}], "psi_score": 65, "psi_date": "2026-10-19T06:21:09+00:00"}
+{"id": "changingspaceskb.com", "tested_url": "https://changingspaceskb.com/", "attempts": [{"at": "2026-10-19T06:21:21+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:21:55+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "cherokeeriverservices.com", "tested_url": "https://cherokeeriverservices.com/", "attempts": [{"at": "2026-10-19T06:22:28+00:00", "http": 200}], "psi_score": 58, "psi_date": "2026-10-19T06:22:28+00:00"}
+{"id": "chimacontracting.com", "tested_url": "https://www.chimacontracting.com/", "attempts": [{"at": "2026-10-19T06:22:49+00:00", "http": 200}], "psi_score": 63, "psi_date": "2026-10-19T06:22:49+00:00"}
