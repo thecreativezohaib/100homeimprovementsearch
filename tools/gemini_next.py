@@ -71,13 +71,16 @@ fc = list(csv.DictReader(open(f"{O}/firms_complete.csv")))
 buf = io.StringIO(); w = csv.writer(buf, lineterminator="\n")
 w.writerow(["row", "business_name", "address", "website", "maps_url", "facebook", "instagram"])
 n = 0
-for r in sorted(fc, key=lambda r: r["priority"] != "NEXT-A"):
+agent_ok = {k for k, m in man.items() if str(m.get("niche_ok")).lower() == "true" and str(m.get("stopped_at")) == "G4"}
+for r in sorted(fc, key=lambda r: not (r["priority"] == "NEXT-A" or r["prospect_id"] in agent_ok)):  # agent-confirmed firms first
     if r["row"] in answered or r["priority"] not in ("NEXT", "NEXT-A"):
         continue
     c = L.get(r["prospect_id"])
     if c:  # drop firms that have since failed another gate (e.g. G9 after the browser run)
         ev = evaluate(c, d)
-        if r["priority"] == "NEXT" and (ev.get("niche") == "FAIL" or [k for k, v in ev["gates"].items() if v == "FAIL" and k != "G4"] or ev["gates"].get("G4") == "PASS"):
+        # an agent that stopped at G4 never assessed G6, so its empty decision maker is not a G6 failure
+        skip = {"G4", "G6"} if str((man.get(r["prospect_id"]) or {}).get("stopped_at")) == "G4" else {"G4"}
+        if r["priority"] == "NEXT" and (ev.get("niche") == "FAIL" or [k for k, v in ev["gates"].items() if v == "FAIL" and k not in skip] or ev["gates"].get("G4") == "PASS"):
             continue
     s = site.get(r["prospect_id"]) or {}
     w.writerow([r["row"], r["business_name"], r["address"], r["website"], r["maps_url"], acct(s.get("facebook_links")), acct(s.get("instagram_links"))])
