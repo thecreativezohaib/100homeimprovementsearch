@@ -889,3 +889,4 @@
 {"id": "northwestohioremod.wixsite.com/northwest-ohio-remod", "tested_url": "https://northwestohioremod.wixsite.com/northwest-ohio-remod", "attempts": [{"at": "2026-10-19T06:07:10+00:00", "http": 200}], "psi_score": 71, "psi_date": "2026-10-19T06:07:10+00:00"}
 {"id": "cabave.com", "tested_url": "https://www.cabave.com/", "attempts": [{"at": "2026-10-19T06:07:30+00:00", "http": 200}], "psi_score": 56, "psi_date": "2026-10-19T06:07:30+00:00"}
 {"id": "wisehomeimprove.com", "tested_url": "https://wisehomeimprove.com/", "attempts": [{"at": "2026-10-19T06:07:49+00:00", "http": 200}], "psi_score": 98, "psi_date": "2026-10-19T06:07:49+00:00"}
+{"id": "willowcreekbuilds.com", "tested_url": "https://www.willowcreekbuilds.com/", "attempts": [{"at": "2026-10-19T06:07:58+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:08:32+00:00", "http": 200}], "psi_score": 67, "psi_date": "2026-10-19T06:08:32+00:00"}
