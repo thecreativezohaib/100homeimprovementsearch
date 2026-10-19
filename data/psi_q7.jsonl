@@ -229,3 +229,5 @@
 {"id": "essenter-inc.com", "tested_url": "https://essenter-inc.com/", "attempts": [{"at": "2026-10-19T05:11:10+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T05:11:44+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "ezbathnshower.com", "tested_url": "https://ezbathnshower.com/", "attempts": [{"at": "2026-10-19T05:12:17+00:00", "http": 200}], "psi_score": 42, "psi_date": "2026-10-19T05:12:17+00:00"}
 {"id": "faithbuiltid.com", "tested_url": "https://www.faithbuiltit.com/", "attempts": [{"at": "2026-10-19T05:12:39+00:00", "http": 200}], "psi_score": 60, "psi_date": "2026-10-19T05:12:39+00:00"}
+{"id": "firmandstrong.com", "tested_url": "https://firmandstrong.com/", "attempts": [{"at": "2026-10-19T05:12:55+00:00", "http": 200}], "psi_score": 57, "psi_date": "2026-10-19T05:12:55+00:00"}
+{"id": "fortcollinshomeremodeling.com", "tested_url": "https://fortcollinshomeremodeling.com/", "attempts": [{"at": "2026-10-19T05:13:10+00:00", "http": 200}], "psi_score": 60, "psi_date": "2026-10-19T05:13:10+00:00"}
