@@ -1,11 +1,14 @@
 # Remodel 100: final report (run date 2026-10-14, updated 2026-10-19)
 
-**Result so far: 63 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard
-gates on evidence, every one passed a visual photo review, all 63 have template content captured, and each
+**Result so far: 64 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard
+gates on evidence, every one passed a visual photo review, all 64 have template content captured, and each
 gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "Still in progress").
 
-## How the count grew (18, then 24, 36, 40, 44, 46, 48, 49, 53, 54, 59, 61, 62, 63)
-- **2026-10-19: no change (63).** Discovery rounds 12 to 16 (1,500 more towns of 4,000 people and up) and a deeper
+## How the count grew (18, then 24, 36, 40, 44, 46, 48, 49, 53, 54, 59, 61, 62, 63, 64)
+- **2026-10-19: Craftsman Design and Renovation (Portland, OR) passed (64).** Its title leads with kitchen and bathroom
+  remodel, with a dated project post and a Pinterest pin in the window, 11 original project photos and PSI 56 and 57.
+  Somrak Kitchens (Cleveland) passed everything except G3 and joined the bench list.
+- **2026-10-19, earlier:** Discovery rounds 12 to 16 (1,500 more towns of 4,000 people and up) and a deeper
   photo crawl that follows each firm's portfolio, project and gallery pages (5,509 firms; 1,011 reached 8 originals).
   88 agent checks followed in waves 21 to 23: none passed. Most failed niche; the kitchen and bath specialists that
   remained stopped at G4 (one dated activity type only) or G6 (no full name on their own site) and are now first in
@@ -34,10 +37,10 @@ gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "St
 | | |
 |---|---|
 | Discovered (unique companies after dedupe) | 58,347 |
-| **Passed all gates** (`prospects100.csv`) | **63** |
+| **Passed all gates** (`prospects100.csv`) | **64** |
 | Contact-only (everything except a published email) | 10 |
-| Bench-vendor (failed only G3; vendor named; G8 defect measured) | 12 |
-| Rejected or not yet completed (`rejected.csv`) | 58,086 |
+| Bench-vendor (failed only G3; vendor named; G8 defect measured) | 13 |
+| Rejected or not yet completed (`rejected.csv`) | 58,079 |
 
 Rejections by first failing gate: G2 18,635; G4 14,845; NICHE 14,245; G3 9,951; G5 343; G6 51; G7 14; G8 2. G4 is still
 the main filter: most firms show no dated review, post, job or permit inside 2026-07-16 to 2026-10-14.
@@ -63,7 +66,7 @@ the main filter: most firms show no dated review, post, job or permit inside 202
   Microsoft Ads 1, Angi 1.
 
 ## Still in progress
-- `output/review_requests/all/GEMINI_NEXT.md` is the single cumulative Gemini file (about 580 firms). Firms that agents
+- `output/review_requests/all/GEMINI_NEXT.md` is the single cumulative Gemini file (about 720 firms). Firms that agents
   already confirmed as kitchen and bath specialists are listed first; one in-window Google review completes their G4.
   `tools/ingest_gemini_all.py` imports the CSV Gemini returns.
 - Discovery round 16 (site checks) and round 17 (269 towns) are running. The pool of unsearched towns of 4,000 to

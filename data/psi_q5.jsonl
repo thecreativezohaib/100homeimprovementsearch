@@ -1624,3 +1624,4 @@
 {"id": "dimensions.construction", "tested_url": "https://www.dimensions.construction/", "attempts": [{"at": "2026-10-19T13:11:11+00:00", "http": 200}], "psi_score": 76, "psi_date": "2026-10-19T13:11:11+00:00"}
 {"id": "elementsofthehome.com", "tested_url": "https://elementsofthehome.com/", "attempts": [{"at": "2026-10-19T13:11:40+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T13:12:13+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "forma.construction", "tested_url": "https://forma.construction/", "attempts": [{"at": "2026-10-19T13:12:47+00:00", "http": 200}], "psi_score": 53, "psi_date": "2026-10-19T13:12:47+00:00"}
+{"id": "guciremodeling.com", "tested_url": "https://www.guciremodeling.com/", "attempts": [{"at": "2026-10-19T13:13:07+00:00", "http": 200}], "psi_score": 67, "psi_date": "2026-10-19T13:13:07+00:00"}
