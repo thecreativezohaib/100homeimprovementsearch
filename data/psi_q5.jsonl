@@ -1093,3 +1093,5 @@
 {"id": "bnsremodels.com", "tested_url": "https://www.bnsremodels.com/", "attempts": [{"at": "2026-10-19T06:15:59+00:00", "http": 200}], "psi_score": 79, "psi_date": "2026-10-19T06:15:59+00:00"}
 {"id": "borarenovations.com", "tested_url": "http://www.borarenovations.com/", "attempts": [{"at": "2026-10-19T06:16:19+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:16:52+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "bowmancabinets.com", "tested_url": "https://bowmancabinets.com/", "attempts": [{"at": "2026-10-19T06:17:26+00:00", "http": 200}], "psi_score": 59, "psi_date": "2026-10-19T06:17:26+00:00"}
+{"id": "brennerhomeremodel.com", "tested_url": "https://www.brennerhomeremodel.com/", "attempts": [{"at": "2026-10-19T06:17:42+00:00", "http": 200}], "psi_score": 56, "psi_date": "2026-10-19T06:17:42+00:00"}
+{"id": "brucebrothersconstruction.com", "tested_url": "https://brucebrothersconstruction.com/", "attempts": [{"at": "2026-10-19T06:18:02+00:00", "http": 200}], "psi_score": 59, "psi_date": "2026-10-19T06:18:02+00:00"}
