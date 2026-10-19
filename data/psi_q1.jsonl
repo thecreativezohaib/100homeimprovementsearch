@@ -904,3 +904,4 @@
 {"id": "bluemoonrental.com", "tested_url": "https://www.bluemoonrental.com/", "attempts": [{"at": "2026-10-19T06:12:17+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:12:50+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "twinpinesvt.com", "tested_url": "https://twinpinesvt.com/", "attempts": [{"at": "2026-10-19T06:13:24+00:00", "http": 200}], "psi_score": 49, "psi_date": "2026-10-19T06:13:24+00:00"}
 {"id": "baysidehomerepairs.com", "tested_url": "https://baysidehomerepairs.com/", "attempts": [{"at": "2026-10-19T06:13:38+00:00", "http": 200}], "psi_score": 94, "psi_date": "2026-10-19T06:13:38+00:00"}
+{"id": "wessonbuilders.com", "tested_url": "https://wessonbuilders.com/", "attempts": [{"at": "2026-10-19T06:13:55+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:14:28+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}

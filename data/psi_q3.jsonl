@@ -893,3 +893,4 @@
 {"id": "leitnerconstruction.com", "tested_url": "https://www.leitnerconstruction.com/", "attempts": [{"at": "2026-10-19T06:13:06+00:00", "http": 200}], "psi_score": 56, "psi_date": "2026-10-19T06:13:06+00:00"}
 {"id": "redesigncontractors.com", "tested_url": "https://redesigncontractors.com/", "attempts": [{"at": "2026-10-19T06:13:21+00:00", "http": 200}], "psi_score": 56, "psi_date": "2026-10-19T06:13:21+00:00"}
 {"id": "chillicotheremodel.com", "tested_url": "http://chillicotheremodel.com/", "attempts": [{"at": "2026-10-19T06:13:41+00:00", "http": 200}], "psi_score": 43, "psi_date": "2026-10-19T06:13:41+00:00"}
+{"id": "pinnacleconstructionnj.com", "tested_url": "https://www.pinnacleconstructionnj.com/", "attempts": [{"at": "2026-10-19T06:13:59+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:14:32+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}

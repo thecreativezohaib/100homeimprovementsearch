@@ -436,7 +436,10 @@ def g8(c, s, b, p):
             found.append(("gallery images over 1MB each", "; ".join(f"{x['url']} = {x['bytes']:,} bytes" for x in big[:4]),
                           b.get("gallery_tested") or b.get("final_url"), b["tested"][:10]))
     if s:
-        big = s.get("served_sizes_over_1mb") or []
+        # Wix originals (static.wixstatic.com/media/<id>~mv2.<ext> with no /v1/ transform) appear in page code but
+        # visitors are served resized copies, so they are not a measured defect
+        big = [x for x in s.get("served_sizes_over_1mb") or []
+               if not ("static.wixstatic.com/media/" in x["url"] and "/v1/" not in x["url"])]
         if len(big) >= 2 and not any(f[0].startswith("gallery images") for f in found):
             found.append(("gallery images over 1MB each", "; ".join(f"{x['url']} = {x['bytes']:,} bytes (HTTP Content-Length)" for x in big[:4]),
                           s["final_url"], s["fetch_date"]))
