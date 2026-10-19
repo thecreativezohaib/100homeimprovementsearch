@@ -65,6 +65,9 @@ def main():
             "locations_seen": c["locations_seen"],
         })
     os.makedirs(f"{D}/packets", exist_ok=True)
+    for r in ("R1", "R2", "R3", "R4", "R5"):  # a region with no packets this run must not keep an older file
+        if r not in packets and os.path.exists(f"{D}/packets/{r}.json"):
+            os.remove(f"{D}/packets/{r}.json")
     tot = 0
     for r, lst in sorted(packets.items()):
         with open(f"{D}/packets/{r}.json", "w") as f:
