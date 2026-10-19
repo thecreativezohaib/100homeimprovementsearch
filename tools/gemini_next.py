@@ -41,8 +41,8 @@ for cid, c in L.items():
     if [k for k, v in g.items() if v == "FAIL" and k != "G4"]:
         continue
     new.append((cid, c, s, m))
-# agent-checked firms that are real kitchen and bath remodellers but stopped at G4 with no Google review yet:
-# one newest-review date from Gemini can complete their G4, so they go first (priority NEXT-A)
+# agent-checked firms that are real kitchen and bath remodellers but stopped at G4: one more dated signal type from Gemini
+# (newest Google review, Facebook or Instagram post, or dated job ad) can complete their G4, so they go first (priority NEXT-A)
 from decide import first_fail  # noqa: E402
 rev = {x["id"] for x in __import__("decide").jl(f"{D}/reviews_user.jsonl")}
 top = []
@@ -54,8 +54,7 @@ for cid, m in man.items():
     ev = evaluate(L[cid], d)
     if ev.get("niche") == "FAIL" or first_fail(ev)[0] != "G4":
         continue
-    if "google_review" in {x["type"] for x in ev["ev"].get("g4_signals") or []}:
-        continue
+    # firms whose one type is already a Google review stay in: Gemini also returns Facebook, Instagram and job-ad dates
     s, mp = site.get(cid), maps.get(cid)
     if s and mp and mp.get("title"):
         top.append((cid, L[cid], s, mp))
