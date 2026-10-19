@@ -105,3 +105,16 @@ R2 bathroom remodeler|Union, KY 20
 R2 kitchen remodeler|Dacula, GA 21
 R2 bathroom remodeler|Dacula, GA 20
 R2 kitchen remodeler|Millsboro, DE 20
+R2 bathroom remodeler|Millsboro, DE 20
+ERR kitchen remodeler|Ripley, TN page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('div[role=feed]') to be visible[22m
+
+R2 bathroom remodeler|Ripley, TN 15
+R2 kitchen remodeler|Swainsboro, GA 7
+R2 bathroom remodeler|Swainsboro, GA 20
+R2 kitchen remodeler|London, KY 20
+R2 bathroom remodeler|London, KY 20
+R2 kitchen remodeler|Dahlonega, GA 20
+R2 bathroom remodeler|Dahlonega, GA 20
+R2 kitchen remodeler|Mount Sterling, KY 12
