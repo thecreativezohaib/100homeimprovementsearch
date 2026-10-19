@@ -56,6 +56,11 @@ n = 0
 for r in fc:
     if r["row"] in answered or r["priority"] != "NEXT":
         continue
+    c = L.get(r["prospect_id"])
+    if c:  # drop firms that have since failed another gate (e.g. G9 after the browser run)
+        ev = evaluate(c, d)
+        if ev.get("niche") == "FAIL" or [k for k, v in ev["gates"].items() if v == "FAIL" and k != "G4"] or ev["gates"].get("G4") == "PASS":
+            continue
     s = site.get(r["prospect_id"]) or {}
     w.writerow([r["row"], r["business_name"], r["address"], r["website"], r["maps_url"], acct(s.get("facebook_links")), acct(s.get("instagram_links"))])
     n += 1
