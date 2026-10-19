@@ -349,3 +349,5 @@
 {"id": "bathrefinery.com", "tested_url": "https://www.bathrefinery.com/", "attempts": [{"at": "2026-10-19T06:12:04+00:00", "http": 200}], "psi_score": 58, "psi_date": "2026-10-19T06:12:04+00:00"}
 {"id": "bathroomremodelingaurora.com", "tested_url": "https://bathroomremodelingaurora.com/", "attempts": [{"at": "2026-10-19T06:12:18+00:00", "http": 200}], "psi_score": 88, "psi_date": "2026-10-19T06:12:18+00:00"}
 {"id": "batonrougekitchenbathroomremodels.com", "tested_url": "https://batonrougekitchenbathroomremodels.com/", "attempts": [{"at": "2026-10-19T06:12:34+00:00", "http": 200}], "psi_score": 53, "psi_date": "2026-10-19T06:12:34+00:00"}
+{"id": "bbremodelingmn.com", "tested_url": "https://bbremodelingmn.com/", "attempts": [{"at": "2026-10-19T06:12:55+00:00", "http": 200}], "psi_score": 73, "psi_date": "2026-10-19T06:12:55+00:00"}
+{"id": "becladllc.net", "tested_url": "https://www.becladllc.net/", "attempts": [{"at": "2026-10-19T06:13:10+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:13:43+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}

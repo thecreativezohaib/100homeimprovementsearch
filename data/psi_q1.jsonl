@@ -901,3 +901,6 @@
 {"id": "karoocontracting.com", "tested_url": "https://www.karoocontracting.com/", "attempts": [{"at": "2026-10-19T06:11:14+00:00", "http": 200}], "psi_score": 83, "psi_date": "2026-10-19T06:11:14+00:00"}
 {"id": "repairsandcleaning.com", "tested_url": "https://www.repairsandcleaning.com/", "attempts": [{"at": "2026-10-19T06:11:33+00:00", "http": 200}], "psi_score": 72, "psi_date": "2026-10-19T06:11:33+00:00"}
 {"id": "wildnwonderfulcontracting.com", "tested_url": "https://www.wildnwonderfulcontracting.com/", "attempts": [{"at": "2026-10-19T06:11:57+00:00", "http": 200}], "psi_score": 81, "psi_date": "2026-10-19T06:11:57+00:00"}
+{"id": "bluemoonrental.com", "tested_url": "https://www.bluemoonrental.com/", "attempts": [{"at": "2026-10-19T06:12:17+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:12:50+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "twinpinesvt.com", "tested_url": "https://twinpinesvt.com/", "attempts": [{"at": "2026-10-19T06:13:24+00:00", "http": 200}], "psi_score": 49, "psi_date": "2026-10-19T06:13:24+00:00"}
+{"id": "baysidehomerepairs.com", "tested_url": "https://baysidehomerepairs.com/", "attempts": [{"at": "2026-10-19T06:13:38+00:00", "http": 200}], "psi_score": 94, "psi_date": "2026-10-19T06:13:38+00:00"}
