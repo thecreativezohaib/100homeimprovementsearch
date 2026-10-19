@@ -1,195 +1,88 @@
 [
  {
-  "id": "stinehome.com",
-  "name": "Stine Home & Yard Natchitoches",
+  "id": "crosskitchenskc.com",
+  "name": "Cross Kitchens KC",
   "region": "R4",
-  "website": "https://www.stinehome.com/",
+  "website": "https://crosskitchenskc.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
-  "platform": [],
+  "platform": [
+   "WordPress"
+  ],
   "pages_fetched": {
    "home": [
-    "https://www.stinehome.com/"
+    "https://crosskitchenskc.com/"
    ],
    "contact": [
-    "https://www.stinehome.com/customer-service.html",
-    "https://www.stinehome.com/on/demandware.store/Sites-Stine-Site/en_US/ContactUs-Show"
+    "https://crosskitchenskc.com/contact/"
    ],
    "about": [
-    "https://www.stinehome.com/our-story.html"
+    "https://crosskitchenskc.com/about/"
    ],
    "gallery": [
-    "https://www.stinehome.com/projects-guides.html"
+    "https://crosskitchenskc.com/gallery/"
    ]
   },
   "auto_signals": [
    {
-    "type": "job_posting",
-    "date": "2026-10-02",
-    "url": "https://www.ziprecruiter.com/c/stine/Job/Hardware-Sales-Associate-FT/-in-Natchitoches,LA?jid=3b85c4d895c7c728",
-    "source": "job posting gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
-    "quote": "job posting:"
+    "type": "site_dated_content",
+    "date": "2026-09-01",
+    "url": "https://crosskitchenskc.com/blog/fuller-project-showcase-creating-the-feel-of-an-exquisite-hotel-bathroom/",
+    "quote": "wp-json/posts published 2026-09-01T23:30:04: 'Fuller Project Showcase: Creating the Feel of an Exquisite Hotel Bathroom'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJbV_S5_GHMIYRh5s56tSs8Gk&hl=en",
-  "gbp_title": "Stine Home & Yard Natchitoches",
-  "gbp_address": "\ue0c8\n5690 LA-1, Natchitoches, LA 71457, United States",
-  "gbp_rating": "3.8\n(204)",
-  "gbp_phone": "phone:tel:+13182140065",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5ZiClP_wIcRIeHIUzH0Wrg&hl=en",
+  "gbp_title": "Cross Kitchens KC",
+  "gbp_address": null,
+  "gbp_rating": "4.7\n(59)",
+  "gbp_phone": "phone:tel:+18168987047",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Katie Bergeron",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "I placed an online order and was immediately notified that the washer was not in stock. Chuck did an excellent job of notifying me and working with me to identify items that were in stock. Chuck and Ben provided excellent service on me \u2026",
-    "owner": "Response from the owner 4 months ago\nThanks for your feedback, Katie! We appreciate you sharing your recent experience with us!"
-   },
-   {
-    "reviewer": "Tawny Wardell",
+    "reviewer": "Josh Chapman",
     "when": "3 months ago",
-    "stars": "3 stars",
-    "text": "Every time I drive way to their can never get help to get what I'm looking for they keep the stuff so locked up and staff don't even greet or ask you if you need help \ud83d\ude12 \u2026",
-    "owner": "Response from the owner 3 months ago\nWe are sorry to hear this, Tawny. Thank you for letting us know about your experience. We are sharing your feedback with the leadership team in order to improve our customer service."
-   },
-   {
-    "reviewer": "Deneen Franks",
-    "when": "5 months ago",
-    "stars": "3 stars",
-    "text": "These guys are pretty overpriced on the inventory you are so have to usually hunt down help in there also.",
-    "owner": "Response from the owner 5 months ago\nThanks for the review, Deneen. We're sorry to hear that our inventory is hard to find. We'll review that. We do have a price match guarantee: \u2026 More"
-   }
-  ],
-  "emails_found": [],
-  "dm_snippets": [
-   {
-    "page": "https://www.stinehome.com/our-story.html",
-    "snippet": "said CEO Dennis Stine"
-   }
-  ],
-  "facebook_links": [
-   "http://www.facebook.com/stinehomestore"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/stinehome"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 13,
-   "bath": 22,
-   "roof": 14,
-   "plumb": 16,
-   "hvac": 10,
-   "handyman": 0,
-   "floor": 28,
-   "cabinet": 20,
-   "siding": 13,
-   "window": 25,
-   "pool": 7,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 28",
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 390px, i.e. 15px wider than the screen; elements past the right edge: ['DIV.slick-track right=4875"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Innovative Remodeling & Designs",
-    "url": "https://innovativeremodeling.design/",
-    "gbp_address": null
-   },
-   {
-    "name": "Poche's Wood Specialties, LLC",
-    "url": "https://www.pocheswoodspecialtiesllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "CG Construction",
-    "url": "https://www.simplywise.com:443/booking-link/cgconstruction1268.simplywise.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Natchitoches, LA"
-  ]
- },
- {
-  "id": "woodenspecialties.net",
-  "name": "Wooden Specialties",
-  "region": "R4",
-  "website": "https://www.woodenspecialties.net/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://www.woodenspecialties.net/"
-   ],
-   "contact": [
-    "https://www.woodenspecialties.net/contact-us/"
-   ],
-   "about": [
-    "https://www.woodenspecialties.net/about-us.html"
-   ],
-   "gallery": [
-    "https://www.woodenspecialties.net/custom-cabinets/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-14",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJd16tfEedJIYRPphhGqo76KQ&hl=en",
-    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
-    "quote": "The design may include hanging sections, drawers, adjustable"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJd16tfEedJIYRPphhGqo76KQ&hl=en",
-  "gbp_title": "Wooden Specialties",
-  "gbp_address": "\ue0c8\n110 Turn Row, Lafayette, LA 70508, United States",
-  "gbp_rating": "4.8\n(24)",
-  "gbp_phone": "phone:tel:+13372378888",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Danny Domingue",
-    "when": "11 months ago",
     "stars": "5 stars",
-    "text": "We had several quotes before choosing to work with Bryan and his team at Wooden Specialties. Even though they were priced reasonable compared to all bids, cost wasn\u2019t the deciding factor. \u2026",
-    "owner": "Response from the owner 11 months ago\nThank you so much for trusting Bryan and our team with your project! It means a lot that you chose to work with us after comparing several bids. We\u2019re thrilled to hear everything came together smoothly and that the finished product exceeded \u2026 More"
+    "text": "We had a great experience working with Tim and his team to finish our basement! Communication was very good and they stuck to the budget that was created at the beginning. I highly recommend Cross Kitchens KC for your project.",
+    "owner": "Response from the owner 3 months ago\nJosh, thank you for taking the time to share your experience. We\u2019re so glad to hear that you were happy with the communication, budgeting process, and overall experience with your basement project. Our goal is always to provide clear \u2026 More"
    },
    {
-    "reviewer": "Lindsey L",
-    "when": "11 months ago",
+    "reviewer": "Mark Marriott",
+    "when": "7 months ago",
     "stars": "5 stars",
-    "text": "We had an AMAZING experience with Wooden Specialities. From the first meeting, my husband and I felt as though everyone was so patient with us as we tried to design the perfect entertainment center to meet our families needs. They continued \u2026",
-    "owner": "Response from the owner 11 months ago\nThank you so much for your thoughtful review! We\u2019re thrilled to hear that you and your husband had such a positive experience designing your entertainment center with us. It was a pleasure bringing your vision to life, and we\u2019re so glad you \u2026 More"
+    "text": "Tim Cross and his exceptional team remodeled our kitchen three years ago and also built a stunning, oversized stone fireplace in our living room. Both projects were completed with outstanding craftsmanship, attention to detail, and top-tier \u2026",
+    "owner": "Response from the owner 3 months ago\nMark, thank you so much for your kind words and for continuing to trust us over the years. It means a great deal to hear that you were pleased not only with your original projects, but also with the recent warranty service. Standing behind \u2026 More"
    },
    {
-    "reviewer": "Kristen Foster",
-    "when": "4 years ago",
+    "reviewer": "Kylie Jackson",
+    "when": "Edited 3 years ago",
     "stars": "5 stars",
-    "text": "Thank you Wooden Specialties for our beautiful custom cabinets! We highly recommend this awesome company! We have worked with them on multiple projects and each time we are amazed with their beautiful craftsmanship. They built us a custom \u2026",
-    "owner": "Response from the owner 4 years ago\nKristen, we love working with you!  Thank you for your 5 star review and we are looking forward to working with you again on your next project."
+    "text": "Tim and his crew did a fabulous job on our kitchen remodel. They were awesome to work with, every specification I had made they were able to accommodate me, down to the smallest details. They brought my vision for my kitchen to life. The crew was professional, always on time, and very talented. We highly recommend them!",
+    "owner": "Response from the owner 2 years ago\nThanks so much, Kylie! We appreciate working with you!"
    }
   ],
-  "emails_found": [],
+  "emails_found": [
+   {
+    "email": "tim@crosskitchenskc.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:tim@crosskitchenskc.com",
+    "page": "https://crosskitchenskc.com/"
+   }
+  ],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/woodenspecialties/"
+   "https://facebook.com/crosscontractingkc"
   ],
   "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 2,
-   "bath": 2,
-   "roof": 0,
-   "plumb": 0,
+   "kitchen": 49,
+   "bath": 5,
+   "roof": 1,
+   "plumb": 1,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 8,
+   "cabinet": 10,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -197,44 +90,180 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 34",
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 3890px, i.e. 3515px wider than the screen; elements past the right edge: ['A right=3890', 'IMG rig",
-   "gallery images over 1MB each: https://www.woodenspecialties.net/images/ImageGallery/Kitchen/lisaknight3.JPG = 1,237,704 bytes; https://www.woodenspecialties.net/images/ImageGallery/Kitchen/l"
+   "gallery images over 1MB each: https://crosskitchenskc.com/wp-content/uploads/2022/04/CrossMobileHeaderImage.png = 1,301,545 bytes (HTTP Content-Length); https://crosskitchenskc.com/wp-conten"
   ],
   "competitor_pool": [
    {
-    "name": "A.L.I. Home Improvement Company",
-    "url": "https://www.alihomeimprovement.com/",
+    "name": "Apex Kitchen & Bath Renovations LLC",
+    "url": "https://apexrenovationskc.com/",
     "gbp_address": null
    },
    {
-    "name": "Bryan Building and Design",
-    "url": "https://www.bryanbuildinganddesign.com/",
+    "name": "BluSky Bath LLC",
+    "url": "https://www.bluskybath.com/",
     "gbp_address": null
    },
    {
-    "name": "Courville Construction",
-    "url": "https://www.courvilleconstruction.com/",
+    "name": "Kansas City Kitchen Remodeling",
+    "url": "https://kansascitykitchenremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Renovation",
+    "url": "https://www.kitchenrenovation.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Solvers of Columbus",
+    "url": "https://kitchensolvers.com/columbus/",
+    "gbp_address": null
+   },
+   {
+    "name": "Phipps Enterprises LLC",
+    "url": "https://phippsenterprisesllckc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Gladstone, MO",
+   "Kansas City, KS",
+   "Kansas City, MO",
+   "Prairie Village, KS"
+  ]
+ },
+ {
+  "id": "denverdreambuilders.com",
+  "name": "Denver Dream Builders",
+  "region": "R4",
+  "website": "https://www.denverdreambuilders.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Webflow"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.denverdreambuilders.com/"
+   ],
+   "contact": [
+    "https://www.denverdreambuilders.com/contact"
+   ],
+   "about": [
+    "https://www.denverdreambuilders.com/about"
+   ],
+   "gallery": [
+    "https://www.denverdreambuilders.com/work"
+   ],
+   "legal": [
+    "https://www.denverdreambuilders.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJixwDpvxqDCkRkdc4fjwlMig&hl=en",
+    "quote": "Laura Hardy: '2 months ago' (Google relative timestamp, retrieved 2026-10-17)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJixwDpvxqDCkRkdc4fjwlMig&hl=en",
+  "gbp_title": "Denver Dream Builders",
+  "gbp_address": "\ue0c8\n2339 E 5th Ave, Denver, CO 80206, United States",
+  "gbp_rating": "4.9\n(41)",
+  "gbp_phone": "phone:tel:+13034062225",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Tricia Townsend",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "I worked with Denver Dream Builders after I had a fire in my home. They were very suportive and helped me navigate the insurance. Remington had a very personal touch that helped me understand what we needed to do to get us home. He helped \u2026",
+    "owner": "Response from the owner 6 months ago\nThank you so much for your kind words\u2014we truly appreciate you sharing your experience. \u2026 More"
+   },
+   {
+    "reviewer": "Samantha Gumbin",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "We worked with DBB for our guest bathroom renovation. We had never done a renovation project before, and working with DBB made it easy! And we absolutely LOVE the results. They were very communicative and easy to work with. We had some \u2026",
+    "owner": "Response from the owner 9 months ago\nThank you so much Samantha. You were a pleasure to work for and your tile choices were so refreshing!! It was a joy to work on your project and please keep us in mind for anything in the future. We wish you a very Happy New Year!!    Dale, Joey and the whole Denver Dream Builders crew!  "
+   },
+   {
+    "reviewer": "Laura Hardy",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Denver Dream Builders is a fantastically sound company that is truly a team between Dale, Joey & staff! When it comes to any house project, big or small, you want to have trust in the team supporting the end result & they are just that. I highly recommend giving them a call for your next project estimate!",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "contact@denverdreambuilders.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:contact@denverdreambuilders.com",
+    "page": "https://www.denverdreambuilders.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.denverdreambuilders.com/",
+    "snippet": "Meet Dale, our top GC & Co-Founder of Denver Dream Builders"
+   }
+  ],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 6,
+   "bath": 10,
+   "roof": 4,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 3,
+   "siding": 0,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 6
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://cdn.prod.website-files.com/673d09a05f89615aaddb6240/6a0f845d1b7a24ea0e0dd993_1000043799%201.png = 1,484,596 bytes (HTTP Content-Length); https://cdn.pro"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Christopher's Kitchen & Bath",
+    "url": "https://christophersshowroom.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Colorado Homes and Design",
+    "url": "https://cohomedesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cress Kitchen & Bath",
+    "url": "https://www.cresskitchenbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Denver Bath Remodel, LLC",
+    "url": "https://denverbathremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dun-Rite Home Improvements, Inc.",
+    "url": "https://www.dunritekitchens.com/",
     "gbp_address": null
    },
    {
     "name": "Five Star Bath Solutions of the Ozarks",
     "url": "https://fivestarbathsolutions.com/ozarks-mo/",
     "gbp_address": null
-   },
-   {
-    "name": "Home Remodeling Pros Lafayette, LA",
-    "url": "https://www.homeremodelinglafayettela.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Kingdom Builders",
-    "url": "https://www.kingdombuilderia.com/",
-    "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Youngsville, LA"
+   "Denver, CO"
   ]
  }
 ]

@@ -1,0 +1,572 @@
+[
+ {
+  "id": "dkcab.com",
+  "name": "Dream Kitchens",
+  "region": "R3",
+  "website": "https://dkcab.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://dkcab.com/"
+   ],
+   "contact": [
+    "https://dkcab.com/contact/"
+   ],
+   "gallery": [
+    "https://dkcab.com/gallery/",
+    "https://dkcab.com/kitchen-gallery/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJI9NyiMdRI4gRxc9kTtmX-xU&hl=en",
+    "quote": "Casandra Klemczak: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9NyiMdRI4gRxc9kTtmX-xU&hl=en",
+  "gbp_title": "Dream Kitchens",
+  "gbp_address": "\ue0c8\n5728 Whitmore Lake Rd, Brighton, MI 48116, United States",
+  "gbp_rating": "5.0\n(200)",
+  "gbp_phone": "phone:tel:+18105226601",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Chelsea Musson",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Tiffany & the Dream Kitchens team helped us bring our original 1990\u2019s Formica functional kitchen to life with a complete makeover. Since we bought our home I kept putting off our kitchen renovation because well it\u2019s the kitchen, the heart \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Casandra Klemczak",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Richelle absolutely blew me away with her attention to detail, patience and exemplary skills in the field of interior design. She transformed our outdated 1990\u2019s kitchen into the definition of modern and elegance. Richelle knew exactly when \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Michelle Merkel",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Richelle and the team at Dream Kitchens did an amazing job on my kitchen and powder room remodel from start to finish. They were patient when I took a long time to make selections and there was no pressure. Richelle helped with decisions, \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@dkcab.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:i&#110;fo&#64;&#100;k&#99;a&#98;&#46;c&#111;&#109;",
+    "page": "https://dkcab.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/dreamkitchens/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/dreamkitchensmi"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 5,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://dkcab.com/wp-content/uploads/2023/11/9027NorthpointeRidgeBrighton-Farrugia-1.jpg = 4,059,104 bytes (HTTP Content-Length); https://dkcab.com/wp-content/u",
+   "dead phone or email link: tel: hrefs [] mailto: hrefs ['&#105;&#110;&#102;o&#64;&#100;kcab&#46;co&#109;', '&#105;n&#102;&#111;&#64;&#100;&#107;&#99;a&#98;&#46;&#99;om', 'i&#110;&#102;&#1"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Built By Tom",
+    "url": "https://builtbytom.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Creative Designs Plus, Inc.",
+    "url": "https://www.creativedesignsplusmi.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Mad Dad Handyman LLC",
+    "url": "https://maddadhandyman.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Mitch Harris Building Company, Inc.",
+    "url": "https://www.mitchharris.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Mitten Made Basements LLC Waterford",
+    "url": "https://mittenmadebasementsllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Spencer & Sons Construction",
+    "url": "https://spencerandsonsconstruction.com/construction/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Brighton, MI"
+  ]
+ },
+ {
+  "id": "indianahomeremodel.com",
+  "name": "Indiana Home Remodel",
+  "region": "R3",
+  "website": "https://indianahomeremodel.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://indianahomeremodel.com/"
+   ],
+   "contact": [
+    "https://indianahomeremodel.com/contact/"
+   ],
+   "about": [
+    "https://indianahomeremodel.com/about/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJNXw-mKxRa4gRUXBewHCjtac&hl=en",
+    "quote": "David Cummings: '2 months ago' (Google relative timestamp, retrieved 2026-10-14)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXw-mKxRa4gRUXBewHCjtac&hl=en",
+  "gbp_title": "Indiana Home Remodel",
+  "gbp_address": "\ue0c8\n712 Adams St, Carmel, IN 46032, United States",
+  "gbp_rating": "4.8\n(33)",
+  "gbp_phone": "phone:tel:+13179224222",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "David Cummings",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "We hired Indiana Home Remodel for a full bathroom remodel and couldn't be happier with how it turned out. The project involved removing walls, building a custom shower, installing two new vanities in new locations, new flooring, and \u2026",
+    "owner": "Response from the owner 3 weeks ago\nHey David, thank you so much for the thoughtful review and for trusting our team with your bathroom remodel! We absolutely loved seeing this transformation come together and truly appreciate your kind words about our team, craftsmanship, \u2026 More"
+   },
+   {
+    "reviewer": "April Breck",
+    "when": "Edited 3 years ago",
+    "stars": "5 stars",
+    "text": "I'm less than halfway through a series of significant renovations, and so far I could not be happier. The crew is not only completely competent in general, but Alberto's tile work is art. They are all very professional and nice, putting \u2026",
+    "owner": "Response from the owner 3 years ago\nApril, thank you for the great review! It was our pleasure to provide quality renovation services to you. Our team strives to deliver exceptional services from beginning to end. We appreciate you sharing your experience with others."
+   },
+   {
+    "reviewer": "Megan Ledford",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Allie & Alberto are amazing! Allie was so helpful in educating me about different backsplash options and materials. Alberto was very meticulous and detail oriented when installing our kitchen backsplash. Marble tiles are very difficult to \u2026",
+    "owner": "Response from the owner a year ago\nThanks for sharing your experience with Indiana Home Remodel, Megan! We're thrilled to hear that Allie and Alberto provided excellent service and that you're happy with your kitchen backsplash. Looking forward to working with you again in the future."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@indianahomeremodel.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "d9b0b7bfb699b0b7bdb0b8b7b8b1b6b4bcabbcb4b6bdbcb5f7bab6b4",
+    "page": "https://indianahomeremodel.com/"
+   },
+   {
+    "email": "abhi@indianahomeremodel.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "badbd8d2d3fad3d4ded3dbd4dbd2d5d7dfc8dfd7d5dedfd694d9d5d7",
+    "page": "https://indianahomeremodel.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/indianahomeremodel",
+   "https://www.facebook.com/indianahomeremodel/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/indianahomeremodel317"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 12,
+   "bath": 14,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 7,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://indianahomeremodel.com/wp-content/uploads/2026/05/kitchen-img.png = 1,767,564 bytes (HTTP Content-Length); https://indianahomeremodel.com/wp-content/upl"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Benjamin Design Build",
+    "url": "https://www.benjamindesignbuild.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Booher Remodeling Company",
+    "url": "https://www.booherbuilding.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Chapman Custom Baths",
+    "url": "https://www.chapmancustombaths.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Chateau Kitchens & Home Remodeling",
+    "url": "https://chateaukitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "Indy Renovation",
+    "url": "https://www.indyrenovation.com/",
+    "gbp_address": "\ue0c8\n12175 Visionary Way Ste 1210, Fishers, IN 46038, United States"
+   }
+  ],
+  "locations_seen": [
+   "Carmel, IN",
+   "Indianapolis, IN",
+   "Westfield, IN",
+   "Zionsville, IN"
+  ]
+ },
+ {
+  "id": "keselmangroup.com",
+  "name": "Keselman Construction Group Inc",
+  "region": "R3",
+  "website": "https://keselmangroup.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://keselmangroup.com/"
+   ],
+   "contact": [
+    "https://keselmangroup.com/contact-us/",
+    "https://keselmangroup.com/contact-us/"
+   ],
+   "about": [
+    "https://keselmangroup.com/who-we-are/",
+    "https://keselmangroup.com/who-we-are/"
+   ],
+   "gallery": [
+    "https://keselmangroup.com/award-winning-projects/",
+    "https://keselmangroup.com/project/eastlake-home-remodel/"
+   ],
+   "legal": [
+    "https://keselmangroup.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJnwlfEEMAMYgR2B52XVmbwDQ&hl=en",
+    "quote": "Shaun Zalewski: 'a month ago' (Google relative timestamp, retrieved 2026-10-14)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-06",
+    "url": "https://keselmangroup.com/project/eastlake-home-remodel/",
+    "quote": "wp-json/project published 2026-10-06T14:22:20: 'Eastlake Home Remodel'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwlfEEMAMYgR2B52XVmbwDQ&hl=en",
+  "gbp_title": "Keselman Construction Group Inc",
+  "gbp_address": "\ue0c8\n6500 Davis Industrial Pkwy, Solon, OH 44139, United States",
+  "gbp_rating": "4.9\n(220)",
+  "gbp_phone": "phone:tel:+12162086365",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Nicholas Ciora",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Had a mold issue arise in my basement and after the waterproofing was done, I hired Keselman to do the rebuild and they did a great job! Very happy with the outcome and would highly recommend them! Sergiy the project manager was great \u2026",
+    "owner": "Response from the owner 3 months ago\nThank you for your kind words and recommendation! We're thrilled you're happy with the results and appreciate you trusting us with your project."
+   },
+   {
+    "reviewer": "Shaun Zalewski",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "We had Keselman Construction do a much needed remodel of our kitchen. Ivan and his crew were tremendous to work with. They were efficient and professional. If anything came up Ivan the project manager was communicating what the issues was \u2026",
+    "owner": "Response from the owner a month ago\nThank you so much for your kind words! We\u2019re thrilled to hear you\u2019re so happy with your kitchen remodel. It was a pleasure working with you!"
+   },
+   {
+    "reviewer": "Deborah Abbott",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "I was so frustrated trying to find a contractor to come in and repair both of my bathrooms.  It was a month since I had a plumber come out and referred me to a Company RestoPros.  At first I thought they were a great but I ended up so \u2026",
+    "owner": "Response from the owner 4 months ago\nThank you for your kind review! We\u2019re so glad we could provide the reliable, timely service you were looking for. Delivering quality work, clear communication, and a smooth experience for every project is always our goal."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "office@keselmangroup.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:office@keselmangroup.com",
+    "page": "https://keselmangroup.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://keselmangroup.com/who-we-are/",
+    "snippet": "\u2013 (Partner) CEO"
+   },
+   {
+    "page": "https://keselmangroup.com/who-we-are/",
+    "snippet": "\u2013 CEO (Chief Encouragement Officer)"
+   },
+   {
+    "page": "https://keselmangroup.com/who-we-are/",
+    "snippet": "\u2013 (Partner) CEO"
+   },
+   {
+    "page": "https://keselmangroup.com/who-we-are/",
+    "snippet": "\u2013 CEO (Chief Encouragement Officer)"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/Keselman-Group-Inc-378678192313640/?ref=aymt_homepage_panel/",
+   "https://www.facebook.com/KeselmanGroup"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/keselmanconstruction"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 20,
+   "bath": 23,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 28
+  },
+  "g8_defects_measured": [
+   "dead phone or email link: tel: hrefs [] mailto: hrefs ['?subject=Check%20out%20this%20post&#038;body=https://keselmangroup.com/project/eastlake-home-remodel/']"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bathroom Bliss Remodeling",
+    "url": "https://bathroombliss.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Capozzi Design Build",
+    "url": "https://www.capozzidesignbuild.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Direct Construction, Inc.",
+    "url": "https://www.directconstructioninc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ohio Top Construction and Remodeling",
+    "url": "https://ohiotopcr.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Otero Signature Homes Design Studio",
+    "url": "https://www.oterohomes.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "RestoPros of East Cleveland",
+    "url": "https://www.restopros.co/oh-cleveland-chagrin/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Chagrin Falls, OH",
+   "Cleveland Heights, OH",
+   "Garfield Heights, OH",
+   "Maple Heights, OH",
+   "Shaker Heights, OH",
+   "Solon, OH"
+  ]
+ },
+ {
+  "id": "residentialreface.com",
+  "name": "Residential Reface",
+  "region": "R3",
+  "website": "https://www.residentialreface.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.residentialreface.com/"
+   ],
+   "contact": [
+    "https://www.residentialreface.com/contact-us",
+    "https://www.residentialreface.com/contact-about"
+   ],
+   "gallery": [
+    "https://www.residentialreface.com/before-after"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ99kF2_JntFIRKJgwcp1ekrk&hl=en",
+    "quote": "Brian Frank: 'a month ago' (Google relative timestamp, retrieved 2026-10-17)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-06",
+    "url": "https://www.residentialreface.com/post/expert-cabinet-installation-for-kitchen-transformations",
+    "quote": "rss:https://www.residentialreface.com/blog-feed.xml published Tue, 06 Oct 2026 15:07:15 GMT: 'Expert Cabinet Installation for Kitchen Transformations'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99kF2_JntFIRKJgwcp1ekrk&hl=en",
+  "gbp_title": "Residential Reface",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(20)",
+  "gbp_phone": "phone:tel:+13202046565",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Mike Gray",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "The. Install  was very professional and what they promised was completed.  I had countertops and cabinets redone on an existing kitchen and will absolutely work with them on another project",
+    "owner": "Response from the owner 5 months ago\nYour kitchen turned out beautiful. It's amazing the difference that the counter, the updated cabinet area around the fridge and the new appliances made. We here if you ever decide do anything else!"
+   },
+   {
+    "reviewer": "Jan M",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "My experience with Residential Reface was a very good one. Jacob and Chris were great to work with. They both explained the process to me so I would know what to expect. They also were great at responding to both texts and phone calls. They \u2026",
+    "owner": "Response from the owner 5 months ago\nThanks Jan, remember that we are always here for you with any of your kitchen needs!"
+   },
+   {
+    "reviewer": "Brian Frank",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "We chose Residential Reface after comparing painting over our kitchen cabinets and refacing them with Residential Reface. The price difference was very reasonable and we couldn\u2019t be happier with the results we received. The work was very \u2026",
+    "owner": "Response from the owner a month ago\nGreat to hear you like the finished results. Your kitchen turned out beautiful and it was great to work with you both on your project. Let us know if you ever need anything."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "residentialreface@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:residentialreface@gmail.com",
+    "page": "https://www.residentialreface.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.residentialreface.com/contact-about",
+    "snippet": "Jacob Klatt is the founder of Residential Reface LLC and a proud family man based in Sauk Rapids, MN"
+   }
+  ],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 9,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 20,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://static.wixstatic.com/media/938e54_dfdc49480f484179b695b5712826deab~mv2.jpg = 1,121,377 bytes (HTTP Content-Length); https://static.wixstatic.com/media/b"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Artisan Renovation and Design LLC",
+    "url": "https://www.artisanrd.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bath Planet Kansas City",
+    "url": "https://bathplanet.com/dealers/bath-planet-of-kansas-city",
+    "gbp_address": null
+   },
+   {
+    "name": "VanVleet Construction",
+    "url": "https://cvvconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "FLAKNE CONSTRUCTION LLC",
+    "url": "https://flakneconstructionllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Four Seasons Contracting",
+    "url": "https://fourseasonscontractingstcloud.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Minnesota Home Improvements",
+    "url": "https://www.mnhomeimprovements.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "St. Cloud, MN"
+  ]
+ }
+]
