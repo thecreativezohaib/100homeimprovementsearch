@@ -1029,3 +1029,6 @@
 {"id": "yourhomerescuellc.com", "tested_url": "https://www.yourhomerescuellc.com/", "attempts": [{"at": "2026-10-19T06:01:23+00:00", "http": 200}], "psi_score": 47, "psi_date": "2026-10-19T06:01:23+00:00"}
 {"id": "zsquaredremodeling.com", "tested_url": "https://www.zsquaredremodeling.com/", "attempts": [{"at": "2026-10-19T06:01:53+00:00", "http": 200}], "psi_score": 57, "psi_date": "2026-10-19T06:01:53+00:00"}
 {"id": "artesiawoodworks.com", "tested_url": "https://www.artesiawoodworks.com/", "attempts": [{"at": "2026-10-19T06:01:52+00:00", "http": 200}], "psi_score": 54, "psi_date": "2026-10-19T06:01:52+00:00"}
+{"id": "precisetilestone.com", "tested_url": "https://precisetilestone.com/", "attempts": [{"at": "2026-10-19T06:02:07+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:02:40+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "ganemdirs.com", "tested_url": "https://www.ganemdirs.com/", "attempts": [{"at": "2026-10-19T06:03:14+00:00", "http": 200}], "psi_score": 65, "psi_date": "2026-10-19T06:03:14+00:00"}
+{"id": "leveldesignbuild.com", "tested_url": "https://leveldesignbuild.com/tx/", "attempts": [{"at": "2026-10-19T06:03:38+00:00", "http": 200}], "psi_score": 62, "psi_date": "2026-10-19T06:03:38+00:00"}

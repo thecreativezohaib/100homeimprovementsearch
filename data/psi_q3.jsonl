@@ -862,3 +862,5 @@
 {"id": "micontracting.com", "tested_url": "http://www.micontracting.com/", "attempts": [{"at": "2026-10-19T06:01:42+00:00", "http": 200}], "psi_score": 70, "psi_date": "2026-10-19T06:01:42+00:00"}
 {"id": "kenshilesbuilders.com", "tested_url": "https://www.kenshilesbuilders.com/", "attempts": [{"at": "2026-10-19T06:01:53+00:00", "http": 200}], "psi_score": 67, "psi_date": "2026-10-19T06:01:53+00:00"}
 {"id": "jandjofsj.com", "tested_url": "https://jandjofsj.com/", "attempts": [{"at": "2026-10-19T06:02:18+00:00", "http": 200}], "psi_score": 56, "psi_date": "2026-10-19T06:02:18+00:00"}
+{"id": "toledonewbath.com", "tested_url": "https://www.toledonewbath.com/", "attempts": [{"at": "2026-10-19T06:02:46+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:03:19+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "builttoughconstruction.com", "tested_url": "https://www.builttoughconstruction.com/", "attempts": [{"at": "2026-10-19T06:03:52+00:00", "http": 200}], "psi_score": 63, "psi_date": "2026-10-19T06:03:52+00:00"}
