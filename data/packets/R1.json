@@ -1,262 +1,127 @@
 [
  {
-  "id": "forma.construction",
-  "name": "Forma Construction",
+  "id": "laplantecabinetry.com",
+  "name": "Laplante Cabinetry",
   "region": "R1",
-  "website": "https://forma.construction/",
+  "website": "https://www.laplantecabinetry.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "WordPress"
+   "Wix"
   ],
   "pages_fetched": {
    "home": [
-    "https://forma.construction/"
+    "https://www.laplantecabinetry.com/"
    ],
    "contact": [
-    "https://forma.construction/contact/"
+    "https://www.laplantecabinetry.com/contact"
+   ],
+   "about": [
+    "https://www.laplantecabinetry.com/about-us"
    ],
    "gallery": [
-    "https://forma.construction/projects/",
-    "https://forma.construction/projects/"
-   ],
-   "legal": [
-    "https://forma.construction/privacy-policy/",
-    "https://forma.construction/privacy-policy/"
+    "https://www.laplantecabinetry.com/projects"
    ]
   },
   "auto_signals": [
    {
-    "type": "site_dated_content",
-    "date": "2026-10-12",
-    "url": "https://forma.construction/massachusetts-basement-code-requirements/",
-    "quote": "wp-json/posts published 2026-10-12T13:00:27: 'Massachusetts Basement Code: Ceiling Height, Egress, Permits'"
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJRQNjJSaLskwRgLgdWG6WgPY&hl=en",
+    "quote": "Jocelyne D: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSlsQO_H3wcRjm0NOF77RJQ&hl=en",
-  "gbp_title": "Forma Construction",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(49)",
-  "gbp_phone": "phone:tel:+17815370809",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQNjJSaLskwRgLgdWG6WgPY&hl=en",
+  "gbp_title": "Laplante Cabinetry",
+  "gbp_address": "\ue0c8\n16 Sunrise Trl, Gray, ME 04039, United States",
+  "gbp_rating": "5.0\n(2)",
+  "gbp_phone": "phone:tel:+12075138440",
   "gbp_reviews_visible": [
    {
-    "reviewer": "UBi Barbosa",
-    "when": "3 months ago",
+    "reviewer": "Jocelyne D",
+    "when": "a month ago",
     "stars": "5 stars",
-    "text": "I have used Forma Construction before, but I never had the time to leave a review. After the amazing kitchen renovation they completed at my home in Saugus, and seeing how happy my wife was with the results, I decided to hire them again for \u2026",
+    "text": "We hired Ryan for our kitchen remodel and we couldn\u2019t be happier with the results. The exceptional quality of his craftsmanship is evident in every single detail of the build. He was incredibly professional, clean, and deeply invested in \u2026",
     "owner": null
    },
    {
-    "reviewer": "Daniel Lira Amaral",
-    "when": "5 months ago",
+    "reviewer": "Bruce Mcgowen",
+    "when": "a month ago",
     "stars": "5 stars",
-    "text": "Working with Forma Construction was one of the best decisions we made for our home. \u2026",
-    "owner": "Response from the owner 5 months ago\nThank you so much for your detailed and glowing review, Daniel. We\u2019re thrilled Diogo and the team made the renovation smooth and that our attention to detail and design guidance delivered a beautiful, functional kitchen for your family. It \u2026 More"
-   },
-   {
-    "reviewer": "Pedro serpa",
-    "when": "5 months ago",
-    "stars": "5 stars",
-    "text": "I would like to thank  for the excellent work your guys did at my house. I had a bathroom project done, and the final result came out great. Very professional work, and I highly recommend it.",
-    "owner": "Response from the owner 5 months ago\nPedro, thank you for the wonderful review and for trusting us with your bathroom project. We\u2019re thrilled the final result met your expectations and that our team delivered professional work. Your recommendation means a lot to us. Please keep us in mind for any future projects."
+    "text": "My wife and I were looking for some one to remodel our kitchen cabinets Laplante cabinetry is your first and only stop. Ryan the head craftsmen and owner does exceptional design and work. My wife and I hired Ryan to do our kitchen over and \u2026",
+    "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "forma@forma.construction",
+    "email": "info@laplantecabinetry.com",
     "how": "mailto",
-    "raw": "href=\"mailto:forma@forma.construction",
-    "page": "https://forma.construction/"
-   },
-   {
-    "email": "info@konstruktion.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@konstruktion.com",
-    "page": "https://forma.construction/contact/"
+    "raw": "href=\"mailto:info@laplantecabinetry.com",
+    "page": "https://www.laplantecabinetry.com/"
    }
   ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/people/Forma-Construction/61590719093601/"
+  "dm_snippets": [
+   {
+    "page": "https://www.laplantecabinetry.com/",
+    "snippet": "Founder & Head Craftsman"
+   }
   ],
-  "instagram_links": [
-   "https://www.instagram.com/formaconstructionusa"
-  ],
+  "facebook_links": [],
+  "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 9,
-   "bath": 11,
-   "roof": 8,
+   "kitchen": 21,
+   "bath": 0,
+   "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 0,
-   "siding": 8,
+   "cabinet": 12,
+   "siding": 0,
    "window": 0,
    "pool": 0,
    "solar": 0,
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 53",
-   "gallery images over 1MB each: https://forma.construction/wp-content/uploads/2026/06/Photo-83-scaled.jpeg = 1,259,884 bytes; https://forma.construction/wp-content/uploads/2026/06/Photo-83-sca"
+   "gallery images over 1MB each: https://static.wixstatic.com/media/d92212_1a7b27db28fb44a0bf2ebc32fed25973~mv2.png/v1/fit/w_960,h_848,q_90,enc_avif,quality_auto/d92212_1a7b27db28fb44a0bf2ebc32"
   ],
   "competitor_pool": [
    {
-    "name": "All City Remodeling",
-    "url": "https://www.allcityremodelingco.com/",
+    "name": "Centerline Design & Build",
+    "url": "https://centerlinedesignme.com/",
     "gbp_address": null
    },
    {
-    "name": "Boston Team - Burg Kitchens + Appliances Showroom",
-    "url": "https://www.bostonteamgroup.com/",
+    "name": "Coastal Bath Remodel",
+    "url": "https://www.coastalbathremodel.com/",
     "gbp_address": null
    },
    {
-    "name": "Elevate kitchen And Home Inc.",
-    "url": "https://elevatekitchenandhome.com/",
+    "name": "Kitchen Cove Design Studio",
+    "url": "https://www.kitchencovedesign.com/",
     "gbp_address": null
    },
    {
-    "name": "Millbrook Construction Corp.",
-    "url": "https://millbrookcorpma.com/",
+    "name": "Lindvall & Co. Designs",
+    "url": "https://lindvallandco.com/",
     "gbp_address": null
    },
    {
-    "name": "Mvm Remodeling",
-    "url": "https://www.mvmremodeling.com/",
+    "name": "Maine Cabinet Company",
+    "url": "https://mainecabinetcompany.com/",
     "gbp_address": null
    },
    {
-    "name": "North Shore Design, Inc.",
-    "url": "https://www.northshoredesigninc.com/",
+    "name": "Southern Maine Remodeling",
+    "url": "https://southernmaineremodeling.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Lynnfield, MA"
-  ]
- },
- {
-  "id": "jackgeneralservices.net",
-  "name": "Jack General Services Inc.",
-  "region": "R1",
-  "website": "https://jackgeneralservices.net/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "GoDaddy",
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://jackgeneralservices.net/"
-   ],
-   "contact": [
-    "https://jackgeneralservices.net/contact-us/",
-    "https://jackgeneralservices.net/contact-us/"
-   ],
-   "gallery": [
-    "https://jackgeneralservices.net/gallery/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJibtR5tgc5IkR0exMkWsuGew&hl=en",
-    "quote": "Beverly B.: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJibtR5tgc5IkR0exMkWsuGew&hl=en",
-  "gbp_title": "Jack General Services Inc.",
-  "gbp_address": "\ue0c8\n387 Main St #1, Oxford, MA 01540, United States",
-  "gbp_rating": "4.8\n(93)",
-  "gbp_phone": "phone:tel:+15087310297",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Owen Kramer",
-    "when": "11 months ago",
-    "stars": "5 stars",
-    "text": "They did our duct work, installed a kitchen hood, took the old giant microwave that was there, and did our new bathroom fan through our roof and took the old one, all in about 6 hours. They showed up, were early, did the job well, and \u2026",
-    "owner": "Response from the owner 11 months ago\nThank you so much for sharing your experience! \ud83d\ude0a\nWe\u2019re thrilled to hear that you\u2019re happy with the results and our team\u2019s work. We always strive to deliver efficient, clean, and detail-oriented service from \u2026 More"
-   },
-   {
-    "reviewer": "Beverly B.",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "We had an excellent experience with Jack General Services and are very pleased with the work they completed in our basement. The project involved a wide variety of improvements, including building and painting an enclosure for our sump pump \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you so much for your thoughtful review and for trusting Jack General Services with your basement project! We\u2019re delighted to hear that you\u2019re happy with the finished result. Our team takes great pride in being reliable, professional, \u2026 More"
-   },
-   {
-    "reviewer": "morgan lamontagne",
-    "when": "a year ago",
-    "stars": "1 star",
-    "text": "Terrible, they\u2019ve been doing \u201cfoundation\u201d work for going on 3 months. Show up 1-2 days a week, EVERY OTHER WEEK (they do not work consistently through the week). I have fallen twice now seeking medical help. Entire house is now molding due \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "jackgeneraloffice@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:jackgeneraloffice@gmail.com",
-    "page": "https://jackgeneralservices.net/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/JackGeneralServicesInc/?modal=admin_todo_tour"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/jackgeneralservices"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 1,
-   "bath": 1,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 2,
-   "window": 1,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://jackgeneralservices.net/wp-content/uploads/2023/03/Who-are-1.png = 1,091,120 bytes; https://jackgeneralservices.net/wp-content/uploads/2023/03/Who-are-2"
-  ],
-  "competitor_pool": [
-   {
-    "name": "13 Gables Inc",
-    "url": "https://www.13gablesinc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Bowden and Son LLC",
-    "url": "https://www.bowdenandsonllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "CRC HOME PROS",
-    "url": "https://www.crchomepros.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "New England Home Cabinetry LLC",
-    "url": "https://nehcab.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Oxford, MA"
+   "Cumberland, ME"
   ]
  }
 ]
