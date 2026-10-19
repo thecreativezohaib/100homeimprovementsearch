@@ -618,3 +618,4 @@
 {"id": "pilonihomedesign.com", "tested_url": "https://www.pilonihomedesign.com/", "attempts": [{"at": "2026-10-19T08:21:14+00:00", "http": 200}], "psi_score": 73, "psi_date": "2026-10-19T08:21:14+00:00"}
 {"id": "prohandswi.com", "tested_url": "https://www.prohandswi.com/", "attempts": [{"at": "2026-10-19T08:21:35+00:00", "http": 200}], "psi_score": 56, "psi_date": "2026-10-19T08:21:35+00:00"}
 {"id": "qualityonewoodwork.com", "tested_url": "https://www.qualityonewoodwork.com/", "attempts": [{"at": "2026-10-19T08:21:52+00:00", "http": 200}], "psi_score": 67, "psi_date": "2026-10-19T08:21:52+00:00"}
+{"id": "redbluffgc.com", "tested_url": "https://redbluffgc.com/", "attempts": [{"at": "2026-10-19T08:22:09+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T08:22:42+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}

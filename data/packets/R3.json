@@ -1,0 +1,139 @@
+[
+ {
+  "id": "factoryplaza.com",
+  "name": "Factory Plaza, Inc",
+  "region": "R3",
+  "website": "https://www.factoryplaza.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.factoryplaza.com/"
+   ],
+   "contact": [
+    "https://www.factoryplaza.com/contact-us/"
+   ],
+   "about": [
+    "https://www.factoryplaza.com/about-factory-plaza/",
+    "https://www.factoryplaza.com/about-factory-plaza/"
+   ],
+   "gallery": [
+    "https://www.factoryplaza.com/gallery/"
+   ],
+   "legal": [
+    "https://www.factoryplaza.com/privacy-policy/",
+    "https://www.factoryplaza.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-11",
+    "url": "https://www.factoryplaza.com/choosing-the-perfect-kitchen-cabinet-doors-painted-vs-laminate/",
+    "quote": "wp-json/posts published 2026-09-11T22:00:23: 'Choosing the Perfect Kitchen Cabinet Doors: Painted vs. Laminate'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJrR0KDHm0D4gR9r2XrS3VkHA&hl=en",
+  "gbp_title": "Factory Plaza, Inc",
+  "gbp_address": "\ue0c8\n429 Evergreen Ave, Bensenville, IL 60106, United States",
+  "gbp_rating": "4.7\n(890)",
+  "gbp_phone": "phone:tel:+16306169999",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Payton De Luga",
+    "when": "5 months ago",
+    "stars": "4 stars",
+    "text": "Overall, we are satisfied working with Factory Plaza for our kitchen countertops & backsplash!! We received a beautiful white quartz. Install by Bob\u2019s team was great & working with their project manager was easy! Only gave 4 stars because \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Michael Wojcik",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Bob and Greg installed our countertops they did an amazing job. They were quick and efficient and made sure every small detail was met with my big project. I will be recommending Factory Plaza to others for any future installs.",
+    "owner": null
+   },
+   {
+    "reviewer": "Michael B.",
+    "when": "5 months ago",
+    "stars": "1 star",
+    "text": "I have been a General Contractor for 25 years, and I have rarely encountered this level of unprofessionalism. I contacted Factory Plaza for a granite installation on a recent project. From the very first conversation\u2014before they even sent \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "estimate@factoryplaza.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:estimate@FactoryPlaza.com",
+    "page": "https://www.factoryplaza.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/FactoryPlaza/",
+   "https://www.facebook.com/FactoryPlaza/reviews"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/factoryplazainc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 39,
+   "bath": 5,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 68,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 427px, i.e. 52px wider than the screen; elements past the right edge: []"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Aros Remodeling LLC",
+    "url": "https://arosremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "BathMaxx USA",
+    "url": "https://www.bathmaxxusa.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Corvin Construction | Custom Homes & Remodeling Experts",
+    "url": "https://corvinconstruction.com/",
+    "gbp_address": "\ue0c8\n696 N Larch Ave, Elmhurst, IL 60126, United States"
+   },
+   {
+    "name": "Culture Construction & Remodeling",
+    "url": "https://cultureccc.com/services/design-build",
+    "gbp_address": null
+   },
+   {
+    "name": "Profile Remodeling",
+    "url": "https://profileremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Refined Spaces",
+    "url": "https://www.refinedspaceshome.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Bensenville, IL"
+  ]
+ }
+]
