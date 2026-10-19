@@ -1,0 +1,801 @@
+[
+ {
+  "id": "calistakitchenandbath.com",
+  "name": "Calista Kitchen & Bath",
+  "region": "R2",
+  "website": "http://calistakitchenandbath.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "http://calistakitchenandbath.com/"
+   ],
+   "contact": [
+    "http://calistakitchenandbath.com/contact/"
+   ],
+   "about": [
+    "http://calistakitchenandbath.com/about/"
+   ],
+   "gallery": [
+    "http://calistakitchenandbath.com/portfolio/",
+    "http://calistakitchenandbath.com/portfolio/kitchen/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-19",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ57tXwmBX24gRxZPz24YA3ik&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "If you are in Florida and you need"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57tXwmBX24gRxZPz24YA3ik&hl=en",
+  "gbp_title": "Calista Kitchen & Bath",
+  "gbp_address": "\ue0c8\n2421 Shreve St, Punta Gorda, FL 33950, United States",
+  "gbp_rating": "4.6\n(13)",
+  "gbp_phone": "phone:tel:+19419169232",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Amy Barder",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "The showroom at Calista Kitchen & Bath is absolutely stunning and has a little bit of everything for any remodel project. We originally came in just looking for a bathroom vanity and were planning to DIY our bathroom renovation. After \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you for this wonderful review! We loved getting to work with you and we're so glad the 3D renderings helped bring the vision to life. Treating every home like our own is something we take seriously, so hearing that come through means \u2026 More"
+   },
+   {
+    "reviewer": "Jessica Overcash",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "I\u2019ve had the pleasure of working with Calista Kitchen & Bath on several projects, and their attention to detail is truly unmatched. From start to finish, every aspect of the design process is handled with care, precision, and \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much for taking the time to share this! It has been a true pleasure collaborating with you across these projects. Knowing that the care and detail we put into each design comes through means the world to our team. We're grateful for your trust and look forward to many more spaces together!"
+   },
+   {
+    "reviewer": "Suzan Reinhardt",
+    "when": "4 years ago",
+    "stars": "5 stars",
+    "text": "Calista Kitchen & Bath was the first of 5 remodeling companies we had quote an extensive remodel of our master bath and closet area.   The only things we didn't move were the windows. \u2026",
+    "owner": "Response from the owner 4 years ago\nThank you, Mrs. Reinhardt! It's been a pleasure working with you and your family on your home projects. We're ready for the kitchen when you are!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "jen@calistadesign.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:jen@calistadesign.com",
+    "page": "http://calistakitchenandbath.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "http://calistakitchenandbath.com/",
+    "snippet": "Principal, Design Specialist"
+   },
+   {
+    "page": "http://calistakitchenandbath.com/contact/",
+    "snippet": "Principal, Design Specialist"
+   },
+   {
+    "page": "http://calistakitchenandbath.com/about/",
+    "snippet": "Jennifer Dubbaneh is the owner of Calista Kitchen & Bath"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/calistakitchenbath/"
+  ],
+  "instagram_links": [
+   "http://instagram.com/calistakitchenbath"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 5,
+   "bath": 5,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "not served over HTTPS / invalid certificate: final URL scheme http; https:// probe: {'https_status': 200}"
+  ],
+  "competitor_pool": [
+   {
+    "name": "4K Homes LLC",
+    "url": "https://4khomes.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Armstrong Interiors LLC",
+    "url": "https://armstrong-interiors.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "CKB Creations LLC",
+    "url": "https://www.ckbcreations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Island Counters and Cabinets of SWFL",
+    "url": "https://www.islandcountersandcabinets.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Classics, LLC",
+    "url": "https://www.kitchenclassicsonline.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "MK Construction Group LLC",
+    "url": "https://www.mkcsinc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Punta Gorda, FL"
+  ]
+ },
+ {
+  "id": "butlerhomeimprovement.com",
+  "name": "Butler Home Improvement",
+  "region": "R3",
+  "website": "https://www.butlerhomeimprovement.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.butlerhomeimprovement.com/"
+   ],
+   "contact": [
+    "https://www.butlerhomeimprovement.com/contact/"
+   ],
+   "about": [
+    "https://www.butlerhomeimprovement.com/about/",
+    "https://www.butlerhomeimprovement.com/about/white-glove-service/"
+   ],
+   "gallery": [
+    "https://www.butlerhomeimprovement.com/gallery/",
+    "https://www.butlerhomeimprovement.com/gallery-2/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-24",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJSeT45b3_dYgRnp2s3fqOnbg&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "Bottom line: Trust Butler Home Improvement to build"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeT45b3_dYgRnp2s3fqOnbg&hl=en",
+  "gbp_title": "Butler Home Improvement",
+  "gbp_address": "\ue0c8\n906 Vandalia St, Collinsville, IL 62234, United States",
+  "gbp_rating": "4.9\n(71)",
+  "gbp_phone": "phone:tel:+16183447073",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Justin Barkley",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "I can not rave enough about how good of a job Michael and Jake did turning a regular deck into this beautiful space!! \u2026",
+    "owner": "Response from the owner 3 months ago\nJustin, thank you so much for the opportunity to build this room and for the awesome review. You and Beth were a pleasure to work for. The pictures came out great and the homemade strawberry jam was an amazing tip at the end of the project. "
+   },
+   {
+    "reviewer": "Kari Weaver",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "The process with Michael and Jake was a great experience from start to finish! Michael was very knowledgeable about what we needed to get our room to be used for at least 3 seasons. He always kept us in the know about the order and when \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "G T",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "We have been dreaming about closing-in and finishing our covered deck for years. Butler Home Improvement made our dream a reality!\nWorking with Michael was easy as he walked us through the process, letting us \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@butlerhomeimprovement.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "3c55525a537c5e494850594e5453515955514c4e534a5951595248125f5351",
+    "page": "https://www.butlerhomeimprovement.com/contact/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/ButlerHomeImprovement"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 4,
+   "roof": 3,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 6,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 4,
+   "window": 8,
+   "pool": 0,
+   "solar": 3,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 14"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Miller & Maack General Contractors",
+    "url": "https://www.millermaack.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Sage Kitchen Design And Baths",
+    "url": "https://sagekitchendesign.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Collinsville, IL"
+  ]
+ },
+ {
+  "id": "remodelmyhome.com",
+  "name": "Tim Englert Construction Inc",
+  "region": "R3",
+  "website": "https://www.remodelmyhome.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Webflow"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.remodelmyhome.com/"
+   ],
+   "contact": [
+    "https://www.remodelmyhome.com/contact"
+   ],
+   "about": [
+    "https://www.remodelmyhome.com/why-choose-us",
+    "https://www.remodelmyhome.com/our-team"
+   ],
+   "gallery": [
+    "https://www.remodelmyhome.com/project-showcase"
+   ],
+   "legal": [
+    "https://www.remodelmyhome.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-22",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJkyXplLLOMIgRvbozvgtOZR8&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "20 years ago did a 100k+ remodel/addition, was"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyXplLLOMIgRvbozvgtOZR8&hl=en",
+  "gbp_title": "Tim Englert Construction Inc",
+  "gbp_address": "\ue0c8\n7176 Boneta Rd, Wadsworth, OH 44281, United States",
+  "gbp_rating": "4.8\n(21)",
+  "gbp_phone": "phone:tel:+13303362770",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Bill Messner",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "Justin and colleagues did a complete design and rebuild of our kitchen, dining area, and deck.  They were fabulous from start-to-finish.  They were professional, communicated well, handled the financials fairly, and did excellent work.  I highly recommend them and will go back should I have remodeling needs in the future.",
+    "owner": null
+   },
+   {
+    "reviewer": "Linda",
+    "when": "Edited 10 years ago",
+    "stars": "5 stars",
+    "text": "We would never use any other contractor besides Tim Englert Construction. They remodeled our kitchen and bathroom about 12 years ago.  Recently (July 2016) they completed a Master Suite addition to our home.  A large bedroom, beautiful \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Theresa Kester",
+    "when": "11 years ago",
+    "stars": "5 stars",
+    "text": "Tim Englert Construction has done several major remodeling jobs in our home, including a complete gutting and remodel of the kitchen, which included a four foot addition.   He has also completely replaced all the trim with walnut stained \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://www.remodelmyhome.com/why-choose-us",
+    "snippet": "President, Tim Englert, is a Certified Remodeler (CR) and several of his employees passed the National Association of the Remodel"
+   },
+   {
+    "page": "https://www.remodelmyhome.com/why-choose-us",
+    "snippet": "President, Tim Englert, CR, as a leader in the remodeling industry, networks with other contractors across the country and attend"
+   }
+  ],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 5,
+   "bath": 3,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 2,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://cdn.prod.website-files.com/5fa99633e83cab37fe6426e9/623c7d6cf51d06af164b017f_5351-snyder-after-002.jpg = 3,038,082 bytes; https://cdn.prod.website-files"
+  ],
+  "competitor_pool": [
+   {
+    "name": "A1 Integrity Contracting LLC",
+    "url": "https://www.a1-integrity-contracting.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "All Basement Windows",
+    "url": "https://allbasementwindows.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Back To New Home Solutions",
+    "url": "https://backtonewhome.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Blueprint Builders LLC",
+    "url": "https://www.blueprintbuildersgroup.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cabinet-S-Top Inc",
+    "url": "https://www.cabinet-s-top.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Omari Construction LLC",
+    "url": "https://www.omariconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Wadsworth, OH"
+  ]
+ },
+ {
+  "id": "number1son.com",
+  "name": "Number 1 Son Handyman and Home Improvement",
+  "region": "R4",
+  "website": "https://www.number1son.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.number1son.com/"
+   ],
+   "contact": [
+    "https://www.number1son.com/contact-us"
+   ],
+   "about": [
+    "https://www.number1son.com/about-5"
+   ],
+   "gallery": [
+    "https://www.number1son.com/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-24",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJLYj8vftME4cRX7zUWex8Wa8&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "Number One Son handyman was quick and thorough!"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYj8vftME4cRX7zUWex8Wa8&hl=en",
+  "gbp_title": "Number 1 Son Handyman and Home Improvement",
+  "gbp_address": null,
+  "gbp_rating": "4.8\n(194)",
+  "gbp_phone": "phone:tel:+18886271766",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Tami Schneider",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "I very much enjoyed Number one Sons employees, contractors,and volunteers.\nEveryone was so polite and enjoying their job  that they were doing, it was a delight to be around them. The work they did was very professional and was \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "M R",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "#1 Son and Cory are great.  I appreciate and am confident that the results of a project are likely to be better than I expected or even imagined.  The quality has been top notch every time.  I highly recommend and will continue to keep them coming back.",
+    "owner": null
+   },
+   {
+    "reviewer": "Cheryl Allen",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "Finding a good handyman is hard these days, but Number 1 Son handyman service delivered great service for our summer projects. Initially, a little hiccup,  but they made it right and got our projects done to our expectations.  We will definitely call again. A trustworthy  dependable service!",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "information@number1son.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:information@number1son.com",
+    "page": "https://www.number1son.com/"
+   },
+   {
+    "email": "information@number-1-son.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:information@number-1-son.com",
+    "page": "https://www.number1son.com/contact-us"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.number1son.com/about-5",
+    "snippet": "Drawing inspiration from this, our founder, also an eldest and highly trusted son, became fondly known as the \"Number One Son\" by his parents after watching Charl"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=61559020067648",
+   "https://www.facebook.com/wix"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/number1sonco",
+   "https://www.instagram.com/wix"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 2,
+   "bath": 1,
+   "roof": 1,
+   "plumb": 1,
+   "hvac": 1,
+   "handyman": 3,
+   "floor": 2,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 2,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 52"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Amelias Kitchen and Bath Images",
+    "url": "https://ameliadreamhomes.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Castle Rock Remodeling",
+    "url": "https://castlerockremodels.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Pride Bath",
+    "url": "https://www.homepridebath.com/fortcollins-co",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Sky, Inc.",
+    "url": "https://homeskyinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JM Kitchen & Bath Design",
+    "url": "https://jmwoodworks.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "PREP Basements and Remodeling",
+    "url": "https://prepbasements.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Castle Pines, CO"
+  ]
+ },
+ {
+  "id": "seadesignbuild.com",
+  "name": "SEA Design & Build",
+  "region": "R5",
+  "website": "https://seadesignbuild.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://seadesignbuild.com/"
+   ],
+   "contact": [
+    "https://seadesignbuild.com/home-remodeling-bay-area-contact-us/"
+   ],
+   "about": [
+    "https://seadesignbuild.com/sea-design-build-about-us/"
+   ],
+   "gallery": [
+    "https://seadesignbuild.com/sea-design-build-recent-projects/",
+    "https://seadesignbuild.com/san-francisco-bay-area-remodeling-contractor/"
+   ],
+   "legal": [
+    "https://seadesignbuild.com/privacy-policy-2/",
+    "https://seadesignbuild.com/privacy-policy-2/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJQfFMpMSfj4ARgIBVNXAxfxA&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "We recently completed our first remodel with SEA"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfFMpMSfj4ARgIBVNXAxfxA&hl=en",
+  "gbp_title": "SEA Design & Build",
+  "gbp_address": "\ue0c8\n763 Polhemus Rd suite 1, San Mateo, CA 94402, United States",
+  "gbp_rating": "5.0\n(6)",
+  "gbp_phone": "phone:tel:+16502874202",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Kit Cutler",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "We chose SEA Construction to build an ADU over our garage at our house in Half Moon Bay, and we have been very pleased with the result. Steve Albert and his team have exceptionally high integrity, and they always found practical and fair \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "James Regan",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "SEA Construction did a wonderful job designing and building our lower floor addition.  We love our expanded home.  Steve Albert has always been candid with our options and has remained available to us whenever we've had questions or requested additional work.  Project manager Ethan was also a pleasure to work with.",
+    "owner": null
+   },
+   {
+    "reviewer": "Mark McCarthy",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "SEA Design and Build were our contractors for a kitchen remodelling in 2023. We chose SEA after reviewing multiple contractors and were pleased we did. SEA completed the work to the highest professional standards, and with very little \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@seadesignbuild.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@seadesignbuild.com",
+    "page": "https://seadesignbuild.com/"
+   },
+   {
+    "email": "info@seaconstruction.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@seaconstruction.com",
+    "page": "https://seadesignbuild.com/home-remodeling-bay-area-contact-us/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/seaconstructioninc"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 30,
+   "bath": 22,
+   "roof": 4,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 3,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 2
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 49"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Bath Planet Kansas City",
+    "url": "https://bathplanet.com/dealers/bath-planet-of-kansas-city",
+    "gbp_address": null
+   },
+   {
+    "name": "BELDV INC",
+    "url": "https://beldv.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "BuilderDuty Inc. \u2013 Commercial Construction Subcontractor",
+    "url": "https://builderduty.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Genesis Home Remodeling",
+    "url": "https://genesisremodelingca.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Pride Construction, Inc",
+    "url": "https://homeprideinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "KB Cabinets",
+    "url": "https://www.kbcabinets.net/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Millbrae, CA"
+  ]
+ },
+ {
+  "id": "worldconstructionllc.com",
+  "name": "World Construction LLC",
+  "region": "R5",
+  "website": "https://worldconstructionllc.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://worldconstructionllc.com/"
+   ],
+   "gallery": [
+    "https://worldconstructionllc.com/project-based-installations/",
+    "https://worldconstructionllc.com/bathroom-shower-tiling-project-based-installations-setting-by-location-service/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-09-17",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJoR_KhuO1lVQRTUjTllSwdYk&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "World construction did a wonderful job on the"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJoR_KhuO1lVQRTUjTllSwdYk&hl=en",
+  "gbp_title": "World Construction LLC",
+  "gbp_address": "\ue0c8\n807 NW 21st Ave, Battle Ground, WA 98604, United States",
+  "gbp_rating": "5.0\n(103)",
+  "gbp_phone": "phone:tel:+13608308942",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Tyler Monaghan",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "World Construction LLC is a phenomenon construction artist.\nWould hire him for any job, came in after a flood. Came in with great assurance insurance. Contract him before your Adjustor. Pre demo \u2026",
+    "owner": "Response from the owner 9 months ago\nThanks Tyler!"
+   },
+   {
+    "reviewer": "Madelynn",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "Highly recommend!! Needed the shower lowered to make it a roll in shower. I\u2019m in a wheelchair and needed to upgrade my bathroom at an ADA shower and roll under sink!! Anatiliy exceeded my expectations! Hard working, worked fast and focused \u2026",
+    "owner": "Response from the owner 11 months ago\nThank you so much Madelynn! You guys are awesome to work with!"
+   },
+   {
+    "reviewer": "Oleksandr Shelkopliasov",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "World Construction LLC did an outstanding job on our project! Anatoly and his team were professional, reliable, and highly skilled from start to finish. Every detail was completed with precision and care, and the communication throughout \u2026",
+    "owner": "Response from the owner 11 months ago\nThank you Alex!"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "worldconstructionbusiness@gmail.com",
+    "how": "plain text",
+    "raw": "WorldConstructionBusiness@Gmail.com",
+    "page": "https://worldconstructionllc.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://worldconstructionllc.com/",
+    "snippet": "Founder"
+   },
+   {
+    "page": "https://worldconstructionllc.com/",
+    "snippet": "Hello, I am Anatoliy Rubanenko, the founder of World Construction LLC"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/WorldConstructionLLC"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/worldconstructionllc"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 25,
+   "bath": 22,
+   "roof": 24,
+   "plumb": 12,
+   "hvac": 6,
+   "handyman": 0,
+   "floor": 3,
+   "cabinet": 3,
+   "siding": 31,
+   "window": 31,
+   "pool": 3,
+   "solar": 3,
+   "custom home": 9
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 39"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Compass Contractors LLC",
+    "url": "https://compass.contractors/",
+    "gbp_address": null
+   },
+   {
+    "name": "Revo Kitchen & Bath",
+    "url": "https://revokitchenandbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Riverview Construction",
+    "url": "https://riverviewconstruct.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Battle Ground, WA"
+  ]
+ }
+]

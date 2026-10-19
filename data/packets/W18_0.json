@@ -1,0 +1,809 @@
+[
+ {
+  "id": "builtbyjmi.com",
+  "name": "JMI Construction & Design",
+  "region": "R2",
+  "website": "https://builtbyjmi.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://builtbyjmi.com/"
+   ],
+   "gallery": [
+    "https://builtbyjmi.com/home"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-10",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJW1fJ4bwX3YgRb2fklvM-cF0&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "JMI did a fantastic job with my kitchen/dining"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1fJ4bwX3YgRb2fklvM-cF0&hl=en",
+  "gbp_title": "JMI Construction & Design",
+  "gbp_address": "\ue0c8\n115 N 1st Ave, Bartow, FL 33830, United States",
+  "gbp_rating": "4.4\n(42)",
+  "gbp_phone": "phone:tel:+18634856658",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Gail Bagley",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Huge thank you to JMI Construction for bringing my ADU (Accessory Dwelling Unit) vision to life!  This 600 sq ft \"casita\" was unique, and the JMI team was fantastic. They stayed on schedule and made helpful suggestions along the way. \u2026",
+    "owner": "Response from the owner 4 months ago\nThank you for the kind review, Gail! We are glad to have helped you bring your vision to life!"
+   },
+   {
+    "reviewer": "Len Heffron",
+    "when": "4 years ago",
+    "stars": "5 stars",
+    "text": "Was coming down from NY to quickly fix up my aging mothers place to sell. I was on a tight timeline and only had a few days to be in FL. The JMI crew from Michael to Sherlock were all very professional and an huge help. They were able to \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Tina Spath",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We have used them for many many years for very big projects as well as small.\nThey are honest, have great integrity and impeccable service.\nAny job big or small is done with the best people we have ever worked with!",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "office@builtbyjmi.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:office@builtbyJMI.com",
+    "page": "https://builtbyjmi.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://facebook.com/squarespace",
+   "http://www.facebook.com/2008/fbml"
+  ],
+  "instagram_links": [
+   "http://instagram.com/squarespace"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 53",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/6a0c7a499b82f76eb9b6a09a/1779372882795-I7684AQJBTX0V2WD1MQU/216EuniceDSC_8096_1.png?format=2500w = 4,233,578 bytes"
+  ],
+  "competitor_pool": [
+   {
+    "name": "ARISE CONSTRUCTION LLC",
+    "url": "https://ariseconstructionllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Blair Construction and Cabinets",
+    "url": "https://www.blaircc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dewey's Remodeling co",
+    "url": "https://deweyremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Giffin home improvements",
+    "url": "https://giffinhomeimprovements.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ideal Cabinetry",
+    "url": "https://idealcabinetry.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Miller86 LLC",
+    "url": "https://miller86.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Bartow, FL"
+  ]
+ },
+ {
+  "id": "sw-restoration.com",
+  "name": "Southwest Restoration",
+  "region": "R2",
+  "website": "https://sw-restoration.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://sw-restoration.com/"
+   ],
+   "contact": [
+    "https://sw-restoration.com/contact-us/"
+   ],
+   "about": [
+    "https://sw-restoration.com/about-us/",
+    "https://sw-restoration.com/careers/"
+   ],
+   "gallery": [
+    "https://sw-restoration.com/gallery/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-09-24",
+    "url": "https://www.facebook.com/swrestorationinc",
+    "source": "Facebook page latest post date gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator; account linked from the company's own site",
+    "quote": "Facebook page https://www.facebook.com/swrestorationinc latest post 2026-09-24"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9vr7hWo3IgRpgvwWkGZXhw&hl=en",
+  "gbp_title": "Southwest Restoration",
+  "gbp_address": "\ue0c8\n4290 James St Unit 8, Port Charlotte, FL 33980, United States",
+  "gbp_rating": "4.7\n(82)",
+  "gbp_phone": "phone:tel:+19417434466",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "collette resanovich",
+    "when": "Edited a year ago",
+    "stars": "5 stars",
+    "text": "We are over-the-moon happy with our new kitchen.  From our first meeting with Ryan, to our final \u201cwalk-through\u201d, we could not have been treated any better.  He was always in communication with us, throughout the remodel. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Jacquye",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "I cannot thank everyone at Southwest Restoration enough for the work they did for me! \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Marlyse Spicer",
+    "when": "11 months ago",
+    "stars": "5 stars",
+    "text": "We flooded after hurricane Milton. Greg\u2019s crew came right away to help clean up the mess, then proceeded to restore all the walls, doors, entire kitchen (remodel), ceilings, painted, replaced crown molding, and put new around the floor \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "office@sw-restoration.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "b9d6dfdfd0dadcf9cace94cbdccacdd6cbd8cdd0d6d797dad6d4",
+    "page": "https://sw-restoration.com/contact-us/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://sw-restoration.com/",
+    "snippet": "Family owned and operated by Todd and Ryan Provencal"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/swrestorationinc"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 15,
+   "bath": 14,
+   "roof": 2,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 11,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 52"
+  ],
+  "competitor_pool": [
+   {
+    "name": "4K Homes LLC",
+    "url": "https://4khomes.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Armstrong Interiors LLC",
+    "url": "https://armstrong-interiors.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "CKB Creations LLC",
+    "url": "https://www.ckbcreations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Island Counters and Cabinets of SWFL",
+    "url": "https://www.islandcountersandcabinets.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Classics, LLC",
+    "url": "https://www.kitchenclassicsonline.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "MK Construction Group LLC",
+    "url": "https://www.mkcsinc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Punta Gorda, FL"
+  ]
+ },
+ {
+  "id": "luxedesignremodel.com",
+  "name": "Luxe Design Remodel",
+  "region": "R3",
+  "website": "https://www.luxedesignremodel.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.luxedesignremodel.com/"
+   ],
+   "contact": [
+    "https://www.luxedesignremodel.com/"
+   ],
+   "about": [
+    "https://www.luxedesignremodel.com/about-us"
+   ],
+   "gallery": [
+    "https://www.luxedesignremodel.com/gallery"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-09-28",
+    "url": "https://www.facebook.com/LuxeDesignRemodel",
+    "source": "Facebook page latest post date gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator; account linked from the company's own site",
+    "quote": "Facebook page https://www.facebook.com/LuxeDesignRemodel latest post 2026-09-28"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20wcwjk9QIgRfci90IXVYho&hl=en",
+  "gbp_title": "Luxe Design Remodel",
+  "gbp_address": null,
+  "gbp_rating": "1.0\n(1)",
+  "gbp_phone": "phone:tel:+15138504871",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Michelle Wallace",
+    "when": "4 years ago",
+    "stars": "1 star",
+    "text": "Can't get anyone to call back",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "jayme@luxedesignremodel.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:jayme@luxedesignremodel.com",
+    "page": "https://www.luxedesignremodel.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/LuxeDesignRemodel"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/luxedesignremodel"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 1,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 1,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 55"
+  ],
+  "competitor_pool": [
+   {
+    "name": "A.D. Kistler & Son Bathroom Remodeling",
+    "url": "https://adkistler.com/?doing_wp_cron=1791994944.9155950546264648437500",
+    "gbp_address": null
+   },
+   {
+    "name": "Blessed Bath Company",
+    "url": "https://blessedbathco.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Doug Ward Construction Inc",
+    "url": "https://www.dougwardconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Godwin Renovations LLC",
+    "url": "https://www.godwinrenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Saver",
+    "url": "https://www.kitchensaver.com/locations/pennsylvania/altoona/?source=90556",
+    "gbp_address": null
+   },
+   {
+    "name": "Lifestyle Kitchen Designs",
+    "url": "https://www.lifestylekitchendesigns.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Oxford, OH"
+  ]
+ },
+ {
+  "id": "alpinecleaning.com",
+  "name": "Alpine Cleaning & Restoration Specialists",
+  "region": "R4",
+  "website": "https://alpinecleaning.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://alpinecleaning.com/"
+   ],
+   "contact": [
+    "https://alpinecleaning.com/contact-us/"
+   ],
+   "about": [
+    "https://alpinecleaning.com/utah-restoration-company/"
+   ],
+   "legal": [
+    "https://alpinecleaning.com/privacy-policy/",
+    "https://alpinecleaning.com/privacy-policy/",
+    "https://alpinecleaning.com/terms-of-service/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "job_posting",
+    "date": "2026-09-30",
+    "url": "https://www.careerbuilder.com/job-details/restoration-technician-smithfield-ut--a49697b9-3aa4-434b-9c03-7af38a0981f8",
+    "source": "job posting gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "job posting:"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1bNpsBiVIcRakTjPomjm1c&hl=en",
+  "gbp_title": "Alpine Cleaning & Restoration Specialists",
+  "gbp_address": "\ue0c8\n177 S Main St, Smithfield, UT 84335, United States",
+  "gbp_rating": "4.7\n(369)",
+  "gbp_phone": "phone:tel:+14352926485",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Marvin Biggs",
+    "when": "Edited 5 months ago",
+    "stars": "5 stars",
+    "text": "Trason and his team did a great job of cleaning up and clearing out.  Very helpful in every way. Explained what to expect and what needs to be done. Highly recommend this group. \u2026",
+    "owner": "Response from the owner 6 months ago\nThank you, Marvin \u2014 we\u2019re glad Trason and his team could help with the cleaning up and clearing out and that they were so helpful in explaining what to expect. We really appreciate your recommendation and are here anytime you need us."
+   },
+   {
+    "reviewer": "Kasey Alder",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "So grateful for Alpines quick response to our issue! They were at our house within 24 hours and took care of us - going above and beyond my expectations.  They safely got rid of all the mold and even suggested to us they look in places we \u2026",
+    "owner": "Response from the owner 6 months ago\nThank you so much, Kasey \u2014 we really appreciate your kind words. We're glad Ken and Quinn could respond quickly, take care of the mold, and that the air purifiers helped you feel safe at home."
+   },
+   {
+    "reviewer": "Constance Rebecca",
+    "when": "8 months ago",
+    "stars": "2 stars",
+    "text": "Let\u2019s start with the positive: they are very quick to respond at the beginning. Initial contact? Great. First inspection? Professional. The drying crew? Fantastic. Lots of fans, lots of follow-up, lots of reassurance that we were in good \u2026",
+    "owner": "Response from the owner 6 months ago\nThank you for highlighting our quick response, professional inspection, and the drying crew\u2019s efforts. We\u2019re sorry to hear the later communication and remaining work were frustrating, and we appreciate you sharing this feedback to help us improve."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@alpinecleaning.com",
+    "how": "plain text",
+    "raw": "info@alpinecleaning.com",
+    "page": "https://alpinecleaning.com/privacy-policy/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://alpinecleaning.com/utah-restoration-company/",
+    "snippet": "In 1989, founder Chris Harris started the company with little more than determination and a commitment to quality work"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/Alpine-Cleaning-and-Restoration-Specialists-124966447044/",
+   "https://www.facebook.com/Alpine-Cleaning-and-Restoration-Specialists-124966447044/reviews",
+   "https://www.facebook.com/AlpineCleaningRestoration",
+   "https://www.facebook.com/alpinecleaningsaltlakecity/reviews",
+   "https://www.facebook.com/profile.php?id=100078242806720"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 2,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 49",
+   "gallery images over 1MB each: https://alpinecleaning.com/wp-content/uploads/2024/04/Mold-Growing-On-Walls-1.png = 1,099,074 bytes; https://alpinecleaning.com/wp-content/uploads/2024/04/Storm"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Footprints Bath and Tile Broomfield / Boulder",
+    "url": "https://footprintsbathandtile.com/broomfield",
+    "gbp_address": null
+   },
+   {
+    "name": "Foxwood Inc.",
+    "url": "https://www.foxwoodinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Herring Construction & Basement Finishing",
+    "url": "https://herring-construction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Renovate Ease",
+    "url": "https://www.renovateease.com/bountiful",
+    "gbp_address": null
+   },
+   {
+    "name": "Utah Small Jobs LLC",
+    "url": "https://utahsmalljobs.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dependable Construction LLC",
+    "url": "https://dependableconstructionutah.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "North Salt Lake, UT",
+   "Smithfield, UT"
+  ]
+ },
+ {
+  "id": "experthomebuilders.com",
+  "name": "Expert Home Builders",
+  "region": "R5",
+  "website": "https://experthomebuilders.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://experthomebuilders.com/"
+   ],
+   "contact": [
+    "https://experthomebuilders.com/contact-us/"
+   ],
+   "about": [
+    "https://experthomebuilders.com/about-us/"
+   ],
+   "gallery": [
+    "https://experthomebuilders.com/project/",
+    "https://experthomebuilders.com/project/complete-remodeling-encino/"
+   ],
+   "legal": [
+    "https://experthomebuilders.com/privacy-policy-2/",
+    "https://experthomebuilders.com/privacy-policy-2/",
+    "https://experthomebuilders.com/terms-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-10-02",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJHcjoP8DHwoARO-XSBtRuk74&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "We got several quotes before choosing to work"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcjoP8DHwoARO-XSBtRuk74&hl=en",
+  "gbp_title": "Expert Home Builders",
+  "gbp_address": "\ue0c8\n5800 S Eastern Ave Suit 500, Commerce, CA 90040, United States",
+  "gbp_rating": "4.4\n(306)",
+  "gbp_phone": "phone:tel:+13235032344",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Henry Carter",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "From the initial consultation to the final walkthrough, everything was smooth and well-organized. They communicated clearly and kept me updated throughout the process. The quality of their work is outstanding. I would definitely recommend them to anyone looking for reliable home builders.",
+    "owner": null
+   },
+   {
+    "reviewer": "pc06 lab",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "Their craftsmanship and attention to detail really stood out. They took the time to understand exactly what I wanted and delivered beyond expectations. The entire team was friendly and easy to work with. I\u2019m very satisfied with the results.",
+    "owner": null
+   },
+   {
+    "reviewer": "Thomas Garcia",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Working with this team was a fantastic experience from beginning to end. They stayed professional, communicated clearly, and completed the project with impressive attention to detail. The final results completely transformed the space in the best way possible.",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "build@experthomebuilders.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "5b192e32373f1b3e232b3e292f3334363e392e32373f3e292875383436",
+    "page": "https://experthomebuilders.com/"
+   },
+   {
+    "email": "info@intoriastudio.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "264f484049664f485249544f47555253424f490845494b",
+    "page": "https://experthomebuilders.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://experthomebuilders.com/about-us/",
+    "snippet": "Founder"
+   },
+   {
+    "page": "https://experthomebuilders.com/about-us/",
+    "snippet": "President of Sales"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/profile.php?id=100054384827362"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/experthomebuilders"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 7,
+   "bath": 6,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 4,
+   "solar": 0,
+   "custom home": 13
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 46"
+  ],
+  "competitor_pool": [
+   {
+    "name": "j&s ktchen and bath",
+    "url": "https://jskitchenbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kitchen Remodel & Cabinets Suwanee and Lawrenceville",
+    "url": "https://www.youtube.com/user/admaxco/videos",
+    "gbp_address": null
+   },
+   {
+    "name": "LA Reglazing",
+    "url": "https://www.lareglazing.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Cudahy, CA",
+   "Maywood, CA"
+  ]
+ },
+ {
+  "id": "westernbuildingsolutions.com",
+  "name": "Western Building Solutions",
+  "region": "R5",
+  "website": "https://www.westernbuildingsolutions.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.westernbuildingsolutions.com/"
+   ],
+   "contact": [
+    "https://www.westernbuildingsolutions.com/contact"
+   ],
+   "about": [
+    "https://www.westernbuildingsolutions.com/about"
+   ],
+   "gallery": [
+    "https://www.westernbuildingsolutions.com/projects"
+   ],
+   "legal": [
+    "https://www.westernbuildingsolutions.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-16",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJPWFJAXtrn0wRzZRrT45Zbi4&hl=en",
+    "source": "Google Maps review data gathered with Gemini and supplied by the user, checked_on 2026-10-19; not opened by the coordinator",
+    "quote": "Called Western Building Solutions to redo my garage"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWFJAXtrn0wRzZRrT45Zbi4&hl=en",
+  "gbp_title": "Western Building Solutions",
+  "gbp_address": "\ue0c8\n430 Foothill Blvd Ste D, La Ca\u00f1ada Flintridge, CA 91011, United States",
+  "gbp_rating": "5.0\n(52)",
+  "gbp_phone": "phone:tel:+18558536100",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Hakop Ansuryan",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "We originally wanted to add square footage to our existing house for my in-laws to move in, but after going over the pros and cons with Western Building Solutions, we went with their suggestion of building an ADU. They helped us understand \u2026",
+    "owner": "Response from the owner 9 months ago\nMr. Ansuryan,\nThank you for this stellar review, and we hope your in-laws are enjoying the new space! If there is anything else we can help with, please don't hesitate to reach out"
+   },
+   {
+    "reviewer": "Hagop Darbinyan",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Our kitchen remodel turned out better than we ever imagined! Jay and Matt were fantastic to work with. They were professional, detail-oriented, and truly committed to quality. They helped bring our vision to life with high-end finishes, \u2026",
+    "owner": "Response from the owner a year ago\nMr. Darbinyan,\nThank you for sharing such kind words about your kitchen remodel experience with us! We\u2019re thrilled to hear that Jay and Matt were able to bring your vision to \u2026 More"
+   },
+   {
+    "reviewer": "Khoren Khatchatourian",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Western Building Solutions recently completed a full kitchen remodel for us and we\u2019re really happy with how it turned out. From the initial consultation to the final walkthrough, the team was professional, clear about expectations, and easy \u2026",
+    "owner": "Response from the owner a year ago\nThank you for the kind words and for trusting us with your kitchen remodel. We\u2019re glad to hear the new layout feels more open and functional, and that the final result met your expectations. Staying on budget and on schedule is something we take pride in. We appreciate your support and are here whenever you need us for future projects."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@westernbuildingsolutions.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@westernbuildingsolutions.com",
+    "page": "https://www.westernbuildingsolutions.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.westernbuildingsolutions.com/about",
+    "snippet": "The company is licensed by the California Contractors State License Board, CSLB #1139272, and was founded by Jirir \"Jay\" Wosgerijyan and Sevada \"Matt\" Babakhani"
+   },
+   {
+    "page": "https://www.westernbuildingsolutions.com/about",
+    "snippet": "Whichever owner walks your house on day one is the owner who runs your job to the last day - we don't hand projects off to someone you've never spoken to"
+   },
+   {
+    "page": "https://www.westernbuildingsolutions.com/about",
+    "snippet": "Co-Founder"
+   },
+   {
+    "page": "https://www.westernbuildingsolutions.com/about",
+    "snippet": "Co-Founder"
+   },
+   {
+    "page": "https://www.westernbuildingsolutions.com/about",
+    "snippet": "\u2713 The owner who sold you the job is the owner who runs it"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/profile.php?id=61576110167890"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/westernbuildingsolutions"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 12,
+   "bath": 11,
+   "roof": 1,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 6
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 51",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/67ccc53bd5dd831141060938/1a4d5c44-4d03-40c5-b2ed-416689976751/ADU+backhouse.png?format=2500w = 3,604,536 bytes (HT"
+  ],
+  "competitor_pool": [
+   {
+    "name": "ClearChoice Bathrooms",
+    "url": "https://6aa7df79b06d9.site123.me/",
+    "gbp_address": null
+   },
+   {
+    "name": "Altadena Kitchen Remodeling",
+    "url": "https://www.altadenakitchenremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Lungu Construction Group",
+    "url": "https://lunguconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "La Ca\u00f1ada Flintridge, CA"
+  ]
+ }
+]
