@@ -1242,3 +1242,6 @@
 {"id": "prokitchensandtrim.com", "tested_url": "https://www.prokitchensandtrim.com/", "attempts": [{"at": "2026-10-19T07:11:50+00:00", "http": 200}], "psi_score": 53, "psi_date": "2026-10-19T07:11:50+00:00"}
 {"id": "proper-handyman.com", "tested_url": "https://proper-handyman.com/", "attempts": [{"at": "2026-10-19T07:12:07+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T07:12:41+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "purelovecarpentry.com", "tested_url": "https://www.purelovecarpentry.com/", "attempts": [{"at": "2026-10-19T07:13:14+00:00", "http": 200}], "psi_score": 53, "psi_date": "2026-10-19T07:13:14+00:00"}
+{"id": "ramabuild.com", "tested_url": "https://ramabuild.com/", "attempts": [{"at": "2026-10-19T07:13:30+00:00", "http": 200}], "psi_score": 47, "psi_date": "2026-10-19T07:13:30+00:00"}
+{"id": "rapidrepairandremodel.com", "tested_url": "https://rapidrepairandremodel.com/", "attempts": [{"at": "2026-10-19T07:13:54+00:00", "http": 200}], "psi_score": 75, "psi_date": "2026-10-19T07:13:54+00:00"}
+{"id": "redbeardremodels.com", "tested_url": "https://redbeardremodels.com/", "attempts": [{"at": "2026-10-19T07:14:08+00:00", "http": 200}], "psi_score": 86, "psi_date": "2026-10-19T07:14:08+00:00"}
