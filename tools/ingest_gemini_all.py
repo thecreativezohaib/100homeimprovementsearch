@@ -35,7 +35,7 @@ FIRMS = "firms.csv" if "--old" in sys.argv else "firms_complete.csv"
 sys.argv = [a for a in sys.argv if a != "--old"]
 firms = {r["row"]: r for r in csv.DictReader(open(f"/home/user/100homeimprovementsearch/output/review_requests/all/{FIRMS}"))}
 site = {}
-for f in ("site", "site_b", "site_c", "site_d", "site_render"):
+for f in ("site", "site_b", "site_c", "site_d", "site_e", "site_render"):
     for x in jl(f"{D}/{f}.jsonl"):
         site[x["id"]] = x
 

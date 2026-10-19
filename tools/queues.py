@@ -8,7 +8,7 @@ data = load(); L = data[0]
 if which == "render":
     dns = {x["id"] for x in jl(f"{D}/dns.jsonl")}
     done = {x["id"] for x in jl(f"{D}/site_render.jsonl")}
-    raw = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl") + jl(f"{D}/site_c.jsonl") + jl(f"{D}/site_d.jsonl")}
+    raw = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl") + jl(f"{D}/site_c.jsonl") + jl(f"{D}/site_d.jsonl") + jl(f"{D}/site_e.jsonl")}
     q = []
     for x in jl(f"{D}/site_queue.jsonl"):
         s = raw.get(x["id"])

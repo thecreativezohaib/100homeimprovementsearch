@@ -48,7 +48,7 @@ PLATFORM_ACCT = re.compile(r"linkedin\.com/company/(wix-com|squarespace|godaddy|
 
 def load():
     ledger = {x["id"]: x for x in jl(f"{D}/ledger.jsonl")}
-    site = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl") + jl(f"{D}/site_c.jsonl") + jl(f"{D}/site_d.jsonl")}
+    site = {x["id"]: x for x in jl(f"{D}/site.jsonl") + jl(f"{D}/site_b.jsonl") + jl(f"{D}/site_c.jsonl") + jl(f"{D}/site_d.jsonl") + jl(f"{D}/site_e.jsonl")}
     for x in jl(f"{D}/site_render.jsonl"):
         orig = site.get(x["id"], {})
         if x.get("g2") == "PASS":

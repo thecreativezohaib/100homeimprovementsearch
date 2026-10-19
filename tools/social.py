@@ -147,7 +147,7 @@ if __name__ == "__main__":
     workers = int(sys.argv[3]) if len(sys.argv) > 3 else 12
     done = {x["id"] for x in jl(outp)}
     site = {}
-    for f in ("site", "site_b", "site_c", "site_d", "site_render"):
+    for f in ("site", "site_b", "site_c", "site_d", "site_e", "site_render"):
         for x in jl(f"{D}/{f}.jsonl"):
             if x.get("final_url"):
                 site[x["id"]] = x["final_url"]
