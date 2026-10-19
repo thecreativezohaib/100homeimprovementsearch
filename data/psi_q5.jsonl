@@ -1067,3 +1067,5 @@
 {"id": "stroykabuilders.com", "tested_url": "https://stroykabuilders.com/", "attempts": [{"at": "2026-10-19T06:09:24+00:00", "http": 200}], "psi_score": 92, "psi_date": "2026-10-19T06:09:24+00:00"}
 {"id": "pavaconstruction.com", "tested_url": "https://www.pavaconstruction.com/", "attempts": [{"at": "2026-10-19T06:09:34+00:00", "http": 200}], "psi_score": 58, "psi_date": "2026-10-19T06:09:34+00:00"}
 {"id": "surfacerestorationstec.com", "tested_url": "https://surfacerestorationstec.com/", "attempts": [{"at": "2026-10-19T06:09:46+00:00", "http": 200}], "psi_score": 61, "psi_date": "2026-10-19T06:09:46+00:00"}
+{"id": "atlhomeremodelingrenovations.com", "tested_url": "https://atlhomeremodelingrenovations.com/", "attempts": [{"at": "2026-10-19T06:09:11+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:09:45+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "cherrycreekcustom.com", "tested_url": "http://www.cherrycreekcustom.com/", "attempts": [{"at": "2026-10-19T06:10:04+00:00", "http": 200}], "psi_score": 50, "psi_date": "2026-10-19T06:10:04+00:00"}
