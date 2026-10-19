@@ -1,9 +1,138 @@
 [
  {
-  "id": "engelhardconstruction.com",
-  "name": "Engelhard Basement Remodeling",
+  "id": "buildcrafthq.com",
+  "name": "Buildcraft",
   "region": "R3",
-  "website": "https://engelhardconstruction.com/",
+  "website": "https://www.buildcrafthq.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.buildcrafthq.com/"
+   ],
+   "about": [
+    "https://www.buildcrafthq.com/about-us"
+   ],
+   "gallery": [
+    "https://www.buildcrafthq.com/projects"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-10-01..2026-10-07",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8IPgMlP4gRNvMLv7lFiCc&hl=en",
+    "quote": "Dennis Schaub: 'a week ago' (Google relative timestamp, retrieved 2026-10-19)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8IPgMlP4gRNvMLv7lFiCc&hl=en",
+  "gbp_title": "Buildcraft",
+  "gbp_address": "\ue0c8\n1996 Township Rd 200, Bellefontaine, OH 43311, United States",
+  "gbp_rating": "5.0\n(2)",
+  "gbp_phone": "phone:tel:+19373035956",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Above Grade",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We\u2019ve worked with Build Craft on multiple projects and they have always been excellent to deal with. They are easy to work with, responsive, and consistently deliver high-quality, professional results. Their attention to detail and \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Dennis Schaub",
+    "when": "a week ago",
+    "stars": "5 stars",
+    "text": "Highly recommend Buildcraft! The owner, Matt, is polite, professional, and easy to work with. He\u2019s honest and hardworking, and it\u2019s clear he takes pride in his work. It\u2019s great to have someone local who cares about doing the job right and treating people well. A solid choice for anyone in the Bellefontaine area!",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "projects@buildcrafthq.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:projects@buildcrafthq.com",
+    "page": "https://www.buildcrafthq.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.buildcrafthq.com/about-us",
+    "snippet": "Buildcraft was founded by two brothers, Matt and Roman Comer"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/profile.php?id=61555234689571"
+  ],
+  "instagram_links": [
+   "http://instagram.com/buildcraftHQ",
+   "https://www.instagram.com/p",
+   "https://www.instagram.com/reel"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 1,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 41"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Aurora Remodeling, Inc",
+    "url": "https://auroraremodelinginc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "W&S Construction LLC",
+    "url": "https://www.buildwithws.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Fix-It Right LLC",
+    "url": "https://fixitrightusa.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "SERVPRO of Statesboro",
+    "url": "https://www.servpro.com/locations/ga/servpro-of-statesboro",
+    "gbp_address": null
+   },
+   {
+    "name": "Simple Kitchen",
+    "url": "https://www.simplekitchenohio.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Triple H Construction & Remodeling",
+    "url": "https://tripleh-construction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Bellefontaine, OH"
+  ]
+ },
+ {
+  "id": "interiorwoodsolutions.com",
+  "name": "Interior Wood Solutions",
+  "region": "R3",
+  "website": "https://interiorwoodsolutions.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,77 +140,96 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://engelhardconstruction.com/"
+    "https://interiorwoodsolutions.com/"
    ],
    "contact": [
-    "https://engelhardconstruction.com/contact/"
+    "https://interiorwoodsolutions.com/contact/",
+    "https://interiorwoodsolutions.com/contact/"
    ],
    "about": [
-    "https://engelhardconstruction.com/about/",
-    "https://engelhardconstruction.com/about/service-locations/"
+    "https://interiorwoodsolutions.com/about/",
+    "https://interiorwoodsolutions.com/about/"
    ],
    "gallery": [
-    "https://engelhardconstruction.com/project-gallery/",
-    "https://engelhardconstruction.com/gallery/basement-images/"
-   ],
-   "legal": [
-    "https://engelhardconstruction.com/privacy-policy/",
-    "https://engelhardconstruction.com/privacy-policy/"
+    "https://interiorwoodsolutions.com/gallery/",
+    "https://interiorwoodsolutions.com/gallery/"
    ]
   },
   "auto_signals": [
    {
-    "type": "site_dated_content",
-    "date": "2026-09-30",
-    "url": "https://engelhardconstruction.com/estimate-basement-finishing-costs-in-hudsonville-mi/",
-    "quote": "wp-json/posts published 2026-09-30T14:01:58: 'Estimate Basement Finishing Costs in Hudsonville, MI'"
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJWa3tko-jI4gRC9bKA9UHpuE&hl=en",
+    "quote": "Laurie Riley: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJKX-CL_y7GYgRObXpgmuY0As&hl=en",
-  "gbp_title": "Engelhard Basement Remodeling",
-  "gbp_address": "\ue0c8\n1008 Coral St, Jenison, MI 49428, United States",
-  "gbp_rating": "5.0\n(18)",
-  "gbp_phone": "phone:tel:+16162292841",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJWa3tko-jI4gRC9bKA9UHpuE&hl=en",
+  "gbp_title": "Interior Wood Solutions",
+  "gbp_address": "\ue0c8\n8477 Reed Rd, New Lothrop, MI 48460, United States",
+  "gbp_rating": "4.9\n(59)",
+  "gbp_phone": "phone:tel:+18102407529",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Susan Semple",
-    "when": "7 months ago",
+    "reviewer": "Laurie Riley",
+    "when": "2 months ago",
     "stars": "5 stars",
-    "text": "Jon and his team were great doing my basement remodel. It turned out the way I pictured. Jon was a great communicator and he and his team were reliable.  My project got done in a very timely manner and I would definitely recommend Engelhard Construction for your home remodeling needs.",
-    "owner": null
+    "text": "Jay and Stan at Interior Wood Solutions made and installed our vanity and linen cabinet.  We have an old house, nothing straight or level, and they were built to fit perfectly.  The drawers were cut out after the plumbing was installed to \u2026",
+    "owner": "Response from the owner 2 months ago\nLaurie definitely no worries on your indecision, it was a pleasure working with you and Fred on your project, we greatly appreciate your local support!"
    },
    {
-    "reviewer": "Taylor Blanchette",
-    "when": "10 months ago",
+    "reviewer": "jennifer davis",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "Thoroughly enjoyed working with Jon Engelhard of Engelhard Construction. He and his team made our now finished basement everything we could\u2019ve hoped. Down to every detail he was attentive and always willing to answer any questions or \u2026",
-    "owner": null
+    "text": "So in may 2025 my husband and I decided it was time to update the kitchen.  We reached out to Interior Wood Solutions, with quick response. The timelines and follow through, with each step was flawless. With meeting, measuring, discussing \u2026",
+    "owner": "Response from the owner a year ago\nJennifer, it was a pleasure working with you and Mike. We thank you for the opportunity to help you put together the adjustments and changes to your kitchen. Truly hopeful the adjustments we made help with your kitchen flow for years to come!!\nThe IWS TEAM"
    },
    {
-    "reviewer": "Breanna Miller",
-    "when": "2 years ago",
+    "reviewer": "Patrick Wingate",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "We are so happy that we chose Jon and his team to finish our basement for us! The work they did was incredibly high quality, they were efficient, and Jon communicated really well throughout every step of the process. Their craftsmanship is \u2026",
-    "owner": null
+    "text": "Working with Jay on our cabinets was a great experience.  He listened and worked closely with us on exactly what were important features for us.  The design process was easy to understand and his renderings were very helpful to picture the \u2026",
+    "owner": "Response from the owner a year ago\nPat and Amy,\n it was a pleasure working with you both, we're so very happy we were able to pull all of your wishes together into your project! I love how the wine rack \u2026 More"
    }
   ],
-  "emails_found": [],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/Engelhardconstruction1/"
+  "emails_found": [
+   {
+    "email": "jay@interiorwoodsolutions.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:jay@interiorwoodsolutions.com",
+    "page": "https://interiorwoodsolutions.com/"
+   }
   ],
-  "instagram_links": [],
+  "dm_snippets": [
+   {
+    "page": "https://interiorwoodsolutions.com/",
+    "snippet": "Co-Founder and CEO"
+   },
+   {
+    "page": "https://interiorwoodsolutions.com/about/",
+    "snippet": "Co-Owner"
+   },
+   {
+    "page": "https://interiorwoodsolutions.com/about/",
+    "snippet": "Co-Owner"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/interiorwoodsolutions"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/interior_wood_solutions"
+  ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 3,
-   "bath": 3,
-   "roof": 5,
+   "kitchen": 10,
+   "bath": 7,
+   "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 4,
+   "cabinet": 5,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -89,121 +237,161 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 50"
+   "mobile performance score below 60: PSI mobile performance 38"
   ],
   "competitor_pool": [
    {
-    "name": "BathWorks of Michigan",
-    "url": "https://www.bathworksmi.com/",
+    "name": "Custom Built Design & Remodeling",
+    "url": "https://callcustombuilt.com/",
     "gbp_address": null
    },
    {
-    "name": "Durafinish",
-    "url": "https://www.durafinish.net/",
+    "name": "McDaniels Kitchen & Bath",
+    "url": "https://gomcdaniels.com/",
     "gbp_address": null
    },
    {
-    "name": "Encompass Design & Remodeling",
-    "url": "https://www.encompass-ds.com/",
+    "name": "Martin Construction",
+    "url": "https://www.kmartinconstruction.com/",
     "gbp_address": null
    },
    {
-    "name": "MKD Kitchen and Bath",
-    "url": "https://www.mkdkitchenandbath.com/",
+    "name": "McGeehan Construction",
+    "url": "https://www.mcgeehanconstruction.com",
+    "gbp_address": null
+   },
+   {
+    "name": "Moon River customs llc",
+    "url": "https://www.moonrivercustoms.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Professional Home Repair",
+    "url": "https://www.professionalhomerepair.net/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Grandville, MI"
+   "Owosso, MI"
   ]
  },
  {
-  "id": "nexgenbaths.com",
-  "name": "NexGen Baths",
+  "id": "qualitydefined.com",
+  "name": "Michael F Simon Builders",
   "region": "R3",
-  "website": "https://www.nexgenbaths.com/",
+  "website": "https://www.qualitydefined.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "Wix"
+   "WordPress"
   ],
   "pages_fetched": {
    "home": [
-    "https://www.nexgenbaths.com/"
+    "https://www.qualitydefined.com/"
    ],
    "contact": [
-    "https://www.nexgenbaths.com/contato-1"
+    "https://www.qualitydefined.com/contact-us/"
    ],
    "about": [
-    "https://www.nexgenbaths.com/about-us",
-    "https://www.nexgenbaths.com/joinourteam"
+    "https://www.qualitydefined.com/about-us/",
+    "https://www.qualitydefined.com/about-us/our-history/"
    ],
    "gallery": [
-    "https://www.nexgenbaths.com/photos"
+    "https://www.qualitydefined.com/project-portfolio/",
+    "https://www.qualitydefined.com/project-portfolio/videos/"
+   ],
+   "legal": [
+    "https://www.qualitydefined.com/privacy-policy/"
    ]
   },
   "auto_signals": [
    {
-    "type": "site_dated_content",
-    "date": "2026-10-06",
-    "url": "https://www.nexgenbaths.com/post/tub-shower-replacement-what-to-expect",
-    "quote": "rss:https://www.nexgenbaths.com/blog-feed.xml published Tue, 06 Oct 2026 18:32:27 GMT: 'Replacing Your Tub or Shower? Here\u2019s What to Expect'"
+    "type": "social_post",
+    "date": "2026-07-20",
+    "url": "https://www.youtube.com/watch?v=tnHlnEDvsAU",
+    "quote": "YouTube channel https://www.youtube.com/channel/UCw-LQNo1oxruAQOyJMQ6Q3Q post: 'Custom Lakefront Home Tour | Michael F Simon Builders'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCw-LQNo1oxruAQOyJMQ6Q3Q <published>"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4Hho0EL7YcRHM-eYurjZlk&hl=en",
-  "gbp_title": "NexGen Baths",
-  "gbp_address": "\ue0c8\n613 1st St, Redfield, IA 50233, United States",
-  "gbp_rating": "5.0\n(83)",
-  "gbp_phone": "phone:tel:+15153444144",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Raca5AAB4gRgugmkJzxdM0&hl=en",
+  "gbp_title": "Michael F Simon Builders",
+  "gbp_address": "\ue0c8\n817 S Division St, Waunakee, WI 53597, United States",
+  "gbp_rating": "4.8\n(57)",
+  "gbp_phone": "phone:tel:+16088495916",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Kelcee Stewart",
-    "when": "6 months ago",
+    "reviewer": "Sprinkman Design",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "We had the opportunity to meet and speak to NexGen Baths recently and throughout the whole process they were professional and knowledgeable. Within a week of speaking to them they had someone at our home to take measurements and give us a \u2026",
-    "owner": "Response from the owner 6 months ago\nThank you so much Kelcee for leaving such a heart-felt review!! We are very grateful to have had the opportunity to help with your project and so glad we provided an exceptional experience for you. Your support and feedback for our company means so much! "
+    "text": "Our firm cannot say enough good things about Michael F Simon Builders. Every project that we partner with them on runs smoothly from onboarding through closing. Their process is buttoned up, their team is knowledgeable and highly skilled, and the execution is top notch. We look forward to every future project with this group!",
+    "owner": null
    },
    {
-    "reviewer": "Ranney Ramsey",
-    "when": "8 months ago",
+    "reviewer": "Wen Zhang",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "They installed a new Onyx shower and vanity with cabinets.  Their bid was very competitive and accurate.  They were easy to work with and did excellent work.  They suggested helpful alternatives to make the final project work really well. We would give them an unqualified recommendation.",
-    "owner": "Response from the owner 8 months ago\nThank you so much for taking the time to leave such a great review! Our team enjoyed working with you from start to finish and are so happy to hear you had a great experience as well! "
+    "text": "Michael F Simon Builders did an incredible job remodeling our bathroom! Their craftsmanship and professionalism were outstanding. The team was courteous, efficient, and kept us updated throughout. If you're considering a remodel, I highly \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Julie Clark",
-    "when": "Edited 5 months ago",
+    "reviewer": "David Aufhauser",
+    "when": "3 years ago",
     "stars": "5 stars",
-    "text": "We cannot say enough amazing things about NexGen Baths! From start to finish, they made our bathroom remodel so easy and completely stress-free. Colby and his team truly bent over backwards to bring our dream bathroom to life, and the \u2026",
-    "owner": "Response from the owner 10 months ago\nWe appreciate you so much for sharing your experience! We are very grateful you chose us to transform your space; the end result is absolutely stunning and we hope you enjoy for many, many years to come! "
+    "text": "Michael F Simon Builders did a terrific job with an extensive re-model of our home.  Quality of work was outstanding, everyone on the team was a consummate professional, communication was excellent, and they accomplished the work on time \u2026",
+    "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "nexgenbaths@gmail.com",
+    "email": "paul@simonbuilds.com",
     "how": "mailto",
-    "raw": "href=\"mailto:nexgenbaths@gmail.com",
-    "page": "https://www.nexgenbaths.com/"
+    "raw": "href=\"mailto:paul@simonbuilds.com",
+    "page": "https://www.qualitydefined.com/contact-us/"
+   },
+   {
+    "email": "builder@simonbuilds.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:builder@simonbuilds.com",
+    "page": "https://www.qualitydefined.com/privacy-policy/"
    }
   ],
   "dm_snippets": [
    {
-    "page": "https://www.nexgenbaths.com/about-us",
-    "snippet": "NexGen Baths was founded by Colby and Wyatt"
+    "page": "https://www.qualitydefined.com/about-us/our-history/",
+    "snippet": ", became president of the corporation in 1973"
+   },
+   {
+    "page": "https://www.qualitydefined.com/about-us/our-history/",
+    "snippet": "ily housing project in Waunakee, followed by light commercial projects of an expanded nature from those of the original founder"
+   },
+   {
+    "page": "https://www.qualitydefined.com/about-us/our-history/",
+    "snippet": "hilip, the long-time estimator and manager of the commercial construction division and third generation builder, became President, with the charge to lead the company into the twenty-first century"
+   },
+   {
+    "page": "https://www.qualitydefined.com/about-us/our-history/",
+    "snippet": "Phil was an active and continuous member of Madison Area Builders Association, a past President and Builder of the Year, Life Director for the Wisconsin Builders Association and Certified Graduate Builder of the Nat"
+   },
+   {
+    "page": "https://www.qualitydefined.com/about-us/our-history/",
+    "snippet": "He strongly believed in giving back to the community and was a founding member and Past President of the Waunakee Community Foundation"
+   },
+   {
+    "page": "https://www.qualitydefined.com/about-us/our-history/",
+    "snippet": "Phil\u2019s son, Paul Simon joined the team in 2009 as the estimator and vice president, and fourth generation of Simons involved with the business"
    }
   ],
   "facebook_links": [
-   "https://www.facebook.com/nexgenbaths",
-   "https://www.facebook.com/nexgenbaths/reviews"
+   "https://www.facebook.com/MichaelFSimonBuilders"
   ],
   "instagram_links": [
-   "https://www.instagram.com/nexgenbaths"
+   "https://www.instagram.com/michaelfsimonbuilders"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 0,
-   "bath": 17,
+   "kitchen": 3,
+   "bath": 3,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
@@ -214,112 +402,255 @@
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 0
+   "custom home": 9
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 42"
+   "mobile performance score below 60: PSI mobile performance 40"
   ],
   "competitor_pool": [
    {
-    "name": "Aim Kitchen & Bath",
-    "url": "https://aimkitchenbath.com/",
+    "name": "Acculevel",
+    "url": "https://acculevel.com/waunakee/",
     "gbp_address": null
    },
    {
-    "name": "Amos Custom Homes",
-    "url": "https://www.amoscustomhomes.com/",
+    "name": "Actuate Improvement LLC",
+    "url": "https://actuatellc.com/",
     "gbp_address": null
    },
    {
-    "name": "KBS Remodeling & Restoration",
-    "url": "https://www.kbsiowa.com/",
+    "name": "DreamMaker Bath & Kitchen",
+    "url": "https://dreammaker-remodel.com/nwa/",
     "gbp_address": null
    },
    {
-    "name": "Kitchen Refresh St. Paul, MN",
-    "url": "https://kitchenrefresh.net/location/st-paul-territory/",
+    "name": "Scullion Builders, LLC",
+    "url": "https://www.scullionbuilders.com/",
     "gbp_address": null
    },
    {
-    "name": "KnoPros Inc",
-    "url": "https://www.knopros.com/",
+    "name": "Superior Concepts Remodeling LLC",
+    "url": "https://superiorconceptsremodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "New Era Homes",
-    "url": "https://newerahomesia.com/",
+    "name": "Waunakee Remodeling",
+    "url": "https://www.waunakeeremodeling.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Indianola, IA",
-   "Norwalk, IA"
+   "Waunakee, WI"
   ]
  },
  {
-  "id": "ohio-wallpapeing.website",
-  "name": "Cincinnati Wallcovering",
+  "id": "thdbuild.com",
+  "name": "Tice Homes",
   "region": "R3",
-  "website": "https://ohio-wallpapeing.website/",
+  "website": "https://tice-homes.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
-  "platform": [],
+  "platform": [
+   "WordPress"
+  ],
   "pages_fetched": {
    "home": [
-    "https://ohio-wallpapeing.website/"
+    "https://tice-homes.com/"
+   ],
+   "contact": [
+    "https://tice-homes.com/contact/"
+   ],
+   "gallery": [
+    "https://tice-homes.com/gallery/"
    ]
   },
   "auto_signals": [
    {
-    "type": "google_review",
-    "date": "2026-10-01..2026-10-07",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJFfFJZD9fQIgRSo2FJUTGbkc&hl=en",
-    "quote": "Leander Clay: 'a week ago' (Google relative timestamp, retrieved 2026-10-19)"
+    "type": "site_dated_content",
+    "date": "2026-10-09",
+    "url": "https://tice-homes.com/love-your-home-hate-your-home-layout-6-signs-it-might-be-time-for-change/",
+    "quote": "wp-json/posts published 2026-10-09T19:01:21: 'Love your Home, Hate your Home Layout? 6 Signs it Might be Time for Change'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfFJZD9fQIgRSo2FJUTGbkc&hl=en",
-  "gbp_title": "Cincinnati Wallcovering",
-  "gbp_address": "\ue0c8\n104 Clarence F Warner Dr, Monroe, OH 45050, United States",
-  "gbp_rating": "5.0\n(4)",
-  "gbp_phone": "phone:tel:+15139516753",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJBz43dg3TslIRptZFOQ2hJA4&hl=en",
+  "gbp_title": "Tice Homes",
+  "gbp_address": "\ue0c8\n594 Outpost Cir H, Hudson, WI 54016, United States",
+  "gbp_rating": "4.8\n(16)",
+  "gbp_phone": "phone:tel:+16514393837",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Leander Clay",
-    "when": "a week ago",
+    "reviewer": "Jeanne Anderson",
+    "when": "4 years ago",
     "stars": "5 stars",
-    "text": "The accent wall looks just like I pictured. They helped pick a pattern that really pops but isn't too much. On-time, careful, and easy to work with from start to finish. Thanks for making it look awesome!",
-    "owner": null
+    "text": "Tice-Hause built a beautiful 3 Season Porch for me with a stunning fireplace, wonderful lighting, floor to ceiling windows, cedar throughout, and a pass through window to my kitchen.  All the work done was top notch by excellent craftsmen. \u2026",
+    "owner": "Response from the owner Edited 2 years ago\nJeanne, Thank you so much for your kind words that inspires us to keep providing excellent service and quality! Your porch truly turned out beautiful and you have been a pleasure to work with."
    },
    {
-    "reviewer": "Upton Cross",
-    "when": "a week ago",
+    "reviewer": "Douglas Armstrong",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "I was unsure about using wallpaper in the bathroom at first, but they explained all the different material options and helped me pick one that actually works for the space. We chose a subtle pattern that fits right in with everything else. The installers showed up on time and wrapped up the job as scheduled. It really does look great.",
-    "owner": "Response from the owner 5 days ago\nBeing unsure about wallpaper in a bathroom is common, so having the material options laid out makes that pick much easier. A subtle pattern that blends in, plus a crew that kept to the schedule, sounds like it came together well."
+    "text": "We had the pleasure of working with Jeff and Tony on an addition to our 1920s house. From the start, they brought their experience and expertise to help with our vision, asking us great questions, and working through the process. We felt \u2026",
+    "owner": "Response from the owner a year ago\nThank you for the kind words Doug, so glad you had a good experience with our staff, our goal is raving fans so really nice to receive your review.  Thanks for takin the time to do this.  Both Tony and Andy are committed guys to keeping our \u2026 More"
    },
    {
-    "reviewer": "Vivian Cross",
-    "when": "2 weeks ago",
+    "reviewer": "Dian Dewi",
+    "when": "4 years ago",
     "stars": "5 stars",
-    "text": "Really enjoyed working with this team. They helped me land on a color that fit what I already had, and the material they suggested feels solid and high-end. Install was quick, never rushed. The finished room looks amazing. Five stars from me!",
-    "owner": "Response from the owner a week ago\nHigh-end material and a color pick that actually matches what you already had, that's a strong combo. Quick but never rushed, and a finished room you're giving five stars, can't ask for better."
+    "text": "Tice-Hause had proven themselves as good partners in building our porch and deck. We were well informed about the schedules and they were able to get it done fast. I would consider to work with them again for the next building projects.",
+    "owner": "Response from the owner 4 years ago\nDian & Anthony,\nIt was an absolute pleasure working with you at your beautiful home in Hudson, WI. Your new custom porch and deck you designed with our draftsman flows \u2026 More"
    }
   ],
   "emails_found": [
    {
-    "email": "info@ohio-wallpapeing.website",
-    "how": "cloudflare data-cfemail",
-    "raw": "4e272028210e2126272163392f22223e2f3e2b27202960392b2c3d273a2b",
-    "page": "https://ohio-wallpapeing.website/"
+    "email": "info@thdbuild.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@thdbuild.com",
+    "page": "https://tice-homes.com/contact/"
    }
   ],
   "dm_snippets": [],
-  "facebook_links": [],
+  "facebook_links": [
+   "https://www.facebook.com/thdbuild/reviews/"
+  ],
   "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
    "kitchen": 1,
+   "bath": 1,
+   "roof": 1,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 1,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 1
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 46",
+   "gallery images over 1MB each: https://tice-homes.com/wp-content/uploads/2023/06/N1A8958Large-1500x630.jpg = 1,133,907 bytes; https://tice-homes.com/wp-content/uploads/2021/03/nyus-porch-.jpg"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Blackstone Remodeling",
+    "url": "https://blackstone-remodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Comfort By Design",
+    "url": "https://comfortbydesign.com/location-hours/hastings-mn/",
+    "gbp_address": null
+   },
+   {
+    "name": "Croix View Construction & Remodeling",
+    "url": "https://croixview.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Thorcraft Custom Cabinets",
+    "url": "https://www.customcabinets.co/",
+    "gbp_address": null
+   },
+   {
+    "name": "RESIDE",
+    "url": "https://livereside.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "SES Renovations",
+    "url": "https://www.ses-renovations.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Hudson, WI"
+  ]
+ },
+ {
+  "id": "vertexcontractingmn.com",
+  "name": "Vertex Contracting",
+  "region": "R3",
+  "website": "https://vertexcontractingmn.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://vertexcontractingmn.com/"
+   ],
+   "contact": [
+    "https://vertexcontractingmn.com/contact-us/"
+   ],
+   "about": [
+    "https://vertexcontractingmn.com/about-vertex/"
+   ],
+   "gallery": [
+    "https://vertexcontractingmn.com/gallery/"
+   ],
+   "legal": [
+    "https://vertexcontractingmn.com/privacy-policy/",
+    "https://vertexcontractingmn.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-10",
+    "url": "https://vertexcontractingmn.com/your-minnesota-basement-has-more-potential-than-you-think/",
+    "quote": "wp-json/posts published 2026-09-10T16:34:17: 'Your Minnesota Basement Has More Potential Than You Think'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-duT2yybtFIRRY5BzGipSs8&hl=en",
+  "gbp_title": "Vertex Contracting",
+  "gbp_address": "\ue0c8\n12281 Armitage Ave NW, Monticello, MN 55362, United States",
+  "gbp_rating": "5.0\n(20)",
+  "gbp_phone": "phone:tel:+17633331020",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "R.C. Shiek",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "We had an excellent experience using Vertex for our basement remodel.\n\nDan and his team are professionals - dedicated, honest, transparent, timely, and \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you for the fantastic review, R.C. Shiek. We're thrilled Dan and the team delivered a basement you love and that our communication, timeliness, and attention to detail met your expectations. We take pride in finding subcontractors who \u2026 More"
+   },
+   {
+    "reviewer": "Kristin Birkholtz",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "Daniel and his crew did an amazing job carpeting a whole home! He was very responsive, and kept me informed with every aspect of the project! Thank you for everything, Daniel!",
+    "owner": "Response from the owner 3 years ago\nOur pleasure to help you out."
+   },
+   {
+    "reviewer": "Gordon Ritz",
+    "when": "4 years ago",
+    "stars": "5 stars",
+    "text": "Dan was fantastic! Always on time, honest about the job and diligent from start to finish. Dan cares about his work and his final product is a testament to his work ethic. We had a difficult tile removal and replacement project that \u2026",
+    "owner": "Response from the owner 4 years ago\nWe are glad you two love it.  Hope the new tile reminds you ever day when you leave and return that you have a nice place to call home."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "daniel@vertexcontractingmn.com",
+    "how": "plain text",
+    "raw": "daniel@vertexcontractingmn.com",
+    "page": "https://vertexcontractingmn.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/vertexcontractingMN/"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 3,
    "bath": 1,
    "roof": 0,
    "plumb": 0,
@@ -328,49 +659,43 @@
    "floor": 0,
    "cabinet": 0,
    "siding": 0,
-   "window": 0,
+   "window": 1,
    "pool": 0,
    "solar": 0,
-   "custom home": 0
+   "custom home": 4
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 56",
-   "gallery images over 1MB each: https://ohio-wallpapeing.website/images/services/worker.webp = 1,076,140 bytes; https://ohio-wallpapeing.website/images/services/fabric.webp = 1,821,198 bytes"
+   "mobile performance score below 60: PSI mobile performance 57"
   ],
   "competitor_pool": [
    {
-    "name": "A.D. Kistler & Son Bathroom Remodeling",
-    "url": "https://adkistler.com/?doing_wp_cron=1791994944.9155950546264648437500",
+    "name": "Chip Bauer Construction Inc",
+    "url": "https://cbauerbuild.com/",
     "gbp_address": null
    },
    {
-    "name": "Beta Construction",
-    "url": "https://www.beta-construction.com/",
+    "name": "CBC Services",
+    "url": "https://www.cbcservicesonline.com/",
     "gbp_address": null
    },
    {
-    "name": "Blessed Bath Company",
-    "url": "https://blessedbathco.com/",
+    "name": "Curtis C Contracting LLC",
+    "url": "https://www.ccc24hr.com/",
     "gbp_address": null
    },
    {
-    "name": "KR Remodeling Services",
-    "url": "https://www.krremodelingservices.com/",
+    "name": "Great River Builders And Remodelers, LLC",
+    "url": "https://www.greatriverbuilders.com/",
     "gbp_address": null
    },
    {
-    "name": "Lifestyle Kitchen Designs",
-    "url": "https://www.lifestylekitchendesigns.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Bath Creations",
-    "url": "https://www.mybathcreations.com/",
+    "name": "JB Home Improvers, Inc",
+    "url": "https://www.jbhomeimprovers.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Monroe, OH"
+   "Monticello, MN"
   ]
  }
 ]
