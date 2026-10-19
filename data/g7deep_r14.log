@@ -420,3 +420,142 @@ If you want or need to use an HTML parser on this document, you can make this wa
     warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
   for a in BeautifulSoup(ph, "lxml").find_all("a", href=True):
+/home/user/100homeimprovementsearch/tools/g7deep.py:89: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  for iu in collect_imgs(BeautifulSoup(h, "lxml"), p):
+perfectviewremodeling.net 0
+mycompletecontracting.com 0
+pineridgeconstruction.pro 0
+plowandproperty.com 0
+nutmegstairsandcabinets.com 8
+pnchb.com 0
+northeasthomeservice.com 12
+pattersonhomesdsm.com 8
+pondviewconstruction.com 0
+powertileinstallation.com 0
+prmass.com 0
+pdrgc.com 8
+novararenovation.com 0
+paraisoconstruction.com 1
+poquosonspecialtybuilders.com 3
+prolumber.net 1
+patinstall.com 12
+plljdesigns.com 7
+prohomeimprov.com 0
+premier-wi.com 12
+provisioncontractors.com 0
+nexgenbaths.com 8
+oregon-builder.com 12
+proyectobuild.com 1
+plumbsconstruction.com 10
+proulxcustomtile.com 3
+qualitybuildsak.com 0
+qualityflooringandrenovations.com 0
+probestrenovations.com 1
+qualityhomecreationsllc.com 0
+qualitykd.com 0
+ragattisservices.com 0
+provostcompanies.com 0
+rainshadowwoodworks.com 0
+randrnwo.com 0
+pronorthconstruction.com 12
+pachecoremodelingandnewbuilds.com 4
+rawhitesellcontractors.com 0
+rebeccareynoldsdesign.com 0
+recoveryrestorationllc.com 0
+renovateandbuild.com 0
+qualitycountsconstructionllc.com 12
+renovationbydesigncabinetry.com 0
+puntconstruction.com 0
+qualitywoodworkingllc.net 1
+ridgebuildersltd.com 0
+polarcabinets.com 6
+ritewaybldrs.com 0
+prokitchendesigninc.com 8
+rivera1.com 0
+rivercityrelics.com 0
+resurfacespecialist.com 4
+revalorainc.com 6
+rebelremodelingms.com 3
+procabinets.net 0
+royalcontractingma.com 0
+royalfixco.com 0
+roadrunnerhomerepair.com 6
+roquegservices.com 5
+rriconstruction.com 0
+pickeringconstructionllc.com 4
+sa-generalcontracting.com 0
+robbinsrenovationsllc.com 1
+proscustomcabinets.com 7
+robertsonelectricalsolution.com 1
+reoscabinets.com 4
+sandscabinetsnd.com 0
+rwwardcarpentry.com 0
+sammystulsa.com 0
+seacliffconst.com 0
+protouchcabinetry.com 10
+semficonstruction.com 1
+serenityhomeimprovements.com 0
+schneidercustomcabinets.com 6
+serviceattitudellc.com 1
+seaworthy-properties.com 0
+sharkaconstruction.com 0
+saltybreezepropertyimprovements.net 2
+shorelinegroupohio.com 0
+shastacountycontractor.com 0
+sipropertyrestoration.org 3
+russosrenovations.com 3
+roomtobreatheinteriors.com 7
+skqualitysolutionsllc.com 0
+rainierreno.com 10
+smalltownbuildersnc.com 0
+rockstarhitn.com 4
+solidadvantage.com 0
+smartdemo.net 0
+reesebuilt.com 12
+solidcraftbathrooms.store 2
+shsolutions.biz 1
+southweststyleinc.com 4
+santacruzconstructionguild.us 0
+socofieldservicesllc.com 5
+slip-busters.com 3
+stratton-construction.com 0
+studiosbdc.com 0
+scspro.biz 12
+spinarskiconstructionllc.com 3
+sleepinguteconstruction.com 0
+styluscab.com 0
+streicherconstruction.com 5
+souzaconstructionusa.com 5
+svginteriors.com 0
+sagecustomcontractors.com 8
+quintanasremodel.com 4
+stoneleafremodeling.com 1
+sunriseconstruction.co 0
+schrock.com 3
+orabathandtile.com 12
+tejamescustomhomes.com 0
+thegraybarnllc.com 0
+summitremodeling.net 5
+studiomremodeling.com 3
+thezenithconstruction.com 0
+thomasconstruction.com 0
+superiorwoodworkbemidji.com 0
+therestorco.com 0
+thor-coast.com 3
+tilestoneart.net 0
+tighejames.com 0
+srlconstruction.com 0
+tab1inc.com 5
+timberlinetile.com 1
+timberworxcg.com 7
+tldconstruction.org 0
