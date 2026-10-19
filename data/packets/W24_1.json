@@ -1,0 +1,703 @@
+[
+ {
+  "id": "plattbuilders.com",
+  "name": "Platt Builders",
+  "region": "R1",
+  "website": "https://www.plattbuilders.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.plattbuilders.com/"
+   ],
+   "contact": [
+    "https://www.plattbuilders.com/contact"
+   ],
+   "about": [
+    "https://www.plattbuilders.com/aboutus",
+    "https://www.plattbuilders.com/workforplatt"
+   ],
+   "gallery": [
+    "https://www.plattbuilders.com/ourwork"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-10-01",
+    "url": "https://www.linkedin.com/posts/platt-builders-inc_spotlight-were-honored-to-be-named-bons-activity-7511506449773096960-eCRP",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/platt-builders-inc/ post: 'Spotlight. We\u2019re honored to be named BONS Best Custom Cabinetry \u2014 Editor\u2019s'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6G-2QrA44kRvhiI0jX4h3s&hl=en",
+  "gbp_title": "Platt Builders",
+  "gbp_address": "\ue0c8\n109 Central Ave, Ayer, MA 01432, United States",
+  "gbp_rating": "4.4\n(11)",
+  "gbp_phone": "phone:tel:+19784489963",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Georgia Zikas",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "We enjoy collaborating with Platt Builders and their talented and professional team members. Their attentiveness to our clients needs, the details of a project, and overall core values all align with our design firm.",
+    "owner": null
+   },
+   {
+    "reviewer": "Tim Svarczkopf",
+    "when": "3 years ago",
+    "stars": "5 stars",
+    "text": "We hired Platt Builders to build our home. From the very beginning we have been impressed with the professionalism and guidance that they have provided. The entire team is extremely experienced, and thoughtful. I came to this after a career \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "ZEN Associates",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We\u2019ve had the pleasure of working with Platt Builders on a recent high-end residential project, and we couldn\u2019t be more pleased with the experience. As an interior and landscape design+build firm, we rely on trusted partners to help bring \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@plattbuilders.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:Info@PlattBuilders.com",
+    "page": "https://www.plattbuilders.com/"
+   },
+   {
+    "email": "nfo@plattbuilders.com",
+    "how": "plain text",
+    "raw": "nfo@plattbuilders.com",
+    "page": "https://www.plattbuilders.com/"
+   },
+   {
+    "email": "smahon@plattbuilders.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:SMahon@plattbuilders.com",
+    "page": "https://www.plattbuilders.com/aboutus"
+   },
+   {
+    "email": "hr@plattbuilders.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:hr@plattbuilders.com",
+    "page": "https://www.plattbuilders.com/workforplatt"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.plattbuilders.com/",
+    "snippet": "Founded by Halsey Platt, our company is built on the principles of careful craftsmanship, creative problem-solving, and a deep res"
+   },
+   {
+    "page": "https://www.plattbuilders.com/aboutus",
+    "snippet": "In 2025, Chris Brown, a long-time employee, was promoted to President of Platt Builders and, in 2026, we are proud to say"
+   },
+   {
+    "page": "https://www.plattbuilders.com/aboutus",
+    "snippet": "Meet Chris Brown, the president of Platt Builders, and hear how he came to be a big part of the Platt team, his vision for the future of Platt, and wha"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/plattbuilders/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/plattbuilders"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 2
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 55",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/607596e152e7217fdc15deec/1632514682234-2BSZZQQ7HVH6OMSX8B6U/LandingPage_2.jpg?format=2500w = 1,293,572 bytes; http"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Artisan Construction Services Inc.",
+    "url": "https://artisanremodelma.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dynamic Home Renovations",
+    "url": "https://dynamichomerenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "KRM Carpentry",
+    "url": "https://krmcarpentry.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Master Quality Construction",
+    "url": "https://masterqualityinc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Nordic Hammer Home Renovations",
+    "url": "https://www.nordichammerhome.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Groton, MA"
+  ]
+ },
+ {
+  "id": "atoznc.com",
+  "name": "A to Z Builders",
+  "region": "R2",
+  "website": "https://www.atoznc.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.atoznc.com/"
+   ],
+   "contact": [
+    "https://www.atoznc.com/contactus"
+   ],
+   "about": [
+    "https://www.atoznc.com/aboutus",
+    "https://www.atoznc.com/areasweservice"
+   ],
+   "legal": [
+    "https://www.atoznc.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oe30cLqokRz5EV4hN2eak&hl=en",
+    "quote": "Corie Garbati: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-10-01",
+    "url": "https://www.youtube.com/watch?v=Idjj3Un6p2Y",
+    "quote": "YouTube channel https://www.youtube.com/@ATOZNC post: 'Why Fall Is the Perfect Time to Build or Renovate Your Deck'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCNjd5gLMOROqcgZziZYvATw <published>"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oe30cLqokRz5EV4hN2eak&hl=en",
+  "gbp_title": "A to Z Builders",
+  "gbp_address": "\ue0c8\n302 Ocean Hwy W, Supply, NC 28462, United States",
+  "gbp_rating": "4.7\n(24)",
+  "gbp_phone": "phone:tel:+19102536229",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Corie Garbati",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Building a custom home is a huge undertaking, and choosing the right builder makes all the difference. From start to finish, we had an outstanding experience. \u2026",
+    "owner": "Response from the owner 2 months ago\nThank you so much for your thoughtful review and for trusting A to Z Builders with your custom beach home. It means the world to our entire team to know that your experience reflected the professionalism, communication, and craftsmanship we \u2026 More"
+   },
+   {
+    "reviewer": "kristin gettleman",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "\u2b50\u2b50\u2b50\u2b50\u2b50\n\nI highly recommend A to Z Builders! From start to finish, their team is \u2026",
+    "owner": "Response from the owner a month ago\nThank you, Kristin! "
+   },
+   {
+    "reviewer": "Ally Shaw",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Being a successful writer is synonymous with being an avid reader so I needed a huge bookcase to house my collection. A to Z (along with Jeff\u2019s Cabinets & Evans & Sons Electric) created a statement piece for our den, a true work of art! Thank you Adrian, Joe, Jeff and teams\u2026it is beautiful and perfect for our needs!",
+    "owner": "Response from the owner a year ago\nHi Ally,\nThank you so much for your kind words! We\u2019re thrilled to hear that your new bookcase turned out to be exactly what you envisioned. It was a pleasure \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "builders@atoznc.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:Builders@atoznc.com",
+    "page": "https://www.atoznc.com/contactus"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/atozbuildersllc"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/Atozbuilder"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 2,
+   "bath": 2,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 2
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://static.wixstatic.com/media/7e3855_ab94f87f394541aa937df04146e8b673~mv2.png/v1/fit/w_1920,h_1080,q_90,enc_avif,quality_auto/7e3855_ab94f87f394541aa937df0"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Coastal Carolina Construction",
+    "url": "https://www.buildingcoastaldreams.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Creative Stone",
+    "url": "https://creativestonenc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Kelley Construction",
+    "url": "https://kelley-con.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Novaroofing+construction LLC",
+    "url": "https://novaroofingconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Red River Renovation",
+    "url": "https://redriverrenovation.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Sligh Homes",
+    "url": "https://slighhomes.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Oak Island, NC"
+  ]
+ },
+ {
+  "id": "kitchenofyourdreams.com",
+  "name": "Kitchens By Creative Woodworking, Inc.",
+  "region": "R3",
+  "website": "https://www.kitchenofyourdreams.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Wix"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.kitchenofyourdreams.com/"
+   ],
+   "contact": [
+    "https://www.kitchenofyourdreams.com/contact"
+   ],
+   "about": [
+    "https://www.kitchenofyourdreams.com/about"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJdYg7ebxGFYgRsxRoJoinrxc&hl=en",
+    "quote": "Angela Carmichael: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYg7ebxGFYgRsxRoJoinrxc&hl=en",
+  "gbp_title": "Kitchens By Creative Woodworking, Inc.",
+  "gbp_address": "\ue0c8\n3551 S 1200 W, Parker City, IN 47368, United States",
+  "gbp_rating": "5.0\n(31)",
+  "gbp_phone": "phone:tel:+17657480649",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Barbara Giorgio-Booher",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "We absolutely love our new kitchen remodel by Brandon Oren! The change was dramatic as the floor plan was reconfigured to create a more open concept. Brandon worked with me to plan a place for all of our numerous kitchen gadgets, pots/pans, \u2026",
+    "owner": "Response from the owner 5 months ago\nThat was an amazing transformation.   Your artistic career background was very helpful!  You are Mark were awesome to work for.  You gave me plenty of time to do it the right way.  I gained some new friends in the process.  "
+   },
+   {
+    "reviewer": "Theresa Sell",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "Brandon created a new kitchen cabinet design and installed the cabinets.  He worked with the electricians to have wiring redone, the appliance installer for 3 new appliances and the countertop company for all new tops .  Brandon listened to \u2026",
+    "owner": "Response from the owner 5 months ago\nGreat review, Theresa!  Thank you for noticing the efforts I put into communication.  I will always be impressed,  and never forget how hardworking and tough you are.  You work like you are younger than me...picking up heavy appliances, and refusing my help lol.  I may need to hire you lol. "
+   },
+   {
+    "reviewer": "Angela Carmichael",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Brandon is an amazing craftsman. His Attention to detail and kitchen design is absolutely Pristine. I love the new Kitchen design he offers to each of his clients while paying close attention to the scale of the room at the same time. So \u2026",
+    "owner": "Response from the owner a month ago\nThank you Angie.  It is nice to work with and around pros like you on a regular basis.  Your wallpaper and painting work is top notch...I always encourage people to call the specialists like you."
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "brandonoren@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:brandonoren@gmail.com",
+    "page": "https://www.kitchenofyourdreams.com/contact"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://static.wixstatic.com/media/3e8de9_2a86b8bbefa249368d5afa94f24d689c~mv2.png/v1/fit/w_1643,h_918,q_90,enc_avif,quality_auto/3e8de9_2a86b8bbefa249368d5afa9"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Great Kitchens & Baths",
+    "url": "https://www.agreatkitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cabinet Factories Outlet of Richmond",
+    "url": "https://www.cabinetoutletofrichmond.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Richmond Remodel Kitchen & Bath",
+    "url": "https://richmondremodel.net/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Connersville, IN"
+  ]
+ },
+ {
+  "id": "firsttexashomes.com",
+  "name": "Gallery Custom Homes - Parker Ranch",
+  "region": "R4",
+  "website": "https://www.firsttexashomes.com/community/parker/16560/parker-ranch/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.firsttexashomes.com/community/parker/16560/parker-ranch/"
+   ],
+   "about": [
+    "https://www.firsttexashomes.com/about/",
+    "https://www.firsttexashomes.com/about/first-texas-homes"
+   ],
+   "gallery": [
+    "https://www.firsttexashomes.com/about/gallery-custom-homes",
+    "https://www.firsttexashomes.com/photos"
+   ],
+   "legal": [
+    "https://www.firsttexashomes.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-10-14",
+    "url": "https://www.youtube.com/shorts/yY5uzXis9Ok",
+    "quote": "YouTube channel https://www.youtube.com/@Firsttexashomesdfw post: 'After building hundreds of homes, this is still one of our favorite'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCOV-Iocvitm4OtDwkyMGPmQ <published>"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4wTsHgbTIYRavkVrGbTBOE&hl=en",
+  "gbp_title": "Gallery Custom Homes - Parker Ranch",
+  "gbp_address": "\ue0c8\n5112 Amherst Ct, Parker, TX 75002, United States",
+  "gbp_rating": "4.2\n(16)",
+  "gbp_phone": "phone:tel:+14693426801",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "abhilash reddy",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "I recently purchased a custom-built home from Gallery Custom Homes, and the experience was truly exceptional! I worked closely with Andrew, Dolores, and Erin throughout the process, and their support and expertise made all the difference. \u2026",
+    "owner": "Response from the owner a year ago\nThank you so much for your 5 star rating.  We are very proud of our team in Parker Ranch and yes Dolores is a gem.  We are thrilled that you are happy and we wish you many years of happiness in your new Gallery Custom Home."
+   },
+   {
+    "reviewer": "John Taylor",
+    "when": "6 years ago",
+    "stars": "5 stars",
+    "text": "Really nice houses and floor plans. I toured a couple of their model homes and they really are great. They build the homes, so everything is customizable to fit your wants. They are pricey though. They say that they cost between $650- $850, but when I asked they told me that the average home sells for about $900 thousand.",
+    "owner": null
+   },
+   {
+    "reviewer": "Ashley Kennedy",
+    "when": "5 years ago",
+    "stars": "1 star",
+    "text": "Horrible quality, contractors take no pride in their work. We just moved into our home in October and there are so many issues. When you spend this much on a home, you expect the quality to be higher than a low-end builder. Our cabinets \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "jvanwinkle@firsttexashomes.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:JVanWinkle@FirstTexasHomes.com",
+    "page": "https://www.firsttexashomes.com/community/parker/16560/parker-ranch/"
+   },
+   {
+    "email": "onlinesales@firsttexashomes.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:onlinesales@firsttexashomes.com",
+    "page": "https://www.firsttexashomes.com/community/parker/16560/parker-ranch/"
+   },
+   {
+    "email": "onlineconcierge@firsttexashomes.com",
+    "how": "plain text",
+    "raw": "onlineconcierge@firsttexashomes.com",
+    "page": "https://www.firsttexashomes.com/community/parker/16560/parker-ranch/"
+   },
+   {
+    "email": "info@firsttexashomes.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@firsttexashomes.com",
+    "page": "https://www.firsttexashomes.com/privacy-policy"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/FirstTexasHomesDallas"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/thefirsttexashomes"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 15,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 1,
+   "solar": 0,
+   "custom home": 3
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 35"
+  ],
+  "competitor_pool": [
+   {
+    "name": "amdremodeling.com",
+    "url": "https://amdremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JLM CONTRACTORS LLC",
+    "url": "https://jlmcontractorsllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Landmark Kitchen & Bath",
+    "url": "https://www.landmarkkitchenbath.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "All Sides Home Improvement LLC",
+    "url": "https://profconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "SDAY Remodeling",
+    "url": "https://sdayremodeling.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Parker, TX"
+  ]
+ },
+ {
+  "id": "mdabuilders.com",
+  "name": "MDA Home Remodeling & Builders",
+  "region": "R5",
+  "website": "https://mdabuilders.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://mdabuilders.com/"
+   ],
+   "contact": [
+    "https://mdabuilders.com/contact-us/",
+    "https://mdabuilders.com/contact-us/"
+   ],
+   "about": [
+    "https://mdabuilders.com/about-us/"
+   ],
+   "gallery": [
+    "https://mdabuilders.com/3d-design/",
+    "https://mdabuilders.com/plan-design/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-09-30",
+    "url": "https://www.youtube.com/watch?v=gmdqcMiAzNw",
+    "quote": "YouTube channel https://www.youtube.com/@2MDABuildersBayArea post: 'San Bruno Kitchen Remodel | Homeowner Testimonial | MDA Builders'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCi-BNIhVfWVVNcnj4aqx4sA <published>"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1b1vt-g-YQoRLc5J9Lqlvrs&hl=en",
+  "gbp_title": "MDA Home Remodeling & Builders",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(11)",
+  "gbp_phone": "phone:tel:+16503079350",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Sylvia Toma",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "I recently hired David and his team to repair a leaking shower pan and remodel the affected area of my bathroom, and I couldn\u2019t be happier with the experience. From the very beginning, David responded quickly and started the work right \u2026",
+    "owner": "Response from the owner 8 months ago\n\nSylvia, thank you so much for your trust and kind words. It was truly a pleasure helping with your shower pan repair and bathroom remodel. \u2026 More"
+   },
+   {
+    "reviewer": "lily dominguez",
+    "when": "9 months ago",
+    "stars": "5 stars",
+    "text": "\u2b50\u2b50\u2b50\u2b50\u2b50\nI had an excellent experience with MDA Home Remodeling & Builders. They did a great job on the construction of my kitchen. David Peraza was very professional, \u2026",
+    "owner": "Response from the owner 8 months ago\nLily, thank you so much for trusting MDA Home Remodeling & Builders with your kitchen remodel. \nWe\u2019re proud to deliver high-quality craftsmanship, attention to detail, and \u2026 More"
+   },
+   {
+    "reviewer": "Lawrence Cesnik",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "David P and the MDA team helped out our family in a BIG WAY again.\n\nWe had a very unique and specific request that other contractors wanted to do \u2026",
+    "owner": "Response from the owner 9 months ago\nThank you so much Lawrence for trusting David P. and the MDA Home Remodeling & Builders team again. \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "mdahome93@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:mdahome93@gmail.com",
+    "page": "https://mdabuilders.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://mdabuilders.com/about-us/",
+    "snippet": "Founder"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/p/MDA-Home-Remodeling-Builders-61577858827641/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/mdahome_93"
+  ],
+  "franchise_mentions": [
+   "rebath"
+  ],
+  "niche_word_counts": {
+   "kitchen": 11,
+   "bath": 10,
+   "roof": 1,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 51",
+   "gallery images over 1MB each: https://mdabuilders.com/wp-content/uploads/2026/09/aduMDA.png = 1,166,823 bytes; https://mdabuilders.com/wp-content/uploads/2026/09/HomeAdditionMDA.png = 1,247,"
+  ],
+  "competitor_pool": [
+   {
+    "name": "AGH Commercial Inc.",
+    "url": "https://www.agreenhomeconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "CASTADA CONSTRUCTION CORP",
+    "url": "https://castadaconstructioncorp.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Construction Remodeling In Bay Area",
+    "url": "https://www.constructionremodelinginbayarea.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Danz Construction",
+    "url": "https://danzconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Integrity Construction And Remodeling LLC",
+    "url": "https://integrityconstructionandremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Mint Construction",
+    "url": "https://mintconstruction.pro/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Woodside, CA"
+  ]
+ }
+]
