@@ -1,0 +1,685 @@
+[
+ {
+  "id": "pbtilesma.com",
+  "name": "PB TILES INC",
+  "region": "R1",
+  "website": "https://www.pbtilesma.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.pbtilesma.com/"
+   ],
+   "contact": [
+    "https://www.pbtilesma.com/contact"
+   ],
+   "about": [
+    "https://www.pbtilesma.com/about",
+    "https://www.pbtilesma.com/bathroom-remodeling/"
+   ],
+   "gallery": [
+    "https://www.pbtilesma.com/gallery"
+   ],
+   "legal": [
+    "https://www.pbtilesma.com/privacy-policy"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJT9o5zCzj5IkRAataiP9F-Tw&hl=en",
+    "quote": "Analucia Cesar oliveira: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9o5zCzj5IkRAataiP9F-Tw&hl=en",
+  "gbp_title": "PB TILES INC",
+  "gbp_address": "\ue0c8\n102 Rochester Rd, Carver, MA 02330, United States",
+  "gbp_rating": "4.8\n(19)",
+  "gbp_phone": "phone:tel:+16174156459",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "K. Monaco",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "i only wish i could give paulo and his team 10 stars!!  first, they're a pleasure to have around.  they're very meticulous and care a lot about their work.  i'm so happy w the end result and would highly recommend them to anyone that needs \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Emma Oberlander",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Paulo is the best! I have worked with Paulo and his team on many jobs, and they are meticulous, hardworking, easy to work with, reasonably priced and true craftsman. Paulo has excellent attention to detail and a great ability to pivot and \u2026",
+    "owner": "Response from the owner 4 months ago\nThank you Emma, "
+   },
+   {
+    "reviewer": "Analucia Cesar oliveira",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Very clean work and a smooth process. Everything looked sharp and was finished neatly. Would definitely hire again.\u201d \u201cGreat communication, fair pricing, and the job site was left spotless. PB Tiles did an excellent job from start to finish.",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "cassimirosllc@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:cassimirosllc@gmail.com",
+    "page": "https://www.pbtilesma.com/"
+   },
+   {
+    "email": "pbtilesusa@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:pbtilesusa@gmail.com",
+    "page": "https://www.pbtilesma.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [
+   "https://www.instagram.com/pbtilesusa"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 71,
+   "bath": 47,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 8,
+   "cabinet": 2,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 44",
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 410px, i.e. 35px wider than the screen; elements past the right edge: ['DIV.elementor-background-s",
+   "gallery images over 1MB each: https://www.pbtilesma.com/mirror/mediumseagreen-fish-670031.hostingersite.com/wp-content/uploads/2024/08/ChatGPT-Image-Jun-3-2026-09_12_44-PM.png = 2,072,816 by"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Cape Home Kitchen & Bath",
+    "url": "https://capehomekitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cape & Island Kitchens",
+    "url": "https://capekitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Emerald City Design & Construction",
+    "url": "https://www.emeraldcityllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "L Squared Construction",
+    "url": "https://www.lsquaredconstruct.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "M.P. & Son Construction, Inc.",
+    "url": "https://www.mpandsonconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "New England Home Restoration LLC",
+    "url": "https://www.nehomerestoration.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Wareham, MA"
+  ]
+ },
+ {
+  "id": "srusaconstruction.com",
+  "name": "Sr USA Construction LLC",
+  "region": "R1",
+  "website": "https://srusaconstruction.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://srusaconstruction.com/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJaZInA4c826QRIGUPV-8ExTw&hl=en",
+    "quote": "Debbie Sands: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZInA4c826QRIGUPV-8ExTw&hl=en",
+  "gbp_title": "Sr USA Construction LLC",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(6)",
+  "gbp_phone": "phone:tel:+17817325114",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Debbie Sands",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "\u2b50\u2b50\u2b50\u2b50\u2b50\n\nI had a great experience with SR USA Construction LLC. The team was \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Michael Oneil",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "SR USA replaced our roof, painted the exterior, installed storm doors and shutters on our new home in Onset. All done perfectly. They explained how the work was going to be done and completed it on time and on budget. We highly recommend them for your next home improvement project.",
+    "owner": null
+   },
+   {
+    "reviewer": "james Oliver",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "I recently hired Sr USA Construction LLC for my bathroom remodeling project, and I\u2019m really impressed with the results. The team was professional, on time, and paid great attention to detail. They transformed my outdated bathroom into a \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "srusaconstruction@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:Srusaconstruction@gmail.com",
+    "page": "https://srusaconstruction.com/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 3,
+   "bath": 7,
+   "roof": 17,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 9,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 5
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 34"
+  ],
+  "competitor_pool": [
+   {
+    "name": "@designREMODEL",
+    "url": "https://www.atdesignremodel.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bourne Home Repair",
+    "url": "https://bournehomerepair.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cape Home Kitchen & Bath",
+    "url": "https://capehomekitchen.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cape & Island Kitchens",
+    "url": "https://capekitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Emerald City Design & Construction",
+    "url": "https://www.emeraldcityllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "L Squared Construction",
+    "url": "https://www.lsquaredconstruct.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Bourne, MA",
+   "Wareham, MA"
+  ]
+ },
+ {
+  "id": "prattliving.com",
+  "name": "Pratt Home Builders | New Homes Ooltewah TN",
+  "region": "R2",
+  "website": "https://prattliving.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://prattliving.com/"
+   ],
+   "contact": [
+    "https://prattliving.com/contact-us/"
+   ],
+   "about": [
+    "https://prattliving.com/thoughtfully-build-a-lifestyle/",
+    "https://prattliving.com/meet-the-team/"
+   ],
+   "gallery": [
+    "https://prattliving.com/design-gallery/"
+   ],
+   "legal": [
+    "https://prattliving.com/privacy-policy/",
+    "https://prattliving.com/privacy-policy/",
+    "https://prattliving.com/terms-and-conditions/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-12",
+    "url": "https://prattliving.com/2026/10/12/buy-now-or-wait-new-construction-chattanooga/",
+    "quote": "wp-json/posts published 2026-10-12T12:40:14: 'Waiting on Rates? Explore What Buying a New Home Could Make Possible'"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-10-14",
+    "url": "https://www.linkedin.com/posts/pratt-home-builders_pratthomebuilders-chattanoogarealestate-activity-7516158453095190528-c6YI",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/pratt-home-builders/ post: '\ud83c\udfe1 FLOOR PLAN SPOTLIGHT: The Walden Ridge by Pratt Home Builders For'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx9IfW57YIgROWzjyTvNa3c&hl=en",
+  "gbp_title": "Pratt Home Builders | New Homes Ooltewah TN",
+  "gbp_address": "\ue0c8\n1753 Whisper Winds Ln, Ooltewah, TN 37363, United States",
+  "gbp_rating": "5.0\n(50)",
+  "gbp_phone": "phone:tel:+14237577687",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Two Bears Chavez",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "Mr. Triba was very professional and knowledgeable. He took his time explaining processes and recommendations that would be tangible to our needs and logistics. The product was superb and provided exactly what was required for the space \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Hunter Coblentz",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "I don\u2019t usually leave reviews, but I wanted to shout out Pratt Home Builders because I\u2019ve been really impressed with what I\u2019ve seen from them. You can tell they take pride in their work and care about doing things the right way, not just \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Paul Lovelace",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "Highly recommend Pratt Home Builders! Such a great company. High quality homes and even better people! A+++",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@prattliving.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@prattliving.com",
+    "page": "https://prattliving.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://prattliving.com/meet-the-team/",
+    "snippet": "Vice President of Sales"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/prattliving",
+   "https://www.facebook.com/prattliving/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/prattliving"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 10,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 12
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 41"
+  ],
+  "competitor_pool": [
+   {
+    "name": "BMB Construction Remodeling & Repair service",
+    "url": "https://www.bmbconstructionrrs.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elite Remodeling Solutions",
+    "url": "https://eliteremodelingsolutions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
+    "gbp_address": null
+   },
+   {
+    "name": "Hammond Brothers Construction",
+    "url": "https://www.hammondbros.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "HMG Construction LLC",
+    "url": "https://hmgconstructionllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JG Custom Construction Services, LLC",
+    "url": "https://www.jgcustomconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Collegedale, TN"
+  ]
+ },
+ {
+  "id": "stebnitzbuilders.com",
+  "name": "Stebnitz Builders Inc",
+  "region": "R3",
+  "website": "https://www.stebnitzbuilders.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.stebnitzbuilders.com/"
+   ],
+   "contact": [
+    "https://www.stebnitzbuilders.com/contact/",
+    "https://www.stebnitzbuilders.com/contact/"
+   ],
+   "about": [
+    "https://www.stebnitzbuilders.com/about/",
+    "https://www.stebnitzbuilders.com/about/our-team/"
+   ],
+   "gallery": [
+    "https://www.stebnitzbuilders.com/portfolios/",
+    "https://www.stebnitzbuilders.com/kitchen-remodeling-portfolio/"
+   ],
+   "legal": [
+    "https://www.stebnitzbuilders.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-30",
+    "url": "https://www.stebnitzbuilders.com/portfolio/a-new-chapter-for-a-classic-farmhouse/",
+    "quote": "wp-json/portfolio published 2026-09-30T07:31:39: 'A New Chapter for a Classic Farmhouse'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5dPbqbwBYgRX99DxiEUI74&hl=en",
+  "gbp_title": "Stebnitz Builders Inc",
+  "gbp_address": "\ue0c8\n204 Commerce Ct #3, Elkhorn, WI 53121, United States",
+  "gbp_rating": "4.8\n(26)",
+  "gbp_phone": "phone:tel:+12627237232",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Cathy Durkin",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "My project, in the scheme of things, was a very small undertaking compared to their other endeavors, but no one there gave the impression it was small potatoes.  My $15000 job got the same degree of personal attention as their other work. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Kathy Patterson",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "We\u2019ve had many successful projects with Stebnitz Builders, and can\u2019t hardly wait for the start of our next one in early January!   Stebnitz brings so much talent to the job.  Plus they understand my visions and have  delivered every single \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you so much Kathy! We're looking forward to your next project, as well! We couldn't have great projects without great clients like you and Toby. Thank you for the trust you've placed in our team and the experience we've provided."
+   },
+   {
+    "reviewer": "B D",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "The email I sent to Stebnitz at the end of my project sums up how I feel about the whole experience: \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you for the kind words. The kitchen is amazing. It was a pleasure working with you both. The photos of your kitchen paint a wonderful picture for potential clients to review and generate ideas of what their space could become. \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "remodel@stebnitzbuilders.com",
+    "how": "plain text",
+    "raw": "remodel@stebnitzbuilders.com",
+    "page": "https://www.stebnitzbuilders.com/contact/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "Founded by Stan Stebnitz"
+   },
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "Founded by Chris\u2019 grandfather, expanded by his father and uncles, and now led by Chris Stebnitz, our family\u2019s dedication to qualit"
+   },
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "President of Stebnitz Builders"
+   },
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "President of Remodelers Advantage"
+   },
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "Victoria Downing, President of Remodelers Advantage Inc, offers her unique perspective of what it means for Stebnitz Builders to celebrate 50 years"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/StebnitzBuilders/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/stebnitzbuilders"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 8,
+   "bath": 7,
+   "roof": 1,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 1,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 11"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Daniel Company Bathrooms",
+    "url": "https://www.dcbathswi.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Hawthorne Remodeling LLC",
+    "url": "https://www.hawthorne-remodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Lumber Company",
+    "url": "https://www.homelumber.co/",
+    "gbp_address": null
+   },
+   {
+    "name": "Pcc Shower Solutions LLC",
+    "url": "https://pccshowersolutions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Revitalize Your Floor",
+    "url": "https://www.revitalizeyourfloor.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Whitewater, WI"
+  ]
+ },
+ {
+  "id": "workinghandsak.com",
+  "name": "Working Hands LLC",
+  "region": "R5",
+  "website": "https://workinghandsak.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://workinghandsak.com/"
+   ],
+   "contact": [
+    "https://workinghandsak.com/contact-us/"
+   ],
+   "about": [
+    "https://workinghandsak.com/who-we-are/",
+    "https://workinghandsak.com/what-we-do/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-06",
+    "url": "https://workinghandsak.com/project/wasilla-home-rebuild-after-fire-damage/",
+    "quote": "wp-json/projects published 2026-10-06T17:16:32: 'Home Rebuild in Wasilla, Alaska'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5ef6EfdyFYRoS08UIba_6Q&hl=en",
+  "gbp_title": "Working Hands LLC",
+  "gbp_address": "\ue0c8\n711 S Triple B St, Wasilla, AK 99654, United States",
+  "gbp_rating": "4.6\n(18)",
+  "gbp_phone": "phone:tel:+19078413446",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "brent sutton",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Working hands always does fantastic work for us . New floor installed . We only use them for any remodeling needed, because we know what we will get",
+    "owner": null
+   },
+   {
+    "reviewer": "Penelope Wingo",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "Henry and the crew assigned to my job did an outstanding job removing my skylight from a 3rd floor roof. They are knowledgeable, easy to work with, very  conscientious about being as clean as possible and keeping my household goods safe \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Amber Lea Leggette-Aldrich",
+    "when": "4 years ago",
+    "stars": "5 stars",
+    "text": "Henry and the team from Working Hands were a blessing and pleasure to work with! In restoring the water system to my home, they were prompt, reliable, professional, and very reasonably priced. I highly recommend them for their knowledge and \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "henryb@workinghandsak.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:henryb@workinghandsak.com",
+    "page": "https://workinghandsak.com/contact-us/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/workinghandsak"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 1,
+   "roof": 4,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 0,
+   "siding": 1,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 52"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Far North Craftsmanship LLC",
+    "url": "https://farnorthcraftsmanship.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Hands on construction LLC",
+    "url": "https://www.handsonconstructionllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Polar Cabinets & Design",
+    "url": "https://polarcabinets.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Punt Brothers Construction",
+    "url": "https://puntconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Soloy Construction LLC",
+    "url": "https://soloyconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Wasilla, AK"
+  ]
+ }
+]

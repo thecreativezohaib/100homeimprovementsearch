@@ -1,99 +1,94 @@
 [
  {
-  "id": "fairbankspecialservices.com",
-  "name": "Fairbank Special Services",
+  "id": "spradconbuilders.com",
+  "name": "Spradcon Builders",
   "region": "R5",
-  "website": "https://www.fairbankspecialservices.com/",
+  "website": "https://spradconbuilders.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "Wix"
+   "WordPress"
   ],
   "pages_fetched": {
    "home": [
-    "https://www.fairbankspecialservices.com/"
+    "https://spradconbuilders.com/"
    ],
    "contact": [
-    "https://www.fairbankspecialservices.com/contact"
+    "https://spradconbuilders.com/contact/"
    ],
    "about": [
-    "https://www.fairbankspecialservices.com/about-us",
-    "https://www.fairbankspecialservices.com/blog"
+    "https://spradconbuilders.com/about/",
+    "https://spradconbuilders.com/meet-the-team/"
    ],
    "gallery": [
-    "https://www.fairbankspecialservices.com/post/backyard-renovation-roi-which-outdoor-projects-add-lifestyle-value-and-home-value"
+    "https://spradconbuilders.com/our-work/"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJu7u8lxo9kFQRJL40eXovrbk&hl=en",
-    "quote": "Jeanie Ketcham: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJzYdEA5JNhYARQZUpHltmHuI&hl=en",
+    "quote": "Joanne Chan: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
    },
    {
-    "type": "site_dated_content",
-    "date": "2026-10-09",
-    "url": "https://www.fairbankspecialservices.com/post/a-wonderful-beginning-our-first-community-workshop",
-    "quote": "rss:https://www.fairbankspecialservices.com/blog-feed.xml published Fri, 09 Oct 2026 17:58:39 GMT: 'A Wonderful Beginning: Our First Community Workshop'"
+    "type": "social_post",
+    "date": "2026-09-16",
+    "url": "https://www.linkedin.com/posts/spradconbuilders_spradconbuilders-dutramuseum-riovista-activity-7505849459117993985-4K5i",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/spradconbuilders/ post: 'A few weeks of framing progress at the Dutra Museum Addition! The'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
    }
   ],
   "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7u8lxo9kFQRJL40eXovrbk&hl=en",
-  "gbp_title": "Fairbank Special Services",
-  "gbp_address": "\ue0c8\n15773 George Ln NE Ste 103, Poulsbo, WA 98370, United States",
-  "gbp_rating": "5.0\n(3)",
-  "gbp_phone": "phone:tel:+12065581513",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYdEA5JNhYARQZUpHltmHuI&hl=en",
+  "gbp_title": "Spradcon Builders",
+  "gbp_address": "\ue0c8\n113 Main St, Rio Vista, CA 94571, United States",
+  "gbp_rating": "4.8\n(20)",
+  "gbp_phone": "phone:tel:+17073746735",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Christina Garrigues",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "The quality of the work exceeded our expectations, and we love how our new bathroom turned out! It's clear they take pride in their craftsmanship and pay attention to the details. We truly appreciate all of their hard work and would highly recommend them to anyone looking for a contractor they can trust!",
-    "owner": "Response from the owner 4 months ago\nThank you for your kind words and for trusting us with your bathroom renovation. We're delighted to hear that the finished space exceeded your expectations and that you're enjoying the result. Our team takes great pride in delivering \u2026 More"
-   },
-   {
-    "reviewer": "Jeanie Ketcham",
+    "reviewer": "Joanne Chan",
     "when": "2 months ago",
     "stars": "5 stars",
-    "text": "Beautiful high quality and professional workmanship. I loved working with Chelsea and the craftspeople. There were communication issues with management but because the onsite team was so good, the project went very well.",
-    "owner": "Response from the owner 2 months ago\nThank you for taking the time to share your experience. It means a great deal to know you appreciated the craftsmanship and professionalism of our team. Chelsea and our field crews are passionate about doing quality work, and we're so glad \u2026 More"
+    "text": "Great experience with Carson, Brian, and their whole team. They fully renovated 2 full baths and a kitchen, remediated my old 70\u2019s ceiling and installed canned lighting, and repainted the whole interior of my townhouse in the South Bay \u2026",
+    "owner": "Response from the owner 2 months ago\nJoanne,\n\nThank you for the great review! We really enjoyed working with you guys and are \u2026 More"
    },
    {
-    "reviewer": "Tedd Kraft",
-    "when": "4 days ago",
+    "reviewer": "Suzanne Cline",
+    "when": "7 months ago",
     "stars": "5 stars",
-    "text": "Fairbank Construction repaired two window trim pieces on our home.  We are very pleased with the repair work and the professional workers who did the work.   Tedd Kraft",
-    "owner": "Response from the owner 8 hours ago\nThanks so much for the review, Tedd! We're glad you are pleased with the window trim repairs. I will be sure to pass your kind words along to the crew\u2014they take great pride in their professionalism. We truly appreciate your trust in our team and your taking the time to share your experience!"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@fairbankspecialservices.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@fairbankspecialservices.com",
-    "page": "https://www.fairbankspecialservices.com/"
+    "text": "We had a great experience working with Spradcon Builders on our foundation work and new construction concrete stairs. Their team was professional, communicative, and completed everything on schedule. \u2026",
+    "owner": "Response from the owner 7 months ago\nSuzanne, thank you so much for the kind words! We truly appreciate you taking the time to share your experience. \u2026 More"
    },
    {
-    "email": "info@fairbankconstruction.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@fairbankconstruction.com",
-    "page": "https://www.fairbankspecialservices.com/"
+    "reviewer": "John Mitchell",
+    "when": "10 months ago",
+    "stars": "5 stars",
+    "text": "SpradCon Builders remodeled our 1960\u2019s vintage bathroom on time and within budget.  Their team is professional and deliver beautiful craftsmanship with keen attention to detail. \u2026",
+    "owner": "Response from the owner 10 months ago\nThanks for the great review, John! The bathroom transformation came out amazing, and we\u2019re glad the new layout and custom details made such a big difference in the space. We really enjoyed working with you guys and appreciate you trusting our team with your home!"
    }
   ],
-  "dm_snippets": [],
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://spradconbuilders.com/meet-the-team/",
+    "snippet": "President"
+   },
+   {
+    "page": "https://spradconbuilders.com/meet-the-team/",
+    "snippet": "Brian Spradling is the founder and President of Spradcon Builders, bringing nearly 30 years of experience in residential and commercial construction"
+   }
+  ],
   "facebook_links": [
-   "https://www.facebook.com/fairbankconstructioncompany",
-   "https://www.facebook.com/people/Fairbank-Special-Services/"
+   "https://www.facebook.com/p/Spradling-Construction-100063651964853/"
   ],
   "instagram_links": [
-   "https://www.instagram.com/fairbankconstructioncompany",
-   "https://www.instagram.com/fairbankspecialservices"
+   "https://www.instagram.com/spradconbuilders"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 11,
-   "bath": 11,
+   "kitchen": 3,
+   "bath": 3,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
@@ -102,7 +97,161 @@
    "cabinet": 0,
    "siding": 0,
    "window": 0,
-   "pool": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 4
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 662px, i.e. 287px wider than the screen; elements past the right edge: ['DIV.elementor-repeater-it",
+   "gallery images over 1MB each: https://spradconbuilders.com/site/wp-content/uploads/2025/08/Lake-Almanor.png = 2,379,968 bytes; https://spradconbuilders.com/site/wp-content/uploads/2026/07/Du"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Aleko Construction",
+    "url": "https://alekoconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "H4H Remodeling and Repairs Inc.",
+    "url": "https://h4hremodelingandrepairs.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Mid Valley Homes Builders & remodeling",
+    "url": "https://midvalleyhomes.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "MMI DBA MMI Home Design",
+    "url": "https://mmihomedesign.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Red Line Remodeling & Design, LLC",
+    "url": "https://rlremodeling13.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Rubens Home Service, Inc.",
+    "url": "https://www.rubenshomeserviceinc.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Rio Vista, CA"
+  ]
+ },
+ {
+  "id": "talmadgeconstruction.com",
+  "name": "Talmadge Construction Inc",
+  "region": "R5",
+  "website": "https://talmadgeconstruction.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://talmadgeconstruction.com/"
+   ],
+   "contact": [
+    "https://talmadgeconstruction.com/contact-talmadge-construction/"
+   ],
+   "about": [
+    "https://talmadgeconstruction.com/about-talmadge-construction/",
+    "https://talmadgeconstruction.com/about-talmadge-construction/philosophy/"
+   ],
+   "gallery": [
+    "https://talmadgeconstruction.com/portfolio/",
+    "https://talmadgeconstruction.com/portfolio/adus/"
+   ],
+   "legal": [
+    "https://talmadgeconstruction.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-08",
+    "url": "https://talmadgeconstruction.com/blog/design-bathroom-works-better/",
+    "quote": "wp-json/posts published 2026-10-08T19:23:54: 'How to Design a Bathroom That Works Better for the Way You Live'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50K85XgWjoARaNAPvC0dw1M&hl=en",
+  "gbp_title": "Talmadge Construction Inc",
+  "gbp_address": "\ue0c8\n8070 Soquel Dr, Aptos, CA 95003, United States",
+  "gbp_rating": "5.0\n(44)",
+  "gbp_phone": "phone:tel:+18316899133",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Nick Sutton",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "I'll be honest...I wasn't ready for a remodel both mentally and physically. My wife had this grand vision of a full kitchen remodel that scared me due to working remote with a demanding schedule in tech. I was afraid of losing my internet, \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you so much for the amazing review! It was our pleasure to bring your family a space that you all love. "
+   },
+   {
+    "reviewer": "Susan J",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "We recently had our home remodeled by Talmadge Construction, and we couldn't be more thrilled with the results.  From start to finish, their professionalism and attention to detail were top notch. Their crew was professional, respectful of \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Nathalie Michaud",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Talmadge Construction helped us do a total condo remodel in Aptos, CA! We could not have hoped for a better group of people to help us! At the time, we did not live locally and they were so responsible, trustworthy and made the project \u2026",
+    "owner": "Response from the owner a year ago\nThank you for your kind words! This is what keeps us working to do our best with every project. Reviews like this are what will keep us in business for the next 40 years. We appreciate your support!\n"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "office@talmadgeconstruction.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:office@talmadgeconstruction.com",
+    "page": "https://talmadgeconstruction.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://talmadgeconstruction.com/",
+    "snippet": "Founded by Jeff and Adele Talmadge, Talmadge Construction has been helping Santa Cruz County homeowners improve the way they live"
+   },
+   {
+    "page": "https://talmadgeconstruction.com/",
+    "snippet": "Today, President Andrew Talmadge carries that family legacy forward with the same commitment to thoughtful design, quality construction,"
+   },
+   {
+    "page": "https://talmadgeconstruction.com/",
+    "snippet": "Aptos, California, January 23, 2024 \u2014 Adele Talmadge, co-founder of Talmadge Construction, is one of the recipients of the Top Ambassador Award from the Santa Cruz Chamber of Commerce"
+   },
+   {
+    "page": "https://talmadgeconstruction.com/about-talmadge-construction/",
+    "snippet": "olunteer design and construction hours to help local schools and several non-profits, like mine,\u201d beams Christy Licker, owner of Caroline\u2019s, a boutique thrift store that donates all profits back to the community"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/talmadgeconstruction/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/talmadgeconstruction"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 5,
+   "bath": 5,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
    "solar": 0,
    "custom home": 0
   },
@@ -111,28 +260,155 @@
   ],
   "competitor_pool": [
    {
-    "name": "Andy Black Handyman Services",
-    "url": "https://andyblackhandyman.com/",
+    "name": "fox building group",
+    "url": "https://www.foxbuildinggroup.com/",
     "gbp_address": null
    },
    {
-    "name": "Spruce Properties",
-    "url": "https://www.sprucepropertiesnw.com/",
+    "name": "Lewis Design Build Remodel",
+    "url": "https://www.lewisremodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "Westside Custom Cabinets",
-    "url": "https://westsidecabinets.com/",
+    "name": "NuLook Refinishing Kitchen & bath",
+    "url": "https://www.nulookrefinishing.com/",
     "gbp_address": null
    },
    {
-    "name": "WRK Construction",
-    "url": "https://wrkco.com/",
+    "name": "Sightline Construction",
+    "url": "https://sightline.construction/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dynamic Contractors & Electric",
+    "url": "https://www.thedynamiccontractors.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Poulsbo, WA"
+   "Capitola, CA"
+  ]
+ },
+ {
+  "id": "workinghandsak.com",
+  "name": "Working Hands LLC",
+  "region": "R5",
+  "website": "https://workinghandsak.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://workinghandsak.com/"
+   ],
+   "contact": [
+    "https://workinghandsak.com/contact-us/"
+   ],
+   "about": [
+    "https://workinghandsak.com/who-we-are/",
+    "https://workinghandsak.com/what-we-do/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-06",
+    "url": "https://workinghandsak.com/project/wasilla-home-rebuild-after-fire-damage/",
+    "quote": "wp-json/projects published 2026-10-06T17:16:32: 'Home Rebuild in Wasilla, Alaska'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5ef6EfdyFYRoS08UIba_6Q&hl=en",
+  "gbp_title": "Working Hands LLC",
+  "gbp_address": "\ue0c8\n711 S Triple B St, Wasilla, AK 99654, United States",
+  "gbp_rating": "4.6\n(18)",
+  "gbp_phone": "phone:tel:+19078413446",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "brent sutton",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Working hands always does fantastic work for us . New floor installed . We only use them for any remodeling needed, because we know what we will get",
+    "owner": null
+   },
+   {
+    "reviewer": "Penelope Wingo",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "Henry and the crew assigned to my job did an outstanding job removing my skylight from a 3rd floor roof. They are knowledgeable, easy to work with, very  conscientious about being as clean as possible and keeping my household goods safe \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Amber Lea Leggette-Aldrich",
+    "when": "4 years ago",
+    "stars": "5 stars",
+    "text": "Henry and the team from Working Hands were a blessing and pleasure to work with! In restoring the water system to my home, they were prompt, reliable, professional, and very reasonably priced. I highly recommend them for their knowledge and \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "henryb@workinghandsak.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:henryb@workinghandsak.com",
+    "page": "https://workinghandsak.com/contact-us/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/workinghandsak"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 0,
+   "bath": 1,
+   "roof": 4,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 1,
+   "cabinet": 0,
+   "siding": 1,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 52"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Far North Craftsmanship LLC",
+    "url": "https://farnorthcraftsmanship.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Hands on construction LLC",
+    "url": "https://www.handsonconstructionllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Polar Cabinets & Design",
+    "url": "https://polarcabinets.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Punt Brothers Construction",
+    "url": "https://puntconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Soloy Construction LLC",
+    "url": "https://soloyconstruction.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Wasilla, AK"
   ]
  }
 ]

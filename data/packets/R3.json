@@ -1,370 +1,91 @@
 [
  {
-  "id": "rohrerforconstruction.com",
-  "name": "Rohrer For Construction",
+  "id": "denyonhomes.com",
+  "name": "Denyon Homes",
   "region": "R3",
-  "website": "https://rohrerforconstruction.com/",
+  "website": "https://www.denyonhomes.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "GoDaddy",
-   "WordPress"
+   "Squarespace"
   ],
   "pages_fetched": {
    "home": [
-    "https://rohrerforconstruction.com/"
+    "https://www.denyonhomes.com/"
    ],
    "contact": [
-    "https://rohrerforconstruction.com/contact-us/"
+    "https://www.denyonhomes.com/warranty-contact",
+    "https://www.denyonhomes.com/contact-us"
    ],
    "about": [
-    "https://rohrerforconstruction.com/about-rohrer-for-construction-local-contractor/"
+    "https://www.denyonhomes.com/about-us",
+    "https://www.denyonhomes.com/about-us"
    ],
    "gallery": [
-    "https://rohrerforconstruction.com/work/"
+    "https://www.denyonhomes.com/gallery"
    ],
    "legal": [
-    "https://rohrerforconstruction.com/privacy-policy/",
-    "https://rohrerforconstruction.com/privacy-policy/",
-    "https://rohrerforconstruction.com/terms-and-conditions/"
+    "https://www.denyonhomes.com/privacy-policy"
    ]
   },
   "auto_signals": [
    {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJFZJVt3WFD4gRPCjIIzuCG-s&hl=en",
-    "quote": "Jesse Cool: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
+    "type": "social_post",
+    "date": "2026-10-07",
+    "url": "https://www.linkedin.com/posts/denyon-homes_pecan-d1-activity-7513599506068733954-Z3OK",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/denyon-homes/ post: 'Walkthrough Wednesday! Take a virtual look inside the Pecan D1 Model A!'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZJVt3WFD4gRPCjIIzuCG-s&hl=en",
-  "gbp_title": "Rohrer For Construction",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(20)",
-  "gbp_phone": "phone:tel:+18476687183",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2Ps24wlAIgRBcx_VQL8DIA&hl=en",
+  "gbp_title": "Denyon Homes",
+  "gbp_address": "\ue0c8\n5309 Schofield Ave, Weston, WI 54476, United States",
+  "gbp_rating": "3.6\n(44)",
+  "gbp_phone": "phone:tel:+17155746005",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Jesse Cool",
-    "when": "2 months ago",
+    "reviewer": "Becky Creekmore",
+    "when": "6 months ago",
     "stars": "5 stars",
-    "text": "Austin & Jesus we're awesome! I had a small repair job in my kitchen and it came out FANTASTIC!! Polite, Professional & Efficient! I will be utilizing them for all my future repair needs!",
-    "owner": null
+    "text": "I am writing to share my positive experience with Denyon Homes. I purchased a home built by them in 2016, and ten years later, I remain extremely happy with the quality. The home was built to last, and we have encountered no issues during \u2026",
+    "owner": "Response from the owner 6 months ago\nBecky, thank you very much for leaving us a Google Review! We are thrilled that you love your home even 10 years later! Thanks for the positive affirmations for our team we work with, we will be sure to pass along your message. "
    },
    {
-    "reviewer": "Anna",
-    "when": "2 months ago",
+    "reviewer": "Lisa Bergmann",
+    "when": "6 months ago",
     "stars": "5 stars",
-    "text": "After doing a lot of research, both online and in person, I decided to go with these guys, and I could not be happier that I did. From start to finish, they were consistent, communicative, easy to reach, punctual, very detail oriented, and \u2026",
-    "owner": null
+    "text": "The whole team at Denyon Homes and Urban Edge were great to work with. The process went very smooth from, making the offer to the final inspection and closing. Thank you!",
+    "owner": "Response from the owner 6 months ago\nLisa, thank you so much for leaving us a positive google review! We are thrilled that you were satisfied with the smooth process. We pride ourselves in the processes we have developed to ensure everything is seamless! "
    },
    {
-    "reviewer": "Alex",
-    "when": "5 months ago",
-    "stars": "5 stars",
-    "text": "We had a great experience with Rohrer For Construction. They came out, did a very thorough inspection, and took the time to explain what was going on with the roof structure and what the next steps should be. \u2026",
+    "reviewer": "Josh White",
+    "when": "a year ago",
+    "stars": "1 star",
+    "text": "Never buy a Denyon home.  You have to call and call and call to get them to come out when you have issues (you will have issues).  When they come out, they don't take notes and nothing gets corrected.  When you close, they say that after a \u2026",
     "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "adolph@rohrerforconstruction.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "afcecbc0c3dfc7efddc0c7ddcaddc9c0ddccc0c1dcdbdddaccdbc6c0c181ccc0c2",
-    "page": "https://rohrerforconstruction.com/"
-   },
-   {
-    "email": "contact@rohrerforconstruction.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "62010d0c1603011622100d0a100710040d10010d0c1116101701160b0d0c4c010d0f",
-    "page": "https://rohrerforconstruction.com/contact-us/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://rohrerforconstruction.com/contact-us/",
-    "snippet": "President"
-   },
-   {
-    "page": "https://rohrerforconstruction.com/contact-us/",
-    "snippet": "Vice President"
-   },
-   {
-    "page": "https://rohrerforconstruction.com/about-rohrer-for-construction-local-contractor/",
-    "snippet": "Rohrer for Construction was founded by Adolph Rohrer with the goal of providing honest, high-quality remodeling services to homeowners in Lake County"
-   },
-   {
-    "page": "https://rohrerforconstruction.com/about-rohrer-for-construction-local-contractor/",
-    "snippet": "President | Jobsite Management"
-   },
-   {
-    "page": "https://rohrerforconstruction.com/about-rohrer-for-construction-local-contractor/",
-    "snippet": "Vice President | Client Relations"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/RohrerForConstruction",
-   "https://www.facebook.com/RohrerForConstruction/reviews",
-   "https://www.facebook.com/groups/877713606093875",
-   "https://www.facebook.com/rohrerforconstruction"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/rohrerforconstruction"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 25,
-   "bath": 14,
-   "roof": 0,
-   "plumb": 2,
-   "hvac": 0,
-   "handyman": 3,
-   "floor": 2,
-   "cabinet": 4,
-   "siding": 1,
-   "window": 3,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 57"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Century Kitchens & Bath",
-    "url": "https://www.centurykitchensbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Havnbilt",
-    "url": "https://havnbilt.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "J & J Home Renovations",
-    "url": "https://jandjhomerenovations.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Kitchen Solvers of Columbus",
-    "url": "https://kitchensolvers.com/columbus/",
-    "gbp_address": null
-   },
-   {
-    "name": "Lotus Home Improvement",
-    "url": "https://www.lotushomeimprovement.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Master Craft & Design",
-    "url": "https://mastercraftanddesign.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Round Lake, IL"
-  ]
- },
- {
-  "id": "underpressurerenovatingllc.com",
-  "name": "Under Pressure Renovating LLC",
-  "region": "R3",
-  "website": "https://underpressurerenovatingllc.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://underpressurerenovatingllc.com/"
-   ],
-   "contact": [
-    "https://underpressurerenovatingllc.com/contact.php"
-   ],
-   "about": [
-    "https://underpressurerenovatingllc.com/about.php"
-   ],
-   "gallery": [
-    "https://underpressurerenovatingllc.com/projects.php"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJncZHXTDfO4gRnkNXWncGoBs&hl=en",
-    "quote": "Sheila Potter: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJncZHXTDfO4gRnkNXWncGoBs&hl=en",
-  "gbp_title": "Under Pressure Renovating LLC",
-  "gbp_address": "\ue0c8\n1666 OH-53, Tiffin, OH 44883, United States",
-  "gbp_rating": "4.5\n(103)",
-  "gbp_phone": "phone:tel:+15672209853",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Jared Long",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "Under Pressure did a fantastic job doing our 600 sqf addition. They do quality work FAST. The quote to the finished product took less than a month. Communication was great, and  Brady was easy to work with bringing our vision to life. They even did a last minute bathroom remodel in our existing home. Would recommend to anyone.",
-    "owner": "Response from the owner 3 months ago\nThank you sir!! Enjoy!! "
-   },
-   {
-    "reviewer": "Sheila Potter",
-    "when": "a month ago",
-    "stars": "1 star",
-    "text": "Under Pressure is an absolute horrible company. We will never recommend them for anything. We had a double side by side window taken out and double doors put in to go out for our patio and siding on the back of the house. Thank God we \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Adrienne B",
-    "when": "5 months ago",
-    "stars": "1 star",
-    "text": "Please do not waste your time with this company. Pay the little extra for an honest contractor. He will be below the rest but not worth. He did a botched electrical job on a garage they built and then blocked us on social media for posting \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "bradysmith0989@yahoo.com",
+    "email": "office@denyonhomes.com",
     "how": "mailto",
-    "raw": "href=\"mailto:bradysmith0989@yahoo.com",
-    "page": "https://underpressurerenovatingllc.com/"
+    "raw": "href=\"mailto:office@denyonhomes.com",
+    "page": "https://www.denyonhomes.com/"
    }
   ],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/profile.php?id=100063509235602"
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/denyonhomes"
   ],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 3,
-   "bath": 4,
-   "roof": 6,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 4,
-   "cabinet": 0,
-   "siding": 6,
-   "window": 5,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 54"
+  "instagram_links": [
+   "https://www.instagram.com/denyonhomes"
   ],
-  "competitor_pool": [
-   {
-    "name": "Five Star Maintenance & Construction",
-    "url": "https://fivestarmaintenanceohio.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Josephs Renovation Services",
-    "url": "https://www.josephsrenovationservices.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "P Brookes Renovations LLC",
-    "url": "https://znx.oec.mybluehost.me/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Tiffin, OH"
-  ]
- },
- {
-  "id": "yournewbaths.com",
-  "name": "Your New Baths",
-  "region": "R3",
-  "website": "https://www.yournewbaths.com/offer/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.yournewbaths.com/offer/"
-   ],
-   "contact": [
-    "https://www.yournewbaths.com/contact-us/"
-   ],
-   "about": [
-    "https://www.yournewbaths.com/bathroom-remodeling-northeast-ohio/"
-   ],
-   "gallery": [
-    "https://www.yournewbaths.com/our-work/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-08-17",
-    "url": "https://www.yournewbaths.com/why-your-new-baths-northeast-ohio-most-trusted-one-day-bath/",
-    "quote": "wp-json/posts published 2026-08-17T21:01:19: 'Why Your New Baths Is Northeast Ohio&#8217;s Most Trusted One Day Bath Company'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTIhy74-TkYRFetEceJ5j28&hl=en",
-  "gbp_title": "Your New Baths",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(46)",
-  "gbp_phone": "phone:tel:+13309808398",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Darwin Thomas",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "I can\u2019t say enough good things. Amazing work, amazing communication, overall great experience. After a burst pipe and water to a basement bathroom by the time the work was completed you couldn\u2019t tell anything happened. Highly recommend!",
-    "owner": "Response from the owner 6 months ago\nThank you being great to work with and letting us fix your bathroom in New castle, Pa! "
-   },
-   {
-    "reviewer": "Coy Dyer",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "Brandon with Your New Baths installed a surround shower for me. He was always on time, communicated great and did great work! I recommend him to anyone in the Niles area needing bathroom work done.",
-    "owner": "Response from the owner 6 months ago\nThank you for leaving us a review it was a pleasure to install a new shower surround in your home! "
-   },
-   {
-    "reviewer": "Jaycee Leinaweaver",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "I couldn\u2019t be happier with my bathtub and shower install from Your New Baths. Brandon made the process extremely easy and quick. Everything turned out great and was a really good price for the quality of work provided.",
-    "owner": "Response from the owner 6 months ago\nWe were so happy to complete your projects in your home and make this a stress free experience for you."
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "yournewbathsoh@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:yournewbathsoh@gmail.com",
-    "page": "https://www.yournewbaths.com/offer/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://www.yournewbaths.com/bathroom-remodeling-northeast-ohio/",
-    "snippet": "Hi \u2014 I am Brandon Moore, founder and owner of Your New Baths"
-   },
-   {
-    "page": "https://www.yournewbaths.com/bathroom-remodeling-northeast-ohio/",
-    "snippet": "Your New Baths is owned and operated by Brandon Moore \u2014 a Northeast Ohio native based in Boardman Ohio"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/profile.php?id=61575768343588"
-  ],
-  "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
    "kitchen": 0,
-   "bath": 48,
+   "bath": 1,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
@@ -375,20 +96,345 @@
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 0
+   "custom home": 2
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 48"
+   "mobile performance score below 60: PSI mobile performance 54"
   ],
   "competitor_pool": [
    {
-    "name": "Durkovic Dunnit Construction",
-    "url": "https://www.durkovicdunnitconstruction.com/",
+    "name": "August Winter & Sons Inc",
+    "url": "https://www.augustwinter.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Brian Luedtke Design Group",
+    "url": "https://www.brianluedtke.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Featherstone Cabinetry & Design",
+    "url": "https://www.featherstonecabinetry.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "JAS Construction, LLC",
+    "url": "https://www.jasbuilds.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Remodeling Journey",
+    "url": "https://remodelingjourney.com/?local=true",
+    "gbp_address": null
+   },
+   {
+    "name": "Righteous Renovations and Repair LLC",
+    "url": "https://righteousrenovationsandrepair.com/contact",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Ashtabula, OH"
+   "Weston, WI"
+  ]
+ },
+ {
+  "id": "helmut.com",
+  "name": "HELM\u00dcT LLC",
+  "region": "R3",
+  "website": "https://helmut.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "Squarespace"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://helmut.com/"
+   ],
+   "contact": [
+    "https://helmut.com/contact-us"
+   ],
+   "about": [
+    "https://helmut.com/about-us",
+    "https://helmut.com/meet-our-team"
+   ],
+   "gallery": [
+    "https://helmut.com/projects"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-25",
+    "url": "https://helmut.com/blog/the-return-of-rich-wood-cabinets-why-darker-tones-are-defining-kitchens-this-fall",
+    "quote": "rss:https://helmut.com/blog?format=rss published Fri, 25 Sep 2026 03:11:00 +0000: 'The Return of Rich Wood Cabinets: Why Darker Tones Are Defining Kitchens This Fa'"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-10-14",
+    "url": "https://www.pinterest.com/pin/777222848242645722/",
+    "quote": "Pinterest profile https://www.pinterest.com/helmutusa/ post: 'When open is as beautiful as closed. \u2728 Our dishes deserve a'",
+    "method": "Pinterest profile RSS https://www.pinterest.com/helmutusa/feed.rss <pubDate>"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJy076IoqniIcRIhHr6lqEXbo&hl=en",
+  "gbp_title": "HELM\u00dcT LLC",
+  "gbp_address": "\ue0c8\n120 S Lawler St, Mitchell, SD 57301, United States",
+  "gbp_rating": "5.0\n(30)",
+  "gbp_phone": "phone:tel:+16052992754",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Mark Waldner",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "We have been in working with Helmuth this past year on our new coffee bar and have been impressed with their passion for quality and design. They built us a coffee bar and also a portable stand-alone coffee cart. We are very happy with the \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Diane Eich",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "Our new kitchen cabinets are just what I had hoped for. Great quality and workmanship. Love the countertop also.",
+    "owner": null
+   },
+   {
+    "reviewer": "Susan Sneller",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "There\u2019s just something unmistakable about Helmut\u2019s work \u2014 the quality, creativity, and craftsmanship are in a league of their own. You can spot it instantly\u2026 that perfect blend of artistry and precision that only Helmut delivers. \u2026",
+    "owner": "Response from the owner a year ago\nThanks for the beautiful review Susan!"
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [
+   {
+    "page": "https://helmut.com/meet-our-team",
+    "snippet": "General Manager | Head of Design"
+   },
+   {
+    "page": "https://helmut.com/meet-our-team",
+    "snippet": "General Manager | Head of Design"
+   },
+   {
+    "page": "https://helmut.com/meet-our-team",
+    "snippet": "Tanner Leibee is currently the president of Upward Management Group, a rental service company serving the shed & portable industry"
+   }
+  ],
+  "facebook_links": [
+   "http://www.facebook.com/2008/fbml",
+   "https://www.facebook.com/HELMUTusa/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/helmut_usa"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 11,
+   "bath": 2,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 14,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 32",
+   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/5ebea441695cc00fd7674f3f/1733251722693-KZTO1A8Q7URKN4TWGAPU/johnson-12.jpg?format=2500w = 1,052,918 bytes (HTTP Co"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Anne Dailey Design Interiors, Inc",
+    "url": "https://www.annedailey.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Cornerstone Concepts",
+    "url": "https://www.cscremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Custom Cabinets & Millwork",
+    "url": "https://www.customcabinetsandmillworksd.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Quality Homes",
+    "url": "https://www.customtouchhomes.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dakota Custom Builders, LLC",
+    "url": "https://www.dakotacustombuildersllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Elite Renovations",
+    "url": "https://www.elitereno-sd.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Mitchell, SD"
+  ]
+ },
+ {
+  "id": "stebnitzbuilders.com",
+  "name": "Stebnitz Builders Inc",
+  "region": "R3",
+  "website": "https://www.stebnitzbuilders.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://www.stebnitzbuilders.com/"
+   ],
+   "contact": [
+    "https://www.stebnitzbuilders.com/contact/",
+    "https://www.stebnitzbuilders.com/contact/"
+   ],
+   "about": [
+    "https://www.stebnitzbuilders.com/about/",
+    "https://www.stebnitzbuilders.com/about/our-team/"
+   ],
+   "gallery": [
+    "https://www.stebnitzbuilders.com/portfolios/",
+    "https://www.stebnitzbuilders.com/kitchen-remodeling-portfolio/"
+   ],
+   "legal": [
+    "https://www.stebnitzbuilders.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-30",
+    "url": "https://www.stebnitzbuilders.com/portfolio/a-new-chapter-for-a-classic-farmhouse/",
+    "quote": "wp-json/portfolio published 2026-09-30T07:31:39: 'A New Chapter for a Classic Farmhouse'"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5dPbqbwBYgRX99DxiEUI74&hl=en",
+  "gbp_title": "Stebnitz Builders Inc",
+  "gbp_address": "\ue0c8\n204 Commerce Ct #3, Elkhorn, WI 53121, United States",
+  "gbp_rating": "4.8\n(26)",
+  "gbp_phone": "phone:tel:+12627237232",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Cathy Durkin",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "My project, in the scheme of things, was a very small undertaking compared to their other endeavors, but no one there gave the impression it was small potatoes.  My $15000 job got the same degree of personal attention as their other work. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Kathy Patterson",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "We\u2019ve had many successful projects with Stebnitz Builders, and can\u2019t hardly wait for the start of our next one in early January!   Stebnitz brings so much talent to the job.  Plus they understand my visions and have  delivered every single \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you so much Kathy! We're looking forward to your next project, as well! We couldn't have great projects without great clients like you and Toby. Thank you for the trust you've placed in our team and the experience we've provided."
+   },
+   {
+    "reviewer": "B D",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "The email I sent to Stebnitz at the end of my project sums up how I feel about the whole experience: \u2026",
+    "owner": "Response from the owner 2 years ago\nThank you for the kind words. The kitchen is amazing. It was a pleasure working with you both. The photos of your kitchen paint a wonderful picture for potential clients to review and generate ideas of what their space could become. \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "remodel@stebnitzbuilders.com",
+    "how": "plain text",
+    "raw": "remodel@stebnitzbuilders.com",
+    "page": "https://www.stebnitzbuilders.com/contact/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "Founded by Stan Stebnitz"
+   },
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "Founded by Chris\u2019 grandfather, expanded by his father and uncles, and now led by Chris Stebnitz, our family\u2019s dedication to qualit"
+   },
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "President of Stebnitz Builders"
+   },
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "President of Remodelers Advantage"
+   },
+   {
+    "page": "https://www.stebnitzbuilders.com/about/",
+    "snippet": "Victoria Downing, President of Remodelers Advantage Inc, offers her unique perspective of what it means for Stebnitz Builders to celebrate 50 years"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/StebnitzBuilders/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/stebnitzbuilders"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 8,
+   "bath": 7,
+   "roof": 1,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 1,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 11"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Daniel Company Bathrooms",
+    "url": "https://www.dcbathswi.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Hawthorne Remodeling LLC",
+    "url": "https://www.hawthorne-remodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Home Lumber Company",
+    "url": "https://www.homelumber.co/",
+    "gbp_address": null
+   },
+   {
+    "name": "Pcc Shower Solutions LLC",
+    "url": "https://pccshowersolutions.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Revitalize Your Floor",
+    "url": "https://www.revitalizeyourfloor.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Whitewater, WI"
   ]
  }
 ]

@@ -1,9 +1,316 @@
 [
  {
-  "id": "cornerstonekitchenandbathnc.com",
-  "name": "Cornerstone Kitchen & Bath",
+  "id": "carolinadreamknb.com",
+  "name": "Carolina Dream Kitchen & Baths, LLC",
   "region": "R2",
-  "website": "https://cornerstonekitchenandbathnc.com/",
+  "website": "https://www.carolinadreamknb.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.carolinadreamknb.com/"
+   ],
+   "contact": [
+    "https://www.carolinadreamknb.com/kitchen-bathroom-remodel/Raleigh"
+   ],
+   "about": [
+    "https://www.carolinadreamknb.com/about",
+    "https://www.carolinadreamknb.com/who-we-are"
+   ],
+   "gallery": [
+    "https://www.carolinadreamknb.com/gallery/project-gallery",
+    "https://www.carolinadreamknb.com/gallery/kitchen-remodels-projects"
+   ],
+   "legal": [
+    "https://www.carolinadreamknb.com/privacy",
+    "https://www.carolinadreamknb.com/privacy-policy",
+    "https://www.carolinadreamknb.com/terms"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJD6PalegTrIkRsdKfK6XG3EA&hl=en",
+    "quote": "Wendy Newcomb: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-09-20",
+    "url": "https://www.youtube.com/watch?v=T1u1KfEfxoc",
+    "quote": "YouTube channel https://www.youtube.com/@carolinadreamknb post: 'LAST DAY! Come See Us Today! Southern Ideal Home Show \u2013 Booth'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UC_cbptVmUEMnpK2yMtWVLWQ <published>"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6PalegTrIkRsdKfK6XG3EA&hl=en",
+  "gbp_title": "Carolina Dream Kitchen & Baths, LLC",
+  "gbp_address": null,
+  "gbp_rating": "4.6\n(7)",
+  "gbp_phone": "phone:tel:+19193355697",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Wendy Newcomb",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Recently had our bathroom refreshed and we couldn't be happier!  The work they do is amazing. They show up on time, take precautions to keep your home as clean as possible while work is being done. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Amy Devers",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "Kalvin and Carolina were a dream to work with! From our very first conversation, to scoping out the work, making decisions while the project was in progress,  to final completion, this team was extremely professional, easy to work with, \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Amy Davis",
+    "when": "5 years ago",
+    "stars": "2 stars",
+    "text": "Kalvin subbed out the work We hired his company to complete. From day one it was a disorganized mess. We hired his company to replace are damaged siding with hardy plank. \u2026",
+    "owner": "Response from the owner 5 years ago\nAmy\nThank you for your feedback, as all feedback helps us to improve. \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "sales@carolinadreamknb.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:sales@carolinadreamknb.com",
+    "page": "https://www.carolinadreamknb.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.carolinadreamknb.com/about",
+    "snippet": "As the owner of Carolina Dream Kitchen & Baths, I have over 25 years of experience in residential construction and have been privile"
+   },
+   {
+    "page": "https://www.carolinadreamknb.com/who-we-are",
+    "snippet": "As the owner of Carolina Dream Kitchen & Baths, I have over 25 years of experience in residential construction and have been privile"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/carolinawoodcustoms/reviews"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/carolinadreamknb"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 19,
+   "bath": 17,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 459px, i.e. 84px wider than the screen; elements past the right edge: ['DIV.slide-text right=544',",
+   "gallery images over 1MB each: https://www.carolinadreamknb.com/images-gallery/kitchen/Carmel-Kitchen-1-after-Raleigh-NC.jpg = 2,504,801 bytes (HTTP Content-Length); https://www.carolinadream"
+  ],
+  "competitor_pool": [
+   {
+    "name": "4r services",
+    "url": "https://www.4rservicesnc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Evolution Construction, LLC",
+    "url": "https://evolutionconstructionnc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Old Mill Remodel",
+    "url": "https://oldmillrandr.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Quality Kitchen Designs",
+    "url": "https://qualitykd.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Voss Construction LLC",
+    "url": "https://usmapinformation.com/details/voss-construction-llc-ChIJAUS",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Smithfield, NC"
+  ]
+ },
+ {
+  "id": "kbrs.com",
+  "name": "KBRS, Inc.",
+  "region": "R2",
+  "website": "https://www.kbrs.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://www.kbrs.com/"
+   ],
+   "contact": [
+    "https://www.kbrs.com/contact"
+   ],
+   "about": [
+    "https://www.kbrs.com/about/why-kbrs",
+    "https://www.kbrs.com/about"
+   ],
+   "gallery": [
+    "https://www.kbrs.com/resources/gallery"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "social_post",
+    "date": "2026-10-08",
+    "url": "https://www.youtube.com/shorts/yBHad7tXg0Q",
+    "quote": "YouTube channel https://www.youtube.com/user/KBRSINC post: 'KBRS 100% Leak-Proof Shower Systems Built for Pros'",
+    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCb6CdR7j5nL4BMhF9Cv0-Hg <published>"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJISa5MAOa-4gRyAMoRCgGfus&hl=en",
+  "gbp_title": "KBRS, Inc.",
+  "gbp_address": "\ue0c8\n8406 Speedway Blvd, Hardeeville, SC 29927, United States",
+  "gbp_rating": "4.1\n(31)",
+  "gbp_phone": "phone:tel:+18669123211",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Michael Troila",
+    "when": "a year ago",
+    "stars": "5 stars",
+    "text": "KBRS is by far the best company that makes shower bases, they totally stand by their products and strive to make the customer happy. if anything goes wrong with shipping they carry that weight on their shoulders and don't pass the buck they \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Mark",
+    "when": "5 months ago",
+    "stars": "1 star",
+    "text": "Ordered over $2,000 worth of product from these guys on Monday April 6th based on their statement of \"FAST FREE NEXT DAY DELIVERY\"!  Did not receive the product until Monday April 20th! Not only did I go without a shower in my house for two \u2026",
+    "owner": "Response from the owner 5 months ago\nDear Mr. Fleck,\nThank you for taking the time to leave your review. At KBRS, our team typically processes and ships successfully well over 1,300 orders per month on time and \u2026 More"
+   },
+   {
+    "reviewer": "Patrick Lord",
+    "when": "2 years ago",
+    "stars": "5 stars",
+    "text": "We did a complete stud to rafter to joist remodel of our primary bathroom in 2017. With the exception of the actual tile installation all other work including the shower prep was DIY. \u2026",
+    "owner": null
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "orders@kbrs.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:orders@kbrs.com",
+    "page": "https://www.kbrs.com/"
+   },
+   {
+    "email": "sales@kbrsinc.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:sales@kbrsinc.com",
+    "page": "https://www.kbrs.com/contact"
+   },
+   {
+    "email": "returns@kbrsinc.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:returns@kbrsinc.com",
+    "page": "https://www.kbrs.com/contact"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://www.kbrs.com/",
+    "snippet": "- Eric Anderson, President, DreamMaker Bath & Kitchen of East Georgia"
+   },
+   {
+    "page": "https://www.kbrs.com/about",
+    "snippet": "You may not think of surfing when it comes to bathroom showers, but KBRS founder Tommy Davis did just that"
+   },
+   {
+    "page": "https://www.kbrs.com/about",
+    "snippet": "has been designing and engineering innovative quality shower products for KBRS and continues to serve as the company's President and CEO to this day"
+   }
+  ],
+  "facebook_links": [
+   "https://www.facebook.com/KBRSINC/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/kbrsinc"
+  ],
+  "franchise_mentions": [
+   "dreammaker bath",
+   "dreammaker"
+  ],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 0,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "gallery images over 1MB each: https://www.kbrs.com/img/paper-texture.png = 1,596,023 bytes; https://www.kbrs.com/img/paper-texture.png = 1,596,023 bytes; https://www.kbrs.com/img/gallery/cus"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Beckwith Home Construction Bluffton",
+    "url": "https://www.beckwithbuilds.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bermudez Construction Home Remodeling",
+    "url": "https://www.bermudezbuilds.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Bluffton Builders",
+    "url": "https://bluffton.builders/",
+    "gbp_address": null
+   },
+   {
+    "name": "Complete Home Solutions",
+    "url": "https://completehomesolutionsllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "DJ Contractors - Flooring, Bathroom Remodeling & Tile Experts",
+    "url": "https://www.djcontractorsllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Shore Thing Remodeling, LLC",
+    "url": "https://www.shorethingremodeling.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Hardeeville, SC"
+  ]
+ },
+ {
+  "id": "prattliving.com",
+  "name": "Pratt Home Builders | New Homes Ooltewah TN",
+  "region": "R2",
+  "website": "https://prattliving.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,260 +318,142 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://cornerstonekitchenandbathnc.com/"
+    "https://prattliving.com/"
    ],
    "contact": [
-    "https://cornerstonekitchenandbathnc.com/contact-cornerstone-kitchen-bath/",
-    "https://cornerstonekitchenandbathnc.com/contact-cornerstone-kitchen-bath/"
+    "https://prattliving.com/contact-us/"
    ],
    "about": [
-    "https://cornerstonekitchenandbathnc.com/about-cornerstone-kitchen-bath/"
+    "https://prattliving.com/thoughtfully-build-a-lifestyle/",
+    "https://prattliving.com/meet-the-team/"
    ],
    "gallery": [
-    "https://cornerstonekitchenandbathnc.com/finished-projects-gallery/",
-    "https://cornerstonekitchenandbathnc.com/before-and-after/"
+    "https://prattliving.com/design-gallery/"
    ],
    "legal": [
-    "https://cornerstonekitchenandbathnc.com/privacy-policy/"
+    "https://prattliving.com/privacy-policy/",
+    "https://prattliving.com/privacy-policy/",
+    "https://prattliving.com/terms-and-conditions/"
    ]
   },
   "auto_signals": [
    {
     "type": "site_dated_content",
-    "date": "2026-09-21",
-    "url": "https://cornerstonekitchenandbathnc.com/custom-cabinetry-blog/why-you-should-choose-custom-closets/",
-    "quote": "wp-json/posts published 2026-09-21T10:00:16: 'Why You Should Choose Custom Closets'"
+    "date": "2026-10-12",
+    "url": "https://prattliving.com/2026/10/12/buy-now-or-wait-new-construction-chattanooga/",
+    "quote": "wp-json/posts published 2026-10-12T12:40:14: 'Waiting on Rates? Explore What Buying a New Home Could Make Possible'"
+   },
+   {
+    "type": "social_post",
+    "date": "2026-10-14",
+    "url": "https://www.linkedin.com/posts/pratt-home-builders_pratthomebuilders-chattanoogarealestate-activity-7516158453095190528-c6YI",
+    "quote": "LinkedIn company page https://www.linkedin.com/company/pratt-home-builders/ post: '\ud83c\udfe1 FLOOR PLAN SPOTLIGHT: The Walden Ridge by Pratt Home Builders For'",
+    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
    }
   ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJG25dmajwrIkRgL6IYMlQDxg&hl=en",
-  "gbp_title": "Cornerstone Kitchen & Bath",
-  "gbp_address": "\ue0c8\n6300-C Westgate Rd, Raleigh, NC 27617, United States",
-  "gbp_rating": "4.7\n(28)",
-  "gbp_phone": "phone:tel:+19195104200",
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx9IfW57YIgROWzjyTvNa3c&hl=en",
+  "gbp_title": "Pratt Home Builders | New Homes Ooltewah TN",
+  "gbp_address": "\ue0c8\n1753 Whisper Winds Ln, Ooltewah, TN 37363, United States",
+  "gbp_rating": "5.0\n(50)",
+  "gbp_phone": "phone:tel:+14237577687",
   "gbp_reviews_visible": [
    {
-    "reviewer": "M Mac",
-    "when": "a year ago",
+    "reviewer": "Two Bears Chavez",
+    "when": "8 months ago",
     "stars": "5 stars",
-    "text": "My family completed our first home renovation earlier this year which involved gutting and redoing the whole kitchen. We had a lot of ideas but needed help narrowing them down to a final plan. \u2026",
+    "text": "Mr. Triba was very professional and knowledgeable. He took his time explaining processes and recommendations that would be tangible to our needs and logistics. The product was superb and provided exactly what was required for the space \u2026",
     "owner": null
    },
    {
-    "reviewer": "Barney York",
-    "when": "6 months ago",
+    "reviewer": "Hunter Coblentz",
+    "when": "7 months ago",
     "stars": "5 stars",
-    "text": "We ended up remodeling our kitchen somewhat unexpectedly after a cabinet literally fell off the wall after 19 years. With kids in college, this wasn\u2019t something we had planned, so choosing the right company mattered. \u2026",
+    "text": "I don\u2019t usually leave reviews, but I wanted to shout out Pratt Home Builders because I\u2019ve been really impressed with what I\u2019ve seen from them. You can tell they take pride in their work and care about doing things the right way, not just \u2026",
     "owner": null
    },
    {
-    "reviewer": "Danielle Jones",
-    "when": "a year ago",
+    "reviewer": "Paul Lovelace",
+    "when": "8 months ago",
     "stars": "5 stars",
-    "text": "It is said a picture speaks a thousand words.  These pictures show how one local cabinet company fell short and the other hit it out of the park.  First go around was with OAK CITY CABINETS, a preferred partner of Homestead Building \u2026",
+    "text": "Highly recommend Pratt Home Builders! Such a great company. High quality homes and even better people! A+++",
     "owner": null
    }
   ],
-  "emails_found": [],
-  "dm_snippets": [],
+  "emails_found": [
+   {
+    "email": "info@prattliving.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@prattliving.com",
+    "page": "https://prattliving.com/"
+   }
+  ],
+  "dm_snippets": [
+   {
+    "page": "https://prattliving.com/meet-the-team/",
+    "snippet": "Vice President of Sales"
+   }
+  ],
   "facebook_links": [
-   "https://www.facebook.com/cornerstonekitchensnc",
-   "https://www.facebook.com/cornerstonekitchensnc/"
+   "https://www.facebook.com/prattliving",
+   "https://www.facebook.com/prattliving/"
   ],
   "instagram_links": [
-   "https://www.instagram.com/cabinetsraleigh",
-   "https://www.instagram.com/cornerstone_kitchenandbath",
-   "https://www.instagram.com/kitchensraleigh"
+   "https://www.instagram.com/prattliving"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 35,
-   "bath": 25,
+   "kitchen": 0,
+   "bath": 10,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 76,
+   "cabinet": 0,
    "siding": 0,
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 1
+   "custom home": 12
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 55"
+   "mobile performance score below 60: PSI mobile performance 41"
   ],
   "competitor_pool": [
    {
-    "name": "Gonzalez Flooring & Remodeling LLC.",
-    "url": "https://www.gonzalezflooringremodeling.llc/",
+    "name": "BMB Construction Remodeling & Repair service",
+    "url": "https://www.bmbconstructionrrs.com/",
     "gbp_address": null
    },
    {
-    "name": "Innovative Green Builders",
-    "url": "https://innovativegreenbuilders.com/",
+    "name": "Elite Remodeling Solutions",
+    "url": "https://eliteremodelingsolutions.com/",
     "gbp_address": null
    },
    {
-    "name": "Kitchens of the South",
-    "url": "https://www.kitchensofthesouth.net/",
+    "name": "Five Star Bath Solutions of the Ozarks",
+    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
     "gbp_address": null
    },
    {
-    "name": "Omega Appliance Repair and Home Services LLC",
-    "url": "https://www.omegaappliancerepairnc.com/",
+    "name": "Hammond Brothers Construction",
+    "url": "https://www.hammondbros.com/",
     "gbp_address": null
    },
    {
-    "name": "Prim Construction LLC",
-    "url": "https://primconstructionllc.com/",
+    "name": "HMG Construction LLC",
+    "url": "https://hmgconstructionllc.com/",
     "gbp_address": null
    },
    {
-    "name": "Quality Design & Construction",
-    "url": "https://www.qdcinc.com/",
+    "name": "JG Custom Construction Services, LLC",
+    "url": "https://www.jgcustomconstruction.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Henderson, NC"
-  ]
- },
- {
-  "id": "sdremodelingatl.com",
-  "name": "S&D Remodeling LLC",
-  "region": "R2",
-  "website": "https://www.sdremodelingatl.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.sdremodelingatl.com/"
-   ],
-   "contact": [
-    "https://www.sdremodelingatl.com/contact"
-   ],
-   "about": [
-    "https://www.sdremodelingatl.com/about"
-   ],
-   "gallery": [
-    "https://www.sdremodelingatl.com/portfolio"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-09-01",
-    "url": "https://www.sdremodelingatl.com/post/blog-handling-unexpected-remodel-surprises",
-    "quote": "rss:https://www.sdremodelingatl.com/blog-feed.xml published Tue, 01 Sep 2026 15:22:11 GMT: 'Handling Unexpected Surprises'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJhc85lU0y9YgRaTyI_FyETp8&hl=en",
-  "gbp_title": "S&D Remodeling LLC",
-  "gbp_address": "\ue0c8\n324 Providence Rd, Dallas, GA 30157, United States",
-  "gbp_rating": "5.0\n(25)",
-  "gbp_phone": "phone:tel:+14043692851",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Timothy",
-    "when": "8 months ago",
-    "stars": "5 stars",
-    "text": "What a solid and satisfying experience, end to end. From the initial design work that turns your vague ideas into something very tangible and exciting to anticipate, to the final product that becomes so much more than you expected!  Along \u2026",
-    "owner": "Response from the owner 8 months ago\nWow\u2014thank you so much for taking the time to write such a thoughtful and generous review! \u2026 More"
-   },
-   {
-    "reviewer": "Britt Fuller",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We had our formal livingroom closed in and remodeled by S&D Remodeling and it was an amazing experience from start to finish. The work was done so much faster than I had imagined it would take and it turned out beautifully! The entire team \u2026",
-    "owner": "Response from the owner a year ago\nThank you so much for your wonderful feedback! We\u2019re thrilled to hear that your living room remodel was such a positive experience and that everything came together beautifully. Our team takes pride in providing clear communication, \u2026 More"
-   },
-   {
-    "reviewer": "John Brown",
-    "when": "6 months ago",
-    "stars": "5 stars",
-    "text": "S&D remodeling did an excellent job for us \u2014 ahead of schedule and within budget. They pressure washed our driveway, stone steps, and the wood trim on our brick home. They repaired and replaced trim, as needed, before priming and painting. \u2026",
-    "owner": "Response from the owner 6 months ago\nThank you so much for your thoughtful review and recommendation! \nWe truly appreciate your trust in S&D Remodeling and are grateful for the opportunity to work on your home. It means a lot to hear that our team delivered a \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@sdremodelingatl.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@sdremodelingatl.com",
-    "page": "https://www.sdremodelingatl.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://www.sdremodelingatl.com/",
-    "snippet": "\u2014 Nathaniel Speciale, Founder, Speciale Design & Build"
-   },
-   {
-    "page": "https://www.sdremodelingatl.com/",
-    "snippet": "Founder, General Contractor"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/specialedesignbuild"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/specialedesignbuild"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 9,
-   "bath": 9,
-   "roof": 3,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 1,
-   "siding": 0,
-   "window": 0,
-   "pool": 2,
-   "solar": 0,
-   "custom home": 1
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 48",
-   "gallery images over 1MB each: https://static.wixstatic.com/media/2d5455_dc1710e8be9f404d89360bbb77a7e286~mv2.png = 1,422,458 bytes; https://static.wixstatic.com/media/2d5455_967474be439c4c11"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Alliance Construction",
-    "url": "https://www.allianceconstruction-ga.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Amazing Kitchen Renovation, LLC",
-    "url": "https://amazingkitchenrenovationdesign.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Bath Pros and Cleaning,Corp",
-    "url": "https://bathprosservices.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Leoysa Home Improvements LLC",
-    "url": "https://leoysahome.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Malveira home renovation LLC",
-    "url": "https://www.malveirarenovations.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Dallas, GA"
+   "Collegedale, TN"
   ]
  }
 ]
