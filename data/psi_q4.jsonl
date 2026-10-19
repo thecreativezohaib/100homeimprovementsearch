@@ -857,3 +857,8 @@
 {"id": "bohancontracting.com", "tested_url": "https://bohancontracting.com/", "attempts": [{"at": "2026-10-19T04:58:22+00:00", "http": 200}], "psi_score": 68, "psi_date": "2026-10-19T04:58:22+00:00"}
 {"id": "braveremodeling.com", "tested_url": "https://www.braveremodeling.com/", "attempts": [{"at": "2026-10-19T04:58:49+00:00", "http": 200}], "psi_score": 54, "psi_date": "2026-10-19T04:58:49+00:00"}
 {"id": "bryantconstruction.net", "tested_url": "https://www.bryantconstruction.net/", "attempts": [{"at": "2026-10-19T04:59:18+00:00", "http": 200}], "psi_score": 53, "psi_date": "2026-10-19T04:59:18+00:00"}
+{"id": "budremodeling.com", "tested_url": "https://budremodeling.com/", "attempts": [{"at": "2026-10-19T04:59:38+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T05:00:11+00:00", "http": 200}], "psi_score": 37, "psi_date": "2026-10-19T05:00:11+00:00"}
+{"id": "buildonceconstruction.com", "tested_url": "https://buildonceconstruction.com/", "attempts": [{"at": "2026-10-19T05:00:40+00:00", "http": 200}], "psi_score": 35, "psi_date": "2026-10-19T05:00:40+00:00"}
+{"id": "builtbyhighlandco.com", "tested_url": "https://builtbyhighlandco.com/", "attempts": [{"at": "2026-10-19T05:01:10+00:00", "http": 200}], "psi_score": 81, "psi_date": "2026-10-19T05:01:10+00:00"}
+{"id": "ca-remodelingsvc.com", "tested_url": "https://ca-remodelingsvc.com/", "attempts": [{"at": "2026-10-19T05:01:27+00:00", "http": 200}], "psi_score": 65, "psi_date": "2026-10-19T05:01:27+00:00"}
+{"id": "callbens.com", "tested_url": "https://callbens.com/", "attempts": [{"at": "2026-10-19T05:01:40+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T05:02:13+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
