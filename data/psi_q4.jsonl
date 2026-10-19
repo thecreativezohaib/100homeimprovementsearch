@@ -845,3 +845,4 @@
 {"id": "allinoneremodelingnash.com", "tested_url": "https://allinoneremodelingnash.com/", "attempts": [{"at": "2026-10-19T04:53:32+00:00", "http": 200}], "psi_score": 62, "psi_date": "2026-10-19T04:53:32+00:00"}
 {"id": "alpinedesignremodel.com", "tested_url": "https://www.alpinedesignremodel.com/", "attempts": [{"at": "2026-10-19T04:53:49+00:00", "http": 200}], "psi_score": 62, "psi_date": "2026-10-19T04:53:49+00:00"}
 {"id": "animascraft.com", "tested_url": "https://www.animascraft.com/", "attempts": [{"at": "2026-10-19T04:54:08+00:00", "http": 200}], "psi_score": 40, "psi_date": "2026-10-19T04:54:08+00:00"}
+{"id": "archwayatl.com", "tested_url": "https://archwayatl.com/", "attempts": [{"at": "2026-10-19T04:54:25+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T04:54:58+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}

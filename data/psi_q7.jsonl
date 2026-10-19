@@ -184,3 +184,4 @@
 {"id": "allinonemd.com", "tested_url": "https://allinonemd.com/", "attempts": [{"at": "2026-10-19T04:53:24+00:00", "http": 200}], "psi_score": 82, "psi_date": "2026-10-19T04:53:24+00:00"}
 {"id": "allseasonsbuild.com", "tested_url": "https://allseasonsbuild.com/", "attempts": [{"at": "2026-10-19T04:53:48+00:00", "http": 200}], "psi_score": 77, "psi_date": "2026-10-19T04:53:48+00:00"}
 {"id": "andyscleanlines.net", "tested_url": "https://www.andyscleanlines.net/", "attempts": [{"at": "2026-10-19T04:54:00+00:00", "http": 200}], "psi_score": 58, "psi_date": "2026-10-19T04:54:00+00:00"}
+{"id": "apmalinco.com", "tested_url": "https://www.apmalinco.com/", "attempts": [{"at": "2026-10-19T04:54:15+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T04:54:48+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
