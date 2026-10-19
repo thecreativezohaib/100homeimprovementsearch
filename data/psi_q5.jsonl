@@ -1061,3 +1061,9 @@
 {"id": "silverspringhomeimprovement.com", "tested_url": "https://www.silverspringhomeimprovement.com/", "attempts": [{"at": "2026-10-19T06:08:19+00:00", "http": 200}], "psi_score": 78, "psi_date": "2026-10-19T06:08:19+00:00"}
 {"id": "jacobscustomdesign.com", "tested_url": "https://jacobscustomdesign.com/", "attempts": [{"at": "2026-10-19T06:08:33+00:00", "http": 200}], "psi_score": 56, "psi_date": "2026-10-19T06:08:33+00:00"}
 {"id": "hgjbuilders.com", "tested_url": "https://hgjbuilders.com/", "attempts": [{"at": "2026-10-19T06:08:45+00:00", "http": 200}], "psi_score": 63, "psi_date": "2026-10-19T06:08:45+00:00"}
+{"id": "apmalinco.com", "tested_url": "https://www.apmalinco.com/", "attempts": [{"at": "2026-10-19T06:08:05+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:08:38+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "buildmallard.com", "tested_url": "https://buildmallard.com/", "attempts": [{"at": "2026-10-19T06:08:59+00:00", "http": 200}], "psi_score": 65, "psi_date": "2026-10-19T06:08:59+00:00"}
+{"id": "btlhomeimprovements.com", "tested_url": "http://www.btlhomeimprovements.com/", "attempts": [{"at": "2026-10-19T06:09:13+00:00", "http": 200}], "psi_score": 70, "psi_date": "2026-10-19T06:09:13+00:00"}
+{"id": "stroykabuilders.com", "tested_url": "https://stroykabuilders.com/", "attempts": [{"at": "2026-10-19T06:09:24+00:00", "http": 200}], "psi_score": 92, "psi_date": "2026-10-19T06:09:24+00:00"}
+{"id": "pavaconstruction.com", "tested_url": "https://www.pavaconstruction.com/", "attempts": [{"at": "2026-10-19T06:09:34+00:00", "http": 200}], "psi_score": 58, "psi_date": "2026-10-19T06:09:34+00:00"}
+{"id": "surfacerestorationstec.com", "tested_url": "https://surfacerestorationstec.com/", "attempts": [{"at": "2026-10-19T06:09:46+00:00", "http": 200}], "psi_score": 61, "psi_date": "2026-10-19T06:09:46+00:00"}

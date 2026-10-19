@@ -878,3 +878,5 @@
 {"id": "anchorpointpro.com", "tested_url": "https://anchorpointpro.com/", "attempts": [{"at": "2026-10-19T06:07:31+00:00", "http": 200}], "psi_score": 92, "psi_date": "2026-10-19T06:07:31+00:00"}
 {"id": "advantagebuildinggroup.com", "tested_url": "https://advantagebuildinggroup.com/", "attempts": [{"at": "2026-10-19T06:07:43+00:00", "http": 200}], "psi_score": 57, "psi_date": "2026-10-19T06:07:43+00:00"}
 {"id": "proworksonline.com", "tested_url": "https://www.proworksonline.com/", "attempts": [{"at": "2026-10-19T06:08:01+00:00", "http": 200}], "psi_score": 66, "psi_date": "2026-10-19T06:08:01+00:00"}
+{"id": "eldersgeneralconst.com", "tested_url": "https://www.eldersgeneralconst.com/", "attempts": [{"at": "2026-10-19T06:08:25+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T06:08:58+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "terakkiconstruction.com", "tested_url": "https://www.terakkiconstruction.com/", "attempts": [{"at": "2026-10-19T06:09:32+00:00", "http": 200}], "psi_score": 52, "psi_date": "2026-10-19T06:09:32+00:00"}
