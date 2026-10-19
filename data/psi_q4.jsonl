@@ -1402,3 +1402,4 @@
 {"id": "tpcabinetry.com", "tested_url": "https://tpcabinetry.com/", "attempts": [{"at": "2026-10-19T08:24:23+00:00", "http": 200}], "psi_score": 59, "psi_date": "2026-10-19T08:24:23+00:00"}
 {"id": "txcabinetpros.com", "tested_url": "https://txcabinetpros.com/", "attempts": [{"at": "2026-10-19T08:24:41+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T08:25:14+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "veikkoproperties.com", "tested_url": "http://veikkoproperties.com/", "attempts": [{"at": "2026-10-19T08:25:48+00:00", "http": 200}], "psi_score": 84, "psi_date": "2026-10-19T08:25:48+00:00"}
+{"id": "williamsremodel.net", "tested_url": "https://williamsremodel.net/", "attempts": [{"at": "2026-10-19T08:26:04+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T08:26:37+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
