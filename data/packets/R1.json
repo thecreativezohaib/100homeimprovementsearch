@@ -1,0 +1,140 @@
+[
+ {
+  "id": "kazhomeimprovements.com",
+  "name": "Kaz Home Improvements",
+  "region": "R1",
+  "website": "https://kazhomeimprovements.com/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://kazhomeimprovements.com/"
+   ],
+   "contact": [
+    "https://kazhomeimprovements.com/about-us/contact-us/",
+    "https://kazhomeimprovements.com/get-a-quote/"
+   ],
+   "about": [
+    "https://kazhomeimprovements.com/about-us/",
+    "https://kazhomeimprovements.com/about-us/our-work/"
+   ],
+   "legal": [
+    "https://kazhomeimprovements.com/privacy-policy/",
+    "https://kazhomeimprovements.com/privacy-policy/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJLRo3tFQJ04kR5GT1WXovQww&hl=en",
+    "quote": "Carrie R: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-13",
+    "url": "https://kazhomeimprovements.com/trading-90s-jacuzzi-tub-for-walk-in-shower/",
+    "quote": "wp-json/posts published 2026-10-13T08:00:10: 'Is it Time to Replace Your 90&#8217;s Jacuzzi Tub?'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRo3tFQJ04kR5GT1WXovQww&hl=en",
+  "gbp_title": "Kaz Home Improvements",
+  "gbp_address": "\ue0c8\n150 N America Dr, West Seneca, NY 14224, United States",
+  "gbp_rating": "4.6\n(206)",
+  "gbp_phone": "phone:tel:+17166747288",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Carrie R",
+    "when": "a month ago",
+    "stars": "5 stars",
+    "text": "Kaz Home Improvements did an absolutely incredible job on my exterior house renovation. I had a crumbling brick front ranch house with an odd two tier roofline. Working with their sales and design team we decided to add on a covered front \u2026",
+    "owner": "Response from the owner a month ago\nWow! What an amazing write up. Thank you so much for the words on our crew, the work and the clean up! We are are so proud of the work and cannot wait to show it off!\n"
+   },
+   {
+    "reviewer": "Kelly Joseph",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "We were extremely happy with the work done by Kaz Home Improvements! We had a wonderful experience throughout the entire process from Heather, our initial contact, to Jim, our main contractor. Jim was absolutely fantastic! He always was \u2026",
+    "owner": "Response from the owner 8 months ago\nKelly! Thank you so much for your kind words. It's so great to know that every step of your kitchen remodel was a great experience. We are so proud of the team we have, and your words prove that they are truly the experts. Thank you so much for sharing photos as well!  "
+   },
+   {
+    "reviewer": "Barbara Higgins",
+    "when": "8 months ago",
+    "stars": "5 stars",
+    "text": "We are very happy with our decision to go through Kaz. We had our bathroom remodeled and our attic finished. They did a fantastic job. Everyone that helped us through the process was great! Eric and his team that did the work were \u2026",
+    "owner": "Response from the owner 8 months ago\nBarbara, Thank you so much for the kind review! We appreciate your words about your amazing remodeling team of carpenters . We are so glad you shared photos of both construction projects and the final look! We are so happy to help\n"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "info@kazhomeimprovements.com",
+    "how": "cloudflare data-cfemail",
+    "raw": "2e474048416e454f544641434b47435e5c41584b434b405a5d004d4143",
+    "page": "https://kazhomeimprovements.com/privacy-policy/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/thekazcompanies"
+  ],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 10,
+   "bath": 7,
+   "roof": 4,
+   "plumb": 0,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 0,
+   "cabinet": 0,
+   "siding": 4,
+   "window": 4,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 32"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Alliance Homes",
+    "url": "https://alliancehomes.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ehrhart Development Group",
+    "url": "https://ehrhart-group.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Jeffrey William Construction",
+    "url": "https://jeffreywilliamconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "ProSource Painting",
+    "url": "https://www.prosourcepaint.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "RaveWorks Remodeling",
+    "url": "https://raveworksweb.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Sireika Renovations",
+    "url": "https://www.sireikakitchenbathny.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Hamburg, NY"
+  ]
+ }
+]

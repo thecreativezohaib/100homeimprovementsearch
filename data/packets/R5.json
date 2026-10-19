@@ -1,9 +1,9 @@
 [
  {
-  "id": "touchdesignbuild.com",
-  "name": "Touch Design And Build Inc.",
+  "id": "fairbankspecialservices.com",
+  "name": "Fairbank Special Services",
   "region": "R5",
-  "website": "https://www.touchdesignbuild.com/",
+  "website": "https://www.fairbankspecialservices.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,56 +11,89 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://www.touchdesignbuild.com/"
+    "https://www.fairbankspecialservices.com/"
    ],
    "contact": [
-    "https://www.touchdesignbuild.com/contact-us"
+    "https://www.fairbankspecialservices.com/contact"
    ],
    "about": [
-    "https://www.touchdesignbuild.com/about"
+    "https://www.fairbankspecialservices.com/about-us",
+    "https://www.fairbankspecialservices.com/blog"
    ],
    "gallery": [
-    "https://www.touchdesignbuild.com/portfolio"
+    "https://www.fairbankspecialservices.com/post/backyard-renovation-roi-which-outdoor-projects-add-lifestyle-value-and-home-value"
    ]
   },
   "auto_signals": [
    {
-    "type": "social_post",
-    "date": "2026-08-21",
-    "url": "https://www.youtube.com/shorts/4AEJJmZU0Bc",
-    "quote": "YouTube channel https://www.youtube.com/@TBDInc510 post: 'We Bought This Home in 2019... Here's What Changed'",
-    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCpv0Hid858DDrc8i-uMlPyQ <published>"
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJu7u8lxo9kFQRJL40eXovrbk&hl=en",
+    "quote": "Jeanie Ketcham: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-10-09",
+    "url": "https://www.fairbankspecialservices.com/post/a-wonderful-beginning-our-first-community-workshop",
+    "quote": "rss:https://www.fairbankspecialservices.com/blog-feed.xml published Fri, 09 Oct 2026 17:58:39 GMT: 'A Wonderful Beginning: Our First Community Workshop'"
    }
   ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5GpCH1_hYARzeEDEJ7w_y0&hl=en",
-  "gbp_title": "Touch Design And Build Inc.",
-  "gbp_address": "\ue0c8\nShop, 1727 64th St, Emeryville, CA 94608, United States",
-  "gbp_rating": "",
-  "gbp_phone": "phone:tel:+15102213702",
-  "gbp_reviews_visible": [],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7u8lxo9kFQRJL40eXovrbk&hl=en",
+  "gbp_title": "Fairbank Special Services",
+  "gbp_address": "\ue0c8\n15773 George Ln NE Ste 103, Poulsbo, WA 98370, United States",
+  "gbp_rating": "5.0\n(3)",
+  "gbp_phone": "phone:tel:+12065581513",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Christina Garrigues",
+    "when": "4 months ago",
+    "stars": "5 stars",
+    "text": "The quality of the work exceeded our expectations, and we love how our new bathroom turned out! It's clear they take pride in their craftsmanship and pay attention to the details. We truly appreciate all of their hard work and would highly recommend them to anyone looking for a contractor they can trust!",
+    "owner": "Response from the owner 4 months ago\nThank you for your kind words and for trusting us with your bathroom renovation. We're delighted to hear that the finished space exceeded your expectations and that you're enjoying the result. Our team takes great pride in delivering \u2026 More"
+   },
+   {
+    "reviewer": "Jeanie Ketcham",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "Beautiful high quality and professional workmanship. I loved working with Chelsea and the craftspeople. There were communication issues with management but because the onsite team was so good, the project went very well.",
+    "owner": "Response from the owner 2 months ago\nThank you for taking the time to share your experience. It means a great deal to know you appreciated the craftsmanship and professionalism of our team. Chelsea and our field crews are passionate about doing quality work, and we're so glad \u2026 More"
+   },
+   {
+    "reviewer": "Tedd Kraft",
+    "when": "4 days ago",
+    "stars": "5 stars",
+    "text": "Fairbank Construction repaired two window trim pieces on our home.  We are very pleased with the repair work and the professional workers who did the work.   Tedd Kraft",
+    "owner": "Response from the owner 8 hours ago\nThanks so much for the review, Tedd! We're glad you are pleased with the window trim repairs. I will be sure to pass your kind words along to the crew\u2014they take great pride in their professionalism. We truly appreciate your trust in our team and your taking the time to share your experience!"
+   }
+  ],
   "emails_found": [
    {
-    "email": "touchbuild7@gmail.com",
+    "email": "info@fairbankspecialservices.com",
     "how": "mailto",
-    "raw": "href=\"mailto:Touchbuild7@gmail.com",
-    "page": "https://www.touchdesignbuild.com/contact-us"
-   }
-  ],
-  "dm_snippets": [
+    "raw": "href=\"mailto:info@fairbankspecialservices.com",
+    "page": "https://www.fairbankspecialservices.com/"
+   },
    {
-    "page": "https://www.touchdesignbuild.com/",
-    "snippet": "I am Felix Sanchez, founder of Touch Design and Build Inc, bringing over 25 years of diverse construction experience, including a specialty in wate"
+    "email": "info@fairbankconstruction.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:info@fairbankconstruction.com",
+    "page": "https://www.fairbankspecialservices.com/"
    }
   ],
-  "facebook_links": [],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/fairbankconstructioncompany",
+   "https://www.facebook.com/people/Fairbank-Special-Services/"
+  ],
   "instagram_links": [
-   "https://www.instagram.com/touch_design_and_build"
+   "https://www.instagram.com/fairbankconstructioncompany",
+   "https://www.instagram.com/fairbankspecialservices"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 1,
-   "bath": 0,
+   "kitchen": 11,
+   "bath": 11,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
@@ -69,47 +102,37 @@
    "cabinet": 0,
    "siding": 0,
    "window": 0,
-   "pool": 0,
+   "pool": 1,
    "solar": 0,
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 56"
+   "mobile performance score below 60: PSI mobile performance 54"
   ],
   "competitor_pool": [
    {
-    "name": "6 Hammers Construction",
-    "url": "https://6hammers.com/",
+    "name": "Andy Black Handyman Services",
+    "url": "https://andyblackhandyman.com/",
     "gbp_address": null
    },
    {
-    "name": "CA Bear Construction",
-    "url": "https://cabearconstruction.com/",
+    "name": "Spruce Properties",
+    "url": "https://www.sprucepropertiesnw.com/",
     "gbp_address": null
    },
    {
-    "name": "Bay Area Remodeling by Colibri Kitchen & Bath",
-    "url": "https://www.colibrikitchenbath.com/",
+    "name": "Westside Custom Cabinets",
+    "url": "https://westsidecabinets.com/",
     "gbp_address": null
    },
    {
-    "name": "Gilor Remodeling Group",
-    "url": "https://gilorremodeling.com/home-remodeling-company-oakland/",
-    "gbp_address": null
-   },
-   {
-    "name": "Green Living Builders, LLC",
-    "url": "https://greenlivingbuilders.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Hilltop Builders",
-    "url": "https://hilltopbuildersinc.com/",
+    "name": "WRK Construction",
+    "url": "https://wrkco.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Emeryville, CA"
+   "Poulsbo, WA"
   ]
  }
 ]
