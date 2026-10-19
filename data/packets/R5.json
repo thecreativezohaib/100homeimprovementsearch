@@ -1,105 +1,81 @@
 [
  {
-  "id": "dmarieinteriors.com",
-  "name": "D. Marie Interiors",
+  "id": "boldstridewallpapers.com",
+  "name": "Northeast Dixon Tile Installers",
   "region": "R5",
-  "website": "https://dmarieinteriors.com/",
+  "website": "https://boldstridewallpapers.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
-  "platform": [
-   "GoDaddy",
-   "WordPress"
-  ],
+  "platform": [],
   "pages_fetched": {
    "home": [
-    "https://dmarieinteriors.com/"
+    "https://boldstridewallpapers.com/"
    ],
    "contact": [
-    "https://dmarieinteriors.com/contact/"
-   ],
-   "about": [
-    "https://dmarieinteriors.com/about/"
+    "https://boldstridewallpapers.com/contact.html"
    ],
    "gallery": [
-    "https://dmarieinteriors.com/projects/"
-   ],
-   "legal": [
-    "https://dmarieinteriors.com/privacy-policy/",
-    "https://dmarieinteriors.com/privacy-policy/"
+    "https://boldstridewallpapers.com/portfolio.html"
    ]
   },
   "auto_signals": [
    {
-    "type": "site_dated_content",
-    "date": "2026-09-07",
-    "url": "https://dmarieinteriors.com/ellensburg-tile-installation/",
-    "quote": "wp-json/posts published 2026-09-07T17:43:18: 'Tile Installation in Ellensburg, WA | D. Marie Interiors'"
+    "type": "google_review",
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJp2EhlXwlhYARUB1kW99_vgs&hl=en",
+    "quote": "Aaron Johnson: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06xD0TiLmVQRl017TunGnAA&hl=en",
-  "gbp_title": "D. Marie Interiors",
-  "gbp_address": "\ue0c8\n215 E 4th Ave #2, Ellensburg, WA 98926, United States",
-  "gbp_rating": "4.8\n(50)",
-  "gbp_phone": "phone:tel:+15093060643",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2EhlXwlhYARUB1kW99_vgs&hl=en",
+  "gbp_title": "Northeast Dixon Tile Installers",
+  "gbp_address": "\ue0c8\n178 N 1st St, Dixon, CA 95620, United States",
+  "gbp_rating": "5.0\n(15)",
+  "gbp_phone": "phone:tel:+19165279532",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Mary Ann Levine",
-    "when": "3 months ago",
+    "reviewer": "Anna Hawkins",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "Renee did our bathroom remodel. We are very pleased with the results.\nI had a general idea of what I wanted and Renee was able to guide me through the process. \u2026",
-    "owner": null
+    "text": "We were on a tight schedule opening a new store and found\nBoldStride Wallpapers under wallpaper contractors. They gave great advice, worked fast, and finished ahead of time. The wallpaper really added to the look of the space. Everything was clean and professionally done. Will definitely call them again.",
+    "owner": "Response from the owner 8 months ago\nThank you for choosing BoldStride Wallpapers for your commercial wallpaper installation. We're glad our wallpaper installers could deliver quality work on a tight schedule and help improve your store's look."
    },
    {
-    "reviewer": "Jean Marie Linhart",
-    "when": "10 months ago",
+    "reviewer": "Aaron Johnson",
+    "when": "a month ago",
     "stars": "5 stars",
-    "text": "Renee (D. Marie Interiors) and her team transformed our kitchen and basement, and we're thrilled with the results. The quality and craftsmanship are excellent throughout. Renee has a real talent for kitchen and bathroom design\u2014our kitchen \u2026",
-    "owner": null
+    "text": "My recent wallpaper installation service was impeccable!  The stores customer service and installer interaction was extremely courteous and professional.  I highly recommend this business for your project.",
+    "owner": "Response from the owner 3 weeks ago\nThank you for the wonderful feedback! We\u2019re glad you appreciated our courteous service and professional installation. We truly appreciate your recommendation!"
    },
    {
-    "reviewer": "Mary Miranda",
-    "when": "10 months ago",
+    "reviewer": "Osborne Chapman",
+    "when": "Edited a year ago",
     "stars": "5 stars",
-    "text": "I had the pleasure of working with Renee for a color consultation on my property, and I couldn\u2019t be happier with the results. I had multiple types of fences throughout my yard, several buildings with different trim colors, and a house with \u2026",
-    "owner": null
+    "text": "BoldStride Wallpapers created a truly peaceful atmosphere in our green-themed bedroom. The wallpaper installers worked with great precision, making sure the tones blended smoothly and the finish looked flawles. The result is a calming, \u2026",
+    "owner": "Response from the owner 8 months ago\nThank you for choosing BoldStride Wallpapers for your dining room wallpaper installation. We\u2019re glad our wallpaper installers delivered clean, smooth results and left everything tidy."
    }
   ],
   "emails_found": [
    {
-    "email": "renee@dmarieinteriors.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:renee@dmarieinteriors.com",
-    "page": "https://dmarieinteriors.com/"
+    "email": "info@boldstridewallpapers.com",
+    "how": "plain text",
+    "raw": "info@boldstridewallpapers.com",
+    "page": "https://boldstridewallpapers.com/"
    }
   ],
-  "dm_snippets": [
-   {
-    "page": "https://dmarieinteriors.com/",
-    "snippet": "Begin with an initial consultation with Principal Designer, Renee"
-   },
-   {
-    "page": "https://dmarieinteriors.com/about/",
-    "snippet": "Principal Designer"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/dmarieinteriorsdesign/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/d.marieinteriors",
-   "https://www.instagram.com/dmarieinteriors"
-  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 8,
+   "kitchen": 1,
    "bath": 1,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 1,
+   "cabinet": 0,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -107,22 +83,42 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 37"
+   "gallery images over 1MB each: https://boldstridewallpapers.com/images/services/worker.webp = 1,076,140 bytes (HTTP Content-Length); https://boldstridewallpapers.com/images/services/fabric.we"
   ],
   "competitor_pool": [
    {
-    "name": "Clean Image Services",
-    "url": "https://www.cleanimageservices.com/",
+    "name": "5B Remodeling Co",
+    "url": "https://www.5bremodelingco.com/",
     "gbp_address": null
    },
    {
-    "name": "JRCC Restoration - in Ellensburg, WA",
-    "url": "https://www.cleanimageservices.com/",
+    "name": "A&S Quality Construction INC",
+    "url": "https://aandsqualityconstructioninc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "H4H Remodeling and Repairs Inc.",
+    "url": "https://h4hremodelingandrepairs.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "QC RESIDENTIAL REMODELING",
+    "url": "https://qcworksconstruction.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Tekton Construction LLC",
+    "url": "https://www.tektonconstruct.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Vexon Construction & Home Remodel",
+    "url": "https://vexonconstruction.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Ellensburg, WA"
+   "Dixon, CA"
   ]
  }
 ]
