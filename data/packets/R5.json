@@ -1,93 +1,76 @@
 [
  {
-  "id": "spradconbuilders.com",
-  "name": "Spradcon Builders",
+  "id": "amleechconstructionllc.com",
+  "name": "A M Leech Construction LLC",
   "region": "R5",
-  "website": "https://spradconbuilders.com/",
+  "website": "https://www.amleechconstructionllc.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "WordPress"
+   "Wix"
   ],
   "pages_fetched": {
    "home": [
-    "https://spradconbuilders.com/"
+    "https://www.amleechconstructionllc.com/"
    ],
    "contact": [
-    "https://spradconbuilders.com/contact/"
+    "https://www.amleechconstructionllc.com/contact"
    ],
    "about": [
-    "https://spradconbuilders.com/about/",
-    "https://spradconbuilders.com/meet-the-team/"
-   ],
-   "gallery": [
-    "https://spradconbuilders.com/our-work/"
+    "https://www.amleechconstructionllc.com/about"
    ]
   },
   "auto_signals": [
    {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJzYdEA5JNhYARQZUpHltmHuI&hl=en",
-    "quote": "Joanne Chan: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
-   },
-   {
-    "type": "social_post",
-    "date": "2026-09-16",
-    "url": "https://www.linkedin.com/posts/spradconbuilders_spradconbuilders-dutramuseum-riovista-activity-7505849459117993985-4K5i",
-    "quote": "LinkedIn company page https://www.linkedin.com/company/spradconbuilders/ post: 'A few weeks of framing progress at the Dutra Museum Addition! The'",
-    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+    "type": "site_dated_content",
+    "date": "2026-10-12",
+    "url": "https://www.amleechconstructionllc.com/post/breaking-down-the-costs-of-a-basement-remodel-understanding-basement-remodel-cost-factors",
+    "quote": "rss:https://www.amleechconstructionllc.com/blog-feed.xml published Mon, 12 Oct 2026 15:40:02 GMT: 'Breaking Down the Costs of a Basement Remodel: Understanding Basement Remodel Co'"
    }
   ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYdEA5JNhYARQZUpHltmHuI&hl=en",
-  "gbp_title": "Spradcon Builders",
-  "gbp_address": "\ue0c8\n113 Main St, Rio Vista, CA 94571, United States",
-  "gbp_rating": "4.8\n(20)",
-  "gbp_phone": "phone:tel:+17073746735",
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQlQkqPVv1QRE2swp_K1cAQ&hl=en",
+  "gbp_title": "A M Leech Construction LLC",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(18)",
+  "gbp_phone": "phone:tel:+15039647680",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Joanne Chan",
-    "when": "2 months ago",
+    "reviewer": "Bruce",
+    "when": "3 years ago",
     "stars": "5 stars",
-    "text": "Great experience with Carson, Brian, and their whole team. They fully renovated 2 full baths and a kitchen, remediated my old 70\u2019s ceiling and installed canned lighting, and repainted the whole interior of my townhouse in the South Bay \u2026",
-    "owner": "Response from the owner 2 months ago\nJoanne,\n\nThank you for the great review! We really enjoyed working with you guys and are \u2026 More"
+    "text": "I hired AM Leech to convert an unfinished basement of my 1940s North Portland home into a family room, bedroom, bathroom, and utility/laundry room.  The team was highly organized and professional. They did what they said they would do, at \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Suzanne Cline",
-    "when": "7 months ago",
+    "reviewer": "Michael Rittman",
+    "when": "4 years ago",
     "stars": "5 stars",
-    "text": "We had a great experience working with Spradcon Builders on our foundation work and new construction concrete stairs. Their team was professional, communicative, and completed everything on schedule. \u2026",
-    "owner": "Response from the owner 7 months ago\nSuzanne, thank you so much for the kind words! We truly appreciate you taking the time to share your experience. \u2026 More"
+    "text": "We were very happy to go with Adrian and his group with our basement remodel. We turned a shell of a basement (just the exposed foundation with no walls) in a very comfortable space. He added plumbing that was not there so that we could add \u2026",
+    "owner": null
    },
    {
-    "reviewer": "John Mitchell",
+    "reviewer": "Phil Stassi",
     "when": "10 months ago",
     "stars": "5 stars",
-    "text": "SpradCon Builders remodeled our 1960\u2019s vintage bathroom on time and within budget.  Their team is professional and deliver beautiful craftsmanship with keen attention to detail. \u2026",
-    "owner": "Response from the owner 10 months ago\nThanks for the great review, John! The bathroom transformation came out amazing, and we\u2019re glad the new layout and custom details made such a big difference in the space. We really enjoyed working with you guys and appreciate you trusting our team with your home!"
+    "text": "This team was excellent. Adrian, who is the owner of the company paid personal attention to make sure that we were all very happy with the outcome. As in any construction project, there were many ups and downs, but Adrian made sure that all things were covered in a conscientious way. I would use his company again for future construction.",
+    "owner": null
    }
   ],
-  "emails_found": [],
-  "dm_snippets": [
+  "emails_found": [
    {
-    "page": "https://spradconbuilders.com/meet-the-team/",
-    "snippet": "President"
-   },
-   {
-    "page": "https://spradconbuilders.com/meet-the-team/",
-    "snippet": "Brian Spradling is the founder and President of Spradcon Builders, bringing nearly 30 years of experience in residential and commercial construction"
+    "email": "adrianleech@aol.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:adrianleech@aol.com",
+    "page": "https://www.amleechconstructionllc.com/"
    }
   ],
-  "facebook_links": [
-   "https://www.facebook.com/p/Spradling-Construction-100063651964853/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/spradconbuilders"
-  ],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 3,
+   "kitchen": 5,
    "bath": 3,
    "roof": 0,
    "plumb": 0,
@@ -99,282 +82,6 @@
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 4
-  },
-  "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 662px, i.e. 287px wider than the screen; elements past the right edge: ['DIV.elementor-repeater-it",
-   "gallery images over 1MB each: https://spradconbuilders.com/site/wp-content/uploads/2025/08/Lake-Almanor.png = 2,379,968 bytes; https://spradconbuilders.com/site/wp-content/uploads/2026/07/Du"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Aleko Construction",
-    "url": "https://alekoconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "H4H Remodeling and Repairs Inc.",
-    "url": "https://h4hremodelingandrepairs.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Mid Valley Homes Builders & remodeling",
-    "url": "https://midvalleyhomes.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "MMI DBA MMI Home Design",
-    "url": "https://mmihomedesign.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Red Line Remodeling & Design, LLC",
-    "url": "https://rlremodeling13.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Rubens Home Service, Inc.",
-    "url": "https://www.rubenshomeserviceinc.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Rio Vista, CA"
-  ]
- },
- {
-  "id": "talmadgeconstruction.com",
-  "name": "Talmadge Construction Inc",
-  "region": "R5",
-  "website": "https://talmadgeconstruction.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://talmadgeconstruction.com/"
-   ],
-   "contact": [
-    "https://talmadgeconstruction.com/contact-talmadge-construction/"
-   ],
-   "about": [
-    "https://talmadgeconstruction.com/about-talmadge-construction/",
-    "https://talmadgeconstruction.com/about-talmadge-construction/philosophy/"
-   ],
-   "gallery": [
-    "https://talmadgeconstruction.com/portfolio/",
-    "https://talmadgeconstruction.com/portfolio/adus/"
-   ],
-   "legal": [
-    "https://talmadgeconstruction.com/privacy-policy/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-10-08",
-    "url": "https://talmadgeconstruction.com/blog/design-bathroom-works-better/",
-    "quote": "wp-json/posts published 2026-10-08T19:23:54: 'How to Design a Bathroom That Works Better for the Way You Live'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50K85XgWjoARaNAPvC0dw1M&hl=en",
-  "gbp_title": "Talmadge Construction Inc",
-  "gbp_address": "\ue0c8\n8070 Soquel Dr, Aptos, CA 95003, United States",
-  "gbp_rating": "5.0\n(44)",
-  "gbp_phone": "phone:tel:+18316899133",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Nick Sutton",
-    "when": "7 months ago",
-    "stars": "5 stars",
-    "text": "I'll be honest...I wasn't ready for a remodel both mentally and physically. My wife had this grand vision of a full kitchen remodel that scared me due to working remote with a demanding schedule in tech. I was afraid of losing my internet, \u2026",
-    "owner": "Response from the owner 7 months ago\nThank you so much for the amazing review! It was our pleasure to bring your family a space that you all love. "
-   },
-   {
-    "reviewer": "Susan J",
-    "when": "2 years ago",
-    "stars": "5 stars",
-    "text": "We recently had our home remodeled by Talmadge Construction, and we couldn't be more thrilled with the results.  From start to finish, their professionalism and attention to detail were top notch. Their crew was professional, respectful of \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Nathalie Michaud",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Talmadge Construction helped us do a total condo remodel in Aptos, CA! We could not have hoped for a better group of people to help us! At the time, we did not live locally and they were so responsible, trustworthy and made the project \u2026",
-    "owner": "Response from the owner a year ago\nThank you for your kind words! This is what keeps us working to do our best with every project. Reviews like this are what will keep us in business for the next 40 years. We appreciate your support!\n"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "office@talmadgeconstruction.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:office@talmadgeconstruction.com",
-    "page": "https://talmadgeconstruction.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://talmadgeconstruction.com/",
-    "snippet": "Founded by Jeff and Adele Talmadge, Talmadge Construction has been helping Santa Cruz County homeowners improve the way they live"
-   },
-   {
-    "page": "https://talmadgeconstruction.com/",
-    "snippet": "Today, President Andrew Talmadge carries that family legacy forward with the same commitment to thoughtful design, quality construction,"
-   },
-   {
-    "page": "https://talmadgeconstruction.com/",
-    "snippet": "Aptos, California, January 23, 2024 \u2014 Adele Talmadge, co-founder of Talmadge Construction, is one of the recipients of the Top Ambassador Award from the Santa Cruz Chamber of Commerce"
-   },
-   {
-    "page": "https://talmadgeconstruction.com/about-talmadge-construction/",
-    "snippet": "olunteer design and construction hours to help local schools and several non-profits, like mine,\u201d beams Christy Licker, owner of Caroline\u2019s, a boutique thrift store that donates all profits back to the community"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/talmadgeconstruction/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/talmadgeconstruction"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 5,
-   "bath": 5,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 54"
-  ],
-  "competitor_pool": [
-   {
-    "name": "fox building group",
-    "url": "https://www.foxbuildinggroup.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Lewis Design Build Remodel",
-    "url": "https://www.lewisremodeling.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "NuLook Refinishing Kitchen & bath",
-    "url": "https://www.nulookrefinishing.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Sightline Construction",
-    "url": "https://sightline.construction/",
-    "gbp_address": null
-   },
-   {
-    "name": "Dynamic Contractors & Electric",
-    "url": "https://www.thedynamiccontractors.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Capitola, CA"
-  ]
- },
- {
-  "id": "workinghandsak.com",
-  "name": "Working Hands LLC",
-  "region": "R5",
-  "website": "https://workinghandsak.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://workinghandsak.com/"
-   ],
-   "contact": [
-    "https://workinghandsak.com/contact-us/"
-   ],
-   "about": [
-    "https://workinghandsak.com/who-we-are/",
-    "https://workinghandsak.com/what-we-do/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-10-06",
-    "url": "https://workinghandsak.com/project/wasilla-home-rebuild-after-fire-damage/",
-    "quote": "wp-json/projects published 2026-10-06T17:16:32: 'Home Rebuild in Wasilla, Alaska'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5ef6EfdyFYRoS08UIba_6Q&hl=en",
-  "gbp_title": "Working Hands LLC",
-  "gbp_address": "\ue0c8\n711 S Triple B St, Wasilla, AK 99654, United States",
-  "gbp_rating": "4.6\n(18)",
-  "gbp_phone": "phone:tel:+19078413446",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "brent sutton",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Working hands always does fantastic work for us . New floor installed . We only use them for any remodeling needed, because we know what we will get",
-    "owner": null
-   },
-   {
-    "reviewer": "Penelope Wingo",
-    "when": "2 years ago",
-    "stars": "5 stars",
-    "text": "Henry and the crew assigned to my job did an outstanding job removing my skylight from a 3rd floor roof. They are knowledgeable, easy to work with, very  conscientious about being as clean as possible and keeping my household goods safe \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Amber Lea Leggette-Aldrich",
-    "when": "4 years ago",
-    "stars": "5 stars",
-    "text": "Henry and the team from Working Hands were a blessing and pleasure to work with! In restoring the water system to my home, they were prompt, reliable, professional, and very reasonably priced. I highly recommend them for their knowledge and \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "henryb@workinghandsak.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:henryb@workinghandsak.com",
-    "page": "https://workinghandsak.com/contact-us/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/workinghandsak"
-  ],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 0,
-   "bath": 1,
-   "roof": 4,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 1,
-   "cabinet": 0,
-   "siding": 1,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
    "custom home": 0
   },
   "g8_defects_measured": [
@@ -382,33 +89,38 @@
   ],
   "competitor_pool": [
    {
-    "name": "Far North Craftsmanship LLC",
-    "url": "https://farnorthcraftsmanship.com/",
+    "name": "Clear Shine - Natural Stone Restoration",
+    "url": "https://www.clearshinestone.com/",
     "gbp_address": null
    },
    {
-    "name": "Hands on construction LLC",
-    "url": "https://www.handsonconstructionllc.com/",
+    "name": "DaBella",
+    "url": "https://dabella.us/location/flagstaff/",
     "gbp_address": null
    },
    {
-    "name": "Polar Cabinets & Design",
-    "url": "https://polarcabinets.com/",
+    "name": "Devine Home Remodeling & Construction",
+    "url": "https://devinehomeremodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "Punt Brothers Construction",
-    "url": "https://puntconstruction.com/",
+    "name": "Highland Ridge Remodeling",
+    "url": "https://highlandridge-remodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "Soloy Construction LLC",
-    "url": "https://soloyconstruction.com/",
+    "name": "Livewell Construction and Remodeling LLC",
+    "url": "https://livewellcontractors.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Pacific Home Renewals",
+    "url": "https://pacifichomerenewals.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Wasilla, AK"
+   "Eagle Point, OR"
   ]
  }
 ]

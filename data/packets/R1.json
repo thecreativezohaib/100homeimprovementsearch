@@ -1,126 +1,84 @@
 [
  {
-  "id": "betterbuiltbasements.com",
-  "name": "Better Built Basements, LLC",
+  "id": "bourkeremodeling.com",
+  "name": "Bourke Remodeling and Home Improvement",
   "region": "R1",
-  "website": "https://betterbuiltbasements.com/",
+  "website": "https://www.bourkeremodeling.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "WordPress"
+   "Weebly"
   ],
   "pages_fetched": {
    "home": [
-    "https://betterbuiltbasements.com/"
+    "https://www.bourkeremodeling.com/"
    ],
    "contact": [
-    "https://betterbuiltbasements.com/contact/"
-   ],
-   "about": [
-    "https://betterbuiltbasements.com/about-us/"
-   ],
-   "gallery": [
-    "https://betterbuiltbasements.com/gallery/"
-   ],
-   "legal": [
-    "https://betterbuiltbasements.com/privacy-policy/",
-    "https://betterbuiltbasements.com/privacy-policy/",
-    "https://betterbuiltbasements.com/terms-of-service/"
+    "https://www.bourkeremodeling.com/contact-us.html"
    ]
   },
   "auto_signals": [
    {
-    "type": "social_post",
-    "date": "2026-10-13",
-    "url": "https://www.linkedin.com/posts/better-built-ct_finishedbasement-basementflooring-basementremodel-activity-7515728116271435776-p_Se",
-    "quote": "LinkedIn company page https://www.linkedin.com/company/better-built-ct/ post: 'Most basement floors don't fail from foot traffic. They fail from moisture'",
-    "method": "anonymous LinkedIn company page, JSON-LD SocialMediaPosting datePublished"
+    "type": "google_review",
+    "date": "2026-10-11..2026-10-11",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJI8HdHHqF5IkR0KmksICxp5E&hl=en",
+    "quote": "Philip Sinrich: '3 days ago' (Google relative timestamp, retrieved 2026-10-19)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSpzrH6z54kRDyVGqkZ8Opw&hl=en",
-  "gbp_title": "Better Built Basements, LLC",
-  "gbp_address": "\ue0c8\n229 Christian Ln, Berlin, CT 06037, United States",
-  "gbp_rating": "4.6\n(92)",
-  "gbp_phone": "phone:tel:+18608298587",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8HdHHqF5IkR0KmksICxp5E&hl=en",
+  "gbp_title": "Bourke Remodeling and Home Improvement",
+  "gbp_address": "\ue0c8\n24 Lewis Rd, Stoughton, MA 02072, United States",
+  "gbp_rating": "5.0\n(2)",
+  "gbp_phone": "phone:tel:+16178381194",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Betty Guichardo",
-    "when": "a year ago",
+    "reviewer": "gail douglas",
+    "when": "4 months ago",
     "stars": "5 stars",
-    "text": "I had an amazing experience with Better Built Basements. When they say \u201c\nFrom \u201cunfinished to unbelievable \u201cthey are not kidding ! My basement renovation is fantastic . I am enjoying the new space for years to come thanks the beautiful work done by this company.",
-    "owner": "Response from the owner a year ago\nThank you for taking the time to write a great review. We appreciate it and hope you enjoy the space! "
+    "text": "Erick\u2019s Bourke and his partner Tom rebuilt my deck to perfection. They worked with me to deliver everything I wanted. They were diligent, precise and the deck is perfect! They worked hard to make it perfect and it shows in the quality of \u2026",
+    "owner": null
    },
    {
-    "reviewer": "Christopher DeCamp",
-    "when": "2 years ago",
-    "stars": "2 stars",
-    "text": "Overall, our experience with Better Built Basements was Very Stressful, Very Frustrating and Very Disappointing. Specifically, the Owner, Jim Tranmer and his Mangement Team were Rude, Inconsiderate, and offered ZERO Customer Care. They \u2026",
-    "owner": "Response from the owner 2 years ago\nThank you for taking the time to write a review. It was a pleasure doing business with you and we hope you enjoy the space."
-   },
-   {
-    "reviewer": "Nicholas Casanova",
-    "when": "5 years ago",
+    "reviewer": "Philip Sinrich",
+    "when": "3 days ago",
     "stars": "5 stars",
-    "text": "Working with BBB was great. They were very forthright about the process and pricing from the beginning. We felt very comfortable with the design process and we\u2019re able to have all our wants and needs taken into account. Once the \u2026",
-    "owner": "Response from the owner 5 years ago\nThank you for allowing us to help you and your family create this space! We hope you enjoy it for years to come. It was our pleasure to help you."
+    "text": "We had Bourke Remodeling and Home Improvement perform extensive remediation and upgrade to our existing 3-season room.  Eric Bourke analyzed the leaking problem, and solved how best to protect our house.  He was diligent and thorough.  He \u2026",
+    "owner": null
    }
   ],
-  "emails_found": [
-   {
-    "email": "info@better-built-basements.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@better-built-basements.com",
-    "page": "https://betterbuiltbasements.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://betterbuiltbasements.com/about-us/",
-    "snippet": "CEO"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/Better-Built-Basements-LLC-201102596600904/",
-   "https://www.facebook.com/BetterBuiltBasementsLLC/",
-   "https://www.facebook.com/share.php?u=https"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/betterbuiltbasements"
-  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 2,
-   "bath": 9,
+   "kitchen": 4,
+   "bath": 4,
    "roof": 0,
-   "plumb": 7,
+   "plumb": 0,
    "hvac": 0,
    "handyman": 0,
-   "floor": 5,
-   "cabinet": 26,
+   "floor": 1,
+   "cabinet": 1,
    "siding": 0,
-   "window": 0,
+   "window": 5,
    "pool": 0,
    "solar": 0,
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 56"
+   "mobile performance score below 60: PSI mobile performance 59"
   ],
   "competitor_pool": [
    {
-    "name": "First Choice Bathroom Remodeling",
-    "url": "https://www.1stchoicepros.com/",
+    "name": "Jacuzzi Bath Remodel by Capital",
+    "url": "https://www.bathmo.com/",
     "gbp_address": null
    },
    {
-    "name": "Award Kitchen & Bath",
-    "url": "https://awardkb.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Fiderio & Sons",
-    "url": "https://www.fiderio.com/",
+    "name": "Ej Home Improvements",
+    "url": "https://ejhomeimprovementsinc.com/",
     "gbp_address": null
    },
    {
@@ -129,668 +87,140 @@
     "gbp_address": null
    },
    {
-    "name": "Galleria Dream Kitchen and Bath",
-    "url": "https://galleriadreamkitchens.com/",
+    "name": "The Tile Haus",
+    "url": "https://www.fullhomeservices.net/",
     "gbp_address": null
    },
    {
-    "name": "Mainville Construction & Remodeling LLC",
-    "url": "https://mainvilleconstruction.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Berlin, CT"
-  ]
- },
- {
-  "id": "innovbuildersusa.com",
-  "name": "Innov Builders",
-  "region": "R1",
-  "website": "https://innovbuildersusa.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://innovbuildersusa.com/"
-   ],
-   "contact": [
-    "https://innovbuildersusa.com/contacts/"
-   ],
-   "about": [
-    "https://innovbuildersusa.com/about-us/",
-    "https://innovbuildersusa.com/bathroom-remodel-cost-wakefield-ma/"
-   ],
-   "gallery": [
-    "https://innovbuildersusa.com/portfolio/"
-   ],
-   "legal": [
-    "https://innovbuildersusa.com/privacy-policy/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "social_post",
-    "date": "2026-10-14",
-    "url": "https://www.youtube.com/shorts/WYW70JRF1h0",
-    "quote": "YouTube channel https://www.youtube.com/@InnovBuilders post: '\ud83e\ude9c A staircase isn't just a connection between floors, it can become'",
-    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCQBLkpNnIajLSTijn44nyBg <published>"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7Zuu37NNEYRn-b6nUBL6bE&hl=en",
-  "gbp_title": "Innov Builders",
-  "gbp_address": "\ue0c8\n50 New Salem St, Wakefield, MA 01880, United States",
-  "gbp_rating": "4.9\n(62)",
-  "gbp_phone": "phone:tel:+19788787977",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Peggy Mitchell",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "We are very happy with our stair project completed by Innov Builders. Our workers  were perfectionists with the quality of their work. Everything was\ncompleted with great attention to detail and outstanding craftsmanship. They \u2026",
-    "owner": "Response from the owner 3 months ago\nHi Peggy \u2014 thank you so much for the wonderful review. We\u2019re thrilled you\u2019re pleased with the stair project and appreciate your kind words about the team\u2019s craftsmanship, attention to detail, and responsiveness. Your recommendation means a lot to us. We look forward to working with you again and helping with any future projects."
-   },
-   {
-    "reviewer": "James Cahill",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "We are delighted with our new kitchen cabinets!  Iago and the team did a fabulous job in our kitchen project.  Attention to detail.  Accurate fabrication and timely installation, just as promised.  Very impressed with the communication with \u2026",
-    "owner": "Response from the owner 4 months ago\nThank you, James, we\u2019re thrilled you\u2019re delighted with your new kitchen cabinets. I\u2019ll be sure to pass your kind words to Iago and the team. They take pride in accurate fabrication, attention to detail and timely installation, and we\u2019re glad our communication made the process smoother. We truly appreciate your recommendation."
-   },
-   {
-    "reviewer": "Stephanie Lurie",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "I hired Innovation Builders to refinish cherry wood countertops in our kitchen. They scheduled the job quickly and sent me reminders via text. The cost was reasonable, and I could pay via Venmo. The carpenter showed up on time, finished the \u2026",
-    "owner": "Response from the owner 4 months ago\nStephanie, thank you for the wonderful review and for recommending Innov Builders. We\u2019re glad the scheduling, reminders, and Venmo payment made the process easy and that our carpenter arrived on time and left your countertops looking great. \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "contact@innovbuildersusa.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:contact@innovbuildersusa.com",
-    "page": "https://innovbuildersusa.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://innovbuildersusa.com/",
-    "snippet": "CEO, EAD Drafting"
-   },
-   {
-    "page": "https://innovbuildersusa.com/about-us/",
-    "snippet": "Founder Iago Maciel started in the trades on American soil, and an early independent project \u00e2\u0080\u0094 siding a home on his own \u00e2\u0080\u0094 r"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/people/Innov-Builders/100095474055236/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/innovbuilders"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 32,
-   "bath": 37,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 9,
-   "cabinet": 30,
-   "siding": 10,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 410px, i.e. 35px wider than the screen; elements past the right edge: ['DIV.ba-slide right=696', '"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Apex Remodeling inc",
-    "url": "https://apexremodelinginc.net/",
+    "name": "KBR Remodeler - Kitchen & Bath Showroom | Vanities, Countertops & More",
+    "url": "https://kbrkitchenandbathremodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "Boston Best Construction",
-    "url": "https://bostonbestconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Bravo Kitchens",
-    "url": "https://www.bravokitchens.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "Metropolitan Cabinets & Countertops",
-    "url": "https://metcabinet.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Schlickmann Construction",
-    "url": "https://schlickmannconstruction.com/",
+    "name": "K&C Evolution Construction",
+    "url": "https://lp.kecconstructionma.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Wakefield, MA"
+   "Stoughton, MA"
   ]
  },
  {
-  "id": "pbtilesma.com",
-  "name": "PB TILES INC",
+  "id": "menconstructionllc.com",
+  "name": "Men Construction LLC",
   "region": "R1",
-  "website": "https://www.pbtilesma.com/",
+  "website": "https://www.menconstructionllc.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
-   "WordPress"
+   "Weebly"
   ],
   "pages_fetched": {
    "home": [
-    "https://www.pbtilesma.com/"
+    "https://www.menconstructionllc.com/"
    ],
    "contact": [
-    "https://www.pbtilesma.com/contact"
+    "https://www.menconstructionllc.com/contact-men-constructionllc.html"
    ],
    "about": [
-    "https://www.pbtilesma.com/about",
-    "https://www.pbtilesma.com/bathroom-remodeling/"
-   ],
-   "gallery": [
-    "https://www.pbtilesma.com/gallery"
-   ],
-   "legal": [
-    "https://www.pbtilesma.com/privacy-policy"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJT9o5zCzj5IkRAataiP9F-Tw&hl=en",
-    "quote": "Analucia Cesar oliveira: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9o5zCzj5IkRAataiP9F-Tw&hl=en",
-  "gbp_title": "PB TILES INC",
-  "gbp_address": "\ue0c8\n102 Rochester Rd, Carver, MA 02330, United States",
-  "gbp_rating": "4.8\n(19)",
-  "gbp_phone": "phone:tel:+16174156459",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "K. Monaco",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "i only wish i could give paulo and his team 10 stars!!  first, they're a pleasure to have around.  they're very meticulous and care a lot about their work.  i'm so happy w the end result and would highly recommend them to anyone that needs \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Emma Oberlander",
-    "when": "4 months ago",
-    "stars": "5 stars",
-    "text": "Paulo is the best! I have worked with Paulo and his team on many jobs, and they are meticulous, hardworking, easy to work with, reasonably priced and true craftsman. Paulo has excellent attention to detail and a great ability to pivot and \u2026",
-    "owner": "Response from the owner 4 months ago\nThank you Emma, "
-   },
-   {
-    "reviewer": "Analucia Cesar oliveira",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "Very clean work and a smooth process. Everything looked sharp and was finished neatly. Would definitely hire again.\u201d \u201cGreat communication, fair pricing, and the job site was left spotless. PB Tiles did an excellent job from start to finish.",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "cassimirosllc@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:cassimirosllc@gmail.com",
-    "page": "https://www.pbtilesma.com/"
-   },
-   {
-    "email": "pbtilesusa@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:pbtilesusa@gmail.com",
-    "page": "https://www.pbtilesma.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [],
-  "instagram_links": [
-   "https://www.instagram.com/pbtilesusa"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 71,
-   "bath": 47,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 8,
-   "cabinet": 2,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 44",
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 410px, i.e. 35px wider than the screen; elements past the right edge: ['DIV.elementor-background-s",
-   "gallery images over 1MB each: https://www.pbtilesma.com/mirror/mediumseagreen-fish-670031.hostingersite.com/wp-content/uploads/2024/08/ChatGPT-Image-Jun-3-2026-09_12_44-PM.png = 2,072,816 by"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Cape Home Kitchen & Bath",
-    "url": "https://capehomekitchen.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Cape & Island Kitchens",
-    "url": "https://capekitchens.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Emerald City Design & Construction",
-    "url": "https://www.emeraldcityllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "L Squared Construction",
-    "url": "https://www.lsquaredconstruct.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "M.P. & Son Construction, Inc.",
-    "url": "https://www.mpandsonconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "New England Home Restoration LLC",
-    "url": "https://www.nehomerestoration.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Wareham, MA"
-  ]
- },
- {
-  "id": "remodelhomepro.com",
-  "name": "Remodel Home Pro",
-  "region": "R1",
-  "website": "https://remodelhomepro.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://remodelhomepro.com/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJjY4U84l55IkRscLg1L7zg4I&hl=en",
-    "quote": "Marcelo Ferreira: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJjY4U84l55IkRscLg1L7zg4I&hl=en",
-  "gbp_title": "Remodel Home Pro",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(21)",
-  "gbp_phone": "phone:tel:+16173520647",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Marcelo Ferreira",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "We have worked with Douglas and Remodel Home Pro on several projects and they have done an excellent job. They followed the plans we provided closely and executed the construction cleanly and professionally. Communication was \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Erica Piotrowski",
-    "when": "3 years ago",
-    "stars": "5 stars",
-    "text": "We had a great experience with Remodel Home Pro. They replaced our deck and we are very happy with the result. Douglas was very responsive and professional throughout the project. He was easy to work with and made sure we were satisfied. We will definitely use him for future home improvement projects.",
-    "owner": null
-   },
-   {
-    "reviewer": "Auric\u00e9lia Rodrigues",
-    "when": "2 years ago",
-    "stars": "5 stars",
-    "text": "Remodel Home Pro exceeded my expectations with their painting services in my daughter's room. The attention to detail was exceptional, ensuring a safe and beautiful environment for my child. The team was professional, courteous, and \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@remodelhomepro.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@remodelhomepro.com",
-    "page": "https://remodelhomepro.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/remodelhomepro?mibextid=LQQJ4d"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/remodelhomepro"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 6,
-   "bath": 9,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 49",
-   "gallery images over 1MB each: https://remodelhomepro.com/wp-content/uploads/2026/01/banner0.webp = 1,892,718 bytes; https://remodelhomepro.com/wp-content/uploads/2026/01/banner.webp = 1,277,"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Cassa Kitchen & Bath",
-    "url": "https://cassakitchenandbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "KB Home Improvement",
-    "url": "https://kbhomeimprovementma.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Mid-State Kitchens",
-    "url": "https://www.mid-statekitchens.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Northeast Kitchen and Bathroom",
-    "url": "https://northeastkandb.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "RenoVista - Basement and Kitchen Remodeling",
-    "url": "https://renovistaconstruction.com/?local=true",
-    "gbp_address": null
-   },
-   {
-    "name": "Trimworks Inc",
-    "url": "https://trimworksco.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Grafton, MA",
-   "Westborough, MA"
-  ]
- },
- {
-  "id": "rosewoodremodelingco.com",
-  "name": "Rosewood Remodeling Company LLC",
-  "region": "R1",
-  "website": "https://rosewoodremodelingco.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://rosewoodremodelingco.com/"
-   ],
-   "contact": [
-    "https://rosewoodremodelingco.com/contact/",
-    "http://rosewoodremodelingco.com/contact/"
-   ],
-   "about": [
-    "https://rosewoodremodelingco.com/about-us/",
-    "https://rosewoodremodelingco.com/meet-the-owner/"
-   ],
-   "gallery": [
-    "https://rosewoodremodelingco.com/portfolio/"
-   ],
-   "legal": [
-    "https://rosewoodremodelingco.com/privacy-policy/",
-    "https://rosewoodremodelingco.com/privacy-policy/",
-    "https://rosewoodremodelingco.com/terms-and-conditions/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-09-14",
-    "url": "https://rosewoodremodelingco.com/kitchen-remodel-money-where-to-splurge-where-to-save/",
-    "quote": "wp-json/posts published 2026-09-14T06:00:12: 'Kitchen Remodel Money: Where to Splurge, Where to Save'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXMW_cEJ6IkRnfsB_qznXwc&hl=en",
-  "gbp_title": "Rosewood Remodeling Company LLC",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(10)",
-  "gbp_phone": "phone:tel:+12035134275",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Dave Brosnan",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Our experience with Kevin and Rosewood showed us that remodeling need not be time consuming and difficult! On the contrary it was simple and enjoyable. Kevin masterfully transformed an under utilized section of our garage into a beautiful \u2026",
-    "owner": "Response from the owner a year ago\nDave and Meghan,\n\nThank you so much for your kind words! We're so happy to hear that we made your \u2026 More"
-   },
-   {
-    "reviewer": "Kristin Beirne",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Kevin and his team were wonderful to work with. He replaced all of my windows and we had no issues.  He then replaced all of the front decks at my condominium complex, which turned out great! The team was neat and cleaned up each day.\nWe will definitely be working with him again.\nKristin B.",
-    "owner": "Response from the owner a year ago\nThank you, Kristin! It\u2019s fantastic to hear Kevin and the team delivered excellent results on both your windows and the condominium decks. We know how important it is to deliver neat, efficient, on-time work in excellence. That\u2019s what we do! \ud83d\ude01 \u2026"
-   },
-   {
-    "reviewer": "Jeffrey Rider",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Kevin is an excellent contractor. He is responsive, reliable and does exceptional work. What separates Kevin from other contractors is his ability to listen and address concerns when they inevitably arise. Tough to do, doubly so given the scope of our recent renovation.",
-    "owner": "Response from the owner a year ago\nThank you for highlighting Kevin's dedication and professionalism. It's great to know his efforts made your renovation a positive experience. We hope you are enjoying your space - and Kevin and his team will be here when you need them! Stay well!"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@rosewoodremodelingco.com",
-    "how": "cloudflare data-cfemail",
-    "raw": "a9e0c7cfc6e9fbc6daccdec6c6cdfbccc4c6cdccc5c0c7ceeac687cac6c4",
-    "page": "https://rosewoodremodelingco.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://rosewoodremodelingco.com/meet-the-owner/",
-    "snippet": "Founder of Rosewood Remodeling Company LLC"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/RosewoodRemodeling",
-   "https://www.facebook.com/profile.php?id=100063440065816"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/rosewoodremodeling",
-   "https://www.instagram.com/rosewoodremodelingco"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 9,
-   "bath": 8,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 1,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://rosewoodremodelingco.com/wp-content/uploads/2025/11/image-20-1152x1536.png = 1,074,593 bytes; https://rosewoodremodelingco.com/wp-content/uploads/2025/1"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Choate Builders, LLC",
-    "url": "https://choatebuilders.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "From Distress to Glam LLC - Kitchen Cabinet Refacing Refinishing & Bathtub Reglazing",
-    "url": "https://fromdistresstoglam.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Valley Home Renovations LLC",
-    "url": "https://valleyhomerenovationsct.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Trumbull, CT"
-  ]
- },
- {
-  "id": "srusaconstruction.com",
-  "name": "Sr USA Construction LLC",
-  "region": "R1",
-  "website": "https://srusaconstruction.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://srusaconstruction.com/"
+    "https://www.menconstructionllc.com/about-men-construction.html"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJaZInA4c826QRIGUPV-8ExTw&hl=en",
-    "quote": "Debbie Sands: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJcbpngeql44kRLIQR3S94kDo&hl=en",
+    "quote": "Vira Myfanglong: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZInA4c826QRIGUPV-8ExTw&hl=en",
-  "gbp_title": "Sr USA Construction LLC",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(6)",
-  "gbp_phone": "phone:tel:+17817325114",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbpngeql44kRLIQR3S94kDo&hl=en",
+  "gbp_title": "Men Construction LLC",
+  "gbp_address": "\ue0c8\n1734 Lakeview Ave #271, Dracut, MA 01826, United States",
+  "gbp_rating": "4.8\n(14)",
+  "gbp_phone": "phone:tel:+19783982101",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Debbie Sands",
+    "reviewer": "John heng",
+    "when": "Edited a year ago",
+    "stars": "2 stars",
+    "text": "1 month project turned into 3 months with clear signs on unreasonable excuses. My unit is fairly small and their lack of progress day to day was ridiculous with a two man crew, some days they didn't even show up when they said they would. \u2026",
+    "owner": null
+   },
+   {
+    "reviewer": "Vira Myfanglong",
     "when": "2 months ago",
     "stars": "5 stars",
-    "text": "\u2b50\u2b50\u2b50\u2b50\u2b50\n\nI had a great experience with SR USA Construction LLC. The team was \u2026",
+    "text": "Great customer service! They removed and replaced our roof in just one day. The crew was professional, efficient, and completed the job with excellent workmanship. We are very happy with the results and would highly recommend Men Construction.",
     "owner": null
    },
    {
-    "reviewer": "Michael Oneil",
-    "when": "a month ago",
+    "reviewer": "tina chan",
+    "when": "8 months ago",
     "stars": "5 stars",
-    "text": "SR USA replaced our roof, painted the exterior, installed storm doors and shutters on our new home in Onset. All done perfectly. They explained how the work was going to be done and completed it on time and on budget. We highly recommend them for your next home improvement project.",
-    "owner": null
-   },
-   {
-    "reviewer": "james Oliver",
-    "when": "5 months ago",
-    "stars": "5 stars",
-    "text": "I recently hired Sr USA Construction LLC for my bathroom remodeling project, and I\u2019m really impressed with the results. The team was professional, on time, and paid great attention to detail. They transformed my outdated bathroom into a \u2026",
+    "text": "Teddy and his team were a pleasure to work with and showed great attention to detail from day one. Communication was excellent throughout, from quick morning texts to stopping by the same day with samples, which made everything feel easy \u2026",
     "owner": null
    }
   ],
-  "emails_found": [
-   {
-    "email": "srusaconstruction@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:Srusaconstruction@gmail.com",
-    "page": "https://srusaconstruction.com/"
-   }
-  ],
+  "emails_found": [],
   "dm_snippets": [],
   "facebook_links": [],
   "instagram_links": [],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 3,
-   "bath": 7,
-   "roof": 17,
+   "kitchen": 1,
+   "bath": 1,
+   "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
    "cabinet": 0,
-   "siding": 9,
-   "window": 1,
+   "siding": 1,
+   "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 5
+   "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 34"
+   "mobile performance score below 60: PSI mobile performance 55"
   ],
   "competitor_pool": [
    {
-    "name": "@designREMODEL",
-    "url": "https://www.atdesignremodel.com/",
+    "name": "ADS Home Renovation",
+    "url": "https://adshomerenovation.com/",
     "gbp_address": null
    },
    {
-    "name": "Bourne Home Repair",
-    "url": "https://bournehomerepair.com/",
+    "name": "Alderson Building and Remodeling LLC",
+    "url": "https://aldersonbuildingandremodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "Cape Home Kitchen & Bath",
-    "url": "https://capehomekitchen.com/",
+    "name": "Dimension Home Improvement",
+    "url": "https://dimensionhomeimprovement.com/",
     "gbp_address": null
    },
    {
-    "name": "Cape & Island Kitchens",
-    "url": "https://capekitchens.com/",
+    "name": "Down To Earth Construction",
+    "url": "https://www.dteconstruct.com/",
     "gbp_address": null
    },
    {
-    "name": "Emerald City Design & Construction",
-    "url": "https://www.emeraldcityllc.com/",
+    "name": "Fine Line Kitchen Designs, LLC",
+    "url": "https://www.finelinekitchendesign.com/",
     "gbp_address": null
    },
    {
-    "name": "L Squared Construction",
-    "url": "https://www.lsquaredconstruct.com/",
+    "name": "K&B Construction Corp",
+    "url": "https://kbconstructioncorp.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Bourne, MA",
-   "Wareham, MA"
+   "Dracut, MA"
   ]
  }
 ]
