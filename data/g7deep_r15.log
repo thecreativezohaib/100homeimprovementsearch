@@ -240,3 +240,107 @@ highlandbuilders.me 0
 finekitchencabinet.com 12
 indytotalcare.com 0
 infinitykitchensandbaths.com 0
+honorbuilthandyman.com 4
+innavik.com 0
+innovativebuildsolutions.com 0
+inhusa.com 2
+idesignsolutionsllc.com 2
+hconstruction.com 5
+haydengetsmail3.wixsite.com/1st-hand-constructio 6
+indyhomerenovate.com 2
+itzfixt.com 0
+idealoptionsplastering.com 8
+inhousecustom.com 0
+jamescocabinetry.com 0
+jbhomeimprovers.com 0
+ironmountainconstructionmt.com 5
+igcarpentryllc.com 12
+inandoutwv.com 3
+jblockandco.com 0
+jjconstructionhomes.com 0
+hwy70construction.com 5
+irishconstructionme.com 1
+johncockrell87.wixsite.com/mysite 0
+jjremodelingservicesaz.com 0
+jsandsonsconstruction.com 1
+highpointhomes.com 12
+hivekitchen.com 8
+jtcustombuilders.com 0
+jrmci.com 0
+justbuilditllc.com 0
+jfcpros.com 0
+jcenhancements.wixsite.com/jcenhancements 5
+kandehomeimprovement.com 0
+dbc.solutions 12
+kitcabi.com 0
+katzrenovations.com 0
+kisercabsinets.com 0
+jaxfiberglassrepairllc.com 4
+kitchenremodelgreensboro.com 0
+kitchenremodelerspringdale.com 0
+kitchenconceptsca.com 1
+kmdsurfaces.com 1
+jakubekinc.com 12
+knjconst.com 1
+jonswoodworking.com 10
+innovativehomerepair.net 8
+kbcabinetry.com 12
+kitchendesignstudios.net 7
+labconstructioninc.com 0
+labremodel.com 0
+jjconstructioninc.com 12
+lake-shorebuilders.com 0
+krcountertops.com 2
+irwinbuilds.com 2
+justbuilditrenovations.com 10
+lavconinc.com 0
+hickoryhomeremodeling.com 0
+lakehalliecabinets.com 0
+kuceraconstruction.com 6
+liberty-construction.com 0
+kruegercontracting.com 0
+lecabinetshoppe.com 0
+lighthousegranite.com 0
+linusrapp.com 0
+lowerysglassaz.com 0
+luhcsenterprises.com 0
+lockeconstructionco.com 0
+lisackitchenandbathroom.com 0
+jskitchenandhome.com 0
+luxelivingbk.com 0
+kyndlescustomcabinets.com 5
+masseyconstructioncorp.com 0
+masshomeservices.com 0
+mattsimmonsconstruction.com 0
+/home/user/100homeimprovementsearch/tools/g7deep.py:52: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(h, "lxml")
+/home/user/100homeimprovementsearch/tools/g7deep.py:89: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  for iu in collect_imgs(BeautifulSoup(h, "lxml"), p):
+master-remodeling-lafayette.com 0
+mcbrideconstructionmo.com 0
+martincabinet.com 0
+localremodelingexperts.com 0
+mcmillenconstruction.net 0
+mccarthymalberg.com 0
+maxwellscustomcabinets.com 0
+meninwhitepainting.com 0
