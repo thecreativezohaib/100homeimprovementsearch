@@ -1,137 +1,9 @@
 [
  {
-  "id": "bradfordrenovationsmd.com",
-  "name": "Bradford Renovations, LLC",
+  "id": "kckitchenremodeling.com",
+  "name": "KC Kitchen Remodeling",
   "region": "R2",
-  "website": "https://bradfordrenovationsmd.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [],
-  "pages_fetched": {
-   "home": [
-    "https://bradfordrenovationsmd.com/"
-   ],
-   "contact": [
-    "https://bradfordrenovationsmd.com/contact.php"
-   ],
-   "about": [
-    "https://bradfordrenovationsmd.com/about.php"
-   ],
-   "gallery": [
-    "https://bradfordrenovationsmd.com/gallery.php"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJXbC9MyRvt4kRZbRRJDmxXj8&hl=en",
-    "quote": "Elizabeth Schneider: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbC9MyRvt4kRZbRRJDmxXj8&hl=en",
-  "gbp_title": "Bradford Renovations, LLC",
-  "gbp_address": "\ue0c8\n12601 Corral Dr, Lusby, MD 20657, United States",
-  "gbp_rating": "4.9\n(77)",
-  "gbp_phone": "phone:tel:+14439620820",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Elizabeth Schneider",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Loved the job this family owed business did for us. From meeting Jon for the initial quote through the exceptional work where every day my house was left clean and organized. Very pleased with the results!!",
-    "owner": "Response from the owner a month ago\nThank you so much for the kind words! We\u2019re so glad you\u2019re pleased with the results. We always want our customers to feel comfortable with both the process and the finished product. Keeping your home clean and organized while we work is \u2026 More"
-   },
-   {
-    "reviewer": "Chris Cook",
-    "when": "5 months ago",
-    "stars": "5 stars",
-    "text": "The team at Bradford Renovations did a great job with transforming our unfinished basement into usable space.  We now have a full bathroom, exercise room, bar area and a large family room.  The team worked hard to complete the project and schedule the inspections to keep the work flowing.",
-    "owner": "Response from the owner 3 months ago\nChris,\n\nThank you for the fantastic review! It was a pleasure helping bring your \u2026 More"
-   },
-   {
-    "reviewer": "Mary Beth Kochie",
-    "when": "8 months ago",
-    "stars": "5 stars",
-    "text": "Completed two bathrooms glass door installations for our home! Friendly extreme courteous and just wonderful company to work with. Didn\u2019t try to talk me into things I didn\u2019t need and were honest and provided quotes and invoices quickly! \u2026",
-    "owner": "Response from the owner 3 months ago\nMary Beth,\n\nThank you so much for your wonderful review! It was truly a pleasure helping \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "bradfordrenovations88@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:bradfordrenovations88@gmail.com",
-    "page": "https://bradfordrenovationsmd.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://facebook.com/bradfordrenovations",
-   "https://www.facebook.com/Bradfordrenovations88/reviews"
-  ],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 3,
-   "bath": 3,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://bradfordrenovationsmd.com/assets/logo4.png = 1,004,813 bytes; https://bradfordrenovationsmd.com/assets/logo4.png = 1,004,813 bytes"
-  ],
-  "competitor_pool": [
-   {
-    "name": "About Kitchens and Baths, LLC",
-    "url": "https://www.aboutkitchensandmore.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "David's Remodeling Services",
-    "url": "https://davidsremodelingservicesllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Hart Home Solutions LLC",
-    "url": "https://www.harthomesolutionsllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "J T Hartman Contracting LLC",
-    "url": "https://www.jthartmancontracting.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Remodeling Depot",
-    "url": "https://remodelingdepot.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "Renken Remodeling",
-    "url": "https://renkenremodeling.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Brunswick, MD"
-  ]
- },
- {
-  "id": "dbkitchenandbaths.com",
-  "name": "DayBrook Kitchen & Baths",
-  "region": "R2",
-  "website": "https://dbremodeling.com/",
+  "website": "https://kckitchenremodeling.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -139,515 +11,63 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://dbremodeling.com/"
+    "https://kckitchenremodeling.com/"
    ],
    "contact": [
-    "https://dbremodeling.com/contact-us/"
+    "https://kckitchenremodeling.com/"
    ],
-   "gallery": [
-    "https://dbremodeling.com/gallery/"
-   ],
-   "legal": [
-    "https://dbremodeling.com/privacy/",
-    "https://dbremodeling.com/terms/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-09-23",
-    "url": "https://dbremodeling.com/bathtub-remodeling-baltimore/",
-    "quote": "wp-json/posts published 2026-09-23T02:23:37: 'Bathtub Remodeling in Baltimore: Replace, Resurface, or Convert?'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXlwCzCx4kRuc3xpcc6RT4&hl=en",
-  "gbp_title": "DayBrook Kitchen & Baths",
-  "gbp_address": "\ue0c8\n6900 Bownel Ave., Baltimore, MD 21237, United States",
-  "gbp_rating": "4.8\n(49)",
-  "gbp_phone": "phone:tel:+14433386500",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Carolyn Foster",
-    "when": "10 months ago",
-    "stars": "5 stars",
-    "text": "My husband and I decided that it was now time for a safety walk-in shower. We have a bathtub and because of the high threshold, getting in and out is often a challenge since I have a knee replacement and arthritis. My husband was concerned \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Matilda",
-    "when": "5 months ago",
-    "stars": "5 stars",
-    "text": "DayBrook personnel were respectful for my home. Covered stairs and hallway with tarps. They were polite and did a great job taking an old bathroom with a tub to a beautiful shower bathroom.",
-    "owner": "Response from the owner 3 months ago\nMatilda, we were so happy to read your review and realized we never circled back to properly thank you! \u2026 More"
-   },
-   {
-    "reviewer": "Valicia",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Daybook helped bring my vision to life. I knew exactly what I wanted and they made magic from a blank canvas. \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "%20admin@dbremodeling.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:%20admin@dbremodeling.com",
-    "page": "https://dbremodeling.com/"
-   },
-   {
-    "email": "admin@dbremodeling.com",
-    "how": "plain text",
-    "raw": "admin@dbremodeling.com",
-    "page": "https://dbremodeling.com/"
-   },
-   {
-    "email": "info@dbremodeling.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@dbremodeling.com",
-    "page": "https://dbremodeling.com/contact-us/"
-   },
-   {
-    "email": "admin@dbremodleing.com",
-    "how": "plain text",
-    "raw": "admin@dbremodleing.com",
-    "page": "https://dbremodeling.com/terms/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/daybrookkitchenbaths/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/daybrookhomes"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 1,
-   "bath": 49,
-   "roof": 3,
-   "plumb": 3,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 8,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 51",
-   "gallery images over 1MB each: https://dbremodeling.com/wp-content/uploads/2025/09/Screenshot-2025-09-11-143553.png = 2,224,076 bytes; https://dbremodeling.com/wp-content/uploads/2026/08/b8c8"
-  ],
-  "competitor_pool": [
-   {
-    "name": "About Kitchens and Baths, LLC",
-    "url": "https://www.aboutkitchensandmore.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "David's Remodeling Services",
-    "url": "https://davidsremodelingservicesllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Hart Home Solutions LLC",
-    "url": "https://www.harthomesolutionsllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "J T Hartman Contracting LLC",
-    "url": "https://www.jthartmancontracting.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Remodeling Depot",
-    "url": "https://remodelingdepot.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "Renken Remodeling",
-    "url": "https://renkenremodeling.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Brunswick, MD"
-  ]
- },
- {
-  "id": "elitebuildingcoalition.com",
-  "name": "Elite Building Coalition",
-  "region": "R2",
-  "website": "https://www.elitebuildingcoalition.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.elitebuildingcoalition.com/"
-   ],
-   "contact": [
-    "https://www.elitebuildingcoalition.com/"
+   "about": [
+    "https://kckitchenremodeling.com/about/"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
     "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJQdS-knXx9koROBeZ_7NOZkE&hl=en",
-    "quote": "Marissa Provence: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJEW-nbgS_uIkRXvJtE8KGmrM&hl=en",
+    "quote": "Shan T: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdS-knXx9koROBeZ_7NOZkE&hl=en",
-  "gbp_title": "Elite Building Coalition",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(12)",
-  "gbp_phone": "phone:tel:+18287478358",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW-nbgS_uIkRXvJtE8KGmrM&hl=en",
+  "gbp_title": "KC Kitchen Remodeling",
+  "gbp_address": "\ue0c8\n9 Park St, Milton, DE 19968, United States",
+  "gbp_rating": "1.0\n(1)",
+  "gbp_phone": "phone:tel:+13023181002",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Liz DiNatale",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "We decided to trust Elite Building with a complicated project in a 113 old house in Black Mountain, NC. We spoke to a handful of capable contractors before ultimately going with Zach. For us, what stood out and lead to our choice was his \u2026",
-    "owner": "Response from the owner 2 months ago\nHey Liz - Thanks for taking the time to write such a detailed review with pictures! This was definitely an interesting project with some unique surprises. But you and Cam just being the way you are helped make the process \u2026 More"
-   },
-   {
-    "reviewer": "Sarah H",
-    "when": "3 months ago",
-    "stars": "5 stars",
-    "text": "We had an unfortunate leak in our primary bathroom while on vacation which lead to me frantically contacting contractors on thumbtack about a repair. Zach was very responsive and when he came by he spent a lot of time looking at the damage \u2026",
-    "owner": "Response from the owner 2 months ago\nThanks for the great review, Sarah! We really enjoyed working with you on this one. The finished product is definitely a standout because of your choices!\n- Zach"
-   },
-   {
-    "reviewer": "Marissa Provence",
+    "reviewer": "Shan T",
     "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Zach and his team were amazing. I was looking to turn a very small old garage into a commercial kitchen and he did an incredible job. Incredibly communictave all throughout the project. The timeline of the job was to my satisfaction and price was fair and reasonable. Highly recommend Elite Building Coalition!",
+    "stars": "1 star",
+    "text": "These people did the worst most careless job on cabinets for an elderly woman I've personally seen and others agree with. This organization is a lawsuit waiting to happen.",
     "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "zach@elitebuildingcoalition.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:zach@elitebuildingcoalition.com",
-    "page": "https://www.elitebuildingcoalition.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://www.elitebuildingcoalition.com/",
-    "snippet": "Elite Building Coalition was founded when owner and current operator, Zach Hall discovered he was soon going to be a father"
-   },
-   {
-    "page": "https://www.elitebuildingcoalition.com/",
-    "snippet": "Elite Building Coalition was founded when owner and current operator, Zach Hall discovered he was soon going to be a father"
-   }
-  ],
-  "facebook_links": [],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 5,
-   "bath": 3,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 44"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Cutting Edge Remodeling WNC LLC",
-    "url": "https://cuttingedgeremodelingwnc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Five Star Bath Solutions of the Ozarks",
-    "url": "https://fivestarbathsolutions.com/ozarks-mo/",
-    "gbp_address": null
-   },
-   {
-    "name": "Hutchinson Construction",
-    "url": "https://hutchinsonconstruction.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "Off Duty Fireman Construction Inc.",
-    "url": "https://offdutyfiremanconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Rock Built Ventures",
-    "url": "https://www.rockbuiltventures.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "SARE Kitchen & Bath",
-    "url": "https://sarekb.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Fletcher, NC"
-  ]
- },
- {
-  "id": "remodelnow.com",
-  "name": "Remodel Now",
-  "region": "R2",
-  "website": "https://www.remodelnow.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Webflow"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.remodelnow.com/"
-   ],
-   "contact": [
-    "https://www.remodelnow.com/contact-us"
-   ],
-   "about": [
-    "https://www.remodelnow.com/about-us"
-   ],
-   "gallery": [
-    "https://www.remodelnow.com/gallery"
-   ],
-   "legal": [
-    "https://www.remodelnow.com/privacy-policy"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJM5nKrkbDt4kRQsiBkxbrGKI&hl=en",
-    "quote": "A Google User: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5nKrkbDt4kRQsiBkxbrGKI&hl=en",
-  "gbp_title": "Remodel Now",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(27)",
-  "gbp_phone": "phone:tel:+13017984696",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Beth Starnes",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "We hired Remodel Now to renovate our whole main floor including the kitchen.  The entire team (Jessie, Reggie, Manny, Roberto and Giovani) did an excellent job and worked with us each step of the way.  The two on site workers, Roberto and \u2026",
-    "owner": "Response from the owner Edited 3 months ago\nThank you for taking the time to share your experience with Remodel Now! We truly appreciate your kind words and are honored that you trusted us with your home improvement project. Our team is committed to providing exceptional \u2026 More"
-   },
-   {
-    "reviewer": "A Google User",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "I had an amazing experience working with Travis Jones at Remodel Now! Travis was incredibly helpful from the very beginning and made getting started on my bathroom remodeling project feel easy and stress-free. He took the time to answer my \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "YK L",
-    "when": "Edited a year ago",
-    "stars": "4 stars",
-    "text": "We had a great experience working with Remodel Now to complete our bathroom project.  We discovered them in the Prince George's County Best Picks publication. They were one of three companies we considered and after meeting with and  doing \u2026",
-    "owner": "Response from the owner 3 months ago\nThank you for taking the time to share your experience with Remodel Now! We truly appreciate your kind words and are honored that you trusted us with your home improvement project. Our team is committed to providing exceptional \u2026 More"
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@remodelnow.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@remodelnow.com",
-    "page": "https://www.remodelnow.com/privacy-policy"
+    "email": "info@kchomeimprovement.net",
+    "how": "cloudflare data-cfemail",
+    "raw": "f49d9a929bb4bfb7bc9b9991bd9984869b829199919a80da9a9180",
+    "page": "https://kckitchenremodeling.com/"
    }
   ],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/RemodelNowMD",
-   "https://www.facebook.com/RemodelNowMD/"
+   "https://www.facebook.com/KCHomeImprovement302/"
   ],
   "instagram_links": [
-   "https://www.instagram.com/RemodelNowMD"
+   "https://www.instagram.com/kchomeimprovementde"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 20,
-   "bath": 37,
+   "kitchen": 39,
+   "bath": 1,
    "roof": 0,
-   "plumb": 2,
+   "plumb": 1,
    "hvac": 0,
    "handyman": 0,
-   "floor": 3,
-   "cabinet": 2,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 0
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 50"
-  ],
-  "competitor_pool": [
-   {
-    "name": "All Around Renovations",
-    "url": "https://www.allaroundrenovationsms.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Dream Home Construction",
-    "url": "https://www.dreamhomeconstruction.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "Elegant Kitchen and Bath",
-    "url": "https://www.elegantkitchenbath.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Foxwood Company",
-    "url": "https://www.foxwoodcompany.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Pettigrew Cabinets Inc",
-    "url": "https://www.pettigrewcabinets.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Remodeling Depot",
-    "url": "https://remodelingdepot.net/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Senatobia, MS"
-  ]
- },
- {
-  "id": "totalhomecareservicesllc.com",
-  "name": "Total Home Care Services",
-  "region": "R2",
-  "website": "https://totalhomecareservicesllc.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "GoDaddy",
-   "WordPress"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://totalhomecareservicesllc.com/"
-   ],
-   "contact": [
-    "https://totalhomecareservicesllc.com/contact-us/"
-   ],
-   "about": [
-    "https://totalhomecareservicesllc.com/about/"
-   ],
-   "gallery": [
-    "https://totalhomecareservicesllc.com/projects/"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJeSdxe7LjpIkRck6Vc975HyA&hl=en",
-    "quote": "Dave Pinkerton: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
-   },
-   {
-    "type": "site_dated_content",
-    "date": "2026-08-20",
-    "url": "https://totalhomecareservicesllc.com/hello-world/",
-    "quote": "wp-json/posts published 2026-08-20T19:25:59: 'Hello world!'"
-   },
-   {
-    "type": "social_post",
-    "date": "2026-08-25",
-    "url": "https://www.youtube.com/shorts/Vor-KMg_G9w",
-    "quote": "YouTube channel https://www.youtube.com/@TotalHomeCareServicesLLC post: 'INTERIOR PAINTING'",
-    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCgivC5RGEFrY4iYM4lMVaSQ <published>"
-   }
-  ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSdxe7LjpIkRck6Vc975HyA&hl=en",
-  "gbp_title": "Total Home Care Services",
-  "gbp_address": "\ue0c8\n1505 Goldie St, Kill Devil Hills, NC 27948, United States",
-  "gbp_rating": "5.0\n(9)",
-  "gbp_phone": "phone:tel:+12523057538",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Dave Pinkerton",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "Amazing work by Sasha and his team. So much expertise and attention to detail. Highly recommended.",
-    "owner": null
-   },
-   {
-    "reviewer": "Steve",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "Sasha has been doing repair services for us for 5 years. He does consistently high quality work and is very conscientious. Sasha works to do things the right way, and his communication skills are first rate. I highly recommend him for your home remodeling or repair services.",
-    "owner": null
-   },
-   {
-    "reviewer": "Dennis Lydick",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "I have used Total Home Care Services for several years at our beach house in Duck, NC.  Sasha, the owner, is really the best person to have to perform all your needed work.  Very knowledgeable, professional and very reliable.  Haven\u2019t had \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "totalhomecareservicesllc@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:totalhomecareservicesllc@gmail.com",
-    "page": "https://totalhomecareservicesllc.com/"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://totalhomecareservicesllc.com/about/",
-    "snippet": "Founded by Sasha, Total Home Care Services is built on a commitment to exceptional craftsmanship"
-   },
-   {
-    "page": "https://totalhomecareservicesllc.com/about/",
-    "snippet": "Follow the path of our founder, Sasha, as he cultivated expertise and built a reputation for excellence in the home renovation and remodeling industry"
-   }
-  ],
-  "facebook_links": [],
-  "instagram_links": [],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 2,
-   "bath": 2,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 1,
    "floor": 1,
-   "cabinet": 0,
+   "cabinet": 7,
    "siding": 0,
    "window": 0,
    "pool": 0,
@@ -655,38 +75,42 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 385px, i.e. 10px wider than the screen; elements past the right edge: ['DIV.swiper-slide.swiper-sl",
-   "gallery images over 1MB each: https://totalhomecareservicesllc.com/wp-content/uploads/2026/08/THCS13-1152x1536.png = 1,237,266 bytes; https://totalhomecareservicesllc.com/wp-content/uploads/"
+   "mobile performance score below 60: PSI mobile performance 58"
   ],
   "competitor_pool": [
    {
-    "name": "CCPR Construction - Painting & Renovations OBX",
-    "url": "https://ccprconstruction.com/",
+    "name": "Cricket Creek kitchens and baths",
+    "url": "https://cckb.net/",
     "gbp_address": null
    },
    {
-    "name": "Macko Construction",
-    "url": "https://mackoconstruction.com/",
+    "name": "Coastal Bay Construction Inc",
+    "url": "https://coastalbayconstruction.com/",
     "gbp_address": null
    },
    {
-    "name": "OBX Building & Remodeling LLC",
-    "url": "https://obxbuildremodel.com/",
+    "name": "Coastal Home Improvements",
+    "url": "https://coastalhomeimprovementsde.com/",
     "gbp_address": null
    },
    {
-    "name": "OBX Construction & Renovation Inc.",
-    "url": "https://obxremodel.com/",
+    "name": "Delaware Home Improvements",
+    "url": "https://delawarehomes302.com/",
     "gbp_address": null
    },
    {
-    "name": "DeBoy Construction & Remodeling",
-    "url": "https://www.outerbankscontractor.com/",
+    "name": "Grimes Construction",
+    "url": "https://grimesconstructionllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Morales Builders LLC",
+    "url": "https://moralesbuildersllc.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Kill Devil Hills, NC"
+   "Georgetown, DE"
   ]
  }
 ]

@@ -1,9 +1,148 @@
 [
  {
-  "id": "laplantecabinetry.com",
-  "name": "Laplante Cabinetry",
+  "id": "c3nhomeimprovement.org",
+  "name": "C3N Home Improvement",
   "region": "R1",
-  "website": "https://www.laplantecabinetry.com/",
+  "website": "https://c3nhomeimprovement.org/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [
+   "WordPress"
+  ],
+  "pages_fetched": {
+   "home": [
+    "https://c3nhomeimprovement.org/"
+   ],
+   "about": [
+    "https://c3nhomeimprovement.org/about-us/"
+   ],
+   "gallery": [
+    "https://c3nhomeimprovement.org/additions/"
+   ],
+   "legal": [
+    "https://c3nhomeimprovement.org/privacy-policy/",
+    "https://c3nhomeimprovement.org/privacy-policy/",
+    "https://c3nhomeimprovement.org/terms-of-use/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJGfA9uQDx44kRfgSw98mxLJ4&hl=en",
+    "quote": "Dominic Gyles: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
+   },
+   {
+    "type": "site_dated_content",
+    "date": "2026-09-01",
+    "url": "https://c3nhomeimprovement.org/hello-world/#comment-6",
+    "quote": "rss:https://c3nhomeimprovement.org/comments/feed/ published Tue, 01 Sep 2026 18:12:45 +0000: '\n\t\tComment on Hello world! by A WordPress Commenter\t\t'"
+   }
+  ],
+  "need_signal_types": 0,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfA9uQDx44kRfgSw98mxLJ4&hl=en",
+  "gbp_title": "C3N Home Improvement",
+  "gbp_address": null,
+  "gbp_rating": "5.0\n(22)",
+  "gbp_phone": "phone:tel:+17744923541",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Dominic Gyles",
+    "when": "2 months ago",
+    "stars": "5 stars",
+    "text": "I called C3N looking for an extensive hardwood/subfloor water damage repair from a previous radiator leak and I'm glad I did. The crew came to give me a quote and got me scheduled almost immediately. Very happy with the quality of work, \u2026",
+    "owner": "Response from the owner a month ago\nThank you for the detailed review! Water damage repair from a radiator leak is exactly the kind of job that needs both speed and precision \u2014 we're glad our crew could get you scheduled quickly and match the existing hardwood so closely. We \u2026 More"
+   },
+   {
+    "reviewer": "Jess Woods",
+    "when": "7 months ago",
+    "stars": "5 stars",
+    "text": "C3N completed two big projects (deck replacement and an extension to my mudroom) that both came out amazing. The team is great to work with from planning and designing to the finishing touches. They communicate every step of the way and \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you for the wonderful review Jess. We\u2019re honored to have been part of your projects and are proud to deliver results that exceed expectations. Your trust means everything to us. We hope to work with you again soon!"
+   },
+   {
+    "reviewer": "Michael Finocchio",
+    "when": "6 months ago",
+    "stars": "5 stars",
+    "text": "One of the most honest, kind, and hardworking companies my wife and I have ever worked with. C3N is truly comprised of good people. They care about you as a customer and are always willing to sacrifice and go the extra mile on your behalf. \u2026",
+    "owner": "Response from the owner 6 months ago\nMichael and Carly thank you so much for the incredible review. Working with your family over these projects has been truly amazing. \nClients like you guys are the reason we do what we do. Being able to step in and \u2026 More"
+   }
+  ],
+  "emails_found": [
+   {
+    "email": "c3nconstruction@gmail.com",
+    "how": "mailto",
+    "raw": "href=\"mailto:c3nconstruction@gmail.com",
+    "page": "https://c3nhomeimprovement.org/"
+   }
+  ],
+  "dm_snippets": [],
+  "facebook_links": [
+   "https://www.facebook.com/c3nhomeimprovement/"
+  ],
+  "instagram_links": [
+   "https://www.instagram.com/c3nhomeimprovement"
+  ],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 4,
+   "bath": 4,
+   "roof": 5,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 0,
+   "siding": 4,
+   "window": 1,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "mobile performance score below 60: PSI mobile performance 51"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Build Simple",
+    "url": "https://www.buildsimplenow.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dream Kitchens & Baths by Nelson, Inc.",
+    "url": "https://www.dreamkitchens.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Dynamic Home Renovations",
+    "url": "https://dynamichomerenovations.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "FS Construction & Remodeling",
+    "url": "https://fsconstructionandremodeling.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Ideal Kitchens",
+    "url": "https://ideal-kitchens.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "P23 Home Improvement inc",
+    "url": "https://p23homeimprovements.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Lancaster, MA"
+  ]
+ },
+ {
+  "id": "hpmcraftsmen.com",
+  "name": "HPM Craftsmen",
+  "region": "R1",
+  "website": "https://www.hpmcraftsmen.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
   "platform": [
@@ -11,117 +150,125 @@
   ],
   "pages_fetched": {
    "home": [
-    "https://www.laplantecabinetry.com/"
+    "https://www.hpmcraftsmen.com/"
    ],
    "contact": [
-    "https://www.laplantecabinetry.com/contact"
+    "https://www.hpmcraftsmen.com/contact"
    ],
    "about": [
-    "https://www.laplantecabinetry.com/about-us"
+    "https://www.hpmcraftsmen.com/aboutus",
+    "https://www.hpmcraftsmen.com/join-our-team"
    ],
    "gallery": [
-    "https://www.laplantecabinetry.com/projects"
+    "https://www.hpmcraftsmen.com/portfolio",
+    "https://www.hpmcraftsmen.com/kitchen-gallery"
    ]
   },
   "auto_signals": [
    {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJRQNjJSaLskwRgLgdWG6WgPY&hl=en",
-    "quote": "Jocelyne D: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
+    "type": "site_dated_content",
+    "date": "2026-08-27",
+    "url": "https://www.hpmcraftsmen.com/post/hpm-craftsmen-named-best-contractor-and-best-builder-by-hudson-valley-magazine",
+    "quote": "rss:https://www.hpmcraftsmen.com/blog-feed.xml published Thu, 27 Aug 2026 10:42:42 GMT: 'HPM Craftsmen Named Best Contractor and Best Builder by Hudson Valley Magazine'"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQNjJSaLskwRgLgdWG6WgPY&hl=en",
-  "gbp_title": "Laplante Cabinetry",
-  "gbp_address": "\ue0c8\n16 Sunrise Trl, Gray, ME 04039, United States",
-  "gbp_rating": "5.0\n(2)",
-  "gbp_phone": "phone:tel:+12075138440",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxx4_JpQ3YkRbWPeB_abCVQ&hl=en",
+  "gbp_title": "HPM Craftsmen",
+  "gbp_address": "\ue0c8\n5 Milltown Rd Ste A, Holmes, NY 12531, United States",
+  "gbp_rating": "4.8\n(112)",
+  "gbp_phone": "phone:tel:+18458783004",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Jocelyne D",
-    "when": "a month ago",
+    "reviewer": "Melissa Raso",
+    "when": "8 months ago",
     "stars": "5 stars",
-    "text": "We hired Ryan for our kitchen remodel and we couldn\u2019t be happier with the results. The exceptional quality of his craftsmanship is evident in every single detail of the build. He was incredibly professional, clean, and deeply invested in \u2026",
-    "owner": null
+    "text": "I had a great experience with HPM Craftsmen for my basement renovation and repairs. The team handled everything from sheetrock, subfloor and flooring, drywall repairs, trim, replacing a door, and painting. The results were fantastic. The \u2026",
+    "owner": "Response from the owner 7 months ago\nThank you so much, Melissa! It was great working with you! "
    },
    {
-    "reviewer": "Bruce Mcgowen",
-    "when": "a month ago",
+    "reviewer": "Kimberly Reis",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "My wife and I were looking for some one to remodel our kitchen cabinets Laplante cabinetry is your first and only stop. Ryan the head craftsmen and owner does exceptional design and work. My wife and I hired Ryan to do our kitchen over and \u2026",
-    "owner": null
+    "text": "would recommend Brian and HPM 1000% over. Our project was extensive and they were able to do everything in our time frame. When there were any change orders or issues that arose, they were always transparent which is not always the case \u2026",
+    "owner": "Response from the owner a year ago\nThank you for your review. It was such an honor transforming your home!"
+   },
+   {
+    "reviewer": "Tim Fischer",
+    "when": "3 months ago",
+    "stars": "5 stars",
+    "text": "We had HPM do a full remodel of our master bathroom and a little work in our kitchen. Chris made sure everything came out great, he was such a pleasure to work with. We are extremely happy with the end product.",
+    "owner": "Response from the owner 3 months ago\nThank you so much, Tim! "
    }
   ],
   "emails_found": [
    {
-    "email": "info@laplantecabinetry.com",
+    "email": "info@hpmcraftsmen.com",
     "how": "mailto",
-    "raw": "href=\"mailto:info@laplantecabinetry.com",
-    "page": "https://www.laplantecabinetry.com/"
+    "raw": "href=\"mailto:info@hpmcraftsmen.com",
+    "page": "https://www.hpmcraftsmen.com/"
    }
   ],
-  "dm_snippets": [
-   {
-    "page": "https://www.laplantecabinetry.com/",
-    "snippet": "Founder & Head Craftsman"
-   }
+  "dm_snippets": [],
+  "facebook_links": [
+   "http://www.facebook.com/hpmcraftsmen"
   ],
-  "facebook_links": [],
-  "instagram_links": [],
+  "instagram_links": [
+   "https://www.instagram.com/hpmcraftsmen"
+  ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 21,
-   "bath": 0,
-   "roof": 0,
+   "kitchen": 8,
+   "bath": 8,
+   "roof": 1,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
    "floor": 0,
-   "cabinet": 12,
-   "siding": 0,
-   "window": 0,
+   "cabinet": 0,
+   "siding": 1,
+   "window": 4,
    "pool": 0,
    "solar": 0,
-   "custom home": 0
+   "custom home": 1
   },
   "g8_defects_measured": [
-   "gallery images over 1MB each: https://static.wixstatic.com/media/d92212_1a7b27db28fb44a0bf2ebc32fed25973~mv2.png/v1/fit/w_960,h_848,q_90,enc_avif,quality_auto/d92212_1a7b27db28fb44a0bf2ebc32"
+   "mobile performance score below 60: PSI mobile performance 29"
   ],
   "competitor_pool": [
    {
-    "name": "Centerline Design & Build",
-    "url": "https://centerlinedesignme.com/",
+    "name": "Burns Brothers Contractors Inc",
+    "url": "https://www.bbcontractors.com/",
     "gbp_address": null
    },
    {
-    "name": "Coastal Bath Remodel",
-    "url": "https://www.coastalbathremodel.com/",
+    "name": "Bicknell Building Supply",
+    "url": "https://www.bicknellcorporation.com/bbs",
     "gbp_address": null
    },
    {
-    "name": "Kitchen Cove Design Studio",
-    "url": "https://www.kitchencovedesign.com/",
+    "name": "Razzano Homes & Remodelers, Inc.",
+    "url": "https://buildittolast.com/",
     "gbp_address": null
    },
    {
-    "name": "Lindvall & Co. Designs",
-    "url": "https://lindvallandco.com/",
+    "name": "L'Italien Home Renovation and Design, LLC",
+    "url": "https://handymanlitalien.com/",
     "gbp_address": null
    },
    {
-    "name": "Maine Cabinet Company",
-    "url": "https://mainecabinetcompany.com/",
+    "name": "Jade Enterprises",
+    "url": "https://www.jadeenterprisesny.com/",
     "gbp_address": null
    },
    {
-    "name": "Southern Maine Remodeling",
-    "url": "https://southernmaineremodeling.com/",
+    "name": "NOCO Superior Exterior",
+    "url": "https://nocosuperiorexterior.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Cumberland, ME"
+   "Potsdam, NY"
   ]
  }
 ]

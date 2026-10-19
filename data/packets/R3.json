@@ -1,256 +1,165 @@
 [
  {
-  "id": "elizabethyagerdesigns.com",
-  "name": "Elizabeth Yager Designs - Interior Design and Cabinetry",
+  "id": "limitlessmichiana.com",
+  "name": "Limitless home Improvement",
   "region": "R3",
-  "website": "https://www.elizabethyagerdesigns.com/",
+  "website": "https://limitlessmichiana.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
+  "platform": [],
   "pages_fetched": {
    "home": [
-    "https://www.elizabethyagerdesigns.com/"
-   ],
-   "contact": [
-    "https://www.elizabethyagerdesigns.com/contact"
-   ],
-   "about": [
-    "https://www.elizabethyagerdesigns.com/about-us",
-    "https://www.elizabethyagerdesigns.com/services"
+    "https://limitlessmichiana.com/"
    ],
    "gallery": [
-    "https://www.elizabethyagerdesigns.com/eydprojects",
-    "https://www.elizabethyagerdesigns.com/moderncountryfrench"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "social_post",
-    "date": "2026-10-05",
-    "url": "https://www.pinterest.com/pin/459367230765756131/",
-    "quote": "Pinterest profile https://www.pinterest.com/elizabethyagerdesigns/ post: 'Check out this image'",
-    "method": "Pinterest profile RSS https://www.pinterest.com/elizabethyagerdesigns/feed.rss <pubDate>"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQ-Y_DObc4gRTt7S1dp0vy0&hl=en",
-  "gbp_title": "Elizabeth Yager Designs - Interior Design and Cabinetry",
-  "gbp_address": "\ue0c8\n814 E Fayette Ave, Effingham, IL 62401, United States",
-  "gbp_rating": "5.0\n(23)",
-  "gbp_phone": "phone:tel:+16127022929",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Adam Ruiz",
-    "when": "2 years ago",
-    "stars": "5 stars",
-    "text": "Working with Elizabeth Yager Designs has been an absolute game-changer for our projects! Their unparalleled creativity and keen eye for detail have consistently transformed our spaces into stunning works of art. Every project we\u2019ve \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Jadyn Pruemer",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Working with Elizabeth Yager is truly a dream. She is incredibly easy to work with, professional, creative, and always a step ahead. Her eye for design is unmatched, and the spaces she creates are nothing short of luxurious. Every detail, \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "Lisa Pruemer",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "I cannot recommend Elizabeth Yager Designs enough for anyone seeking interior design assistance! I was trying to choose a paint color for my basement and fortunately I came across Elizabeth's video on selecting whites, where she suggested \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "elizabeth@elizabethyagerdesigns.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:elizabeth@elizabethyagerdesigns.com",
-    "page": "https://www.elizabethyagerdesigns.com/"
-   },
-   {
-    "email": "info@mysite.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:info@mysite.com",
-    "page": "https://www.elizabethyagerdesigns.com/contact"
-   },
-   {
-    "email": "elizabethyagerdesigns@gmail.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:elizabethyagerdesigns@gmail.com",
-    "page": "https://www.elizabethyagerdesigns.com/services"
-   }
-  ],
-  "dm_snippets": [
-   {
-    "page": "https://www.elizabethyagerdesigns.com/",
-    "snippet": "About Our Principal Designer - Elizabeth Yager"
-   },
-   {
-    "page": "https://www.elizabethyagerdesigns.com/about-us",
-    "snippet": "Elizabeth Yager is the Principal Designer and owner of Elizabeth Yager Designs and EYD Fine Cabinetry, located in Effingham, Illinois"
-   },
-   {
-    "page": "https://www.elizabethyagerdesigns.com/services",
-    "snippet": "Your project will be led by our principal designer, Elizabeth Yager, with assistance from the other designers on our team"
-   },
-   {
-    "page": "https://www.elizabethyagerdesigns.com/moderncountryfrench",
-    "snippet": "The flooring design under the dining room table and in the entryway are hand drawn by principal designer Elizabet Yager, and then fabricated out of large format porcelain"
-   },
-   {
-    "page": "https://www.elizabethyagerdesigns.com/moderncountryfrench",
-    "snippet": "Most of the furniture in this home is custom, design by our Principal Designer, Elizabeth Yager"
-   }
-  ],
-  "facebook_links": [
-   "https://www.facebook.com/elizabethyagerdesigns/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/elizabeth_yager_designs"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 2,
-   "bath": 4,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 12,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 1
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 59"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Barr Construction & Remodeling, Inc",
-    "url": "https://barrconstruction.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "D's One Stop Remodeling LLC",
-    "url": "https://d1stopremodeling.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Grunloh Construction, Inc.",
-    "url": "https://grunloh.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Knight's Remodeling LLC",
-    "url": "https://knightsremodelingllc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Mette Cabinets & Countertops",
-    "url": "https://mettescabinetcorner.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "NC Builders",
-    "url": "https://www.ncbuilderseffingham.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Effingham, IL"
-  ]
- },
- {
-  "id": "hazelwoodhomes.com",
-  "name": "Hazelwood Homes",
-  "region": "R3",
-  "website": "https://www.hazelwoodhomes.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.hazelwoodhomes.com/"
-   ],
-   "contact": [
-    "https://www.hazelwoodhomes.com/contact"
-   ],
-   "about": [
-    "https://www.hazelwoodhomes.com/about"
-   ],
-   "gallery": [
-    "https://www.hazelwoodhomes.com/gallery",
-    "https://www.hazelwoodhomes.com/services"
+    "https://limitlessmichiana.com/projects"
    ],
    "legal": [
-    "https://www.hazelwoodhomes.com/privacy-policy"
+    "https://limitlessmichiana.com/privacy",
+    "https://limitlessmichiana.com/terms"
    ]
   },
   "auto_signals": [
    {
-    "type": "social_post",
-    "date": "2026-09-29",
-    "url": "https://www.pinterest.com/pin/760123243408505943/",
-    "quote": "Pinterest profile https://www.pinterest.com/hazelwoodhomes/ post: 'We don\u2019t just build kitchens, we create custom spaces designed around how'",
-    "method": "Pinterest profile RSS https://www.pinterest.com/hazelwoodhomes/feed.rss <pubDate>"
+    "type": "google_review",
+    "date": "2026-07-17..2026-08-30",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJP9rH9z1nYY8RWLvZYztQDHw&hl=en",
+    "quote": "Anna Pryor: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
    }
   ],
   "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4xJPDUR4ocRrXaNTaxbMlI&hl=en",
-  "gbp_title": "Hazelwood Homes",
-  "gbp_address": "\ue0c8\n319 Jf Edwards, Geneseo, IL 61254, United States",
-  "gbp_rating": "4.9\n(11)",
-  "gbp_phone": "phone:tel:+13094415184",
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9rH9z1nYY8RWLvZYztQDHw&hl=en",
+  "gbp_title": "Limitless home Improvement",
+  "gbp_address": "\ue0c8\n1990 S 11th St Unit 49, Niles, MI 49120, United States",
+  "gbp_rating": "4.9\n(19)",
+  "gbp_phone": "phone:tel:+15743009481",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Fonda Van Nattan",
-    "when": "8 years ago",
+    "reviewer": "Anna Pryor",
+    "when": "2 months ago",
     "stars": "5 stars",
-    "text": "We can't say enough great things about Hazelwood!  It's been almost a year since our dream home has been complete and it is still just perfect!  Their team worked with us to design a home that was ideal for us and took care of the whole \u2026",
-    "owner": "Response from the owner 4 years ago\nThank you!"
+    "text": "We had a great experience with Jeremy and Limitless Home Improvement. Jeremy was very detailed and did exactly what he said he would do. We love our bathroom remodel and I would highly recommend Jeremy for any of your home improvement  needs. We will use him again in the future!",
+    "owner": "Response from the owner 2 months ago\nThank you for the kind words Anna, it was wonderful helping you make it anew!"
    },
    {
-    "reviewer": "Judie Wainwright",
-    "when": "5 years ago",
+    "reviewer": "Jean O'Malley",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "Hazelwood Homes built our custom home in 1995. We are still as happy with their work as the day it was built! Hazelwood Homes is the only bid we got to build our home. We knew of their wonderful reputation so knew we wanted them & only them to build our forever, custom home! Thank you! \u2665\ufe0f",
-    "owner": "Response from the owner 4 years ago\nThank you so much for the 5 star review! We are so happy you are happy with your home!"
+    "text": "Jeremy took a terrible drawing I had done, and turned our deck into a show case. He added a privacy fence and a beautiful triangular wind sail. He does fabulous work and so does his crew.",
+    "owner": null
    },
    {
-    "reviewer": "Lauryn Deets",
-    "when": "6 years ago",
+    "reviewer": "Amy",
+    "when": "a year ago",
     "stars": "5 stars",
-    "text": "Had such a great experience building with Hazelwood. Good people, good craftsmanship, and they take care of you long after you move in.",
-    "owner": "Response from the owner 4 years ago\nThank you so much for your review. We are so happy you've enjoyed your experience."
+    "text": "Jeremy and team transformed my outdated kitchen, two bathrooms, and foyer. They expertly removed a ton of wallpaper, painted, removed tile and installed a new floor, and completely updated the kitchen. They made sure that we could still use \u2026",
+    "owner": null
    }
   ],
   "emails_found": [
    {
-    "email": "info@hazelwoodhomes.com",
+    "email": "limitless.improvement@gmail.com",
     "how": "mailto",
-    "raw": "href=\"mailto:info@hazelwoodhomes.com",
-    "page": "https://www.hazelwoodhomes.com/"
+    "raw": "href=\"mailto:limitless.improvement@gmail.com",
+    "page": "https://limitlessmichiana.com/"
    }
   ],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/hazelwoodhomesgeneseo"
+   "https://www.facebook.com/profile.php?id=61571319816874"
   ],
   "instagram_links": [
-   "https://www.instagram.com/hazelwoodhomesco"
+   "https://www.instagram.com/limitless_home_improvement"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 2,
-   "bath": 2,
+   "kitchen": 8,
+   "bath": 10,
+   "roof": 0,
+   "plumb": 1,
+   "hvac": 0,
+   "handyman": 0,
+   "floor": 4,
+   "cabinet": 1,
+   "siding": 0,
+   "window": 0,
+   "pool": 0,
+   "solar": 0,
+   "custom home": 0
+  },
+  "g8_defects_measured": [
+   "horizontal overflow at 375px: 375px-wide mobile viewport (iPhone UA, DPR 3): document width 467px, i.e. 92px wider than the screen; elements past the right edge: ['A.link right=531', 'A.link"
+  ],
+  "competitor_pool": [
+   {
+    "name": "Allen Scott Construction",
+    "url": "https://allenscott.net/",
+    "gbp_address": null
+   },
+   {
+    "name": "Hannapel",
+    "url": "https://www.hannapel.com/locations/niles/",
+    "gbp_address": null
+   },
+   {
+    "name": "Huckins Construction LLC",
+    "url": "https://www.huckinsconstructionllc.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Renovations Unlimited",
+    "url": "https://www.unlimityourhome.com/",
+    "gbp_address": null
+   }
+  ],
+  "locations_seen": [
+   "Niles, MI"
+  ]
+ },
+ {
+  "id": "trenton-wallcovering-experts.site",
+  "name": "Trenton Wallpaper Installer",
+  "region": "R3",
+  "website": "https://trenton-wallcovering-experts.site/",
+  "bench_vendor_route": false,
+  "incumbent_vendor": null,
+  "platform": [],
+  "pages_fetched": {
+   "home": [
+    "https://trenton-wallcovering-experts.site/"
+   ]
+  },
+  "auto_signals": [
+   {
+    "type": "google_review",
+    "date": "2026-10-01..2026-10-07",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJdWI81uc5O4gRIvY7_nI8G2I&hl=en",
+    "quote": "Lynda Douglas: 'a week ago' (Google relative timestamp, retrieved 2026-10-19)"
+   }
+  ],
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWI81uc5O4gRIvY7_nI8G2I&hl=en",
+  "gbp_title": "Trenton Wallpaper Installer",
+  "gbp_address": "\ue0c8\n1650 Fort St, Trenton, MI 48183, United States",
+  "gbp_rating": "5.0\n(1)",
+  "gbp_phone": "phone:tel:+13137105394",
+  "gbp_reviews_visible": [
+   {
+    "reviewer": "Lynda Douglas",
+    "when": "a week ago",
+    "stars": "5 stars",
+    "text": "I needed wallpaper installation in a narrow stairway area. The walls get wider and narrower as you go up, so I wasn't sure how the pattern would look. The installer adjusted the layout as he went and kept the main design centered. Turned out really good.",
+    "owner": null
+   }
+  ],
+  "emails_found": [],
+  "dm_snippets": [],
+  "facebook_links": [],
+  "instagram_links": [],
+  "franchise_mentions": [],
+  "niche_word_counts": {
+   "kitchen": 1,
+   "bath": 1,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
@@ -261,40 +170,46 @@
    "window": 0,
    "pool": 0,
    "solar": 0,
-   "custom home": 6
+   "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 59"
+   "mobile performance score below 60: PSI mobile performance 55",
+   "gallery images over 1MB each: https://trenton-wallcovering-experts.site/images/services/worker.webp = 1,076,140 bytes; https://trenton-wallcovering-experts.site/images/services/fabric.webp ="
   ],
   "competitor_pool": [
    {
-    "name": "Cherrytree Kitchens",
-    "url": "https://cherrytreekitchens.com/",
+    "name": "Rock Solid Renovations Co LLC",
+    "url": "https://builtrocksolid.us/",
     "gbp_address": null
    },
    {
-    "name": "DLN Home Remodeling",
-    "url": "https://dlnhomeremodeling.com",
+    "name": "Custom Kitchen Creations",
+    "url": "https://www.ckcremodeling.com/",
     "gbp_address": null
    },
    {
-    "name": "Greiner Buildings, Inc.",
-    "url": "https://greinerbuildings.com/",
+    "name": "DRK Family Construction Inc",
+    "url": "https://www.drkfamilyconstruction.com/",
     "gbp_address": null
    },
    {
-    "name": "Someone's In the Kitchen - SITK",
-    "url": "https://www.somekitchen.com/",
+    "name": "Ace Kitchen Bath & Flooring",
+    "url": "https://www.findyourace.com/",
     "gbp_address": null
    },
    {
-    "name": "The Bath Connection",
-    "url": "https://www.the-bathconnection.com/",
+    "name": "KAS Home Improvement Inc.",
+    "url": "https://www.kasannarbor.com/",
+    "gbp_address": null
+   },
+   {
+    "name": "Marchena Construction LLC",
+    "url": "https://marchenaconstruction.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Kewanee, IL"
+   "Woodhaven, MI"
   ]
  }
 ]
