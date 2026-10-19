@@ -202,3 +202,4 @@
 {"id": "builtbybacon.com", "tested_url": "https://builtbybacon.com/", "attempts": [{"at": "2026-10-19T05:01:06+00:00", "http": 200}], "psi_score": 47, "psi_date": "2026-10-19T05:01:06+00:00"}
 {"id": "bynautilus.com", "tested_url": "https://bynautilus.com/", "attempts": [{"at": "2026-10-19T05:01:28+00:00", "http": 200}], "psi_score": 52, "psi_date": "2026-10-19T05:01:28+00:00"}
 {"id": "calgreenremodeling.com", "tested_url": "https://calgreenremodeling.com/", "attempts": [{"at": "2026-10-19T05:01:49+00:00", "http": 200}], "psi_score": 55, "psi_date": "2026-10-19T05:01:49+00:00"}
+{"id": "capizzihome.com", "tested_url": "https://capizzihome.com/", "attempts": [{"at": "2026-10-19T05:02:08+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T05:02:41+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}

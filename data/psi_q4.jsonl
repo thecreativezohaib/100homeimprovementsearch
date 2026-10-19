@@ -862,3 +862,4 @@
 {"id": "builtbyhighlandco.com", "tested_url": "https://builtbyhighlandco.com/", "attempts": [{"at": "2026-10-19T05:01:10+00:00", "http": 200}], "psi_score": 81, "psi_date": "2026-10-19T05:01:10+00:00"}
 {"id": "ca-remodelingsvc.com", "tested_url": "https://ca-remodelingsvc.com/", "attempts": [{"at": "2026-10-19T05:01:27+00:00", "http": 200}], "psi_score": 65, "psi_date": "2026-10-19T05:01:27+00:00"}
 {"id": "callbens.com", "tested_url": "https://callbens.com/", "attempts": [{"at": "2026-10-19T05:01:40+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T05:02:13+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "caservicesga.com", "tested_url": "https://caservicesga.com/", "attempts": [{"at": "2026-10-19T05:02:46+00:00", "http": 200}], "psi_score": 82, "psi_date": "2026-10-19T05:02:46+00:00"}
