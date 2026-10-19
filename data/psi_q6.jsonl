@@ -711,3 +711,4 @@
 {"id": "templetonbc.com", "tested_url": "https://www.templetonbc.com/", "attempts": [{"at": "2026-10-19T13:16:35+00:00", "error": "TypeError"}, {"at": "2026-10-19T13:16:56+00:00", "error": "TypeError"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "true-db.com", "tested_url": "https://www.true-db.com/", "attempts": [{"at": "2026-10-19T13:17:23+00:00", "http": 200}], "psi_score": 76, "psi_date": "2026-10-19T13:17:23+00:00"}
 {"id": "victoriarenovations.com", "tested_url": "https://victoriarenovations.com/", "attempts": [{"at": "2026-10-19T13:17:47+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T13:18:20+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "americaneagleconstruction.net", "tested_url": "https://americaneagleconstruction.net/", "attempts": [{"at": "2026-10-19T14:15:43+00:00", "http": 200}], "psi_score": 68, "psi_date": "2026-10-19T14:15:43+00:00"}
