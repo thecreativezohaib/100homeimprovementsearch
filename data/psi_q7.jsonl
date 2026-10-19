@@ -190,3 +190,5 @@
 {"id": "auburncustomkitchens.com", "tested_url": "https://www.auburncustomkitchens.com/", "attempts": [{"at": "2026-10-19T04:55:59+00:00", "http": 200}], "psi_score": 47, "psi_date": "2026-10-19T04:55:59+00:00"}
 {"id": "azdesignbuildmanagement.com", "tested_url": "https://azdesignbuildmanagement.com/", "attempts": [{"at": "2026-10-19T04:56:13+00:00", "http": 200}], "psi_score": 45, "psi_date": "2026-10-19T04:56:13+00:00"}
 {"id": "bathmanofpa.com", "tested_url": "https://bathmanofpa.com/bathroom-remodeling/", "attempts": [{"at": "2026-10-19T04:56:37+00:00", "http": 200}], "psi_score": 58, "psi_date": "2026-10-19T04:56:37+00:00"}
+{"id": "bcidesignbuild.com", "tested_url": "https://bcidesignbuild.com/", "attempts": [{"at": "2026-10-19T04:56:50+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T04:57:23+00:00", "http": 200}], "psi_score": 62, "psi_date": "2026-10-19T04:57:23+00:00"}
+{"id": "bestcontractornyc.com", "tested_url": "https://www.bestcontractornyc.com/", "attempts": [{"at": "2026-10-19T04:57:47+00:00", "http": 200}], "psi_score": 96, "psi_date": "2026-10-19T04:57:47+00:00"}
