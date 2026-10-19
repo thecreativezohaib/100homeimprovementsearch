@@ -286,3 +286,4 @@
 {"id": "pilchhome.com", "tested_url": "https://pilchhome.com/", "attempts": [{"at": "2026-10-19T05:33:38+00:00", "http": 200}], "psi_score": 63, "psi_date": "2026-10-19T05:33:38+00:00"}
 {"id": "pmremodel.com", "tested_url": "https://www.pmremodel.com/", "attempts": [{"at": "2026-10-19T05:33:57+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T05:34:30+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
 {"id": "precisiongc.net", "tested_url": "https://www.precisiongc.net/", "attempts": [{"at": "2026-10-19T05:35:03+00:00", "http": 200}], "psi_score": 61, "psi_date": "2026-10-19T05:35:03+00:00"}
+{"id": "premierbathandkitchen.com", "tested_url": "http://www.premierbathandkitchen.com/santa-rosa/", "attempts": [{"at": "2026-10-19T05:35:17+00:00", "http": 200}], "psi_score": 50, "psi_date": "2026-10-19T05:35:17+00:00"}
