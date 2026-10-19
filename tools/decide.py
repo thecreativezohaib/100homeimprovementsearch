@@ -451,7 +451,7 @@ def g8(c, s, b, p):
             found.append(("broken quote or estimate form", f"form on {df['page']} posts to {df['action']}: {df['result']}", df["page"], gx.get("checked")))
             break
         bad_tel = [t for t in s.get("tel_links") or [] if 0 < len(re.sub(r"\D", "", t)) < 10]
-        bad_mail = [t for t in s.get("mailto_links") or [] if "@" not in t]
+        bad_mail = [t for t in s.get("mailto_links") or [] if "@" not in t and not t.lstrip().startswith("?")]  # "?subject=..." is a share button, not a contact link
         if bad_tel or bad_mail:
             found.append(("dead phone or email link", f"tel: hrefs {bad_tel} mailto: hrefs {bad_mail}", s["final_url"], s["fetch_date"]))
     rm = (s or {}).get("remeasure")

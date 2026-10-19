@@ -864,3 +864,5 @@
 {"id": "beckerbuildremodel.com", "tested_url": "https://www.beckerbuildremodel.com/", "attempts": [{"at": "2026-10-19T04:57:08+00:00", "http": 200}], "psi_score": 73, "psi_date": "2026-10-19T04:57:08+00:00"}
 {"id": "betterworldkitchenremodeling.com", "tested_url": "https://betterworldkitchenremodeling.com/", "attempts": [{"at": "2026-10-19T04:57:18+00:00", "http": 200}], "psi_score": 80, "psi_date": "2026-10-19T04:57:18+00:00"}
 {"id": "blakebuildingco.com", "tested_url": "https://blakebuildingco.com/", "attempts": [{"at": "2026-10-19T04:57:29+00:00", "http": 200}], "psi_score": 68, "psi_date": "2026-10-19T04:57:29+00:00"}
+{"id": "borarenovations.com", "tested_url": "http://www.borarenovations.com/", "attempts": [{"at": "2026-10-19T04:57:41+00:00", "http": 502, "msg": "upstream request failed"}, {"at": "2026-10-19T04:58:15+00:00", "http": 502, "msg": "upstream request failed"}], "psi_score": "PSI_TIMEOUT"}
+{"id": "bravo-restore.com", "tested_url": "https://bravo-restore.com/", "attempts": [{"at": "2026-10-19T04:58:48+00:00", "http": 200}], "psi_score": 41, "psi_date": "2026-10-19T04:58:48+00:00"}
