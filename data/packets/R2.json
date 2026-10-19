@@ -1,225 +1,85 @@
 [
  {
-  "id": "atoznc.com",
-  "name": "A to Z Builders",
+  "id": "gcmakeovers.com",
+  "name": "GC Makeovers",
   "region": "R2",
-  "website": "https://www.atoznc.com/",
+  "website": "https://www.gcmakeovers.com/",
   "bench_vendor_route": false,
   "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
+  "platform": [],
   "pages_fetched": {
    "home": [
-    "https://www.atoznc.com/"
+    "https://www.gcmakeovers.com/"
    ],
    "contact": [
-    "https://www.atoznc.com/contactus"
+    "https://www.gcmakeovers.com/contact.htm"
    ],
    "about": [
-    "https://www.atoznc.com/aboutus",
-    "https://www.atoznc.com/areasweservice"
+    "https://www.gcmakeovers.com/about-us.htm"
+   ],
+   "gallery": [
+    "https://www.gcmakeovers.com/project-showcase.htm"
    ],
    "legal": [
-    "https://www.atoznc.com/privacy-policy"
+    "https://www.gcmakeovers.com/privacy",
+    "https://www.gcmakeovers.com/privacy-policy",
+    "https://www.gcmakeovers.com/terms"
    ]
   },
   "auto_signals": [
    {
     "type": "google_review",
-    "date": "2026-07-17..2026-08-30",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oe30cLqokRz5EV4hN2eak&hl=en",
-    "quote": "Corie Garbati: '2 months ago' (Google relative timestamp, retrieved 2026-10-19)"
-   },
-   {
-    "type": "social_post",
-    "date": "2026-10-01",
-    "url": "https://www.youtube.com/watch?v=Idjj3Un6p2Y",
-    "quote": "YouTube channel https://www.youtube.com/@ATOZNC post: 'Why Fall Is the Perfect Time to Build or Renovate Your Deck'",
-    "method": "YouTube channel RSS https://www.youtube.com/feeds/videos.xml?channel_id=UCNjd5gLMOROqcgZziZYvATw <published>"
+    "date": "2026-08-16..2026-09-18",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJFdhSOvv7uIkRpyHigwL5D40&hl=en",
+    "quote": "Joyneka Moals: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
    }
   ],
-  "need_signal_types": 0,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oe30cLqokRz5EV4hN2eak&hl=en",
-  "gbp_title": "A to Z Builders",
-  "gbp_address": "\ue0c8\n302 Ocean Hwy W, Supply, NC 28462, United States",
-  "gbp_rating": "4.7\n(24)",
-  "gbp_phone": "phone:tel:+19102536229",
+  "need_signal_types": 1,
+  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdhSOvv7uIkRpyHigwL5D40&hl=en",
+  "gbp_title": "GC Makeovers",
+  "gbp_address": "\ue0c8\n26241 Sussex Hwy Unit C, Seaford, DE 19973, United States",
+  "gbp_rating": "5.0\n(33)",
+  "gbp_phone": "phone:tel:+13024486368",
   "gbp_reviews_visible": [
    {
-    "reviewer": "Corie Garbati",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Building a custom home is a huge undertaking, and choosing the right builder makes all the difference. From start to finish, we had an outstanding experience. \u2026",
-    "owner": "Response from the owner 2 months ago\nThank you so much for your thoughtful review and for trusting A to Z Builders with your custom beach home. It means the world to our entire team to know that your experience reflected the professionalism, communication, and craftsmanship we \u2026 More"
-   },
-   {
-    "reviewer": "kristin gettleman",
+    "reviewer": "Joyneka Moals",
     "when": "a month ago",
     "stars": "5 stars",
-    "text": "\u2b50\u2b50\u2b50\u2b50\u2b50\n\nI highly recommend A to Z Builders! From start to finish, their team is \u2026",
-    "owner": "Response from the owner a month ago\nThank you, Kristin! "
+    "text": "I\u2019m ecstatic that I found GC Makeovers when I was looking to renovate our state office. From my very first phone call, the experience was exceptional. I was able to quickly schedule an appointment for someone to come out and provide an \u2026",
+    "owner": "Response from the owner a month ago\nThank you, Joyneka, for such an amazing and detailed review! It means so much to every member of our team to know that the respect and care we put into our work is felt by our clients. We\u2019ve truly enjoyed working with you and are excited to \u2026 More"
    },
    {
-    "reviewer": "Ally Shaw",
-    "when": "a year ago",
+    "reviewer": "Christine Rafetto",
+    "when": "8 months ago",
     "stars": "5 stars",
-    "text": "Being a successful writer is synonymous with being an avid reader so I needed a huge bookcase to house my collection. A to Z (along with Jeff\u2019s Cabinets & Evans & Sons Electric) created a statement piece for our den, a true work of art! Thank you Adrian, Joe, Jeff and teams\u2026it is beautiful and perfect for our needs!",
-    "owner": "Response from the owner a year ago\nHi Ally,\nThank you so much for your kind words! We\u2019re thrilled to hear that your new bookcase turned out to be exactly what you envisioned. It was a pleasure \u2026 More"
-   }
-  ],
-  "emails_found": [
+    "text": "I highly recommend GC Makeovers for your home improvement.\nC and R came to install new floors in our kitchen and back room on a Saturday! They arrived on time and were impeccable, courteous and kind! They worked non \u2026",
+    "owner": "Response from the owner Edited 7 months ago\nThank you Christine! The flooring looks great and you were absolutely a pleasure to work with! We look forward to working with you on future projects and are glad you are happy. -Crystal and the GCM Team "
+   },
    {
-    "email": "builders@atoznc.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:Builders@atoznc.com",
-    "page": "https://www.atoznc.com/contactus"
+    "reviewer": "Carol Bowers",
+    "when": "5 months ago",
+    "stars": "5 stars",
+    "text": "GC Makeovers did an excellent job on our complete bathroom and vanity renovation. From offering a variety of materials to choose from for the shower to keeping me informed every step of the way, the GC team provided terrific customer \u2026",
+    "owner": "Response from the owner 5 months ago\nThank you so much, your feedback truly means a lot to us. Hearing that you\u2019re happy with the workmanship, timeline, and overall value makes it all worth it. - Crystal & the GCM Team"
    }
   ],
+  "emails_found": [],
   "dm_snippets": [],
   "facebook_links": [
-   "https://www.facebook.com/atozbuildersllc"
+   "https://www.facebook.com/GCMakeovers/"
   ],
   "instagram_links": [
-   "https://www.instagram.com/Atozbuilder"
+   "https://www.instagram.com/acrylicgcmakeovers"
   ],
   "franchise_mentions": [],
   "niche_word_counts": {
-   "kitchen": 2,
-   "bath": 2,
+   "kitchen": 5,
+   "bath": 5,
    "roof": 0,
    "plumb": 0,
    "hvac": 0,
    "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 2
-  },
-  "g8_defects_measured": [
-   "gallery images over 1MB each: https://static.wixstatic.com/media/7e3855_ab94f87f394541aa937df04146e8b673~mv2.png/v1/fit/w_1920,h_1080,q_90,enc_avif,quality_auto/7e3855_ab94f87f394541aa937df0"
-  ],
-  "competitor_pool": [
-   {
-    "name": "Coastal Carolina Construction",
-    "url": "https://www.buildingcoastaldreams.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Creative Stone",
-    "url": "https://creativestonenc.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Kelley Construction",
-    "url": "https://kelley-con.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Novaroofing+construction LLC",
-    "url": "https://novaroofingconstruction.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Red River Renovation",
-    "url": "https://redriverrenovation.net/",
-    "gbp_address": null
-   },
-   {
-    "name": "Sligh Homes",
-    "url": "https://slighhomes.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Oak Island, NC"
-  ]
- },
- {
-  "id": "m2renovation.com",
-  "name": "M2Renovation",
-  "region": "R2",
-  "website": "https://www.m2renovation.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Wix"
-  ],
-  "pages_fetched": {
-   "home": [
-    "https://www.m2renovation.com/"
-   ],
-   "contact": [
-    "https://www.m2renovation.com/blank-2"
-   ],
-   "gallery": [
-    "https://www.m2renovation.com/gallery"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "site_dated_content",
-    "date": "2026-07-27",
-    "url": "https://www.m2renovation.com/post/bathroom-renovation-pricing-what-to-expect",
-    "quote": "rss:https://www.m2renovation.com/blog-feed.xml published Mon, 27 Jul 2026 13:15:12 GMT: 'Bathroom Renovation Pricing: What to Expect'"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZ1xJgI65yERzJFieAfRsGI&hl=en",
-  "gbp_title": "M2Renovation",
-  "gbp_address": null,
-  "gbp_rating": "5.0\n(52)",
-  "gbp_phone": "phone:tel:+17753207445",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Carolyn Ross",
-    "when": "9 months ago",
-    "stars": "5 stars",
-    "text": "I am highly pleased with the work that M. Malik completed in a ceiling repair. He was on-time although I gave him the wrong address. He was very understanding of the mistake on my part. He explained everthing throughly regarding the scope \u2026",
-    "owner": null
-   },
-   {
-    "reviewer": "malik tube",
-    "when": "Edited 2 months ago",
-    "stars": "5 stars",
-    "text": "Malik's personality and respectful manner allowed  me to trust his abilities to make a scary roof leak a memory. He handled it quickly and professionally and I will reach out to him for future projects. He has improved my house from the foundation to the roof and I have no complaints only praise.",
-    "owner": "Response from the owner 2 months ago\nThank you so much for taking the time to leave such a thoughtful review. It really means a lot to us. We appreciate the trust you placed in M2Renovation and it was a pleasure helping bring that project together. We look forward to working with you again whenever you need us. Thank you for your support!"
-   },
-   {
-    "reviewer": "Lexi Jones",
-    "when": "2 years ago",
-    "stars": "5 stars",
-    "text": "First off let me start by saying that Malik is one of, if not the best contractor I\u2019ve came across in a very long time. He is prompt, professional, pays attention to detail, but also is very personable and has great customer service. \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "mmalik@m2renovation.com",
-    "how": "mailto",
-    "raw": "href=\"mailto:MMalik@M2Renovation.com",
-    "page": "https://www.m2renovation.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "https://www.facebook.com/share/1Hgbg1KvHx/"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/m2renovation__"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 1,
-   "bath": 1,
-   "roof": 0,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 1,
-   "floor": 0,
+   "floor": 1,
    "cabinet": 0,
    "siding": 0,
    "window": 0,
@@ -228,162 +88,43 @@
    "custom home": 0
   },
   "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 43"
+   "mobile performance score below 60: PSI mobile performance 43",
+   "gallery images over 1MB each: https://www.gcmakeovers.com/pics/parallax-barn.webp = 1,234,722 bytes; https://www.gcmakeovers.com/images/testimonials-bg.jpg = 1,354,414 bytes; https://www.gcm"
   ],
   "competitor_pool": [
    {
-    "name": "AAA TILE AND MARBLE",
-    "url": "https://aaatileandmarble.com/",
+    "name": "1st Ranked Contractors",
+    "url": "https://1strankedcontractors.com/",
     "gbp_address": null
    },
    {
-    "name": "Angel Oak Home",
-    "url": "https://angeloakdesign.com/password",
+    "name": "Atlantic Remodeling",
+    "url": "https://atlanticremodels.com/",
     "gbp_address": null
    },
    {
-    "name": "ASI Global Partitions",
-    "url": "https://asi-globalpartitions.com/",
+    "name": "Atlantic View Builders & Remodeling",
+    "url": "https://atlanticviewbuilders.com/",
     "gbp_address": null
    },
    {
-    "name": "Bryant Home Renovations LLC",
-    "url": "https://www.bryanthomerenovations.com/",
+    "name": "Best Price KitchenBath",
+    "url": "https://bestpricekitchenbath.co/",
     "gbp_address": null
    },
    {
-    "name": "Currahee Home Builders",
-    "url": "https://curraheehomebuilders.com/",
+    "name": "Callaway Corporations LLC",
+    "url": "https://callawaycorporationllc.com/",
     "gbp_address": null
    },
    {
-    "name": "Habersham Home",
-    "url": "https://habershamhome.com/",
+    "name": "Coastal Bath Company",
+    "url": "https://www.coastalbaths.com/",
     "gbp_address": null
    }
   ],
   "locations_seen": [
-   "Toccoa, GA"
-  ]
- },
- {
-  "id": "wozniakbuilders.com",
-  "name": "Wozniak Builders, Inc",
-  "region": "R2",
-  "website": "http://www.wozniakbuilders.com/",
-  "bench_vendor_route": false,
-  "incumbent_vendor": null,
-  "platform": [
-   "Squarespace"
-  ],
-  "pages_fetched": {
-   "home": [
-    "http://www.wozniakbuilders.com/"
-   ],
-   "contact": [
-    "http://www.wozniakbuilders.com/contact"
-   ],
-   "about": [
-    "http://www.wozniakbuilders.com/about"
-   ],
-   "gallery": [
-    "http://www.wozniakbuilders.com/gallery-kitchens",
-    "http://www.wozniakbuilders.com/gallery-2"
-   ]
-  },
-  "auto_signals": [
-   {
-    "type": "google_review",
-    "date": "2026-08-16..2026-09-18",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJb80YNZhU3YgRlrNqglku1OI&hl=en",
-    "quote": "Michelle Ivey: 'a month ago' (Google relative timestamp, retrieved 2026-10-19)"
-   }
-  ],
-  "need_signal_types": 1,
-  "gbp_url": "https://www.google.com/maps/place/?q=place_id:ChIJb80YNZhU3YgRlrNqglku1OI&hl=en",
-  "gbp_title": "Wozniak Builders, Inc",
-  "gbp_address": "\ue0c8\n14220 8th St Ste 101, Dade City, FL 33523, United States",
-  "gbp_rating": "4.7\n(46)",
-  "gbp_phone": "phone:tel:+18133774944",
-  "gbp_reviews_visible": [
-   {
-    "reviewer": "Michelle Ivey",
-    "when": "a month ago",
-    "stars": "5 stars",
-    "text": "The team at Wozniak did an exceptional job with our handicap adaptive home remodel. They were very professional and communicative throughout the entire process. We utilized VA grants for my disabled husband and they went over and beyond \u2026",
-    "owner": "Response from the owner a month ago\nThank you so much for the kind words and recommendation. It was truly an honor to help make your home safer, more accessible, and better suited for your family. We greatly appreciate the trust you placed in our team throughout the process and are so glad to hear you\u2019re happy with the finished remodel!"
-   },
-   {
-    "reviewer": "Sergio Pages",
-    "when": "2 months ago",
-    "stars": "5 stars",
-    "text": "Incredible Work, Fair Pricing, and Total Peace of Mind! \u2b50\u2b50\u2b50\u2b50\u2b50After 41 years in Tampa, relocating Sergio\u2019s Jewelry to Dade City was a massive undertaking. We took over two tiny suites in a 60-year-old motel and desperately needed a \u2026",
-    "owner": "Response from the owner 2 months ago\nSergio, \nThank you so much for this thoughtful review, and for trusting us with Sergio's Jewelry's move to Dade City! Relocating a business after 41 years is a big deal, \u2026 More"
-   },
-   {
-    "reviewer": "Jayson St.Pierre",
-    "when": "a year ago",
-    "stars": "5 stars",
-    "text": "Great company to work with. We did a complete remodel of an our clubhouse and the results were amazing. This was from roof to exterior walls to a complete interior remodel as well. They did a rendering of interior/exterior and the final was \u2026",
-    "owner": null
-   }
-  ],
-  "emails_found": [
-   {
-    "email": "info@wozniakbuilders.com",
-    "how": "plain text",
-    "raw": "info@wozniakbuilders.com",
-    "page": "http://www.wozniakbuilders.com/"
-   }
-  ],
-  "dm_snippets": [],
-  "facebook_links": [
-   "http://www.facebook.com/2008/fbml",
-   "http://www.facebook.com/wozniakbuildersinc"
-  ],
-  "instagram_links": [
-   "https://www.instagram.com/wozniakbuilders"
-  ],
-  "franchise_mentions": [],
-  "niche_word_counts": {
-   "kitchen": 8,
-   "bath": 5,
-   "roof": 2,
-   "plumb": 0,
-   "hvac": 0,
-   "handyman": 0,
-   "floor": 0,
-   "cabinet": 0,
-   "siding": 0,
-   "window": 0,
-   "pool": 0,
-   "solar": 0,
-   "custom home": 9
-  },
-  "g8_defects_measured": [
-   "mobile performance score below 60: PSI mobile performance 40",
-   "not served over HTTPS / invalid certificate: final URL scheme http; https:// probe: {'https_status': 200}",
-   "gallery images over 1MB each: https://images.squarespace-cdn.com/content/v1/571667f8c6fc08d404858f6c/793c4c29-a282-4f2c-9dd8-7e9d50ee62bd/F3D3F495-9E0C-4722-8E40-86516DF0D4FE.png?format=2500"
-  ],
-  "competitor_pool": [
-   {
-    "name": "18 Construction Kitchen and Bathroom Remodel Management Group LLC",
-    "url": "https://18projectsm.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "BathTubGuys Refinishing (Orlando)",
-    "url": "https://bathtubguys.com/",
-    "gbp_address": null
-   },
-   {
-    "name": "Nova Kitchen Bath Design LLC",
-    "url": "https://novakitchenbathdesign.com/",
-    "gbp_address": null
-   }
-  ],
-  "locations_seen": [
-   "Dade City, FL"
+   "Seaford, DE"
   ]
  }
 ]
