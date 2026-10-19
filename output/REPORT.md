@@ -1,10 +1,16 @@
-# Remodel 100: final report (run date 2026-10-14, updated 2026-10-18)
+# Remodel 100: final report (run date 2026-10-14, updated 2026-10-19)
 
 **Result so far: 63 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard
 gates on evidence, every one passed a visual photo review, all 63 have template content captured, and each
 gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "Still in progress").
 
 ## How the count grew (18, then 24, 36, 40, 44, 46, 48, 49, 53, 54, 59, 61, 62, 63)
+- **2026-10-19: no change (63).** Discovery rounds 12 to 16 (1,500 more towns of 4,000 people and up) and a deeper
+  photo crawl that follows each firm's portfolio, project and gallery pages (5,509 firms; 1,011 reached 8 originals).
+  88 agent checks followed in waves 21 to 23: none passed. Most failed niche; the kitchen and bath specialists that
+  remained stopped at G4 (one dated activity type only) or G6 (no full name on their own site) and are now first in
+  `GEMINI_NEXT.md`. Two firms reached every gate and were ruled out on niche by the coordinator (Stebnitz Builders,
+  MGC Remodeling: generic remodeling titles, kitchen and bath among eight or more service lines).
 - **PageSpeed Insights with an API key (2026-10-17).** 39 of the 46 have a mobile performance score below 60 as their
   measured defect.
 - **Review dates you supplied through Gemini** for 109 firms. 4 passed that way, and you confirmed all 4 while signed in.
@@ -27,13 +33,13 @@ gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "St
 ## Counts (current)
 | | |
 |---|---|
-| Discovered (unique companies after dedupe) | 36,979 |
+| Discovered (unique companies after dedupe) | 58,347 |
 | **Passed all gates** (`prospects100.csv`) | **63** |
 | Contact-only (everything except a published email) | 10 |
-| Bench-vendor (failed only G3; vendor named; G8 defect measured) | 13 |
-| Rejected or not yet completed (`rejected.csv`) | 36,781 |
+| Bench-vendor (failed only G3; vendor named; G8 defect measured) | 12 |
+| Rejected or not yet completed (`rejected.csv`) | 58,086 |
 
-Rejections by first failing gate: G4 11,049; G2 10,350; G3 7,559; NICHE 7,433; G5 331; G6 44; G7 14; G8 1. G4 is still
+Rejections by first failing gate: G2 18,635; G4 14,845; NICHE 14,245; G3 9,951; G5 343; G6 51; G7 14; G8 2. G4 is still
 the main filter: most firms show no dated review, post, job or permit inside 2026-07-16 to 2026-10-14.
 
 ## Top 10 by score (out of 25)
@@ -57,11 +63,14 @@ the main filter: most firms show no dated review, post, job or permit inside 202
   Microsoft Ads 1, Angi 1.
 
 ## Still in progress
-- Gemini file I (59 firms from discovery round 10) is with you; `tools/ingest_gemini_all.py` imports it the same way
-  as files A to H.
-- Discovery round 11 (254 towns) is running; its firms go through the same automated gates and agent checks.
-- Google review dates cannot be read anonymously: Maps shows 3 reviews in "limited view", and the internal review
-  endpoints return 403 even inside a browser session.
+- `output/review_requests/all/GEMINI_NEXT.md` is the single cumulative Gemini file (about 580 firms). Firms that agents
+  already confirmed as kitchen and bath specialists are listed first; one in-window Google review completes their G4.
+  `tools/ingest_gemini_all.py` imports the CSV Gemini returns.
+- Discovery round 16 (site checks) and round 17 (269 towns) are running. The pool of unsearched towns of 4,000 to
+  100,000 people is nearly used up in the West (29 left on the West Coast, about 170 in the South-central and Mountain
+  states).
+- Google review dates cannot be read anonymously: Maps shows 3 reviews in "limited view", sorting by newest does nothing
+  there, and the internal review endpoints return 403 even inside a browser session.
 
 ## Where I or the agents were tempted to infer, and rejected instead
 460 entries are recorded in the agents' `inference_rejected` fields in `data/manual/`. The main patterns:

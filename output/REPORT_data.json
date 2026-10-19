@@ -1,32 +1,32 @@
 {
  "funnel": {
-  "discovered": 23734,
-  "screened": 19121,
-  "reject_G3": 5546,
-  "reject_G4": 7937,
-  "reject_G2": 5935,
-  "reject_NICHE": 3855,
-  "reject_G6": 31,
-  "reject_G5": 282,
-  "passed": 46,
-  "contact_only": 9,
-  "duplicate_merged": 70,
-  "reject_G8": 1,
-  "bench_vendor": 9,
-  "reject_G7": 13,
-  "rejected_total": 23600
+  "discovered": 58347,
+  "reject_NICHE": 14245,
+  "duplicate_merged": 176,
+  "screened": 40420,
+  "reject_G3": 9951,
+  "reject_G4": 14845,
+  "reject_G2": 18635,
+  "reject_G6": 51,
+  "passed": 63,
+  "reject_G5": 343,
+  "contact_only": 10,
+  "reject_G8": 2,
+  "bench_vendor": 12,
+  "reject_G7": 14,
+  "rejected_total": 58086
  },
  "rejections_per_gate": {
-  "G4": 7937,
-  "G2": 5935,
-  "G3": 5546,
-  "NICHE": 3855,
-  "G5": 282,
-  "G6": 31,
-  "G7": 13,
-  "G8": 1
+  "G2": 18635,
+  "G4": 14845,
+  "NICHE": 14245,
+  "G3": 9951,
+  "G5": 343,
+  "G6": 51,
+  "G7": 14,
+  "G8": 2
  },
- "passed": 46,
+ "passed": 63,
  "top10": [
   {
    "rank": "1",
@@ -63,13 +63,21 @@
   {
    "rank": "5",
    "score_total": "13",
+   "business_name": "3 Day Cabinet Pros and More",
+   "region": "R3",
+   "score_trigger_evidence": "NONE FOUND",
+   "G8_defect": "mobile performance score below 60"
+  },
+  {
+   "rank": "6",
+   "score_total": "13",
    "business_name": "All Exclusive Construction Inc",
    "region": "R5",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "6",
+   "rank": "7",
    "score_total": "13",
    "business_name": "Ann Arbor Remodeling",
    "region": "R3",
@@ -77,7 +85,7 @@
    "G8_defect": "gallery images over 1MB each"
   },
   {
-   "rank": "7",
+   "rank": "8",
    "score_total": "13",
    "business_name": "Assembly Squad Remodeling Chicago",
    "region": "R3",
@@ -85,7 +93,7 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "8",
+   "rank": "9",
    "score_total": "13",
    "business_name": "Craft Home Remodeling",
    "region": "R5",
@@ -93,41 +101,34 @@
    "G8_defect": "mobile performance score below 60"
   },
   {
-   "rank": "9",
+   "rank": "10",
    "score_total": "13",
    "business_name": "Forward Design Build Remodel",
    "region": "R3",
    "score_trigger_evidence": "NONE FOUND",
    "G8_defect": "mobile performance score below 60"
-  },
-  {
-   "rank": "10",
-   "score_total": "13",
-   "business_name": "Hamlett Renovations",
-   "region": "R1",
-   "score_trigger_evidence": "NONE FOUND",
-   "G8_defect": "mobile performance score below 60"
   }
  ],
  "defects": {
-  "mobile performance score below 60": 39,
-  "gallery images over 1MB each": 5,
-  "horizontal overflow at 375px": 2
+  "mobile performance score below 60": 52,
+  "gallery images over 1MB each": 8,
+  "horizontal overflow at 375px": 3
  },
  "trigger_summary": {
   "event": 2,
-  "NONE FOUND": 44
+  "NONE FOUND": 61
  },
  "g9_signals": {
-  "Google Ads conversion tag (AW-)": 18,
-  "Meta Pixel fbevents.js": 15,
-  "Houzz Pro": 6,
+  "Google Ads conversion tag (AW-)": 23,
+  "Meta Pixel fbevents.js": 19,
+  "Houzz Pro": 10,
+  "Google Ads (googleadservices / AW- conversion)": 3,
+  "Buildertrend": 2,
   "CallRail": 2,
   "HomeAdvisor": 1,
-  "Buildertrend": 1,
   "Microsoft Ads UET bat.bing.com": 1,
-  "Google Ads (googleadservices / AW- conversion)": 1,
-  "Angi": 1
+  "Angi": 1,
+  "Thumbtack": 1
  },
  "temptations": [
   {
