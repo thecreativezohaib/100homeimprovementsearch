@@ -21,8 +21,14 @@
   "eyebrow": "Midtown Oklahoma City design-build",
   "h1": "Kitchen Remodeling in Oklahoma City, Designed and Built In-House",
   "subheadline": "OKC Kitchen & Bath is a design-focused team led by owners Ryan Johnson and Cynjn Johnson. A senior designer plans your kitchen, bath or whole home, and the same company builds it.",
-  "primary_cta": {"label": "Call (405) 693-4737", "href": "tel:+14056934737"},
-  "secondary_cta": {"label": "Book a discovery call", "href": "#contact"},
+  "primary_cta": {
+   "label": "Call (405) 693-4737",
+   "href": "tel:+14056934737"
+  },
+  "secondary_cta": {
+   "label": "Book a discovery call",
+   "href": "#contact"
+  },
   "trust_badges": [
    "5.0 stars from 21 Google reviews",
    "Owner-led by Ryan and Cynjn Johnson",
@@ -47,32 +53,56 @@
    {
     "name": "Kitchen Remodel",
     "blurb": "Layout, lighting, custom cabinetry and finishes planned together, so the kitchen works as well as it looks. A cabinet meeting at your home settles sizing, spacing and storage before construction. One client went from a 1980s kitchen to a modern one, gold sink included.",
-    "image": {"url": "https://okckitchenandbath.com/wp-content/uploads/2025/12/Cosbyy_Kitchen_After-01-2.jpg", "alt": "Evergreen kitchen remodel with muted green cabinets, a white quartz island and stainless steel appliances"}
+    "image": {
+     "url": "https://okckitchenandbath.com/wp-content/uploads/2025/12/Cosbyy_Kitchen_After-01-2.jpg",
+     "alt": "Evergreen kitchen remodel with muted green cabinets, a white quartz island and stainless steel appliances"
+    }
    },
    {
     "name": "Bathroom Remodel",
     "blurb": "Bathrooms built for calm, using timeless materials and bespoke details. Past work runs from a moody black-tile bath to a primary bath with a soaking tub and a 10-foot floating vanity. Showers, vanities, tile and lighting are designed and installed by the same team.",
-    "image": {"url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/78089a41191f13fdfab416f5c7db2b019e047be3-scaled.jpg", "alt": "Stone Gate Lodge bathroom with green handmade tile walls, a long dark-topped double vanity and a glass shower enclosure"}
+    "image": {
+     "url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/78089a41191f13fdfab416f5c7db2b019e047be3-scaled.jpg",
+     "alt": "Stone Gate Lodge bathroom with green handmade tile walls, a long dark-topped double vanity and a glass shower enclosure"
+    }
    },
    {
     "name": "Whole Home Renovation",
     "blurb": "Several rooms remodeled with one consistent design. The Stone Gate Lodge combined an expanded kitchen, an opened-up bath, refinished hickory, iron railings and a pair of new iron doors, with soapstone and unlacquered brass chosen to patina over time.",
-    "image": {"url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/03c6102f2db64294e0da9dbba73d4aef9d7ea51d-scaled.jpg", "alt": "Renovated staircase with wood treads, black iron railings and white walls in the Stone Gate Lodge whole-home remodel"}
+    "image": {
+     "url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/03c6102f2db64294e0da9dbba73d4aef9d7ea51d-scaled.jpg",
+     "alt": "Renovated staircase with wood treads, black iron railings and white walls in the Stone Gate Lodge whole-home remodel"
+    }
    },
    {
     "name": "Interior Design",
     "blurb": "Design is in-house and included in every project. Senior Designer Mel Wanzer leads in-person design meetings, builds mood boards with curated material options and helps you choose finishes. Reviewers say the team had great ideas about color and design, and one found the exact gold sink a client wanted.",
-    "image": {"url": "https://okckitchenandbath.com/wp-content/uploads/2025/11/4U7A9827_resized2-scaled-e1763397384934.jpg", "alt": "OKC Kitchen & Bath designers comparing tile samples and wood flooring planks on a kitchen counter"}
+    "image": {
+     "url": "https://okckitchenandbath.com/wp-content/uploads/2025/11/4U7A9827_resized2-scaled-e1763397384934.jpg",
+     "alt": "OKC Kitchen & Bath designers comparing tile samples and wood flooring planks on a kitchen counter"
+    }
    }
   ]
  },
  "why_choose_us": {
   "h2": "What sets the OKC Kitchen & Bath team apart",
   "items": [
-   {"title": "Owners on both sides of the job", "text": "Ryan Johnson heads construction and Cynjn Johnson heads pre-construction, so an owner is responsible for both the plan and the build."},
-   {"title": "A cabinet meeting in your kitchen", "text": "Before construction starts, the team meets at your home to settle cabinet sizing, spacing and storage, from where appliances go to how the room flows."},
-   {"title": "A clear fit from the first call", "text": "Projects begin at $40,000 and include full interior design. The discovery call covers your goals and budget first, so nobody's time is wasted."},
-   {"title": "A crew reviewers know by name", "text": "Google reviewers name Chandler, Cynjn, Mel and Ryan, and say the crew worked hard, paid attention to every detail and kept them informed."}
+   {
+    "title": "Owners on both sides of the job",
+    "text": "Ryan Johnson heads construction and Cynjn Johnson heads pre-construction, so an owner is responsible for both the plan and the build."
+   },
+   {
+    "title": "A cabinet meeting in your kitchen",
+    "text": "Before construction starts, the team meets at your home to settle cabinet sizing, spacing and storage, from where appliances go to how the room flows."
+   },
+   {
+    "title": "A clear fit from the first call",
+    "text": "Projects begin at $40,000 and include full interior design. The discovery call covers your goals and budget first, so nobody's time is wasted."
+   },
+   {
+    "title": "A crew reviewers know by name",
+    "text": "Google reviewers name Chandler, Cynjn, Mel and Ryan, and say the crew worked hard, paid attention to every detail and kept them informed."
+   }
   ]
  },
  "about": {
@@ -80,66 +110,158 @@
   "text": "OKC Kitchen & Bath is owned by Ryan Johnson, Owner and Head of Construction, and Cynjn Johnson, Owner and Head of Pre-Construction. Together they run a design-build team in Midtown Oklahoma City that treats each home as a living work of art. Senior Designer Mel Wanzer leads design and selections, and Director of Field Operations Chandler Francis runs the work in the field. The company follows five core values, including Right Things, Right Way and Present in the Work. One Edmond client wrote that Cynjn did everything he promised.",
   "owner_name": "Ryan Johnson",
   "owner_role": "Owner & Head of Construction (co-owner with Cynjn Johnson)",
-  "image": {"url": "https://okckitchenandbath.com/wp-content/uploads/2025/11/KABStudio-72-2.jpg", "alt": "The four-person OKC Kitchen & Bath leadership team in a group portrait"}
+  "image": {
+   "url": "https://okckitchenandbath.com/wp-content/uploads/2025/11/KABStudio-72-2.jpg",
+   "alt": "The four-person OKC Kitchen & Bath leadership team in a group portrait"
+  }
  },
  "process": {
   "h2": "Seven steps, from discovery call to final walkthrough",
   "steps": [
-   {"title": "Discovery call", "text": "A phone call about your goals and budget to make sure OKC Kitchen & Bath is the right partner before anyone visits."},
-   {"title": "In-home consultation and proposal", "text": "The team walks your space, then you meet at the Midtown office to review a proposal and an early visual direction."},
-   {"title": "Design and selections", "text": "In-person design meetings and mood boards with curated materials, refined with you until every element fits your vision."},
-   {"title": "Cabinet meeting", "text": "A meeting in your home about cabinet sizing, spacing and function, so storage and daily flow work before the build begins."},
-   {"title": "Build and walkthrough", "text": "Construction follows the agreed plan with clear communication, and ends with a detailed cleaning and a final walkthrough together."}
+   {
+    "title": "Discovery call",
+    "text": "A phone call about your goals and budget to make sure OKC Kitchen & Bath is the right partner before anyone visits."
+   },
+   {
+    "title": "In-home consultation and proposal",
+    "text": "The team walks your space, then you meet at the Midtown office to review a proposal and an early visual direction."
+   },
+   {
+    "title": "Design and selections",
+    "text": "In-person design meetings and mood boards with curated materials, refined with you until every element fits your vision."
+   },
+   {
+    "title": "Cabinet meeting",
+    "text": "A meeting in your home about cabinet sizing, spacing and function, so storage and daily flow work before the build begins."
+   },
+   {
+    "title": "Build and walkthrough",
+    "text": "Construction follows the agreed plan with clear communication, and ends with a detailed cleaning and a final walkthrough together."
+   }
   ]
  },
  "gallery": {
   "h2": "Five homes from the OKC Kitchen & Bath portfolio",
   "images": [
-   {"url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/8f665b4e1afbf9b37e549f82a4653ea5f6db891f-scaled.jpg", "alt": "Walk-in shower with green handmade tile walls, dual showerheads and a black stone bench", "caption": "Stone Gate Lodge shower"},
-   {"url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/13081ad8e8870a42b5fb5d2bcabee58979f07616-scaled.jpg", "alt": "Black rectangular sinks with brass wall-mounted faucets against a green tile backsplash", "caption": "Brass on green tile"},
-   {"url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/3da493bec2fa63673e20b13eaf36e35ebc7427d6-scaled.jpg", "alt": "Kitchen with dark lower cabinets, white oak uppers, a stone slab backsplash and stainless gas range", "caption": "Stone Gate Lodge kitchen"},
-   {"url": "https://okckitchenandbath.com/wp-content/uploads/2025/12/Cosby-Master-Bath-01.jpg", "alt": "Primary bathroom with green cabinetry, a walk-in glass shower and a white soaking tub under a skylight", "caption": "Evergreen primary bath"},
-   {"url": "https://okckitchenandbath.com/wp-content/uploads/2025/12/KitchenBath-5-1.jpg", "alt": "Kitchen with a large island, black cabinetry and gold pendant lighting", "caption": "Walnut Cove kitchen"},
-   {"url": "https://okckitchenandbath.com/wp-content/uploads/2026/01/Foster_Remodel-44.jpg", "alt": "Glass-enclosed shower with black tile walls and a brushed gold showerhead", "caption": "The Foster Home bath"},
-   {"url": "https://okckitchenandbath.com/wp-content/uploads/2025/12/K_B-Remodel-OKC-1-2-2.jpg", "alt": "Kitchen with white cabinetry, dark countertops and a central island with a black faucet", "caption": "Modern Haven kitchen"},
-   {"url": "https://okckitchenandbath.com/wp-content/uploads/2025/11/KAB_10.14-8-e1763400779737.jpg", "alt": "White soaking tub with a matte black wall-mounted faucet and blue patterned tile", "caption": "Patterned tile tub wall"}
+   {
+    "url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/8f665b4e1afbf9b37e549f82a4653ea5f6db891f-scaled.jpg",
+    "alt": "Walk-in shower with green handmade tile walls, dual showerheads and a black stone bench",
+    "caption": "Stone Gate Lodge shower"
+   },
+   {
+    "url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/13081ad8e8870a42b5fb5d2bcabee58979f07616-scaled.jpg",
+    "alt": "Black rectangular sinks with brass wall-mounted faucets against a green tile backsplash",
+    "caption": "Brass on green tile"
+   },
+   {
+    "url": "https://okckitchenandbath.com/wp-content/uploads/2026/05/3da493bec2fa63673e20b13eaf36e35ebc7427d6-scaled.jpg",
+    "alt": "Kitchen with dark lower cabinets, white oak uppers, a stone slab backsplash and stainless gas range",
+    "caption": "Stone Gate Lodge kitchen"
+   },
+   {
+    "url": "https://okckitchenandbath.com/wp-content/uploads/2025/12/Cosby-Master-Bath-01.jpg",
+    "alt": "Primary bathroom with green cabinetry, a walk-in glass shower and a white soaking tub under a skylight",
+    "caption": "Evergreen primary bath"
+   },
+   {
+    "url": "https://okckitchenandbath.com/wp-content/uploads/2025/12/KitchenBath-5-1.jpg",
+    "alt": "Kitchen with a large island, black cabinetry and gold pendant lighting",
+    "caption": "Walnut Cove kitchen"
+   },
+   {
+    "url": "https://okckitchenandbath.com/wp-content/uploads/2026/01/Foster_Remodel-44.jpg",
+    "alt": "Glass-enclosed shower with black tile walls and a brushed gold showerhead",
+    "caption": "The Foster Home bath"
+   },
+   {
+    "url": "https://okckitchenandbath.com/wp-content/uploads/2025/12/K_B-Remodel-OKC-1-2-2.jpg",
+    "alt": "Kitchen with white cabinetry, dark countertops and a central island with a black faucet",
+    "caption": "Modern Haven kitchen"
+   },
+   {
+    "url": "https://okckitchenandbath.com/wp-content/uploads/2025/11/KAB_10.14-8-e1763400779737.jpg",
+    "alt": "White soaking tub with a matte black wall-mounted faucet and blue patterned tile",
+    "caption": "Patterned tile tub wall"
+   }
   ]
  },
  "testimonials": {
   "h2": "What OKC homeowners wrote on Google",
   "items": [
-   {"name": "Debby D.", "text": "We had a total kitchen remodel. It took us from the 1980s kitchen to a new, modern kitchen. The crew Chandler, Cyngin, Mel and Ryan were so hard -working and paid attention to every detail. Mel even found me the gold sink i wanted.", "source": "Google", "date": "3 months ago as of 2026-10-17 (as shown on Google)"},
-   {"name": "Julie B.", "text": "The entire team at OKC Kitchen & Bath was a pleasure to work with! They remodeled my master bath and kitchen while also replacing the floor throughout most of the house.", "source": "Google", "date": "edited 10 months ago as of 2026-10-17 (as shown on Google)"},
-   {"name": "Lara M.", "text": "We couldn’t be happier with our renovation! From the very beginning, communication was excellent.", "source": "Google", "date": "2 months ago as of 2026-10-17 (as shown on Google)"}
+   {
+    "name": "Debby D.",
+    "text": "We had a total kitchen remodel. It took us from the 1980s kitchen to a new, modern kitchen. The crew Chandler, Cyngin, Mel and Ryan were so hard -working and paid attention to every detail. Mel even found me the gold sink i wanted.",
+    "source": "Google",
+    "date": "3 months ago as of 2026-10-17 (as shown on Google)"
+   },
+   {
+    "name": "Julie B.",
+    "text": "The entire team at OKC Kitchen & Bath was a pleasure to work with! They remodeled my master bath and kitchen while also replacing the floor throughout most of the house.",
+    "source": "Google",
+    "date": "edited 10 months ago as of 2026-10-17 (as shown on Google)"
+   },
+   {
+    "name": "Lara M.",
+    "text": "We couldn’t be happier with our renovation! From the very beginning, communication was excellent.",
+    "source": "Google",
+    "date": "2 months ago as of 2026-10-17 (as shown on Google)"
+   }
   ]
  },
  "service_area": {
   "h2": "Serving Oklahoma City, Edmond, Nichols Hills and Norman",
   "text": "The team completes full-service projects across the Oklahoma City metro from its Midtown office. The site names Oklahoma City, Edmond and Nichols Hills, and past clients quoted on the home page live in Newcastle, Edmond and Norman. Proposal meetings happen at the Midtown office and design meetings are held in person, so most work stays within driving range of downtown.",
-  "towns": ["Oklahoma City, OK", "Edmond, OK", "Nichols Hills, OK", "Norman, OK", "Newcastle, OK"]
+  "towns": [
+   "Oklahoma City, OK",
+   "Edmond, OK",
+   "Nichols Hills, OK",
+   "Norman, OK",
+   "Newcastle, OK"
+  ]
  },
  "faq": {
   "h2": "Before you book a discovery call",
   "items": [
-   {"q": "What is the minimum project size?", "a": "Projects include full interior design services and begin at $40,000. The contact form asks you to pick a budget range, from $40,000 to $60,000 up to $200,000 and more, and a start window of as soon as possible, three to six months, or six months or later. That helps the team prepare for your call."},
-   {"q": "Is design included or extra?", "a": "Design is included. OKC Kitchen & Bath works as a design-build firm with an in-house designer, so you meet in person to review inspiration, build mood boards and pick materials. The same company then builds what you approved, which keeps the plan and the construction lined up."},
-   {"q": "What is the cabinet meeting?", "a": "It is step five of the process. Before construction begins, the team meets at your home to review cabinet sizing, spacing and function. The goal is a layout that works for daily life, from where appliances sit to how storage and traffic move through the room."},
-   {"q": "Can you keep some of my existing features?", "a": "Often, yes. One Norman client asked to keep the original cabinets in both her kitchen and master bathroom, and the team worked them into the final design while replacing the flooring through most of the house. Mention anything you want to keep on your discovery call."},
-   {"q": "Where do meetings take place?", "a": "The discovery call is by phone. The team then visits your home for a consultation and invites you to the Midtown Oklahoma City office at 12 NW 13th St., Suite 1E, to review the proposal and an early visual direction with the in-house designer."}
+   {
+    "q": "What is the minimum project size?",
+    "a": "Projects include full interior design services and begin at $40,000. The contact form asks you to pick a budget range, from $40,000 to $60,000 up to $200,000 and more, and a start window of as soon as possible, three to six months, or six months or later. That helps the team prepare for your call."
+   },
+   {
+    "q": "Is design included or extra?",
+    "a": "Design is included. OKC Kitchen & Bath works as a design-build firm with an in-house designer, so you meet in person to review inspiration, build mood boards and pick materials. The same company then builds what you approved, which keeps the plan and the construction lined up."
+   },
+   {
+    "q": "What is the cabinet meeting?",
+    "a": "It is step five of the process. Before construction begins, the team meets at your home to review cabinet sizing, spacing and function. The goal is a layout that works for daily life, from where appliances sit to how storage and traffic move through the room."
+   },
+   {
+    "q": "Can you keep some of my existing features?",
+    "a": "Often, yes. One Norman client asked to keep the original cabinets in both her kitchen and master bathroom, and the team worked them into the final design while replacing the flooring through most of the house. Mention anything you want to keep on your discovery call."
+   },
+   {
+    "q": "Where do meetings take place?",
+    "a": "The discovery call is by phone. The team then visits your home for a consultation and invites you to the Midtown Oklahoma City office at 12 NW 13th St., Suite 1E, to review the proposal and an early visual direction with the in-house designer."
+   }
   ]
  },
  "final_cta": {
   "h2": "Start with a discovery call",
   "text": "Call (405) 693-4737 or send your project details online, and the team will set up a call about your goals, timing and budget.",
-  "button": {"label": "Call (405) 693-4737", "href": "tel:+14056934737"},
+  "button": {
+   "label": "Call (405) 693-4737",
+   "href": "tel:+14056934737"
+  },
   "phone": "(405) 693-4737"
  },
  "footer": {
   "name": "OKC Kitchen & Bath",
   "address": "12 NW 13th St., Suite 1E, Oklahoma City, OK 73103",
   "phone": "(405) 693-4737",
-  "email": "team@okckitchenandbath.com",
-  "socials": ["https://www.facebook.com/kitchenandbathokc", "https://www.instagram.com/okckitchenandbath"],
+  "email": null,
+  "socials": [
+   "https://www.facebook.com/kitchenandbathokc",
+   "https://www.instagram.com/okckitchenandbath"
+  ],
   "hours": null
  },
  "schema_jsonld": {
@@ -148,20 +270,44 @@
   "name": "OKC Kitchen & Bath",
   "url": "https://okckitchenandbath.com/",
   "telephone": "+1-405-693-4737",
-  "email": "team@okckitchenandbath.com",
-  "founder": [{"@type": "Person", "name": "Ryan Johnson"}, {"@type": "Person", "name": "Cynjn Johnson"}],
-  "address": {"@type": "PostalAddress", "streetAddress": "12 NW 13th St., Suite 1E", "addressLocality": "Oklahoma City", "addressRegion": "OK", "postalCode": "73103", "addressCountry": "US"},
-  "areaServed": ["Oklahoma City, OK", "Edmond, OK", "Nichols Hills, OK", "Norman, OK", "Newcastle, OK"],
-  "sameAs": ["https://www.facebook.com/kitchenandbathokc", "https://www.instagram.com/okckitchenandbath"],
+  "founder": [
+   {
+    "@type": "Person",
+    "name": "Ryan Johnson"
+   },
+   {
+    "@type": "Person",
+    "name": "Cynjn Johnson"
+   }
+  ],
+  "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "12 NW 13th St., Suite 1E",
+   "addressLocality": "Oklahoma City",
+   "addressRegion": "OK",
+   "postalCode": "73103",
+   "addressCountry": "US"
+  },
+  "areaServed": [
+   "Oklahoma City, OK",
+   "Edmond, OK",
+   "Nichols Hills, OK",
+   "Norman, OK",
+   "Newcastle, OK"
+  ],
+  "sameAs": [
+   "https://www.facebook.com/kitchenandbathokc",
+   "https://www.instagram.com/okckitchenandbath"
+  ],
   "image": "https://okckitchenandbath.com/wp-content/uploads/2026/05/e119582b893be0d80f90b5e1991145bee9bbea21-scaled.jpg"
  },
  "conversion_notes": {
   "current_site_defects": [
    "Measured: Google PageSpeed mobile performance score 55.",
    "Phone mismatch: the site shows and links (405) 830-1184 on every page, while the Google Business Profile lists (405) 693-4737.",
-   "The Google profile shows no address, no hours, no listed category beyond 'Remodeler' and only 3 photos, even though the site publishes a Midtown office address and has dozens of project photos.",
+   "The Google profile shows no address, no hours, only the generic category 'Remodeler' and just 3 photos, even though the site publishes a Midtown office address and dozens of project photos.",
    "The home page H1 'Full-Service Luxury Home Design & Renovations' names no city or service keyword; 'OKC' appears only in the title tag.",
-   "The phone number in the footer is plain text on most pages and there is no call button in the header; the main action is a form.",
+   "The header has no phone number; the only number is in the footer, and the main call to action is the discovery-call form.",
    "No email address appears on the pages crawled, there is no FAQ, and the Google rating is not shown anywhere on the site.",
    "Only five pages exist; there are no separate kitchen or bathroom pages for the 'Learn More' links to rank on."
   ],
@@ -176,16 +322,42 @@
   "outreach_hook": "The number on your Google profile, (405) 693-4737, is not the one on your website, (405) 830-1184, and the profile shows no address, no hours and only 3 photos."
  },
  "facts_used": [
-  {"fact": "Name OKC Kitchen & Bath; phone +1 405-693-4737; no address or hours on the profile; 3 photos", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8Un_uiLN00RbLpIYoLiJcU&hl=en"},
-  {"fact": "Google rating 5.0 from 21 reviews (retrieved 2026-10-17); reviews by Debby Dobbs, Julie B, Lara Mazza", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8Un_uiLN00RbLpIYoLiJcU&hl=en"},
-  {"fact": "Ryan Johnson Owner & Head of Construction; Cynjn Johnson Owner & Head of Pre-Construction; Mel Wanzer Senior Designer; Chandler Francis Director of Field Operations; five core values", "source_url": "https://okckitchenandbath.com/about/"},
-  {"fact": "7-step process including discovery call, in-home consultation, proposal meeting at Midtown office, design meetings and mood boards, cabinet meeting at home, construction, cleaning and walkthrough", "source_url": "https://okckitchenandbath.com/services/"},
-  {"fact": "Projects include full interior design services and begin at $40,000; budget ranges and start windows on form", "source_url": "https://okckitchenandbath.com/contact/"},
-  {"fact": "Stone Gate Lodge whole-home renovation: soapstone, white oak, unlacquered brass, handmade tile, roman clay hood, soaking tub, 10-foot floating vanity, refinished hickory, iron railings and doors; Modern Haven, Evergreen, Walnut Cove and Foster Home projects", "source_url": "https://okckitchenandbath.com/portfolio/"},
-  {"fact": "Office 12 NW 13th St., Suite 1E, Oklahoma City, OK 73103; site phone (405) 830-1184; testimonials from Dave G. (Newcastle), Zach E. (Edmond), Julie B. (Norman)", "source_url": "https://okckitchenandbath.com/"},
-  {"fact": "Service across Oklahoma City, Edmond and Nichols Hills (meta description)", "source_url": "https://okckitchenandbath.com/"},
-  {"fact": "Email team@okckitchenandbath.com", "source_url": "https://okckitchenandbath.com/about/"},
-  {"fact": "Measured PageSpeed mobile performance 55", "source_url": "https://okckitchenandbath.com/"}
+  {
+   "fact": "Name OKC Kitchen & Bath; phone +1 405-693-4737; no address or hours on the profile; 3 photos",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8Un_uiLN00RbLpIYoLiJcU&hl=en"
+  },
+  {
+   "fact": "Google rating 5.0 from 21 reviews (retrieved 2026-10-17); reviews by Debby Dobbs, Julie B, Lara Mazza",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8Un_uiLN00RbLpIYoLiJcU&hl=en"
+  },
+  {
+   "fact": "Ryan Johnson Owner & Head of Construction; Cynjn Johnson Owner & Head of Pre-Construction; Mel Wanzer Senior Designer; Chandler Francis Director of Field Operations; five core values",
+   "source_url": "https://okckitchenandbath.com/about/"
+  },
+  {
+   "fact": "7-step process including discovery call, in-home consultation, proposal meeting at Midtown office, design meetings and mood boards, cabinet meeting at home, construction, cleaning and walkthrough",
+   "source_url": "https://okckitchenandbath.com/services/"
+  },
+  {
+   "fact": "Projects include full interior design services and begin at $40,000; budget ranges and start windows on form",
+   "source_url": "https://okckitchenandbath.com/contact/"
+  },
+  {
+   "fact": "Stone Gate Lodge whole-home renovation: soapstone, white oak, unlacquered brass, handmade tile, roman clay hood, soaking tub, 10-foot floating vanity, refinished hickory, iron railings and doors; Modern Haven, Evergreen, Walnut Cove and Foster Home projects",
+   "source_url": "https://okckitchenandbath.com/portfolio/"
+  },
+  {
+   "fact": "Office 12 NW 13th St., Suite 1E, Oklahoma City, OK 73103; site phone (405) 830-1184; testimonials from Dave G. (Newcastle), Zach E. (Edmond), Julie B. (Norman)",
+   "source_url": "https://okckitchenandbath.com/"
+  },
+  {
+   "fact": "Service across Oklahoma City, Edmond and Nichols Hills (meta description)",
+   "source_url": "https://okckitchenandbath.com/"
+  },
+  {
+   "fact": "Measured PageSpeed mobile performance 55",
+   "source_url": "https://okckitchenandbath.com/"
+  }
  ],
  "missing": [
   "Google Business Profile shows no street address; footer and schema use the office address from the website",
@@ -196,6 +368,6 @@
   "Owners' backgrounds and how Ryan and Cynjn Johnson are related not stated",
   "Typical project timelines not published",
   "Financing not mentioned",
-  "Source page for the email address was not recorded in the research file"
+  "Email address: research notes list team@okckitchenandbath.com, but it does not appear on any crawled page; confirm before publishing"
  ]
 }
