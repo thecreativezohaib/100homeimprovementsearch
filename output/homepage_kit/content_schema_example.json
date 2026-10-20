@@ -1,0 +1,21 @@
+{
+ "id": "example.com",
+ "business_name": "Example Kitchen & Bath",
+ "seo": {"title_tag": "Kitchen Remodeling in Raleigh, NC | Example Kitchen & Bath", "meta_description": "...", "primary_keyword": "kitchen remodeling Raleigh", "secondary_keywords": ["bathroom remodel Raleigh", "..."], "og_title": "...", "og_description": "..."},
+ "hero": {"eyebrow": "...", "h1": "...", "subheadline": "...", "primary_cta": {"label": "Call (919) 555-0100", "href": "tel:+19195550100"}, "secondary_cta": {"label": "Request a free estimate", "href": "#contact"}, "trust_badges": ["4.9 stars from 87 Google reviews", "..."], "image": {"url": "https://...", "alt": "..."}},
+ "intro": {"h2": "...", "paragraphs": ["...", "..."]},
+ "services": {"h2": "...", "items": [{"name": "...", "blurb": "...", "image": {"url": "https://...", "alt": "..."}}]},
+ "why_choose_us": {"h2": "...", "items": [{"title": "...", "text": "..."}]},
+ "about": {"h2": "...", "text": "...", "owner_name": "...", "owner_role": "...", "image": {"url": "https://... or null", "alt": "..."}},
+ "process": {"h2": "...", "steps": [{"title": "...", "text": "..."}]},
+ "gallery": {"h2": "...", "images": [{"url": "https://...", "alt": "...", "caption": "..."}]},
+ "testimonials": {"h2": "...", "items": [{"name": "Jane D.", "text": "exact words from the review", "source": "Google", "date": "2026-08 (as shown on Google)"}]},
+ "service_area": {"h2": "...", "text": "...", "towns": ["..."]},
+ "faq": {"h2": "...", "items": [{"q": "...", "a": "..."}]},
+ "final_cta": {"h2": "...", "text": "...", "button": {"label": "...", "href": "tel:..."}, "phone": "(919) 555-0100"},
+ "footer": {"name": "...", "address": "...", "phone": "...", "email": "... or null", "socials": ["https://..."], "hours": "... or null"},
+ "schema_jsonld": {"@context": "https://schema.org", "@type": "HomeAndConstructionBusiness", "name": "...", "url": "...", "telephone": "...", "address": {"@type": "PostalAddress", "streetAddress": "...", "addressLocality": "...", "addressRegion": "..", "postalCode": "..."}, "areaServed": ["..."], "sameAs": ["..."], "image": "https://..."},
+ "conversion_notes": {"current_site_defects": ["..."], "what_this_homepage_fixes": ["..."], "best_conversion_angle": "...", "outreach_hook": "..."},
+ "facts_used": [{"fact": "...", "source_url": "https://..."}],
+ "missing": ["licence number not published on site", "..."]
+}
