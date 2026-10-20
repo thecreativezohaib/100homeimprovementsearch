@@ -71,7 +71,7 @@
     "blurb": "Bathrooms planned for the space you have, with custom vanities and storage made in the same shop as the kitchens. The design expert works through layout and materials with you and provides 3D renderings, then the construction team builds it to plan.",
     "image": {
      "url": "https://www.aplushomeimprovements.com/wp-content/uploads/2025/04/Dana-Point-Home-Remodel-23-scaled.jpeg",
-     "alt": "Dana Point bathroom remodel with walnut floating vanity, white quartz counter, black fixtures and frameless glass shower"
+     "alt": "Dana Point bathroom remodel with walnut vanity, white quartz counter, black fixtures and frameless glass shower"
     }
    },
    {
@@ -170,7 +170,7 @@
    },
    {
     "url": "https://www.aplushomeimprovements.com/wp-content/uploads/2024/08/Laguna-Beach-1.jpeg",
-    "alt": "Laguna Beach kitchen remodel with light oak island, marble counters, black steel glass cabinets and ocean-view window",
+    "alt": "Laguna Beach kitchen remodel with light oak island, marble counters, black steel glass cabinets and large window",
     "caption": "Kitchen remodel, Laguna Beach"
    },
    {
@@ -352,19 +352,58 @@
   "outreach_hook": "Your homepage scores 38 on mobile and its main H1 never mentions kitchens or Anaheim, even though your cabinet shop is the best thing you have; here is a page that leads with the factory."
  },
  "facts_used": [
-  {"fact": "Name APlus Interior Design & Remodeling, address 401 E La Palma Ave, Anaheim, CA 92801, phone +1 949-458-2108, category Kitchen remodeler", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SpiDxrW3IARCSFZpeq5gfs&hl=en"},
-  {"fact": "4.9 stars from 57 Google reviews; review tags cabinet quality (7), custom kitchen (6)", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SpiDxrW3IARCSFZpeq5gfs&hl=en"},
-  {"fact": "Google reviews from Eric M. (cabinets bought 13 years ago; custom made in their shop in CA), Alice C. and Michelle V.", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SpiDxrW3IARCSFZpeq5gfs&hl=en"},
-  {"fact": "Abraham Tabrizi started in an Orange County garage, then Irvine workshop, then Anaheim factory; two generations; over four decades; BBB 'A Plus' rating; over 98 percent would recommend; more than half of projects from referrals", "source_url": "https://www.aplushomeimprovements.com/about-us/"},
-  {"fact": "Alex Tabrizi is a general contractor and certified designer who joined the family business over 25 years ago; complimentary in-home consultations followed by showroom and factory meeting", "source_url": "https://www.aplushomeimprovements.com/about-us/"},
-  {"fact": "Team includes designers, project managers, plumbers, electricians, engineers and specialty trades; all cabinetry custom built in Anaheim facility; cabinets for kitchens, baths, closets, entertainment centers; in-house production costs less than competitors", "source_url": "https://www.aplushomeimprovements.com/services/"},
-  {"fact": "Six-step process: in-home meet and greet, showroom design meeting and factory tour, estimate and contract, space planning and 3D rendering, production and install with assigned project manager, welcome home", "source_url": "https://www.aplushomeimprovements.com/our-process/"},
-  {"fact": "Bathroom remodels with custom vanities, storage and 3D renderings", "source_url": "https://www.aplushomeimprovements.com/bathroom-remodels/"},
-  {"fact": "Website testimonials: Rene (Laguna Hills) on old-world cabinet craftsmanship; Morgan (San Clemente) on kitchen, entertainment center, bathrooms and built-ins; David (Ladera Ranch)", "source_url": "https://www.aplushomeimprovements.com/client-testimonials/"},
-  {"fact": "Service area list of 30+ Orange County communities including Anaheim, Brea, Fullerton, Mission Viejo, Rancho Santa Margarita, San Clemente", "source_url": "https://www.aplushomeimprovements.com/area-we-serve/"},
-  {"fact": "Portfolio projects: 196 San Clemente, 195 Santa Ana, 194 Newport Coast, 193 Coto de Caza, 192 San Juan Capistrano, 191 Dana Point", "source_url": "https://www.aplushomeimprovements.com/"},
-  {"fact": "Social profiles: Facebook, Instagram, Houzz, Pinterest, Yelp, YouTube", "source_url": "https://www.aplushomeimprovements.com/"},
-  {"fact": "PageSpeed mobile 38", "source_url": "https://pagespeed.web.dev/analysis?url=https://www.aplushomeimprovements.com/"}
+  {
+   "fact": "Name APlus Interior Design & Remodeling, address 401 E La Palma Ave, Anaheim, CA 92801, phone +1 949-458-2108, category Kitchen remodeler",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SpiDxrW3IARCSFZpeq5gfs&hl=en"
+  },
+  {
+   "fact": "4.9 stars from 57 Google reviews; review tags cabinet quality (7), custom kitchen (6)",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SpiDxrW3IARCSFZpeq5gfs&hl=en"
+  },
+  {
+   "fact": "Google reviews from Eric M. (cabinets bought 13 years ago; custom made in their shop in CA), Alice C. and Michelle V.",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SpiDxrW3IARCSFZpeq5gfs&hl=en"
+  },
+  {
+   "fact": "Abraham Tabrizi started in an Orange County garage, then Irvine workshop, then Anaheim factory; two generations; over four decades; BBB 'A Plus' rating; over 98 percent would recommend; more than half of projects from referrals",
+   "source_url": "https://www.aplushomeimprovements.com/about-us/"
+  },
+  {
+   "fact": "Alex Tabrizi is a general contractor and certified designer who joined the family business over 25 years ago; complimentary in-home consultations followed by showroom and factory meeting",
+   "source_url": "https://www.aplushomeimprovements.com/about-us/"
+  },
+  {
+   "fact": "Team includes designers, project managers, plumbers, electricians, engineers and specialty trades; all cabinetry custom built in Anaheim facility; cabinets for kitchens, baths, closets, entertainment centers; in-house production costs less than competitors",
+   "source_url": "https://www.aplushomeimprovements.com/services/"
+  },
+  {
+   "fact": "Six-step process: in-home meet and greet, showroom design meeting and factory tour, estimate and contract, space planning and 3D rendering, production and install with assigned project manager, welcome home",
+   "source_url": "https://www.aplushomeimprovements.com/our-process/"
+  },
+  {
+   "fact": "Bathroom remodels with custom vanities, storage and 3D renderings",
+   "source_url": "https://www.aplushomeimprovements.com/bathroom-remodels/"
+  },
+  {
+   "fact": "Website testimonials: Rene (Laguna Hills) on old-world cabinet craftsmanship; Morgan (San Clemente) on kitchen, entertainment center, bathrooms and built-ins; David (Ladera Ranch)",
+   "source_url": "https://www.aplushomeimprovements.com/client-testimonials/"
+  },
+  {
+   "fact": "Service area list of 30+ Orange County communities including Anaheim, Brea, Fullerton, Mission Viejo, Rancho Santa Margarita, San Clemente",
+   "source_url": "https://www.aplushomeimprovements.com/area-we-serve/"
+  },
+  {
+   "fact": "Portfolio projects: 196 San Clemente, 195 Santa Ana, 194 Newport Coast, 193 Coto de Caza, 192 San Juan Capistrano, 191 Dana Point",
+   "source_url": "https://www.aplushomeimprovements.com/"
+  },
+  {
+   "fact": "Social profiles: Facebook, Instagram, Houzz, Pinterest, Yelp, YouTube",
+   "source_url": "https://www.aplushomeimprovements.com/"
+  },
+  {
+   "fact": "PageSpeed mobile 38",
+   "source_url": "https://pagespeed.web.dev/analysis?url=https://www.aplushomeimprovements.com/"
+  }
  ],
  "missing": [
   "California contractor licence (CSLB) number",
