@@ -26,9 +26,21 @@ def last_by_id(pattern):
     return out
 
 
+def richest_crawl(pattern):
+    """Per firm, the crawl record with the most page text (retries and the Python fallback can beat the first pass)."""
+    out = {}
+    def size(x):
+        return sum(len(p.get("text") or "") for p in x.get("pages", []) if not p.get("error"))
+    for f in sorted(glob.glob(pattern)):
+        for x in jl(f):
+            if x["id"] not in out or size(x) >= size(out[x["id"]]):
+                out[x["id"]] = x
+    return out
+
+
 def main():
     d = load(); L, site, maps, br, psi, dns, man, pre = d
-    crawl = last_by_id(f"{D}/fc_out*.jsonl")
+    crawl = richest_crawl(f"{D}/fc_out*.jsonl")
     g7 = last_by_id(f"{D}/g7verify.jsonl")
     vis = last_by_id(f"{D}/g7visual.jsonl")
     tmpl = {}
