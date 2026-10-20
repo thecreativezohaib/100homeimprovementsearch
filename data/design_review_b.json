@@ -1,0 +1,671 @@
+[
+  {
+    "id": "watermarkdesignbuild_com",
+    "url": "https://www.watermarkdesignbuild.com/",
+    "score": 9,
+    "verdict": "keep",
+    "style": "Navy and gold luxury builder",
+    "palette": "deep midnight navy (#0d1530 range), muted gold/tan buttons (#c4a265 range), warm off-white #f7f5f0 section backgrounds, white cards",
+    "typography": "Cormorant-style high-contrast serif for H1/H2 (gold second line 'Our process.'), clean humanist sans (Lato-like) for body, letterspaced uppercase sans for eyebrows and buttons",
+    "what_to_borrow": [
+      "Utility top bar above nav: license numbers left, 'Serving the Greater Tampa Bay Area' in gold center, hours plus phone right",
+      "Hero as two-line serif statement 'Your dream. / Our process.' with second line in gold, gold eyebrow 'TAMPA BAY'S PREMIUM DESIGN-BUILD CONTRACTOR', two buttons side by side: solid gold 'Book a Discovery Call' and outlined 'Call 813.684.6817', then two underlined text links",
+      "Thin white trust strip directly under hero: shield icon + license numbers, handshake icon + 'One team, one contract, design through build'",
+      "'What matters most to you right now?' self-segmentation list of 5 full-width outlined rows with gold arrows (see what you build, understand costs, etc.) as an intent router",
+      "Services as 3x2 photo cards with serif title and gold 'From $175K' price anchor under each, followed by centered gold CTA and underlined 'or call' phone link",
+      "Testimonial carousel of navy cards over a darkened project photo, quote in white, gold uppercase name plus project type, pause control",
+      "Numbered 5-step process row (gold numbered circles in pale cards) titled 'The Watermark Way' with 'Five stages. You always know what happens next.'",
+      "Interactive 'See what fits on your property' tool block as a lead magnet with price anchors per element",
+      "Closing CTA band 'Ready when you are. One call, and we walk your property.' over a navy-tinted kitchen photo, gold button plus underlined phone",
+      "Mobile sticky bottom bar: tagline 'Let's talk about what's possible for your property.' over two pill buttons, white 'Call' with phone icon and gold 'Book a Discovery Call'"
+    ],
+    "conversion_patterns": [
+      "Phone number visible in 4+ places (top bar, hero button, under every CTA, footer)",
+      "Single consistent primary CTA 'Book a Discovery Call' repeated after each section",
+      "Price anchors 'From $X' on every service card qualify leads",
+      "License numbers as trust signal in top bar, trust strip and footer",
+      "Free planning tool as soft-conversion lead magnet",
+      "Sticky mobile call bar with two thumb-sized pills"
+    ],
+    "mobile_notes": "Excellent. Hero stacks centered with full-width gold and outlined buttons, intent-router rows become full-width tappable rows, service cards go 2-up with prices intact, process becomes a vertical numbered list, and the sticky Call / Book bar stays pinned on every scroll position. Testimonial carousel peeks the next card. Weak point: hero has no photo on mobile, just navy.",
+    "weaknesses": [
+      "Hero has no imagery, a plain navy field (photo may have failed to load) so the first screen sells less visually than it could",
+      "Project photography is decent but builder-grade (bright HDR pool shots), not editorial",
+      "No star rating or review count shown near the hero",
+      "Process cards are labels only, no description"
+    ],
+    "capture_issues": "A Cloudflare 'We couldn't verify the security of your connection' message is ghosted over the hero text on desktop and mobile; hero background image likely blocked. Last mobile slice is mostly empty.",
+    "sections": [
+      {
+        "section": "header_nav",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/header_nav/watermarkdesignbuild_com__desktop.jpg",
+        "why": "Two-tier header: license/service-area/hours+phone utility bar over a slim navy nav with outlined Login and solid gold 'Book a Discovery Call'"
+      },
+      {
+        "section": "services",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/services/watermarkdesignbuild_com__desktop.jpg",
+        "why": "3x2 photo cards with serif names and gold 'From $X' price anchors, centered CTA plus 'or call' phone link below"
+      },
+      {
+        "section": "services",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/services/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Cards reflow to 2-up with prices kept, CTA and phone link immediately after"
+      },
+      {
+        "section": "testimonials",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/testimonials/watermarkdesignbuild_com__desktop.jpg",
+        "why": "Navy quote cards over a darkened project photo, gold name and project type, auto-scroll with pause"
+      },
+      {
+        "section": "testimonials",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/testimonials/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Same cards as a swipeable row that peeks the next quote"
+      },
+      {
+        "section": "process",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/process/watermarkdesignbuild_com__desktop.jpg",
+        "why": "Branded 'Watermark Way' five-stage row with gold numbered circles and reassurance subline"
+      },
+      {
+        "section": "process",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/process/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Stacks into a clean numbered vertical list with 'See how it works' link"
+      },
+      {
+        "section": "cta_band",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/cta_band/watermarkdesignbuild_com__desktop.jpg",
+        "why": "'Ready when you are.' serif line plus one-sentence promise, single gold button and underlined phone over a navy-tinted kitchen"
+      },
+      {
+        "section": "cta_band",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/cta_band/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Same band, full-width button and phone link, very thumb friendly"
+      },
+      {
+        "section": "footer",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/footer/watermarkdesignbuild_com__desktop.jpg",
+        "why": "Navy footer with studio address, phone, email, gold social circles, 'Read our reviews', license line, three link columns"
+      },
+      {
+        "section": "footer",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/footer/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Single-column version keeps NAP and license info at top"
+      },
+      {
+        "section": "mobile_sticky_cta",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/mobile_sticky_cta/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Pinned bar with one-line invitation over two pills: white Call with icon and gold Book a Discovery Call"
+      }
+    ]
+  },
+  {
+    "id": "murrayhillremodeling_com",
+    "url": "https://www.murrayhillremodeling.com/",
+    "score": 8,
+    "verdict": "keep",
+    "style": "Warm boutique Pacific Northwest remodeler",
+    "palette": "charcoal header #2b2b2b, warm greige/stone backgrounds, white, rust/burnt-orange accent buttons (#b5521b range), muted olive-grey serif headings",
+    "typography": "Classic serif small caps for headings (Playfair or similar, 'REMODELING & CUSTOM HOMES'), Montserrat-style sans for body and buttons",
+    "what_to_borrow": [
+      "Full-bleed dining-kitchen photo hero with dark overlay, centered serif eyebrow 'INTEGRITY. EXPERTISE. QUALITY.' above large serif 'REMODELING & CUSTOM HOMES' and a single grey 'See Our Work' button",
+      "Service rows that pair two photos (a wide and a detail) with serif title, short paragraph and a small dark button per service (Kitchen, Bathroom, Additions)",
+      "Dense 3x3 project mosaic with 'Project Portfolio' heading and 'See More Projects' button",
+      "'Meet the Core Team' block: group photo of the actual crew, then founder bio with headshot and personal details (hiking, paella) which humanizes an owner-led firm",
+      "Contact section 'Let's Talk About Your Project' signed by the founder ('- Patrick'), phone and address with icons, working hours, simple 5-field form with rust 'Send Message' button and a client quote beside it"
+    ],
+    "conversion_patterns": [
+      "Orange 'Contact Us' button in desktop nav",
+      "Founder-signed invitation above the form",
+      "Phone, address and hours right beside the form",
+      "Testimonial quote placed next to the form as last-second reassurance"
+    ],
+    "mobile_notes": "Good. Hero becomes a tall photo with stacked serif lines and a button; services and portfolio stack cleanly; the contact block is large and legible with full-width inputs. Missing a sticky call bar and the hero CTA is low-contrast grey.",
+    "weaknesses": [
+      "Hero CTA is a dull grey button, not a strong action color",
+      "No phone number in the header",
+      "No star ratings, review counts or badges",
+      "Page is long on mobile (31,000px) with few CTAs in between",
+      "Some project photos are generic real-estate style"
+    ],
+    "capture_issues": "",
+    "sections": [
+      {
+        "section": "hero",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/hero/murrayhillremodeling_com__desktop.jpg",
+        "why": "Full-bleed warm interior photo, dark overlay, centered serif eyebrow plus big serif H1 and one button; clean and upscale"
+      },
+      {
+        "section": "hero",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/hero/murrayhillremodeling_com__mobile.jpg",
+        "why": "Tall crop keeps the serif hierarchy readable with the logo on a charcoal header bar"
+      },
+      {
+        "section": "services",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/services/murrayhillremodeling_com__desktop.jpg",
+        "why": "Alternating two-photo plus text rows per service with small CTA each"
+      },
+      {
+        "section": "projects_gallery",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/projects_gallery/murrayhillremodeling_com__desktop.jpg",
+        "why": "Heading left, intro right, 3x3 tight photo mosaic and See More Projects button"
+      },
+      {
+        "section": "projects_gallery",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/projects_gallery/murrayhillremodeling_com__mobile.jpg",
+        "why": "Single-column large photos under a strong serif heading and button"
+      },
+      {
+        "section": "about_owner",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/about_owner/murrayhillremodeling_com__desktop.jpg",
+        "why": "Real team photo plus founder bio and headshot, owner-led credibility"
+      },
+      {
+        "section": "about_owner",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/about_owner/murrayhillremodeling_com__mobile.jpg",
+        "why": "Team photo then founder story in readable long-form text"
+      },
+      {
+        "section": "contact_form",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/contact_form/murrayhillremodeling_com__desktop.jpg",
+        "why": "Founder-signed intro, phone/address/hours, 5-field form, client quote alongside"
+      },
+      {
+        "section": "contact_form",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/contact_form/murrayhillremodeling_com__mobile.jpg",
+        "why": "Large serif heading, icon contact lines, hours and full-width inputs with rust submit"
+      }
+    ]
+  },
+  {
+    "id": "tpl_interior_st",
+    "url": "https://interior-st-wbs.framer.website/",
+    "score": 8,
+    "verdict": "keep",
+    "style": "Dark editorial luxury studio",
+    "palette": "near-black espresso #211a16, warm cream #f2ebe2, terracotta/rust accent #a4603a, soft gold stars",
+    "typography": "Mixed display: condensed grotesk caps (Neue Haas-like) with swash script capitals swapped in for first letters ('WE DIDN'T CHASE...'), small grotesk body",
+    "what_to_borrow": [
+      "Signature typographic device: uppercase grotesk headlines with single swash script initials, instantly premium and memorable",
+      "Testimonial block: big headline 'Real stories from homeowners who trusted us', video still of client left, terracotta quote card overlapping it, '4.9/5 average rating' with stars in parentheses brackets",
+      "Pricing transparency: 'The right budget builds the right attention' with three tiers (Consultation from $2,900, Full Design from $18,000, Turnkey from $65,000) and bullet inclusions",
+      "Dark FAQ accordion with thin dividers and plus/minus icons, questions about timeline, budget, working with your contractor",
+      "Closing CTA 'Make room for something timeless.' over a warm photo with a small framed image between bracket glyphs",
+      "Stats paired with an orbit of rotated project thumbnails: '80+ Creative Deliveries' and '26 Cities delivered'",
+      "Team grid with real names and roles under 'People you meet are the ones doing the work'"
+    ],
+    "conversion_patterns": [
+      "'Start a Project' terracotta button in footer",
+      "Average rating 4.9/5 badge next to testimonials",
+      "Visible starting prices per package",
+      "FAQ answers budget and process objections",
+      "Phone and email in footer only"
+    ],
+    "mobile_notes": "Strong. Script-plus-caps headlines scale well, stats sit in two columns, services cards stack with prices, FAQ is perfectly thumb friendly. No sticky CTA and no hamburger-visible phone; the Framer promo badges float over content.",
+    "weaknesses": [
+      "Template, not a real contractor: placeholder phone/email and AI-looking imagery",
+      "No phone or CTA in the header nav, nav is plain text links",
+      "Interior design framing, not remodeling; needs a quote form",
+      "Some sections have large dead space and low-contrast small body text"
+    ],
+    "capture_issues": "'Get it for FREE' and 'Made in Framer' template badges float bottom right (and over mobile headings). A large blank cream area follows the services section on desktop (lazy-loaded section, slice 09).",
+    "sections": [
+      {
+        "section": "testimonials",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/testimonials/tpl_interior_st__desktop.jpg",
+        "why": "Headline with script initials, client video still, overlapping terracotta quote card and bracketed 4.9/5 rating"
+      },
+      {
+        "section": "testimonials",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/testimonials/tpl_interior_st__mobile.jpg",
+        "why": "Rating centered above a full-width terracotta quote card with arrows, very legible"
+      },
+      {
+        "section": "stats",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/stats/tpl_interior_st__desktop.jpg",
+        "why": "Oversized 80+ and 26 numerals flanking a rotating ring of project thumbnails under a confident brand line"
+      },
+      {
+        "section": "faq",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/faq/tpl_interior_st__desktop.jpg",
+        "why": "Dark accordion with caps questions, hairline dividers, first answer open, objection-handling topics"
+      },
+      {
+        "section": "faq",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/faq/tpl_interior_st__mobile.jpg",
+        "why": "Same accordion full width with large tap targets"
+      },
+      {
+        "section": "cta_band",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/cta_band/tpl_interior_st__desktop.jpg",
+        "why": "'Make room for something timeless' over a warm moody photo, framed thumbnail centered"
+      },
+      {
+        "section": "footer",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/footer/tpl_interior_st__desktop.jpg",
+        "why": "Tagline, contact lines, three link columns, terracotta Start a Project button and giant script-caps wordmark"
+      }
+    ]
+  },
+  {
+    "id": "kurtiskitchen_com",
+    "url": "https://www.kurtiskitchen.com/",
+    "score": 7,
+    "verdict": "keep",
+    "style": "Bold red family-owned remodeler",
+    "palette": "crimson red #b0202e, white, blush pink #fbf1f1 panels, black buttons",
+    "typography": "Heavy geometric sans caps (Poppins Black) for headings, Poppins regular body",
+    "what_to_borrow": [
+      "Review block: red quote card with stars, then a rating strip of Google 5.0, Houzz 4.3, Angi 4.3, BBB A+ with logos and big numerals plus 'Read More Reviews' button",
+      "Showroom locator: map with pins on the left, accordion of showroom cities on the right with address, hours, phone, Get Directions and Schedule Now",
+      "Mobile sticky 3-button bar: Call, Contact, Menu with icons in solid red",
+      "Strong third-generation family story with real numbers ('100,000 kitchens and 100,000 bathrooms')"
+    ],
+    "conversion_patterns": [
+      "Sticky mobile Call / Contact / Menu bar",
+      "Multiple platform ratings with logos",
+      "Schedule Now per showroom",
+      "Phone numbers per location"
+    ],
+    "mobile_notes": "Functional and conversion-focused: sticky bottom bar, ratings shown two at a time as large numerals, showrooms as accordions. Very long page (32,000px) and heavy red can feel loud.",
+    "weaknesses": [
+      "Visual style is mass-market, loud red caps, not high-end",
+      "Very long page with repetitive copy blocks",
+      "Typography is heavy and shouty",
+      "Photography is fine but presented in generic grids"
+    ],
+    "capture_issues": "",
+    "sections": [
+      {
+        "section": "trust_bar",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/trust_bar/kurtiskitchen_com__desktop.jpg",
+        "why": "Red review card plus rating strip with Google, Houzz, Angi and BBB logos and big scores"
+      },
+      {
+        "section": "trust_bar",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/trust_bar/kurtiskitchen_com__mobile.jpg",
+        "why": "Ratings as huge numerals with logos, one row of two, Read More Reviews button"
+      },
+      {
+        "section": "service_area",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/service_area/kurtiskitchen_com__desktop.jpg",
+        "why": "Map with showroom pins beside an accordion of locations with hours, phones, directions and Schedule Now"
+      },
+      {
+        "section": "mobile_sticky_cta",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/mobile_sticky_cta/kurtiskitchen_com__mobile.jpg",
+        "why": "Solid red bottom bar with three icon buttons: Call, Contact, Menu"
+      }
+    ]
+  },
+  {
+    "id": "rebath_com",
+    "url": "https://www.rebath.com/",
+    "score": 7,
+    "verdict": "keep",
+    "style": "National franchise conversion machine",
+    "palette": "Re-Bath red #a8203a, white, light grey #f1f1f1, charcoal text",
+    "typography": "Serif headings (light, editorial) mixed with Open Sans body and bold sans buttons",
+    "what_to_borrow": [
+      "Hero with lifestyle bathroom photo and the quote form docked on the right: 'Schedule Your Free Design Consultation', first/last name, email, phone, zip, SMS consent, red 'Schedule Now'",
+      "Header with phone number in red next to the logo plus 'Find a Location' outlined and 'Free Consultation' solid red pills",
+      "Mobile header: logo, tap-to-call number with icon, location pin, hamburger, then a full-width red 'Book Your Free Consultation' bar",
+      "'Find Your Local Re-Bath' zip search block (input, red Find My Nearest button, See All Locations)"
+    ],
+    "conversion_patterns": [
+      "Form above the fold on desktop",
+      "Phone in header on every device",
+      "Persistent red consultation bar under mobile header",
+      "Zip-code locator as service-area qualifier"
+    ],
+    "mobile_notes": "Very strong conversion structure: header carries the phone and a full-width consultation bar, form appears right after the hero. Visually busy and template-like; accessibility widget overlaps inputs.",
+    "weaknesses": [
+      "Franchise look, not boutique high-end",
+      "Several sections failed to render",
+      "SMS consent legal text heavy in the form",
+      "Accessibility and chat widgets overlap form fields on mobile"
+    ],
+    "capture_issues": "Desktop slice 07 and mobile slices 04, 07, 12 are blank (lazy-loaded). Accessibility and chat widgets float over the mobile form.",
+    "sections": [
+      {
+        "section": "header_nav",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/header_nav/rebath_com__desktop.jpg",
+        "why": "Logo, red phone number, Find a Location outline pill and solid Free Consultation pill, mega-nav below"
+      },
+      {
+        "section": "contact_form",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/contact_form/rebath_com__desktop.jpg",
+        "why": "Hero photo with the consultation form docked right, above the fold"
+      },
+      {
+        "section": "contact_form",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/contact_form/rebath_com__mobile.jpg",
+        "why": "Form directly after hero with two-column name fields and big red Schedule Now"
+      },
+      {
+        "section": "service_area",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/service_area/rebath_com__desktop.jpg",
+        "why": "Centered 'Find Your Local Re-Bath' with zip input and locator buttons"
+      },
+      {
+        "section": "service_area",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/service_area/rebath_com__mobile.jpg",
+        "why": "Zip input and full-width red button, easy thumb use"
+      },
+      {
+        "section": "mobile_menu_or_header",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/mobile_menu_or_header/rebath_com__mobile.jpg",
+        "why": "Logo, tap-to-call number, location pin and hamburger, then a full-width red Book Your Free Consultation bar"
+      }
+    ]
+  },
+  {
+    "id": "henrybuilt_com",
+    "url": "https://www.henrybuilt.com/",
+    "score": 7,
+    "verdict": "keep",
+    "style": "Minimal architectural luxury",
+    "palette": "black header, warm oak and stone photography, white, light grey",
+    "typography": "Widely letterspaced uppercase sans (thin) for brand and H1, small sans body",
+    "what_to_borrow": [
+      "Full-bleed kitchen photo hero with only a letterspaced 'HENRYBUILT / CRAFT + INNOVATION' and a showroom city list, scroll-down chevron",
+      "Restraint: one line of copy, photography carries the luxury",
+      "Showroom cities as a quiet trust and location signal"
+    ],
+    "conversion_patterns": [
+      "Minimal; relies on brand and showrooms, little direct CTA"
+    ],
+    "mobile_notes": "Hero adapts beautifully to a tall crop with centered letterspaced text; the rest is large photo blocks with little conversion support.",
+    "weaknesses": [
+      "Almost no CTA, phone or form on the homepage",
+      "Low text contrast over photography",
+      "Too product-brand for a local remodeler; borrow the hero only"
+    ],
+    "capture_issues": "",
+    "sections": [
+      {
+        "section": "hero",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/hero/henrybuilt_com__desktop.jpg",
+        "why": "Full-bleed oak and stone kitchen with tiny letterspaced headline, pure luxury restraint"
+      },
+      {
+        "section": "hero",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/hero/henrybuilt_com__mobile.jpg",
+        "why": "Tall crop with centered letterspaced lines and showroom cities"
+      }
+    ]
+  },
+  {
+    "id": "studio-mcgee_com",
+    "url": "https://www.studio-mcgee.com/",
+    "score": 7,
+    "verdict": "keep",
+    "style": "Warm heritage editorial design house",
+    "palette": "espresso brown #563a2b, olive-slate #474c49, linen cream #f2ede7, white",
+    "typography": "Refined serif (Tiempos/Canela-like) roman plus italic pairs ('Read / Design & Lifestyle'), tiny letterspaced sans for labels",
+    "what_to_borrow": [
+      "Two-line heading pairs: roman word over a lighter descriptive line ('New Heritage / A design house rooted in tradition.') in italic",
+      "Founder block on espresso: layered collage of founder photo and material swatches, serif heading, short story, outlined About button",
+      "Press quote carousel: italic serif quote from The New York Times over a wood-grain photo with the masthead logo below",
+      "Portfolio carousel with oversized center image and smaller side images on slate, Prev/Next squares and See More Projects"
+    ],
+    "conversion_patterns": [
+      "Press logo as authority",
+      "Little direct conversion (no phone, no quote CTA)"
+    ],
+    "mobile_notes": "Typography holds up well, founder and press blocks stack nicely. Hero rendered as a blank slate block in capture; accessibility and cookie icons overlap.",
+    "weaknesses": [
+      "Not a remodeler conversion page, no phone, form or quote CTA",
+      "Blog-heavy homepage",
+      "Hero video did not render"
+    ],
+    "capture_issues": "Mobile hero is an empty slate block (video not loaded). Accessibility and cookie badges float at bottom on mobile.",
+    "sections": [
+      {
+        "section": "trust_bar",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/trust_bar/studio-mcgee_com__desktop.jpg",
+        "why": "Italic serif NYT quote over a wood-grain photo with masthead logo, a premium press-proof pattern"
+      },
+      {
+        "section": "trust_bar",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/trust_bar/studio-mcgee_com__mobile.jpg",
+        "why": "Same press quote scaled with arrows and dots"
+      },
+      {
+        "section": "about_owner",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/about_owner/studio-mcgee_com__desktop.jpg",
+        "why": "Founder photo collaged with material swatches on espresso, roman plus italic heading, short story"
+      },
+      {
+        "section": "about_owner",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/about_owner/studio-mcgee_com__mobile.jpg",
+        "why": "Collage stacks above heading and story, outlined About button"
+      }
+    ]
+  },
+  {
+    "id": "devolkitchens_com",
+    "url": "https://www.devolkitchens.com/",
+    "score": 7,
+    "verdict": "keep",
+    "style": "English heritage kitchen catalogue",
+    "palette": "white, soft grey nav bar, photography in olive, oxblood, plaster pink and brass",
+    "typography": "EB Garamond-style serif throughout, small and quiet",
+    "what_to_borrow": [
+      "Product-style kitchen range grid: 4-up photos with serif name, italic price range ('$40,000 to $100,000') and one-line description",
+      "Award roundel (King's Award) overlaid directly on the hero photo",
+      "Showroom city list under the logo as a trust signal",
+      "Photography direction: moody, styled, lived-in kitchens"
+    ],
+    "conversion_patterns": [
+      "Price ranges qualify buyers",
+      "Brochure request and showrooms as soft conversions",
+      "Phone numbers per showroom in footer"
+    ],
+    "mobile_notes": "Clean single-column catalogue, readable serif, prices kept. Very long (27,000px) with no sticky CTA.",
+    "weaknesses": [
+      "Ecommerce shop dominates the lower page",
+      "No direct quote CTA or phone in header",
+      "Small low-contrast text"
+    ],
+    "capture_issues": "Last mobile slice mostly empty.",
+    "sections": [
+      {
+        "section": "projects_gallery",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/projects_gallery/devolkitchens_com__desktop.jpg",
+        "why": "4-up kitchen range cards with editorial photos, serif titles and italic price ranges"
+      }
+    ]
+  },
+  {
+    "id": "bakesandkropp_com",
+    "url": "https://www.bakesandkropp.com/",
+    "score": 6,
+    "verdict": "drop",
+    "style": "Classic luxury cabinetry maker",
+    "palette": "slate navy #383b49, linen beige #e8e2d6, white, warm wood tones",
+    "typography": "Serif caps with italic connector words ('DEFINING fine CABINETRY', 'The COLLECTIONS'), Lato body",
+    "what_to_borrow": [
+      "Serif caps headings with an italic small word in the middle ('MADE in THE USA')",
+      "Four-up content tiles on a full-bleed photo: alternating navy and linen cards with eyebrow, serif title, short text, button",
+      "Collections card floating over a desaturated photo grid"
+    ],
+    "conversion_patterns": [
+      "'Request Lookbook' primary CTA in nav",
+      "Contact a Designer secondary",
+      "Newsletter form with ZIP"
+    ],
+    "mobile_notes": "Stacks cleanly with full-width buttons, readable serif. No sticky CTA, phone only in footer.",
+    "weaknesses": [
+      "Manufacturer, not a remodeler",
+      "Large empty white gap mid-page",
+      "No reviews, no phone up top",
+      "Form is a newsletter, not a quote"
+    ],
+    "capture_issues": "Large blank area above 'A Closer Look at Luxury' on desktop (lazy image).",
+    "sections": []
+  },
+  {
+    "id": "casedesign_com",
+    "url": "https://www.casedesign.com/",
+    "score": 5,
+    "verdict": "drop",
+    "style": "Corporate red design-build firm",
+    "palette": "Case red #c8102e, white, light grey, mid grey text",
+    "typography": "Avenir-like light sans throughout",
+    "what_to_borrow": [
+      "Mobile sticky full-width red 'Contact Us' bar",
+      "Branded first step 'The CaseStudy' with 100% satisfaction guarantee",
+      "Footer with four design studio addresses and phones"
+    ],
+    "conversion_patterns": [
+      "Outlined Contact Us in nav",
+      "Sticky mobile contact bar",
+      "Red CTA band 'Not sure where to start? We've got answers.'"
+    ],
+    "mobile_notes": "Has a sticky red Contact Us bar and chat bubble; content otherwise thin due to failed images.",
+    "weaknesses": [
+      "Light grey text, low contrast",
+      "Generic corporate feel",
+      "Many images failed"
+    ],
+    "capture_issues": "Most section images did not load (grey blocks for CaseStudy, Design Studios, Our Work, Insights); mobile slice 13 blank.",
+    "sections": []
+  },
+  {
+    "id": "friendlystructures_com",
+    "url": "https://www.friendlystructures.com/",
+    "score": 5,
+    "verdict": "drop",
+    "style": "Homespun boutique design-build",
+    "palette": "sage grey #d3d8d3, slate blue-grey #4a5763, baby blue buttons #b5e0f5, cream",
+    "typography": "Light Cormorant serif headings, Inter body, handwritten script accents",
+    "what_to_borrow": [
+      "Husband-and-wife owner intro 'Hey There, We're Meredith & Derick!' with family photo",
+      "Mobile bottom bar with Email and Call icons"
+    ],
+    "conversion_patterns": [
+      "Contact Us in nav",
+      "Schedule a consultation band",
+      "Sticky Email/Call bar on mobile"
+    ],
+    "mobile_notes": "Readable, sticky Email/Call bar, but very long text blocks and pale buttons.",
+    "weaknesses": [
+      "Amateur photography",
+      "Weak contrast baby-blue buttons",
+      "Testimonials are three words only",
+      "Not high-end"
+    ],
+    "capture_issues": "",
+    "sections": []
+  },
+  {
+    "id": "sfdesign_build",
+    "url": "https://sfdesign.build/",
+    "score": 4,
+    "verdict": "drop",
+    "style": "Sparse single-screen studio page",
+    "palette": "white, black, project photography",
+    "typography": "Simple sans",
+    "what_to_borrow": [
+      "Restraint, nothing specific"
+    ],
+    "conversion_patterns": [
+      "Very little"
+    ],
+    "mobile_notes": "Short page, minimal content.",
+    "weaknesses": [
+      "Almost no content",
+      "No conversion elements"
+    ],
+    "capture_issues": "",
+    "sections": []
+  },
+  {
+    "id": "tpl_domus",
+    "url": "https://domus-template.webflow.io/",
+    "score": 3,
+    "verdict": "drop",
+    "style": "Template sales page, dark",
+    "palette": "black, orange #e8643c, white",
+    "typography": "Geometric sans",
+    "what_to_borrow": [
+      "Orange numeral stats row as a pattern only"
+    ],
+    "conversion_patterns": [
+      "Buy template CTA, not relevant"
+    ],
+    "mobile_notes": "Fine but it is a template marketing page showing screenshots, not a homepage.",
+    "weaknesses": [
+      "Not an actual homepage design, just thumbnails of pages",
+      "Construction stock imagery"
+    ],
+    "capture_issues": "",
+    "sections": []
+  },
+  {
+    "id": "blockrenovation_com",
+    "url": "https://www.blockrenovation.com/",
+    "score": 3,
+    "verdict": "drop",
+    "style": "Modern platform, coral accent",
+    "palette": "warm grey, coral #ff7a59, off-white",
+    "typography": "Wide grotesk caps H1, monospace subhead",
+    "what_to_borrow": [
+      "Monospace subhead under wide caps H1 is a distinctive pairing"
+    ],
+    "conversion_patterns": [
+      "Coral Get Started in nav and hero"
+    ],
+    "mobile_notes": "Only the hero rendered; full-width coral button.",
+    "weaknesses": [
+      "Platform, not an owner-led firm"
+    ],
+    "capture_issues": "Hero video did not load (flat grey) and nearly all content below the hero is blank on desktop (slices 02 to 07) and mobile (slices 03 to 13); cannot be judged fairly.",
+    "sections": []
+  }
+]

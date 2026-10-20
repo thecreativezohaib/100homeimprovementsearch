@@ -44,9 +44,12 @@ async function prep(page) {
     await page.keyboard.press('Escape').catch(() => { });
   }
   const h = await page.evaluate(() => document.body.scrollHeight);
-  for (let y = 0; y < Math.min(h, 16000); y += 500) {
+  // SLOW=1: smaller steps and longer pauses for sites whose lazy images or bot checks need more time
+  const step = process.env.SLOW ? 300 : 500, pause = process.env.SLOW ? 450 : 180;
+  if (process.env.SLOW) await page.waitForTimeout(6000);
+  for (let y = 0; y < Math.min(h, 16000); y += step) {
     await page.evaluate(v => window.scrollTo(0, v), y);
-    await page.waitForTimeout(180);
+    await page.waitForTimeout(pause);
   }
   await page.evaluate(() => window.scrollTo(0, 0));
   await page.waitForTimeout(1500);
