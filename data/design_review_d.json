@@ -1,0 +1,492 @@
+[
+ {
+  "id": "residences_loamhouse_com_au",
+  "url": "https://residences.loamhouse.com.au/",
+  "score": 7,
+  "verdict": "drop",
+  "capture_dir": "raw6",
+  "style": "Luxury apartment sales microsite: full-bleed sunset aerial photo, glassy translucent header, dark green-black lead card floating right of the headline",
+  "palette": "Warm sunset photo grade, near-black green panel #232a26, ivory pill button #f6f2ea, muted gold italic #c9a063 for the second headline line, off-white body text",
+  "typography": "Large light high-contrast serif (Cormorant-like) 'House-sized.' with the second line in gold italic 'Bayside living.'; wide-tracked tiny uppercase sans for nav, eyebrow ('FINAL RELEASE - SANDRINGHAM') and buttons",
+  "what_to_borrow": [
+   "Hero lead card with three stacked actions of decreasing commitment: solid ivory 'Send me the brochure', outlined 'Book a private appointment', outlined 'Request a call back', plus a no-spam microline",
+   "Two-line serif headline where line two switches to gold italic; maps well to 'Kitchens built to last. / Designed around you.'",
+   "Header with two icon-in-circle pill CTAs (download, calendar) on the right of a letterspaced nav",
+   "Mobile sticky header that keeps two equal pill buttons (Brochure, Appointment) under the logo row",
+   "Numbered chapter markers ('01 THE PROPOSITION', '02 THE SIZE') over full-bleed photos for storytelling sections"
+  ],
+  "conversion_patterns": [
+   "Lead form visible in the first screen",
+   "Tiered CTAs (low, medium, high commitment) in one card",
+   "Price anchor in hero ('residences from $850,000')",
+   "Persistent dual CTA in sticky header on desktop and mobile"
+  ],
+  "mobile_notes": "Header collapses to logo plus hamburger with two big frosted pill buttons (Brochure, Appointment) that stay sticky while scrolling; strong mobile CTA idea. Hero headline sits over the building photo; the capture caught it mid-blur animation.",
+  "weaknesses": [
+   "Not a remodeler; a real-estate sales site, so content model (brochure, floorplans) needs translating",
+   "Phone number not shown, only 'request a call back'",
+   "Thin uppercase nav text on a bright photo has weak contrast",
+   "Heavy scroll-triggered reveals make most content invisible to non-scrolling crawlers"
+  ],
+  "capture_issues": "Both captures render only the first viewport; everything below y 900 (desktop) and y 1650 (mobile) is a blank cream or dark field because sections fade in on scroll. Scrolled screenshots prove the content exists (blurred in-transition headline '02 A backyard oasis'). Mobile hero caught mid-animation with blurred text. Hero is already in the pack as concept 15, so only the header was cropped.",
+  "sections": [
+   {
+    "section": "header_nav",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/header_nav/residences_loamhouse_com_au__desktop.jpg",
+    "why": "Transparent letterspaced nav with two icon pill CTAs (Download the brochure, Book an appointment) on the right; a refined alternative to a single orange button"
+   }
+  ]
+ },
+ {
+  "id": "r-o_com",
+  "url": "https://r-o.com/",
+  "score": 5,
+  "verdict": "drop",
+  "capture_dir": "raw7",
+  "style": "Corporate Texas commercial GC: black video hero with angled bottom edge, crimson accents, photo tiles for sectors, crimson footer over a city skyline",
+  "palette": "Black #05070a hero, crimson #a0182f and deep red #8f0423 footer, white body, grey text",
+  "typography": "Condensed bold uppercase display (Bebas-like) for headlines, extended uppercase sans (Eurostile-like) for labels, Open Sans body",
+  "what_to_borrow": [
+   "Footer office row with a white line icon of a local landmark above each city name (Dallas globe tower, Austin capitol, Houston rocket, San Antonio Alamo, Waco bridge); a memorable service-area device",
+   "Big stat row directly under the hero (850+ employees, #74 ENR, 5 offices, 57 years) with crimson numerals and two-line grey labels",
+   "Hero progress rail ('About RO / Our legacy / Our work') as an in-hero navigation idea"
+  ],
+  "conversion_patterns": [
+   "Single 'Learn more' hero button",
+   "Contact us button in footer band",
+   "Hiring announcement bar"
+  ],
+  "mobile_notes": "Stats wrap into a 2x2 grid; values cards stack with large icons; footer landmarks wrap 3+2. Hero video failed with a player error overlay. No sticky call or quote action.",
+  "weaknesses": [
+   "Commercial and corporate, no homeowner conversion path, no phone in header",
+   "Hero video failed in capture and shows an error overlay",
+   "Values copy is generic and long",
+   "Crimson-on-black is heavy, not residential-premium"
+  ],
+  "capture_issues": "Hero video blocked: desktop shows a 'We couldn't verify the security of your connection' overlay, mobile shows 'Player error'. Otherwise both captures complete and nearly identical; raw7 picked for the cleaner About image.",
+  "sections": [
+   {
+    "section": "service_area",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/service_area/r-o_com__desktop.jpg",
+    "why": "Landmark-icon city row: each served city gets a small white line illustration of a local landmark; a premium, local alternative to a plain list of towns"
+   }
+  ]
+ },
+ {
+  "id": "tarqstudio_com",
+  "url": "https://www.tarqstudio.com/",
+  "score": 3,
+  "verdict": "drop",
+  "capture_dir": "raw6",
+  "style": "Dark cinematic architecture and interiors studio, full-screen project slider, light greige project index below",
+  "palette": "Near-black hero photo, oxblood and olive interior tones, greige #dedcd9 sections, black text",
+  "typography": "Wide extended uppercase grotesk for section titles ('PROYECTOS DESTACADOS'), italic serif inside parentheses for project names, small grotesk body",
+  "what_to_borrow": [
+   "Project rows with name, a parenthesis pair and year aligned across the column above each photo",
+   "Split section title spread across the full width (PROYECTOS ... DESTACADOS)"
+  ],
+  "conversion_patterns": [
+   "None visible beyond a Contact nav link"
+  ],
+  "mobile_notes": "Mobile is a single full-screen hero slider (1688 px tall); nothing else renders.",
+  "weaknesses": [
+   "Spanish-language portfolio with no services, pricing, reviews or contact path",
+   "Awwwards badge overlays content",
+   "Dark hero photo is moody but hard to read"
+  ],
+  "capture_issues": "Both captures show only the hero; the rest of the desktop page (to y 10266) is a flat dark field because content reveals on scroll. The scrolled screenshot shows a greige 'PROYECTOS DESTACADOS' index. Nothing croppable.",
+  "sections": []
+ },
+ {
+  "id": "aat-architecten_be",
+  "url": "https://www.aat-architecten.be/",
+  "score": 2,
+  "verdict": "drop",
+  "capture_dir": "raw6",
+  "style": "Ultra-minimal white Belgian architecture portfolio with grey nav and a small footer",
+  "palette": "White, light grey nav text, black logo",
+  "typography": "Neutral grotesk throughout, small sizes",
+  "what_to_borrow": [
+   "Logo, divider, practice name lockup ('AAT | Architecten') as a quiet header idea"
+  ],
+  "conversion_patterns": [
+   "Address, email and phone in footer only"
+  ],
+  "mobile_notes": "Logo and 'Menu' text, then empty white space and a stacked footer.",
+  "weaknesses": [
+   "No images rendered at all, so no way to judge photography",
+   "No CTA, services or proof",
+   "Grey nav text has poor contrast"
+  ],
+  "capture_issues": "All project imagery is lazy or scroll-revealed and never loaded in either capture; pages are 95 percent blank white. Nothing croppable.",
+  "sections": []
+ },
+ {
+  "id": "pearltiling_com_au",
+  "url": "https://pearltiling.com.au/",
+  "score": 7,
+  "verdict": "drop",
+  "capture_dir": "raw6",
+  "style": "Editorial trade studio: visible column grid lines, numbered sections (01 About to 05 Contact), coral line-drawn 'P' monogram, deep teal service band",
+  "palette": "Warm greige #e8e6e1 page, deep teal #223236 bands, coral #ef8b5b accents and headings, charcoal text",
+  "typography": "Light neue grotesk for headings ('Bathroom Renovation Cost Estimator'), coral transitional serif (Domaine-like) for pull quotes, small grotesk body",
+  "what_to_borrow": [
+   "Bathroom Renovation Cost Estimator as a two-step lead magnet: Step 01 room dimensions, Step 02 name, email, phone, then a circular 'Calculate' button; price is the bait, contact details are the gate",
+   "Coral 'Not sure about bathroom renovation costs?' teaser card with a circle 'Get an estimate' button placed inside the services section",
+   "Numbered section index (01 to 05) and hairline grid columns that make a trade feel like a design studio",
+   "Project rows listing builder, architect and interior designer credits beside each project, which signals trade-network credibility",
+   "Named director and operations officer bios as an about-owner pattern"
+  ],
+  "conversion_patterns": [
+   "Free cost calculator gated by contact details",
+   "Repeated 'Get an estimate' teaser inside services",
+   "Contact section with email and socials",
+   "Newsletter 'Pearls of Wisdom' signup"
+  ],
+  "mobile_notes": "Stacks cleanly into one column with the grid lines kept as side rules; the coral estimate card becomes a strong full-width block. Very long page (32k px) with no sticky header, no phone and no call button.",
+  "weaknesses": [
+   "No phone number anywhere, no reviews or star rating",
+   "Huge empty left columns on desktop (estimator form uses only the right third)",
+   "Small grey body text",
+   "Circle outline buttons are low-contrast and easy to miss"
+  ],
+  "capture_issues": "raw6 complete; raw7 stitch stops at y 16000 and drops the footer. Gallery concept 14 already shows the page overall, so only the estimator and the teaser card were cropped.",
+  "sections": [
+   {
+    "section": "contact_form",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/contact_form/pearltiling_com_au__desktop.jpg",
+    "why": "Two-step cost estimator form (dimensions, then contact details, then Calculate) on deep teal; the pattern to adapt as a kitchen or bath budget estimator that captures leads"
+   },
+   {
+    "section": "cta_band",
+    "device": "mobile",
+    "file": "output/design_refs/pack/sections/cta_band/pearltiling_com_au__mobile.jpg",
+    "why": "Coral full-width 'Not sure about renovation costs? Get an estimate' card on mobile; a mid-page CTA that sells the estimator instead of a generic 'Contact us'"
+   }
+  ]
+ },
+ {
+  "id": "pierreyovanovitch_com",
+  "url": "https://www.pierreyovanovitch.com/",
+  "score": 2,
+  "verdict": "drop",
+  "capture_dir": "raw6",
+  "style": "Luxury interior architecture: ivory page, horizontal project strip, long intro paragraph",
+  "palette": "Ivory #faf9f5, black text, warm wood photography",
+  "typography": "Wide-tracked uppercase sans logotype, large grotesk body paragraph",
+  "what_to_borrow": [
+   "Horizontal strip of tall project photos with small uppercase captions directly under the header"
+  ],
+  "conversion_patterns": [
+   "None captured"
+  ],
+  "mobile_notes": "Header, a horizontal photo strip and an intro paragraph, then blank.",
+  "weaknesses": [
+   "Desktop blocked (403 Forbidden)",
+   "No services, proof or CTA captured"
+  ],
+  "capture_issues": "Desktop returned 'Forbidden' in both captures. raw6 mobile shows the first screen and an intro paragraph then 7000 px of blank; raw7 mobile is one screen only. Nothing croppable.",
+  "sections": []
+ },
+ {
+  "id": "harlow-template_framer_website",
+  "url": "https://harlow-template.framer.website/",
+  "score": 9,
+  "verdict": "keep",
+  "capture_dir": "raw6",
+  "style": "Warm craftsman premium: dark workshop hero, cream and white alternating sections, rounded photo cards, brown announcement bar, honey-amber CTAs, giant wordmark footer. Template demo with fictional Portland firm and placeholder phone numbers",
+  "palette": "Espresso #181514 and #26211d dark sections, cream #f3f1ed and white #fff, honey-amber #f0b35f buttons and step dots, saddle brown #7b5139 announcement bar, warm grey body text",
+  "typography": "Tight geometric grotesk (Inter Display or Satoshi-like) for headlines with negative tracking ('Built by hand. Built to last.'), regular grotesk body, monospace eyebrows with a short rule ('-- How it works') and monospace chips for locations and project meta",
+  "what_to_borrow": [
+   "Header: announcement bar (showroom news plus 'Licensed, bonded & insured, Mon-Fri 7am-5pm'), then a rounded outlined nav capsule with phone icon and number plus an amber 'Free estimate' button",
+   "Hero proof stack: Google 4.9 star chip above the H1, two CTAs (amber 'Get a free estimate', outlined 'See our projects'), then a three-item proof row (640+ projects since 2011, 5-year warranty, phone with hours) and a scrolling marquee of credentials",
+   "Service cards with photo, timeline chip and starting price chip ('6-10 weeks', 'From $28k', 'From $18k', 'Custom quote')",
+   "Drag-handle before/after slider beside a short case-study story ('This 1950s ranch house ... in eleven weeks') and 'Read the full case study'",
+   "About block with owners named, three icon promises (one project lead, clean job sites, five-year warranty), then 'Faces you'll see on site' crew portraits with name and role",
+   "Vertical numbered process timeline with an expectation chip per step ('Reply within 1 business day', 'Free, about one hour', 'Within 5 business days', '5-year warranty included')",
+   "Big 4.9 rating block with a single large quote carousel",
+   "Six-tile certifications grid ('Certified, insured, connected') with line icons",
+   "Dark guarantee band 'Fixed price. Clean site. Five-year warranty.' with three checked promises and both CTAs",
+   "FAQ paired with a 'Where we work' card of town chips and the first question 'Which areas do you serve?' open",
+   "Multi-step estimate form with icon tiles (Kitchen, Bathroom, Built-ins...), progress bar, 'Takes about two minutes' microcopy, beside phone, email, showroom address and emergency line",
+   "Closing 'Planning a project?' band with estimate and phone buttons, then a footer with hours table and a giant wordmark"
+  ],
+  "conversion_patterns": [
+   "Phone and estimate button in header at all times",
+   "Rating chip above the fold",
+   "Prices and timelines on service cards",
+   "Expectation chips in process steps",
+   "Warranty band with dual CTA",
+   "Service area chips inside FAQ",
+   "Icon-tile multi-step form with draft-saved note",
+   "Emergency line listed separately",
+   "Repeated estimate plus phone CTA pairs (hero, warranty band, closing band)"
+  ],
+  "mobile_notes": "Excellent. Sticky header keeps the logo with round phone and menu icon buttons (white once scrolled); hero CTAs go full width; stats become a 2x2 bordered grid; services become a swipe carousel with price chips; before/after slider fills the width; process timeline keeps numbered dots; cert grid becomes 2x3; form tiles become 2 columns. Lacks a bottom call bar, and Framer's 'Made in Framer' and 'All pages' badges float over content.",
+  "weaknesses": [
+   "Template demo: fictional company, Unsplash photos and 555 numbers",
+   "Hiring and blog sections add length without converting",
+   "Generic grotesk type could read as SaaS if not warmed up with photography",
+   "No bottom sticky call bar on mobile",
+   "Framer badges overlay the hero proof row"
+  ],
+  "capture_issues": "Both captures complete on desktop and almost identical; raw7 shows the process dots lit (scroll-triggered), so desktop crops come from raw7. raw7 mobile stops at y 32000 and loses the footer, so mobile crops come from raw6. Concepts 02, 21 and 29 already show the full page, the estimate form and mobile screens, so the form and hero were not re-cropped.",
+  "sections": [
+   {
+    "section": "header_nav",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/header_nav/harlow-template_framer_website__desktop.jpg",
+    "why": "Announcement bar with licence and hours plus a rounded nav capsule holding phone number and amber Free estimate button"
+   },
+   {
+    "section": "services",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/services/harlow-template_framer_website__desktop.jpg",
+    "why": "Six photo cards each with a timeline chip and starting-price chip; the clearest 'services with prices' reference in the pack"
+   },
+   {
+    "section": "before_after",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/before_after/harlow-template_framer_website__desktop.jpg",
+    "why": "Drag-handle before/after slider with Before and After pill labels next to a short case-study story and link"
+   },
+   {
+    "section": "about_owner",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/about_owner/harlow-template_framer_website__desktop.jpg",
+    "why": "Owners' story with three icon promises and a crew row of four portraits with names and roles"
+   },
+   {
+    "section": "process",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/process/harlow-template_framer_website__desktop.jpg",
+    "why": "Four-step vertical timeline with amber numbered dots and an expectation chip per step, photo on the left"
+   },
+   {
+    "section": "trust_bar",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/trust_bar/harlow-template_framer_website__desktop.jpg",
+    "why": "Six-tile memberships and certifications grid with thin line icons and sublabels"
+   },
+   {
+    "section": "cta_band",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/cta_band/harlow-template_framer_website__desktop.jpg",
+    "why": "Guarantee band: 'Fixed price. Clean site. Five-year warranty.' with three checked promises and estimate plus phone buttons"
+   },
+   {
+    "section": "service_area",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/service_area/harlow-template_framer_website__desktop.jpg",
+    "why": "FAQ opened on 'Which areas do you serve?' beside a 'Where we work' card of town chips and an All service areas link"
+   },
+   {
+    "section": "mobile_menu_or_header",
+    "device": "mobile",
+    "file": "output/design_refs/pack/sections/mobile_menu_or_header/harlow-template_framer_website__mobile.jpg",
+    "why": "Mobile header: brown news bar plus a rounded capsule with logo, round phone button and round menu button"
+   },
+   {
+    "section": "before_after",
+    "device": "mobile",
+    "file": "output/design_refs/pack/sections/before_after/harlow-template_framer_website__mobile.jpg",
+    "why": "Full-width before/after slider on mobile with heading, story and case-study link above"
+   },
+   {
+    "section": "process",
+    "device": "mobile",
+    "file": "output/design_refs/pack/sections/process/harlow-template_framer_website__mobile.jpg",
+    "why": "Mobile timeline keeping numbered dots and expectation chips in one readable column"
+   },
+   {
+    "section": "trust_bar",
+    "device": "mobile",
+    "file": "output/design_refs/pack/sections/trust_bar/harlow-template_framer_website__mobile.jpg",
+    "why": "Certifications as a clean 2x3 bordered grid on mobile"
+   },
+   {
+    "section": "service_area",
+    "device": "mobile",
+    "file": "output/design_refs/pack/sections/service_area/harlow-template_framer_website__mobile.jpg",
+    "why": "Mobile FAQ with the town-chip 'Where we work' card and phone link"
+   }
+  ]
+ },
+ {
+  "id": "communicative-psychology-099138_framer_app",
+  "url": "https://communicative-psychology-099138.framer.app/",
+  "score": 8,
+  "verdict": "keep",
+  "capture_dir": "raw6",
+  "style": "Bold, numbers-first dark builder site (Lintel template, Graybeam Builders demo): heavy uppercase headlines, electric blue prices, hairline-ruled data rows, monospace meta. Template demo with fictional Knoxville firm",
+  "palette": "Near-black #0b0c0e and #15171b, electric blue #4a8dff for prices, phone and buttons, off-white #eef0f3 headings, grey #9aa0a8 body",
+  "typography": "Extra-bold wide grotesk caps (Druk Wide or Archivo Black-like) for headlines ('BUILT TO THE WRITTEN NUMBER.'), Fira Sans body, monospace for job numbers, dates and credentials ('JOB 26-031', 'BC-A 00000')",
+  "what_to_borrow": [
+   "Hero phone number set huge in blue directly under the H1 with the service area line and a full-width 'Request an estimate' button",
+   "Mobile sticky bottom bar split into three: blue CALL, TEXT (WhatsApp icon), black ESTIMATE",
+   "Published cost table ('What it costs to build here. Eight real numbers.') with blue prices and 'Includes:' lines",
+   "Job cards showing final invoice vs estimate ('$96,800 final, estimate was $95,400')",
+   "Real-job timeline ('From first call to the day you get keys': 0 WK site walk, +2 WK itemized estimate, +8 WK permit, +23 WK keys and warranty)",
+   "Warranty block with a years table (workmanship 1 yr, systems 2 yrs, structure 10 yrs, 48 hrs response) and 'Call the warranty line'",
+   "Credentials row 'Licensed in Tennessee. Ask for the numbers.' with licence number, EPA RRP, liability amount, workers' comp and structural warranty",
+   "Form section with a response-time ledger (1 day call back, 10 days estimate, $0 site walk) and 'Rather talk?' phone link"
+  ],
+  "conversion_patterns": [
+   "Phone in header, hero and warranty block",
+   "Three-way sticky bottom bar on mobile (call, text, estimate)",
+   "Price transparency table",
+   "Estimate-vs-final proof",
+   "Response-time promises beside the form",
+   "Licence and insurance numbers stated",
+   "Testimonial quoting exact dollar figures"
+  ],
+  "mobile_notes": "Strong. Header keeps a phone icon; hero shows the blue phone number and a full-width estimate button; a fixed three-part CALL / TEXT / ESTIMATE bar stays at the bottom. Cost table stacks into large blue numbers; timeline and credentials stack cleanly. Only flaw: the pencil 'edit' Framer button and 'Made in Framer' badge overlay content.",
+  "weaknesses": [
+   "Template demo with fictional numbers and licence IDs",
+   "Dark, heavy, all-caps look reads as custom-home builder rather than refined kitchen and bath",
+   "Commercial and office build-out content dilutes the residential message",
+   "Sticky photo beside the desktop timeline did not render, leaving a big empty right half"
+  ],
+  "capture_issues": "raw6 preferred: raw7 desktop caught the job-card meta lines mid text-scramble animation. Desktop timeline's sticky right-hand photo is missing after the first step in both captures, so the desktop process was not cropped (mobile process used instead). Concept 20 already covers the cost table, so it was not re-cropped.",
+  "sections": [
+   {
+    "section": "trust_bar",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/trust_bar/communicative-psychology-099138_framer_app__desktop.jpg",
+    "why": "Credentials row with licence number, lead-safe certification, liability cover, workers' comp and structural warranty in monospace figures"
+   },
+   {
+    "section": "contact_form",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/contact_form/communicative-psychology-099138_framer_app__desktop.jpg",
+    "why": "Estimate form with project type and address beside a response-time ledger (1 day, 10 days, $0) and a 'Rather talk?' phone link"
+   },
+   {
+    "section": "mobile_sticky_cta",
+    "device": "mobile",
+    "file": "output/design_refs/pack/sections/mobile_sticky_cta/communicative-psychology-099138_framer_app__mobile.jpg",
+    "why": "Full first mobile screen: header phone icon, huge blue phone number, full-width estimate button and the fixed CALL / TEXT / ESTIMATE bottom bar"
+   },
+   {
+    "section": "process",
+    "device": "mobile",
+    "file": "output/design_refs/pack/sections/process/communicative-psychology-099138_framer_app__mobile.jpg",
+    "why": "Real-job timeline counted in weeks from first call (0, +2, +8, +23 WK) with dates and plain outcomes"
+   }
+  ]
+ },
+ {
+  "id": "hearth-template_webflow_io",
+  "url": "https://hearth-template.webflow.io/",
+  "score": 6,
+  "verdict": "drop",
+  "capture_dir": "raw6",
+  "style": "Soft blush and taupe Webflow template for a Sacramento remodeler: dark kitchen hero with consultation form, staggered photo collage, before/after pairs. Template demo with placeholder content",
+  "palette": "Blush linen #f3e9e4 sections, taupe-sand #c8a98a buttons, white, slate navy #1f2a37 text and buttons, dimmed kitchen photo hero",
+  "typography": "Thin light uppercase grotesk (Manrope Light-like) for all headings ('HOME REMODELING BUILT AROUND YOU'), regular grotesk body",
+  "what_to_borrow": [
+   "Hero consultation form with name, email, phone, project type and zip code beside the headline, plus 'Call us' button and two translucent stat tiles (4.9/5 from 200+ reviews, 25+ years)",
+   "Top utility pill with address and phone above the nav",
+   "Before/after pairs with large BEFORE and AFTER labels and one-line captions; on mobile they stack before over after",
+   "FAQ list including 'What areas do you serve?' and 'Can we stay in our home during the remodel?'"
+  ],
+  "conversion_patterns": [
+   "Form in hero",
+   "Phone in top bar",
+   "Rating and years tiles",
+   "Mid-page 'Planning a remodel? Let's talk' band",
+   "Closing 'Ready to start your remodel?' CTA"
+  ],
+  "mobile_notes": "Hero puts Call us then the full consultation form in the first scroll, which is good; stat tiles follow. No sticky header or call bar. Thin uppercase headings get large and airy; before/after pairs stack readably.",
+  "weaknesses": [
+   "Thin light uppercase headings feel generic and low-contrast",
+   "Large dead white gaps between sections on desktop",
+   "Staggered collage leaves awkward empty space",
+   "AI-looking stock interiors",
+   "No pricing, warranty or team"
+  ],
+  "capture_issues": "raw6 better: raw7 desktop lost the Featured Projects carousel and the process heading. Desktop before/after pairs already in the pack as concept 19, so only the mobile stacked version was cropped.",
+  "sections": [
+   {
+    "section": "before_after",
+    "device": "mobile",
+    "file": "output/design_refs/pack/sections/before_after/hearth-template_webflow_io__mobile.jpg",
+    "why": "Mobile before/after done as stacked photos with big BEFORE and AFTER labels and captions; simple fallback when a slider is not wanted"
+   }
+  ]
+ },
+ {
+  "id": "rebuld_framer_website",
+  "url": "https://rebuld.framer.website/",
+  "score": 7,
+  "verdict": "drop",
+  "capture_dir": "raw6",
+  "style": "Warm cream and chocolate renovation one-pager (UK template) with pastel tier headers, tabbed project viewer, team portraits and huge wordmark footer. Template demo with placeholder content",
+  "palette": "Cream #f8f7ec, chocolate #3d2720, greige #dbd6c8 bands, pastel blue #dcebf7, butter #fff0b5 and sage #d9d6b0 card headers, white cards",
+  "typography": "Soft humanist grotesk (Founders Grotesk or Haffer-like) at large sizes ('Honest pricing. No surprises.'), small yellow-highlighted uppercase eyebrows ('PRICING', 'CONTACT')",
+  "what_to_borrow": [
+   "Three pricing tiers (Essentials, Full Renovation, Design & Fit) with pastel headers, a per-area starting price, checklists ending in workmanship guarantee length and the middle tier's filled 'Get a Quote' button",
+   "Services listed with 'Budget range' and 'Estimated duration' fields on each card",
+   "Tabbed project viewer (Kitchen, Bathroom, External, Loft) with a floating client quote card on the photo",
+   "Contact form with service checkboxes and a 'Book a Free Call' alternative",
+   "Yellow highlighter eyebrows as a friendly accent"
+  ],
+  "conversion_patterns": [
+   "Published starting prices",
+   "Guarantee length per tier",
+   "Get a Quote in every tier",
+   "Book a free call next to the form",
+   "Stats row (2.5k+ projects, 40+ tradespeople, 10+ years, 100% satisfaction)"
+  ],
+  "mobile_notes": "Very long (51k px) because every service card lists full bullets and budget ranges; pricing tiers stack fine. No sticky header or call bar; phone only in the footer.",
+  "weaknesses": [
+   "UK pricing in pounds per square metre needs US translation (dollars per sq ft or project ranges)",
+   "Stacked-card scroll animations break in static captures",
+   "No phone in header",
+   "Process cards leave a big empty left column",
+   "Very long mobile page"
+  ],
+  "capture_issues": "raw6 complete; raw7 stops at y 16000 and loses the form and footer, though it shows the services cards fully expanded (still overlapping). Process and services stacks render with overlaps or half-empty columns, so only the pricing tiers were cropped. Concepts 05 and 30 already cover the hero and mobile hero.",
+  "sections": [
+   {
+    "section": "services",
+    "device": "desktop",
+    "file": "output/design_refs/pack/sections/services/rebuld_framer_website__desktop.jpg",
+    "why": "Three-tier pricing cards with pastel headers, starting price, checklist with guarantee length and Get a Quote buttons; translate to dollars for US remodels"
+   }
+  ]
+ },
+ {
+  "id": "refit_framer_website",
+  "url": "https://refit.framer.website/",
+  "score": 5,
+  "verdict": "drop",
+  "capture_dir": "raw6",
+  "style": "Clean monochrome free Framer template: dark hero with a kitchen photo panel and review card, white sections, lavender-grey project cards, black contact block. Template demo with placeholder content",
+  "palette": "Black #121212, white, pale lavender-grey #eceef6 cards, mid grey text",
+  "typography": "Manrope-like geometric sans throughout, small black pill eyebrows ('About us', 'Services')",
+  "what_to_borrow": [
+   "Services accordion with line icons per service next to a large photo",
+   "Project cards that combine photo, description, type and duration chips, and the client's quote with avatar",
+   "Review card overlaid on the hero photo"
+  ],
+  "conversion_patterns": [
+   "'Work with us' hero button",
+   "Stats row",
+   "FAQ with 'Get in touch'",
+   "Contact block with office, email, phone and a form"
+  ],
+  "mobile_notes": "Stacks cleanly but the hero headline is small, the only CTA is a dark pill, and there is no sticky call or quote action. Project cards become very tall text blocks.",
+  "weaknesses": [
+   "Generic, small type and little hierarchy; looks like a starter template",
+   "No phone in header, no prices, no warranty, no team",
+   "Framer 'New template' promo and badges cover the hero",
+   "Weak contrast of grey text on white"
+  ],
+  "capture_issues": "raw6 better: raw7 desktop lost the project cards and FAQ heading (blank areas). Nothing better than what the pack already has, so no crops.",
+  "sections": []
+ }
+]

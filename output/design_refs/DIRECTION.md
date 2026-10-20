@@ -15,10 +15,12 @@ Take the **look** from the editorial studios (United Elite Group, C&R Design Rem
 Henrybuilt): warm neutral backgrounds (linen, sand, stone) alternating with one deep anchor colour (espresso, near
 black or navy), a refined high-contrast serif for headings over a quiet sans for body, tiny letter-spaced uppercase
 eyebrows, generous white space, and large real project photography. Take the **conversion system** from Watermark
-Design Build, Re-Bath and Kurtis Kitchen: a utility bar with licence and phone, a hero with two buttons (book and
-call), a trust strip right under the hero, one primary call to action repeated after each major section, price
-anchors where the firm publishes prices, a numbered process, a ratings strip, and a sticky Call / Book bar on
-mobile. Take the **warmth** from Murrayhill and Nicholson: the real owner and crew, a founder-signed invitation
+Design Build, the Harlow & Birch template, the Graybeam (Lintel) template and Kurtis Kitchen: a utility bar with
+licence and phone, a hero with two buttons (book and call), a trust strip right under the hero, one primary call to
+action repeated after each major section, price and timeline chips on service cards where the firm publishes them,
+a before/after slider, a numbered process with what to expect at each step, a ratings strip, a warranty band, and a
+sticky Call / Book bar on mobile. Re-Bath's sections (form docked in the hero, zip-code service-area finder) are in
+the section folders; its franchise look is not. Take the **warmth** from Murrayhill and Nicholson: the real owner and crew, a founder-signed invitation
 beside a short form, and the hours and phone right next to it.
 
 ## Rules the template must follow
@@ -38,6 +40,17 @@ beside a short form, and the hours and phone right next to it.
 6. **Sections in this order** (matches the content files): header and utility bar, hero with trust badges, intro,
    services, why choose us, about the owner, process, gallery, testimonials, service area, FAQ, final call to
    action, footer.
+
+## How to read this pack
+1. `DESIGN_REFERENCES.md` (this file): the direction, then every kept site with what to borrow, then every section
+   crop with one line on why it is there, then the gallery concepts with their source links.
+2. `index.html`: the same material as a visual gallery. Open it in a browser.
+3. `sites/NN_<site>/`: one folder per kept site, ranked best first, with desktop (1440 px), tablet (820 px) and
+   mobile (390 px at 2x) full pages, and on-screen shots of the first screen and after scrolling.
+4. `sections/<section>/`: the best example of each section, desktop and mobile, cut from live sites.
+5. `concepts/`: design concepts from Dribbble, Behance, Pinterest, Awwwards, One Page Love and the Framer and Webflow
+   marketplaces. Two kept sites (Harlow & Birch, Graybeam) and some concepts are template demos with placeholder
+   content: use them for layout and mechanics, not for copy.
 
 ## Avoid
 - The loud mass-market look (heavy red blocks, many competing buttons) and the generic contractor template look
