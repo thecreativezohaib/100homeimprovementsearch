@@ -1,8 +1,26 @@
-# Remodel 100: final report (run date 2026-10-14, updated 2026-10-19)
+# Remodel 100: final report (run date 2026-10-14, updated 2026-10-20)
 
-**Result so far: 64 verified prospects, not 100.** The list was not padded. Every prospect passed all nine hard
-gates on evidence, every one passed a visual photo review, all 64 have template content captured, and each
-gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "Still in progress").
+**Result: 100 prospects = 64 strict + 36 relaxed.** The 64 in `prospects100.csv` passed all nine hard gates on
+evidence, a visual photo review and template capture. To reach 100 you approved (2026-10-20) loosening some gates for
+firms already researched; those 36 are in `prospects100_relaxed.csv`, each row naming exactly which rule was loosened.
+`prospects100_all.csv` lists all 100 with a `tier` column. Nothing was guessed: every owner, email and niche claim
+in the relaxed tier is a verbatim quote (20 words or fewer) with its URL on the firm's own site.
+
+## Relaxed tier (36 firms, approved 2026-10-20)
+Loosened rules (a row uses only the ones listed in its `loosened` column):
+- **G4 (24 firms):** one dated activity signal in 2026-07-16 to 2026-10-14 instead of two different signal types.
+- **NICHE (21 firms):** kitchen and bath lead the advertised service list although the page title is generic home
+  remodelling (for example "Home Remodeling in Columbus, Ohio" with Kitchen and Bath first in the services).
+- **G6 email (12 firms):** owner named with an ownership role on the firm's own site, but no published email;
+  contact by phone or the site's contact form.
+- **G5 (all 36):** independence taken from the owner named on the firm's own site plus no franchise or parent wording in
+  the automated scan; the agent's G5 check was not run because the agent stopped at an earlier gate.
+
+Unchanged for every relaxed firm: G1, G2, G3 (no agency or vendor credit), G7 (8 or more original photos at 800px or
+wider, visually reviewed by me), G8 (a measured defect) and G9. Excluded during the relaxed review: 16 firms whose photos
+failed my visual check (stock, AI-style images, graphics, re-crops or fewer than 8 originals), firms whose owner was
+named only off-site or by first name, design-only studios, cabinet or showroom sellers, and a multi-market firm (G5).
+Templates were not captured for the relaxed tier (that needs agent runs).
 
 ## How the count grew (18, then 24, 36, 40, 44, 46, 48, 49, 53, 54, 59, 61, 62, 63, 64)
 - **2026-10-19: Craftsman Design and Renovation (Portland, OR) passed (64).** Its title leads with kitchen and bathroom
@@ -38,6 +56,7 @@ gate-critical claim is in `evidence.csv`. Work toward 100 is continuing (see "St
 |---|---|
 | Discovered (unique companies after dedupe) | 58,347 |
 | **Passed all gates** (`prospects100.csv`) | **64** |
+| Relaxed tier, approved loosening (`prospects100_relaxed.csv`) | 36 |
 | Contact-only (everything except a published email) | 10 |
 | Bench-vendor (failed only G3; vendor named; G8 defect measured) | 13 |
 | Rejected or not yet completed (`rejected.csv`) | 58,079 |
@@ -66,10 +85,10 @@ the main filter: most firms show no dated review, post, job or permit inside 202
   Microsoft Ads 1, Angi 1.
 
 ## Still in progress
-- `output/review_requests/all/GEMINI_NEXT.md` is the single cumulative Gemini file (about 720 firms). Firms that agents
+- `output/review_requests/all/GEMINI_NEXT.md` is the single cumulative Gemini file (885 firms; also split into 9 parts of 100 in `gemini_next_parts/`). Firms that agents
   already confirmed as kitchen and bath specialists are listed first; one in-window Google review completes their G4.
   `tools/ingest_gemini_all.py` imports the CSV Gemini returns.
-- Discovery round 16 (site checks) and round 17 (269 towns) are running. The pool of unsearched towns of 4,000 to
+- Discovery stopped after round 18 on your request (round 19 listings were collected but not processed). The pool of unsearched towns of 4,000 to
   100,000 people is nearly used up in the West (29 left on the West Coast, about 170 in the South-central and Mountain
   states).
 - Google review dates cannot be read anonymously: Maps shows 3 reviews in "limited view", sorting by newest does nothing
