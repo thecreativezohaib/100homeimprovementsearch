@@ -52,6 +52,9 @@ def main():
     best = {}
     for r in reviews:  # a site reviewed twice keeps its later review
         best[r["id"]] = r
+    for r in best.values():  # a reviewer's choice of capture (raw6 one-shot or raw7 stitched) overrides recency
+        if r.get("capture_dir"):
+            PREFER[r["id"]] = r["capture_dir"]
     kept = sorted([r for r in best.values() if r.get("verdict") == "keep"], key=lambda r: -float(r.get("score") or 0))
     conc = json.load(open(f"{R}/data/design_concepts.json")) if os.path.exists(f"{R}/data/design_concepts.json") else {"concepts": []}
 
