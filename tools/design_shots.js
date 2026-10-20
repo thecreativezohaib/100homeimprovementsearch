@@ -6,8 +6,13 @@ const fs = require('fs');
 
 const ACCEPT = /^(accept( all)?( cookies)?|i accept|agree|i agree|got it|ok|okay|allow all|close|no thanks|dismiss|×|x)$/i;
 
+const CLEAN = `*,*::before,*::after{animation-delay:0s!important;animation-duration:0s!important;transition:none!important}
+[data-aos],.wow,[data-animate],[data-scroll],.aos-init,.reveal,.fade-in,.fadeIn{opacity:1!important;transform:none!important;visibility:visible!important}
+[id*="cookie" i],[class*="cookie" i],[id*="consent" i],[class*="consent" i],#onetrust-banner-sdk,#usercentrics-root,[class*="cky-"],#hubspot-messages-iframe-container,[class*="termly" i]{display:none!important}`;
+
 async function prep(page) {
   await page.waitForTimeout(3500);
+  await page.addStyleTag({ content: CLEAN }).catch(() => { });
   for (let round = 0; round < 2; round++) {
     for (const el of await page.$$('button, a[role=button], [aria-label*="close" i], [aria-label*="dismiss" i]')) {
       try {
@@ -27,13 +32,20 @@ async function prep(page) {
 }
 
 async function shot(browser, opts, url, file) {
-  const ctx = await browser.newContext({ ...opts, ignoreHTTPSErrors: true });
+  const { viewShots, ...ctxOpts } = opts;
+  const ctx = await browser.newContext({ ...ctxOpts, ignoreHTTPSErrors: true });
   const page = await ctx.newPage();
   try {
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
     await prep(page);
     const title = await page.title();
     await page.screenshot({ path: file, fullPage: true, type: 'jpeg', quality: 75, timeout: 90000 });
+    if (opts.viewShots) {
+      // what a visitor sees on screen: first screen, then after scrolling (shows sticky headers and call bars)
+      await page.screenshot({ path: file.replace('_full.jpg', '_screen1.jpg'), type: 'jpeg', quality: 80 });
+      await page.evaluate(() => window.scrollTo(0, 1600)); await page.waitForTimeout(1200);
+      await page.screenshot({ path: file.replace('_full.jpg', '_screen2_scrolled.jpg'), type: 'jpeg', quality: 80 });
+    }
     return { ok: true, title, final_url: page.url() };
   } catch (e) {
     return { ok: false, error: String(e).slice(0, 200) };
@@ -47,9 +59,10 @@ async function shot(browser, opts, url, file) {
   const iphone = devices['iPhone 13'];
   for (const line of fs.readFileSync(inp, 'utf8').split('\n').filter(Boolean)) {
     const { id, url } = JSON.parse(line);
-    const d = await shot(browser, { viewport: { width: 1440, height: 900 } }, url, `${out}/${id}__desktop_full.jpg`);
-    const m = await shot(browser, { ...iphone, viewport: { width: 390, height: 844 }, deviceScaleFactor: 2 }, url, `${out}/${id}__mobile_full.jpg`);
-    const rec = { id, url, desktop: d, mobile: m, captured: new Date().toISOString() };
+    const d = await shot(browser, { viewport: { width: 1440, height: 900 }, viewShots: true }, url, `${out}/${id}__desktop_full.jpg`);
+    const m = await shot(browser, { ...iphone, viewport: { width: 390, height: 844 }, deviceScaleFactor: 2, viewShots: true }, url, `${out}/${id}__mobile_full.jpg`);
+    const t = process.env.TABLET ? await shot(browser, { viewport: { width: 820, height: 1180 } }, url, `${out}/${id}__tablet_full.jpg`) : null;
+    const rec = { id, url, desktop: d, mobile: m, tablet: t, captured: new Date().toISOString() };
     fs.appendFileSync(`${out}/_log.jsonl`, JSON.stringify(rec) + '\n');
     console.log(id, d.ok, m.ok);
   }
