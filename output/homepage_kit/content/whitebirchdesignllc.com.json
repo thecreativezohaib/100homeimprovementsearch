@@ -21,8 +21,14 @@
   "eyebrow": "Lakeville and the South Metro",
   "h1": "Kitchen Remodeling in Lakeville, Designed and Built by One Team",
   "subheadline": "White Birch Design is a boutique design-build firm run by co-owners Steve McDonald and Angela Barnhart, with award-winning kitchens across Lakeville, Eagan and the South Metro.",
-  "primary_cta": {"label": "Call 952-686-8443", "href": "tel:+19526868443"},
-  "secondary_cta": {"label": "Tell us about your project", "href": "#contact"},
+  "primary_cta": {
+   "label": "Call 952-686-8443",
+   "href": "tel:+19526868443"
+  },
+  "secondary_cta": {
+   "label": "Tell us about your project",
+   "href": "#contact"
+  },
   "trust_badges": [
    "5.0 stars from 30 Google reviews",
    "2025 NARI RotY kitchen and basement awards",
@@ -37,7 +43,7 @@
  "intro": {
   "h2": "Kitchen Remodeling in Lakeville with a Boutique Design-Build Team",
   "paragraphs": [
-   "White Birch Design handles kitchen remodeling in Lakeville and the South Metro as a full-service design-build company. One team takes your kitchen, bath or lower level from first idea through design and construction, so you are not passing plans between a designer and a separate contractor.",
+   "White Birch Design handles kitchen remodeling in Lakeville and the South Metro as a full-service design-build company. One team takes your kitchen, bath or lower level from first idea through design and construction, so you are not passing plans between a designer and a separate contractor. Its stated goal is simple: you feel part of the process and get the result you wished for.",
    "The firm calls its approach boutique: the experienced design and project management of a big design-build company, without the big price tag or impersonal communication. Co-owners Steve McDonald and Angela Barnhart bring a combined 30+ years in design, construction and real estate, which also helps homeowners weigh return on investment."
   ]
  },
@@ -47,88 +53,194 @@
    {
     "name": "Kitchen Design and Remodeling",
     "blurb": "Every kitchen starts with a consultation about your goals, your ideas and the existing space. White Birch promises it will never come back with an outrageous estimate or a design that does not fit your lifestyle. Many projects open up the whole main floor.",
-    "image": {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2024/07/White-Birch-Deerwood-Eagan_015.jpg", "alt": "Eagan main floor kitchen remodel with natural maple cabinets, gray island with seating, wood range hood and beverage fridge"}
+    "image": {
+     "url": "https://whitebirchdesignllc.com/wp-content/uploads/2024/07/White-Birch-Deerwood-Eagan_015.jpg",
+     "alt": "Eagan main floor kitchen remodel with natural maple cabinets, gray island with seating, wood range hood and beverage fridge"
+    }
    },
    {
     "name": "Bathroom Remodeling",
     "blurb": "Primary baths, guest baths and powder rooms. Recent work swapped an unused jetted tub in Lakeville for a walk-in shower with a built-in bench, frameless glass and grab bars, plus a makeup station and illuminated mirrors hung in front of the window.",
-    "image": {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/06/The-19th-Hole-Img-3.jpg", "alt": "Lakeville primary bath remodel with walk-in shower, quartz bench, brass handle and dark cherry vanity with illuminated mirrors"}
+    "image": {
+     "url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/06/The-19th-Hole-Img-3.jpg",
+     "alt": "Lakeville primary bath remodel with walk-in shower, quartz bench, brass handle and dark cherry vanity with illuminated mirrors"
+    }
    },
    {
     "name": "Lower Level Finishing",
-    "blurb": "Basements designed for relaxing, hosting and gathering, from bars to family rooms. White Birch guides you through design, finishing and remodeling, and its 2025 RotY basement award shows the level of finish. A recent Rosemount lower level added beams, a bar and a dining area.",
-    "image": {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/01/White-Birch-Design-Cobblestone-Ct-010.jpg", "alt": "Rosemount basement remodel with painted ceiling beams, dining table, bar seating and modern black chandelier"}
+    "blurb": "Basements designed for relaxing, hosting and gathering, from bars to family rooms. White Birch guides you through design, finishing and remodeling, and holds a 2025 RotY basement award. A Rosemount lower level features painted beams, bar seating and a dining area.",
+    "image": {
+     "url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/01/White-Birch-Design-Cobblestone-Ct-010.jpg",
+     "alt": "Rosemount basement remodel with painted ceiling beams, dining table, bar seating and modern black chandelier"
+    }
    },
    {
     "name": "Mudrooms and Main Floors",
     "blurb": "The hardworking rooms get design attention too. A Lakeville mudroom gained green cabinetry, stained maple shelving, custom shoe storage and a family command center after a wall came out between the closet and garage entry.",
-    "image": {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/07/White-Birch-Design-Dunfield-Dr-007.jpg", "alt": "Lakeville mudroom remodel with palm-pattern wallpaper, open coat hooks, wood shoe shelves under a bench and green cabinets"}
+    "image": {
+     "url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/07/White-Birch-Design-Dunfield-Dr-007.jpg",
+     "alt": "Lakeville mudroom remodel with palm-pattern wallpaper, open coat hooks, wood shoe shelves under a bench and green cabinets"
+    }
    }
   ]
  },
  "why_choose_us": {
   "h2": "Why South Metro Homeowners Pick White Birch",
   "items": [
-   {"title": "Award-winning kitchens", "text": "The site lists 2025 NARI RotY awards in two residential kitchen categories plus a basement award, a 2025 Regional NARI RotY kitchen award, and a 2024 NARI MN RotY."},
-   {"title": "Owners who stay involved", "text": "Reviewers name Steve and Angela directly for guidance, expertise and support every step of the way. Angela designs, and Steve brings the construction experience."},
-   {"title": "Honest timelines", "text": "A full kitchen remodel takes about 5 to 7 months from first conversation to final walkthrough, and about half of that is planning before demo day."},
-   {"title": "A real crew structure", "text": "A construction manager and two job supervisors run the job site, backed by a design associate and design assistant in the office."}
+   {
+    "title": "Award-winning kitchens",
+    "text": "The site lists 2025 NARI RotY awards in two residential kitchen categories plus a basement award, a 2025 Regional NARI RotY kitchen award, and a 2024 NARI MN RotY."
+   },
+   {
+    "title": "Owners who stay involved",
+    "text": "Reviewers name Steve and Angela directly for guidance, expertise and support every step of the way. Angela leads design, and clients credit Steve's experience for showing what is actually possible."
+   },
+   {
+    "title": "Honest timelines",
+    "text": "A full kitchen remodel takes about 5 to 7 months from first conversation to final walkthrough, and about half of that is planning before demo day."
+   },
+   {
+    "title": "A real crew structure",
+    "text": "A construction manager and two job supervisors run the job site, backed by a design associate and design assistant in the office."
+   }
   ]
  },
  "about": {
   "h2": "Meet Co-Owners Steve McDonald and Angela Barnhart",
-  "text": "White Birch Design is owned by Steve McDonald and Angela Barnhart, who bring a combined 30+ years in the design, construction and real estate industries. Angela leads design as owner and designer; Steve, as owner, guides the construction side. Together they take homeowners from concept to design to construction, and help them choose options that maximize return on investment. Their team includes construction manager Dane Mueller, job supervisors Mike Leahy and Kevin Lerdon, and designers Alicia Czech and Nicole Breyfogle. The company also supports Ronald McDonald House.",
+  "text": "White Birch Design is owned by Steve McDonald and Angela Barnhart, who bring a combined 30+ years in the design, construction and real estate industries. Angela leads design as owner and designer, and clients credit Steve's experience for showing them what is actually possible. Together they take homeowners from concept to design to construction, and help them choose options that maximize return on investment. Their team includes construction manager Dane Mueller, job supervisors Mike Leahy and Kevin Lerdon, and designers Alicia Czech and Nicole Breyfogle. The company also supports Ronald McDonald House.",
   "owner_name": "Steve McDonald",
   "owner_role": "Co-owner (with Angela Barnhart, Owner / Designer)",
-  "image": {"url": null, "alt": ""}
+  "image": {
+   "url": null,
+   "alt": ""
+  }
  },
  "process": {
   "h2": "From First Conversation to Final Walkthrough",
   "steps": [
-   {"title": "Consultation", "text": "Talk through your goals and ideas while the team reviews your existing space. No start date or finished design needed."},
-   {"title": "Design and estimate", "text": "Angela and the design team build a plan around your lifestyle, with an estimate that fits the scope you discussed."},
-   {"title": "Planning before demo", "text": "About half of a full kitchen timeline happens before demo day, and that planning keeps construction on track."},
-   {"title": "Construction", "text": "A construction manager and job supervisors run the site, and the owners stay by your side to the final walkthrough."}
+   {
+    "title": "Consultation",
+    "text": "Talk through your goals and ideas while the team reviews your existing space. No start date or finished design needed."
+   },
+   {
+    "title": "Design and estimate",
+    "text": "Angela and the design team build a plan around how you live, and the estimate that comes back matches the design you discussed."
+   },
+   {
+    "title": "Planning before demo",
+    "text": "About half of a full kitchen timeline happens before demo day, and that planning keeps construction on track."
+   },
+   {
+    "title": "Construction",
+    "text": "A construction manager and job supervisors run the site, and the owners stay by your side to the final walkthrough."
+   }
   ]
  },
  "gallery": {
   "h2": "Recent Projects in Lakeville, Eagan and Rosemount",
   "images": [
-   {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2022/03/51927859697_468c20da33_k-1-1.jpg", "alt": "Eagan modern farmhouse kitchen with wood base cabinets, white oak island with X-brace panel, apron sink and open shelves", "caption": "Modern farmhouse kitchen, Eagan"},
-   {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2025/07/White-Birch-Design-Dresden-Ct_007.jpg", "alt": "Eagan kitchen remodel with white cabinets, wood drum pendant, double wall ovens and a wood dining table", "caption": "White kitchen, Eagan"},
-   {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/03/White-Birch-Design-White-Pine-Way-003.jpg", "alt": "Eagan kitchen remodel with charcoal lower cabinets, white uppers, two islands and glass pendant lights", "caption": "Two-tone kitchen, Eagan"},
-   {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/09/Fleur-2.jpg", "alt": "Eagan primary bath with herringbone marble tile shower, teak bench and navy double vanity", "caption": "Fleur primary bath, Eagan"},
-   {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2023/06/16519-Irwindale-Ct_016.jpg", "alt": "Bathroom remodel with natural wood vanity and tall linen cabinet, round mirror and brass sconce", "caption": "Morning Retreat bath"},
-   {"url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/10/foundry-great-room-stone-fireplace-remodel-white-birch-design-01.jpg", "alt": "Lakeville great room remodel with floor-to-ceiling stone fireplace and white oak built-in shelving", "caption": "Foundry great room, Lakeville"}
+   {
+    "url": "https://whitebirchdesignllc.com/wp-content/uploads/2022/03/51927859697_468c20da33_k-1-1.jpg",
+    "alt": "Eagan modern farmhouse kitchen with wood base cabinets, white oak island with X-brace panel, apron sink and open shelves",
+    "caption": "Modern farmhouse kitchen, Eagan"
+   },
+   {
+    "url": "https://whitebirchdesignllc.com/wp-content/uploads/2025/07/White-Birch-Design-Dresden-Ct_007.jpg",
+    "alt": "Eagan kitchen remodel with white cabinets, wood drum pendant, double wall ovens and a wood dining table",
+    "caption": "White kitchen, Eagan"
+   },
+   {
+    "url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/03/White-Birch-Design-White-Pine-Way-003.jpg",
+    "alt": "Eagan kitchen remodel with charcoal lower cabinets, white uppers, two islands and glass pendant lights",
+    "caption": "Two-tone kitchen, Eagan"
+   },
+   {
+    "url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/09/Fleur-2.jpg",
+    "alt": "Eagan primary bath with herringbone marble tile shower, teak bench and navy double vanity",
+    "caption": "Fleur primary bath, Eagan"
+   },
+   {
+    "url": "https://whitebirchdesignllc.com/wp-content/uploads/2023/06/16519-Irwindale-Ct_016.jpg",
+    "alt": "Bathroom remodel with natural wood vanity and tall linen cabinet, round mirror and brass sconce",
+    "caption": "Morning Retreat bath"
+   },
+   {
+    "url": "https://whitebirchdesignllc.com/wp-content/uploads/2026/10/foundry-great-room-stone-fireplace-remodel-white-birch-design-01.jpg",
+    "alt": "Lakeville great room remodel with floor-to-ceiling stone fireplace and white oak built-in shelving",
+    "caption": "Foundry great room, Lakeville"
+   }
   ]
  },
  "testimonials": {
   "h2": "Homeowners on Working with Steve and Angela",
   "items": [
-   {"name": "Jackie L.", "text": "White Birch Design is exceptional. Steve and Angela provide an outstanding experience, offering guidance, expertise, and support every step of the way.", "source": "Google", "date": "2026-07 (shown as 3 months ago on 2026-10-14)"},
-   {"name": "Amanda D.", "text": "White Birch recently completed a complete remodel of our kitchen, as well as new flooring throughout the main floor of our home. We had a great experience!", "source": "Google", "date": "2026-05 (shown as 5 months ago on 2026-10-14)"},
-   {"name": "Liz and Scott S.", "text": "Our experience was fantastic! We had lots of ideas but had trouble determining what was actually possible. Steve's experience and Angela's design knowledge was invaluable. They helped to bring the vision that we had for our new kitchen into a reality.", "source": "Website testimonial", "date": "not dated on site"}
+   {
+    "name": "Jackie L.",
+    "text": "White Birch Design is exceptional. Steve and Angela provide an outstanding experience, offering guidance, expertise, and support every step of the way.",
+    "source": "Google",
+    "date": "2026-07 (shown as 3 months ago on 2026-10-14)"
+   },
+   {
+    "name": "Amanda D.",
+    "text": "White Birch recently completed a complete remodel of our kitchen, as well as new flooring throughout the main floor of our home. We had a great experience!",
+    "source": "Google",
+    "date": "2026-05 (shown as 5 months ago on 2026-10-14)"
+   },
+   {
+    "name": "Liz and Scott S.",
+    "text": "Our experience was fantastic! We had lots of ideas but had trouble determining what was actually possible. Steve's experience and Angela's design knowledge was invaluable. They helped to bring the vision that we had for our new kitchen into a reality.",
+    "source": "Website testimonial",
+    "date": "not dated on site"
+   }
   ]
  },
  "service_area": {
   "h2": "South Metro Towns We Remodel In",
-  "text": "White Birch Design is based in Lakeville. Its main focus is kitchen, bath and basement remodeling in the South Metro communities of Lakeville, Eagan, Apple Valley, Burnsville, Rosemount, Prior Lake and Savage, and it also works with homeowners across Minneapolis and St. Paul. Past projects reach Shakopee, Bloomington, Hopkins, Northfield, New Prague and Owatonna.",
-  "towns": ["Lakeville", "Eagan", "Apple Valley", "Burnsville", "Rosemount", "Prior Lake", "Savage", "Minneapolis", "St. Paul"]
+  "text": "White Birch Design is based in Lakeville. Its main focus is kitchen, bath and basement remodeling in the South Metro communities of Lakeville, Eagan, Apple Valley, Burnsville, Rosemount, Prior Lake and Savage, and it also works with homeowners across Minneapolis and St. Paul. Past projects reach Shakopee, Bloomington, Hopkins, Northfield, New Prague and Owatonna, so ask even if your town is not listed.",
+  "towns": [
+   "Lakeville",
+   "Eagan",
+   "Apple Valley",
+   "Burnsville",
+   "Rosemount",
+   "Prior Lake",
+   "Savage",
+   "Minneapolis",
+   "St. Paul"
+  ]
  },
  "faq": {
   "h2": "Questions Lakeville Homeowners Ask Before a Remodel",
   "items": [
-   {"q": "How long does a kitchen remodel take?", "a": "For a full remodel, plan on about 5 to 7 months from the first conversation to the final walkthrough. About half of that time happens before demo day, and that planning is what keeps construction on track. A cosmetic refresh with new countertops, hardware, paint and lighting can move faster."},
-   {"q": "Do I need a finished design or start date before I call?", "a": "No. Whether you have just started researching or want to begin next week, White Birch invites you to reach out. No start date or final design is needed, just a conversation about your ideas, your space and what you want to change. Call 952-686-8443 or use the contact form."},
-   {"q": "Can you make a bathroom safer as we age?", "a": "Yes. In a recent Lakeville primary bath, an unused jetted tub came out and a spacious walk-in shower went in, with a built-in bench, frameless glass and shower grab bars. Those aging-in-place features were worked into the design so the room still looks contemporary rather than clinical."},
-   {"q": "Is White Birch Design licensed?", "a": "Yes. The company lists its Minnesota license as BC# 736504 on its contact page. It also shows 2025 NARI RotY awards for residential kitchens and a basement, and it has exhibited at the Parade of Homes Remodelers Showcase. Ask for references from past clients near you during your consultation."},
-   {"q": "Which towns do you serve?", "a": "The main focus is the South Metro: Lakeville, Eagan, Apple Valley, Burnsville, Rosemount, Prior Lake and Savage. The team also takes projects across Minneapolis and St. Paul, and its portfolio includes work in Shakopee, Bloomington, Hopkins, Northfield, New Prague and Owatonna. Call to confirm your address."}
+   {
+    "q": "How long does a kitchen remodel take?",
+    "a": "For a full remodel, plan on about 5 to 7 months from the first conversation to the final walkthrough. About half of that time happens before demo day, and that planning is what keeps construction on track. A cosmetic refresh with new countertops, hardware, paint and lighting can move faster."
+   },
+   {
+    "q": "Do I need a finished design or start date before I call?",
+    "a": "No. Whether you have just started researching or want to begin next week, White Birch invites you to reach out. No start date or final design is needed, just a conversation about your ideas, your space and what you want to change. Call 952-686-8443 or use the contact form."
+   },
+   {
+    "q": "Can you make a bathroom safer as we age?",
+    "a": "Yes. In a recent Lakeville primary bath, an unused jetted tub came out and a spacious walk-in shower went in, with a built-in bench, frameless glass and shower grab bars. Those aging-in-place features were worked into the design so the room still looks contemporary rather than clinical."
+   },
+   {
+    "q": "Is White Birch Design licensed?",
+    "a": "Yes. The company lists its Minnesota license as BC# 736504 on its contact page. It also shows 2025 NARI RotY awards for residential kitchens and a basement, and it has exhibited at the Parade of Homes Remodelers Showcase. Ask for references from past clients near you during your consultation."
+   },
+   {
+    "q": "Which towns do you serve?",
+    "a": "The main focus is the South Metro: Lakeville, Eagan, Apple Valley, Burnsville, Rosemount, Prior Lake and Savage. The team also takes projects across Minneapolis and St. Paul, and its portfolio includes work in Shakopee, Bloomington, Hopkins, Northfield, New Prague and Owatonna. Call to confirm your address."
+   }
   ]
  },
  "final_cta": {
   "h2": "Start the Design Conversation for Your Kitchen",
   "text": "Share your ideas with Steve and Angela's team; a final design or start date is not needed.",
-  "button": {"label": "Call 952-686-8443", "href": "tel:+19526868443"},
+  "button": {
+   "label": "Call 952-686-8443",
+   "href": "tel:+19526868443"
+  },
   "phone": "952-686-8443"
  },
  "footer": {
@@ -136,7 +248,13 @@
   "address": "20591 Jupiter Cir, Lakeville, MN 55044",
   "phone": "952-686-8443",
   "email": null,
-  "socials": ["https://www.facebook.com/whitebirchdesignllc", "https://www.instagram.com/whitebirchdesignllc", "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/white-birch-design-llc-pfvwus-pf~1865208776", "https://www.linkedin.com/company/white-birch-design-llc", "https://www.pinterest.com/whitebirchdesign"],
+  "socials": [
+   "https://www.facebook.com/whitebirchdesignllc",
+   "https://www.instagram.com/whitebirchdesignllc",
+   "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/white-birch-design-llc-pfvwus-pf~1865208776",
+   "https://www.linkedin.com/company/white-birch-design-llc",
+   "https://www.pinterest.com/whitebirchdesign"
+  ],
   "hours": null
  },
  "schema_jsonld": {
@@ -145,10 +263,42 @@
   "name": "White Birch Design, LLC",
   "url": "https://whitebirchdesignllc.com/",
   "telephone": "+1-952-686-8443",
-  "address": {"@type": "PostalAddress", "streetAddress": "20591 Jupiter Cir", "addressLocality": "Lakeville", "addressRegion": "MN", "postalCode": "55044", "addressCountry": "US"},
-  "areaServed": ["Lakeville", "Eagan", "Apple Valley", "Burnsville", "Rosemount", "Prior Lake", "Savage", "Minneapolis", "St. Paul"],
-  "founder": [{"@type": "Person", "name": "Steve McDonald"}, {"@type": "Person", "name": "Angela Barnhart"}],
-  "sameAs": ["https://www.facebook.com/whitebirchdesignllc", "https://www.instagram.com/whitebirchdesignllc", "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/white-birch-design-llc-pfvwus-pf~1865208776", "https://www.linkedin.com/company/white-birch-design-llc", "https://www.pinterest.com/whitebirchdesign"],
+  "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "20591 Jupiter Cir",
+   "addressLocality": "Lakeville",
+   "addressRegion": "MN",
+   "postalCode": "55044",
+   "addressCountry": "US"
+  },
+  "areaServed": [
+   "Lakeville",
+   "Eagan",
+   "Apple Valley",
+   "Burnsville",
+   "Rosemount",
+   "Prior Lake",
+   "Savage",
+   "Minneapolis",
+   "St. Paul"
+  ],
+  "founder": [
+   {
+    "@type": "Person",
+    "name": "Steve McDonald"
+   },
+   {
+    "@type": "Person",
+    "name": "Angela Barnhart"
+   }
+  ],
+  "sameAs": [
+   "https://www.facebook.com/whitebirchdesignllc",
+   "https://www.instagram.com/whitebirchdesignllc",
+   "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/white-birch-design-llc-pfvwus-pf~1865208776",
+   "https://www.linkedin.com/company/white-birch-design-llc",
+   "https://www.pinterest.com/whitebirchdesign"
+  ],
   "image": "https://whitebirchdesignllc.com/wp-content/uploads/2026/08/White-Birch-Design-Jackpine-Trail-008.jpg"
  },
  "conversion_notes": {
@@ -172,20 +322,62 @@
   "outreach_hook": "Your 2025 NARI RotY kitchen awards are only logo images and your homepage H1 never says Lakeville; here is a page that puts both above the fold."
  },
  "facts_used": [
-  {"fact": "Name White Birch Design, LLC, address 20591 Jupiter Cir, Lakeville, MN 55044, phone +1 952-686-8443, category Kitchen remodeler", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q-rYtH9ocRvDK53IcS9Bk&hl=en"},
-  {"fact": "5.0 stars from 30 Google reviews; reviews by Jackie L. (3 months ago) and Amanda D. (5 months ago), retrieved 2026-10-14", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q-rYtH9ocRvDK53IcS9Bk&hl=en"},
-  {"fact": "Full-service design/build/remodeling company specializing in kitchen, bath and basement; boutique approach with perks of larger design/build without the big price tag; South Metro focus: Lakeville, Eagan, Apple Valley, Burnsville, Rosemount, Prior Lake, Savage; also Minneapolis and St. Paul", "source_url": "https://whitebirchdesignllc.com/"},
-  {"fact": "Website testimonial from Liz and Scott S.", "source_url": "https://whitebirchdesignllc.com/"},
-  {"fact": "Award logos: 2025 Regional NARI RotY Award Kitchen Remodel; 2025 RotY Residential Kitchen Remodel $100k to $150k and $150k to $200k; 2025 RotY Basement Remodel; 2024 NARI MN RotY", "source_url": "https://whitebirchdesignllc.com/"},
-  {"fact": "Instagram post on site: full remodel 5 to 7 months from first conversation to final walkthrough; about half before demo day; cosmetic refresh can move faster; no start date or final design needed; Parade of Homes Remodelers Showcase", "source_url": "https://whitebirchdesignllc.com/"},
-  {"fact": "Co-owners Steve McDonald (Owner) and Angela Barnhart (Owner / Designer), combined 30+ years in design, construction and real estate; concept to design to construction; return on investment; team Dane Mueller, Mike Leahy, Kevin Lerdon, Alicia Czech, Nicole Breyfogle; supports Ronald McDonald House", "source_url": "https://whitebirchdesignllc.com/our-team/"},
-  {"fact": "BC# 736504; phone 952-686-8443; whether researching or ready to start next week", "source_url": "https://whitebirchdesignllc.com/contact/"},
-  {"fact": "Kitchen process begins with a consultation; never an outrageous estimate or a design that does not fit your lifestyle; by your side through construction; project towns include Shakopee, Owatonna, Northfield, New Prague, Bloomington, Hopkins, Prior Lake, Burnsville", "source_url": "https://whitebirchdesignllc.com/home_location/kitchen-design-remodeling/"},
-  {"fact": "Nineteenth Hole primary bath, Lakeville 2025: jetted tub replaced by walk-in shower with bench and frameless glass, makeup station, grab bars, illuminated mirrors in front of window, Cambria Clovelly, cherry cabinetry", "source_url": "https://whitebirchdesignllc.com/portfolio/the-nineteenth-hole-primary-bath-remodel-lakeville-mn/"},
-  {"fact": "Verde mudroom, Lakeville 2026: Verdant green cabinetry, stained maple shelving, wall removed, custom shoe storage, command center", "source_url": "https://whitebirchdesignllc.com/portfolio/verde-mudroom-powder-bath-remodel-lakeville-mn/"},
-  {"fact": "Fleur primary bath, Eagan 2026, herringbone tile", "source_url": "https://whitebirchdesignllc.com/portfolio/fleur-primary-bath-remodel/"},
-  {"fact": "Photo labels: Jackpine Trail kitchen and main floor Lakeville; Deerwood Eagan main floor; Dresden Ct Eagan kitchen; White Pine Way Eagan kitchen and bath; Cobblestone Ct Rosemount basement; Eagan modern farmhouse kitchen; Foundry great room Lakeville", "source_url": "https://whitebirchdesignllc.com/home_location/kitchen-design-remodeling/"},
-  {"fact": "Measured PageSpeed mobile 52 and image sizes over 1MB", "source_url": "https://whitebirchdesignllc.com/"}
+  {
+   "fact": "Name White Birch Design, LLC, address 20591 Jupiter Cir, Lakeville, MN 55044, phone +1 952-686-8443, category Kitchen remodeler",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q-rYtH9ocRvDK53IcS9Bk&hl=en"
+  },
+  {
+   "fact": "5.0 stars from 30 Google reviews; reviews by Jackie L. (3 months ago) and Amanda D. (5 months ago), retrieved 2026-10-14",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6q-rYtH9ocRvDK53IcS9Bk&hl=en"
+  },
+  {
+   "fact": "Full-service design/build/remodeling company specializing in kitchen, bath and basement; boutique approach with perks of larger design/build without the big price tag; South Metro focus: Lakeville, Eagan, Apple Valley, Burnsville, Rosemount, Prior Lake, Savage; also Minneapolis and St. Paul",
+   "source_url": "https://whitebirchdesignllc.com/"
+  },
+  {
+   "fact": "Website testimonial from Liz and Scott S.",
+   "source_url": "https://whitebirchdesignllc.com/"
+  },
+  {
+   "fact": "Award logos: 2025 Regional NARI RotY Award Kitchen Remodel; 2025 RotY Residential Kitchen Remodel $100k to $150k and $150k to $200k; 2025 RotY Basement Remodel; 2024 NARI MN RotY",
+   "source_url": "https://whitebirchdesignllc.com/"
+  },
+  {
+   "fact": "Instagram post on site: full remodel 5 to 7 months from first conversation to final walkthrough; about half before demo day; cosmetic refresh can move faster; no start date or final design needed; Parade of Homes Remodelers Showcase",
+   "source_url": "https://whitebirchdesignllc.com/"
+  },
+  {
+   "fact": "Co-owners Steve McDonald (Owner) and Angela Barnhart (Owner / Designer), combined 30+ years in design, construction and real estate; concept to design to construction; return on investment; team Dane Mueller, Mike Leahy, Kevin Lerdon, Alicia Czech, Nicole Breyfogle; supports Ronald McDonald House",
+   "source_url": "https://whitebirchdesignllc.com/our-team/"
+  },
+  {
+   "fact": "BC# 736504; phone 952-686-8443; whether researching or ready to start next week",
+   "source_url": "https://whitebirchdesignllc.com/contact/"
+  },
+  {
+   "fact": "Kitchen process begins with a consultation; never an outrageous estimate or a design that does not fit your lifestyle; by your side through construction; project towns include Shakopee, Owatonna, Northfield, New Prague, Bloomington, Hopkins, Prior Lake, Burnsville",
+   "source_url": "https://whitebirchdesignllc.com/home_location/kitchen-design-remodeling/"
+  },
+  {
+   "fact": "Nineteenth Hole primary bath, Lakeville 2025: jetted tub replaced by walk-in shower with bench and frameless glass, makeup station, grab bars, illuminated mirrors in front of window, Cambria Clovelly, cherry cabinetry",
+   "source_url": "https://whitebirchdesignllc.com/portfolio/the-nineteenth-hole-primary-bath-remodel-lakeville-mn/"
+  },
+  {
+   "fact": "Verde mudroom, Lakeville 2026: Verdant green cabinetry, stained maple shelving, wall removed, custom shoe storage, command center",
+   "source_url": "https://whitebirchdesignllc.com/portfolio/verde-mudroom-powder-bath-remodel-lakeville-mn/"
+  },
+  {
+   "fact": "Fleur primary bath, Eagan 2026, herringbone tile",
+   "source_url": "https://whitebirchdesignllc.com/portfolio/fleur-primary-bath-remodel/"
+  },
+  {
+   "fact": "Photo labels: Jackpine Trail kitchen and main floor Lakeville; Deerwood Eagan main floor; Dresden Ct Eagan kitchen; White Pine Way Eagan kitchen and bath; Cobblestone Ct Rosemount basement; Eagan modern farmhouse kitchen; Foundry great room Lakeville",
+   "source_url": "https://whitebirchdesignllc.com/home_location/kitchen-design-remodeling/"
+  },
+  {
+   "fact": "Measured PageSpeed mobile 52 and image sizes over 1MB",
+   "source_url": "https://whitebirchdesignllc.com/"
+  }
  ],
  "missing": [
   "Email address (none published; contact is by phone or form)",
