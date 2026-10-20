@@ -41,6 +41,12 @@ def richest_crawl(pattern):
 def main():
     d = load(); L, site, maps, br, psi, dns, man, pre = d
     crawl = richest_crawl(f"{D}/fc_out*.jsonl")
+    # single pages fetched afterwards (for example a reviews page the crawl budget missed) are appended to that firm
+    for f in sorted(glob.glob(f"{D}/fc_extra*.jsonl")):
+        for x in jl(f):
+            base = crawl.setdefault(x["id"], {"id": x["id"], "pages": []})
+            have = {p["url"] for p in base["pages"]}
+            base["pages"] = base["pages"] + [p for p in x["pages"] if not p.get("error") and p["url"] not in have]
     g7 = last_by_id(f"{D}/g7verify.jsonl")
     vis = last_by_id(f"{D}/g7visual.jsonl")
     tmpl = {}

@@ -5,7 +5,15 @@
   "title_tag": "Remodeling Contractor in Sterling Heights | Majestic Home",
   "meta_description": "Basements, kitchens and baths by a family-owned remodeling contractor in Sterling Heights, founded in 1995. 18-month labor warranty. Call (248) 917-3422.",
   "primary_keyword": "remodeling contractor Sterling Heights",
-  "secondary_keywords": ["basement finishing Sterling Heights", "finished basement Rochester Hills", "kitchen remodeling Shelby Township", "bathroom remodeling Troy MI", "basement bar builder Macomb County", "design build remodeler Oakland County", "basement finishing cost Michigan"],
+  "secondary_keywords": [
+   "basement finishing Sterling Heights",
+   "finished basement Rochester Hills",
+   "kitchen remodeling Shelby Township",
+   "bathroom remodeling Troy MI",
+   "basement bar builder Macomb County",
+   "design build remodeler Oakland County",
+   "basement finishing cost Michigan"
+  ],
   "og_title": "Majestic Home Solutions | Remodeling Contractor in Sterling Heights",
   "og_description": "Family-owned since 1995. Finished basements, kitchens and baths with 3D design up front, published package pricing and an 18-month labor warranty."
  },
@@ -13,10 +21,24 @@
   "eyebrow": "Family-owned since 1995",
   "h1": "Remodeling Contractor in Sterling Heights With Design Done First",
   "subheadline": "Majestic Home Solutions finishes basements and remodels kitchens and baths across Macomb and Oakland counties. Founder Zayne Roumaya started the company in 1995, and you can see your space in 3D renderings before construction begins.",
-  "primary_cta": {"label": "Call (248) 917-3422", "href": "tel:+12489173422"},
-  "secondary_cta": {"label": "Schedule a free design consultation", "href": "#contact"},
-  "trust_badges": ["4.8 stars from 49 Google reviews", "Founded in 1995", "18-month warranty on all labor", "Full waiver of lien at final payment"],
-  "image": {"url": "https://www.majestichomesolutions.com/uplift-data/images/service-pages/basement-home.webp", "alt": "Finished basement bar with a backlit stone-look counter, clear stools and herringbone floor, built by Majestic Home Solutions, a remodeling contractor in Sterling Heights"}
+  "primary_cta": {
+   "label": "Call (248) 917-3422",
+   "href": "tel:+12489173422"
+  },
+  "secondary_cta": {
+   "label": "Schedule a free design consultation",
+   "href": "#contact"
+  },
+  "trust_badges": [
+   "4.8 stars from 49 Google reviews",
+   "Founded in 1995",
+   "18-month warranty on all labor",
+   "Full waiver of lien at final payment"
+  ],
+  "image": {
+   "url": "https://www.majestichomesolutions.com/uplift-data/images/service-pages/basement-home.webp",
+   "alt": "Finished basement bar with a backlit stone-look counter, clear stools and herringbone floor, built by Majestic Home Solutions, a remodeling contractor in Sterling Heights"
+  }
  },
  "intro": {
   "h2": "Plan every detail on screen before the first wall comes down",
@@ -28,19 +50,59 @@
  "services": {
   "h2": "A remodeling contractor in Sterling Heights for basements, kitchens and baths",
   "items": [
-   {"name": "Basement finishing", "blurb": "Turn bare concrete into a home office, guest room, theater, gym, play space, extra bathroom or bar. Published packages start at $65,000 for 750 to 850 square feet, and add-ons such as a wet bar or a full bathroom are priced on the same page.", "image": {"url": "https://www.majestichomesolutions.com/uplift-data/images/projects/impressive-troy-finished-b/648751714_1572707031529598_1915888259216648606_n.jpg", "alt": "Finished basement in Troy, MI with a shuffleboard table, a bar with seating and an open lounge area"}},
-   {"name": "Kitchen remodeling", "blurb": "Stock or custom cabinets, countertops, backsplash, lighting and appliance installs, planned around your budget. Published kitchen packages run $35,000, $45,000 and $55,000 for small to large kitchens that keep the existing floor, with more layout change allowed at each level.", "image": {"url": "https://www.majestichomesolutions.com/uplift-data/images/banners/kitchen-remodeling-2.webp", "alt": "Remodeled kitchen with navy lower cabinets and island, white upper cabinets, glass pendant lights and a stainless range hood"}},
-   {"name": "Bathroom remodeling", "blurb": "Primary suites and guest baths with custom marble, mosaic or ceramic tile, new vanities and options like heated floors, towel warmers and rain shower heads. Full bathroom packages for a standard 5 by 9 room are listed at $10,000, $12,000 and $15,000, before fixture and tile material.", "image": {"url": "https://www.majestichomesolutions.com/uplift-data/images/projects/sleek-master-bathroom-remo/IMG_4030.JPG", "alt": "Clinton Township primary bathroom remodel with a dark double vanity, white counter, two framed mirrors and vanity light bars"}},
-   {"name": "Custom bars and built-ins", "blurb": "Wet bars, dry bars, entertainment centers and built-in cabinets are a regular part of Majestic basements. One Auburn Hills family has worked with the company for over 20 years and recently updated an entertainment center the team built for them long ago.", "image": {"url": "https://www.majestichomesolutions.com/uplift-data/images/gallery/basements/125-150k%20Rochester%20Hills%20Finished%20Basement/cover.webp", "alt": "Rochester Hills basement bar with dark cabinets, a stone-look counter, stacked stone wall and pendant lights"}}
+   {
+    "name": "Basement finishing",
+    "blurb": "Turn bare concrete into a home office, guest room, theater, gym, play space, extra bathroom or bar. Published packages start at $65,000 for 750 to 850 square feet, and add-ons such as a wet bar or a full bathroom are priced on the same page.",
+    "image": {
+     "url": "https://www.majestichomesolutions.com/uplift-data/images/projects/impressive-troy-finished-b/648751714_1572707031529598_1915888259216648606_n.jpg",
+     "alt": "Finished basement in Troy, MI with a shuffleboard table, a bar with seating and an open lounge area"
+    }
+   },
+   {
+    "name": "Kitchen remodeling",
+    "blurb": "Stock or custom cabinets, countertops, backsplash, lighting and appliance installs, planned around your budget. Published kitchen packages run $35,000, $45,000 and $55,000 for small to large kitchens that keep the existing floor, with more layout change allowed at each level.",
+    "image": {
+     "url": "https://www.majestichomesolutions.com/uplift-data/images/banners/kitchen-remodeling-2.webp",
+     "alt": "Remodeled kitchen with navy lower cabinets and island, white upper cabinets, glass pendant lights and a stainless range hood"
+    }
+   },
+   {
+    "name": "Bathroom remodeling",
+    "blurb": "Primary suites and guest baths with custom marble, mosaic or ceramic tile, new vanities and options like heated floors, towel warmers and rain shower heads. Full bathroom packages for a standard 5 by 9 room are listed at $10,000, $12,000 and $15,000, before fixture and tile material.",
+    "image": {
+     "url": "https://www.majestichomesolutions.com/uplift-data/images/projects/sleek-master-bathroom-remo/IMG_4030.JPG",
+     "alt": "Clinton Township primary bathroom remodel with a dark double vanity, white counter, two framed mirrors and vanity light bars"
+    }
+   },
+   {
+    "name": "Custom bars and built-ins",
+    "blurb": "Wet bars, dry bars, entertainment centers and built-in cabinets are a regular part of Majestic basements. One Auburn Hills family has worked with the company for over 20 years and recently updated an entertainment center the team built for them long ago.",
+    "image": {
+     "url": "https://www.majestichomesolutions.com/uplift-data/images/gallery/basements/125-150k%20Rochester%20Hills%20Finished%20Basement/cover.webp",
+     "alt": "Rochester Hills basement bar with dark cabinets, a stone-look counter, stacked stone wall and pendant lights"
+    }
+   }
   ]
  },
  "why_choose_us": {
   "h2": "Reasons Macomb and Oakland homeowners hire Majestic",
   "items": [
-   {"title": "An 18-month labor warranty", "text": "Majestic offers an 18-month warranty on all of its labor. If something comes up after the job, you call the office and the team takes care of it."},
-   {"title": "Prices in writing, no hidden costs", "text": "Proposals break out every material and labor cost, and the company publishes package pricing for basements, kitchens and baths so you can budget before the first meeting."},
-   {"title": "Calls returned within one business day", "text": "Communication is guaranteed: calls and emails are returned within 1 business day or sooner, and BuilderTrend daily logs show progress between your updates."},
-   {"title": "Proof everyone got paid", "text": "At final payment you receive a full waiver of lien, which shows that every subcontractor and supplier on your project has been paid in full."}
+   {
+    "title": "An 18-month labor warranty",
+    "text": "Majestic offers an 18-month warranty on all of its labor. If something comes up after the job, you call the office and the team takes care of it."
+   },
+   {
+    "title": "Prices in writing, no hidden costs",
+    "text": "Proposals break out every material and labor cost, and the company publishes package pricing for basements, kitchens and baths so you can budget before the first meeting."
+   },
+   {
+    "title": "Calls returned within one business day",
+    "text": "Communication is guaranteed: calls and emails are returned within 1 business day or sooner, and BuilderTrend daily logs show progress between your updates."
+   },
+   {
+    "title": "Proof everyone got paid",
+    "text": "At final payment you receive a full waiver of lien, which shows that every subcontractor and supplier on your project has been paid in full."
+   }
   ]
  },
  "about": {
@@ -48,58 +110,155 @@
   "text": "Zayne Roumaya, an experienced craftsman, founded the company as “Majestic” in 1995, working on carpentry, deck design and remodeled basements, kitchens and baths. In 2005 it was reorganized into the family-owned Majestic Home Solutions, LLC, and its focus moved toward high-end design for basement finishing, kitchen remodels and bath refurbishments. Homeowners meet Zayne on the job too: Andre A. named him and Chris in his review after his basement was finished in early 2024. Every new hire passes a background check and skills evaluation, and licensed staff take continuing education courses to stay current on code.",
   "owner_name": "Zayne Roumaya",
   "owner_role": "Founder",
-  "image": {"url": null, "alt": ""}
+  "image": {
+   "url": null,
+   "alt": ""
+  }
  },
  "process": {
   "h2": "Dreaming to post-construction in five steps",
   "steps": [
-   {"title": "Dreaming", "text": "At the first consultation you share inspiration photos, needs and budget while the team takes preliminary measurements and photos for your project file."},
-   {"title": "Designing", "text": "You review a preliminary plan and estimate, then sign a design agreement or contract. The agreement adds design hours for Chief Architect 3D renderings and selections."},
-   {"title": "Pre-construction", "text": "You get a BuilderTrend account for selections, schedules, change orders and daily logs, and every material is ordered and on site before work starts."},
-   {"title": "Construction", "text": "Each trade starts with a walk-through, crews follow detailed checklists, and a punch list walkthrough happens before the final payment is collected."},
-   {"title": "Post-construction", "text": "Your 18-month limited warranty begins, and the team comes back to photograph the finished space and talk through how the project went."}
+   {
+    "title": "Dreaming",
+    "text": "At the first consultation you share inspiration photos, needs and budget while the team takes preliminary measurements and photos for your project file."
+   },
+   {
+    "title": "Designing",
+    "text": "You review a preliminary plan and estimate, then sign a design agreement or contract. The agreement adds design hours for Chief Architect 3D renderings and selections."
+   },
+   {
+    "title": "Pre-construction",
+    "text": "You get a BuilderTrend account for selections, schedules, change orders and daily logs, and every material is ordered and on site before work starts."
+   },
+   {
+    "title": "Construction",
+    "text": "Each trade starts with a walk-through, crews follow detailed checklists, and a punch list walkthrough happens before the final payment is collected."
+   },
+   {
+    "title": "Post-construction",
+    "text": "Your 18-month limited warranty begins, and the team comes back to photograph the finished space and talk through how the project went."
+   }
   ]
  },
  "gallery": {
   "h2": "Basements, bars and baths from recent Majestic jobs",
   "images": [
-   {"url": "https://www.majestichomesolutions.com/uplift-data/images/projects/timeless-finished-basement/IMG_5450.JPG", "alt": "Finished basement wet bar in Novi, MI with dark cabinets, pendant lights, open shelving and a built-in wine rack", "caption": "Timeless Finished Basement, Novi"},
-   {"url": "https://www.majestichomesolutions.com/uplift-data/images/projects/top-tier-custom-finished-b/452622799_1054767503323556_5927706160713900169_n.jpg", "alt": "Shelby Township basement lounge with a sectional sofa, wall-mounted TV, framed posters and color-changing cove lighting", "caption": "Custom Finished Basement, Shelby Twp."},
-   {"url": "https://www.majestichomesolutions.com/uplift-data/images/gallery/basements/185-200k%20Northville%20Finished%20Basement/cover.webp", "alt": "Northville basement with navy blue bar cabinets, glass-front display shelves and a white island with gold bar stools", "caption": "Finished basement, Northville"},
-   {"url": "https://www.majestichomesolutions.com/uplift-data/images/gallery/basements/165-175k%20Novi%20Finished%20Basement/cover.webp", "alt": "Novi basement kitchenette with a stacked stone wall, farmhouse sink, gray cabinets and white stone countertops", "caption": "Finished basement, Novi"},
-   {"url": "https://www.majestichomesolutions.com/uplift-data/images/gallery/basements/185-200k%20Shelby%20Township%20Finished%20Basement/cover.webp", "alt": "Shelby Township basement bar with a coffered ceiling, backlit shelving and leather-back bar stools", "caption": "Finished basement, Shelby Township"},
-   {"url": "https://www.majestichomesolutions.com/uplift-data/images/banners/2024-02-14/basement-finishing-banner-new.webp", "alt": "Basement home theater with black walls, a projection screen, wall sconces and purple cove lighting", "caption": "Basement theater"},
-   {"url": "https://www.majestichomesolutions.com/uplift-data/images/banners/2024-02-14/bathroom-remodeling.webp", "alt": "Remodeled bathroom with a white makeup vanity, sink cabinet with tall linen tower and a glass-enclosed shower", "caption": "Bathroom with makeup vanity"},
-   {"url": "https://www.majestichomesolutions.com/uplift-data/images/service-pages/design-build-after.webp", "alt": "Bathroom with dark green vertical wall tile, a wood vanity, brass-framed mirror and a frameless glass shower", "caption": "Design/build bathroom"}
+   {
+    "url": "https://www.majestichomesolutions.com/uplift-data/images/projects/timeless-finished-basement/IMG_5450.JPG",
+    "alt": "Finished basement wet bar in Novi, MI with dark cabinets, pendant lights, open shelving and a built-in wine rack",
+    "caption": "Timeless Finished Basement, Novi"
+   },
+   {
+    "url": "https://www.majestichomesolutions.com/uplift-data/images/projects/top-tier-custom-finished-b/452622799_1054767503323556_5927706160713900169_n.jpg",
+    "alt": "Shelby Township basement lounge with a sectional sofa, wall-mounted TV, framed posters and color-changing cove lighting",
+    "caption": "Custom Finished Basement, Shelby Twp."
+   },
+   {
+    "url": "https://www.majestichomesolutions.com/uplift-data/images/gallery/basements/185-200k%20Northville%20Finished%20Basement/cover.webp",
+    "alt": "Northville basement with navy blue bar cabinets, glass-front display shelves and a white island with gold bar stools",
+    "caption": "Finished basement, Northville"
+   },
+   {
+    "url": "https://www.majestichomesolutions.com/uplift-data/images/gallery/basements/165-175k%20Novi%20Finished%20Basement/cover.webp",
+    "alt": "Novi basement kitchenette with a stacked stone wall, farmhouse sink, gray cabinets and white stone countertops",
+    "caption": "Finished basement, Novi"
+   },
+   {
+    "url": "https://www.majestichomesolutions.com/uplift-data/images/gallery/basements/185-200k%20Shelby%20Township%20Finished%20Basement/cover.webp",
+    "alt": "Shelby Township basement bar with a coffered ceiling, backlit shelving and leather-back bar stools",
+    "caption": "Finished basement, Shelby Township"
+   },
+   {
+    "url": "https://www.majestichomesolutions.com/uplift-data/images/banners/2024-02-14/basement-finishing-banner-new.webp",
+    "alt": "Basement home theater with black walls, a projection screen, wall sconces and purple cove lighting",
+    "caption": "Basement theater"
+   },
+   {
+    "url": "https://www.majestichomesolutions.com/uplift-data/images/banners/2024-02-14/bathroom-remodeling.webp",
+    "alt": "Remodeled bathroom with a white makeup vanity, sink cabinet with tall linen tower and a glass-enclosed shower",
+    "caption": "Bathroom with makeup vanity"
+   },
+   {
+    "url": "https://www.majestichomesolutions.com/uplift-data/images/service-pages/design-build-after.webp",
+    "alt": "Bathroom with dark green vertical wall tile, a wood vanity, brass-framed mirror and a frameless glass shower",
+    "caption": "Design/build bathroom"
+   }
   ]
  },
  "testimonials": {
   "h2": "Majestic clients in their own words",
   "items": [
-   {"name": "Keylie H.", "text": "Absolutely amazing experience from beginning to end! The entire team was professional, friendly, and hardworking. They did an incredible job and went above and beyond to make sure everything was done right.", "source": "Google", "date": "a month ago on Google as of 2026-10-14"},
-   {"name": "Andre A.", "text": "Majestic completed our basement finishing project in early 2024 and I have nothing but good things to say about Zayne, Chris and the rest of the majestic crew. Top notch service!", "source": "Google", "date": "2 years ago on Google as of 2026-10-14"},
-   {"name": "Keylie H.", "text": "I couldn’t be happier with the work this construction company did! From start to finish, they were professional, reliable, and respectful. The quality of their work was excellent, and they paid attention to every detail.", "source": "Google", "date": "a month ago on Google as of 2026-10-14 (second review under the same name)"}
+   {
+    "name": "Keylie H.",
+    "text": "Absolutely amazing experience from beginning to end! The entire team was professional, friendly, and hardworking. They did an incredible job and went above and beyond to make sure everything was done right.",
+    "source": "Google",
+    "date": "a month ago on Google as of 2026-10-14"
+   },
+   {
+    "name": "Andre A.",
+    "text": "Majestic completed our basement finishing project in early 2024 and I have nothing but good things to say about Zayne, Chris and the rest of the majestic crew. Top notch service!",
+    "source": "Google",
+    "date": "2 years ago on Google as of 2026-10-14"
+   },
+   {
+    "name": "Steve O.",
+    "text": "Majestic did a great job remodeling our Master Bath. Project was on time (completed in 30 days) and on Budget. Craftsmen were very professional and courteous. Also, had great suggestions on enhancements as we went through the process.",
+    "source": "Website testimonial",
+    "date": "undated on the site's reviews page (read 2026-10-20)"
+   }
   ]
  },
  "service_area": {
   "h2": "Towns served across Macomb and Oakland counties",
   "text": "Majestic is based in Sterling Heights at 42886 Mound Rd and works across Macomb and Oakland counties. The towns it lists include Rochester, Rochester Hills, Oakland Township, Shelby Township, Auburn Hills, Lake Orion, South Lyon and Troy, and its project photos show work in Novi, Northville, Royal Oak and Clinton Township too. Not sure you are inside the area? Call (248) 917-3422 to check your address.",
-  "towns": ["Sterling Heights", "Rochester", "Rochester Hills", "Oakland Township", "Shelby Township", "Auburn Hills", "Lake Orion", "South Lyon", "Troy", "Novi", "Northville", "Royal Oak", "Clinton Township"]
+  "towns": [
+   "Sterling Heights",
+   "Rochester",
+   "Rochester Hills",
+   "Oakland Township",
+   "Shelby Township",
+   "Auburn Hills",
+   "Lake Orion",
+   "South Lyon",
+   "Troy",
+   "Novi",
+   "Northville",
+   "Royal Oak",
+   "Clinton Township"
+  ]
  },
  "faq": {
   "h2": "What to know before you finish a basement or remodel",
   "items": [
-   {"q": "How much does a finished basement cost?", "a": "Majestic publishes three packages for qualifying homes built in 1985 or later: Bronze at $65,000 for 750 to 850 square feet, Silver at $85,000 for 850 to 1,000 square feet, and Gold at $100,000 for 1,000 to 1,100 square feet. Upgrades such as a wet bar, full bathroom or extra room are priced separately."},
-   {"q": "What is a Design Agreement?", "a": "It is an optional first step that covers a virtual design consultation, material selections and renderings of your space, with a set number of revisions. Fees start at a $2,500 minimum for projects under $100,000 and rise with project size. If you go ahead with construction, the fee is deducted from your project total."},
-   {"q": "Do I have to take time off work for design meetings?", "a": "No. Majestic holds its design meetings and consultations over Zoom at a time that works for you, so you can review material selections and renderings from home or the office. Once your design is approved, you receive a full construction spec and contract with no hidden costs."},
-   {"q": "Is financing available?", "a": "Majestic's kitchen and bathroom pricing guides state that financing is available at 18% added to the total price. Packages are set at standard options, and estimates are done in person or from required photos you send. Problems found behind walls can add cost, so ask about them during your estimate."},
-   {"q": "What warranty do you offer?", "a": "Majestic gives an 18-month warranty on all of its labor. If an issue comes up, call the office and the team will take care of it. At final payment you also receive a full waiver of lien, so you know the subcontractors and suppliers on your job have been paid."}
+   {
+    "q": "How much does a finished basement cost?",
+    "a": "Majestic publishes three packages for qualifying homes built in 1985 or later: Bronze at $65,000 for 750 to 850 square feet, Silver at $85,000 for 850 to 1,000 square feet, and Gold at $100,000 for 1,000 to 1,100 square feet. Upgrades such as a wet bar, full bathroom or extra room are priced separately."
+   },
+   {
+    "q": "What is a Design Agreement?",
+    "a": "It is an optional first step that covers a virtual design consultation, material selections and renderings of your space, with a set number of revisions. Fees start at a $2,500 minimum for projects under $100,000 and rise with project size. If you go ahead with construction, the fee is deducted from your project total."
+   },
+   {
+    "q": "Do I have to take time off work for design meetings?",
+    "a": "No. Majestic holds its design meetings and consultations over Zoom at a time that works for you, so you can review material selections and renderings from home or the office. Once your design is approved, you receive a full construction spec and contract with no hidden costs."
+   },
+   {
+    "q": "Is financing available?",
+    "a": "Majestic's kitchen and bathroom pricing guides state that financing is available at 18% added to the total price. Packages are set at standard options, and estimates are done in person or from required photos you send. Problems found behind walls can add cost, so ask about them during your estimate."
+   },
+   {
+    "q": "What warranty do you offer?",
+    "a": "Majestic gives an 18-month warranty on all of its labor. If an issue comes up, call the office and the team will take care of it. At final payment you also receive a full waiver of lien, so you know the subcontractors and suppliers on your job have been paid."
+   }
   ]
  },
  "final_cta": {
   "h2": "Start with a free design consultation",
   "text": "Call the Majestic team in Sterling Heights or ask for your free estimate online.",
-  "button": {"label": "Call (248) 917-3422", "href": "tel:+12489173422"},
+  "button": {
+   "label": "Call (248) 917-3422",
+   "href": "tel:+12489173422"
+  },
   "phone": "(248) 917-3422"
  },
  "footer": {
@@ -107,7 +266,11 @@
   "address": "42886 Mound Rd, Sterling Heights, MI 48314",
   "phone": "(248) 917-3422",
   "email": "info@majestichomesolutions.com",
-  "socials": ["https://www.facebook.com/majestichomesolutions", "https://www.instagram.com/majestichomesolutions", "https://www.pinterest.com/majestichomesolutions"],
+  "socials": [
+   "https://www.facebook.com/majestichomesolutions",
+   "https://www.instagram.com/majestichomesolutions",
+   "https://www.pinterest.com/majestichomesolutions"
+  ],
   "hours": null
  },
  "schema_jsonld": {
@@ -117,12 +280,40 @@
   "url": "https://www.majestichomesolutions.com/",
   "telephone": "+12489173422",
   "email": "info@majestichomesolutions.com",
-  "address": {"@type": "PostalAddress", "streetAddress": "42886 Mound Rd", "addressLocality": "Sterling Heights", "addressRegion": "MI", "postalCode": "48314", "addressCountry": "US"},
-  "areaServed": ["Sterling Heights, MI", "Rochester, MI", "Rochester Hills, MI", "Oakland Township, MI", "Shelby Township, MI", "Auburn Hills, MI", "Lake Orion, MI", "South Lyon, MI", "Troy, MI", "Novi, MI", "Northville, MI", "Royal Oak, MI", "Clinton Township, MI"],
-  "sameAs": ["https://www.facebook.com/majestichomesolutions", "https://www.instagram.com/majestichomesolutions", "https://www.pinterest.com/majestichomesolutions"],
+  "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "42886 Mound Rd",
+   "addressLocality": "Sterling Heights",
+   "addressRegion": "MI",
+   "postalCode": "48314",
+   "addressCountry": "US"
+  },
+  "areaServed": [
+   "Sterling Heights, MI",
+   "Rochester, MI",
+   "Rochester Hills, MI",
+   "Oakland Township, MI",
+   "Shelby Township, MI",
+   "Auburn Hills, MI",
+   "Lake Orion, MI",
+   "South Lyon, MI",
+   "Troy, MI",
+   "Novi, MI",
+   "Northville, MI",
+   "Royal Oak, MI",
+   "Clinton Township, MI"
+  ],
+  "sameAs": [
+   "https://www.facebook.com/majestichomesolutions",
+   "https://www.instagram.com/majestichomesolutions",
+   "https://www.pinterest.com/majestichomesolutions"
+  ],
   "image": "https://www.majestichomesolutions.com/uplift-data/images/service-pages/basement-home.webp",
   "foundingDate": "1995",
-  "founder": {"@type": "Person", "name": "Zayne Roumaya"}
+  "founder": {
+   "@type": "Person",
+   "name": "Zayne Roumaya"
+  }
  },
  "conversion_notes": {
   "current_site_defects": [
@@ -148,27 +339,70 @@
   "outreach_hook": "Your Google listing is in Sterling Heights, but your site never shows the Mound Rd address and calls you a Rochester Hills contractor; this homepage fixes that and your 51 mobile speed score."
  },
  "facts_used": [
-  {"fact": "Name Majestic Home Solutions LLC, address 42886 Mound Rd, Sterling Heights, MI 48314, phone +1 248-917-3422, category Remodeler", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJub3EUjn4JIgRg-NFJiUCxU8&hl=en"},
-  {"fact": "Google rating 4.8 from 49 reviews (retrieved 2026-10-14); review tag basement finishing; reviews from Keylie Hamlin (two) and Andre Archer naming Zayne and Chris", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJub3EUjn4JIgRg-NFJiUCxU8&hl=en"},
-  {"fact": "Founded in 1995 as 'Majestic' by craftsman Zayne Roumaya; reorganized in 2005 as family-owned Majestic Home Solutions, LLC; focus on high-end design for basements, kitchens, baths; 18-month warranty on all labor; Zoom design consultations; Design Agreement fee applied to total; detailed proposal, no hidden costs; calls and emails returned within 1 business day; clean jobsite; background check and skills evaluation; licensed individuals take continuing education; full waiver of lien", "source_url": "https://www.majestichomesolutions.com/about-us"},
-  {"fact": "Five-step process: Dreaming, Designing (Chief Architect 3D renderings), Pre-Construction (BuilderTrend account, materials on site), Construction (walk-thrus, checklists, punch list), Post Construction (18 month limited warranty, professional pictures)", "source_url": "https://www.majestichomesolutions.com/our-process"},
-  {"fact": "Design Agreement pricing from $2,500 minimum under $100,000; includes virtual design consultation, selections, renderings, defined revisions; fee deducted if you move forward", "source_url": "https://www.majestichomesolutions.com/design-agreements"},
-  {"fact": "Basement packages $65,000 (750 to 850 sq ft), $85,000 (850 to 1000 sq ft), $100,000 (1000 to 1100 sq ft); home must not be built before 1985; upgrade pricing", "source_url": "https://www.majestichomesolutions.com/basement-remodeling-pricing-plans"},
-  {"fact": "Kitchen packages $35,000, $45,000, $55,000; no floor change; financing is 18% additional on the total price; estimate in person or with required pictures", "source_url": "https://www.majestichomesolutions.com/kitchen-remodeling-pricing-plans"},
-  {"fact": "Bathroom packages $10,000, $12,000, $15,000 for a standard 5X9; does not include fixture and tile material cost", "source_url": "https://www.majestichomesolutions.com/bathroom-remodeling-pricing-plans"},
-  {"fact": "Basement uses (home offices, guest rooms, theaters, bars, play spaces, gyms, bathrooms); stock or custom cabinetry; marble, mosaic, ceramic tile; towns Rochester, Rochester Hills, Oakland Twp, Shelby Twp, Auburn Hills, Lake Orion, South Lyon, Troy; free design consultation and free estimate CTAs", "source_url": "https://www.majestichomesolutions.com/"},
-  {"fact": "Bathroom options heated tiles, towel warmers, rain shower heads", "source_url": "https://www.majestichomesolutions.com/bathroom-remodeling"},
-  {"fact": "Projects in Novi, Clinton Twp., Troy, Shelby Twp.; Auburn Hills client for over 20 years with entertainment center update", "source_url": "https://www.majestichomesolutions.com/projects"},
-  {"fact": "Gallery project towns Rochester Hills, Northville, Novi, Shelby Township, Royal Oak", "source_url": "https://www.majestichomesolutions.com/basement-finishing/gallery"},
-  {"fact": "Email info@majestichomesolutions.com", "source_url": "https://www.majestichomesolutions.com/our-careers"}
+  {
+   "fact": "Name Majestic Home Solutions LLC, address 42886 Mound Rd, Sterling Heights, MI 48314, phone +1 248-917-3422, category Remodeler",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJub3EUjn4JIgRg-NFJiUCxU8&hl=en"
+  },
+  {
+   "fact": "Google rating 4.8 from 49 reviews (retrieved 2026-10-14); review tag basement finishing; reviews from Keylie Hamlin (two) and Andre Archer naming Zayne and Chris",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJub3EUjn4JIgRg-NFJiUCxU8&hl=en"
+  },
+  {
+   "fact": "Founded in 1995 as 'Majestic' by craftsman Zayne Roumaya; reorganized in 2005 as family-owned Majestic Home Solutions, LLC; focus on high-end design for basements, kitchens, baths; 18-month warranty on all labor; Zoom design consultations; Design Agreement fee applied to total; detailed proposal, no hidden costs; calls and emails returned within 1 business day; clean jobsite; background check and skills evaluation; licensed individuals take continuing education; full waiver of lien",
+   "source_url": "https://www.majestichomesolutions.com/about-us"
+  },
+  {
+   "fact": "Five-step process: Dreaming, Designing (Chief Architect 3D renderings), Pre-Construction (BuilderTrend account, materials on site), Construction (walk-thrus, checklists, punch list), Post Construction (18 month limited warranty, professional pictures)",
+   "source_url": "https://www.majestichomesolutions.com/our-process"
+  },
+  {
+   "fact": "Design Agreement pricing from $2,500 minimum under $100,000; includes virtual design consultation, selections, renderings, defined revisions; fee deducted if you move forward",
+   "source_url": "https://www.majestichomesolutions.com/design-agreements"
+  },
+  {
+   "fact": "Basement packages $65,000 (750 to 850 sq ft), $85,000 (850 to 1000 sq ft), $100,000 (1000 to 1100 sq ft); home must not be built before 1985; upgrade pricing",
+   "source_url": "https://www.majestichomesolutions.com/basement-remodeling-pricing-plans"
+  },
+  {
+   "fact": "Kitchen packages $35,000, $45,000, $55,000; no floor change; financing is 18% additional on the total price; estimate in person or with required pictures",
+   "source_url": "https://www.majestichomesolutions.com/kitchen-remodeling-pricing-plans"
+  },
+  {
+   "fact": "Bathroom packages $10,000, $12,000, $15,000 for a standard 5X9; does not include fixture and tile material cost",
+   "source_url": "https://www.majestichomesolutions.com/bathroom-remodeling-pricing-plans"
+  },
+  {
+   "fact": "Basement uses (home offices, guest rooms, theaters, bars, play spaces, gyms, bathrooms); stock or custom cabinetry; marble, mosaic, ceramic tile; towns Rochester, Rochester Hills, Oakland Twp, Shelby Twp, Auburn Hills, Lake Orion, South Lyon, Troy; free design consultation and free estimate CTAs",
+   "source_url": "https://www.majestichomesolutions.com/"
+  },
+  {
+   "fact": "Bathroom options heated tiles, towel warmers, rain shower heads",
+   "source_url": "https://www.majestichomesolutions.com/bathroom-remodeling"
+  },
+  {
+   "fact": "Projects in Novi, Clinton Twp., Troy, Shelby Twp.; Auburn Hills client for over 20 years with entertainment center update",
+   "source_url": "https://www.majestichomesolutions.com/projects"
+  },
+  {
+   "fact": "Gallery project towns Rochester Hills, Northville, Novi, Shelby Township, Royal Oak",
+   "source_url": "https://www.majestichomesolutions.com/basement-finishing/gallery"
+  },
+  {
+   "fact": "Email info@majestichomesolutions.com",
+   "source_url": "https://www.majestichomesolutions.com/our-careers"
+  },
+  {
+   "fact": "Website testimonial from Steve O: master bath remodel completed in 30 days, on time and on budget (page not in the crawl data; read live 2026-10-20)",
+   "source_url": "https://www.majestichomesolutions.com/reviews"
+  }
  ],
  "missing": [
   "Michigan builder license number not published",
   "Business hours not published on the site (Google shows only 'Closes 5 PM')",
   "Current owner name and role (Zayne Roumaya is named as founder only)",
-  "Only two distinct Google reviewers captured; the third testimonial is a second review under the same name, so swap in another named review from Google or the site reviews page",
   "Kitchen and bathroom project photos with town names (crawled galleries are mostly basements)",
   "Full list of 21 towns on the near-me page (not crawled)",
-  "Owner or team photo for the about section"
+  "Owner or team photo for the about section",
+  "Reviews page https://www.majestichomesolutions.com/reviews is not in the crawl data, so the validator cannot check testimonial #3 (Steve O.) against it; add that page to the crawl"
  ]
 }
