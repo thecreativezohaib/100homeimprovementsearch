@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Design reference pack helpers.
   sheet <rawdir> <out.jpg> [ids...]  contact sheet: first desktop screen and first mobile screen of each captured site
+  stitch <tiledir>                   join scroll-and-stitch tiles (tools/design_stitch.js) into <id>__<device>_full.jpg,
+                                     plus <id>__<device>_screen1.jpg from the first tile
   slice <rawdir> <outdir> <id>...    cut each full-page capture into screen-sized slices (desktop 1440x1100, mobile
                                      780x1500 at 2x), so each slice shows one or two sections at readable size
 Usage: design_slices.py sheet|slice ..."""
@@ -50,9 +52,28 @@ def slice_ids(raw, outdir, ids):
         print(i, len(nd), len(nm))
 
 
+def stitch(d):
+    for meta_file in sorted(glob.glob(f"{d}/*_tiles.json")):
+        m = json.load(open(meta_file)); k = m["scale"]
+        prefix = meta_file[:-len("_tiles.json")]
+        first = Image.open(m["tiles"][0]["file"]).convert("RGB")
+        W = first.width
+        H = int(max(t["y"] for t in m["tiles"]) * k) + first.height
+        out = Image.new("RGB", (W, H), "white")
+        for t in m["tiles"]:  # later tiles over earlier ones; the last tile is aligned to the page bottom
+            out.paste(Image.open(t["file"]).convert("RGB"), (0, int(t["y"] * k)))
+        out.save(f"{prefix}_full.jpg", quality=75)
+        first.save(f"{prefix}_screen1.jpg", quality=80)
+        for t in m["tiles"]:
+            os.remove(t["file"])
+        print(os.path.basename(prefix), out.size, len(m["tiles"]))
+
+
 if __name__ == "__main__":
     a = sys.argv[1:]
-    if a[0] == "sheet":
+    if a[0] == "stitch":
+        stitch(a[1])
+    elif a[0] == "sheet":
         sheet(a[1], a[2], a[3:])
     else:
         slice_ids(a[1], a[2], a[3:])
