@@ -22,8 +22,8 @@ const PRI = /about|service|kitchen|bath|remodel|gallery|portfolio|project|our-wo
         const u = queue.shift(); const key = u.replace(/\/$/, '');
         if (seen.has(key)) continue; seen.add(key);
         try {
-          const r = await p.goto(u, { waitUntil: 'domcontentloaded', timeout: 40000 });
-          await p.waitForTimeout(2500);
+          const r = await p.goto(u, { waitUntil: process.env.SLOW ? 'load' : 'domcontentloaded', timeout: process.env.SLOW ? 90000 : 40000 }).catch(async e => { if (!process.env.SLOW) throw e; return null; });
+          await p.waitForTimeout(process.env.SLOW ? 7000 : 2500);
           await p.evaluate(async () => { for (let y = 0; y < document.body.scrollHeight; y += 900) { window.scrollTo(0, y); await new Promise(z => setTimeout(z, 120)); } });
           const final = p.url(); if (!host) host = new URL(final).host.replace('www.', '');
           if (new URL(final).host.replace('www.', '') !== host) continue;
@@ -32,7 +32,7 @@ const PRI = /about|service|kitchen|bath|remodel|gallery|portfolio|project|our-wo
             const big = el => { const ss = el.getAttribute('srcset') || el.getAttribute('data-srcset') || ''; let best = null, bw = 0; ss.split(',').forEach(x => { const [u, w] = x.trim().split(/\s+/); const n = parseInt(w) || 0; if (u && n >= bw) { bw = n; best = u } }); return best ? abs(best) : null };
             const imgs = [...document.querySelectorAll('img')].map(i => ({ src: abs(i.currentSrc || i.src || i.getAttribute('data-src') || ''), srcset_largest: big(i), alt: i.alt || '', w: i.naturalWidth, h: i.naturalHeight })).filter(x => x.src && !x.src.startsWith('data:'));
             const bgs = [...document.querySelectorAll('*')].map(e => getComputedStyle(e).backgroundImage).filter(x => x && x.startsWith('url(')).map(x => abs(x.slice(4, -1).replace(/["']/g, ''))).filter(Boolean);
-            const links = [...document.querySelectorAll('a[href]')].map(a => ({ href: a.href, text: (a.innerText || '').trim().slice(0, 80) }));
+            const links = [...document.querySelectorAll('a[href]')].map(a => ({ href: (typeof a.href === 'string' ? a.href : abs(a.getAttribute('href') || '')) || '', text: (a.innerText || a.textContent || '').trim().slice(0, 80) })).filter(l => l.href);
             const heads = [...document.querySelectorAll('h1,h2,h3')].map(h => h.tagName + ': ' + h.innerText.replace(/\s+/g, ' ').trim()).filter(x => x.length > 4).slice(0, 80);
             const meta = n => (document.querySelector(`meta[name="${n}"],meta[property="${n}"]`) || {}).content || null;
             const ld = [...document.querySelectorAll('script[type="application/ld+json"]')].map(s => s.textContent.slice(0, 20000));

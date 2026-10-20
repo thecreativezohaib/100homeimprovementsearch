@@ -218,9 +218,26 @@
  "emails_on_site": [],
  "images_on_site": [],
  "crawl": {
-  "start_url": null,
-  "crawled": null,
-  "pages": []
+  "start_url": "http://kitchenplacesventura.com/",
+  "crawled": "2026-10-20T10:41:31.594Z",
+  "pages": [
+   {
+    "url": "http://kitchenplacesventura.com/",
+    "http": 405,
+    "title": "",
+    "meta_description": null,
+    "og_title": null,
+    "og_image": null,
+    "headings": [],
+    "text": "agent-proxy relay: this proxy only accepts HTTPS CONNECT tunnels. Plain-HTTP/absolute-form requests are not supported \u2014 common causes are axios releases before 1.16.1 (broken HTTPS proxy handling) or a tool configured with HTTP_PROXY pointing at this relay.\nGET /__agentproxy/status on this proxy port shows proxy state and recent failures.\n",
+    "images": [],
+    "background_images": [],
+    "jsonld": [],
+    "outbound": [],
+    "tel": [],
+    "mailto": []
+   }
+  ]
  },
  "digest": {
   "business_name": "Kitchen Places",
@@ -232,7 +249,7 @@
   "owner": "Jeff King",
   "owner_role": "President; Owner",
   "google_rating": "4.5\n(16)",
-  "pages_crawled": 0,
+  "pages_crawled": 1,
   "images_on_site": 0,
   "original_project_photos": 12,
   "socials": [

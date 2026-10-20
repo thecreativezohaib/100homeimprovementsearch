@@ -314,9 +314,28 @@
  "emails_on_site": [],
  "images_on_site": [],
  "crawl": {
-  "start_url": null,
-  "crawled": null,
-  "pages": []
+  "start_url": "https://ccfauxfinishes.com/",
+  "crawled": "2026-10-20T10:34:01.035Z",
+  "pages": [
+   {
+    "url": "https://ccfauxfinishes.com/",
+    "http": 200,
+    "title": "Bot Verification",
+    "meta_description": null,
+    "og_title": null,
+    "og_image": null,
+    "headings": [
+     "H3: ccfauxfinishes.com: Verifying that you are not a robot..."
+    ],
+    "text": "ccfauxfinishes.com: Verifying that you are not a robot...\nVerifying...",
+    "images": [],
+    "background_images": [],
+    "jsonld": [],
+    "outbound": [],
+    "tel": [],
+    "mailto": []
+   }
+  ]
  },
  "digest": {
   "business_name": "Creative Cabinets and Fine Finishes, LLC",
@@ -328,7 +347,7 @@
   "owner": "Evan Hill",
   "owner_role": "President and Owner",
   "google_rating": "4.9\n(309)",
-  "pages_crawled": 0,
+  "pages_crawled": 1,
   "images_on_site": 0,
   "original_project_photos": 11,
   "socials": [
