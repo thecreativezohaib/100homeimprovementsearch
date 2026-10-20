@@ -1,0 +1,487 @@
+[
+  {
+    "id": "bowa_com",
+    "url": "https://www.bowa.com/",
+    "score": 6,
+    "verdict": "drop",
+    "style": "Luxury DC-area design-build, white and bronze with photo-led tiles",
+    "palette": "White page, bronze/caramel #a8814f for buttons, headings and even body copy, navy #1b3a5c logo, warm greige #efebe6 panels, light grey #ecebe9 press band",
+    "typography": "Wide-tracked uppercase Lato-like sans for the hero line ('A BETTER REMODEL BEGINS WITH BOWA'), italic lowercase lead-ins ('luxury', 'your family's story', 'get better results from') stacked over bold uppercase headings, condensed Open Sans Condensed buttons",
+    "what_to_borrow": [
+      "'As Seen In' press band: grey rounded-corner panel holding AD, Washingtonian, Elle Decor, Home & Design and Modern Luxury Interiors wordmarks in black, with an underlined 'View More Awards and Press' link; instantly signals a high-end firm",
+      "Project-type photo tiles with a thin inset white keyline frame and an italic adjective over a bold label ('luxury Kitchens', 'masterful Bathrooms', 'exquisite Additions')",
+      "Header utility row with phone number plus a solid bronze 'GET IN TOUCH' block above the main nav",
+      "Mobile header that keeps a bronze 'GET IN TOUCH' button centered between the logo mark and the hamburger",
+      "Split rows (photo left, copy right and reverse) for 'your family's story BEGINS at HOME' and 'A PROVEN PROCESS' with outlined bronze buttons"
+    ],
+    "conversion_patterns": [
+      "Phone and Get In Touch in the header on desktop",
+      "Contact Us outlined button in the hero",
+      "Press logos as authority proof",
+      "'Take the 5 steps to success' process teaser button",
+      "'let our experts ANSWER your QUESTIONS' greige CTA card with Get Started",
+      "Two office addresses with phone numbers in the footer"
+    ],
+    "mobile_notes": "Header keeps the bronze Get In Touch visible and an app-style bottom tab bar (Home, Projects, Expect, Gallery, Contact, Nav) stays pinned, but it has no Call tab. Hero shows the four-line letterspaced H1 crammed over a busy photo. Project tiles stack into tall framed photos which is nice, but the press band becomes five stacked logos taking a full screen. Newsletter row breaks: the Cloudflare check overlaps the Signup Now button.",
+    "weaknesses": [
+      "Very short homepage with no testimonials, reviews, star rating, service area or real process steps",
+      "Bronze body text on white has weak contrast and looks washed out",
+      "Hero H1 sits over a busy photo with only a text shadow",
+      "Bottom tab bar spends space on Home and Nav instead of a Call action",
+      "Newsletter signup with Cloudflare captcha is clumsy and the mobile layout breaks",
+      "One project tile was blank in the capture (lazy image)"
+    ],
+    "capture_issues": "New stitched capture is complete. The desktop stitch repeats the sticky white header several times mid-page (around y 900, 1800, 2700); one project-type tile (second row, middle) is blank. Crop taken from a clean band.",
+    "sections": [
+      {
+        "section": "trust_bar",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/trust_bar/bowa_com__desktop.jpg",
+        "why": "Best press-style trust band in the set: soft grey panel, 'As Seen In', five black luxury-publication wordmarks evenly spaced and a quiet underlined link; shows how to signal high-end credibility without badge clutter"
+      }
+    ]
+  },
+  {
+    "id": "watermarkdesignbuild_com",
+    "url": "https://www.watermarkdesignbuild.com/",
+    "score": 8,
+    "verdict": "keep",
+    "style": "Navy and gold luxury design-build, editorial serif on midnight navy and warm off-white",
+    "palette": "Midnight navy #0d1530 (hero, tool panel, footer), muted gold #c4a265 buttons and eyebrows, warm off-white #f7f5f0 sections, white cards with hairline borders, slate-navy #1f2a4d testimonial cards",
+    "typography": "Cormorant-style high-contrast serif for H1 and H2 ('Your dream. / Our process.' with the second line in gold), Lato-like sans for body and row labels, widely letterspaced uppercase sans for eyebrows and buttons",
+    "what_to_borrow": [
+      "Utility bar above the nav: license numbers left, gold 'SERVING THE GREATER TAMPA BAY AREA' center, hours plus phone right",
+      "Hero: gold tracked eyebrow, two-line serif statement with the second line in gold, solid gold 'BOOK A DISCOVERY CALL' beside an outlined 'CALL 813.684.6817', then two underlined text links",
+      "Thin white trust strip under the hero with shield icon plus license numbers and handshake icon plus 'One team, one contract, design through build'",
+      "'BEFORE YOU SCROLL / What matters most to you right now?' intent router: five full-width white rows with gold arrows (See what you build, Understand costs before committing, See what fits on my property...)",
+      "Services as 3x2 photo cards with serif names and gold 'From $175K' price anchors, then a centered gold CTA and an underlined 'or call' phone link",
+      "'VISION STUDIO / See what fits on your property.' navy panel with a dashed lot diagram (Your Home, Suite, Pool, Pavilion blocks) and a price row under it, as a free planning lead magnet",
+      "'The Watermark Way' five numbered stage cards with gold number discs and 'Five stages. You always know what happens next.'",
+      "Closing band 'Ready when you are. One call, and we walk your property.' over a navy-tinted kitchen photo",
+      "Mobile sticky bar: one-line invitation above a white 'Call' pill with phone icon and a gold 'Book a Discovery Call' pill"
+    ],
+    "conversion_patterns": [
+      "Phone visible in the utility bar, hero button, under every CTA, closing band and footer",
+      "One consistent primary CTA 'Book a Discovery Call' after every major section",
+      "Price anchors on every service card to qualify $60K to $250K leads",
+      "License numbers repeated as trust",
+      "Self-segmentation intent router right under the hero",
+      "Free property planning tool as a soft conversion",
+      "Sticky Call plus Book bar on mobile"
+    ],
+    "mobile_notes": "Excellent. Centered hero with full-width stacked gold and outlined buttons, intent rows become big tappable rows, service cards go 2-up with prices intact, the planning tool stacks with its diagram below, process becomes a numbered vertical list, and the two-pill sticky bar is always present. Testimonial cards swipe with a peek of the next card.",
+    "weaknesses": [
+      "Hero background (a video) failed and a ghosted Cloudflare or player error message shows through, so the first screen has no strong imagery",
+      "Project photography is bright HDR builder-grade, not editorial",
+      "No star rating, review count or award badges near the top",
+      "Process cards are labels only, no descriptions",
+      "Page is more outdoor living and ADU than kitchen and bath"
+    ],
+    "capture_issues": "New capture still shows ghosted 'We couldn't verify the security of your connection' (desktop) and 'Player error' with Send Error Log / Reload Player buttons (mobile) over the hero. Mobile testimonial cards render misaligned in the stitch, so the older testimonial crops were kept as they are cleaner. Last mobile slice is empty navy.",
+    "sections": [
+      {
+        "section": "header_nav",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/header_nav/watermarkdesignbuild_com__desktop.jpg",
+        "why": "Two-tier header: license, service-area and hours plus phone utility bar over a slim navy nav with outlined Login and solid gold 'Book a Discovery Call'"
+      },
+      {
+        "section": "services",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/services/watermarkdesignbuild_com__desktop.jpg",
+        "why": "3x2 photo cards with serif names and gold 'From $X' price anchors, centered CTA plus 'or call' phone link below"
+      },
+      {
+        "section": "services",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/services/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Cards reflow to 2-up with prices kept, CTA and phone link immediately after"
+      },
+      {
+        "section": "testimonials",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/testimonials/watermarkdesignbuild_com__desktop.jpg",
+        "why": "Navy quote cards over a darkened project photo, gold name plus project type, auto-scroll with pause control"
+      },
+      {
+        "section": "testimonials",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/testimonials/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Same cards as a swipeable row that peeks the next quote"
+      },
+      {
+        "section": "process",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/process/watermarkdesignbuild_com__desktop.jpg",
+        "why": "Branded 'Watermark Way' five-stage row with gold numbered discs and a reassurance subline"
+      },
+      {
+        "section": "process",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/process/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Stacks into a clean numbered vertical list with 'See how it works' link"
+      },
+      {
+        "section": "cta_band",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/cta_band/watermarkdesignbuild_com__desktop.jpg",
+        "why": "'Ready when you are.' serif line plus one-sentence promise, single gold button and underlined phone over a navy-tinted kitchen"
+      },
+      {
+        "section": "cta_band",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/cta_band/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Same band with full-width button and phone link, very thumb friendly"
+      },
+      {
+        "section": "footer",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/footer/watermarkdesignbuild_com__desktop.jpg",
+        "why": "Navy footer with studio address, phone, email, gold social circles, 'Read our reviews', license line and three link columns"
+      },
+      {
+        "section": "footer",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/footer/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Single-column version keeps NAP and license info at the top"
+      },
+      {
+        "section": "mobile_sticky_cta",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/mobile_sticky_cta/watermarkdesignbuild_com__mobile.jpg",
+        "why": "Pinned bar with one-line invitation over two pills: white Call with icon and gold Book a Discovery Call"
+      }
+    ]
+  },
+  {
+    "id": "rebath_com",
+    "url": "https://www.rebath.com/",
+    "score": 6,
+    "verdict": "drop",
+    "style": "National bath franchise lead machine, clean but corporate",
+    "palette": "Re-Bath crimson #a51f37 for pills and CTAs, slate blue-grey #3f5466 for headings and footer, powder blue #8fb7c9 accents (stars, step circles), white and light grey #f5f5f5 bands",
+    "typography": "Light editorial serif (Tiempos-like) for H1 and H2, Montserrat semibold for form titles and card labels, Open Sans body and pill buttons",
+    "what_to_borrow": [
+      "Desktop hero split: lifestyle bathroom photo with serif H1 'Beautiful Bathrooms Made Easy' and a pill CTA, plus a docked white form column 'Schedule Your Free Design Consultation' (first/last, email, phone, zip, Schedule Now)",
+      "Value strip under the hero: four line icons with Free Design Service, Quality Materials, Professional Installation, Long-Term Warranties",
+      "Reviews block: five powder-blue stars, serif 'Trusted by Homeowners from Coast to Coast', '40,000 reviews, 4.8 out of 5' copy, grey Google, Facebook, HomeAdvisor and Houzz logos, crimson 'Read Reviews by Location'",
+      "'Find Your Local Re-Bath' zip search over a faint US map outline with a crimson Find My Nearest button and outlined See All Locations",
+      "Four-step process as numbered blue circles joined by a slate line, labels under each step, single CTA below",
+      "Mobile header: logo, tap-to-call number with icon, location pin, hamburger, then a full-width crimson 'Book Your Free Consultation' bar",
+      "Second full form lower on the page beside a bathroom photo, with city, state and zip"
+    ],
+    "conversion_patterns": [
+      "Form above the fold on desktop and directly after the hero on mobile",
+      "Phone in the header on every device",
+      "Persistent crimson consultation bar under the mobile header",
+      "Aggregate rating plus review-platform logos",
+      "Zip-code locator as a service-area qualifier",
+      "Repeated form near the bottom",
+      "Celebrity designer partnership (Jenny Marrs) as authority"
+    ],
+    "mobile_notes": "Conversion structure is very strong: phone and consultation bar in the header, the form right after the hero, value props as a 2x2 grid, full-width zip search and a vertical process stepper. Visually it is busy and template-like, and the accessibility and chat widgets float over the form fields.",
+    "weaknesses": [
+      "Franchise look with stock-feeling bathrooms, not a boutique high-end firm",
+      "Heavy SMS consent legal text inside both forms",
+      "Accessibility and chat widgets overlap content on every screen",
+      "Blog block and services grid are generic",
+      "Mixed type system (serif, Montserrat, Open Sans) feels assembled"
+    ],
+    "capture_issues": "New capture is complete on desktop and mobile. Accessibility widget repeats down the left edge and the chat bubble on the right; the desktop US map band shows a visible stitch seam, so the older plain desktop service_area crop was kept. Mobile process step 4 is still greyed (animation not finished).",
+    "sections": [
+      {
+        "section": "header_nav",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/header_nav/rebath_com__desktop.jpg",
+        "why": "Logo, red phone number, Find a Location outline pill and solid Free Consultation pill, mega-nav below"
+      },
+      {
+        "section": "contact_form",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/contact_form/rebath_com__desktop.jpg",
+        "why": "Replaced with the new capture: full header, hero headline and CTA now visible, quote form docked right above the fold, and the four-icon value strip below"
+      },
+      {
+        "section": "contact_form",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/contact_form/rebath_com__mobile.jpg",
+        "why": "Form directly after the hero with two-column name fields and a big red Schedule Now (kept; the new capture has the same widget overlap)"
+      },
+      {
+        "section": "mobile_menu_or_header",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/mobile_menu_or_header/rebath_com__mobile.jpg",
+        "why": "Logo, tap-to-call number, location pin and hamburger with a full-width crimson 'Book Your Free Consultation' bar beneath"
+      },
+      {
+        "section": "service_area",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/service_area/rebath_com__desktop.jpg",
+        "why": "Centered serif 'Find Your Local Re-Bath', one line of copy, zip input with Find My Nearest and See All Locations (kept, cleaner than the new stitched band)"
+      },
+      {
+        "section": "service_area",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/service_area/rebath_com__mobile.jpg",
+        "why": "Replaced with the new capture: faint US map outline behind the heading, full-width zip field and crimson button, outlined See All Locations; reads as local at a glance"
+      },
+      {
+        "section": "trust_bar",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/trust_bar/rebath_com__desktop.jpg",
+        "why": "New: aggregate review proof done right; stars, serif headline, '4.8 out of 5 from 40,000 reviews' copy, four review-platform logos and a reviews CTA"
+      },
+      {
+        "section": "process",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/process/rebath_com__desktop.jpg",
+        "why": "New: simple four-step horizontal stepper with numbered circles on a connecting line, short labels and one CTA; easy to adapt for consultation, design, build, warranty"
+      }
+    ]
+  },
+  {
+    "id": "sundesigninc_com",
+    "url": "https://www.sundesigninc.com/",
+    "score": 5,
+    "verdict": "drop",
+    "style": "Traditional family-focused design-build on a Divi-style template",
+    "palette": "White, warm greige #dcd3c9 and taupe #bba99a bands, chocolate brown #7b5235 buttons and footer, golden yellow #f2b632 underline bars and outline buttons",
+    "typography": "Playfair Display serif headings with short yellow underline bars, Manrope-like sans body, Playfair caps in buttons and footer",
+    "what_to_borrow": [
+      "'Tour a home like yours' video testimonials grouped by life stage (High School Family, Empty Nesters, Growing Family) in white cards with yellow play icons and a project summary",
+      "Mobile sticky bottom bar in chocolate brown split into 'Contact Us' and 'Call Us' with icons",
+      "Real homeowner family photographed at their new kitchen island in the intro",
+      "Grayscale association logo row (NARI, PRO, Professional Remodeler, Remodelers Advantage, BBB, NKBA, NAHB)",
+      "Curved arch tops and bottoms on beige bands"
+    ],
+    "conversion_patterns": [
+      "Sticky Contact and Call bar on mobile",
+      "Contact Us in nav and hero",
+      "Video testimonials plus a text slider",
+      "Association logos",
+      "Short contact form (name, email, phone, comments) beside a beige intro panel",
+      "Three office locations with phone in the footer"
+    ],
+    "mobile_notes": "Sticky brown Contact/Call bar is the only standout. Page is extremely long (about 32,000px): huge serif headings fill a screen each, long paragraphs, blog cards and a stacked logo row that shrinks to unreadable size. Hero photo sits above the H1 so the headline starts low.",
+    "weaknesses": [
+      "Dated template feel with inconsistent buttons (yellow outline, brown solid, brown caps)",
+      "Too much copy and blog content on the homepage",
+      "Generic, long H1 ('Your Trusted Design Build Remodelers in the DC, Maryland, and Virginia Area')",
+      "Testimonial slider cuts text mid-line inside the card",
+      "Logo row runs edge to edge with no margin",
+      "Brown footer with underlined serif links looks old"
+    ],
+    "capture_issues": "New capture renders everything, including the contact form that was blank before. The sticky Contact/Call bar is baked into the mobile stitch near y 1500.",
+    "sections": [
+      {
+        "section": "trust_bar",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/trust_bar/sundesigninc_com__desktop.jpg",
+        "why": "Clean grayscale row of seven industry association logos (NARI, NKBA, BBB, NAHB), the classic US remodeler trust strip"
+      },
+      {
+        "section": "testimonials",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/testimonials/sundesigninc_com__desktop.jpg",
+        "why": "Video testimonials framed by homeowner life stage, three cards with play icons and project summaries; lets visitors self-identify"
+      },
+      {
+        "section": "mobile_sticky_cta",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/mobile_sticky_cta/sundesigninc_com__mobile.jpg",
+        "why": "Simple two-half brown bar with Contact Us and Call Us icons pinned to the bottom"
+      }
+    ]
+  },
+  {
+    "id": "crdesignremodel_com",
+    "url": "https://www.crdesignremodel.com/",
+    "score": 7,
+    "verdict": "keep",
+    "style": "Warm editorial design-build, cream and charcoal with thin serif display",
+    "palette": "Warm off-white #f3efe9, charcoal #333130 bands and footer, tan/caramel #c9a46c pills and hairlines, white outlined cards with tan borders",
+    "typography": "Thin high-contrast serif display (Ogg or Freight light) for H1, service names and card titles; light humanist sans body; tiny widely tracked uppercase eyebrows; huge serif numerals 01 to 04",
+    "what_to_borrow": [
+      "Hero: tracked eyebrow 'SERVING SALEM AND THE WILLAMETTE VALLEY SINCE 1961', large thin serif 'Make the Most of Your Home', tan pill 'Schedule a Free Consultation', kitchen photo with an offset charcoal block shadow and a thin tan frame line",
+      "Two outlined 'Why choose' cards with serif titles followed by the same tan pill",
+      "Services as a charcoal band listing big thin tan serif links (Kitchens, Bathrooms, Whole House Remodeling...) with hairline dividers on mobile",
+      "'Why C&R' list with oversized serif numerals 01 to 04 and tan serif titles (Certified Remodeling Consultants, Plans Specialists...)",
+      "Research-stage cards 'Get The Results You Want' and 'What Does Remodeling Cost?' with dotted links to cost pages",
+      "Testimonial over a full-bleed dark interior: five white stars, quote, name, arrow controls and a tan consultation pill",
+      "Awards as a grid of white rounded tiles holding real award marks (NARI CotY, Houzz, 550 Remodeling, Master Design Awards)",
+      "Footer with a circular 'Say hello / Let's Talk!' badge and big ABOUT type"
+    ],
+    "conversion_patterns": [
+      "Same tan 'Schedule a Free Consultation' pill after hero, why-us, cost cards, testimonial and footer",
+      "Founding year in the hero eyebrow",
+      "Award tiles and NARI Contractor of the Year mention",
+      "Cost guide links for research-stage visitors",
+      "Testimonial slider with stars",
+      "Newsletter signup"
+    ],
+    "mobile_notes": "Hero is one of the best mobile first screens in the pack: eyebrow, three-line serif H1, full-width tan pill, then the framed photo. Services list and numbered 'Why C&R' stack beautifully. Weak points: no phone in the header (only in the footer), a red chat bubble floats over content everywhere, and the page is very long.",
+    "weaknesses": [
+      "Phone number not visible in the header or hero",
+      "Very long page with large empty gaps between sections",
+      "Featured projects render late (scroll-animated), so photos are often blank",
+      "Red chat bubble clashes with the palette",
+      "Some award tiles show broken image alt text on mobile"
+    ],
+    "capture_issues": "New desktop capture is capped at 16,000px and the featured projects area (about y 3300 to 7000) and a long band after services are blank; the hero photo is half veiled by a curtain animation. Mobile capture now reaches the testimonial, awards and footer, but projects are blank and the chat bubble is stitched into every screen. Older crops for projects, services and testimonials were kept because they are cleaner.",
+    "sections": [
+      {
+        "section": "hero",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/hero/crdesignremodel_com__mobile.jpg",
+        "why": "New: textbook premium mobile hero; tracked locality and since-1961 eyebrow, big thin serif H1, full-width tan consultation pill and a kitchen photo with offset charcoal shadow and tan frame line"
+      },
+      {
+        "section": "services",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/services/crdesignremodel_com__desktop.jpg",
+        "why": "Charcoal band, tiny 'Our Services' eyebrow, centered list of large thin tan serif service names; feels like a luxury menu"
+      },
+      {
+        "section": "services",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/services/crdesignremodel_com__mobile.jpg",
+        "why": "Same list with hairline dividers between items, perfect tap targets"
+      },
+      {
+        "section": "projects_gallery",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/projects_gallery/crdesignremodel_com__desktop.jpg",
+        "why": "Dark intro band plus full-width darkened project photo with 'Recent Project 01' eyebrow and serif title"
+      },
+      {
+        "section": "testimonials",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/testimonials/crdesignremodel_com__desktop.jpg",
+        "why": "Single large quote with white stars over a dark full-bleed interior, slider arrows and a consultation button under the quote"
+      }
+    ]
+  },
+  {
+    "id": "tpl_interiia",
+    "url": "https://interiia.framer.website/",
+    "score": 6,
+    "verdict": "drop",
+    "style": "Minimal Scandinavian interior studio template (Framer), warm neutrals",
+    "palette": "Warm off-white #f5f0ea, taupe card #ece6dc, charcoal #262626 footer and CTA card, warm wood and amber photography",
+    "typography": "Neo-grotesk sans only (Neue Haas-like), light large headings, generous leading; giant edge-to-edge wordmark in the footer",
+    "what_to_borrow": [
+      "Hero info row: Studio, Est. since, Speciality, Rating 4.9+ as quiet trust facts",
+      "Intro statement in large sans with a hairline and a 3-number stat row (100+ projects, 10+ awards, 4.9 rating)",
+      "Services accordion beside a large photo, one item expanded",
+      "Project rows: image left, outlined tag (Residential), name and one-line description, hairline separators, 'View project' outline button on mobile",
+      "FAQ with plus-icon hairline accordion and a 'Can't find what you're looking for?' card with a face photo and 'Let's talk'",
+      "Dark CTA card 'Build your dream space with us' overlapping a full-bleed sofa photo",
+      "Footer with three labelled columns and a giant wordmark"
+    ],
+    "conversion_patterns": [
+      "Rating shown in hero and intro",
+      "Testimonial slider with photo, quote, name and 03/03 counter",
+      "FAQ with a human contact card",
+      "Contact CTA card near the bottom"
+    ],
+    "mobile_notes": "Calm and clean: hero facts become a 2x2 grid, project rows become stacked cards with outline buttons, FAQ wraps well with big plus icons, wordmark scales down. No phone, no form and no sticky CTA; the hero only has a 'View projects' text link.",
+    "weaknesses": [
+      "Template for an interior designer, not a remodeler; Toronto placeholder details and AI-looking photos",
+      "Hero image does not load (flat grey gradient) in both captures",
+      "No phone, no quote form, weak primary CTA",
+      "Testimonial quote text is cropped inside its card"
+    ],
+    "capture_issues": "Hero background still missing in the new capture (grey gradient). 'Made in Framer' badge overlays the hero. Testimonial text clipped by its container.",
+    "sections": [
+      {
+        "section": "faq",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/faq/tpl_interiia__desktop.jpg",
+        "why": "Hairline accordion with plus icons plus a side card with a real face and 'Let's talk'; calm and premium"
+      },
+      {
+        "section": "faq",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/faq/tpl_interiia__mobile.jpg",
+        "why": "Accordion stacks with large tap rows and the human contact card moves below"
+      },
+      {
+        "section": "cta_band",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/cta_band/tpl_interiia__desktop.jpg",
+        "why": "Charcoal card with light sans headline and small outline button overlapping a warm full-bleed photo"
+      },
+      {
+        "section": "cta_band",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/cta_band/tpl_interiia__mobile.jpg",
+        "why": "Card stays legible over the cropped photo with the button inside"
+      },
+      {
+        "section": "footer",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/footer/tpl_interiia__desktop.jpg",
+        "why": "Three labelled columns over hairlines then a giant edge-to-edge wordmark"
+      },
+      {
+        "section": "footer",
+        "device": "mobile",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/footer/tpl_interiia__mobile.jpg",
+        "why": "Stacked columns and a scaled wordmark keep the editorial ending on small screens"
+      },
+      {
+        "section": "stats",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/stats/tpl_interiia__desktop.jpg",
+        "why": "New: restrained stats pattern; a confident first-person intro paragraph, one hairline, then three quiet numbers (100+ projects, 10+ awards, 4.9 rating) with small labels"
+      }
+    ]
+  },
+  {
+    "id": "blockrenovation_com",
+    "url": "https://www.blockrenovation.com/",
+    "score": 5,
+    "verdict": "drop",
+    "style": "Modern renovation marketplace, warm grey with coral accents and visible layout gridlines",
+    "palette": "Warm off-white #f6f4f1, greige panels #e9e5df, coral #ff7a59 buttons and stat numerals, charcoal text, thin coral hairline grid",
+    "typography": "Wide grotesk caps H1 ('RENOVATIONS BUILT ON TRUST'), monospace subhead and footer blurb, clean grotesk sans for everything else",
+    "what_to_borrow": [
+      "Outcome stats cards: '84% of projects have zero change orders', '88% stay within 5% of the original proposal', '91% gave 4 or 5 stars', '90% completed on schedule' in big coral numerals on greige tiles",
+      "'See contractors and costs near you' map with coral pins for completed projects and a row of project cards (photo, title, neighborhood, contractor avatar) beneath",
+      "'With Block / Without Block' checkmark comparison table",
+      "Protections panel (Price Assurance, Progress-based payments, Workmanship Warranty, Ongoing Support) as a list beside an intro",
+      "Closing 'Renovate confidently' with three check items and one coral button"
+    ],
+    "conversion_patterns": [
+      "Coral Get Started in nav, hero and closing band",
+      "Outcome statistics that answer budget and schedule fears",
+      "Map of local completed projects as proof of reach",
+      "Comparison table",
+      "Long FAQ accordion",
+      "Cities list for local SEO"
+    ],
+    "mobile_notes": "Clean and readable: full-width coral Get Started, stats tiles go 2-up, comparison table stays legible, map keeps its pins. The project card carousel under the map renders as narrow cards with only arrow buttons, losing titles.",
+    "weaknesses": [
+      "Marketplace platform, not an owner-led firm",
+      "Hero video did not load (flat grey) so the first screen is empty",
+      "Project photos are amateur phone shots",
+      "Gridline aesthetic reads tech startup, not luxury remodel",
+      "No phone number anywhere"
+    ],
+    "capture_issues": "New capture is complete apart from the hero video (grey block). Mobile project cards under the map render without titles.",
+    "sections": [
+      {
+        "section": "stats",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/stats/blockrenovation_com__desktop.jpg",
+        "why": "New: the best stats idea in the set for remodelers; outcome metrics (zero change orders, within 5% of proposal, on schedule, 4 or 5 stars) grouped under two promises in big coral numerals"
+      },
+      {
+        "section": "service_area",
+        "device": "desktop",
+        "file": "/home/user/100homeimprovementsearch/output/design_refs/pack/sections/service_area/blockrenovation_com__desktop.jpg",
+        "why": "New: service area shown as a map of real completed-project pins with a 'View More Projects' pill and a strip of project cards labelled by neighborhood; proves local presence far better than a list of towns"
+      }
+    ]
+  }
+]

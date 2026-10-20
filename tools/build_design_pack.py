@@ -23,7 +23,13 @@ SHOTS = ["desktop_screen1", "desktop_screen2_scrolled", "desktop_full", "tablet_
          "mobile_screen2_scrolled", "mobile_full"]
 
 
+# sites whose stitched recapture came out worse than the first capture (reviewer's call)
+PREFER = {"crdesignremodel_com": "raw2", "watermarkdesignbuild_com": "raw2"}
+
+
 def raw_file(cid, shot):
+    if cid in PREFER and os.path.exists(f"{R}/output/design_refs/{PREFER[cid]}/{cid}__{shot}.jpg"):
+        return f"{R}/output/design_refs/{PREFER[cid]}/{cid}__{shot}.jpg"
     found = sorted(glob.glob(f"{R}/output/design_refs/raw*/{cid}__{shot}.jpg"), key=os.path.getmtime)
     return found[-1] if found else None
 
