@@ -7,8 +7,29 @@ const fs = require('fs');
 const ACCEPT = /^(accept( all)?( cookies)?|i accept|agree|i agree|got it|ok|okay|allow all|close|no thanks|dismiss|×|x)$/i;
 
 const CLEAN = `*,*::before,*::after{animation-delay:0s!important;animation-duration:0s!important;transition:none!important}
-[data-aos],.wow,[data-animate],[data-scroll],.aos-init,.reveal,.fade-in,.fadeIn{opacity:1!important;transform:none!important;visibility:visible!important}
-[id*="cookie" i],[class*="cookie" i],[id*="consent" i],[class*="consent" i],#onetrust-banner-sdk,#usercentrics-root,[class*="cky-"],#hubspot-messages-iframe-container,[class*="termly" i]{display:none!important}`;
+[data-aos],.wow,[data-animate],.aos-init,.reveal,.fade-in,.fadeIn{opacity:1!important;transform:none!important;visibility:visible!important}`;
+
+// hide fixed or sticky overlays that are not part of the design: cookie and consent banners, newsletter and chat
+// pop-ups, full-screen dimmers and bot-check notices; sticky headers and call bars stay
+function cleanOverlays() {
+  const vw = innerWidth, vh = innerHeight;
+  for (const el of document.querySelectorAll('body *')) {
+    const cs = getComputedStyle(el);
+    if (cs.position !== 'fixed' && cs.position !== 'sticky') continue;
+    const t = (el.innerText || '').toLowerCase();
+    const r = el.getBoundingClientRect();
+    const big = r.width * r.height > vw * vh * 0.2;
+    const z = parseInt(cs.zIndex) || 0;
+    if (/cookie|consent|privacy information|we use .{0,30}(cookies|technologies)/.test(t) && t.length < 1500
+        || big && /subscribe|newsletter|sign up for|book instantly|text me|verify the security/.test(t)
+        || big && z >= 999 && t.trim().length < 3) el.style.setProperty('display', 'none', 'important');
+  }
+  for (const el of document.querySelectorAll('body *')) {
+    if (el.children.length < 3 && /verify the security of your connection/i.test(el.textContent || '')) el.style.setProperty('display', 'none', 'important');
+  }
+  document.documentElement.style.setProperty('overflow', 'auto', 'important');
+  document.body.style.setProperty('overflow', 'auto', 'important');
+}
 
 async function prep(page) {
   await page.waitForTimeout(3500);
@@ -29,6 +50,7 @@ async function prep(page) {
   }
   await page.evaluate(() => window.scrollTo(0, 0));
   await page.waitForTimeout(1500);
+  await page.evaluate(cleanOverlays).catch(() => { });
 }
 
 async function shot(browser, opts, url, file) {
