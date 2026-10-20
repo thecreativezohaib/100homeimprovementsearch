@@ -1,0 +1,855 @@
+{
+  "concepts": [
+    {
+      "file": "output/design_refs/pack/concepts/01_behance_north-stone-renovations.jpg",
+      "source": "Behance",
+      "source_url": "https://www.behance.net/gallery/255986239/North-Stone-Custom-WordPress-Website",
+      "designer": "Maryam Noor",
+      "type": "full_homepage",
+      "sections_shown": [
+        "hero",
+        "about",
+        "project_gallery",
+        "before_after",
+        "services",
+        "why_us",
+        "process",
+        "testimonial",
+        "stats",
+        "contact_form",
+        "footer"
+      ],
+      "has_mobile_view": true,
+      "style": "warm editorial serif, dark and linen",
+      "what_to_borrow": [
+        "Hero headline set in a light serif with one italic accent word in terracotta (\"transformed for real life\") over a full-bleed living-room photo with a small numbered slider control (01/03)",
+        "Second band: oversized serif statement \"We don't simply renovate rooms. We reshape the way you live in them.\" with a single photo, very editorial and calm",
+        "Dark charcoal \"Featured projects\" band with a 2x2 project grid where each tile carries a project name (The Alder Kitchen, Oak and Light) as a caption",
+        "\"See what thoughtful change can reveal\" before/after pair with a centered drag handle",
+        "Services as a hairline-divided list (Kitchen Renovations, Bathroom Remodelling, Flooring, Custom Carpentry) instead of icon cards",
+        "Process as a numbered ruled list (\"A clear path from idea to finished home\": consultation, home visit, design and estimate, build and renovate)",
+        "Testimonial as a single large serif quote on a taupe block with 4 stat counters underneath",
+        "Closing dark band \"Have a space that deserves more?\" with an inline enquiry form card on the right"
+      ],
+      "note": "Built for a UK firm (Melbourne copy in hero), so swap spelling and phone formats; device mockup on top shows desktop, tablet and phone versions keeping the same serif hierarchy. Body copy is very small and low contrast on the taupe band, raise it for accessibility."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/02_framer_harlow-birch-carpentry.jpg",
+      "source": "Framer",
+      "source_url": "https://www.framer.com/marketplace/templates/harlow-birch/",
+      "designer": "Halde Supply",
+      "type": "full_homepage",
+      "sections_shown": [
+        "top_bar",
+        "hero",
+        "trust_bar",
+        "stats",
+        "services",
+        "before_after",
+        "about",
+        "team",
+        "project_gallery",
+        "process",
+        "testimonial",
+        "certifications",
+        "guarantee",
+        "careers",
+        "blog",
+        "faq",
+        "quote_form",
+        "final_cta",
+        "footer"
+      ],
+      "has_mobile_view": true,
+      "style": "dark walnut, amber CTA, craftsman",
+      "what_to_borrow": [
+        "Hero \"Built by hand. Built to last.\" with two CTAs (amber \"Get a free estimate\" plus ghost \"See our projects\") and a proof row under it: 640+ projects since 2011, 5-year warranty, phone number",
+        "Services as six photo cards (\"Six things we do really well\") each tagged with a typical timeline and a starting price (\"6-10 weeks, From $28k\")",
+        "Team section \"Faces you'll see on site\" with real crew portraits and roles: exactly the owner-led trust signal this template needs",
+        "\"Four steps, no surprises\" process on a dark band with numbered amber dots and a short promise under each step",
+        "Rating block: big \"4.9\" numeral beside a single rotating review quote and a dot pager",
+        "\"Fixed price. Clean site. Five-year warranty.\" guarantee band with ticked promises and two CTAs",
+        "FAQ with a left \"Still have questions\" card that lists service areas and a phone link, accordion on the right",
+        "Multi-step estimate form (see file 21) placed beside contact details incl. a separate emergency line"
+      ],
+      "note": "Placeholder brand (Portland demo). Desktop capture at 1440px is very long (14k px); the careers/hiring band is not needed for most remodelers. See file 29 for the mobile version."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/03_framer_graybeam-builders-lintel.jpg",
+      "source": "Framer",
+      "source_url": "https://www.framer.com/marketplace/templates/lintel/",
+      "designer": "Adam Kansky",
+      "type": "full_homepage",
+      "sections_shown": [
+        "hero",
+        "pricing",
+        "project_gallery",
+        "services",
+        "process",
+        "guarantee",
+        "testimonial",
+        "licensing",
+        "quote_form",
+        "faq",
+        "footer"
+      ],
+      "has_mobile_view": false,
+      "style": "near-black, bold condensed, electric blue",
+      "what_to_borrow": [
+        "Price transparency as the hook: \"What it costs to build here. Eight real numbers.\" with $ per sq ft and fixed job prices (kitchen remodel same layout $68,000, primary bath $42,000) and what each includes",
+        "Recent jobs row showing estimate vs final invoice (\"final, estimate was $95,400\") as hard proof against budget overruns",
+        "Timeline section \"From first call to the day you get keys\" with week markers (0 wk site walk, +2 wk itemized estimate, +8 wk permit, +23 wk keys)",
+        "Warranty band \"10 YR. A crack in year six? We still answer.\" with the phone number in the headline color",
+        "\"Licensed in Tennessee. Ask for the numbers.\" row listing license numbers and insurance amounts",
+        "Form headline \"Tell us the project. Get a written number.\" which promises a concrete deliverable"
+      ],
+      "note": "Template named Lintel on the Framer Marketplace; the demo brand is Graybeam Builders (Knoxville). Visual tone is too industrial and cold for kitchen and bath; borrow the pricing and proof mechanics, not the black/blue palette or giant condensed caps."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/04_behance_milano-kitchen-bath.jpg",
+      "source": "Behance",
+      "source_url": "https://www.behance.net/gallery/248756451/Kitchen-and-Bathroom-Remodeling-Website-Design",
+      "designer": "Ali Umar",
+      "type": "full_homepage",
+      "sections_shown": [
+        "hero",
+        "stats",
+        "about",
+        "services",
+        "service_areas",
+        "showroom_cta",
+        "testimonial",
+        "why_us",
+        "faq",
+        "process",
+        "final_cta",
+        "footer"
+      ],
+      "has_mobile_view": false,
+      "style": "dark luxe, serif italic, copper",
+      "what_to_borrow": [
+        "Hero \"Kitchen & Bathroom Remodeling\" in a classic serif with the last word in copper italic, location line \"Fountain Valley, CA, Orange County's Trusted Name Since 2000\", and a 4-stat strip pinned to the bottom of the hero",
+        "\"Proudly Serving All of Orange County\" grid of city tiles: a clean, SEO-friendly service-area block",
+        "\"Visit our Fountain Valley Showroom\" dark card with button, good for firms that have a showroom",
+        "Review cards with Google-style stars and a rating badge in the section corner",
+        "Dark \"Why Fountain Valley Homeowners Choose Milano\" bento of numbered reasons with a big copper \"25+\"",
+        "FAQ accordion with a dark \"Let's talk about your project\" CTA card in the left column",
+        "\"Our Proven Remodeling Process\" 5 columns on near-black, followed by a copper CTA strip before the footer"
+      ],
+      "note": "Long dark sections in a row can feel heavy on mobile; no mobile view shown. Hero photo is dim, keep more light in the kitchen image."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/05_onepagelove_rebuld-renovation.jpg",
+      "source": "One Page Love",
+      "source_url": "https://onepagelove.com/rebuld",
+      "designer": null,
+      "type": "full_homepage",
+      "sections_shown": [
+        "hero",
+        "about",
+        "stats",
+        "services",
+        "project_gallery",
+        "testimonial",
+        "team",
+        "process",
+        "pricing",
+        "faq",
+        "contact_form",
+        "footer"
+      ],
+      "has_mobile_view": true,
+      "style": "warm cream, chocolate, butter yellow",
+      "what_to_borrow": [
+        "Hero with huge stacked uppercase \"YOUR HOME PERFECTED\" over a softly lit living room, short intro line and a pill \"View Services\" button",
+        "\"Results that speak for themselves\" chocolate band with four white stat cards",
+        "Service rows with photo, description, and price-from and duration chips (Kitchen Renovation)",
+        "\"Homes we've transformed\" tabbed project viewer with a floating case-study card over the photo",
+        "\"Honest pricing. No surprises.\" three tiers (Essentials, Full Renovation, Design and Fit) with per-sq-m pricing and inclusion lists",
+        "\"Simple from start to finish\" vertical numbered steps (Free Consultation, Detailed Quote, We Get to Work, Handover)",
+        "\"Ready to transform your home?\" split section with a multi-field form on a sand panel"
+      ],
+      "note": "Framer template (free) reviewed on One Page Love; uses metric and GBP-style pricing, convert to US $ and sq ft. Mobile hero is file 30. The butter-yellow accent can look cheap if overused, keep it to small tags."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/06_dribbble_rh-crafted-homes.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27546072-RH-Crafted-Homes-Website-Design-for-a-Luxury-Renovation-Brand",
+      "designer": "RH LeadCraft Studio",
+      "type": "full_homepage",
+      "sections_shown": [
+        "hero",
+        "services",
+        "about",
+        "project_gallery",
+        "why_us",
+        "footer"
+      ],
+      "has_mobile_view": true,
+      "style": "olive greige, classical serif",
+      "what_to_borrow": [
+        "Hero over a classical interior photo with a huge translucent wordmark (\"RH Crafted Homes\") running behind the bottom edge, light condensed serif headline and a small olive pill CTA \"Schedule Your Consultation\"",
+        "Phone mockup beside the desktop showing the same hero stacked: headline 4 lines, CTA directly under it",
+        "Four service teasers with arrow icons in one row directly under the hero (Luxury Renovations, Design-Build, Kitchen and Bath, Additions and ADUs)",
+        "\"Crafting homes with heart, intention, and expertise\" about block with a small vintage photo and a mission sub-block"
+      ],
+      "note": "Shot is presentation boards at 1600px, so details are small. The olive pill buttons are low contrast against the photo; strengthen them."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/07_dribbble_lago-interior-studio.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27696114-LAGO-Luxury-Editorial-Interior-Design-Studio-Service-Website",
+      "designer": "LAIN UI/UX (for LAIN)",
+      "type": "full_homepage",
+      "sections_shown": [
+        "header",
+        "hero",
+        "about",
+        "services",
+        "project_gallery",
+        "process",
+        "testimonial",
+        "final_cta",
+        "footer"
+      ],
+      "has_mobile_view": false,
+      "style": "Swiss editorial, white, oak photography",
+      "what_to_borrow": [
+        "Massive bold sans wordmark top-left with a multi-column text menu instead of a classic navbar, very editorial",
+        "Hero as one large framed photo with a small inset card (\"Tailored design solutions for timeless spaces\") overlapping its corner",
+        "Services as a ruled table: service name on the left, numbered sub-services list in the middle, one photo on the right per row",
+        "Numbered \"Stories behind our spaces\" list with tiny thumbnails that read like a magazine index",
+        "Black footer with the email address set very large (\"hello@lagodesign.com\") and the wordmark bleeding off the bottom"
+      ],
+      "note": "No phone number or quote form above the fold; for a remodeler add a call button and a short form. Pure studio aesthetic, needs warmer trust signals (reviews, license)."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/08_dribbble_norm-interior.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/26522915-NI-Timeless-Furniture-Interior-Design-Website-Portfolio-Page",
+      "designer": "LAIN UI/UX (for LAIN)",
+      "type": "full_homepage",
+      "sections_shown": [
+        "hero",
+        "project_gallery",
+        "filters",
+        "featured_projects",
+        "final_cta",
+        "footer"
+      ],
+      "has_mobile_view": false,
+      "style": "quiet minimal, uppercase sans, wood tones",
+      "what_to_borrow": [
+        "Portfolio grid pattern: each project is one large photo plus one smaller detail photo side by side with name, category and \"view detail\" link beneath",
+        "Left filter column (architecture, interior design, furniture) that would map well to Kitchens, Bathrooms, Whole Home",
+        "\"Defining design through our featured projects\" 3-up carousel with arrows",
+        "Full-width warm photo band with centered \"Let's create something timeless\" CTA",
+        "Huge brand name typeset across the footer bottom"
+      ],
+      "note": "This is a portfolio page rather than a homepage, so use it for the project gallery section. Thin uppercase type may be hard to read on mobile."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/09_dribbble_serenity-interiors.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/26266884-Serenity-Luxury-Room-Showcase-Interior-Design-Website",
+      "designer": "Jabel | UIUX & Web Design (for Trexa Lab)",
+      "type": "full_homepage",
+      "sections_shown": [
+        "header",
+        "hero",
+        "about",
+        "stats",
+        "project_gallery",
+        "process",
+        "testimonial",
+        "footer"
+      ],
+      "has_mobile_view": false,
+      "style": "light airy, serif headlines, teal",
+      "what_to_borrow": [
+        "Header with a dark green \"Book Consultation\" pill always visible at top right",
+        "Hero: serif \"Designing Spaces That Reflect You.\" with a small list of service links on the left and an avatar group plus \"1,650+ satisfied clients\" proof",
+        "Alternating project rows (\"Luxury Modern Living Room\") with short text and \"View More\" link, easy to scan",
+        "\"Looking to refresh your space?\" 4 numbered steps next to a photo card",
+        "Testimonial card with photo, quote, name and prev/next buttons"
+      ],
+      "note": "Photography looks like stock or AI renders with generic furniture; layout is solid but the imagery would make a remodeler look generic. Footer is standard four-column."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/10_dribbble_kitchen-bath-plus.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27635918-Kitchen-Bath-Home-Renovation-Remodeling-Website",
+      "designer": "Aftab Khalid",
+      "type": "full_homepage",
+      "sections_shown": [
+        "header",
+        "hero",
+        "why_us",
+        "project_gallery",
+        "testimonial",
+        "process",
+        "stats",
+        "final_cta",
+        "footer"
+      ],
+      "has_mobile_view": false,
+      "style": "dark kitchen photo, serif, orange accent",
+      "what_to_borrow": [
+        "Hero \"Design . Renovate . Impress .\" serif headline centered over a dark modern kitchen, with a bottom bar that combines \"Kitchen Remodeling\" label, \"Book Appointment\" button, an orange descriptor panel and a video thumbnail",
+        "Three value columns with small line icons (Built Better. Built Beautiful. / Design Smarter. / Expert Service.)",
+        "\"Your Dream, Our Showcase\" 6-photo project mosaic and \"Your Dream. Our Craft.\" service carousel with numbered cards (On-Site Measurements, 3D Rendering, Cabinet Selection)",
+        "Bright orange \"Design Experts. Trusted Partners.\" stats card next to a freestanding tub photo",
+        "Final CTA \"Ready to get started?\" over a warm terracotta vanity photo"
+      ],
+      "note": "Composite of three 1200px Dribbble boards, so type is small. The orange accent is loud; a deeper clay or brass tone would feel more premium."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/11_dribbble_sol-haus-interiors.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/26081974-S-l-Haus-Premium-Interior-Design-Studio-Website",
+      "designer": "Phenomenon Labs (for Phenomenon Studio)",
+      "type": "full_homepage",
+      "sections_shown": [
+        "hero",
+        "about",
+        "project_gallery",
+        "services",
+        "journal",
+        "footer"
+      ],
+      "has_mobile_view": true,
+      "style": "sandstone editorial, swash serif",
+      "what_to_borrow": [
+        "Hero \"MATERIAL. MEANING. MOOD.\" in a high-contrast serif with swash capitals over a muted sandstone interior, tiny \"Get in touch\" link",
+        "\"Impressions that endure\" project cards in a framed white sheet on a mushroom background",
+        "Small mixed-case serif section titles with a decorative italic initial (DESIGN WITH INTENTION, NOTES FROM THE STUDIO)",
+        "Overall palette of bone, taupe and espresso that reads luxury without gold"
+      ],
+      "note": "Composite of presentation boards; mobile screens are in file 31. Swash initials can hurt legibility, use them only in one display headline. No visible conversion elements."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/12_framer_velina-kitchen-remodeling.jpg",
+      "source": "Framer",
+      "source_url": "https://www.framer.com/marketplace/templates/velina/",
+      "designer": "Tarun Baskar",
+      "type": "full_homepage",
+      "sections_shown": [
+        "header",
+        "hero",
+        "about",
+        "stats",
+        "services",
+        "project_gallery",
+        "testimonial",
+        "team",
+        "faq",
+        "contact_form",
+        "footer"
+      ],
+      "has_mobile_view": false,
+      "style": "clean light, teal, italic serif accents",
+      "what_to_borrow": [
+        "Kitchen-specific hero: \"Culinary Life Redefined\" (italic second line), star rating plus \"200+ happy clients\" avatars above, teal pill CTA, and a large rounded photo of a teal kitchen",
+        "Services as a vertical tab list (Countertops, Flooring, Appliances, Cabinets) that swaps one photo and description",
+        "Project carousel with tag chips on each card (Modern, 3 weeks)",
+        "Contact form with service checkboxes (Countertops, Flooring, Cabinets) next to a tall kitchen photo with a rating overlay"
+      ],
+      "note": "Kitchen-only template; layout is simple and a little generic (centered section titles with italic word). Team grid of six headshots is template filler."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/13_pinterest_oura-co-interiors.jpg",
+      "source": "Pinterest",
+      "source_url": "https://www.pinterest.com/pin/592153051053630832/",
+      "designer": null,
+      "type": "full_homepage",
+      "sections_shown": [
+        "hero",
+        "about",
+        "stats",
+        "services"
+      ],
+      "has_mobile_view": false,
+      "style": "japandi editorial, oversized sans",
+      "what_to_borrow": [
+        "Huge uppercase hero line \"WE DESIGN THE FEELING OF YOU\" overlapping a moody japandi photo",
+        "Brand intro \"AT OURA & CO.,\" in large sans with small body copy, then stat tiles where numbers sit beside short labels",
+        "Espresso brown block used as a CTA tile inside the stats grid"
+      ],
+      "note": "Only 1080px wide from the pin; the pin links to a Behance project but the pin page does not name the designer. Use for typographic mood, not detail."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/14_onepagelove_pearl-tiling.jpg",
+      "source": "One Page Love",
+      "source_url": "https://onepagelove.com/pearl-tiling",
+      "designer": null,
+      "type": "full_homepage",
+      "sections_shown": [
+        "hero",
+        "about",
+        "services",
+        "team",
+        "project_gallery"
+      ],
+      "has_mobile_view": true,
+      "style": "minimal, coral line logo, slate",
+      "what_to_borrow": [
+        "A trade (tiling and interiors) presented like a design studio: oversized coral line-art \"P\" monogram as the hero instead of a photo",
+        "Sticky left numbered index (01 About, 02 Services, 03 Projects) running the full page",
+        "Pull statement in coral serif centered in a wide margin",
+        "Deep slate-green services band that breaks the cream page, then project photos with small captions on the left"
+      ],
+      "note": "Listed on One Page Love as a One Page Website Award winner (title of the review page). Live site is Australian. Captured first 11000px of a 21000px page; mobile view exists on the review page but only shows the logo screen, so it is not included."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/15_awwwards_loam-house-hero.jpg",
+      "source": "Awwwards",
+      "source_url": "https://www.awwwards.com/sites/loam-house",
+      "designer": "FrontageDigital",
+      "type": "section",
+      "sections_shown": [
+        "hero",
+        "header"
+      ],
+      "has_mobile_view": false,
+      "style": "soft daylight, italic serif, residential",
+      "what_to_borrow": [
+        "Hero headline \"Leave the upkeep. Keep the life.\" as two lines, the second in italic serif, sitting on a sunlit terrace photo",
+        "Thin chaptered navigation with small numerals (01) and stat captions along the bottom edge (88, 86-275, 3 min)",
+        "Muted daylight color grading that makes stone and timber look expensive"
+      ],
+      "note": "Awwwards Honorable Mention (shown on the Awwwards page). Residential development, not a remodeler; scroll-chapter motion is heavy for a lead-gen site, borrow only the hero typography and photo tone."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/16_dribbble_forma-architecture-hero.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27630998-Forma-Residential-Architecture-Studio-Website-Design",
+      "designer": "Zahid Hasan (for Crevio)",
+      "type": "section",
+      "sections_shown": [
+        "header",
+        "hero",
+        "stats"
+      ],
+      "has_mobile_view": false,
+      "style": "cream, serif italic, cutout house",
+      "what_to_borrow": [
+        "Centered serif headline with italic phrase \"We Design Homes That Feel As Beautiful As They Look.\" over a cream background",
+        "Cutout house render with planting as the hero image instead of a full-bleed photo, leaves room for text",
+        "Three stats along the bottom (25+, 120+, Sustainable Design) and a dark \"Book Consultation\" button top right"
+      ],
+      "note": "Hero only. A cutout render suits architects; for kitchen and bath, use a cutout of a finished vanity or island instead."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/17_dribbble_palo-alto-kitchen-before-after.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27657094-Kitchen-Remodeling-Palo-Alto-Landing-Page-Design",
+      "designer": "Ali Ashan",
+      "type": "section",
+      "sections_shown": [
+        "hero",
+        "stats",
+        "services",
+        "before_after",
+        "testimonial",
+        "final_cta"
+      ],
+      "has_mobile_view": false,
+      "style": "classic serif, deep teal, bright kitchen",
+      "what_to_borrow": [
+        "Location in the H1: \"Kitchen Remodeling Palo Alto\" with the city on its own teal line, good for local SEO",
+        "Icon stat strip right under the hero (500+ projects, 20+ years, 4.9 rating, 100% custom designs)",
+        "Compact \"Before and After, Real transformations\" row: label column, a before/after slider with round arrow handle, then a quote card with a homeowner photo",
+        "Bottom sticky-looking teal bar \"Start Your Kitchen Transformation\" with free consultation, custom design, quality craftsmanship badges and the website URL"
+      ],
+      "note": "Single 1536px board; service icon row is busy (6 items). Teal plus brass feels traditional, fine for older affluent homeowners."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/18_dribbble_fixpro-before-after-slider.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/26967771-Kitchen-Remodeling-Website-Design",
+      "designer": "FleexStudio | Web Design Agency",
+      "type": "section",
+      "sections_shown": [
+        "before_after"
+      ],
+      "has_mobile_view": false,
+      "style": "clean white, simple sans",
+      "what_to_borrow": [
+        "Single full-width before/after slider of the same kitchen with a round white drag handle and large \"Before\" and \"After\" labels under each half",
+        "Headline \"See The Difference A Kitchen Remodel Can Make\" with a small eyebrow label",
+        "Same camera angle in both photos is what makes it convincing; require that in content guidelines"
+      ],
+      "note": "Cropped from the right column of a larger board. Typography is generic; style the labels in the template serif."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/19_webflow_hearth-before-after-pairs.jpg",
+      "source": "Webflow",
+      "source_url": "https://webflow.com/templates/html/hearth-remodeling-renovation-website-template",
+      "designer": null,
+      "type": "section",
+      "sections_shown": [
+        "before_after"
+      ],
+      "has_mobile_view": false,
+      "style": "blush linen, uppercase light sans",
+      "what_to_borrow": [
+        "\"Real homes. Remarkable results.\" section with staggered before/after photo pairs (small before, larger after) and a one-line caption under each",
+        "Staggered layout gives an editorial rhythm without needing a slider script, works well on mobile as a simple stack"
+      ],
+      "note": "Cropped from the full Hearth demo capture (Sacramento remodeler demo). Some animated blocks did not render in the capture and left blank gaps elsewhere on the page."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/20_framer_graybeam-cost-transparency.jpg",
+      "source": "Framer",
+      "source_url": "https://www.framer.com/marketplace/templates/lintel/",
+      "designer": "Adam Kansky",
+      "type": "section",
+      "sections_shown": [
+        "pricing"
+      ],
+      "has_mobile_view": false,
+      "style": "black, bold condensed, blue numerals",
+      "what_to_borrow": [
+        "Cost table with two columns of job types, each with a huge price, a caps label and a one-line \"Includes:\" list",
+        "Intro paragraph saying the numbers come from the last 60 contracts, plus \"See all 42 costs\" button",
+        "Job cards below with job number, dates and \"final, estimate was $X\" line"
+      ],
+      "note": "Crop of file 03. Translate into the template palette: same structure in serif numerals on cream would look premium. Only publish ranges the owner can stand behind."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/21_framer_harlow-estimate-form.jpg",
+      "source": "Framer",
+      "source_url": "https://www.framer.com/marketplace/templates/harlow-birch/",
+      "designer": "Halde Supply",
+      "type": "section",
+      "sections_shown": [
+        "quote_form",
+        "contact",
+        "final_cta",
+        "footer"
+      ],
+      "has_mobile_view": false,
+      "style": "dark walnut, white card, amber",
+      "what_to_borrow": [
+        "Multi-step \"Request a free estimate\" card with a 4-step progress bar (Project, Details, Contact, Review) and step 1 as icon tiles (Kitchen, Bathroom, Built-ins, Flooring, Deck, Whole home, Repair, Something else)",
+        "Microcopy under the button: \"Takes about two minutes, free and no obligation\" and \"Draft saved on this device\"",
+        "Left column: \"We reply within one business day\" plus phone, email, showroom address and a separate emergency number",
+        "\"Planning a project?\" strip with estimate button and phone pill right above the footer"
+      ],
+      "note": "Crop of file 02. Icon tiles must stay big tap targets on mobile."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/22_dribbble_stair-price-calculator.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27719827-Price-calculator",
+      "designer": "Paweł Kopciński",
+      "type": "section",
+      "sections_shown": [
+        "pricing_calculator",
+        "lead_form"
+      ],
+      "has_mobile_view": false,
+      "style": "warm beige, orange CTA",
+      "what_to_borrow": [
+        "Calculator with segmented choices, a slider and number chips on the left and a live \"approximate total\" receipt on the right that itemizes material and finish",
+        "Lead capture (email, phone) sits inside the result card so the estimate is the reason to leave details",
+        "Small disclaimer under the button that this is an indicative price"
+      ],
+      "note": "Built for stairs in Polish (zl currency); adapt to kitchen and bath (layout change yes/no, cabinet tier, countertop, sq ft) with US $ ranges. Keep it a range, not a quote."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/23_dribbble_goldstone-hero-estimate-form.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27636212-Goldstone-Contracting-Roofing-Construction-Web-Design",
+      "designer": "Muhammad Ibrahim",
+      "type": "section",
+      "sections_shown": [
+        "top_bar",
+        "header",
+        "hero",
+        "quote_form",
+        "why_us"
+      ],
+      "has_mobile_view": false,
+      "style": "bold contractor, yellow and black",
+      "what_to_borrow": [
+        "Hero with a \"Get your free estimate\" form card overlapping the bottom-right of the hero photo so the form is above the fold",
+        "Rating line (4.9, reviews) above the H1 and phone number next to the primary button",
+        "Financing link in the main nav"
+      ],
+      "note": "Roofing look (slab caps, yellow) is the opposite of the editorial tone wanted; borrow only the form-in-hero placement and the phone-beside-CTA pattern."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/24_dribbble_faq-book-a-call.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/26915406-FAQ-Section-UI-Design",
+      "designer": "Eleyas Hasan",
+      "type": "section",
+      "sections_shown": [
+        "faq",
+        "cta"
+      ],
+      "has_mobile_view": false,
+      "style": "light, coral accent",
+      "what_to_borrow": [
+        "Two-column FAQ: left has the title plus a card with a person photo, \"Book a 15 min call\" and a button; right has the accordion",
+        "First item open by default with an X, others with plus icons and thin dividers"
+      ],
+      "note": "Agency content and coral color; restyle. Swap the photo for the owner so the FAQ doubles as a personal call-to-action."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/25_dribbble_faq-serif-accordion.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/26971331-Frequently-asked-questions-FAQ-Section-for-website",
+      "designer": "Obayedul Islam (for Growmelab)",
+      "type": "section",
+      "sections_shown": [
+        "faq"
+      ],
+      "has_mobile_view": false,
+      "style": "soft white, serif italic title",
+      "what_to_borrow": [
+        "Title \"Frequently Asked Questions\" with the last word in italic serif",
+        "Lettered questions (A., B., C.) in rounded cards with soft shadows, open state shows a short answer"
+      ],
+      "note": "The tilted floating cards are presentation styling, build them flat. Lettering is a nice editorial touch for 6 to 8 remodeling questions (cost, timeline, permits, living at home during work)."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/26_dribbble_three-step-process.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27422008-Working-Process-Section-for-Furniture-Website",
+      "designer": "Faizan",
+      "type": "section",
+      "sections_shown": [
+        "process"
+      ],
+      "has_mobile_view": false,
+      "style": "white, thin line, rust accent",
+      "what_to_borrow": [
+        "\"Our simple 3 steps process\" with a single hand-drawn style wave line connecting three icons and big faded step numerals",
+        "Step names map directly to remodeling: Free Home Visit and 3D Design, We Build It, Delivery and Installation"
+      ],
+      "note": "Furniture brand content. Wave line should become a simple vertical list on mobile."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/27_dribbble_testimonial-with-project-photo.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/26594285-Testimonial-Section-Website",
+      "designer": "Faris Rasak",
+      "type": "section",
+      "sections_shown": [
+        "testimonial"
+      ],
+      "has_mobile_view": false,
+      "style": "clean white card, house photo",
+      "what_to_borrow": [
+        "Testimonial paired with a photo of the actual home on the right, so the review and the result read together",
+        "Small avatar plus name above the quote, round prev/next arrows below"
+      ],
+      "note": "Real estate copy; replace the house exterior with the finished kitchen or bath for that client."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/28_dribbble_minima-footer-contact.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27643961-Minima-Footer-Contact-Section",
+      "designer": "Outline2Design",
+      "type": "section",
+      "sections_shown": [
+        "footer",
+        "contact"
+      ],
+      "has_mobile_view": false,
+      "style": "deep forest green, light sans",
+      "what_to_borrow": [
+        "Footer opens with a large \"Start your journey with us.\" line, then location, call us, contact us and opening hours in small labeled columns",
+        "Newsletter input with round arrow button, social icons, and a thin rule above legal links"
+      ],
+      "note": "Low-contrast small gray text on dark green; increase size and contrast. Add license number and service areas for a remodeler."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/29_framer_harlow-birch-mobile-screens.jpg",
+      "source": "Framer",
+      "source_url": "https://harlow-template.framer.website/",
+      "designer": "Halde Supply",
+      "type": "mobile",
+      "sections_shown": [
+        "header",
+        "hero",
+        "stats",
+        "services",
+        "before_after",
+        "about",
+        "team",
+        "project_gallery"
+      ],
+      "has_mobile_view": true,
+      "style": "dark walnut mobile, amber CTA",
+      "what_to_borrow": [
+        "Mobile header keeps a round phone icon right next to the menu button, a one-tap call option from the top of the page",
+        "Hero stacks headline, short paragraph, full-width amber \"Get a free estimate\" and outline \"See our projects\", then proof chips (640+ projects, 5-year warranty)",
+        "Service cards become a horizontal swipe row with timeline and price tags",
+        "Before/after uses a drag handle that still works at 360px"
+      ],
+      "note": "First 8 screens of a 360px-wide full-page capture, tiled in 2 rows. Captured live from the template demo."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/30_onepagelove_rebuld-mobile-hero.jpg",
+      "source": "One Page Love",
+      "source_url": "https://onepagelove.com/rebuld",
+      "designer": null,
+      "type": "mobile",
+      "sections_shown": [
+        "header",
+        "hero"
+      ],
+      "has_mobile_view": true,
+      "style": "warm photo, heavy uppercase",
+      "what_to_borrow": [
+        "Mobile hero leads with the service list sentence (\"From kitchens and bathrooms to loft conversions and extensions\") before the giant headline, so intent is clear in one glance",
+        "Single white pill CTA, logo plus burger only in the header"
+      ],
+      "note": "No phone button in the mobile header; add one. Very large uppercase headline pushes content below the fold."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/31_dribbble_sol-haus-mobile.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27453758-Interior-Web-Design-S-l-Haus",
+      "designer": "Phenomenon Labs (for Phenomenon Studio)",
+      "type": "mobile",
+      "sections_shown": [
+        "hero",
+        "about",
+        "project_gallery",
+        "process",
+        "journal"
+      ],
+      "has_mobile_view": true,
+      "style": "sandstone editorial mobile",
+      "what_to_borrow": [
+        "Four mobile screens showing how a swash-serif display headline, small caps eyebrow and full-width photo stack keep the luxury feel on a phone",
+        "Generous side margins and one image per screen, never a cramped grid"
+      ],
+      "note": "No call or quote buttons visible on the mobile screens; the template must add a sticky call and estimate bar."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/32_dribbble_td-interior-mobile.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/26367902-TD-Luxury-Interior-Design-Furniture-Website-Design-Mobile",
+      "designer": "LAIN UI/UX (for LAIN)",
+      "type": "mobile",
+      "sections_shown": [
+        "hero",
+        "services",
+        "project_gallery",
+        "footer"
+      ],
+      "has_mobile_view": true,
+      "style": "monochrome minimal mobile",
+      "what_to_borrow": [
+        "Mobile hero with short headline \"The New Modernism\", intro paragraph and an image triptych",
+        "Category slider with \"Prev / Next\" text controls and a thin progress line under the image",
+        "Compact mobile footer with three link columns and a newsletter field"
+      ],
+      "note": "Brand in the mockup is \"Tonellidesign\". Furniture brand, low on conversion elements."
+    },
+    {
+      "file": "output/design_refs/pack/concepts/33_dribbble_plain-work-mobile.jpg",
+      "source": "Dribbble",
+      "source_url": "https://dribbble.com/shots/27784014-Responsive-architecture-studio-website-design-Plain-Work",
+      "designer": "Timotius Muliawan (for Timo Labs)",
+      "type": "mobile",
+      "sections_shown": [
+        "hero",
+        "journal",
+        "contact_form"
+      ],
+      "has_mobile_view": true,
+      "style": "blueprint grid, technical minimal",
+      "what_to_borrow": [
+        "Mobile hero copy aimed at the buyer: \"Plans your contractor can build from without calling us.\" with a drawing image and two buttons",
+        "Project spec block with labeled fields (Sheet A-101, Project, Scale) that reads like a drawing title block, a nice craft detail",
+        "Mobile contact page as a numbered step list (Scope, Timing, Details, Review) before the form"
+      ],
+      "note": "Architecture studio. The step-list contact pattern translates well to a remodeling quote flow on mobile."
+    }
+  ],
+  "live_sites": [
+    {
+      "id": "residences_loamhouse_com_au",
+      "url": "https://residences.loamhouse.com.au/",
+      "found_on": "Awwwards",
+      "source_url": "https://www.awwwards.com/sites/loam-house",
+      "why": "Honorable Mention residential site with italic serif hero over sunlit stone and timber; benchmark for premium photo grading and calm typography."
+    },
+    {
+      "id": "r-o_com",
+      "url": "https://r-o.com/",
+      "found_on": "Awwwards",
+      "source_url": "https://www.awwwards.com/sites/rogers-obrien-construction",
+      "why": "Texas general contractor (Awwwards nominee) with a big stat row and people-first copy; shows a builder site that feels modern without looking like a template."
+    },
+    {
+      "id": "tarqstudio_com",
+      "url": "https://www.tarqstudio.com/",
+      "found_on": "Awwwards",
+      "source_url": "https://www.awwwards.com/sites/tarq",
+      "why": "Architecture and interior practice (Awwwards nominee) with dark, material-led photography and a clear process section."
+    },
+    {
+      "id": "aat-architecten_be",
+      "url": "https://www.aat-architecten.be/",
+      "found_on": "Awwwards",
+      "source_url": "https://www.awwwards.com/sites/aat-architecten",
+      "why": "Minimal Belgian architecture portfolio (Awwwards nominee); a reference for white space and restrained project presentation."
+    },
+    {
+      "id": "pearltiling_com_au",
+      "url": "https://pearltiling.com.au/",
+      "found_on": "One Page Love",
+      "source_url": "https://onepagelove.com/pearl-tiling",
+      "why": "A tiling and interiors trade presented like a design studio, with a numbered side index and coral line monogram; proof a trade site can be editorial."
+    },
+    {
+      "id": "pierreyovanovitch_com",
+      "url": "https://www.pierreyovanovitch.com/",
+      "found_on": "SiteInspire",
+      "source_url": "https://www.siteinspire.com/website/10271-pierre-yovanovitch",
+      "why": "High-end interior architecture studio listed in SiteInspire's interior design category; useful as a luxury tone benchmark for typography and restraint."
+    },
+    {
+      "id": "harlow-template_framer_website",
+      "url": "https://harlow-template.framer.website/",
+      "found_on": "Framer Marketplace",
+      "source_url": "https://www.framer.com/marketplace/templates/harlow-birch/",
+      "why": "Most complete conversion model found for a renovation firm: estimate form with icon tiles, timelines and prices on service cards, crew portraits, warranty band, mobile call icon."
+    },
+    {
+      "id": "communicative-psychology-099138_framer_app",
+      "url": "https://communicative-psychology-099138.framer.app/",
+      "found_on": "Framer Marketplace",
+      "source_url": "https://www.framer.com/marketplace/templates/lintel/",
+      "why": "Graybeam Builders demo of the Lintel template; published cost table, estimate vs final invoice cards and week-by-week timeline."
+    },
+    {
+      "id": "hearth-template_webflow_io",
+      "url": "https://hearth-template.webflow.io/",
+      "found_on": "Webflow Marketplace",
+      "source_url": "https://webflow.com/templates/html/hearth-remodeling-renovation-website-template",
+      "why": "Kitchen and bath remodeler demo (Sacramento) with hero consultation form, staggered before/after pairs and an FAQ on blush linen."
+    },
+    {
+      "id": "rebuld_framer_website",
+      "url": "https://rebuld.framer.website/",
+      "found_on": "One Page Love",
+      "source_url": "https://onepagelove.com/rebuld",
+      "why": "Renovation one-pager with tiered pricing, numbered process, tabbed project viewer and a warm cream and chocolate palette."
+    },
+    {
+      "id": "refit_framer_website",
+      "url": "https://refit.framer.website/",
+      "found_on": "Land-book",
+      "source_url": "https://land-book.com/websites/95361-refit-construction-and-renovation-website-template-for-framer",
+      "why": "Free Framer template for renovators (JJ Gerrish per Land-book); dark kitchen hero with a review card overlay, useful as a baseline to beat."
+    }
+  ]
+}
