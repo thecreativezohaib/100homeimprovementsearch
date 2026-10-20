@@ -11,26 +11,46 @@ K = "/home/user/100homeimprovementsearch/output/homepage_kit"
 
 
 def md_block(c):
-    h, out = c["hero"], []
-    out.append(f"## {c['business_name']} ({c['id']})\n")
-    out.append(f"- Title tag: {c['seo']['title_tag']}\n- Meta description: {c['seo']['meta_description']}")
-    out.append(f"- Primary keyword: {c['seo']['primary_keyword']}\n")
-    out.append(f"### Hero\n{h.get('eyebrow', '')}\n\n**{h['h1']}**\n\n{h.get('subheadline', '')}\n")
-    for key in ("intro", "about", "service_area"):
-        sec = c.get(key) or {}
-        paras = sec.get("paragraphs") or ([sec["paragraph"]] if sec.get("paragraph") else [])
-        out.append(f"### {sec.get('h2', key)}\n" + "\n\n".join(paras) + "\n")
-    sv = c.get("services") or {}
-    items = sv.get("items", sv) if isinstance(sv, dict) else sv
-    out.append(f"### {sv.get('h2', 'Services') if isinstance(sv, dict) else 'Services'}")
-    for s in items:
-        out.append(f"- **{s.get('name') or s.get('title')}**: {s.get('blurb') or s.get('text')}")
-    fq = c.get("faq") or {}
-    out.append(f"\n### {fq.get('h2', 'FAQ') if isinstance(fq, dict) else 'FAQ'}")
-    for q in (fq.get("items", []) if isinstance(fq, dict) else fq):
-        out.append(f"- **{q.get('q') or q.get('question')}** {q.get('a') or q.get('answer')}")
-    out.append("\n---\n")
-    return "\n".join(out)
+    """One business as readable text, every section in template order."""
+    def items(sec, key):
+        return (sec or {}).get(key, []) if isinstance(sec, dict) else (sec or [])
+    h, o = c["hero"], []
+    o.append(f"## {c['business_name']} ({c['id']})\n")
+    o.append(f"- Title tag: {c['seo']['title_tag']}\n- Meta description: {c['seo']['meta_description']}")
+    o.append(f"- Primary keyword: {c['seo']['primary_keyword']}\n- Secondary keywords: {', '.join(c['seo'].get('secondary_keywords', []))}\n")
+    o.append(f"### Hero\n_{h.get('eyebrow', '')}_\n\n# {h['h1']}\n\n{h.get('subheadline', '')}\n")
+    o.append(f"Buttons: {h['primary_cta']['label']} | {h['secondary_cta']['label']}  ")
+    o.append("Trust badges: " + " / ".join(h.get("trust_badges", [])))
+    o.append(f"Hero image: {(h.get('image') or {}).get('url')} (alt: {(h.get('image') or {}).get('alt')})\n")
+    o.append(f"### {c['intro']['h2']}\n" + "\n\n".join(c["intro"].get("paragraphs", [])) + "\n")
+    o.append(f"### {c['services']['h2']}")
+    o += [f"- **{x['name']}**: {x['blurb']}" for x in items(c["services"], "items")]
+    o.append(f"\n### {c['why_choose_us']['h2']}")
+    o += [f"- **{x['title']}**: {x['text']}" for x in items(c["why_choose_us"], "items")]
+    ab = c["about"]
+    o.append(f"\n### {ab['h2']}\n{ab.get('text', '')}\n\n({ab.get('owner_name')}, {ab.get('owner_role')})\n")
+    o.append(f"### {c['process']['h2']}")
+    o += [f"{n}. **{x['title']}**: {x['text']}" for n, x in enumerate(items(c["process"], "steps"), 1)]
+    o.append(f"\n### {c['gallery']['h2']}")
+    o += [f"- {x['url']} | {x.get('alt')} | {x.get('caption', '')}" for x in items(c["gallery"], "images")]
+    o.append(f"\n### {c['testimonials']['h2']}")
+    o += [f"> {x['text']}\n> {x['name']}, {x.get('source')}\n" for x in items(c["testimonials"], "items")]
+    sa = c["service_area"]
+    o.append(f"### {sa['h2']}\n{sa.get('text', '')}\n\nTowns: {', '.join(sa.get('towns', []))}\n")
+    o.append(f"### {c['faq']['h2']}")
+    o += [f"- **{x['q']}** {x['a']}" for x in items(c["faq"], "items")]
+    fc, ft = c["final_cta"], c["footer"]
+    o.append(f"\n### {fc['h2']}\n{fc.get('text', '')}\n\nButton: {fc['button']['label']} ({fc['button']['href']})\n")
+    o.append("Footer: " + " | ".join(str(ft.get(k) or f"no {k} listed") for k in ("name", "address", "phone", "email", "hours")) + "  ")
+    o.append("Socials: " + ", ".join(ft.get("socials") or []) + "\n")
+    cn = c.get("conversion_notes")
+    if isinstance(cn, dict):
+        o.append("**Conversion notes (not for the page)**")
+        for k, v in cn.items():
+            o.append(f"- {k}: " + ("; ".join(v) if isinstance(v, list) else str(v)))
+    o.append("\n**Missing (left out, not invented):** " + "; ".join(c.get("missing", [])))
+    o.append("\n---\n")
+    return "\n".join(o)
 
 
 def main():

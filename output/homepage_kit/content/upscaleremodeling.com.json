@@ -2,7 +2,7 @@
  "id": "upscaleremodeling.com",
  "business_name": "Upscale Remodeling",
  "seo": {
-  "title_tag": "Kitchen Remodeling Ithaca NY | Upscale Remodeling Design-Build",
+  "title_tag": "Kitchen Remodeling Ithaca NY | Upscale Remodeling",
   "meta_description": "Design-build kitchen remodeling in Ithaca, NY since 1991. Fixed price before construction, 5-year warranty, 5.0 on Google. Call Upscale at (607) 539-6014.",
   "primary_keyword": "kitchen remodeling Ithaca NY",
   "secondary_keywords": [
@@ -19,10 +19,16 @@
  },
  "hero": {
   "eyebrow": "Freeville and Ithaca, NY · Since 1991",
-  "h1": "Kitchen Remodeling in Ithaca, NY, With the Price Fixed Before We Build",
+  "h1": "Kitchen Remodeling in Ithaca, NY, Priced Before We Build",
   "subheadline": "Upscale Remodeling designs and builds kitchens, baths, basements and additions under one roof. You get running estimates during design and a fixed price before construction, backed by a 5-year warranty.",
-  "primary_cta": {"label": "Call (607) 539-6014", "href": "tel:+16075396014"},
-  "secondary_cta": {"label": "Schedule a free initial consultation", "href": "#contact"},
+  "primary_cta": {
+   "label": "Call (607) 539-6014",
+   "href": "tel:+16075396014"
+  },
+  "secondary_cta": {
+   "label": "Schedule a free initial consultation",
+   "href": "#contact"
+  },
   "trust_badges": [
    "5.0 stars from 40 Google reviews",
    "Serving Ithaca since 1991",
@@ -37,7 +43,7 @@
  "intro": {
   "h2": "Know the number before the walls come down",
   "paragraphs": [
-   "Upscale Remodeling has handled kitchen remodeling in Ithaca, NY since 1991 as a full-service design-build firm. The same team draws your kitchen and builds it, so the design is priced against real construction costs as it develops.",
+   "Upscale Remodeling has handled kitchen remodeling in Ithaca, NY since 1991 as a full-service design-build firm. The same team draws your kitchen and builds it, so the design is priced against real construction costs as it develops, not after.",
    "The firm is open about money. Its pricing page says most Ithaca-area kitchens it completes start at $70,000 and most bathrooms at $40,000. During design you get running estimates, and before construction starts you get a fixed price. Older Ithaca homes bring plaster walls, aging plumbing and knob-and-tube wiring, so those are checked early, before design decisions are locked in."
   ]
  },
@@ -47,32 +53,56 @@
    {
     "name": "Kitchen Remodeling",
     "blurb": "Custom cabinets, quartz and natural stone counters, fixtures, lighting and storage, chosen in the private Design Studio in Freeville. Projects range from updating a dated layout to opening walls into the dining room. Most kitchens are finished in 8 to 14 weeks from the start of construction.",
-    "image": {"url": "https://upscaleremodeling.com/wp-content/uploads/©RP_9562.jpg", "alt": "Remodeled kitchen with brown leather stools around a marble-topped island with reclaimed wood paneling and white cabinets"}
+    "image": {
+     "url": "https://upscaleremodeling.com/wp-content/uploads/©RP_9562.jpg",
+     "alt": "Remodeled kitchen with brown leather stools around a marble-topped island with reclaimed wood paneling and white cabinets"
+    }
    },
    {
     "name": "Bathroom Remodeling",
-    "blurb": "Primary baths, hall baths and half baths, from a leaking tub replaced with new tile, tub, counter and trim to a full redesign with custom vanities. Christie, a Certified Kitchen & Bath Designer, leads design, and most Ithaca-area bathrooms the firm completes start at $40,000.",
-    "image": {"url": "https://upscaleremodeling.com/wp-content/uploads/Bathroom-Remodel.jpg", "alt": "Remodeled bathroom in an Ithaca, NY home with a warm wood vanity, lighted mirror cabinet and built-in linen storage"}
+    "blurb": "Primary baths and half baths, from a leaking tub replaced with new tile, tub, counter and trim to a full redesign with custom vanities. Christie, a Certified Kitchen & Bath Designer, leads design, and most Ithaca-area bathrooms the firm completes start at $40,000.",
+    "image": {
+     "url": "https://upscaleremodeling.com/wp-content/uploads/Bathroom-Remodel.jpg",
+     "alt": "Remodeled bathroom in an Ithaca, NY home with a warm wood vanity, lighted mirror cabinet and built-in linen storage"
+    }
    },
    {
     "name": "Basement Renovation and Finishing",
-    "blurb": "Unfinished basements turned into usable rooms, from entertainment spaces to wet bars, designed and built by the same team as the rest of your house. Work like this in the Finger Lakes region starts with a look at what is behind the walls and under the floor.",
-    "image": {"url": "https://upscaleremodeling.com/wp-content/uploads/Basement-Remodel.jpg", "alt": "Finished basement in the Finger Lakes region with a dark-cabinet wet bar, bottle shelves and a pub-height table"}
+    "blurb": "Unfinished basements turned into usable rooms, from entertainment spaces to wet bars, designed and built by the same team as the rest of your house. The firm publishes an honest breakdown of basement remodel costs on its blog, so you can plan the budget before the first meeting.",
+    "image": {
+     "url": "https://upscaleremodeling.com/wp-content/uploads/Basement-Remodel.jpg",
+     "alt": "Finished basement in the Finger Lakes region with a dark-cabinet wet bar, bottle shelves and a pub-height table"
+    }
    },
    {
     "name": "Additions and Renovations",
     "blurb": "Sunrooms, three-season rooms, mudrooms and kitchen additions that fit the house you already have. One South Ithaca project paired an addition with a renovation, and a Cayuga Heights home gained a three-season room. All permits, inspections and subcontractor coordination are handled directly.",
-    "image": {"url": "https://upscaleremodeling.com/wp-content/uploads/111-white-park-road-ithaca-ny-usa-001-Abby-Anderson-squashed.jpg", "alt": "Three-season room addition on a stone house in the Cayuga Heights neighborhood of Ithaca, NY"}
+    "image": {
+     "url": "https://upscaleremodeling.com/wp-content/uploads/111-white-park-road-ithaca-ny-usa-001-Abby-Anderson-squashed.jpg",
+     "alt": "Three-season room addition on a stone house in the Cayuga Heights neighborhood of Ithaca, NY"
+    }
    }
   ]
  },
  "why_choose_us": {
   "h2": "Why Tompkins County homeowners trust Upscale",
   "items": [
-   {"title": "A fixed price before construction", "text": "Free pricing guides show typical starting costs, running estimates follow you through design, and the price is fixed before any building starts. Reviewers describe no surprises on cost."},
-   {"title": "Five years of coverage", "text": "Every project carries a 5-year warranty, and the process ends with post-completion support and anniversary inspections, so someone comes back to check the work after you move back in."},
-   {"title": "A+ BBB, zero complaints", "text": "Upscale is accredited by the Better Business Bureau with an A+ rating and reports zero complaints in more than 30 years of service. It was also named to Remodeling magazine's Top 550 list."},
-   {"title": "Certified people on your job", "text": "Designer Christie holds the CKBD and CLIPP credentials and is president of the NKBA Central New York chapter. The firm is a Certified Graduate Remodeler, an Aging-in-Place Specialist and EPA Lead-Safe certified."}
+   {
+    "title": "A fixed price before construction",
+    "text": "Free pricing guides show typical starting costs, running estimates follow you through design, and the price is fixed before any building starts. Reviewers call it a quality job at a fair price."
+   },
+   {
+    "title": "Five years of coverage",
+    "text": "Every project carries a 5-year warranty, and the process ends with post-completion support and anniversary inspections, so someone comes back to check the work after you move back in."
+   },
+   {
+    "title": "A+ BBB, zero complaints",
+    "text": "Upscale is accredited by the Better Business Bureau with an A+ rating and reports zero complaints in more than 30 years of service. It was also named to Remodeling magazine's Top 550 list."
+   },
+   {
+    "title": "Certified people on your job",
+    "text": "Designer Christie holds the CKBD and CLIPP credentials and is president of the NKBA Central New York chapter. The firm is a Certified Graduate Remodeler, an Aging-in-Place Specialist and EPA Lead-Safe certified."
+   }
   ]
  },
  "about": {
@@ -80,57 +110,146 @@
   "text": "Founder Steve Nash's ancestors settled the Ellis Hollow and Snyder Hill area in the early 1800s and built some of the region's first homes, and several still stand. Steve started learning the trade at age nine, working beside his father and grandfather. The lesson he kept was simple: never compromise and never cut corners. He founded Upscale Remodeling, and the company has served Ithaca since 1991. Today he leads a team that includes designer Christie, project manager Rich, lead carpenters Caesar and Ken, and estimator Scott, with ongoing training for every role.",
   "owner_name": "Steve Nash",
   "owner_role": "Founder",
-  "image": {"url": "https://upscaleremodeling.com/wp-content/uploads/Steve_1x1-squashed.webp", "alt": "Steve Nash, founder of Upscale Remodeling in Freeville and Ithaca, NY"}
+  "image": {
+   "url": "https://upscaleremodeling.com/wp-content/uploads/Steve_1x1-squashed.webp",
+   "alt": "Steve Nash, founder of Upscale Remodeling in Freeville and Ithaca, NY"
+  }
  },
  "process": {
   "h2": "The four-step design-build process",
   "steps": [
-   {"title": "Discovery and getting acquainted", "text": "An initial call, then a free meeting and site visit at your home. If it is a fit, you sign a Project Development Agreement to start design."},
-   {"title": "Design and development", "text": "Conceptual design, design development and selections in the Freeville Design Studio, with running estimates, ending in a final design and formal fixed-price proposal."},
-   {"title": "Construction", "text": "Permits, material ordering, scheduling and a pre-construction meeting come first. During the build you get constant communication from your project manager."},
-   {"title": "Completion and enjoyment", "text": "A final walk-through, then the 5-year warranty period with post-completion support and anniversary inspections."}
+   {
+    "title": "Discovery and getting acquainted",
+    "text": "An initial call, then a free meeting and site visit at your home. If it is a fit, you sign a Project Development Agreement to start design."
+   },
+   {
+    "title": "Design and development",
+    "text": "Conceptual design, design development and selections in the Freeville Design Studio, with running estimates, ending in a final design and formal fixed-price proposal."
+   },
+   {
+    "title": "Construction",
+    "text": "Permits, material ordering, scheduling and a pre-construction meeting come first. During the build you get constant communication from your project manager."
+   },
+   {
+    "title": "Completion and enjoyment",
+    "text": "A final walk-through with you, then the 5-year warranty period with post-completion support and anniversary inspections in the years after."
+   }
   ]
  },
  "gallery": {
   "h2": "Kitchens and baths around Ithaca and the Finger Lakes",
   "images": [
-   {"url": "https://upscaleremodeling.com/wp-content/uploads/Kitchen-Remodel-Featured-Image.jpg", "alt": "Remodeled kitchen in an Ithaca, NY home with wood cabinets, granite counters, glass tile backsplash and stainless appliances", "caption": "Ithaca kitchen remodel"},
-   {"url": "https://upscaleremodeling.com/wp-content/uploads/10-web-or-mls-DSC00608.jpg", "alt": "White shaker kitchen with a professional dual-fuel range, white quartz counters and a paneled range hood", "caption": "White kitchen with pro range"},
-   {"url": "https://upscaleremodeling.com/wp-content/uploads/14-Abby-Anderson-squashed.jpg", "alt": "Cooktop and stainless island hood in the Sophia House kitchen remodel in Ithaca, NY", "caption": "Sophia House kitchen, Ithaca"},
-   {"url": "https://upscaleremodeling.com/wp-content/uploads/6350-boyd-hill-rd-trumansburg-ny-usa-006-Abby-Anderson-squashed.jpg", "alt": "Trumansburg, NY kitchen with a pull-out butcher block shelf under a wall oven in wood cabinetry", "caption": "Pull-out butcher block, Trumansburg"},
-   {"url": "https://upscaleremodeling.com/wp-content/uploads/14-print-217-utica-street-ithaca-ny-usa-009_ret-squooshed.jpg", "alt": "Fall Creek, Ithaca bathroom with a floating wood vanity, vessel sink and round lighted mirror", "caption": "Floating vanity bath, Fall Creek"},
-   {"url": "https://upscaleremodeling.com/wp-content/uploads/Upscale_StormyBathroom_©RP_9612-1-scaled-e1711140727774.jpg", "alt": "Powder room with a reclaimed wood accent wall, white vanity and gold starburst mirror", "caption": "Powder room with reclaimed wood wall"},
-   {"url": "https://upscaleremodeling.com/wp-content/uploads/2-web-or-mls-2-squashed.jpg", "alt": "Primary bathroom remodel in Cayuga Heights, Ithaca with a cherry double vanity and quartz top", "caption": "Primary bath, Cayuga Heights"},
-   {"url": "https://upscaleremodeling.com/wp-content/uploads/Kitchen-4-1-2048x1365.jpg", "alt": "Open living room and kitchen with mid-century furniture, wood cabinetry and open shelving", "caption": "Open kitchen and living room"}
+   {
+    "url": "https://upscaleremodeling.com/wp-content/uploads/Kitchen-Remodel-Featured-Image.jpg",
+    "alt": "Remodeled kitchen in an Ithaca, NY home with wood cabinets, granite counters, glass tile backsplash and stainless appliances",
+    "caption": "Ithaca kitchen remodel"
+   },
+   {
+    "url": "https://upscaleremodeling.com/wp-content/uploads/10-web-or-mls-DSC00608.jpg",
+    "alt": "White shaker kitchen with a professional dual-fuel range, white quartz counters and a paneled range hood",
+    "caption": "White kitchen with pro range"
+   },
+   {
+    "url": "https://upscaleremodeling.com/wp-content/uploads/14-Abby-Anderson-squashed.jpg",
+    "alt": "Cooktop and stainless island hood in the Sophia House kitchen remodel in Ithaca, NY",
+    "caption": "Sophia House kitchen, Ithaca"
+   },
+   {
+    "url": "https://upscaleremodeling.com/wp-content/uploads/6350-boyd-hill-rd-trumansburg-ny-usa-006-Abby-Anderson-squashed.jpg",
+    "alt": "Trumansburg, NY kitchen with a pull-out butcher block shelf under a wall oven in wood cabinetry",
+    "caption": "Pull-out butcher block, Trumansburg"
+   },
+   {
+    "url": "https://upscaleremodeling.com/wp-content/uploads/14-print-217-utica-street-ithaca-ny-usa-009_ret-squooshed.jpg",
+    "alt": "Fall Creek, Ithaca bathroom with a floating wood vanity, vessel sink and round lighted mirror",
+    "caption": "Floating vanity bath, Fall Creek"
+   },
+   {
+    "url": "https://upscaleremodeling.com/wp-content/uploads/Upscale_StormyBathroom_©RP_9612-1-scaled-e1711140727774.jpg",
+    "alt": "Powder room with a reclaimed wood accent wall, white vanity and gold starburst mirror",
+    "caption": "Powder room with reclaimed wood wall"
+   },
+   {
+    "url": "https://upscaleremodeling.com/wp-content/uploads/2-web-or-mls-2-squashed.jpg",
+    "alt": "Primary bathroom remodel in Cayuga Heights, Ithaca with a cherry double vanity and quartz top",
+    "caption": "Primary bath, Cayuga Heights"
+   },
+   {
+    "url": "https://upscaleremodeling.com/wp-content/uploads/Kitchen-4-1-2048x1365.jpg",
+    "alt": "Open living room and kitchen with mid-century furniture, wood cabinetry and open shelving",
+    "caption": "Open kitchen and living room"
+   }
   ]
  },
  "testimonials": {
   "h2": "From Upscale's Google reviews",
   "items": [
-   {"name": "Kyle S.", "text": "My wife and I contacted Upscale Remodeling to discuss remodeling our kitchen and living room. From the first meeting, we felt comfortable with their staff, how they answered our questions, and how they explained what the process would be.", "source": "Google", "date": "a month ago as of 2026-10-14 (as shown on Google)"},
-   {"name": "Valerie E.", "text": "If i could give them six stars i would. Upscale Remodeling did a mudroom/bathroom renovation and a sunroom addition for me this year.", "source": "Google", "date": "11 months ago as of 2026-10-14 (as shown on Google)"},
-   {"name": "Sara", "text": "We had a leaking tub/seal situation and upscale remodeling did a fantastic job with the project.", "source": "Google", "date": "5 months ago as of 2026-10-14 (as shown on Google)"}
+   {
+    "name": "Kyle S.",
+    "text": "My wife and I contacted Upscale Remodeling to discuss remodeling our kitchen and living room. From the first meeting, we felt comfortable with their staff, how they answered our questions, and how they explained what the process would be.",
+    "source": "Google",
+    "date": "a month ago as of 2026-10-14 (as shown on Google)"
+   },
+   {
+    "name": "Valerie E.",
+    "text": "If i could give them six stars i would. Upscale Remodeling did a mudroom/bathroom renovation and a sunroom addition for me this year.",
+    "source": "Google",
+    "date": "11 months ago as of 2026-10-14 (as shown on Google)"
+   },
+   {
+    "name": "Sara",
+    "text": "We had a leaking tub/seal situation and upscale remodeling did a fantastic job with the project.",
+    "source": "Google",
+    "date": "5 months ago as of 2026-10-14 (as shown on Google)"
+   }
   ]
  },
  "service_area": {
   "h2": "Greater Ithaca, from Lansing to Trumansburg",
-  "text": "The office and Design Studio sit at 1410 Dryden Road in Freeville and are open by appointment. Upscale's projects reach across Ithaca, including Cayuga Heights, Fall Creek, East Hill, South Hill, West Hill and Ellis Hollow, and out to Lansing, Trumansburg, Newfield, Interlaken and the Town of Hector. If you live elsewhere in the Finger Lakes, call to ask.",
-  "towns": ["Ithaca, NY", "Cayuga Heights, NY", "Lansing, NY", "Trumansburg, NY", "Freeville, NY", "Newfield, NY", "Interlaken, NY", "Hector, NY"]
+  "text": "The office and Design Studio sit at 1410 Dryden Road in Freeville and are open by appointment. Upscale's projects reach across Ithaca, including Cayuga Heights, Fall Creek, East Hill, South Hill, West Hill and Ellis Hollow, and out to Lansing, Trumansburg, Newfield, Interlaken and the Town of Hector. If you live elsewhere in the Finger Lakes, call and ask whether your project is a fit.",
+  "towns": [
+   "Ithaca, NY",
+   "Cayuga Heights, NY",
+   "Lansing, NY",
+   "Trumansburg, NY",
+   "Freeville, NY",
+   "Newfield, NY",
+   "Interlaken, NY",
+   "Hector, NY"
+  ]
  },
  "faq": {
-  "h2": "Straight answers for Ithaca homeowners",
+  "h2": "Kitchen remodeling in Ithaca, NY: straight answers",
   "items": [
-   {"q": "How much does a kitchen remodel cost in Ithaca?", "a": "Upscale says most kitchen remodels it completes in the Ithaca area start at $70,000, and most bathrooms start at $40,000. Free pricing guides on its site break down each level. Because every kitchen is custom, you get running estimates during design and a fixed price before construction begins."},
-   {"q": "How long will my kitchen be out of service?", "a": "Most kitchen remodels in the greater Ithaca area are finished within eight to fourteen weeks from the start of construction, depending on scope. When a project also takes in a pantry, laundry area or breakfast nook, those parts are scheduled in parallel to shorten the time without a kitchen."},
-   {"q": "My house is old. Will that cause surprises?", "a": "Plaster walls, aging plumbing, knob-and-tube wiring and beams in unexpected places are common in Ithaca and Finger Lakes homes. Upscale assesses those conditions early, before design decisions are locked in, so the scope and price reflect what is actually behind the walls."},
-   {"q": "What does the warranty cover after the job?", "a": "Upscale backs its work with a 5-year warranty, which it calls industry-leading. The final phase of its process includes a warranty period with post-completion support and anniversary inspections. One reviewer noted the crew came back to adjust cabinets and fix small problems without hesitation."},
-   {"q": "Is the first consultation free?", "a": "Yes. Upscale will schedule an initial consultation at no cost, walk through your space, talk about what is realistic for your budget and explain the process from start to finish. Product selections later happen in the private Design Studio in Freeville, which is open by appointment."}
+   {
+    "q": "How much does a kitchen remodel cost in Ithaca?",
+    "a": "Upscale says most kitchen remodels it completes in the Ithaca area start at $70,000, and most bathrooms start at $40,000. Free pricing guides on its site break down each level. Because every kitchen is custom, you get running estimates during design and a fixed price before construction begins."
+   },
+   {
+    "q": "How long will my kitchen be out of service?",
+    "a": "Most kitchen remodels in the greater Ithaca area are finished within eight to fourteen weeks from the start of construction, depending on scope. When a project also takes in a pantry, laundry area or breakfast nook, those parts are scheduled in parallel to shorten the time without a kitchen."
+   },
+   {
+    "q": "My house is old. Will that cause surprises?",
+    "a": "Plaster walls, aging plumbing, knob-and-tube wiring and beams in unexpected places are common in Ithaca and Finger Lakes homes. Upscale assesses those conditions early, before design decisions are locked in, so the scope and price reflect what is actually behind the walls."
+   },
+   {
+    "q": "What does the warranty cover after the job?",
+    "a": "Upscale backs its work with a 5-year warranty, which it calls industry-leading. The final phase of its process includes a warranty period with post-completion support and anniversary inspections. One reviewer noted the crew came back to adjust cabinets and fix small problems without hesitation."
+   },
+   {
+    "q": "Is the first consultation free?",
+    "a": "Yes. Upscale will schedule an initial consultation at no cost, walk through your space, talk about what is realistic for your budget and explain the process from start to finish. Product selections later happen in the private Design Studio in Freeville, which is open by appointment."
+   }
   ]
  },
  "final_cta": {
   "h2": "Ask for your free walk-through",
   "text": "Call (607) 539-6014 to set up an initial consultation at your home, at no cost and with zero sales pressure.",
-  "button": {"label": "Call (607) 539-6014", "href": "tel:+16075396014"},
+  "button": {
+   "label": "Call (607) 539-6014",
+   "href": "tel:+16075396014"
+  },
   "phone": "(607) 539-6014"
  },
  "footer": {
@@ -138,7 +257,10 @@
   "address": "1410 Dryden Rd, Freeville, NY 13068",
   "phone": "(607) 539-6014",
   "email": null,
-  "socials": ["https://www.facebook.com/UpscaleRemodelingCorp", "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/upscale-remodeling-corporation-pfvwus-pf~755529125"],
+  "socials": [
+   "https://www.facebook.com/UpscaleRemodelingCorp",
+   "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/upscale-remodeling-corporation-pfvwus-pf~755529125"
+  ],
   "hours": "Offices and Design Studio by appointment only"
  },
  "schema_jsonld": {
@@ -148,10 +270,32 @@
   "url": "https://upscaleremodeling.com/",
   "telephone": "+1-607-539-6014",
   "foundingDate": "1991",
-  "founder": {"@type": "Person", "name": "Steve Nash"},
-  "address": {"@type": "PostalAddress", "streetAddress": "1410 Dryden Rd", "addressLocality": "Freeville", "addressRegion": "NY", "postalCode": "13068", "addressCountry": "US"},
-  "areaServed": ["Ithaca, NY", "Cayuga Heights, NY", "Lansing, NY", "Trumansburg, NY", "Freeville, NY", "Newfield, NY", "Interlaken, NY", "Hector, NY"],
-  "sameAs": ["https://www.facebook.com/UpscaleRemodelingCorp", "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/upscale-remodeling-corporation-pfvwus-pf~755529125"],
+  "founder": {
+   "@type": "Person",
+   "name": "Steve Nash"
+  },
+  "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "1410 Dryden Rd",
+   "addressLocality": "Freeville",
+   "addressRegion": "NY",
+   "postalCode": "13068",
+   "addressCountry": "US"
+  },
+  "areaServed": [
+   "Ithaca, NY",
+   "Cayuga Heights, NY",
+   "Lansing, NY",
+   "Trumansburg, NY",
+   "Freeville, NY",
+   "Newfield, NY",
+   "Interlaken, NY",
+   "Hector, NY"
+  ],
+  "sameAs": [
+   "https://www.facebook.com/UpscaleRemodelingCorp",
+   "https://www.houzz.com/professionals/kitchen-and-bath-remodelers/upscale-remodeling-corporation-pfvwus-pf~755529125"
+  ],
   "image": "https://upscaleremodeling.com/wp-content/uploads/MAI1-After-2-Abby-Anderson-squashed-1.webp"
  },
  "conversion_notes": {
@@ -175,21 +319,66 @@
   "outreach_hook": "Steve, the estimate form on your home page posts to a URL that returns a 404 and the call button dials 123456789, so some Ithaca leads may never reach you; here is a homepage that fixes both."
  },
  "facts_used": [
-  {"fact": "Name Upscale Remodeling, 1410 Dryden Rd, Freeville, NY 13068, phone +1 607-539-6014, category Remodeler", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYEJ_wR52okR2q8fWGqUlVA&hl=en"},
-  {"fact": "5.0 stars from 40 Google reviews; owner reply to Kyle names Christie, Rich, Ken; review summary 'The quality of the materials is stellar'", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYEJ_wR52okR2q8fWGqUlVA&hl=en"},
-  {"fact": "Full-service design build remodeling firm in Ithaca serving clients continuously since 1991; 5-year warranty; Design Studio; zero sales pressure", "source_url": "https://upscaleremodeling.com/about/"},
-  {"fact": "Home page: 35+ years in Ithaca, A+ BBB accredited, Top 550 Remodeling Mag, 4.9 / 73 reviews; accurate running estimates throughout design and a fixed price before construction; services kitchen, bathroom, basement, additions; gallery Lansing, South Ithaca; testimonial towns Northeast Ithaca, Southwest Ithaca, East Ithaca, Trumansburg", "source_url": "https://upscaleremodeling.com/"},
-  {"fact": "Founder Steve Nash; ancestors settled Ellis Hollow/Snyder Hill in early 1800s and built some of the region's first homes; learned building with father and grandfather from age nine; never compromise, never cut corners", "source_url": "https://upscaleremodeling.com/our-story/"},
-  {"fact": "Team: Steve Nash Founder; Caesar and Ken Lead Carpenters; Chris Carpenter; Rich Project Manager; Christie Design, CKBD, CLIPP Certified, NKBA Central New NY Chapter President; Scott Estimator & Production Coordinator; Abby Operations", "source_url": "https://upscaleremodeling.com/our-team/"},
-  {"fact": "Process: Discovery (initial contact, discovery call, initial meeting and site visit, Project Development Agreement); Design & Development (conceptual, development, final design and formal proposal); Construction (permits, material acquisition, scheduling, pre-construction meeting, constant communication); Completion (final walk-through, warranty period and post-completion support, anniversary inspections)", "source_url": "https://upscaleremodeling.com/our-process/"},
-  {"fact": "Most kitchen remodels in the Ithaca area start at $70,000; bathrooms at $40,000; pricing guides", "source_url": "https://upscaleremodeling.com/pricing/"},
-  {"fact": "Kitchen page: custom cabinets, quartz and natural stone, fixtures, lighting, space optimization; private Design Studio in Freeville; older homes with plaster, aging plumbing, knob-and-tube wiring assessed early; permitting, subcontractor coordination and inspections handled; most kitchens finished within 8 to 14 weeks from start of construction; initial consultation at no cost; kitchen design led by Christie Dixon, CKBD, NKBA Central New York chapter president", "source_url": "https://upscaleremodeling.com/services/kitchen-remodeling/"},
-  {"fact": "Awards and credentials: Remodeling Magazine Top 550 (2014); Best of Houzz Service 2014, 2015, 2024; CAPS; EPA Lead Safe Certified Renovator; A+ BBB with zero complaints in 30+ years; Certified Graduate Remodeler (CGR)", "source_url": "https://upscaleremodeling.com/remodeling-awards/"},
-  {"fact": "Reviews page: crew came back to adjust cabinets and fix little problems (Randall Corey, Town of Ithaca); Newfield client", "source_url": "https://upscaleremodeling.com/reviews/"},
-  {"fact": "Portfolio towns and neighborhoods: Lansing, Ellis Hollow, Interlaken, West Hill, South Hill, Cayuga Heights, East Hill", "source_url": "https://upscaleremodeling.com/portfolio/"},
-  {"fact": "Image alt text: Cayuga Heights three-season room addition; Fall Creek bathroom; Town of Hector addition; Trumansburg kitchen; Sophia House sorority kitchen in Ithaca; finished basement with wet bar in the Finger Lakes; remodeled bathroom and kitchen in Ithaca homes", "source_url": "https://upscaleremodeling.com/remodeling-services/"},
-  {"fact": "Offices & Design Studio by appointment only, 1410 Dryden Road Freeville", "source_url": "https://upscaleremodeling.com/"},
-  {"fact": "Measured: form action returns HTTP 404; tel href '123456789'; PSI mobile 91", "source_url": "https://upscaleremodeling.com/"}
+  {
+   "fact": "Name Upscale Remodeling, 1410 Dryden Rd, Freeville, NY 13068, phone +1 607-539-6014, category Remodeler",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYEJ_wR52okR2q8fWGqUlVA&hl=en"
+  },
+  {
+   "fact": "5.0 stars from 40 Google reviews; owner reply to Kyle names Christie, Rich, Ken; review summary 'The quality of the materials is stellar'",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYEJ_wR52okR2q8fWGqUlVA&hl=en"
+  },
+  {
+   "fact": "Full-service design build remodeling firm in Ithaca serving clients continuously since 1991; 5-year warranty; Design Studio; zero sales pressure",
+   "source_url": "https://upscaleremodeling.com/about/"
+  },
+  {
+   "fact": "Home page: 35+ years in Ithaca, A+ BBB accredited, Top 550 Remodeling Mag, 4.9 / 73 reviews; accurate running estimates throughout design and a fixed price before construction; services kitchen, bathroom, basement, additions; gallery Lansing, South Ithaca; testimonial towns Northeast Ithaca, Southwest Ithaca, East Ithaca, Trumansburg",
+   "source_url": "https://upscaleremodeling.com/"
+  },
+  {
+   "fact": "Founder Steve Nash; ancestors settled Ellis Hollow/Snyder Hill in early 1800s and built some of the region's first homes; learned building with father and grandfather from age nine; never compromise, never cut corners",
+   "source_url": "https://upscaleremodeling.com/our-story/"
+  },
+  {
+   "fact": "Team: Steve Nash Founder; Caesar and Ken Lead Carpenters; Chris Carpenter; Rich Project Manager; Christie Design, CKBD, CLIPP Certified, NKBA Central New NY Chapter President; Scott Estimator & Production Coordinator; Abby Operations",
+   "source_url": "https://upscaleremodeling.com/our-team/"
+  },
+  {
+   "fact": "Process: Discovery (initial contact, discovery call, initial meeting and site visit, Project Development Agreement); Design & Development (conceptual, development, final design and formal proposal); Construction (permits, material acquisition, scheduling, pre-construction meeting, constant communication); Completion (final walk-through, warranty period and post-completion support, anniversary inspections)",
+   "source_url": "https://upscaleremodeling.com/our-process/"
+  },
+  {
+   "fact": "Most kitchen remodels in the Ithaca area start at $70,000; bathrooms at $40,000; pricing guides",
+   "source_url": "https://upscaleremodeling.com/pricing/"
+  },
+  {
+   "fact": "Kitchen page: custom cabinets, quartz and natural stone, fixtures, lighting, space optimization; private Design Studio in Freeville; older homes with plaster, aging plumbing, knob-and-tube wiring assessed early; permitting, subcontractor coordination and inspections handled; most kitchens finished within 8 to 14 weeks from start of construction; initial consultation at no cost; kitchen design led by Christie Dixon, CKBD, NKBA Central New York chapter president",
+   "source_url": "https://upscaleremodeling.com/services/kitchen-remodeling/"
+  },
+  {
+   "fact": "Awards and credentials: Remodeling Magazine Top 550 (2014); Best of Houzz Service 2014, 2015, 2024; CAPS; EPA Lead Safe Certified Renovator; A+ BBB with zero complaints in 30+ years; Certified Graduate Remodeler (CGR)",
+   "source_url": "https://upscaleremodeling.com/remodeling-awards/"
+  },
+  {
+   "fact": "Reviews page: crew came back to adjust cabinets and fix little problems (Randall Corey, Town of Ithaca); Newfield client",
+   "source_url": "https://upscaleremodeling.com/reviews/"
+  },
+  {
+   "fact": "Portfolio towns and neighborhoods: Lansing, Ellis Hollow, Interlaken, West Hill, South Hill, Cayuga Heights, East Hill",
+   "source_url": "https://upscaleremodeling.com/portfolio/"
+  },
+  {
+   "fact": "Image alt text: Cayuga Heights three-season room addition; Fall Creek bathroom; Town of Hector addition; Trumansburg kitchen; Sophia House sorority kitchen in Ithaca; finished basement with wet bar in the Finger Lakes; remodeled bathroom and kitchen in Ithaca homes",
+   "source_url": "https://upscaleremodeling.com/remodeling-services/"
+  },
+  {
+   "fact": "Offices & Design Studio by appointment only, 1410 Dryden Road Freeville",
+   "source_url": "https://upscaleremodeling.com/"
+  },
+  {
+   "fact": "Measured: form action returns HTTP 404; tel href '123456789'; PSI mobile 91",
+   "source_url": "https://upscaleremodeling.com/"
+  }
  ],
  "missing": [
   "Public email address (none on the site)",
