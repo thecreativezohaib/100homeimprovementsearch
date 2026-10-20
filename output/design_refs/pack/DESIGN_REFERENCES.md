@@ -3,38 +3,43 @@
 ## What this pack is for
 These references are for designing ONE master homepage template that will be filled with the content in
 `homepage_kit/` for 100 independent US kitchen and bath remodelers. The page sells a $20k to $200k project to a
-homeowner who is comparing two or three firms. It has to look like a high-end design studio and still work like a
-lead-generation page: the phone number and one clear "book a consultation" action must never be more than a thumb
-away, especially on a phone.
+homeowner who is comparing two or three firms. It has to feel like a premium studio and still work as a
+lead-generation page: the phone number and one clear "free estimate" action must never be more than a thumb away,
+especially on a phone.
 
-Every reference here was captured from the live site (or downloaded from the design gallery) and reviewed by eye,
-desktop and mobile. Weak pages were dropped. The notes say exactly what to borrow and what to avoid.
+## The two sites the client chose
+The client reviewed twelve shortlisted sites and chose these two. Design from them first; everything else in this
+pack supports them.
 
-## The recommended direction in one paragraph
-Take the **look** from the editorial studios (United Elite Group, C&R Design Remodel, Studio McGee, Interior ST,
-Henrybuilt): warm neutral backgrounds (linen, sand, stone) alternating with one deep anchor colour (espresso, near
-black or navy), a refined high-contrast serif for headings over a quiet sans for body, tiny letter-spaced uppercase
-eyebrows, generous white space, and large real project photography. Take the **conversion system** from Watermark
-Design Build, the Harlow & Birch template, the Graybeam (Lintel) template and Kurtis Kitchen: a utility bar with
-licence and phone, a hero with two buttons (book and call), a trust strip right under the hero, one primary call to
-action repeated after each major section, price and timeline chips on service cards where the firm publishes them,
-a before/after slider, a numbered process with what to expect at each step, a ratings strip, a warranty band, and a
-sticky Call / Book bar on mobile. Re-Bath's sections (form docked in the hero, zip-code service-area finder) are in
-the section folders; its franchise look is not. Take the **warmth** from Murrayhill and Nicholson: the real owner and crew, a founder-signed invitation
-beside a short form, and the hours and phone right next to it.
+1. **Harlow & Birch** (https://harlow-template.framer.website/, `sites/01_harlow-template_framer_website/`): the
+   structure and the conversion system. Warm craftsman premium: espresso dark sections alternating with cream and
+   white, honey-amber buttons, rounded photo cards, monospace eyebrows with a short rule, tight grotesk headlines.
+   Header with announcement bar, phone and "Free estimate" always visible; a rating chip above the H1; two hero
+   buttons and a proof row; service cards with timeline and "from" price chips; a before/after slider with a short
+   case story; named owners and crew portraits; a numbered process with an expectation chip per step; a big rating
+   block; a certifications grid; a dark guarantee band (fixed price, clean site, warranty) with both buttons; FAQ
+   paired with "where we work" town chips; a multi-step estimate form with icon tiles; a closing band and a footer
+   with an hours table.
+2. **Interior ST** (https://interior-st-wbs.framer.website/, `sites/02_tpl_interior_st/`): the premium editorial
+   layer. Dark espresso and warm cream with a terracotta accent; condensed uppercase headlines with a single swash
+   script initial; testimonial with a photo and an overlapping terracotta quote card plus "4.9/5 average rating";
+   three priced packages with inclusions; a dark FAQ accordion with hairlines; stats beside a cluster of rotated
+   project photos; a closing call to action over a warm photo.
+
+**The blend:** Harlow & Birch's page structure and conversion features, dressed with Interior ST's editorial
+typography, dark/cream rhythm and terracotta or amber accent. Both are template demos with placeholder content and
+stock or AI-looking photos: copy their layout, type and mechanics, not their words or images.
 
 ## Rules the template must follow
 1. **Built for gaps.** Firms differ: some have 5 photos, 2 reviews, no owner photo, no street address, no prices.
    Every section must look complete with less content, and hide cleanly when its content is missing (no empty
-   cards, no placeholder images).
+   cards, no placeholder images). Price and timeline chips appear only when a firm publishes them.
 2. **Re-skinnable.** Colours and fonts come from a few tokens (background, surface, ink, accent, accent ink, heading
-   font, body font) so one layout works for a navy-and-brass firm and a white-and-sage firm. Avoid designs that only
-   work with one hero photo or one brand colour.
-3. **Photos lead, but they are the firm's own.** Expect real, uneven project photos (phone shots, mixed lighting).
-   Use treatments that flatter them: consistent aspect ratios with object-fit crops, gentle overlays for text, no
-   tiny thumbnails, no stock-looking filler.
-4. **Mobile first.** Most visitors arrive from Google on a phone. Required on mobile: tap-to-call in the header or a
-   sticky bottom bar (Call + Book), hero text and both buttons above the fold, 44px tap targets, forms with large
+   font, body font) so one layout works for every firm's brand colour and logo.
+3. **Real photos.** Expect the firms' own, uneven project photos (phone shots, mixed light). Use consistent aspect
+   ratios with object-fit crops, warm overlays for text, no tiny thumbnails.
+4. **Mobile first.** Required on mobile: tap-to-call and estimate in the sticky header, plus a bottom Call / Estimate
+   bar (both chosen sites lack it; add it), hero text and both buttons above the fold, 44px tap targets, large form
    inputs, no hover-only interactions.
 5. **Fast.** No heavy video heroes or scroll-jacking. Subtle fades at most. Target a mobile PageSpeed score of 90+.
 6. **Sections in this order** (matches the content files): header and utility bar, hero with trust badges, intro,
@@ -42,22 +47,22 @@ beside a short form, and the hours and phone right next to it.
    action, footer.
 
 ## How to read this pack
-1. `DESIGN_REFERENCES.md` (this file): the direction, then every kept site with what to borrow, then every section
-   crop with one line on why it is there, then the gallery concepts with their source links.
+1. `DESIGN_REFERENCES.md` (this file): the direction, the two chosen sites with full notes, every section crop with
+   one line on why it is there, the Pinterest picks and the other gallery concepts with their source links.
 2. `index.html`: the same material as a visual gallery. Open it in a browser.
-3. `sites/NN_<site>/`: one folder per kept site, ranked best first, with desktop (1440 px), tablet (820 px) and
-   mobile (390 px at 2x) full pages, and on-screen shots of the first screen and after scrolling.
-4. `sections/<section>/`: the best example of each section, desktop and mobile, cut from live sites.
-5. `concepts/`: design concepts from Dribbble, Behance, Pinterest, Awwwards, One Page Love and the Framer and Webflow
-   marketplaces. Two kept sites (Harlow & Birch, Graybeam) and some concepts are template demos with placeholder
-   content: use them for layout and mechanics, not for copy.
+3. `sites/`: the two chosen sites at desktop (1440 px), tablet (820 px) and mobile (390 px at 2x), full page plus
+   the first screen and a scrolled screen.
+4. `sections/<section>/`: section examples cut from live sites, desktop and mobile. Crops from sites other than the
+   two chosen ones are there for one specific mechanic each (noted in the guide), not for their overall look.
+5. `pinterest/`: the best designs found on Pinterest across 48 searches, chosen by eye.
+6. `concepts/`: design concepts from Dribbble, Behance, Pinterest, Awwwards, One Page Love and the Framer and Webflow
+   marketplaces.
 
 ## Avoid
 - The loud mass-market look (heavy red blocks, many competing buttons) and the generic contractor template look
   (hard hats, stock handshakes, orange and grey).
-- Pages that are beautiful but have no call to action (Henrybuilt and Studio McGee show the look only; borrow their
-  restraint, not their missing CTAs).
-- Text over busy photos without an overlay; thin light-grey text; long serif titles that overflow on mobile.
+- SaaS-looking pages: plain grotesk on white with no warmth. Keep the espresso, cream and amber or terracotta mood.
+- Text over busy photos without an overlay; thin light-grey text; long titles that overflow on mobile.
 
 
 ## Full-site references, best first

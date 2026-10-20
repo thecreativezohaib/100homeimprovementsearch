@@ -106,6 +106,16 @@ def main():
         for s in sections[sec]:
             md.append(f"- `{rel(s['file'])}` ({s['id'].replace('_', '.')}, {s['device']}): {s.get('why', '')}")
         md.append("")
+    pins = json.load(open(f"{R}/data/design_pinterest.json")) if os.path.exists(f"{R}/data/design_pinterest.json") else []
+    pins = [x for x in pins if x.get("file") and os.path.exists(x["file"])]
+    if pins:
+        md.append("\n## Pinterest picks\n")
+        md.append("The best designs found on Pinterest across 48 searches (kitchen and bath remodeling, interiors, "
+                  "architecture, builders, luxury web design and section-level searches), chosen by eye. Each links to "
+                  "its pin.\n")
+        for x in pins:
+            md.append(f"- `{rel(x['file'])}` ({x.get('type')}{', has mobile view' if x.get('has_mobile_view') else ''}): "
+                      f"{x.get('style', '')}. Borrow: {'; '.join(x.get('what_to_borrow', []))}. Pin: {x.get('source_url')}")
     if concepts:
         md.append("\n## Concept designs from Dribbble, Behance, Pinterest and other galleries\n")
         md.append("Design concepts, not live sites: use them for look and layout ideas. Each links to its source page.\n")
@@ -141,6 +151,12 @@ def main():
         for s in sections[sec]:
             cls = "secm" if s["device"] == "mobile" else "sec"
             h.append(f"<a class={cls} href='{rel(s['file'])}' title='{html.escape(s.get('why', ''))}'><img loading=lazy src='{rel(s['file'])}'></a>")
+        h.append("</div>")
+    if pins:
+        h.append("<h2>Pinterest picks</h2><div class=row style='flex-wrap:wrap'>")
+        for x in pins:
+            f = rel(x["file"])
+            h.append(f"<a href='{f}' title='{html.escape(x.get('style', ''))}'><img loading=lazy src='{f}' style='width:300px'></a>")
         h.append("</div>")
     if concepts:
         h.append("<h2>Concepts (Dribbble, Behance, Pinterest and more)</h2><div class=row style='flex-wrap:wrap'>")
