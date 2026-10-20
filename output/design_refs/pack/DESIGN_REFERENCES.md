@@ -65,7 +65,161 @@ stock or AI-looking photos: copy their layout, type and mechanics, not their wor
 - Text over busy photos without an overlay; thin light-grey text; long titles that overflow on mobile.
 
 
-## Full-site references, best first
+## How to use these references to build the template
+
+### The one rule: synthesize, never copy
+Do not rebuild any single reference, and do not let one reference dominate. The goal is an original design system
+that feels like it belongs in the same premium family as Harlow & Birch and Interior ST, yet is clearly its own.
+Work like this:
+
+1. **Study everything first.** Look through `sites/`, `sections/`, `pinterest/` and `concepts/` before drawing
+   anything. Note what keeps coming back across many references (warm dark and cream rhythm, editorial serif or
+   condensed caps, rounded photo cards, proof near every call to action). Recurring patterns are the genre; use
+   them. One-off tricks are signatures; borrow at most one per reference and change it.
+2. **Take ideas, not layouts.** From each reference take a principle ("price chips on service cards", "rating
+   summary as the first testimonial tile", "script initial inside caps headline"), never its exact grid, spacing,
+   wording, colours or images.
+3. **Mix at least three references per section.** Every section below lists its main sources. Combine the structure
+   of one, the visual treatment of another and the conversion device of a third, then adjust until it no longer
+   resembles any of them.
+4. **Change at least three of these from any reference you lean on:** layout geometry, type pairing, colour values,
+   corner radius, image shape, ornament or divider style, motion. If a section could be mistaken for its source, it
+   is too close.
+5. **Invent two or three signature elements of your own** that appear across the page and make it recognisable, for
+   example: a thin brass rule with a small monospace label that opens every section; a consistent photo frame (one
+   rounded corner, one square); a numbered index style (01 / 05) shared by services, process and FAQ; a small
+   stamp-like badge for the warranty. Keep them subtle and reusable for all 100 firms.
+6. **Design the system before the page.** Define tokens and components first (below), then assemble sections from
+   them. A consistent system is what makes the page feel premium; one-off sections make it feel like a collage.
+
+### Step-by-step build process
+1. **Mood and principles:** write five words for the design (for example: warm, crafted, editorial, calm,
+   trustworthy) and pick the two or three signature elements.
+2. **Design tokens** (CSS custom properties, so each firm can be re-skinned):
+   - Colour: `--bg` (cream or warm white), `--surface` (white or sand), `--ink` (espresso or near black),
+     `--ink-soft`, `--accent` (amber, terracotta or the firm's brand colour), `--accent-ink` (text on accent),
+     `--line` (hairlines), `--dark` (espresso band background), `--on-dark`. Check WCAG AA contrast for every pair.
+   - Type: one display face (a high-contrast serif or a condensed grotesk; an optional script for single initials
+     or one accent word), one text sans, one optional monospace for eyebrows and chips. Use Google Fonts or system
+     fallbacks. Fluid sizes with `clamp()`: H1 about 40px on phones to 88px on desktop; H2 30px to 56px; body 16px
+     to 18px; small text never below 14px.
+   - Space: an 8px scale (4, 8, 12, 16, 24, 32, 48, 64, 96, 128). Section padding about 64px on phones, 96px on
+     tablets, 128px on desktop.
+   - Shape and depth: one corner radius family (for example 4px for inputs, 16px to 24px for cards and photos, full
+     pill for buttons and chips), one soft shadow, hairline borders.
+   - Motion: short fades and small upward moves (200ms to 400ms), respect `prefers-reduced-motion`, no scroll
+     hijacking and nothing that hides content until it animates.
+3. **Components:** buttons (primary, secondary, ghost on dark, text link), chips (rating, price, timeline, town),
+   eyebrow label, section header, photo card, service card, stat, testimonial card, step, accordion item, form
+   fields and the multi-step estimate form, sticky header, mobile bottom bar, footer columns.
+4. **Sections:** assemble the 13 sections from the components using the recipes below.
+5. **Fill it with three real firms** from the homepage kit (`homepage_kit/content/`, delivered separately) (one with rich content, one average, one sparse with few
+   photos and no prices) and fix whatever breaks.
+6. **Responsive pass and QA** with the checklist at the end.
+
+### Section recipes (sources to blend)
+File names refer to folders in this pack. "Harlow" means `sites/01_harlow-template_framer_website/`; "Interior ST"
+means `sites/02_tpl_interior_st/`.
+
+1. **Header and utility bar.** Structure from Harlow (announcement bar with licence and hours, then nav with phone
+   and a Free estimate button), the boxed hairline nav of `pinterest/23_interior-st_full-homepage_pin99.jpg`, and the
+   floating pill nav of `pinterest/03_harlow_full-homepage_pin292.jpg`. Sticky: shrink on scroll, keep logo, phone
+   and estimate button. Mobile: logo, round phone button, menu button; full-screen menu in the spirit of
+   `pinterest/50_alt_mobile_pin815.jpg` and `sections/mobile_menu_or_header/`.
+2. **Hero.** Proof stack from Harlow (rating chip above the H1, two buttons, a proof row under them). Typography
+   from Interior ST and `pinterest/19_interior-st_full-homepage_pin117.jpg` (caps with one script letter) or
+   `pinterest/54_alt_section_pin520.jpg` (sans plus serif italic word). Composition ideas: the frosted text card of
+   `pinterest/01_harlow_full-homepage_pin96.jpg`, the staggered photos of
+   `pinterest/25_interior-st_full-homepage_pin527.jpg`, the recent-projects strip of
+   `pinterest/11_harlow_section_pin116.jpg`. Pick one composition and make it work with a single firm photo.
+3. **Trust strip.** Rating, licence, warranty and years as a quiet row (Harlow proof row, `sections/trust_bar/`),
+   with the certifications grid idea from Harlow and award rows from `pinterest/05_harlow_full-homepage_pin210.jpg`.
+4. **Intro.** Large statement paragraph with an eyebrow, as in `pinterest/18_interior-st_full-homepage_pin143.jpg`
+   and `pinterest/17_interior-st_full-homepage_pin165.jpg`; optional stats in the style of
+   `pinterest/10_harlow_responsive-mockup_pin843.jpg`.
+5. **Services.** Cards with photo, name, short blurb and optional price and timeline chips (Harlow,
+   `pinterest/43_alt_full-homepage_pin323.jpg`, `sections/services/`), or the tabbed version of
+   `pinterest/01_harlow_full-homepage_pin96.jpg`, or the accordion beside a photo of
+   `pinterest/21_interior-st_full-homepage_pin155.jpg`. Chips show only when the firm publishes the data.
+6. **Why choose us.** Four numbered promises in the shared index style; references: numbered values in
+   `pinterest/18_interior-st_full-homepage_pin143.jpg`, Harlow's icon promises and the dark guarantee band.
+7. **About the owner.** Named owner with a real photo and a short story, crew portraits when available (Harlow
+   `sections/about_owner/`, team blocks in `pinterest/02_harlow_full-homepage_pin55.jpg`). Without an owner photo,
+   fall back to a project photo with a signed quote.
+8. **Process.** Numbered steps with an expectation chip each (Harlow `sections/process/`), with ideas from the
+   expanding step of `pinterest/09_harlow_full-homepage_pin521.jpg`, the ring of
+   `pinterest/12_harlow_section_pin307.jpg` and `concepts/26_dribbble_three-step-process.jpg`.
+9. **Gallery and before/after.** Before/after slider (`sections/before_after/`, `concepts/17_dribbble_palo-alto-kitchen-before-after.jpg`, `concepts/18_dribbble_fixpro-before-after-slider.jpg`, `concepts/19_webflow_hearth-before-after-pairs.jpg`), project
+   rows with a meta line (`pinterest/47_alt_full-homepage_pin548.jpg`), the details mosaic of
+   `pinterest/52_alt_section_pin311.jpg`, the bath project sheet of `pinterest/35_interior-st_section_pin904.jpg`.
+   Must look good with 5 photos and with 8.
+10. **Testimonials.** Rating summary tile first (`pinterest/15_harlow_section_pin589.jpg`), then quote cards; the
+    overlapping quote card over a photo from Interior ST `sections/testimonials/`; numbered soft cards from
+    `pinterest/36_interior-st_section_pin608.jpg`. Works with 2 or 3 reviews.
+11. **Service area.** Town chips beside the FAQ (Harlow `sections/service_area/`) or a map-like panel with a "check
+    your address" action (`pinterest/04_harlow_full-homepage_pin349.jpg`, `sections/service_area/rebath_com__*`).
+12. **FAQ.** Accordion with hairlines (Interior ST `sections/faq/`, `pinterest/37_interior-st_section_pin688.jpg`,
+    `concepts/25_dribbble_faq-serif-accordion.jpg`) beside a human contact card (`concepts/24_dribbble_faq-book-a-call.jpg`,
+    `sections/faq/tpl_interiia__*`).
+13. **Final call to action and estimate form.** Multi-step estimate form with icon tiles (`concepts/21_framer_harlow-estimate-form.jpg`),
+    the "what happens next" column of `pinterest/58_alt_section_pin728.jpg`, the warm closing band of Interior ST
+    (`sections/cta_band/`). Always show phone and hours next to the form.
+14. **Footer.** Name, address, phone, email, hours table, service towns, socials, licence; a large wordmark in the
+    spirit of Harlow and `pinterest/38_interior-st_section_pin750.jpg`, kept short on mobile.
+
+### Responsive rules
+Design mobile first, then expand. Test at 360, 390, 430, 768, 1024, 1280 and 1440 px wide.
+
+**Breakpoints:** phone below 640px, large phone and small tablet 640px to 1023px, laptop 1024px to 1279px, desktop
+1280px and up. Content max width about 1280px with fluid side gutters of 16px (phones), 32px (tablets) and 48px or
+more (desktop).
+
+**Global behaviour:**
+- Fluid type and spacing with `clamp()`; no text smaller than 14px; line length 45 to 75 characters for body.
+- CSS grid with `auto-fit` and `minmax()` so cards reflow without breakpoint hacks; no horizontal page scroll at any
+  width.
+- Images: `srcset` and `sizes`, `aspect-ratio` set on every image box, `object-fit: cover`, lazy loading below the
+  fold, the hero image preloaded. Art-direct the hero crop for portrait phones.
+- Tap targets at least 44 by 44px; spacing between links; no hover-only information (hover is a bonus on desktop).
+- Sticky header on all sizes. On phones add a bottom bar with Call and Free estimate that appears after the hero and
+  never covers form fields or the footer content (add bottom padding equal to its height).
+- Forms: one column on phones, correct input types (`tel`, `email`), autocomplete attributes, large inputs, the
+  submit button full width.
+- Respect `prefers-reduced-motion` and safe areas (`env(safe-area-inset-bottom)` for the bottom bar).
+
+**Section behaviour:**
+
+| Section | Phone | Tablet | Desktop |
+|---|---|---|---|
+| Header | logo, phone icon, menu icon; full-screen menu | logo, phone number, estimate button, menu | full nav, phone, estimate button, utility bar |
+| Hero | photo on top or behind with overlay, H1 at most 4 lines, buttons stacked full width, proof row as 2x2 grid | text over photo or split, buttons inline | split or full-bleed composition, proof row in one line |
+| Trust strip | horizontal scroll of chips or 2x2 grid | one row, wraps | one row |
+| Services | single column cards or a swipe carousel with visible next card | 2 columns | 3 columns or tabs |
+| Why us | stacked list | 2x2 | 4 across |
+| About | photo then text | side by side | side by side with crew row |
+| Process | vertical numbered timeline | vertical or 2 columns | horizontal steps or expanding list |
+| Gallery | swipe carousel or 2-column grid, before/after full width | 2 or 3 columns | mosaic or 3 to 4 columns |
+| Testimonials | swipe cards, rating summary first | 2 columns | 3 columns or large single quote |
+| Service area | chips wrap, map hidden | chips plus small map | chips beside FAQ or map panel |
+| FAQ | full-width accordion, contact card after | accordion plus card | two columns: card and accordion |
+| Final CTA and form | form steps full width, phone and hours above | form plus side info | form beside "what happens next" and contact details |
+| Footer | stacked groups, short wordmark | 2 columns | 4 columns plus wordmark |
+
+### Gaps the design must survive
+Every section must handle: no owner photo, 5 project photos, 2 reviews, no prices, no street address (city only),
+no email, long business names and long town lists, and a logo that is only text. Hide empty parts cleanly and keep
+the rhythm of dark and light bands intact when a section is missing.
+
+### Final checklist
+- Does the page look original next to every reference? Compare side by side; change anything that is a near copy.
+- Is the phone and the estimate action visible on every screen size at every scroll position?
+- Do three different firms (rich, average, sparse) all look finished?
+- Mobile PageSpeed 90 or more, no layout shift from images or fonts, AA contrast, keyboard and screen reader
+  friendly (one H1, ordered headings, labelled form fields, visible focus states).
+- No em dashes, filler copy or placeholder images anywhere in the template.
+
+
+## Full-site references (the client's picks)
 
 Each folder in `sites/` has the same page at three widths: `desktop_full.jpg` (1440 px), `tablet_full.jpg` (820 px) and `mobile_full.jpg` (390 px at 2x), plus on-screen shots: `*_screen1.jpg` is the first screen a visitor sees and `*_screen2_scrolled.jpg` is after scrolling (shows sticky headers and call bars).
 
@@ -78,7 +232,7 @@ Each folder in `sites/` has the same page at three widths: `desktop_full.jpg` (1
 - Mobile: Excellent. Sticky header keeps the logo with round phone and menu icon buttons (white once scrolled); hero CTAs go full width; stats become a 2x2 bordered grid; services become a swipe carousel with price chips; before/after slider fills the width; process timeline keeps numbered dots; cert grid becomes 2x3; form tiles become 2 columns. Lacks a bottom call bar, and Framer's 'Made in Framer' and 'All pages' badges float over content.
 - Avoid: Template demo: fictional company, Unsplash photos and 555 numbers; Hiring and blog sections add length without converting; Generic grotesk type could read as SaaS if not warmed up with photography; No bottom sticky call bar on mobile; Framer badges overlay the hero proof row
 
-### 2. tpl.interior.st (8/10): Dark editorial luxury studio
+### 2. interior-st-wbs.framer.website (8/10): Dark editorial luxury studio
 - Live site: https://interior-st-wbs.framer.website/
 - Folder: `sites/02_tpl_interior_st/`
 - Palette: near-black espresso #211a16, warm cream #f2ebe2, terracotta/rust accent #a4603a, soft gold stars. Type: Mixed display: condensed grotesk caps (Neue Haas-like) with swash script capitals swapped in for first letters ('WE DIDN'T CHASE...'), small grotesk body
@@ -273,3 +427,53 @@ Design concepts, not live sites: use them for look and layout ideas. Each links 
 - `concepts/31_dribbble_sol-haus-mobile.jpg` (Dribbble, mobile, has mobile view): sandstone editorial mobile. Borrow: Four mobile screens showing how a swash-serif display headline, small caps eyebrow and full-width photo stack keep the luxury feel on a phone; Generous side margins and one image per screen, never a cramped grid. Source: https://dribbble.com/shots/27453758-Interior-Web-Design-S-l-Haus by Phenomenon Labs (for Phenomenon Studio)
 - `concepts/32_dribbble_td-interior-mobile.jpg` (Dribbble, mobile, has mobile view): monochrome minimal mobile. Borrow: Mobile hero with short headline "The New Modernism", intro paragraph and an image triptych; Category slider with "Prev / Next" text controls and a thin progress line under the image; Compact mobile footer with three link columns and a newsletter field. Source: https://dribbble.com/shots/26367902-TD-Luxury-Interior-Design-Furniture-Website-Design-Mobile by LAIN UI/UX (for LAIN)
 - `concepts/33_dribbble_plain-work-mobile.jpg` (Dribbble, mobile, has mobile view): blueprint grid, technical minimal. Borrow: Mobile hero copy aimed at the buyer: "Plans your contractor can build from without calling us." with a drawing image and two buttons; Project spec block with labeled fields (Sheet A-101, Project, Scale) that reads like a drawing title block, a nice craft detail; Mobile contact page as a numbered step list (Scope, Timing, Details, Review) before the form. Source: https://dribbble.com/shots/27784014-Responsive-architecture-studio-website-design-Plain-Work by Timotius Muliawan (for Timo Labs)
+
+## Every reference by template section
+
+Use these lists to gather at least three sources per section before designing it.
+
+### Header and utility bar
+`sections/mobile_menu_or_header/reformcph_com__mobile.jpg`, `sections/mobile_menu_or_header/bathfitter_com__mobile.jpg`, `sections/mobile_menu_or_header/rebath_com__mobile.jpg`, `sections/mobile_menu_or_header/harlow-template_framer_website__mobile.jpg`, `sections/header_nav/rebath_com__desktop.jpg`, `sections/header_nav/residences_loamhouse_com_au__desktop.jpg`, `sections/header_nav/harlow-template_framer_website__desktop.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/23_interior-st_full-homepage_pin99.jpg`, `pinterest/28_interior-st_responsive-mockup_pin840.jpg`, `pinterest/29_interior-st_mobile_pin795.jpg`, `pinterest/32_interior-st_section_pin113.jpg`, `pinterest/37_interior-st_section_pin688.jpg`, `pinterest/41_alt_full-homepage_pin308.jpg`, `pinterest/50_alt_mobile_pin815.jpg`, `pinterest/55_alt_section_pin914.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/07_dribbble_lago-interior-studio.jpg`, `concepts/09_dribbble_serenity-interiors.jpg`, `concepts/10_dribbble_kitchen-bath-plus.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/15_awwwards_loam-house-hero.jpg`, `concepts/16_dribbble_forma-architecture-hero.jpg`, `concepts/23_dribbble_goldstone-hero-estimate-form.jpg`, `concepts/29_framer_harlow-birch-mobile-screens.jpg`, `concepts/30_onepagelove_rebuld-mobile-hero.jpg`
+
+### Hero
+`pinterest/01_harlow_full-homepage_pin96.jpg`, `pinterest/02_harlow_full-homepage_pin55.jpg`, `pinterest/03_harlow_full-homepage_pin292.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/05_harlow_full-homepage_pin210.jpg`, `pinterest/06_harlow_full-homepage_pin305.jpg`, `pinterest/07_harlow_full-homepage_pin362.jpg`, `pinterest/08_harlow_full-homepage_pin103.jpg`, `pinterest/09_harlow_full-homepage_pin521.jpg`, `pinterest/10_harlow_responsive-mockup_pin843.jpg`, `pinterest/11_harlow_section_pin116.jpg`, `pinterest/13_harlow_section_pin526.jpg`, `pinterest/14_harlow_section_pin540.jpg`, `pinterest/17_interior-st_full-homepage_pin165.jpg`, `pinterest/18_interior-st_full-homepage_pin143.jpg`, `pinterest/19_interior-st_full-homepage_pin117.jpg`, `pinterest/20_interior-st_full-homepage_pin133.jpg`, `pinterest/21_interior-st_full-homepage_pin155.jpg`, `pinterest/22_interior-st_full-homepage_pin141.jpg`, `pinterest/23_interior-st_full-homepage_pin99.jpg`, `pinterest/24_interior-st_full-homepage_pin217.jpg`, `pinterest/25_interior-st_full-homepage_pin527.jpg`, `pinterest/26_interior-st_full-homepage_pin492.jpg`, `pinterest/27_interior-st_full-homepage_pin643.jpg`, `pinterest/29_interior-st_mobile_pin795.jpg`, `pinterest/30_interior-st_mobile_pin791.jpg`, `pinterest/31_interior-st_section_pin229.jpg`, `pinterest/32_interior-st_section_pin113.jpg`, `pinterest/34_interior-st_section_pin205.jpg`, `pinterest/35_interior-st_section_pin904.jpg`, `pinterest/39_alt_full-homepage_pin352.jpg`, `pinterest/40_alt_full-homepage_pin9.jpg`, `pinterest/41_alt_full-homepage_pin308.jpg`, `pinterest/42_alt_full-homepage_pin273.jpg`, `pinterest/43_alt_full-homepage_pin323.jpg`, `pinterest/44_alt_full-homepage_pin182.jpg`, `pinterest/45_alt_full-homepage_pin524.jpg`, `pinterest/46_alt_full-homepage_pin547.jpg`, `pinterest/47_alt_full-homepage_pin548.jpg`, `pinterest/49_alt_responsive-mockup_pin828.jpg`, `pinterest/51_alt_section_pin204.jpg`, `pinterest/53_alt_section_pin866.jpg`, `pinterest/54_alt_section_pin520.jpg`, `pinterest/55_alt_section_pin914.jpg`, `pinterest/56_alt_section_pin911.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/06_dribbble_rh-crafted-homes.jpg`, `concepts/07_dribbble_lago-interior-studio.jpg`, `concepts/08_dribbble_norm-interior.jpg`, `concepts/09_dribbble_serenity-interiors.jpg`, `concepts/10_dribbble_kitchen-bath-plus.jpg`, `concepts/11_dribbble_sol-haus-interiors.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/13_pinterest_oura-co-interiors.jpg`, `concepts/14_onepagelove_pearl-tiling.jpg`, `concepts/15_awwwards_loam-house-hero.jpg`, `concepts/16_dribbble_forma-architecture-hero.jpg`, `concepts/17_dribbble_palo-alto-kitchen-before-after.jpg`, `concepts/23_dribbble_goldstone-hero-estimate-form.jpg`, `concepts/29_framer_harlow-birch-mobile-screens.jpg`, `concepts/30_onepagelove_rebuld-mobile-hero.jpg`, `concepts/31_dribbble_sol-haus-mobile.jpg`, `concepts/32_dribbble_td-interior-mobile.jpg`, `concepts/33_dribbble_plain-work-mobile.jpg`
+
+### Trust strip, ratings and awards
+`sections/trust_bar/sundesigninc_com__desktop.jpg`, `sections/trust_bar/bowa_com__desktop.jpg`, `sections/trust_bar/rebath_com__desktop.jpg`, `sections/trust_bar/harlow-template_framer_website__desktop.jpg`, `sections/trust_bar/harlow-template_framer_website__mobile.jpg`, `pinterest/05_harlow_full-homepage_pin210.jpg`, `pinterest/09_harlow_full-homepage_pin521.jpg`, `pinterest/15_harlow_section_pin589.jpg`, `pinterest/18_interior-st_full-homepage_pin143.jpg`, `pinterest/40_alt_full-homepage_pin9.jpg`, `pinterest/46_alt_full-homepage_pin547.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`
+
+### Intro and stats
+`sections/stats/tpl_interiia__desktop.jpg`, `sections/stats/tpl_interior_st__desktop.jpg`, `sections/stats/blockrenovation_com__desktop.jpg`, `pinterest/01_harlow_full-homepage_pin96.jpg`, `pinterest/03_harlow_full-homepage_pin292.jpg`, `pinterest/05_harlow_full-homepage_pin210.jpg`, `pinterest/06_harlow_full-homepage_pin305.jpg`, `pinterest/07_harlow_full-homepage_pin362.jpg`, `pinterest/10_harlow_responsive-mockup_pin843.jpg`, `pinterest/13_harlow_section_pin526.jpg`, `pinterest/14_harlow_section_pin540.jpg`, `pinterest/17_interior-st_full-homepage_pin165.jpg`, `pinterest/18_interior-st_full-homepage_pin143.jpg`, `pinterest/19_interior-st_full-homepage_pin117.jpg`, `pinterest/20_interior-st_full-homepage_pin133.jpg`, `pinterest/21_interior-st_full-homepage_pin155.jpg`, `pinterest/23_interior-st_full-homepage_pin99.jpg`, `pinterest/24_interior-st_full-homepage_pin217.jpg`, `pinterest/25_interior-st_full-homepage_pin527.jpg`, `pinterest/26_interior-st_full-homepage_pin492.jpg`, `pinterest/30_interior-st_mobile_pin791.jpg`, `pinterest/31_interior-st_section_pin229.jpg`, `pinterest/40_alt_full-homepage_pin9.jpg`, `pinterest/41_alt_full-homepage_pin308.jpg`, `pinterest/42_alt_full-homepage_pin273.jpg`, `pinterest/44_alt_full-homepage_pin182.jpg`, `pinterest/51_alt_section_pin204.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/09_dribbble_serenity-interiors.jpg`, `concepts/10_dribbble_kitchen-bath-plus.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/13_pinterest_oura-co-interiors.jpg`, `concepts/16_dribbble_forma-architecture-hero.jpg`, `concepts/17_dribbble_palo-alto-kitchen-before-after.jpg`, `concepts/29_framer_harlow-birch-mobile-screens.jpg`
+
+### Services and pricing
+`sections/services/harlow-template_framer_website__desktop.jpg`, `sections/services/rebuld_framer_website__desktop.jpg`, `pinterest/01_harlow_full-homepage_pin96.jpg`, `pinterest/02_harlow_full-homepage_pin55.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/06_harlow_full-homepage_pin305.jpg`, `pinterest/07_harlow_full-homepage_pin362.jpg`, `pinterest/08_harlow_full-homepage_pin103.jpg`, `pinterest/17_interior-st_full-homepage_pin165.jpg`, `pinterest/21_interior-st_full-homepage_pin155.jpg`, `pinterest/22_interior-st_full-homepage_pin141.jpg`, `pinterest/23_interior-st_full-homepage_pin99.jpg`, `pinterest/25_interior-st_full-homepage_pin527.jpg`, `pinterest/29_interior-st_mobile_pin795.jpg`, `pinterest/31_interior-st_section_pin229.jpg`, `pinterest/39_alt_full-homepage_pin352.jpg`, `pinterest/40_alt_full-homepage_pin9.jpg`, `pinterest/42_alt_full-homepage_pin273.jpg`, `pinterest/43_alt_full-homepage_pin323.jpg`, `pinterest/44_alt_full-homepage_pin182.jpg`, `pinterest/46_alt_full-homepage_pin547.jpg`, `pinterest/53_alt_section_pin866.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/06_dribbble_rh-crafted-homes.jpg`, `concepts/07_dribbble_lago-interior-studio.jpg`, `concepts/11_dribbble_sol-haus-interiors.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/13_pinterest_oura-co-interiors.jpg`, `concepts/14_onepagelove_pearl-tiling.jpg`, `concepts/17_dribbble_palo-alto-kitchen-before-after.jpg`, `concepts/22_dribbble_stair-price-calculator.jpg`, `concepts/29_framer_harlow-birch-mobile-screens.jpg`, `concepts/32_dribbble_td-interior-mobile.jpg`
+
+### Why choose us and guarantee
+`pinterest/41_alt_full-homepage_pin308.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/06_dribbble_rh-crafted-homes.jpg`, `concepts/10_dribbble_kitchen-bath-plus.jpg`, `concepts/23_dribbble_goldstone-hero-estimate-form.jpg`
+
+### About the owner and team
+`sections/about_owner/harlow-template_framer_website__desktop.jpg`, `pinterest/02_harlow_full-homepage_pin55.jpg`, `pinterest/03_harlow_full-homepage_pin292.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/07_harlow_full-homepage_pin362.jpg`, `pinterest/08_harlow_full-homepage_pin103.jpg`, `pinterest/09_harlow_full-homepage_pin521.jpg`, `pinterest/10_harlow_responsive-mockup_pin843.jpg`, `pinterest/18_interior-st_full-homepage_pin143.jpg`, `pinterest/19_interior-st_full-homepage_pin117.jpg`, `pinterest/20_interior-st_full-homepage_pin133.jpg`, `pinterest/25_interior-st_full-homepage_pin527.jpg`, `pinterest/39_alt_full-homepage_pin352.jpg`, `pinterest/42_alt_full-homepage_pin273.jpg`, `pinterest/43_alt_full-homepage_pin323.jpg`, `pinterest/44_alt_full-homepage_pin182.jpg`, `pinterest/46_alt_full-homepage_pin547.jpg`, `pinterest/47_alt_full-homepage_pin548.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/06_dribbble_rh-crafted-homes.jpg`, `concepts/07_dribbble_lago-interior-studio.jpg`, `concepts/09_dribbble_serenity-interiors.jpg`, `concepts/11_dribbble_sol-haus-interiors.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/13_pinterest_oura-co-interiors.jpg`, `concepts/14_onepagelove_pearl-tiling.jpg`, `concepts/29_framer_harlow-birch-mobile-screens.jpg`, `concepts/31_dribbble_sol-haus-mobile.jpg`
+
+### Process
+`sections/process/rebath_com__desktop.jpg`, `sections/process/harlow-template_framer_website__desktop.jpg`, `sections/process/harlow-template_framer_website__mobile.jpg`, `pinterest/02_harlow_full-homepage_pin55.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/09_harlow_full-homepage_pin521.jpg`, `pinterest/12_harlow_section_pin307.jpg`, `pinterest/27_interior-st_full-homepage_pin643.jpg`, `pinterest/31_interior-st_section_pin229.jpg`, `pinterest/39_alt_full-homepage_pin352.jpg`, `pinterest/44_alt_full-homepage_pin182.jpg`, `pinterest/58_alt_section_pin728.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/07_dribbble_lago-interior-studio.jpg`, `concepts/09_dribbble_serenity-interiors.jpg`, `concepts/10_dribbble_kitchen-bath-plus.jpg`, `concepts/26_dribbble_three-step-process.jpg`, `concepts/31_dribbble_sol-haus-mobile.jpg`
+
+### Gallery, projects and before/after
+`sections/before_after/kitchentuneup_com__desktop.jpg`, `sections/before_after/kitchentuneup_com__mobile.jpg`, `sections/before_after/harlow-template_framer_website__desktop.jpg`, `sections/before_after/harlow-template_framer_website__mobile.jpg`, `sections/before_after/hearth-template_webflow_io__mobile.jpg`, `pinterest/01_harlow_full-homepage_pin96.jpg`, `pinterest/02_harlow_full-homepage_pin55.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/05_harlow_full-homepage_pin210.jpg`, `pinterest/07_harlow_full-homepage_pin362.jpg`, `pinterest/09_harlow_full-homepage_pin521.jpg`, `pinterest/10_harlow_responsive-mockup_pin843.jpg`, `pinterest/17_interior-st_full-homepage_pin165.jpg`, `pinterest/21_interior-st_full-homepage_pin155.jpg`, `pinterest/22_interior-st_full-homepage_pin141.jpg`, `pinterest/23_interior-st_full-homepage_pin99.jpg`, `pinterest/24_interior-st_full-homepage_pin217.jpg`, `pinterest/25_interior-st_full-homepage_pin527.jpg`, `pinterest/27_interior-st_full-homepage_pin643.jpg`, `pinterest/28_interior-st_responsive-mockup_pin840.jpg`, `pinterest/33_interior-st_section_pin170.jpg`, `pinterest/35_interior-st_section_pin904.jpg`, `pinterest/42_alt_full-homepage_pin273.jpg`, `pinterest/43_alt_full-homepage_pin323.jpg`, `pinterest/44_alt_full-homepage_pin182.jpg`, `pinterest/47_alt_full-homepage_pin548.jpg`, `pinterest/52_alt_section_pin311.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/06_dribbble_rh-crafted-homes.jpg`, `concepts/07_dribbble_lago-interior-studio.jpg`, `concepts/08_dribbble_norm-interior.jpg`, `concepts/09_dribbble_serenity-interiors.jpg`, `concepts/10_dribbble_kitchen-bath-plus.jpg`, `concepts/11_dribbble_sol-haus-interiors.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/14_onepagelove_pearl-tiling.jpg`, `concepts/17_dribbble_palo-alto-kitchen-before-after.jpg`, `concepts/18_dribbble_fixpro-before-after-slider.jpg`, `concepts/19_webflow_hearth-before-after-pairs.jpg`, `concepts/29_framer_harlow-birch-mobile-screens.jpg`, `concepts/31_dribbble_sol-haus-mobile.jpg`, `concepts/32_dribbble_td-interior-mobile.jpg`
+
+### Testimonials
+`sections/testimonials/sundesigninc_com__desktop.jpg`, `sections/testimonials/tpl_interior_st__desktop.jpg`, `sections/testimonials/tpl_interior_st__mobile.jpg`, `pinterest/01_harlow_full-homepage_pin96.jpg`, `pinterest/02_harlow_full-homepage_pin55.jpg`, `pinterest/05_harlow_full-homepage_pin210.jpg`, `pinterest/15_harlow_section_pin589.jpg`, `pinterest/33_interior-st_section_pin170.jpg`, `pinterest/36_interior-st_section_pin608.jpg`, `pinterest/39_alt_full-homepage_pin352.jpg`, `pinterest/43_alt_full-homepage_pin323.jpg`, `pinterest/57_alt_section_pin597.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/07_dribbble_lago-interior-studio.jpg`, `concepts/09_dribbble_serenity-interiors.jpg`, `concepts/10_dribbble_kitchen-bath-plus.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/17_dribbble_palo-alto-kitchen-before-after.jpg`, `concepts/27_dribbble_testimonial-with-project-photo.jpg`
+
+### Service area
+`sections/service_area/rebath_com__desktop.jpg`, `sections/service_area/rebath_com__mobile.jpg`, `sections/service_area/blockrenovation_com__desktop.jpg`, `sections/service_area/r-o_com__desktop.jpg`, `sections/service_area/harlow-template_framer_website__desktop.jpg`, `sections/service_area/harlow-template_framer_website__mobile.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/39_alt_full-homepage_pin352.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`
+
+### FAQ
+`sections/faq/tpl_interiia__desktop.jpg`, `sections/faq/tpl_interiia__mobile.jpg`, `sections/faq/tpl_interior_st__desktop.jpg`, `sections/faq/tpl_interior_st__mobile.jpg`, `pinterest/02_harlow_full-homepage_pin55.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/18_interior-st_full-homepage_pin143.jpg`, `pinterest/37_interior-st_section_pin688.jpg`, `pinterest/39_alt_full-homepage_pin352.jpg`, `pinterest/45_alt_full-homepage_pin524.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/24_dribbble_faq-book-a-call.jpg`, `concepts/25_dribbble_faq-serif-accordion.jpg`
+
+### Final call to action and forms
+`sections/cta_band/tpl_interiia__desktop.jpg`, `sections/cta_band/tpl_interiia__mobile.jpg`, `sections/cta_band/tpl_interior_st__desktop.jpg`, `sections/cta_band/pearltiling_com_au__mobile.jpg`, `sections/cta_band/harlow-template_framer_website__desktop.jpg`, `sections/mobile_sticky_cta/sundesigninc_com__mobile.jpg`, `sections/contact_form/kitchentuneup_com__desktop.jpg`, `sections/contact_form/kitchentuneup_com__mobile.jpg`, `sections/contact_form/rebath_com__desktop.jpg`, `sections/contact_form/rebath_com__mobile.jpg`, `sections/contact_form/pearltiling_com_au__desktop.jpg`, `pinterest/01_harlow_full-homepage_pin96.jpg`, `pinterest/02_harlow_full-homepage_pin55.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/05_harlow_full-homepage_pin210.jpg`, `pinterest/06_harlow_full-homepage_pin305.jpg`, `pinterest/09_harlow_full-homepage_pin521.jpg`, `pinterest/16_harlow_section_pin713.jpg`, `pinterest/18_interior-st_full-homepage_pin143.jpg`, `pinterest/30_interior-st_mobile_pin791.jpg`, `pinterest/33_interior-st_section_pin170.jpg`, `pinterest/39_alt_full-homepage_pin352.jpg`, `pinterest/40_alt_full-homepage_pin9.jpg`, `pinterest/41_alt_full-homepage_pin308.jpg`, `pinterest/42_alt_full-homepage_pin273.jpg`, `pinterest/43_alt_full-homepage_pin323.jpg`, `pinterest/44_alt_full-homepage_pin182.jpg`, `pinterest/45_alt_full-homepage_pin524.jpg`, `pinterest/58_alt_section_pin728.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/07_dribbble_lago-interior-studio.jpg`, `concepts/08_dribbble_norm-interior.jpg`, `concepts/10_dribbble_kitchen-bath-plus.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/17_dribbble_palo-alto-kitchen-before-after.jpg`, `concepts/21_framer_harlow-estimate-form.jpg`, `concepts/22_dribbble_stair-price-calculator.jpg`, `concepts/23_dribbble_goldstone-hero-estimate-form.jpg`, `concepts/24_dribbble_faq-book-a-call.jpg`, `concepts/28_dribbble_minima-footer-contact.jpg`, `concepts/33_dribbble_plain-work-mobile.jpg`
+
+### Footer
+`sections/footer/tpl_interiia__desktop.jpg`, `sections/footer/tpl_interiia__mobile.jpg`, `sections/footer/tpl_interior_st__desktop.jpg`, `pinterest/01_harlow_full-homepage_pin96.jpg`, `pinterest/02_harlow_full-homepage_pin55.jpg`, `pinterest/04_harlow_full-homepage_pin349.jpg`, `pinterest/05_harlow_full-homepage_pin210.jpg`, `pinterest/18_interior-st_full-homepage_pin143.jpg`, `pinterest/36_interior-st_section_pin608.jpg`, `pinterest/37_interior-st_section_pin688.jpg`, `pinterest/38_interior-st_section_pin750.jpg`, `pinterest/43_alt_full-homepage_pin323.jpg`, `pinterest/44_alt_full-homepage_pin182.jpg`, `pinterest/45_alt_full-homepage_pin524.jpg`, `concepts/01_behance_north-stone-renovations.jpg`, `concepts/02_framer_harlow-birch-carpentry.jpg`, `concepts/04_behance_milano-kitchen-bath.jpg`, `concepts/05_onepagelove_rebuld-renovation.jpg`, `concepts/06_dribbble_rh-crafted-homes.jpg`, `concepts/07_dribbble_lago-interior-studio.jpg`, `concepts/08_dribbble_norm-interior.jpg`, `concepts/09_dribbble_serenity-interiors.jpg`, `concepts/10_dribbble_kitchen-bath-plus.jpg`, `concepts/11_dribbble_sol-haus-interiors.jpg`, `concepts/12_framer_velina-kitchen-remodeling.jpg`, `concepts/21_framer_harlow-estimate-form.jpg`, `concepts/28_dribbble_minima-footer-contact.jpg`, `concepts/32_dribbble_td-interior-mobile.jpg`
+
+### Mobile patterns
+`sections/mobile_menu_or_header/reformcph_com__mobile.jpg`, `sections/mobile_menu_or_header/bathfitter_com__mobile.jpg`, `sections/mobile_menu_or_header/rebath_com__mobile.jpg`, `sections/mobile_menu_or_header/harlow-template_framer_website__mobile.jpg`, `sections/mobile_sticky_cta/sundesigninc_com__mobile.jpg`, `pinterest/10_harlow_responsive-mockup_pin843.jpg`, `pinterest/28_interior-st_responsive-mockup_pin840.jpg`, `pinterest/29_interior-st_mobile_pin795.jpg`, `pinterest/30_interior-st_mobile_pin791.jpg`, `pinterest/49_alt_responsive-mockup_pin828.jpg`, `pinterest/50_alt_mobile_pin815.jpg`, `concepts/29_framer_harlow-birch-mobile-screens.jpg`, `concepts/30_onepagelove_rebuld-mobile-hero.jpg`, `concepts/31_dribbble_sol-haus-mobile.jpg`, `concepts/32_dribbble_td-interior-mobile.jpg`, `concepts/33_dribbble_plain-work-mobile.jpg`
+

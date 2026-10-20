@@ -45,6 +45,47 @@ def rel(path):
     return os.path.relpath(path, P)
 
 
+# template section -> words that identify it in the reviewers' section labels (crops, Pinterest and concepts)
+TEMPLATE_SECTIONS = [
+    ("Header and utility bar", r"header|nav|top_bar|menu|availability"),
+    ("Hero", r"hero"),
+    ("Trust strip, ratings and awards", r"trust|logo strip|press|award|certification|licens|rating"),
+    ("Intro and stats", r"intro|statement|philosophy|stats|values|capabilit"),
+    ("Services and pricing", r"service(?!.?area)|categor|pricing|price|model"),
+    ("Why choose us and guarantee", r"why|guarantee|expectation|promise"),
+    ("About the owner and team", r"about|team|crew|founder"),
+    ("Process", r"process|step|approach"),
+    ("Gallery, projects and before/after", r"project|gallery|portfolio|before|case stud|photo pair|details|works|featured"),
+    ("Testimonials", r"testimonial|review|feedback"),
+    ("Service area", r"service.?area|map|town"),
+    ("FAQ", r"faq"),
+    ("Final call to action and forms", r"cta|form|contact|calculator|booking|lead|inquiry"),
+    ("Footer", r"footer"),
+    ("Mobile patterns", r"mobile|bottom nav|sticky"),
+]
+
+
+def by_section_index(sections, pins, concepts):
+    """Every reference in the pack listed under each template section, across all sources."""
+    import re
+    out = ["\n## Every reference by template section\n",
+           "Use these lists to gather at least three sources per section before designing it.\n"]
+    for title, pat in TEMPLATE_SECTIONS:
+        rx = re.compile(pat, re.I); items = []
+        for sec, crops in sections.items():
+            if rx.search(sec):
+                items += [f"`{rel(c['file'])}`" for c in crops]
+        for x in pins:
+            if any(rx.search(s) for s in x.get("sections_shown", [])) or (title == "Mobile patterns" and x.get("type") in ("mobile", "responsive_mockup")):
+                items.append(f"`{rel(x['file'])}`")
+        for c in concepts:
+            f = c["file"] if c["file"].startswith("/") else f"{P}/concepts/{os.path.basename(c['file'])}"
+            if any(rx.search(s) for s in c.get("sections_shown", [])) or (title == "Mobile patterns" and c.get("type") == "mobile"):
+                items.append(f"`{rel(f)}`")
+        out.append(f"### {title}\n" + (", ".join(dict.fromkeys(items)) if items else "(see the two chosen sites)") + "\n")
+    return out
+
+
 def main():
     reviews = []
     for f in sorted(glob.glob(f"{R}/data/design_review_*.json")):
@@ -82,12 +123,13 @@ def main():
     concepts = [c for c in conc.get("concepts", []) if os.path.exists(c["file"] if c["file"].startswith("/") else f"{P}/concepts/{os.path.basename(c['file'])}")]
 
     direction = open(f"{R}/output/design_refs/DIRECTION.md").read() if os.path.exists(f"{R}/output/design_refs/DIRECTION.md") else ""
-    md = [direction, "\n## Full-site references, best first\n",
+    how = open(f"{R}/output/design_refs/HOW_TO_USE.md").read() if os.path.exists(f"{R}/output/design_refs/HOW_TO_USE.md") else ""
+    md = [direction, how, "\n## Full-site references (the client's picks)\n",
           "Each folder in `sites/` has the same page at three widths: `desktop_full.jpg` (1440 px), `tablet_full.jpg` "
           "(820 px) and `mobile_full.jpg` (390 px at 2x), plus on-screen shots: `*_screen1.jpg` is the first screen a "
           "visitor sees and `*_screen2_scrolled.jpg` is after scrolling (shows sticky headers and call bars).\n"]
     for n, r in enumerate(kept, 1):
-        md.append(f"### {n}. {r['id'].replace('_', '.')} ({r['score']}/10): {r.get('style', '')}")
+        md.append(f"### {n}. {r['url'].split('//')[-1].strip('/')} ({r['score']}/10): {r.get('style', '')}")
         md.append(f"- Live site: {r['url']}\n- Folder: `{rel(site_dirs[r['id']])}/`")
         md.append(f"- Palette: {r.get('palette', '')}. Type: {r.get('typography', '')}")
         md.append("- Borrow: " + "; ".join(r.get("what_to_borrow", [])))
@@ -124,6 +166,7 @@ def main():
             md.append(f"- `{rel(f)}` ({c.get('source')}, {c.get('type')}{', has mobile view' if c.get('has_mobile_view') else ''}): "
                       f"{c.get('style', '')}. Borrow: {'; '.join(c.get('what_to_borrow', []))}. Source: {c.get('source_url')}"
                       + (f" by {c['designer']}" if c.get("designer") else ""))
+    md += by_section_index(sections, locals().get("pins", []), concepts)
     open(f"{P}/DESIGN_REFERENCES.md", "w").write("\n".join(md) + "\n")
 
     # visual gallery
@@ -137,7 +180,7 @@ def main():
          "Guide: DESIGN_REFERENCES.md</p><h2>Full sites (desktop, tablet, mobile)</h2>"]
     for n, r in enumerate(kept, 1):
         d = site_dirs[r["id"]]
-        h.append(f"<h3>{n}. {html.escape(r['id'].replace('_', '.'))} ({r['score']}/10) <span class=cap>{html.escape(r.get('style', ''))}</span></h3>")
+        h.append(f"<h3>{n}. {html.escape(r['url'].split('//')[-1].strip('/'))} ({r['score']}/10) <span class=cap>{html.escape(r.get('style', ''))}</span></h3>")
         h.append(f"<p class=note>{html.escape('; '.join(r.get('what_to_borrow', [])[:4]))}</p><div class=row>")
         for s, cls in (("desktop_full", "d"), ("tablet_full", "t"), ("mobile_full", "m"), ("mobile_screen2_scrolled", "m")):
             if os.path.exists(f"{d}/{s}.jpg"):
