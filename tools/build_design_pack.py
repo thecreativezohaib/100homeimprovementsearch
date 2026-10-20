@@ -56,6 +56,10 @@ def main():
         if r.get("capture_dir"):
             PREFER[r["id"]] = r["capture_dir"]
     kept = sorted([r for r in best.values() if r.get("verdict") == "keep"], key=lambda r: -float(r.get("score") or 0))
+    choice_file = f"{R}/data/design_user_choice.json"
+    if os.path.exists(choice_file):  # the user's own pick of full-site references overrides the reviewers' keep list
+        keep = json.load(open(choice_file))["keep_sites"]
+        kept = [best[i] for i in keep if i in best]
     conc = json.load(open(f"{R}/data/design_concepts.json")) if os.path.exists(f"{R}/data/design_concepts.json") else {"concepts": []}
 
     if os.path.isdir(f"{P}/sites"):
