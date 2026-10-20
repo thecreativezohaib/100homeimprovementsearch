@@ -3,7 +3,7 @@
  "business_name": "Kitchen Places",
  "seo": {
   "title_tag": "Kitchen Remodeling in Ventura, CA | Kitchen Places",
-  "meta_description": "Kitchen remodeling in Ventura since 1993. Design-build showroom on Callens Road, owner Jeff King on every job, Cambria financing up to $75,000. Call (805) 658-0440.",
+  "meta_description": "Kitchen remodeling in Ventura since 1993. Design-build showroom on Callens Road, owner Jeff King on the job, Cambria financing to $75,000. Call (805) 658-0440.",
   "primary_keyword": "kitchen remodeling Ventura",
   "secondary_keywords": [
    "bathroom remodeling Ventura CA",
@@ -21,8 +21,14 @@
   "eyebrow": "Ventura showroom since 1993",
   "h1": "Kitchen Remodeling in Ventura, Drawn, Built and Finished by One Team",
   "subheadline": "Jeff King has owned Kitchen Places since 1993. His designers draw your kitchen in CAD, and project managers supervise every install from the Callens Road showroom.",
-  "primary_cta": {"label": "Call (805) 658-0440", "href": "tel:+18056580440"},
-  "secondary_cta": {"label": "Schedule a showroom visit", "href": "#contact"},
+  "primary_cta": {
+   "label": "Call (805) 658-0440",
+   "href": "tel:+18056580440"
+  },
+  "secondary_cta": {
+   "label": "Schedule a showroom visit",
+   "href": "#contact"
+  },
   "trust_badges": [
    "Owner-led since 1993",
    "CA General Contractor #764241",
@@ -35,7 +41,7 @@
   }
  },
  "intro": {
-  "h2": "A Ventura kitchen remodeler that shows you the picture first",
+  "h2": "Kitchen remodeling in Ventura that shows you the picture first",
   "paragraphs": [
    "Kitchen Places has handled kitchen remodeling in Ventura since 1993 from its showroom at 1500 Callens Road. It is a full-service design-build firm, so the same team designs your kitchen and supplies and installs the cabinetry, countertops, plumbing, appliances, tile, flooring, lighting, glass and hardware.",
    "Clients keep mentioning one thing: they saw the kitchen before it was built. One Ventura homeowner wrote that Jeff could create pictures of the proposed remodel, and her kitchen looked like the picture, only better. Then a detailed workflow chart shows when each stage starts and ends, so you know what to expect each day."
@@ -62,7 +68,7 @@
    },
    {
     "name": "Whole-House and Guest House Remodels",
-    "blurb": "Kitchen Places brings designers, architects, engineers, craftsmen and technicians to larger projects. Its portfolio includes a coastal guest house, living rooms, laundry rooms and multi-room remodels that tie the kitchen and baths together.",
+    "blurb": "Kitchen Places brings designers, architects, engineers, craftsmen and technicians to larger projects. Its portfolio includes a coastal guest house, living rooms, laundry rooms and multi-room remodels that tie the kitchen and baths together into one consistent look.",
     "image": {
      "url": "http://kitchenplacesventura.com/wp-content/uploads/2020/12/Coastal-Guest-House-Kitchen.jpg",
      "alt": "Coastal Guest House kitchen with a white waterfall-edge island, rattan bar stools, white cabinets and ocean artwork"
@@ -89,69 +95,169 @@
  "why_choose_us": {
   "h2": "Why Ventura County homeowners pick Kitchen Places",
   "items": [
-   {"title": "The owner on the job", "text": "Clients describe Jeff King managing day-to-day project activities, answering questions and making sure jobs are done right. He has owned the company since 1993."},
-   {"title": "A schedule you can read", "text": "A detailed workflow chart shows when work starts and finishes. One Ventura client said the staff kept to the schedule and left the site immaculate."},
-   {"title": "Designers with real range", "text": "Crickett Kinser holds a BFA in Interior Architectural Design and did historic preservation design at Paramount Studios. Megan Paulson founded 22 Design House in 2016."},
-   {"title": "Financing through Cambria", "text": "Finance by Cambria bundles your remodel with up to $75,000, with no application fees, no prepayment penalties and no closing costs."}
+   {
+    "title": "The owner on the job",
+    "text": "Clients describe Jeff King managing day-to-day project activities, answering questions and making sure jobs are done right. He has owned the company since 1993."
+   },
+   {
+    "title": "A schedule you can read",
+    "text": "A detailed workflow chart shows when work starts and finishes. One Ventura client said the staff kept to the schedule and left the site immaculate."
+   },
+   {
+    "title": "Designers with real range",
+    "text": "Crickett Kinser holds a BFA in Interior Architectural Design and did historic preservation design at Paramount Studios. Megan Paulson founded 22 Design House in 2016."
+   },
+   {
+    "title": "Financing through Cambria",
+    "text": "Finance by Cambria bundles your remodel with up to $75,000, with no application fees, no prepayment penalties and no closing costs."
+   }
   ]
  },
  "about": {
   "h2": "Jeff King: Coast Guard veteran, UCSB graduate, Ventura craftsman",
-  "text": "Jeff King has owned Kitchen Places since 1993. He served four years in the U.S. Coast Guard, then earned a B.A. in Environmental Studies at UC Santa Barbara. Ventura's coastline and the Channel Islands brought him here after college. Jeff calls himself a craftsman first, and he loves working out the smallest details so the fit and finish are never compromised. One Google reviewer called him a master craftsman with a phenomenal staff. He leads a team of designers, a design assistant and project managers who supervise every installation.",
+  "text": "Jeff King has owned Kitchen Places since 1993. He served four years in the U.S. Coast Guard, then earned a B.A. in Environmental Studies at UC Santa Barbara. Ventura's coastline and the Channel Islands brought him here after college. Jeff is a creative craftsman who loves working out the smallest details so the fit and finish are never compromised. One Google reviewer called him a master craftsman with a phenomenal staff. He leads a team of designers, a design assistant and project managers who supervise every installation.",
   "owner_name": "Jeff King",
   "owner_role": "President and Owner",
-  "image": {"url": "http://kitchenplacesventura.com/wp-content/uploads/2019/06/KPShowroom-highres-25-1080x607.jpg", "alt": "Kitchen Places showroom building with a stone tile facade at 1500 Callens Road in Ventura, CA"}
+  "image": {
+   "url": "http://kitchenplacesventura.com/wp-content/uploads/2019/06/KPShowroom-highres-25-1080x607.jpg",
+   "alt": "Kitchen Places showroom building with a stone tile facade at 1500 Callens Road in Ventura, CA"
+  }
  },
  "process": {
   "h2": "Six steps, from the showroom to the celebration",
   "steps": [
-   {"title": "Visit the showroom", "text": "Your first meeting is a chance to see the team's work in person and try the cabinet, counter and fixture brands they carry."},
-   {"title": "Getting to know you", "text": "The team visits your home to see the space firsthand and hear how you cook, store and gather before any planning starts."},
-   {"title": "Broad strokes", "text": "Designers put preliminary concepts on paper and in the CAD system, so you can see the layout before committing to it."},
-   {"title": "The finishing details", "text": "Hardware, finishes, lighting and every special detail get filled in, and the final plans are set before installation."},
-   {"title": "Build and celebrate", "text": "Project managers run the install with a flow-chart based system, then you get to enjoy the finished kitchen or bath."}
+   {
+    "title": "Visit the showroom",
+    "text": "Your first meeting is a chance to see the team's work in person and try the cabinet, counter and fixture brands they carry."
+   },
+   {
+    "title": "Getting to know you",
+    "text": "The team visits your home to see the space firsthand and hear how you cook, store and gather before any planning starts."
+   },
+   {
+    "title": "Broad strokes",
+    "text": "Designers put preliminary concepts on paper and in the CAD system, so you can see the layout before committing to it."
+   },
+   {
+    "title": "The finishing details",
+    "text": "Hardware, finishes, lighting and every special detail get filled in, and the final plans are set before installation."
+   },
+   {
+    "title": "Build and celebrate",
+    "text": "Project managers run the install with a flow-chart based system, then you get to enjoy the finished kitchen or bath."
+   }
   ]
  },
  "gallery": {
   "h2": "Kitchens and baths from around Ventura",
   "images": [
-   {"url": "http://kitchenplacesventura.com/wp-content/uploads/2020/11/Tri-Tone-Townhouse-Ventura-2-510x382.jpg", "alt": "Ventura tri-tone townhouse kitchen with navy upper cabinets, a wood-wrapped waterfall island, black diamond tile backsplash and four bar stools", "caption": "Tri-Tone Townhouse, Ventura"},
-   {"url": "http://kitchenplacesventura.com/wp-content/uploads/2023/11/Scalloped-waves-full-kitchen-wm.jpg", "alt": "Scalloped Waves kitchen with blue-gray lower cabinets, white uppers, rattan pendant lights and a marble-look island with stools", "caption": "Scalloped Waves Kitchen"},
-   {"url": "http://kitchenplacesventura.com/wp-content/uploads/2023/04/IMG_3982.jpg", "alt": "Pistachio Delight kitchen with a gray-green island, marble-look top, red swivel stools, cream cabinets and a professional range", "caption": "Pistachio Delight"},
-   {"url": "http://kitchenplacesventura.com/wp-content/uploads/2020/06/356SCatalina_highres-1.jpg", "alt": "Mid-town Twist kitchen with deep teal cabinets, a black and white patterned tile backsplash and an arched doorway to a breakfast nook", "caption": "Mid-town Twist"},
-   {"url": "http://kitchenplacesventura.com/wp-content/uploads/2019/10/DIAMOND-HEIGHTS-4.jpg", "alt": "Diamond Heights kitchen with a navy blue island, granite top, white cabinets with lit glass uppers and a blue tile range wall", "caption": "Diamond Heights"},
-   {"url": "http://kitchenplacesventura.com/wp-content/uploads/2024/11/Copy-of-Z5A_0129.NEF_-510x382.jpg", "alt": "Ventura Vistas kitchen with wood-grain flat-panel cabinets, a white island with orange stools and sliding glass doors to a view deck", "caption": "Ventura Vistas"},
-   {"url": "http://kitchenplacesventura.com/wp-content/uploads/2024/01/Zen-Wall-Sink-shower-510x382.jpg", "alt": "Zen Wall bathroom with a dark tile walk-in shower, black fixtures, a floating wood vanity and brass sconces", "caption": "Zen Wall Bathroom"},
-   {"url": "http://kitchenplacesventura.com/wp-content/uploads/2021/03/Surfers-Point-Bathroom-8-510x382.jpg", "alt": "Surfer's Point bathroom with white vessel sinks on a quartz vanity, a backlit mirror, gray hexagon tile and a glass shower", "caption": "Surfer's Point Bathrooms"}
+   {
+    "url": "http://kitchenplacesventura.com/wp-content/uploads/2020/11/Tri-Tone-Townhouse-Ventura-2-510x382.jpg",
+    "alt": "Ventura tri-tone townhouse kitchen with navy upper cabinets, a wood-wrapped waterfall island, black diamond tile backsplash and four bar stools",
+    "caption": "Tri-Tone Townhouse, Ventura"
+   },
+   {
+    "url": "http://kitchenplacesventura.com/wp-content/uploads/2023/11/Scalloped-waves-full-kitchen-wm.jpg",
+    "alt": "Scalloped Waves kitchen with blue-gray lower cabinets, white uppers, rattan pendant lights and a marble-look island with stools",
+    "caption": "Scalloped Waves Kitchen"
+   },
+   {
+    "url": "http://kitchenplacesventura.com/wp-content/uploads/2023/04/IMG_3982.jpg",
+    "alt": "Pistachio Delight kitchen with a gray-green island, marble-look top, red swivel stools, cream cabinets and a professional range",
+    "caption": "Pistachio Delight"
+   },
+   {
+    "url": "http://kitchenplacesventura.com/wp-content/uploads/2020/06/356SCatalina_highres-1.jpg",
+    "alt": "Mid-town Twist kitchen with deep teal cabinets, a black and white patterned tile backsplash and an arched doorway to a breakfast nook",
+    "caption": "Mid-town Twist"
+   },
+   {
+    "url": "http://kitchenplacesventura.com/wp-content/uploads/2019/10/DIAMOND-HEIGHTS-4.jpg",
+    "alt": "Diamond Heights kitchen with a navy blue island, granite top, white cabinets with lit glass uppers and a blue tile range wall",
+    "caption": "Diamond Heights"
+   },
+   {
+    "url": "http://kitchenplacesventura.com/wp-content/uploads/2024/11/Copy-of-Z5A_0129.NEF_-510x382.jpg",
+    "alt": "Ventura Vistas kitchen with wood-grain flat-panel cabinets, a white island with orange stools and sliding glass doors to a view deck",
+    "caption": "Ventura Vistas"
+   },
+   {
+    "url": "http://kitchenplacesventura.com/wp-content/uploads/2024/01/Zen-Wall-Sink-shower-510x382.jpg",
+    "alt": "Zen Wall bathroom with a dark tile walk-in shower, black fixtures, a floating wood vanity and brass sconces",
+    "caption": "Zen Wall Bathroom"
+   },
+   {
+    "url": "http://kitchenplacesventura.com/wp-content/uploads/2021/03/Surfers-Point-Bathroom-8-510x382.jpg",
+    "alt": "Surfer's Point bathroom with white vessel sinks on a quartz vanity, a backlit mirror, gray hexagon tile and a glass shower",
+    "caption": "Surfer's Point Bathrooms"
+   }
   ]
  },
  "testimonials": {
   "h2": "Clients from Ventura and beyond",
   "items": [
-   {"name": "Linda W.", "text": "10 stars out of 5! I strongly recommend Kitchen Places.  Kitchen Places’ team is nice, considerate, patient, punctual, responsible, and responsive, also creative problem-solvers.", "source": "Google", "date": "6 years ago as of 2026-10-14 (as shown on Google)"},
-   {"name": "Tyler V.", "text": "I’m extremely happy with my recent kitchen remodel by Kitchen Places. Jeff King and his team delivered top-quality workmanship with impressive attention to detail.", "source": "Google", "date": "2 years ago as of 2026-10-14 (as shown on Google)"},
-   {"name": "Lori S.", "text": "After quite a bit of investigating, we settled on Kitchen Places to remodel our 35-year-old kitchen. They were wonderful. We moved plumbing, created a walk-in pantry, and moved appliances to create a much more efficient and beautiful kitchen.", "source": "Website testimonial", "date": null}
+   {
+    "name": "Linda W.",
+    "text": "10 stars out of 5! I strongly recommend Kitchen Places.  Kitchen Places’ team is nice, considerate, patient, punctual, responsible, and responsive, also creative problem-solvers.",
+    "source": "Google",
+    "date": "6 years ago as of 2026-10-14 (as shown on Google)"
+   },
+   {
+    "name": "Tyler V.",
+    "text": "I’m extremely happy with my recent kitchen remodel by Kitchen Places. Jeff King and his team delivered top-quality workmanship with impressive attention to detail.",
+    "source": "Google",
+    "date": "2 years ago as of 2026-10-14 (as shown on Google)"
+   },
+   {
+    "name": "Lori S.",
+    "text": "After quite a bit of investigating, we settled on Kitchen Places to remodel our 35-year-old kitchen. They were wonderful. We moved plumbing, created a walk-in pantry, and moved appliances to create a much more efficient and beautiful kitchen.",
+    "source": "Website testimonial",
+    "date": null
+   }
   ]
  },
  "service_area": {
   "h2": "Remodeling homes across Ventura County",
   "text": "The Callens Road showroom sits in Ventura, and most Kitchen Places projects are in Ventura County. Past clients write in from Ventura, Camarillo, Thousand Oaks and Oak View, and project names point to East Ventura, Midtown and Surfer's Point. Since 1993 the team has designed and installed kitchens and baths across southern and central California, so call if you live farther out.",
-  "towns": ["Ventura", "Camarillo", "Thousand Oaks", "Oak View"]
+  "towns": [
+   "Ventura",
+   "Camarillo",
+   "Thousand Oaks",
+   "Oak View"
+  ]
  },
  "faq": {
   "h2": "Questions Ventura homeowners ask before they remodel",
   "items": [
-   {"q": "Will I see my kitchen before it is built?", "a": "Yes. After the team visits your home, designers sketch preliminary concepts and develop them in a CAD system. Clients say this is what they value most: one wrote that her kitchen looked like the picture, only better, and another said there were very few surprises during construction."},
-   {"q": "Do you offer financing?", "a": "Yes, through Finance by Cambria. You can bundle Cambria quartz surfaces with other remodel products and services for up to $75,000. The application is paperless and takes under 10 minutes, with no prepayment penalties, no application fees and no closing costs. Ask the team how to get approved."},
-   {"q": "How do I know the job will stay on schedule?", "a": "You get a detailed workflow chart that shows when each stage starts and finishes, and installation runs on a flow-chart based system. Clients have said the staff stuck to the schedule, cleaned the work area every day and finished on time."},
-   {"q": "Which brands can I choose from?", "a": "Kitchen Places is an authorized dealer for Nickels, Bellmont and Medallion cabinetry, Cambria, Caesarstone and Silestone quartz, Pella windows and doors, and WarmlyYours radiant heating. You can compare them side by side at the Ventura showroom before deciding."},
-   {"q": "When is the showroom open?", "a": "The showroom at 1500 Callens Road is open Monday through Friday, 10 a.m. to 5 p.m., and Saturdays by appointment. It closes for major holidays, including Thanksgiving weekend and Christmas. Call (805) 658-0440 to schedule your visit with a designer."}
+   {
+    "q": "Will I see my kitchen before it is built?",
+    "a": "Yes. After the team visits your home, designers sketch preliminary concepts and develop them in a CAD system. Clients say this is what they value most: one wrote that her kitchen looked like the picture, only better, and another said there were very few surprises during construction."
+   },
+   {
+    "q": "Do you offer financing?",
+    "a": "Yes, through Finance by Cambria. You can bundle Cambria quartz surfaces with other remodel products and services for up to $75,000. The application is paperless and takes under 10 minutes, with no prepayment penalties, no application fees and no closing costs. Ask the team how to get approved."
+   },
+   {
+    "q": "How do I know the job will stay on schedule?",
+    "a": "You get a detailed workflow chart that shows when each stage starts and finishes, and installation runs on a flow-chart based system. Clients have said the staff stuck to the schedule, cleaned the work area every day and finished on time."
+   },
+   {
+    "q": "Which brands can I choose from?",
+    "a": "Kitchen Places is an authorized dealer for Nickels, Bellmont and Medallion cabinetry, Cambria, Caesarstone and Silestone quartz, Pella windows and doors, and WarmlyYours radiant heating. You can compare door styles, slabs and finishes side by side at the Ventura showroom before deciding."
+   },
+   {
+    "q": "When is the showroom open?",
+    "a": "The showroom at 1500 Callens Road is open Monday through Friday, 10 a.m. to 5 p.m., and Saturdays by appointment. It closes for major holidays, including Thanksgiving weekend and Christmas. Call (805) 658-0440 to schedule your visit with a designer."
+   }
   ]
  },
  "final_cta": {
   "h2": "Start with a visit to 1500 Callens Road",
   "text": "Call to set a time, meet the designers and see the cabinet and counter lines in person.",
-  "button": {"label": "Call (805) 658-0440", "href": "tel:+18056580440"},
+  "button": {
+   "label": "Call (805) 658-0440",
+   "href": "tel:+18056580440"
+  },
   "phone": "(805) 658-0440"
  },
  "footer": {
@@ -159,7 +265,10 @@
   "address": "1500 Callens Rd, Ventura, CA 93003",
   "phone": "(805) 658-0440",
   "email": "info@kitchenplacesventura.com",
-  "socials": ["https://www.facebook.com/kitchenplacesinc", "https://www.instagram.com/kitchenplacesventura"],
+  "socials": [
+   "https://www.facebook.com/kitchenplacesinc",
+   "https://www.instagram.com/kitchenplacesventura"
+  ],
   "hours": "Mon to Fri 10am to 5pm, Saturday by appointment"
  },
  "schema_jsonld": {
@@ -170,12 +279,32 @@
   "telephone": "+1-805-658-0440",
   "email": "info@kitchenplacesventura.com",
   "foundingDate": "1993",
-  "employee": {"@type": "Person", "name": "Jeff King", "jobTitle": "President"},
-  "address": {"@type": "PostalAddress", "streetAddress": "1500 Callens Rd", "addressLocality": "Ventura", "addressRegion": "CA", "postalCode": "93003", "addressCountry": "US"},
+  "employee": {
+   "@type": "Person",
+   "name": "Jeff King",
+   "jobTitle": "President"
+  },
+  "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "1500 Callens Rd",
+   "addressLocality": "Ventura",
+   "addressRegion": "CA",
+   "postalCode": "93003",
+   "addressCountry": "US"
+  },
   "openingHours": "Mo-Fr 10:00-17:00",
-  "areaServed": ["Ventura, CA", "Camarillo, CA", "Thousand Oaks, CA", "Oak View, CA", "Ventura County, CA"],
+  "areaServed": [
+   "Ventura, CA",
+   "Camarillo, CA",
+   "Thousand Oaks, CA",
+   "Oak View, CA",
+   "Ventura County, CA"
+  ],
   "hasCredential": "California General Contractor's License #764241",
-  "sameAs": ["https://www.facebook.com/kitchenplacesinc", "https://www.instagram.com/kitchenplacesventura"],
+  "sameAs": [
+   "https://www.facebook.com/kitchenplacesinc",
+   "https://www.instagram.com/kitchenplacesventura"
+  ],
   "image": "http://kitchenplacesventura.com/wp-content/uploads/2026/08/Sea-La-Vie-Full-Kitchen.jpg"
  },
  "conversion_notes": {
@@ -199,15 +328,42 @@
   "outreach_hook": "Your Sea La Vie kitchen is stunning, but a phone visitor lands on an http page with no headline and no way to tap your number."
  },
  "facts_used": [
-  {"fact": "Name Kitchen Places, 1500 Callens Rd, Ventura, CA 93003, phone +1 805-658-0440, Kitchen remodeler, closes 5 PM", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJj70QCaxS6IAR6JnwlVGMQjQ&hl=en"},
-  {"fact": "4.5 stars from 16 Google reviews; reviews by Linda W and Tyler (Jeff King and his team); review summary 'Jeff K. is a master craftsman with a phenomenal staff'", "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJj70QCaxS6IAR6JnwlVGMQjQ&hl=en"},
-  {"fact": "Full-service design-build since 1993; designers and project managers who supervise installation; design and installation of cabinetry, countertops, plumbing, appliances, tile, flooring, lighting, glass and hardware; Finance by Cambria up to $75,000, paperless under 10 minutes, no prepayment penalties, no application fees, no closing costs; team of designers, architects, engineers, craftsmen, technicians; Ventura County", "source_url": "https://kitchenplacesventura.com/design-services/"},
-  {"fact": "Jeff King, President, owner since 1993, 4 years U.S. Coast Guard, B.A. Environmental Studies UC Santa Barbara, relocated for coast and Channel Islands; Crickett Kinser BFA Interior Architectural Design 2005, Paramount Studios 3 years historic preservation; Megan Paulson founded 22 Design House 2016; Dawn Buchanan design assistant since February 2021", "source_url": "https://kitchenplacesventura.com/design-services/"},
-  {"fact": "6-step process: showroom visit, getting to know you, broad strokes (CAD preliminary designs), finishing details, bringing plans to life (flow chart based installation), celebration; hours Mon-Fri 10-5, Saturday by appointment; General Contractor's License #764241", "source_url": "https://kitchenplacesventura.com/how-we-work/"},
-  {"fact": "Authorized dealer brands: Nickels, Pella, Bellmont, Medallion, Caesarstone, Silestone, Cambria, WarmlyYours; Athena (Ventura) testimonial about pictures of the proposed remodel", "source_url": "https://kitchenplacesventura.com/products/"},
-  {"fact": "Website testimonials: Lori S. (35-year-old kitchen, walk-in pantry), Barbara (detailed project timeline, immaculate site), Larry B. (workflow chart, returned for master bath), Gary P. (very few surprises), Terry L. Camarillo, Karen Thousand Oaks; southern and central California", "source_url": "https://kitchenplacesventura.com/testimonials/"},
-  {"fact": "Holiday closures incl. Thanksgiving weekend and Christmas; email info@kitchenplacesventura.com", "source_url": "https://kitchenplacesventura.com/contact/"},
-  {"fact": "Project names Sea La Vie (Nickels, Silestone Calacatta Gold, majolica tile), Simple + Serene (rift cut white oak, quartzite), English Charm (Bellmont, Marmoleum checkerboard), Tri-Tone Townhouse Ventura, Mobile Home Makeover, Coastal Guest House, Oak View Charmer, East Ventura Shaker", "source_url": "https://kitchenplacesventura.com/"}
+  {
+   "fact": "Name Kitchen Places, 1500 Callens Rd, Ventura, CA 93003, phone +1 805-658-0440, Kitchen remodeler, closes 5 PM",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJj70QCaxS6IAR6JnwlVGMQjQ&hl=en"
+  },
+  {
+   "fact": "4.5 stars from 16 Google reviews; reviews by Linda W and Tyler (Jeff King and his team); review summary 'Jeff K. is a master craftsman with a phenomenal staff'",
+   "source_url": "https://www.google.com/maps/place/?q=place_id:ChIJj70QCaxS6IAR6JnwlVGMQjQ&hl=en"
+  },
+  {
+   "fact": "Full-service design-build since 1993; designers and project managers who supervise installation; design and installation of cabinetry, countertops, plumbing, appliances, tile, flooring, lighting, glass and hardware; Finance by Cambria up to $75,000, paperless under 10 minutes, no prepayment penalties, no application fees, no closing costs; team of designers, architects, engineers, craftsmen, technicians; Ventura County",
+   "source_url": "https://kitchenplacesventura.com/design-services/"
+  },
+  {
+   "fact": "Jeff King, President, owner since 1993, 4 years U.S. Coast Guard, B.A. Environmental Studies UC Santa Barbara, relocated for coast and Channel Islands; Crickett Kinser BFA Interior Architectural Design 2005, Paramount Studios 3 years historic preservation; Megan Paulson founded 22 Design House 2016; Dawn Buchanan design assistant since February 2021",
+   "source_url": "https://kitchenplacesventura.com/design-services/"
+  },
+  {
+   "fact": "6-step process: showroom visit, getting to know you, broad strokes (CAD preliminary designs), finishing details, bringing plans to life (flow chart based installation), celebration; hours Mon-Fri 10-5, Saturday by appointment; General Contractor's License #764241",
+   "source_url": "https://kitchenplacesventura.com/how-we-work/"
+  },
+  {
+   "fact": "Authorized dealer brands: Nickels, Pella, Bellmont, Medallion, Caesarstone, Silestone, Cambria, WarmlyYours; Athena (Ventura) testimonial about pictures of the proposed remodel",
+   "source_url": "https://kitchenplacesventura.com/products/"
+  },
+  {
+   "fact": "Website testimonials: Lori S. (35-year-old kitchen, walk-in pantry), Barbara (detailed project timeline, immaculate site), Larry B. (workflow chart, returned for master bath), Gary P. (very few surprises), Terry L. Camarillo, Karen Thousand Oaks; southern and central California",
+   "source_url": "https://kitchenplacesventura.com/testimonials/"
+  },
+  {
+   "fact": "Holiday closures incl. Thanksgiving weekend and Christmas; email info@kitchenplacesventura.com",
+   "source_url": "https://kitchenplacesventura.com/contact/"
+  },
+  {
+   "fact": "Project names Sea La Vie (Nickels, Silestone Calacatta Gold, majolica tile), Simple + Serene (rift cut white oak, quartzite), English Charm (Bellmont, Marmoleum checkerboard), Tri-Tone Townhouse Ventura, Mobile Home Makeover, Coastal Guest House, Oak View Charmer, East Ventura Shaker",
+   "source_url": "https://kitchenplacesventura.com/"
+  }
  ],
  "missing": [
   "Town for most portfolio projects (project pages list materials only)",
