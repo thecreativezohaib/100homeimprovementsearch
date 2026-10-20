@@ -56,6 +56,8 @@ def stitch(d):
     for meta_file in sorted(glob.glob(f"{d}/*_tiles.json")):
         m = json.load(open(meta_file)); k = m["scale"]
         prefix = meta_file[:-len("_tiles.json")]
+        if not os.path.exists(m["tiles"][0]["file"]):  # already stitched
+            continue
         first = Image.open(m["tiles"][0]["file"]).convert("RGB")
         W = first.width
         H = int(max(t["y"] for t in m["tiles"]) * k) + first.height
