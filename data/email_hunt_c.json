@@ -1,0 +1,89 @@
+[
+  {
+    "id": "assemblyserviceil.com",
+    "business_name": "Assembly Squad Remodeling Chicago",
+    "emails": [
+      {
+        "email": "info@assemblyserviceil.com",
+        "source_url": "https://www.assemblyserviceil.com/contact.html",
+        "quote": "Phone: (312) 544-9150. Email: info@assemblyserviceil.com.",
+        "seen": "2026-10-22",
+        "type": "shared",
+        "owner_match": false,
+        "mx": "assemblyserviceil.com MX 10 inbound.registeredsite.com (valid, Network Solutions/Web.com mail)",
+        "rank": 1
+      },
+      {
+        "email": "assemblysquadcustomerservice@gmail.com",
+        "source_url": "https://www.assemblyserviceil.com/custom-cabinets-chicago.html",
+        "quote": "\"telephone\": \"+1-312-544-9150\", \"email\": \"assemblysquadcustomerservice@gmail.com\"",
+        "seen": "2026-10-22",
+        "type": "shared",
+        "owner_match": false,
+        "mx": "gmail.com MX 5 gmail-smtp-in.l.google.com (valid)",
+        "rank": 2
+      },
+      {
+        "email": "info@assemblysquadremodelingchciago.com",
+        "source_url": "https://www.einpresswire.com/article/821626536/assembly-squad-remodeling-chicago-becomes-ikea-referral-partner",
+        "quote": "Tel: 312-544-9150 Email: info@assemblysquadremodelingchciago.com Web: www.assemblyserviceil.com",
+        "seen": "2026-10-22",
+        "type": "shared",
+        "owner_match": false,
+        "mx": "NXDOMAIN: assemblysquadremodelingchciago.com does not exist (misspelled 'chciago'), undeliverable",
+        "rank": 3
+      }
+    ],
+    "searched": [
+      "assemblyserviceil.com sitemap (400 pages) HTML, JSON-LD, meta, cfemail",
+      "assemblyserviceil.com/privacy-policy.html (only Cloudflare-encoded info@assemblysquad.com, the bounced Null MX address)",
+      "BBB profile (no email)",
+      "NARI Chicago directory (Send Email form only)",
+      "Lincoln Park Chamber member page (contact form only)",
+      "Wicker Park Bucktown Chamber directory (no email)",
+      "NKBA profile (no company email)",
+      "EIN Presswire release 2024-11-22 (obfuscated 'email us here' only)",
+      "Facebook assemblysquad and assemblysquadchicago (login wall; Google snippet shows the gmail address)",
+      "Instagram assemblysquadchicago, Houzz (blocked or no email)",
+      "web searches for @assemblyserviceil.com, Viktor Aharon email"
+    ],
+    "note": "info@assemblyserviceil.com is on the main website domain, which has a working MX; it is published in the contact page meta (llm-summary and business:contact_data:email) and in JSON-LD on about 400 site pages, but is not shown as visible text. The gmail address appears in JSON-LD on 6 site pages (blog, custom cabinets, Old Town bath, Kenilworth cabinetry, studio apartment, North Shore kitchen) and in the Facebook page Contact info per Google snippet ('assemblysquadcustomerservice@gmail.com. Contact info.'). The June 2025 press release lists info@assemblysquadremodelingchciago.com, a typo domain that does not exist; the correctly spelled assemblysquadremodelingchicago.com has Google MX but no address on it is published, so nothing was constructed. RocketReach shows a masked v******@assemblyserviceil.com for Viktor Aharon (not usable, not published). No owner-direct email found."
+  },
+  {
+    "id": "mcdonaldremodeling.com",
+    "business_name": "McDonald Remodeling",
+    "emails": [
+      {
+        "email": "ajants@mcdonaldremodeling.com",
+        "source_url": "https://www.mcdonaldremodeling.com/remodel-reveal",
+        "quote": "To RSVP: email ajants@mcdonaldremodeling.com We can’t wait to see you there",
+        "seen": "2026-10-22",
+        "type": "person",
+        "owner_match": false,
+        "mx": "mcdonaldremodeling.com MX 10 d302142a.ess.barracudanetworks.com, 20 d302142b.ess.barracudanetworks.com (valid, Barracuda filtered)",
+        "rank": 1
+      },
+      {
+        "email": "galsterlund@mcdonaldremodeling.com",
+        "source_url": "https://web.archive.org/web/20230128161046/https://www.mcdonaldremodeling.com/contact-us/",
+        "quote": "Greg Alsterlund, President CAPS galsterlund@mcdonaldremodeling.com",
+        "seen": "2026-10-22",
+        "type": "person",
+        "owner_match": false,
+        "mx": "mcdonaldremodeling.com MX 10 d302142a.ess.barracudanetworks.com, 20 d302142b.ess.barracudanetworks.com (valid, Barracuda filtered)",
+        "rank": 2
+      }
+    ],
+    "searched": [
+      "mcdonaldremodeling.com sitemap (177 pages) HTML incl. /connect, /employment, /meet-the-team, /chris-wylie, designer bios, blog (only info@ and ajants@; user@domain.com is a form placeholder)",
+      "BBB profile (no email; extra phone (651) 248-7703, fax (651) 455-2292)",
+      "NARI-MN find-a-rep page (no email in HTML)",
+      "web.archive.org old WordPress site: contact-us, chris-w-bio, staff bio overlays (only info@ and galsterlund@)",
+      "Facebook mcdonaldremodeling (login wall, no email in snippets)",
+      "Instagram mcdonaldremodeling (no email)",
+      "Yelp, Nextdoor, LinkedIn snippets (no email)",
+      "web searches for @mcdonaldremodeling.com, Chris Wylie, Emily Thull, Alisa Dragt-Hoffman, Amy Jants email"
+    ],
+    "note": "No address for owner Chris Wylie or designers Emily Thull / Alisa Dragt-Hoffman is published anywhere found, and no other domain is used. ajants@ belongs to Amy Jants, Designer/Project Manager (LinkedIn), published on the Remodel Reveal event page (sitemap lastmod 2025-10-28, event Thursday Nov 20). galsterlund@ is Greg Alsterlund, former President, from an archived pre-2023 contact page (page last modified 2019; ownership changed to Chris Wylie 6/14/2021), so it may be stale. Both are on the same Barracuda-filtered domain that blocked the info@ send; 'recipient blocked' from Barracuda is often a sender-reputation or policy block, so these may also be rejected from the same sending domain. Fallbacks: website form at /connect, phone (651) 554-1234."
+  }
+]
