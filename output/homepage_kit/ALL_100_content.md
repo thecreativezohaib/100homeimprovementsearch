@@ -9767,3 +9767,100 @@ Socials: https://www.facebook.com/bufordrenovations, https://www.instagram.com/b
 **Missing (left out, not invented):** Georgia general contractor licence number not published on the site; Warranty terms: town pages mention 'our warranty on all completed work' but give no length or coverage, so no warranty is promised on this page; Financing options not mentioned on the site; Year founded: the site says both 'since 2019' and '20+ years', so no founding year is used; Number of completed projects (About page counters render as 0); Town or neighborhood for each portfolio photo; Role of Henry, named alongside Oscar in a Google review; Photo of Oscar Tamez or the crew for the About section; Full names of more Google reviewers with dates (only 3 of 37 reviews captured; one reviewer shows only a username)
 
 ---
+
+## Ironwood Custom Remodels (ironwoodremodels.com)
+
+- Title tag: Kitchen Remodeling in Durham, NC | Ironwood Custom Remodels
+- Meta description: Kitchen remodeling in Durham, NC led by Marine veteran Ethan Randle. 4.9 stars from 40 Google reviews. Call (760) 642-6051 to request a free estimate.
+- Primary keyword: kitchen remodeling Durham
+- Secondary keywords: bathroom remodeling Durham NC, kitchen remodeling Hope Valley Durham, kitchen remodel Chapel Hill NC, kitchen remodeling Cary NC, whole home remodel Durham NC, home additions Durham NC, veteran-owned remodeling contractor Durham, kitchen remodeler near me
+
+### Hero
+_Veteran-owned remodeler in Durham, NC_
+
+# Kitchen Remodeling in Durham, Led by a Marine Veteran
+
+Ironwood Custom Remodels plans and builds kitchens, baths and whole-house makeovers across the Triangle. Founder Ethan Randle is your direct contact, and Google reviewers say he answers fast and explains every option.
+
+Buttons: Call (760) 642-6051 | Request a free estimate  
+Trust badges: 4.9 stars from 40 Google reviews / Veteran-owned, US Marine founder / Licensed and insured in North Carolina / Owner-led by founder Ethan Randle
+Hero image: https://ironwoodremodels.com/wp-content/uploads/2026/04/PANA8315-1-1.jpg (alt: Kitchen remodeling in Durham: Blue Haven kitchen in Hope Valley with blue cabinetry, a white island with upholstered stools, brass pendants, a Wolf range and a Sub-Zero refrigerator)
+
+### Kitchen remodeling in Durham, run by the founder
+Ironwood Custom Remodels handles kitchen remodeling in Durham and nearby Triangle towns, from Hope Valley to Cary and Chapel Hill. Founder Ethan Randle moved into construction after his honorable discharge from the Marines in 2014, and homeowners work with him directly. Google reviewers point to his quick replies, detailed quotes and the time he spends explaining options.
+
+Kitchens fill most of the portfolio. In Hope Valley, the crew moved structural walls and fitted new Marvin windows to open up a blue kitchen with Wolf and Sub-Zero appliances. In Hurdle Mills, they resurfaced hardwood floors first milled from trees on the property. Ironwood builds from your designer's plans or works with its own design partners.
+
+### Kitchens, baths and the rest of the house
+- **Kitchen remodeling**: Projects range from new cabinets and countertops to a full layout change with walls moved. Recent kitchens added large islands, soft-close cabinetry, under-cabinet lighting and appliance packages from Wolf, Sub-Zero and SKS. The kitchens in Ironwood's case studies took 10 to 16 weeks from start to finish.
+- **Bathroom remodeling**: A bath can get new flooring, lighting, a tub, shower or vanity, or a new layout that uses the room better. Reviewers describe custom primary and guest baths and a downstairs full bath. Ironwood's 2026 spa bath guide covers curbless walk-in showers, soaking tubs and heated floors.
+- **Whole-home remodels and additions**: When the floor plan is the problem, Ironwood reworks the layout so rooms flow better, or adds a bedroom, bath or living area that matches the house. One Google review describes an early-90s first floor where the dining room came out and the kitchen grew, with the family living at home.
+- **Basements, attics and specialty rooms**: Unused rooms, basements and attics can become a home theater, gym, game room, wine cellar, office or extra living space. Ironwood has published 2026 Triangle guides on basement theaters, attic finishing and basement costs, so you can see the choices involved before your first visit.
+
+### Why Triangle homeowners call Ethan
+- **A Marine veteran in charge**: Ethan Randle served in the United States Marines and was honorably discharged in 2014. Google lists Ironwood as veteran-owned, and the company is licensed and insured.
+- **Easy to reach**: One client wrote that it was always easy to get a quick reply from Ethan. Another said he kept in touch just about every day, even on days he did not need to be on site.
+- **Clear expectations up front**: Reviewers say Ethan sets realistic expectations, listens to limits on timing and budget and provides a detailed quote. A home addition client wrote that he was on time and stayed within their budget request.
+- **4.9 stars from 40 reviews**: Ironwood holds a 4.9 rating from 40 Google reviews. Ten reviews mention a professional team, eight a kitchen remodel and six a bathroom remodel, and several clients have hired Ethan more than once.
+
+### Meet Ethan Randle, founder of Ironwood
+Ethan Randle is the founder and CEO of Ironwood Custom Remodels. After his honorable discharge from the United States Marines in 2014, he joined an International Brotherhood of Electrical Workers apprenticeship. About a year in, he wanted work with a more direct effect on people's daily lives. He went to work full-time for a general contractor in Orange County, California, while attending night school for a degree in construction technology, and then started his own company. Today Ironwood focuses on kitchen, bath and whole-house makeovers in the Triangle and Triad. Clients call Ethan organized and thorough, and some have brought him back for a second or third project.
+
+(Ethan Randle, Founder and CEO)
+
+### How an Ironwood remodel moves from first call to finished room
+1. **Online form and phone consultation**: Send the short form, then talk by phone about the work you want, the finished space you picture and estimated pricing.
+2. **In-person consultation**: A licensed team member meets you at home to walk the space and get a clear picture of your project and your goals.
+3. **Design**: Layout and finishes are designed with Ironwood's design partners, or Ironwood builds from plans you already have, as the Hurdle Mills homeowners did.
+4. **Project planning**: Scope, materials and order of work are set before construction begins, backed by a detailed quote so you know what you are paying for.
+5. **Construction and move-in**: The crew builds while Ethan keeps you updated. The last of Ironwood's seven stages is simple: enjoy your new space.
+
+### Recent Ironwood kitchens and baths
+- https://ironwoodremodels.com/wp-content/uploads/2026/02/Copy-of-PANA6422-scaled.jpg | Hurdle Mills kitchen with pale blue-gray cabinets to the ceiling, a dark stained island with wood stools, glass pendants, a Sub-Zero refrigerator and resurfaced wide-plank hardwood floors | The Legacy Kitchen, Hurdle Mills
+- https://ironwoodremodels.com/wp-content/uploads/2026/02/Copy-of-PANA6497-683x1024.jpg | Close-up of under-cabinet lighting over a handmade tile backsplash and stone counter in the Hurdle Mills Legacy Kitchen | Handmade tile backsplash, Legacy Kitchen
+- https://ironwoodremodels.com/wp-content/uploads/2026/04/DSC08819-HDRtest-scaled.png | Cary kitchen in the Cambridge neighborhood with white cabinets, a light wood range hood, double wall ovens and a large island with a light oak base and cream stools | The Cambridge Gathering Kitchen, Cary
+- https://ironwoodremodels.com/wp-content/uploads/2026/04/PANA8299-1-1024x683.jpg | Hope Valley sunroom breakfast area in Durham with a blue beadboard ceiling, brick floor, a wall of windows and a brass chandelier over a round table | Blue Haven in Hope Valley, Durham
+- https://ironwoodremodels.com/wp-content/uploads/2026/07/PANA8064-1024x683.jpg | White shaker kitchen with glass-front upper cabinets, a farmhouse sink, a gas range and a white peninsula opening to the family room | Carrboro Kitchen Reimagined
+- https://ironwoodremodels.com/wp-content/uploads/2025/10/PANA3038.jpg | White kitchen with an emerald green stone island top, glass-front upper cabinets, a stainless range hood, brass ring pendants and red oak floors | Green stone island kitchen
+- https://ironwoodremodels.com/wp-content/uploads/2025/10/Copy-of-PANA3825.jpg | Bathroom double vanity with gray shaker cabinets, a white marble-look top, brass-framed mirrors and a floral accent wall | Double vanity bath
+- https://ironwoodremodels.com/wp-content/uploads/2025/06/PANA0972-scaled.jpg | Primary bathroom with white shiplap walls, a freestanding soaking tub, a matte black floor-mounted tub filler and dark stone-look floor tile | Shiplap spa bath
+
+### What Ironwood clients say about Ethan
+> Ethan and his entire Ironwood team were incredible to work with during our downstairs full bath remodel.
+> Jessica P., Google
+
+> Undertaking a complete kitchen remodel was major challenge for us. We needed a general contractor that had excellent constructions skills and strong subcontractors. Clear communication and great project management skills were imperative. We found that with Ethan Randle and Ironwood Custom Remodels. We wanted a custom kitchen that reflected our sense of style and love of beautiful wood. We did not want just another white kitchen.
+> Elaine B., Google
+
+> Working with Ethan was a great experience. From the beginning of the process, Ethan provided a personal touch that other prospective contractors didn’t. From the get-go, Ethan prioritized clear and consistent communication and helped set realistic expectations for what to expect from our project. He listened very closely to my specifications on timing and budget, and was super easy to get a hold of whenever I had questions.
+> Matthew R., Google
+
+### Serving Durham, Chapel Hill, Cary and the Triangle
+Ironwood Custom Remodels is based in Durham and works across the Triangle and into the Triad. Its service list covers Durham, Chapel Hill, Carrboro, Hillsborough, Cary, Raleigh, Apex, Morrisville, Creedmoor, Burlington and Greensboro. Recent case studies come from Durham's historic Hope Valley neighborhood, the Cambridge neighborhood in Cary and a classic home in Hurdle Mills. Live close by but not on the list? Call (760) 642-6051 and ask.
+
+Towns: Durham, Chapel Hill, Carrboro, Hillsborough, Cary, Raleigh, Apex, Morrisville, Creedmoor, Burlington, Greensboro, Hurdle Mills
+
+### Durham kitchen and bath remodeling questions
+- **How much does a kitchen or bath remodel with Ironwood cost?** Ironwood has no set price list. Each project is priced on its own materials, labor and other factors, and the estimate is free. Your first phone consultation covers estimated pricing. For scale, Ironwood's 2026 guide puts spa-style primary bath packages in the Triangle at $45,000 to $150,000 or more.
+- **How long does a kitchen remodel take?** It depends on scope. In Ironwood's own case studies, the Legacy Kitchen in Hurdle Mills took 10 to 12 weeks. The Blue Haven kitchen in Hope Valley, which included moving structural walls and new Marvin windows, and the Cambridge kitchen in Cary each took 12 to 16 weeks. Ask Ethan for your own timeline at the consultation.
+- **Can we keep living at home during the remodel?** Families have. One Google review describes updating an entire early-90s first floor, removing the dining room and greatly expanding the kitchen while the owners lived in the home with their kids and dogs. Ironwood has also published a guide on phasing a whole-home renovation so you do not have to move out.
+- **Can Ironwood build a design from my own kitchen designer?** Yes. The Hurdle Mills homeowners had already finished their design with The Kitchen Specialist and chose Ironwood to build it. On other kitchens, Ironwood partnered with Heather Holcombe Designs in Hope Valley and Chess Kitchen & Interiors in Cary. If you are starting from scratch, design is one of the seven stages of the process.
+- **Are you licensed, and who handles the permits?** Ironwood Custom Remodels is a licensed and insured North Carolina contractor. Public permit records list the company as the contractor, for example on a Town of Cary permit issued in August 2026 for a primary bath and kitchen countertop remodel. Ask for the licence number when you book your free estimate.
+
+### Planning a kitchen or bath in Durham? Talk to Ethan's team
+Start with a phone consultation about the work, the finished space and estimated pricing, or send the short form for a free estimate.
+
+Button: Call (760) 642-6051 (tel:+17606426051)
+
+Footer: Ironwood Custom Remodels | Durham, NC | (760) 642-6051 | ethan@ironwoodremodels.com | no hours listed  
+Socials: https://www.facebook.com/ironwoodcustomremodels, https://www.instagram.com/ironwood_custom_remodels, https://www.houzz.com/professionals/kitchen-and-bath-remodelers/ironwood-custom-remodels-llc-pfvwus-pf~1739771532, https://nextdoor.com/pages/ironwood-custom-remodels-llc-durham-nc, https://www.bbb.org/us/nc/durham/profile/remodel-contractors/ironwood-custom-remodels-llc-0593-90337047, https://goo.gl/maps/MabQP5xqX2DnUWmx8
+
+**Conversion notes (not for the page)**
+- current_site_defects: PageSpeed Insights mobile performance score 47 out of 100; Horizontal overflow on phones: at a 375px viewport the page is 525px wide, 150px wider than the screen, because the homepage slider (span.uael-slide-block, div.slick-track) runs past the right edge; Gallery images over 1MB each: 8L4A2282_3_4_web.webp 1,267,292 bytes, DSC08819-HDRtest-scaled.png 3,653,809 bytes, 5O8A2074-1.jpg 1,061,227 bytes and 1-1.jpg 1,239,536 bytes; the full-size 5O8A1754.jpg linked from the homepage downloaded at 8.5MB; Four different phone numbers on the site and none match Google: header and footer show 919-289-5462, the Contact page says 'Text or Call Us At: 919-823-3819', the Contact meta description says 760-239-0596 and the site's LocalBusiness JSON-LD says 760-887-3897, while the Google profile lists +1 760-642-6051; Site LocalBusiness JSON-LD names the firm 'Ironwood Custom Homes', uses the logo as its image, leaves street and city empty and sets addressRegion to 'ND' (North Dakota); Hours conflict: footer says M-F 7AM-5PM, Contact page says MON-SAT 8AM to 5PM; Homepage H1 is 'CUSTOM REMODELS AND HOME ADDITIONS' with no service-plus-city phrase; the Kitchens page has two H1s ('Time To Update' and the real heading); Kitchens, Bathrooms, Home Additions, Home Remodels, Specialty Rooms, Outdoor Living and Attics and Basements pages repeat the same 'What to Expect', 'Getting Started' and 'Our Process' paragraphs word for word (duplicate content), and that shared copy never names a single kitchen or bath detail; Homepage review slider repeats the same 19 reviews twice and Justin Robb's review a third time, so the page text carries 39 review blocks for 19 reviews; FAQ page lists 22 questions but only the first answer appears in the crawled page text, so the answers are not readable to search engines; Carrboro Kitchen Reimagined case study (URL slug 'carborro') lists Location 'Durham, Hope Valley Neighborhood', the same designer, length and package as Blue Haven, so the project details look copied; The Carrboro project's main portfolio photo KITCHEN3-scaled.jpeg has an 'AI Generate' button from a photo-editing app baked into the top left corner; Blog thumbnails are AI images saved with alt text like 'ChatGPT Image Aug 22, 2026, 12_15_51 AM'; Pricing Guide page has no prices, even though the blog publishes 2026 Triangle cost guides that the homepage never links to; Our Process page step 7 reads 'EJOY YOUR NEW SPACE'; footer still says Copyright 2021 and credits the web vendor 469 Design; Phone links use tel:9192895462 and tel:9198233819 without the +1 country code
+- what_this_homepage_fixes: One phone number everywhere, the Google profile number (760) 642-6051, as tap-to-call in the hero and closing section, with a free estimate form as the second action; Primary keyword 'kitchen remodeling Durham' in title, H1, first paragraph, intro H2 and hero alt text; Ethan Randle named as founder with his Marine Corps service and path into contracting stated once and clearly; Real trust signals above the fold: 4.9 from 40 Google reviews, veteran-owned, licensed and insured; Named case studies with towns (Hope Valley in Durham, Cambridge in Cary, Hurdle Mills) and real project lengths answered in the FAQ; Only the firm's own project photos with descriptive alt text; the AI-marked KITCHEN3 photo and ChatGPT thumbnails are left out; Clean HomeAndConstructionBusiness schema with the right name, Durham, NC, the Google phone and no self-serving review markup; Single slider-free layout that fits a 375px screen, with each review shown once
+- best_conversion_angle: A Marine veteran who personally runs your remodel: Ethan Randle answers quickly, sets realistic expectations and has a 4.9 rating from 40 Google reviews, with named kitchens in Hope Valley, Cary and Hurdle Mills to prove it. Lead with one clear number and 'Request a free estimate'.
+- outreach_hook: Ethan, a homeowner who finds you on Google sees (760) 642-6051, but your site shows four other numbers and its own schema calls you Ironwood Custom Homes in North Dakota, so here is a homepage with one number and your Hope Valley and Hurdle Mills kitchens up front.
+
+**Missing (left out, not invented):** Phone: the Google profile number (760) 642-6051 does not appear anywhere on ironwoodremodels.com, which shows 919-289-5462 and 919-823-3819 (plus 760-239-0596 and 760-887-3897 in meta and JSON-LD); this page uses the Google number, so confirm with Ethan which line he answers and make the site and Google match; Street address: none on the Google profile (service-area business) and the site gives only Durham, NC 27704, so the footer and schema show Durham, NC only; North Carolina general contractor licence number not published on the site; Year founded or year Ironwood started in Durham (site copyright reads 2021; not stated as a founding year); Warranty terms: the FAQ asks 'Do you offer a warranty?' and the comparison table has a Warranty row, but no terms were in the crawled text, so no warranty is promised here; Financing options not mentioned on the site; Business hours conflict (M-F 7AM-5PM vs MON-SAT 8AM-5PM), so hours are left out; Prices or contents of the Kitchen Gold and Silver packages named in case studies; Answers to the 22 FAQ page questions (only the questions were captured); Kitchen and whole-home cost ranges from the 2026 blog guides (only titles were crawled; only the spa bath range appears on Google); True location of the Carrboro Kitchen Reimagined project (title says Carrboro, details say Durham, Hope Valley); Town or project name for the unlabeled gallery photos (green stone island kitchen, double vanity bath, shiplap spa bath); Best of Houzz and HBA of Durham, Orange and Chatham logos appear on the site as images only, with no year or wording, so they are not claimed; Full text and dates of more Google reviews (3 of 40 captured, each cut off)
+
+---
