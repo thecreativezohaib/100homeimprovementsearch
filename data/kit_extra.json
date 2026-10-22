@@ -1,2 +1,14 @@
-[{"id": "bufordrenovations.com", "tier": "replacement", "replaces": "kitchenplacesventura.com",
-  "note": "Added 2026-10-22 because kitchenplacesventura.com does not load. Passes every gate except G3: the site credits a web agency (Pearl Marketing Digital, pearlmx.com)."}]
+[
+ {
+  "id": "bufordrenovations.com",
+  "tier": "replacement",
+  "replaces": "kitchenplacesventura.com",
+  "note": "Added 2026-10-22 because kitchenplacesventura.com does not load. Passes every gate except G3: the site credits a web agency (Pearl Marketing Digital, pearlmx.com)."
+ },
+ {
+  "id": "ironwoodremodels.com",
+  "tier": "replacement",
+  "replaces": "getwreedone.com",
+  "note": "Added 2026-10-22 at the client's request to replace getwreedone.com. Passes every gate except G3: footer credit 'Proudly Made in USA by Veterans' was read as a possible vendor credit."
+ }
+]
