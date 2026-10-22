@@ -1,0 +1,85 @@
+[
+  {
+    "id": "whitebirchdesignllc.com",
+    "business_name": "White Birch Design, LLC",
+    "emails": [
+      {
+        "email": "steve@whitebirchdesignllc.com",
+        "source_url": "https://eagandocs.cityofeagan.com/WebLink/DocView.aspx?id=2733565&dbid=0&repo=CityofEagan",
+        "quote": "Company: White Birch Design LLC Contact: Steve ... Email: steve@whitebirchdesignllc.c",
+        "seen": "2026-10-22",
+        "type": "person",
+        "owner_match": true,
+        "mx": "whitebirchdesignllc.com MX: 1 aspmx.l.google.com, 5 alt1/alt2, 10 alt3/alt4 (Google Workspace). Valid, not Null MX.",
+        "rank": 1,
+        "source_date": "City of Eagan residential building permit application EA188724, received Jan 8 2024, signed by Steve McDonald (page 2 scan)",
+        "caveat": "Handwritten/typed on a scanned permit form; the field box cuts off the end so it reads 'steve@whitebirchdesignllc.c'. The domain is the firm's own whitebirchdesignllc.com, so the full address is steve@whitebirchdesignllc.com."
+      },
+      {
+        "email": "info@whitebirchdesignllc.com",
+        "source_url": "https://www.facebook.com/whitebirchdesignllc/",
+        "quote": "whitebirchdesignllc ; (952) 686-8443 ; info@whitebirchdesignllc.com",
+        "seen": "2026-10-22",
+        "type": "shared",
+        "owner_match": false,
+        "mx": "whitebirchdesignllc.com MX: Google Workspace (aspmx.l.google.com and alternates). Valid, not Null MX.",
+        "rank": 2,
+        "source_date": "Current Facebook page contact info (seen via Google/Firecrawl search snippet; Facebook blocks logged-out scraping). Also listed in a third-party remodeler list PDF at https://cdn5.f-cdn.com/files/download/163190095/Soha%20Kitchen%20Remodlers.pdf"
+      },
+      {
+        "email": "Steve@MnRealEstateTeam.com",
+        "source_url": "https://www.mnrealestateteamvendors.com/",
+        "quote": "White Birch Design LLC Steve McDonald 952-686-8443 Steve@MnRealEstateTeam.com https://whitebirchdesignllc.com/",
+        "seen": "2026-10-22",
+        "type": "person",
+        "owner_match": true,
+        "mx": "mnrealestateteam.com MX: 10 mnrealestateteam-com.mail.protection.outlook.com (Microsoft 365). Valid, not Null MX.",
+        "rank": 3,
+        "source_date": "Realtor vendor list (also on https://www.markgores.com/vendors). This is Steve McDonald's real-estate team address (he is also a RE/MAX agent), not a White Birch domain."
+      }
+    ],
+    "searched": [
+      "whitebirchdesignllc.com: all 193 sitemap URLs (pages, posts, portfolio, staff, service areas), contact, privacy-policy, terms, careers, warranty: no mailto, plain, [at], data-cfemail or JSON-LD email",
+      "site JS files (37) and PDFs (none linked): nothing",
+      "web.archive.org contact page snapshot 2021-11-27: form only, no email",
+      "LinkedIn, Instagram, Nextdoor, Yelp, Houzz, BBB search snippets: no email shown (BBB shows only agency emails)",
+      "searches: \"@whitebirchdesignllc.com\", owner names + email, phone + email"
+    ],
+    "note": "Website has only a contact form and phone. Best bet is Steve McDonald at steve@whitebirchdesignllc.com (from a Jan 2024 city permit application he signed) or the shared info@ inbox listed on Facebook. Domain has working Google Workspace MX, so if the client's test bounced, check the exact address used. Steve's phone on the permit: 612-910-2955."
+  },
+  {
+    "id": "sicora.com",
+    "business_name": "Sicora Design / Build",
+    "emails": [
+      {
+        "email": "rsonnek@sicora.com",
+        "source_url": "https://mn.gov/adresources/search/ffb12a97-7f3b-56f6-b87a-c571c8edd211/",
+        "quote": "Resource Name: Sicora Design/Build ... Email rsonnek@sicora.com",
+        "seen": "2026-10-22",
+        "type": "person",
+        "owner_match": true,
+        "mx": "sicora.com MX: 0 sicora-com.mail.eo.outlook.com (Microsoft 365). Priority 0 but a real host, not Null MX ('0 .'), so mail is accepted.",
+        "rank": 1,
+        "source_date": "Minnesota.gov resource listing for Sicora Cares (current). Also on Nextdoor business page https://nextdoor.com/pages/sicora-minneapolis-mn/ (mailto:rsonnek@sicora.com, current) and Houzz profile comment dated June 19 2016: 'Feel free to email me a picture of your current bathroom at rsonnek@sicora.com.'"
+      },
+      {
+        "email": "contactus@sicora.com",
+        "source_url": "https://sicora.com/casestudy/open-concept-kitchen-transformation/",
+        "quote": "Email us at: contactus@sicora.com Phone Consultation at 952.929.0098",
+        "seen": "2026-10-22",
+        "type": "shared",
+        "owner_match": false,
+        "mx": "sicora.com MX: 0 sicora-com.mail.eo.outlook.com (Microsoft 365). Valid, not Null MX.",
+        "rank": 2,
+        "source_date": "Live on sicora.com case study pages (also /casestudy/walkout-basement-finishing-maple-grove-mn/ and /casestudy/sun-room-addition-st-louis-park-mn/). Also listed on onedaypro.com."
+      }
+    ],
+    "searched": [
+      "sicora.com: all 77 sitemap URLs plus contact/privacy/terms/careers/warranty: only contactus@sicora.com found (plus an unrelated mortgage partner email gail.vinje@myccmortgage.com)",
+      "site JS (80 files) and Sicora Cares PDFs (release waiver, volunteer safety guide): no emails",
+      "riftsawncabinets.com (Rift Sawn cabinet shop): no email published, and the domain has no MX record",
+      "BBB, Yelp, LinkedIn, HGTV, Pinterest snippets: no email shown"
+    ],
+    "note": "Owner Ron Sonnek's address rsonnek@sicora.com appears in three independent public sources, including a current state listing. Note: the Sicora MX record uses priority 0, which a naive test may misread as Null MX; it is not (the host is sicora-com.mail.eo.outlook.com, not '.'). Ron's direct phone on the Sicora Cares page: 612-423-4558."
+  }
+]
