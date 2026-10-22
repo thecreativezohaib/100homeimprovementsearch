@@ -1,20 +1,114 @@
 {
- "8":  {"best": "info@assemblyserviceil.com", "others": ["assemblysquadcustomerservice@gmail.com"],
-        "source": "https://www.assemblyserviceil.com/contact.html (page meta and JSON-LD on about 400 of their pages); Gmail address in JSON-LD and on facebook.com/assemblysquad",
-        "note": "Replaces info@assemblysquad.com, which bounced (that domain has a Null MX). assemblyserviceil.com has a working mail server."},
- "12": {"best": "ajants@mcdonaldremodeling.com", "others": ["galsterlund@mcdonaldremodeling.com"],
-        "source": "https://www.mcdonaldremodeling.com/remodel-reveal ('To RSVP: email ajants@mcdonaldremodeling.com'); galsterlund@ from a 2023 archive of their contact page",
-        "note": "ajants@ is Amy Jants, designer and project manager; the email greets Chris, so ask her to pass it on or change the greeting. info@ was blocked by their Barracuda filter, which often blocks the sending mailbox, so send from a different warmed-up mailbox. galsterlund@ belongs to the former president and may be dead."},
- "81": {"best": "steve@whitebirchdesignllc.com", "others": ["info@whitebirchdesignllc.com"],
-        "source": "City of Eagan permit EA188724 signed by Steve McDonald, Jan 2024 (https://eagandocs.cityofeagan.com/WebLink/DocView.aspx?id=2733565&dbid=0&repo=CityofEagan); info@ on facebook.com/whitebirchdesignllc",
-        "note": "On the permit scan the box cuts the address at 'whitebirchdesignllc.c'; the domain is theirs (Google Workspace MX). For zero risk send to info@ first."},
- "82": {"best": "info@woodsman.biz", "others": ["careers@woodsman.biz"],
-        "source": "facebook.com/woodsmankitchensandfloors contact info; also hoorayfor904day.com and threebestrated.com; careers@ on woodsman.biz/openings-at-woodsman",
-        "note": "woodsman.biz mail runs on their own Exchange server (outlook.woodsman.biz). If it fails again, their server is likely down; use the phone or the short message on Facebook."},
- "86": {"best": "halco@halcokb.com", "others": ["tim@halcoshowroom.com", "tyler@tproplumbing.com"],
-        "source": "facebook.com/halcokb and Crunchbase (halco@); tim@ from a 2020 archive of halcoshowroom.com (Tim Procopio, President per BBB); tyler@ from federal DOT record 3038634 for HALCO SHOWROOM",
-        "note": "halco@ is the safest current address (Microsoft 365). tim@ is the president's but from 2020; tyler@ is Tyler Procopio's address at his plumbing company. Socials found: facebook.com/halcokb, instagram.com/halcokitchenandbath, linkedin.com/company/halco-kb."},
- "100": {"best": "rsonnek@sicora.com", "others": ["contactus@sicora.com"],
-        "source": "mn.gov resource listing, Nextdoor and a Houzz comment by Ron Sonnek; contactus@ on sicora.com case study pages ('Email us at: contactus@sicora.com')",
-        "note": "sicora.com does accept mail (Microsoft 365; its MX starts with priority 0, which some checkers misread as no mail)."}
+ "8": {
+  "best": "info@assemblyserviceil.com",
+  "others": [
+   "assemblysquadcustomerservice@gmail.com"
+  ],
+  "source": "https://www.assemblyserviceil.com/contact.html (page meta and JSON-LD on about 400 of their pages); Gmail address in JSON-LD and on facebook.com/assemblysquad",
+  "note": "Replaces info@assemblysquad.com, which bounced (that domain has a Null MX). assemblyserviceil.com has a working mail server."
+ },
+ "12": {
+  "best": "ajants@mcdonaldremodeling.com",
+  "others": [
+   "galsterlund@mcdonaldremodeling.com"
+  ],
+  "source": "https://www.mcdonaldremodeling.com/remodel-reveal ('To RSVP: email ajants@mcdonaldremodeling.com'); galsterlund@ from a 2023 archive of their contact page",
+  "note": "ajants@ is Amy Jants, designer and project manager; the email greets Chris, so ask her to pass it on or change the greeting. info@ was blocked by their Barracuda filter, which often blocks the sending mailbox, so send from a different warmed-up mailbox. galsterlund@ belongs to the former president and may be dead."
+ },
+ "81": {
+  "best": "steve@whitebirchdesignllc.com",
+  "others": [
+   "info@whitebirchdesignllc.com"
+  ],
+  "source": "City of Eagan permit EA188724 signed by Steve McDonald, Jan 2024 (https://eagandocs.cityofeagan.com/WebLink/DocView.aspx?id=2733565&dbid=0&repo=CityofEagan); info@ on facebook.com/whitebirchdesignllc",
+  "note": "On the permit scan the box cuts the address at 'whitebirchdesignllc.c'; the domain is theirs (Google Workspace MX). For zero risk send to info@ first."
+ },
+ "82": {
+  "best": "info@woodsman.biz",
+  "others": [
+   "careers@woodsman.biz"
+  ],
+  "source": "facebook.com/woodsmankitchensandfloors contact info; also hoorayfor904day.com and threebestrated.com; careers@ on woodsman.biz/openings-at-woodsman",
+  "note": "woodsman.biz mail runs on their own Exchange server (outlook.woodsman.biz). If it fails again, their server is likely down; use the phone or the short message on Facebook."
+ },
+ "86": {
+  "best": "halco@halcokb.com",
+  "others": [
+   "tim@halcoshowroom.com",
+   "tyler@tproplumbing.com"
+  ],
+  "source": "facebook.com/halcokb and Crunchbase (halco@); tim@ from a 2020 archive of halcoshowroom.com (Tim Procopio, President per BBB); tyler@ from federal DOT record 3038634 for HALCO SHOWROOM",
+  "note": "halco@ is the safest current address (Microsoft 365). tim@ is the president's but from 2020; tyler@ is Tyler Procopio's address at his plumbing company. Socials found: facebook.com/halcokb, instagram.com/halcokitchenandbath, linkedin.com/company/halco-kb."
+ },
+ "100": {
+  "best": "rsonnek@sicora.com",
+  "others": [
+   "contactus@sicora.com"
+  ],
+  "source": "mn.gov resource listing, Nextdoor and a Houzz comment by Ron Sonnek; contactus@ on sicora.com case study pages ('Email us at: contactus@sicora.com')",
+  "note": "sicora.com does accept mail (Microsoft 365; its MX starts with priority 0, which some checkers misread as no mail)."
+ },
+ "75": {
+  "best": "jonathan@affordableremodelingsolutions.com",
+  "others": [],
+  "source": "nextdoor.com/pages/affordable-remodeling-solutions-llc-1 (mailto) and the JSON-LD on every page of their site",
+  "note": "Owner Jonathan Doering's own inbox and the only address published anywhere (Proofpoint MX, valid)."
+ },
+ "77": {
+  "best": "info@cervantescabinets.com",
+  "others": [],
+  "source": "cervantescabinets.com/contact, in the page's JSON-LD (not visible text)",
+  "note": "Shared inbox (Microsoft 365 MX, valid). No personal email for Joel is published; the Instagram DM is the second channel."
+ },
+ "94": {
+  "best": "alex.t@apluskitchen.com",
+  "others": [
+   "sales@apluskitchen.com",
+   "admin@apluskitchen.com",
+   "info@apluskitchen.com"
+  ],
+  "source": "aplushomeimprovements.com consultation form recipients (wp-json page 230394, modified 2026-08-12); sales@ in their Facebook intro; admin@ on Trustindex; info@ on Manta",
+  "note": "Their mail runs on apluskitchen.com (Google Workspace), not the website domain, which has no mailbox. alex.t@ is owner Alex Tabrizi's address taken from a hidden form recipient list; sales@ is the public one."
+ },
+ "95": {
+  "best": "greg@gmh-remodeling.com",
+  "others": [
+   "info@gmh-remodeling.com"
+  ],
+  "source": "NARI Milwaukee 'Renovate 2026' directory (issuu.com/narimilwaukee/docs/nari_renovate_2026); also their 2020 referral certificate PDF; info@ on gmh-remodeling.com/referral-program",
+  "note": "Owner Greg Perkins (Google Workspace MX, valid)."
+ },
+ "96": {
+  "best": "steve@upscaleremodeling.com",
+  "others": [
+   "hello@upscaleremodeling.com",
+   "info@upscaleremodeling.com"
+  ],
+  "source": "Builders Exchange of the Southern Tier member directory, May 2025 (bxstier.com/wp-content/uploads/STBA_2025_P2.pdf); hello@ in their own checklist PDFs (July 2025); info@ in Facebook contact info",
+  "note": "Owner Stephen Nash (Microsoft 365 MX, valid)."
+ },
+ "97": {
+  "best": "jennifer@vanderbekenremodel.com",
+  "others": [
+   "info@vanderbekenremodel.com"
+  ],
+  "source": "n49.com business listing ('Email jennifer@vanderbekenremodel.com'); also bizthistown.com; info@ in Facebook contact info",
+  "note": "Washington L&I lists the owners as Jennifer Elin and Ronald Dean VanderBeken, so Jennifer is an owner; the email greets Ron, so greet both or change the greeting."
+ },
+ "98": {
+  "best": "dan@clarconstruction.com",
+  "others": [
+   "info@clarconstruction.com"
+  ],
+  "source": "greenlight-realestate.com/resources/preferred-providers ('Dan Clar ... dan@clarconstruction.com'); also City of Montpelier contractor list; info@ in Facebook contact info",
+  "note": "Owner Dan Clar (Google Workspace MX, valid)."
+ },
+ "99": {
+  "best": "info@pcsouthflorida.com",
+  "others": [
+   "robert@pereiraconstructionsouthfl.com"
+  ],
+  "source": "nextdoor.com/pages/pereira-construction-of-south-fl-inc-lake-worth-fl, their Facebook page and 2026 posts; robert@ in the Facebook contact info of sister business 561 Soft Wash",
+  "note": "info@ is the clearly current address (Google Workspace MX, valid); robert@ is the owner's but from a sister business listing."
+ }
 }
