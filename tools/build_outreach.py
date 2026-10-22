@@ -36,7 +36,6 @@ CHECK = {
     36: "The email points out the giveaway banner says November 4 while the rules close entries November 1, 2026. Send before November 1 or remove that line.",
     38: "Greeting is to David, the current president; the record lists founder Yeheskel Sharbani as owner.",
     48: "The email mentions a 404 on their Full Home Remodels button (seen 2026-10-17). Re-check before sending.",
-    57: "The new concept shows a 'Women-owned business' badge; the owner on record is Evan Hill. Confirm or remove the badge on the concept before sending.",
     58: "Their Google profile category is 'Home goods store' and the address starts with 'Parking lot'; follow-up 2 mentions this gently.",
     71: "Google and their site show different phone numbers; the concept uses Google's and the email asks which is right.",
     73: "The concept uses Google's (760) 642-6051, a California number, for a Durham NC firm; their site header shows (919) 289-5462. Confirm the main line.",
