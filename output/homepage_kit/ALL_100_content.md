@@ -9669,3 +9669,101 @@ Socials: https://www.instagram.com/sicoradesignbuild, https://www.pinterest.com/
 **Missing (left out, not invented):** Email address not published on the site; Business hours not published (Google shows 'Opens 8 AM Mon'); When Ron Sonnek took ownership and his background; Recent Google reviews: the newest captured are about two years old; Financing details not confirmed on the pages crawled; Working Facebook page URL (site links to profile.php with no ID); Owner or team photo with names suitable for the About section
 
 ---
+
+## Buford Renovations (bufordrenovations.com)
+
+- Title tag: Kitchen Remodeling in Buford, GA | Buford Renovations
+- Meta description: Kitchen remodeling in Buford, GA led by owner Oscar Tamez. Best of Houzz 2021 to 2026 and 5.0 stars on Google. Call (404) 376-5391 for a free estimate.
+- Primary keyword: kitchen remodeling Buford
+- Secondary keywords: bathroom remodeling Buford GA, kitchen remodeling Sugar Hill GA, walk-in shower conversion Buford, custom cabinetry Buford GA, kitchen remodel cost Buford, bathroom remodeling Suwanee, deck builder Buford GA, remodeling contractor near me
+
+### Hero
+_Owner-led remodeler on Buford Hwy_
+
+# Kitchen Remodeling in Buford With the Owner on Every Job
+
+Buford Renovations designs and builds kitchens, bathrooms and decks across Gwinnett, Hall and Forsyth counties. Owner Oscar Tamez brings 20+ years of hands-on construction experience and stays involved in every project.
+
+Buttons: Call (404) 376-5391 | Request a free estimate  
+Trust badges: 5.0 stars from 37 Google reviews / Best of Houzz Service 2021 to 2026 / BBB Accredited, A+ rating / Owner Oscar Tamez on every project
+Hero image: https://bufordrenovations.com/wp-content/uploads/2026/07/kitchen-remodeling-buford-ga-1.webp (alt: Kitchen remodeling in Buford, GA: light oak cabinets to the ceiling, a fluted wood island, veined quartz counters and a lit stone backsplash by Buford Renovations)
+
+### Kitchen remodeling in Buford, with the prices out in the open
+Buford Renovations offers kitchen remodeling in Buford for homeowners who want one person to answer for the whole job. That person is Oscar Tamez, owner and lead contractor, with 20+ years in residential construction and hundreds of kitchen and bathroom remodels managed across Gwinnett, Hall and Forsyth counties.
+
+Custom cabinetry is the craft the company was founded on, so cabinets get planned first: built to the ceiling, fitted around awkward corners and finished with soft-close hardware and pull-outs. Oscar also publishes 2026 cost guides for Buford and nearby towns, so you can see real local price ranges before the free in-home visit.
+
+### What Oscar's crews build, from kitchens to covered decks
+- **Kitchen remodeling**: Layout changes, custom or semi-custom cabinets, quartz, granite or butcher block counters, full-height backsplashes, islands with seating and layered lighting. Open-concept projects include the structural engineering, permits and beam work. Most full kitchens take 4 to 8 weeks once materials are on hand.
+- **Bathroom remodeling and walk-in showers**: The most requested job is swapping an unused tub for a custom tile walk-in shower with frameless glass, a bench and a niche. The team also builds primary suites with freestanding tubs and heated floors, compact hall baths and curbless aging-in-place showers.
+- **Custom carpentry and built-ins**: Built-ins, millwork and cabinetry for kitchens, baths, home offices and family rooms, with soft-close hardware, pull-out organizers, matching trim and your choice of paint or stain. The crew also builds fireplace surrounds, built-in shelving and mudroom drop zones.
+- **Patio decks, covered patios and sunrooms**: Turn a basic builder deck into a larger patio deck, add a roof for shade and rain, or enclose the space as a sunroom. Choose pressure-treated or composite decking, railings and outdoor lighting, all under the same written estimate and schedule as indoor work.
+- **Full home renovations**: Whole-home remodels run by one team with a single point of contact, from in-house design consultation through permits, subcontractor coordination, final inspection and walkthrough. The company's work ranges from condo remodels to managing new construction from the ground up.
+
+### Why Gwinnett and Hall County homeowners hire Oscar's team
+- **You deal with the owner**: Oscar Tamez is personally involved in every project, and you talk to him, not a rotation of project managers. Google reviewers name him for clear, quick replies to their requests.
+- **Prices you can see first**: Oscar publishes 2026 cost guides with local price ranges, and every job gets a detailed written estimate, usually within 48 hours of the visit. One kitchen client wrote that there were no hidden costs.
+- **On schedule, sometimes early**: Eleven Google reviews mention the work stayed on schedule. Jessika J. was told her kitchen would take 4 to 6 weeks, and the crew finished in just under 4.
+- **Recognized six years straight**: Buford Renovations earned Best of Houzz Service every year from 2021 to 2026, is BBB accredited with an A+ rating and holds a 5.0 rating from 37 Google reviews.
+
+### Meet Oscar Tamez, owner and lead contractor
+Oscar Tamez owns Buford Renovations LLC and runs its jobs as lead contractor. He brings 20+ years of hands-on residential construction experience and has personally managed hundreds of kitchen and bathroom remodels across Gwinnett, Hall and Forsyth counties. The company is not a franchise and does not hand everything off to subcontractors, and Oscar stays personally involved in every project. Google lists the business as Latino-owned. Oscar writes the company's cost guides himself, explaining in plain numbers what drives a budget, from cabinets at 30 to 40 percent of a kitchen to the tile and shower package in a bath.
+
+(Oscar Tamez, Owner and lead contractor)
+
+### How a Buford Renovations remodel runs
+1. **Free in-home consultation**: The team visits your home to measure the space, hear what you want and talk honestly about scope and budget.
+2. **Fixed written estimate**: You receive a detailed, fixed written estimate, usually within 48 hours of the visit, with no obligation to go ahead.
+3. **Design and selections**: Layout, cabinetry, counters, tile, vanity, glass, fixtures and lighting are chosen with you before anything is ordered.
+4. **Permits and build**: The crew pulls permits, works to a written schedule, contains the work zone, protects floors and nearby rooms, and cleans up daily.
+5. **Walkthrough and punch list**: The job closes with a final walkthrough and a punch list, so the last details are finished before the crew leaves.
+
+### Recent kitchens, baths and built-ins
+- https://bufordrenovations.com/wp-content/uploads/2026/07/luxe-master-bathroom-buford-renovations-1.webp | Primary bathroom double vanity with walnut drawers, a white veined stone top and tall black-framed mirrors with sconces | Luxe Master Bath
+- https://bufordrenovations.com/wp-content/uploads/2026/07/modern-zen-bathroom-buford-renovations.webp | Large walk-in shower with frameless glass, wood-look tile walls and a black herringbone tile accent wall and niche | Modern Zen Bath
+- https://bufordrenovations.com/wp-content/uploads/2026/07/mid-century-custom-buford-renovations.webp | Powder room vanity faced with textured wood blocks under a veined stone top, with a brass faucet and sconces on a navy wall | Mid Century Custom vanity
+- https://bufordrenovations.com/wp-content/uploads/2022/03/functional-kitchen-buford-renovations-llc-img_3401028a0ee282be_14-8833-1-e4c9e9d-1.jpg.webp | Kitchen with white shaker cabinets, a butcher block peninsula, black double wall ovens, open shelves and brick-look floor tile | Functional Kitchen
+- https://bufordrenovations.com/wp-content/uploads/2022/03/home-design-18-1.jpg | Kitchen with a curved blue island topped with a butcher block section, white cabinets and a built-in stainless refrigerator | June's Kitchen
+- https://bufordrenovations.com/wp-content/uploads/2022/04/home-design-13.jpg.webp | Bathroom with a freestanding tub, a marble subway tile shower behind a glass enclosure and large hexagon marble floor tile | Kirkwood Project bath
+- https://bufordrenovations.com/wp-content/uploads/2022/03/home-design-27.jpg.webp | Walk-in pantry with floor-to-ceiling white shelving, a built-in wine rack and a butcher block counter | Lake House Pantry
+- https://bufordrenovations.com/wp-content/uploads/2026/07/hex-and-white-bathroom-buford-renovations-1.webp | Bathroom with black hexagon floor tile, a white herringbone tile shower with black fixtures and a white vanity with a granite top | Hex & White bath
+
+### What homeowners say about Oscar and his crew
+> Oscar and Henry did an amazing job and we are super happy with the work. Oscar was easy to communicate with and was responsive to any additional requests or corrections we made. Would highly recommend the crew and plan to use them for future projects!
+> Joseph C., Google
+
+> Professional, friendly, great communication, clean, easy to work with, trustworthy and more. They stick to their schedule as well; we were told 4-6 weeks and they finished in just under 4 weeks. Overall we had a phenomenal experience with Oscar and his team!
+> Jessika J., Google
+
+> We highly recommend Buford Renovations and Oscar’s Team! This was our first home renovation project ever and we were very nervous about the process. Oscar and his team were incredible partners and made it so easy to build our dream master bathroom.
+> Casey B., Website testimonial
+
+### Serving Buford, Sugar Hill and nine nearby towns
+Buford Renovations works from 694 Buford Hwy in Sugar Hill. The team remodels kitchens and baths in Buford, Sugar Hill, Suwanee, Duluth and Dacula in Gwinnett County, in Gainesville, Oakwood and Flowery Branch in Hall County, in Cumming in Forsyth County, and in Braselton and Dawsonville. Gainesville is about 20 minutes up I-985. Live outside these towns? Call (404) 376-5391 anyway, since the crew often travels farther for the right project.
+
+Towns: Buford, Sugar Hill, Suwanee, Duluth, Dacula, Gainesville, Oakwood, Flowery Branch, Cumming, Braselton, Dawsonville
+
+### Buford remodeling questions, answered with real numbers
+- **How much does a kitchen remodel cost in Buford?** Oscar's 2026 Buford guide lists four levels: a basic refresh at $10,000 to $20,000, a mid-range remodel at $25,000 to $45,000, a high-end renovation at $50,000 to $80,000 or more, and a gut and rebuild at $75,000 to $120,000 or more. Most full remodels of a standard 10 by 12 foot kitchen land between $30,000 and $50,000.
+- **What does a bathroom remodel or walk-in shower cost?** The 2026 Buford bathroom guide puts a cosmetic refresh at $3,500 to $8,500, a mid-range full renovation at $15,000 to $28,000 and a high-end primary suite at $30,000 to $55,000 or more. Tub-to-shower conversions with custom tile and frameless glass usually run $8,000 to $15,000 installed. Oscar suggests setting aside 10 to 15 percent for surprises behind the walls.
+- **How long will my kitchen or bathroom take?** Most full kitchen remodels take 4 to 8 weeks once materials are on hand. Most full bathrooms take 3 to 5 weeks from demolition to final walkthrough, and shower conversions are often faster. You get a written schedule before work starts. January through March is usually the slower season, which often means you can get on the calendar sooner.
+- **Do you handle permits in Buford, Sugar Hill and Gwinnett County?** Yes. As a licensed Georgia general contractor, Buford Renovations pulls and manages permits and inspections through the City of Buford, the City of Sugar Hill, Gwinnett County, Hall County or whichever office covers your address, including structural permits for wall removals. In Gwinnett, plan on 1 to 3 weeks for approval when plumbing is being moved.
+- **Can we live at home during the remodel?** Almost all clients do. The crew contains the work zone, protects floors and nearby rooms and leaves the site clean every day. If your home has a second bathroom, daily life goes on around the job. One Google reviewer who had a full bathroom redone said the team was respectful of the rest of the house.
+
+### Talk to Oscar about your kitchen or bath
+Call for a free in-home consultation, or send the short form and the team will reply within one business day.
+
+Button: Call (404) 376-5391 (tel:+14043765391)
+
+Footer: Buford Renovations | 694 Buford Hwy, Sugar Hill, GA 30518 | (404) 376-5391 | sales@bufordrenovations.com | Mon to Sat 9:00 a.m. to 5:00 p.m.  
+Socials: https://www.facebook.com/bufordrenovations, https://www.instagram.com/bufordrenovations, https://www.houzz.com/professionals/kitchen-and-bath-remodelers/buford-renovations-llc-pfvwus-pf~666515508, https://www.tiktok.com/@bufordrenovations
+
+**Conversion notes (not for the page)**
+- current_site_defects: PageSpeed Insights mobile performance score 58 out of 100; Two designs on one site: the homepage was rebuilt in July 2026 (wp-json date 2026-07-24), but every inner page still runs the 2022 template with a 'Designed by' footer credit and logo linking to the web agency Pearl Marketing Digital (pearlmx.com), so menus, fonts and contact forms change from page to page; Owner Oscar Tamez is never named on the homepage, About page or Services page; he appears only in cost guide bylines and in reviews; About page counters render as '0+ Years Experience', '0+ Completed Projects', '0% Customer satisfaction' and '0 Star Contractor' in the crawled HTML; About page and the site's business JSON-LD image use stock kitchen photos (modern-kitchen.jpg, kitchen-island-in-a-large-family-kitchen.jpg) instead of the firm's own projects; NAP mismatch: Google lists 694 Buford Hwy, Sugar Hill, GA 30518, while the site shows only 'Buford, GA 30518' with no street address, and its JSON-LD gives addressLocality Buford; Experience claims conflict: meta description says 'since 2019', the About page says '20+ years of combined industry experience', and the Sugar Hill page says the firm has worked in Sugar Hill 'for more than 20 years'; Kitchen and bath pages say 'Best of Houzz five years running' while the same pages list six awards (2021 to 2026); Kitchen price ranges differ between pages: the Buford kitchen page starts refreshes at $10,000, while town pages say kitchens start near $15,000; Site JSON-LD carries a self-serving aggregateRating of 5 from 5 reviews, while Google shows 37 reviews; Sugar Hill, Flowery Branch, Oakwood, Dacula and Dawsonville pages repeat the same paragraphs word for word (duplicate content); Inner-page phone links use tel:4043765391 without the +1 country code; the old Services page text is generic (the outdoor blurb talks about 'safer work environments') and the Portfolio page has keyword lines like 'Affordable renovation company.'; Homepage testimonials are cut mid-story (Robyn Ferdinand's quote stops before the outcome)
+- what_this_homepage_fixes: Tap-to-call (404) 376-5391 in the hero and closing section, with a free estimate form as the second action; Primary keyword 'kitchen remodeling Buford' in title, H1, first paragraph, intro H2 and hero alt text; Oscar Tamez named as owner and lead contractor, with his 20+ years and hands-on role stated once and consistently; Real trust signals above the fold: 5.0 from 37 Google reviews, Best of Houzz 2021 to 2026, BBB A+; Published 2026 price ranges from Oscar's own cost guides answered in the FAQ; Only the firm's own project photos, with descriptive alt text; stock images dropped; NAP exactly as on Google and clean HomeAndConstructionBusiness schema without self-serving review markup; One clear list of the 11 towns the homepage names
+- best_conversion_angle: Owner on every job, prices in the open: Oscar Tamez personally runs each remodel, publishes real 2026 cost ranges, and has a 5.0 Google rating where 11 reviews mention staying on schedule. Lead with 'Call Oscar' and the free in-home estimate.
+- outreach_hook: Oscar, your Buford cost guides are more useful than most remodelers' whole sites, but your About page shows '0+ Years Experience' and never mentions you by name, so here is a homepage that puts you and your 5.0 rating up front.
+
+**Missing (left out, not invented):** Georgia general contractor licence number not published on the site; Warranty terms: town pages mention 'our warranty on all completed work' but give no length or coverage, so no warranty is promised on this page; Financing options not mentioned on the site; Year founded: the site says both 'since 2019' and '20+ years', so no founding year is used; Number of completed projects (About page counters render as 0); Town or neighborhood for each portfolio photo; Role of Henry, named alongside Oscar in a Google review; Photo of Oscar Tamez or the crew for the About section; Full names of more Google reviewers with dates (only 3 of 37 reviews captured; one reviewer shows only a username)
+
+---
