@@ -10,5 +10,11 @@
   "tier": "replacement",
   "replaces": "getwreedone.com",
   "note": "Added 2026-10-22 at the client's request to replace getwreedone.com. Passes every gate except G3: footer credit 'Proudly Made in USA by Veterans' was read as a possible vendor credit."
+ },
+ {
+  "id": "bbassociatesco.com",
+  "tier": "replacement",
+  "replaces": "bufordrenovations.com",
+  "note": "Added 2026-10-22 because the client could not load bufordrenovations.com. Passes every gate except G8 (no measured site defect; mobile PageSpeed timed out)."
  }
 ]
