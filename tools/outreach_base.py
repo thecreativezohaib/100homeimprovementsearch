@@ -4,10 +4,12 @@ Sources: output/homepage_kit/data/<id>.json (Google profile, crawl of their site
 content/<id>.json (conversion notes). WhatsApp is recorded only when their own site links to wa.me / WhatsApp.
 Usage: outreach_base.py <concept_map.json> <out.json>"""
 import json, re, sys
+from urllib.parse import unquote, urlparse
 
 K = "/home/user/100homeimprovementsearch/output/homepage_kit"
 JUNK = re.compile(r"pearlmx|google\.com/maps/search$|sharer|/share|intent/|wix\.com|squarespace|godaddy|elfsight|facebook\.com/?$|instagram\.com/?$|"
                   r"facebook\.com/(tr|plugins|dialog|photo|events|groups|watch|sharer|share)|/posts/|/videos/|instagram\.com/(p|reel|reels|tv|explore|stories)/|instagram\.com/(p|reel)$|youtube\.com/(watch|embed|shorts)|bbb\.org/?$|bbb\.org/?#|houzz\.com/?$", re.I)
+FREE = {"gmail.com", "yahoo.com", "outlook.com", "hotmail.com", "aol.com", "icloud.com", "comcast.net", "att.net", "msn.com", "live.com", "me.com", "verizon.net", "sbcglobal.net", "bellsouth.net"}
 EMAIL_JUNK = re.compile(r"example\.|sentry|wixpress|godaddy|domain\.com|yourname|email@|@mysite\.com|\.(png|jpg|webp)$", re.I)
 
 
@@ -34,10 +36,17 @@ def main(cmap, out):
             f = phone_fmt(p)
             if f and f not in phones:
                 phones.append(f)
+        # keep only the firm's own addresses: its site domain, a domain it uses for mail elsewhere on its site, or free mail
+        site_dom = re.sub(r"^www\.", "", urlparse(d["website"]).netloc.lower())
+        brand = re.sub(r"[^a-z]", "", site_dom.split(".")[0])[:6]
         emails = []
+        # the verified address's domain is theirs even when it differs from the website
+        mail_doms = {unquote(v.get("email") or "").lower().split("@")[-1]} - {""}
         for e in [v.get("email")] + list(d.get("emails_on_site") or []):
-            e = (e or "").strip().lower()
-            if e and "@" in e and not EMAIL_JUNK.search(e) and e not in emails:
+            e = unquote(e or "").strip().lower().strip(".")
+            dom = e.split("@")[-1]
+            ok_dom = dom in mail_doms or dom == site_dom or dom.endswith("." + site_dom) or dom in FREE or (brand and brand in re.sub(r"[^a-z]", "", dom))
+            if e and "@" in e and " " not in e and not EMAIL_JUNK.search(e) and ok_dom and e not in emails:
                 emails.append(e)
         owner = v.get("owner") or {}
         pages = [p["url"] for p in d["crawl"]["pages"]]
