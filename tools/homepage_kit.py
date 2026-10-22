@@ -56,12 +56,22 @@ def main():
     rev = last_by_id(f"{D}/reviews_user.jsonl"); soc = last_by_id(f"{D}/social_user.jsonl")
     strict = {r["prospect_id"]: r for r in csv.DictReader(open(f"{O}/prospects100.csv"))}
     relaxed = {r["prospect_id"]: r for r in csv.DictReader(open(f"{O}/prospects100_relaxed.csv"))}
+    # replacements for prospects whose sites stopped loading: rows built from the verified evidence
+    extra = {}
+    if os.path.exists(f"{D}/kit_extra.json"):
+        for x in json.load(open(f"{D}/kit_extra.json")):
+            ev0 = evaluate(L[x["id"]], d)["ev"]; dm = ev0.get("g6_dm") or {}; em = ev0.get("g6_email") or {}
+            extra[x["id"]] = {"prospect_id": x["id"], "loosened": "", "replaces": x.get("replaces"), "replacement_note": x.get("note"),
+                              "decision_maker": dm.get("name"), "decision_maker_role": dm.get("role"), "decision_maker_source": dm.get("url"),
+                              "decision_maker_quote": dm.get("quote"), "email": em.get("email"), "email_source_url": em.get("url"),
+                              "niche_evidence_url": (ev0.get("niche") or {}).get("url"), "niche_evidence_quote": (ev0.get("niche") or {}).get("quote"),
+                              "region": L[x["id"]].get("region"), "_tier": x.get("tier", "replacement")}
     os.makedirs(f"{K}/data", exist_ok=True)
     index = []
-    for cid in list(strict) + list(relaxed):
+    for cid in list(strict) + list(relaxed) + list(extra):
         c, s, m, mn = L[cid], site.get(cid) or {}, maps.get(cid) or {}, man.get(cid) or {}
-        row = strict.get(cid) or relaxed.get(cid)
-        tier = "strict" if cid in strict else "relaxed"
+        row = strict.get(cid) or relaxed.get(cid) or extra.get(cid)
+        tier = "strict" if cid in strict else "relaxed" if cid in relaxed else row["_tier"]
         ev = evaluate(c, d)["ev"]
         cr = crawl.get(cid) or {}
         pages = [p for p in cr.get("pages", []) if not p.get("error")]
@@ -80,7 +90,7 @@ def main():
         owner = {"name": row.get("decision_maker"), "role": row.get("decision_maker_role"),
                  "url": row.get("decision_maker_source") or row.get("decision_maker_url"), "quote": row.get("decision_maker_quote")}
         rec = {
-            "id": cid, "tier": tier, "loosened": row.get("loosened", ""),
+            "id": cid, "tier": tier, "loosened": row.get("loosened", ""), "replaces": row.get("replaces"), "replacement_note": row.get("replacement_note"),
             "business_name": m.get("title") or c["name"], "website": s.get("final_url") or c.get("website"),
             "google_business_profile": {
                 "url": m.get("gbp_url"), "name": m.get("title"), "address": (m.get("address") or "").replace("", "").strip(),
@@ -92,7 +102,7 @@ def main():
             "verified": {
                 "owner": owner, "email": row.get("email"), "email_source": row.get("email_source_url") or row.get("email_url"),
                 "phone": row.get("phone"), "region": row.get("region"),
-                "niche_evidence": {"url": row.get("niche_evidence_url"), "quote": row.get("niche_evidence_quote")} if tier == "relaxed" else mn.get("niche_evidence"),
+                "niche_evidence": {"url": row.get("niche_evidence_url"), "quote": row.get("niche_evidence_quote")} if tier != "strict" else mn.get("niche_evidence"),
                 "dated_activity": [x for x in (ev.get("g4_signals") or [])],
                 "platform": s.get("platform"), "site_title": s.get("title"),
                 "original_project_photos": originals, "photo_review": (vis.get(cid) or {}).get("note"),
