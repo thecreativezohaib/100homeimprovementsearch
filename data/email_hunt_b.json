@@ -1,0 +1,95 @@
+[
+  {
+    "id": "woodsman.biz",
+    "business_name": "Woodsman Kitchens & Floors",
+    "emails": [
+      {
+        "email": "info@woodsman.biz",
+        "source_url": "https://www.facebook.com/woodsmankitchensandfloors/",
+        "quote": "Details. woodsman.biz. Links. (904) 641-8336. info@woodsman.biz. Contact info.",
+        "seen": "2026-10-22",
+        "type": "shared",
+        "owner_match": false,
+        "mx": "woodsman.biz MX: 5 outlook.woodsman.biz. (resolves to 50.149.164.203, self-hosted Exchange; SPF v=spf1 mx ip4:50.149.164.203 -all). Not a Null MX.",
+        "rank": 1
+      },
+      {
+        "email": "careers@woodsman.biz",
+        "source_url": "https://www.woodsman.biz/openings-at-woodsman",
+        "quote": "Feel free to submit your resume to careers@woodsman.biz for future consideration.",
+        "seen": "2026-10-22",
+        "type": "shared",
+        "owner_match": false,
+        "mx": "woodsman.biz MX: 5 outlook.woodsman.biz. (resolves to 50.149.164.203, self-hosted Exchange). Not a Null MX.",
+        "rank": 2
+      }
+    ],
+    "searched": [
+      "woodsman.biz: all 233 sitemap pages plus /contact-us, /about, /privacy-policy (HTML checked for mailto, plain, [at]/(at), data-cfemail, JSON-LD email); only careers@ found, no PDFs linked",
+      "Facebook page (login wall on direct fetch; email confirmed via search snippets on two locale versions)",
+      "web.archive.org woodsman.biz homepage 2020 and /contact-us 2022 (no email)",
+      "BBB profile (no email shown)",
+      "Houzz, Yelp (blocked/no email in snippets)",
+      "FMCSA carrier record DOT 743227 via carrierchk.com (officers Richard S. Woods, Bradley S Mangold; no email)",
+      "searches: \"@woodsman.biz\", \"info@woodsman.biz\", \"Brad Mangold\" Woodsman email, \"641-8336\" email, NEFBA/chamber/press release",
+      "LinkedIn company and Brad Mangold profiles (no email in snippets); ZoomInfo/Datanyze only show masked addresses (not counted)"
+    ],
+    "note": "No owner or decision-maker email is published anywhere; Brad Mangold (President/CEO) has none. info@woodsman.biz is the only general inbox, and it is also listed on hoorayfor904day.com (event organizer: 'Email info@woodsman.biz') and threebestrated.com. The domain's mail goes to a self-hosted Exchange server (outlook.woodsman.biz at 50.149.164.203), not Microsoft 365 or Google. If the client's mail test failed, that on-premise server may be down or rejecting outside mail, so the problem would be their server rather than a wrong address. SMTP was not tested from here."
+  },
+  {
+    "id": "halcokb.com",
+    "business_name": "Halco Kitchen & Bath",
+    "emails": [
+      {
+        "email": "tyler@tproplumbing.com",
+        "source_url": "https://carrierchk.com/carrier/3038634",
+        "quote": "Phone 7813246462 Email tyler@tproplumbing.com Owner / Officer Tyler Procopio",
+        "seen": "2026-10-22",
+        "type": "person",
+        "owner_match": true,
+        "mx": "tproplumbing.com MX: 0 mail.tproplumbing.com. (resolves to 162.241.253.138, the same host as halcoshowroom.com). Not a Null MX.",
+        "rank": 1
+      },
+      {
+        "email": "halco@halcokb.com",
+        "source_url": "https://www.facebook.com/halcokb/",
+        "quote": "650 Broadway, Malden, MA, United States, 02148. Details. halcokb.com + 1. Links. (781) 324-6462. halco@halcokb.com.",
+        "seen": "2026-10-22",
+        "type": "shared",
+        "owner_match": false,
+        "mx": "halcokb.com MX: 0 halcokb-com.mail.protection.outlook.com. (Microsoft 365; SPF include:spf.protection.outlook.com -all). Not a Null MX.",
+        "rank": 2
+      },
+      {
+        "email": "tim@halcoshowroom.com",
+        "source_url": "https://web.archive.org/web/20201001223219/http://halcoshowroom.com/",
+        "quote": "Reach Tim at (781) 324-6462 extension 701 or tim@halcoshowroom.com",
+        "seen": "2026-10-22",
+        "type": "person",
+        "owner_match": true,
+        "mx": "halcoshowroom.com MX: 0 halcoshowroom-com.mail.protection.outlook.com. (Microsoft 365). Not a Null MX.",
+        "rank": 3
+      },
+      {
+        "email": "InitialConsultation@halcoshowroom.com",
+        "source_url": "https://www.halcokb.com/",
+        "quote": "href=\"https://outlook.office365.com/book/InitialConsultation@halcoshowroom.com/\" aria-label=\"BOOK DISCOVERY CALL\"",
+        "seen": "2026-10-22",
+        "type": "shared",
+        "owner_match": false,
+        "mx": "halcoshowroom.com MX: 0 halcoshowroom-com.mail.protection.outlook.com. (Microsoft 365). Not a Null MX.",
+        "rank": 4
+      }
+    ],
+    "searched": [
+      "halcokb.com (Wix): all 70 sitemap pages plus /privacy-policy, /terms, /careers, /warranty (HTML checked for mailto, plain, [at]/(at), data-cfemail, JSON-LD email); no mailto or plain email, only the Bookings link; no social links in the site HTML",
+      "Facebook page (login wall on direct fetch; email confirmed via search snippets)",
+      "BBB profile (President Tim Procopio; email hidden behind 'Email this Business' form)",
+      "Houzz profile (no email; lists facebook.com/halcoshowroom, twitter.com/HalcoShowroom)",
+      "Yelp (blocked); Instagram, LinkedIn, Pinterest snippets (no email)",
+      "web.archive.org halcoshowroom.com Dec 2021 capture (empty)",
+      "searches: \"@halcokb.com\", \"halco@halcokb.com\", \"@halcoshowroom.com\", \"Tyler Procopio\" Halco email, \"324-6462\" email; RocketReach/ZoomInfo only show masked addresses (not counted)"
+    ],
+    "note": "Ranked by the owner-first rule, but halco@halcokb.com is the safest current choice: it is the company's own inbox on its main domain, shown on their Facebook page, Crunchbase, and in a Facebook group reply ('Give a call at 781.324.6462 or email halco@halcokb.com'). tyler@tproplumbing.com is Tyler Procopio's address from the FMCSA registration of HALCO SHOWROOM (DOT 3038634, 650 Broadway Malden), but it is on a plumbing company domain (T-Pro Plumbing), not Halco's. tim@halcoshowroom.com belongs to Tim Procopio (President per BBB) and comes from a 2020 archive of the old site. halcoshowroom.com now redirects to halcokb.com, but its Microsoft 365 MX is still live. The same 2020 archive also listed martha@, kelly@ and lisa@halcoshowroom.com (staff, Lisa at a Derry NH location); these are probably out of date. InitialConsultation@ is a Microsoft Bookings calendar mailbox used for the 'Book discovery call' button and may not be read. Social links found: facebook.com/halcokb, instagram.com/halcokitchenandbath, linkedin.com/company/halco-kb, pinterest.com/halcokitchenandbath, houzz.com/professionals/kitchen-and-bath-designers/halco-showroom-pfvwus-pf~1325881264, plus legacy facebook.com/halcoshowroom and twitter.com/HalcoShowroom."
+  }
+]

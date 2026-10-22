@@ -3,7 +3,7 @@
 contact channel and the email drafts), plus OUTREACH_100.csv with the same columns.
 Inputs: data/outreach_base.json (tools/outreach_base.py) and data/outreach_drafts_*.json (the drafts).
 Usage: build_outreach.py"""
-import csv, glob, json, re
+import csv, glob, json, os, re
 from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
@@ -63,6 +63,7 @@ def main():
     for f in sorted(glob.glob(f"{R}/data/outreach_drafts_*.json")):
         for d in json.load(open(f)):
             drafts[int(d["n"])] = d
+    over = json.load(open(f"{R}/data/email_overrides.json")) if os.path.exists(f"{R}/data/email_overrides.json") else {}
     rows = []
     for n in sorted(base):
         b, d = base[n], drafts.get(n, {})
@@ -82,6 +83,11 @@ def main():
             "key_issue": "; ".join(b["measured_defects"]) or (cd[0] if cd else ""),
             **{k: d.get(k, "") for k in ("subject", "email_body", "follow_up_1", "follow_up_2", "short_dm", "personalization_notes")},
             "check": check_note(n, b, d)})
+        o = over.get(str(n))
+        if o:  # emails found by the later search for firms whose first address bounced or was missing
+            rows[-1].update({"email": o["best"], "other_emails": ", ".join(o["others"]), "email_source": o["source"],
+                             "contact_form_url": "", "check": (o["note"] + " " + rows[-1]["check"].replace(
+                                 "No email on file: use the contact form, then the short message on Facebook or Instagram.", "")).strip()})
 
     wb = Workbook(); ws = wb.active; ws.title = "Outreach"
     ws.append([c[1] for c in COLS])

@@ -1,0 +1,20 @@
+{
+ "8":  {"best": "info@assemblyserviceil.com", "others": ["assemblysquadcustomerservice@gmail.com"],
+        "source": "https://www.assemblyserviceil.com/contact.html (page meta and JSON-LD on about 400 of their pages); Gmail address in JSON-LD and on facebook.com/assemblysquad",
+        "note": "Replaces info@assemblysquad.com, which bounced (that domain has a Null MX). assemblyserviceil.com has a working mail server."},
+ "12": {"best": "ajants@mcdonaldremodeling.com", "others": ["galsterlund@mcdonaldremodeling.com"],
+        "source": "https://www.mcdonaldremodeling.com/remodel-reveal ('To RSVP: email ajants@mcdonaldremodeling.com'); galsterlund@ from a 2023 archive of their contact page",
+        "note": "ajants@ is Amy Jants, designer and project manager; the email greets Chris, so ask her to pass it on or change the greeting. info@ was blocked by their Barracuda filter, which often blocks the sending mailbox, so send from a different warmed-up mailbox. galsterlund@ belongs to the former president and may be dead."},
+ "81": {"best": "steve@whitebirchdesignllc.com", "others": ["info@whitebirchdesignllc.com"],
+        "source": "City of Eagan permit EA188724 signed by Steve McDonald, Jan 2024 (https://eagandocs.cityofeagan.com/WebLink/DocView.aspx?id=2733565&dbid=0&repo=CityofEagan); info@ on facebook.com/whitebirchdesignllc",
+        "note": "On the permit scan the box cuts the address at 'whitebirchdesignllc.c'; the domain is theirs (Google Workspace MX). For zero risk send to info@ first."},
+ "82": {"best": "info@woodsman.biz", "others": ["careers@woodsman.biz"],
+        "source": "facebook.com/woodsmankitchensandfloors contact info; also hoorayfor904day.com and threebestrated.com; careers@ on woodsman.biz/openings-at-woodsman",
+        "note": "woodsman.biz mail runs on their own Exchange server (outlook.woodsman.biz). If it fails again, their server is likely down; use the phone or the short message on Facebook."},
+ "86": {"best": "halco@halcokb.com", "others": ["tim@halcoshowroom.com", "tyler@tproplumbing.com"],
+        "source": "facebook.com/halcokb and Crunchbase (halco@); tim@ from a 2020 archive of halcoshowroom.com (Tim Procopio, President per BBB); tyler@ from federal DOT record 3038634 for HALCO SHOWROOM",
+        "note": "halco@ is the safest current address (Microsoft 365). tim@ is the president's but from 2020; tyler@ is Tyler Procopio's address at his plumbing company. Socials found: facebook.com/halcokb, instagram.com/halcokitchenandbath, linkedin.com/company/halco-kb."},
+ "100": {"best": "rsonnek@sicora.com", "others": ["contactus@sicora.com"],
+        "source": "mn.gov resource listing, Nextdoor and a Houzz comment by Ron Sonnek; contactus@ on sicora.com case study pages ('Email us at: contactus@sicora.com')",
+        "note": "sicora.com does accept mail (Microsoft 365; its MX starts with priority 0, which some checkers misread as no mail)."}
+}
