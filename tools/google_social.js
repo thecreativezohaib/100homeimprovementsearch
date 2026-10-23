@@ -35,7 +35,8 @@ async function search(p, q) {
   let [ctx, p] = await newCtx(b); let n = 0;
   for (const c of todo) {
     const rec = { id: c.id, name: c.name, searched: new Date().toISOString(), queries: {} };
-    const qs = {
+    // MODE=one: a single name + city search (usually returns Facebook, Instagram, Yelp and BBB together); slower pacing
+    const qs = process.env.MODE === 'one' ? { all: `"${c.name}" ${c.city || ''}` } : {
       facebook: `"${c.name}" ${c.city || ''} facebook`,
       instagram: `"${c.name}" ${c.city || ''} instagram`,
       email: `"${c.name}" ${c.city || ''} email OR "@gmail.com" OR contact`,
@@ -45,10 +46,10 @@ async function search(p, q) {
       for (let attempt = 0; attempt < 3; attempt++) {
         try { r = await search(p, q); } catch (e) { r = { blocked: false, results: [], error: String(e).slice(0, 100) }; }
         if (!r.blocked) break;
-        console.error('blocked; pausing', c.id); await ctx.close(); await sleep(240000 * (attempt + 1)); [ctx, p] = await newCtx(b);
+        console.error('blocked; pausing', c.id); await ctx.close(); await sleep(600000 * (attempt + 1)); [ctx, p] = await newCtx(b);
       }
       rec.queries[k] = { q, ...r };
-      await sleep(3000 + Math.random() * 3000);
+      await sleep((parseInt(process.env.DELAY || '4000')) + Math.random() * 6000);
     }
     const all = Object.values(rec.queries).flatMap(x => x.results || []);
     rec.facebook = [...new Set(all.map(x => x.url).filter(u => /facebook\.com\/(?!sharer|groups|events|watch|share)/i.test(u)))];
