@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Round 2, second one-file Gemini long task: output/round2/gemini/GEMINI_R2_TASK2.md.
-Gate B screens the second Maps pool (data/r2/mapsb_out*.jsonl) with the gate A rules: listing found and open, no
+Gate B screens the second Maps pool (data/r2/mapsb_out*.jsonl) and the first-pool listings gate A rejected with the gate A rules: listing found and open, no
 website or only a Facebook/Instagram/Linktree link, a kitchen and bath category (or a general contractor category with
 kitchen, bath, cabinet, countertop, tile, shower or tub in the name), 5 or more Google reviews (gate A asked for 15;
 Facebook and Instagram fill in the content), and a phone number not already in round 2. New firms get row numbers from 1001 up (data/r2/gemini_rowmap_b.json).
@@ -93,7 +93,10 @@ rows += [a_row(x["row"], "B") for x in verd["dead_site_no_email"]]
 
 # gate B
 used_phones = {digits(g.get("phone")) for g in gate_a.values()}
-recs = [json.loads(l) for f in sorted(glob.glob(f"{D}/mapsb_out*.jsonl")) for l in open(f) if l.strip()]
+# the second pool, plus first-pool listings that only missed gate A on the stricter rules
+recs = [json.loads(l) for f in sorted(glob.glob(f"{D}/mapsb_out*.jsonl")) + sorted(glob.glob(f"{D}/maps_out*.jsonl"))
+        for l in open(f) if l.strip()]
+recs = [m for m in recs if m["id"] not in gate_a]
 gb = []
 for m in recs:
     if m.get("error") or not m.get("title") or m.get("permanently_closed"):
