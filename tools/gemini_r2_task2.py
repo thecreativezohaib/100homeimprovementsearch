@@ -113,11 +113,13 @@ for m in recs:
     gb.append(m)
 gb.sort(key=lambda m: (0 if (m["fb"] or m["ig"]) else 1, -m["reviews_count"]))
 json.dump(gb, open(f"{D}/gateB.json", "w"))
+# service-area listings show no address; fall back to the town the Maps search was run in
+search_town = {x["id"]: x.get("location") for f in ("pool.json", "pool_b.json") for x in json.load(open(f"{D}/{f}"))}
 rowmap_b = {}
 for i, m in enumerate(gb):
     row = str(1001 + i)
     rowmap_b[row] = m["id"]
-    rows.append({"row": row, "task": "C", "business_name": m["title"], "town": town(m.get("address"), m.get("service_area")),
+    rows.append({"row": row, "task": "C", "business_name": m["title"], "town": town(m.get("address"), m.get("service_area")) or search_town.get(m["id"]) or "",
                  "phone": phone(m.get("phone")), "address": clean_addr(m.get("address")), "google_maps": m["maps_url"],
                  "known_facebook": m["fb"] or "none", "known_instagram": m["ig"] or "none", "known_email": "none",
                  "dead_website": "none"})
