@@ -114,7 +114,7 @@ Traditional, transitional and European designs, all in one place. The company of
 
 Yes. Modern Design Center designs, remodels, renovates and builds both kitchens and bathrooms. Bathroom options include vanities in painted and wood finishes and wall finishes like marble-look panels and wood slats. Call to talk through the bathroom you have in mind.
 
-**Where are you and when are you open?**
+**Where is Modern Design Center and what are the hours?**
 
 912 Haddonfield Rd B, Cherry Hill Township, NJ 08002. Hours are Monday to Friday 10 AM to 5 PM, Saturday 10 AM to 3 PM and Sunday 11 AM to 4 PM. Call (856) 288-1300 before you visit if you want to set aside time with a designer.
 

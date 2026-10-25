@@ -182,7 +182,7 @@ https://www.google.com/maps/place/?q=place_id:ChIJAQBEOTuHT4YR-GyLN4ILpeg&hl=en
 - Name, category Bathroom remodeler, phone +1 254-523-5754, no address or service area (Google Maps)
 - 4.7 rating from 13 reviews; review topics tub refinishing 5, warranty 2, promptness 2 (Google Maps)
 - Hours Mon to Fri 8 AM to 5 PM (Google Maps)
-- Woodway; refinish bathtubs, tiles, countertops and vanities (Facebook About via Gemini)
+- Woodway; 1,242 likes; refinish bathtubs, tiles, countertops and vanities (Facebook About via Gemini)
 - Central TX area resurfacing company; lead tech (Facebook post https://www.facebook.com/bjrefinishing254/posts/now-hiring-a-helper-for-a-resurfacing-company-in-the-central-tx-area-must-have-d/704327641697867/)
 - Tile refinishing, no demo, done within 2 days or less, 5 year warranty (Facebook post https://www.facebook.com/bjrefinishing254/posts/tile-refinishing-can-save-you-tons-on-a-project-no-demo-or-ripping-out-we-can-ha/2478423899069635/)
 - 'DONT replace it REFINISH IT!!' many colors, 5 year warranty on most work (Facebook post https://www.facebook.com/bjrefinishing254/posts/dont-replace-it-refinish-it-many-colors-to-choose-from-and-5-year-warranty-on-mo/2478420132403345/)

@@ -69,13 +69,13 @@ Every new project starts with demolition. The crew clears out old kitchens, bath
 
 **Clear, organized communication.** Reviewers describe clear communication, well organized work and a team that handles challenges professionally. Clean work areas come up in Google reviews as well.
 
-**25 reviews, all five stars.** Every Google review is five stars. Bathroom remodels, decking and recommendations to other homeowners are the topics clients mention most often.
+**25 reviews, all five stars.** All 25 of DG's Google reviews give five stars. Bathroom remodels, decking and recommendations to other homeowners are the topics clients mention most often.
 
 ## Meet Dennis and the DG crew
 
 DG Home Improvement LLC is a Pennsylvania remodeling company run by Dennis, whose name and number are on the company's posts and in its reviews. Kirill works alongside him on site. The crew handles kitchens, bathrooms, decks, balconies and demolition, and also offers special pricing to investors and construction companies. The company describes itself as fully insured and OSHA safety trained. Its motto says it all: the quality will remain long after the price is forgotten. Some of its recent finished projects were for returning customers.
 
-_Dennis, Runs the company and leads the crew_
+_Dennis, Leads the DG crew_
 
 ![DG Home Improvement logo, orange and white DG monogram on gray with /PA](images/cover.jpg)
 

@@ -101,7 +101,7 @@ Slate-look tile floor at an entry
 
 ## Bathroom Remodeling in Greenville, MS
 
-Watson Construction is based at 700 Sewanee St in Greenville, Mississippi, and its Facebook page names Greenville as its home. Google does not publish a wider service area. If you live outside Greenville, call (662) 703-1991 to ask whether your project is within reach before you set up a free estimate. The work is done at your home, whether it is one bathroom floor or a full remodel.
+Watson Construction is based at 700 Sewanee St in Greenville, Mississippi, and its Facebook page names Greenville as its home. No wider service area is listed on Google. If you live outside Greenville, call (662) 703-1991 to ask whether your project is within reach before you set up a free estimate. The work is done at your home, whether it is one bathroom floor or a full remodel.
 
 Towns: Greenville
 
@@ -120,7 +120,7 @@ Watson Construction is listed on Google as a bathroom remodeler. Its online list
 The company's Facebook page says Watson Construction has over 20 years of experience. The founding year is not published, so if that matters to you, ask when you call, along with a few recent projects in Greenville you could look at.
 
 **Are you licensed and insured?**  
-Licence and insurance details are not published on Google or Facebook. Ask for the contractor's licence number and proof of insurance before signing, which is a good habit for any bathroom remodel or tile project, whoever you hire. Keep copies with your contract.
+Watson has not posted a licence number or insurance details online yet. Ask for the contractor's licence number and proof of insurance before signing, which is a good habit for any bathroom remodel or tile project, whoever you hire. Keep copies with your contract.
 
 ## Get a Free Estimate on Your Bathroom
 

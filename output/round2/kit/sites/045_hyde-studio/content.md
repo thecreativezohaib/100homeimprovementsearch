@@ -143,7 +143,7 @@ Landon, the owner and operator. Reviewers name him directly and describe him as 
 
 Monday to Thursday 9 AM to 6 PM, Friday 7 AM to 6 PM and Saturday 9 AM to 6 PM. Hyde Studio is closed on Sunday. Saturday hours make it easier to meet if you work during the week.
 
-**How do I get a price?**
+**How does Landon price a job?**
 
 Call (405) 551-5386 and describe the project. Landon will look at the space and give you a price. Reviewers describe the prices as very fair and say jobs start and finish on time. If you have several small jobs, list them all so they can be done together.
 

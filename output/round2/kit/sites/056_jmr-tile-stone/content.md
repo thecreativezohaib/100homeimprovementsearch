@@ -26,7 +26,7 @@ Justin Reynaga, owner and tile installer, builds showers, bathrooms and tile flo
 
 JMR Tile & Stone is an Inland Empire tile contractor run by Justin Reynaga, who is both the owner and the person setting your tile. He has more than 25 years of experience with showers, tub surrounds, floors and full bathroom remodels.
 
-What reviewers notice is how he runs a job. He helps with decisions along the way, checks in with updates, and stays on budget and on the timeline he gives. One family's 5-day living and dining room tile job was kept clean the whole time. A Lake Arrowhead realtor sends clients his way. Another says they will recommend him and use him again for their next tile project.
+What reviewers notice is how he runs a job. He helps with decisions along the way, checks in with updates, and customers say he stayed on budget and on the timeline he gave. One family's 5-day living and dining room tile job was kept clean the whole time. Another family hired him on their Lake Arrowhead realtor's recommendation, and one customer plans to use him again for the next tile project.
 
 ## Tile work we do
 

@@ -17,7 +17,7 @@ Kelly and his team gut and rebuild kitchens and bathrooms: moving walls and appl
 
 [Call (636) 697-0380](tel:+16366970380)  |  [Tell Kelly about your project](#contact)
 
-Trust badges: 5.0 stars from 8 Google reviews · Kelly does the work himself · Demo through final install · 35 photos on Google
+Trust badges: 5.0 stars from 8 Google reviews · Run by Kelly, named in every review · Demo through final install · 35 photos on Google
 
 Image: `images/maps_03.jpg` (Kitchen and bath remodeling by Kelly's Kitchen and Bath: white shaker kitchen with subway tile backsplash, black range hood, island and pendant lights)
 

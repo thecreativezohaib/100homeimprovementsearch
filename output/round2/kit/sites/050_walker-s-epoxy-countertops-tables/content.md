@@ -2,7 +2,7 @@
 
 ## SEO
 
-- **Title tag:** Epoxy Countertops Canonsburg, PA | Walker's Epoxy Tops
+- **Title tag:** Custom Epoxy Countertops Canonsburg, PA | Walker's Epoxy
 - **Meta description:** Epoxy countertops Canonsburg homeowners use to refresh dated kitchens and vanities for a fraction of new stone: custom marble looks, bar tops, floors.
 - **Primary keyword:** epoxy countertops Canonsburg
 - **Secondary keywords:** countertop resurfacing Canonsburg PA, epoxy countertop refinishing Pittsburgh area, granite countertop resurfacing Canonsburg, epoxy vanity top Canonsburg, epoxy bar top Canonsburg, epoxy floors Canonsburg PA

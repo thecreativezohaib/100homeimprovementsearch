@@ -31,7 +31,7 @@ Wolston Tile Designs is a family owned company offering tile installation in Dun
 
 Reviewers keep describing the same habits. The crew starts when they say they will and does not overbook. They keep a very neat workspace and work to keep demolition dust out of the rest of the house. And the price at the end matches the original contract. One customer names Erik and Jennifer and calls them true artists.
 
-## Tile Work in and Around Duncan
+## Tile Work by Wolston
 
 ### Custom tile showers
 
@@ -131,7 +131,7 @@ Yes. A June 2026 Facebook post shows a finished custom shower that the homeowner
 **How messy is tile demolition?**  
 Tearing out old tile is dusty work, but reviewers say Wolston pays close attention to keeping dust from getting into everything and keeps a very neat workspace. Ask how they will protect the rest of your home before demolition begins on your project.
 
-**Are estimates free, and are you insured?**  
+**Do you give free estimates or a warranty?**  
 Free estimates, insurance, warranty terms and years in business are not published on Google or Facebook, so ask when you call. Reviewers do say the final price matched the original contract and that the prices were very fair. Get your contract in writing before work starts.
 
 ## Plan Your New Shower or Backsplash
