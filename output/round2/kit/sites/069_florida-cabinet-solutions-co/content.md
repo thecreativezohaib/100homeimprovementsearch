@@ -88,7 +88,7 @@ Florida Cabinet Solutions Co. is a kitchen remodeler on SW 336th St in Homestead
 ## How your kitchen remodel works
 
 1. **Call or message**: Call (786) 253-4556 any day from 8 AM to 8 PM, or email, and tell the team about your kitchen or bathroom.
-2. **Tell us what you want**: The team listens to what you and your family want in the kitchen, the way one reviewer describes Mr. Alejandro doing for him and his wife.
+2. **Share what you want**: The team listens to what you and your family want in the kitchen, the way one reviewer describes Mr. Alejandro doing for him and his wife.
 3. **Design the kitchen**: Work through cabinet style, hood, island and countertops, from Italian to classical designs, with ideas from the team along the way.
 4. **Build and install**: The crew installs cabinets, hood and tops with attention to detail. One reviewer says they are on point and finish the work on time.
 5. **Enjoy the new kitchen**: Walk through the finished kitchen together. One reviewer simply wrote that they couldn't be happier with their new kitchen.

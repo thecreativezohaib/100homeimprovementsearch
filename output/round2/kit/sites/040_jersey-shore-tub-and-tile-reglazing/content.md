@@ -78,7 +78,7 @@ _AI image `ai_service_kitchen_backsplash.jpg`: Illustration: kitchen with a glos
 
 Jersey Shore Tub and Tile Reglazing is a Toms River business run by Denis, who has spent more than 13 years in the reglazing profession. He refinishes bathtubs, shower pans and tile so homeowners can change a color or fix a worn surface without tearing out the bathroom. After that long in the trade, as he puts it, there is not much he has not seen. The company is licensed in New Jersey under 13VH12234300. Reviewers describe him as honest and fair, and his Facebook page shows the jobs he enjoys most, from cast iron tubs to the occasional kitchen backsplash.
 
-Owner: Denis, Owner
+Named person: Denis, Owner
 
 ![Oval drop-in soaking tub refinished in a bone finish, surrounded by gray wall and floor tile](images/social_04.jpg)
 

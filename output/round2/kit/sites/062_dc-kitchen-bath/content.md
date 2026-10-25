@@ -106,7 +106,7 @@ DC Kitchen & Bath, listed on Facebook as DC Kitchen & BATH INC, is a kitchen and
 >
 > Julia, Google, 4 years ago
 
-## Visit us in Westbury, New York
+## Visit the showroom in Westbury, New York
 
 DC Kitchen & Bath works from its showroom at 896 Old Country Rd, Westbury, NY 11590. Westbury is the town on its Google profile and on its Facebook page, which describes the business as kitchen and bathroom cabinets and countertops near Westbury. If you are planning a kitchen or bath project nearby, stop in during opening hours or call (516) 280-7988 to ask about your home.
 

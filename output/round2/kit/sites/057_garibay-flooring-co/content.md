@@ -24,9 +24,9 @@ Garibay Flooring Co installs new floors and takes on remodel work from its locat
 
 ## Quick quotes, on-time crews, no gaps in the work
 
-Garibay Flooring Co handles flooring installation in Brenham from its location at 2406 S Chappell Hill St, and its logo promises remodel work too. Some customers have used the team for years, and at least one found Mr. Garibay through a neighbor's recommendation.
+Garibay Flooring Co handles flooring installation in Brenham from its location at 2406 S Chappell Hill St, and its logo promises remodel work too. Word of mouth matters here: one homeowner hired Mr. Garibay on a neighborhood friend's recommendation, and another family has used the team for many years.
 
-One homeowner had Mr. Garibay at her door the day after she called and a quote the next morning. She accepted on Friday, work began Monday, and the floor was done by noon Tuesday, with painting and furniture moving included in the price. Another family says the team always does a fantastic job and is extremely punctual.
+That first homeowner had Mr. Garibay at her door the day after she called and a quote the next morning. She accepted on Friday, work began Monday, and the floor was done by noon Tuesday, with painting and furniture moving included in the price. The longtime customers say the team is extremely punctual and respectful of their time.
 
 ## Flooring installation in Brenham and remodel work
 
@@ -68,7 +68,7 @@ One family says they have worked with Garibay for many years and the team always
 
 ## About Garibay Flooring Co
 
-Garibay Flooring Co is a flooring and remodeling company at 2406 S Chappell Hill St in Brenham, Texas. Reviewers deal directly with Mr. Garibay, who comes out to see the rooms, writes the quote and shows up when he says he will. Some families have used the company for years. Besides installing floors, Garibay sells flooring material with installation and has offered unusual options like natural sea grass carpet. The team also gets involved beyond the job site: in 2025 it ran the silent auction for the Top Floor Cars & Ram Optical Car Show.
+Garibay Flooring Co is a flooring and remodeling company at 2406 S Chappell Hill St in Brenham, Texas. Reviewers deal directly with Mr. Garibay, who comes out to see the rooms, writes the quote and shows up when he says he will. One family has used the company for many years. Besides installing floors, Garibay sells flooring material with installation and has offered unusual options like natural sea grass carpet. The team also gets involved beyond the job site: in 2025 it ran the silent auction for the Top Floor Cars & Ram Optical Car Show.
 
 - Owner: Mr. Garibay (Owner (inferred from the business name and reviews))
 - Image: images/maps_01.jpg (alt: Light oak floor boards being laid over the subfloor during a Garibay Flooring Co installation)

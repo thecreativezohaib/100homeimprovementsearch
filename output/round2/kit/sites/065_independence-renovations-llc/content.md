@@ -58,7 +58,7 @@ Image: images/maps_01.jpg (alt: Covered patio with a metal roof, wood posts and 
 
 ### Customers come back
 
-Reviewers describe multiple projects on the same house and call Nick their go-to. One says he has done all the work in his home and his barbershop.
+Reviewers describe multiple projects on the same house, and one calls Nick their go-to. Another says he has done all the work in his home and his barbershop.
 
 ### One contractor, many trades
 

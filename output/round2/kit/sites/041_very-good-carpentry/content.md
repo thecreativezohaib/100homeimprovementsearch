@@ -83,7 +83,7 @@ The shop also builds one-off pieces: a matching dining table and bench in solid 
 
 Very Good Carpentry LLC is a Lafayette remodeling company. Josh Romero is the company's main contact and leads the crew on site, and reviewers also mention Matt by name. The team brings 15 years of experience in construction and remodeling and focuses on full bathroom and kitchen remodels. Between remodels, the shop builds furniture and woodwork in mahogany, white oak, walnut and zebra wood, which explains the care that goes into every vanity and niche. The company's promise is simple: excellent communication, craftsmanship and cleanliness.
 
-Owner: Josh Romero, Main contact and crew lead
+Named person: Josh Romero, Main contact and crew lead
 
 ![White square soaking tub with a brushed brass shower wand and a stone-look wall niche](images/maps_10.jpg)
 

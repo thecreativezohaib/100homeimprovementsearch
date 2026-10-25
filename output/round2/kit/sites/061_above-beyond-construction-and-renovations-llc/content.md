@@ -93,7 +93,7 @@ Above & Beyond Construction and Renovations LLC is a remodeling company based on
 4. **Build**: The team handles the work, from walls and drywall to cabinets, counters, floors, paint and lighting, and reviewers note how fast they work.
 5. **Final walkthrough**: Walk the finished rooms with Nathan and point out anything you want adjusted before the job is closed out.
 
-## Recent kitchen work
+## Kitchens by Above & Beyond
 
 - images/maps_01.jpg: White kitchen with a large island and stacked stone column (alt: White raised-panel kitchen with large island, three glass pendant lights, arabesque tile backsplash and dark wood floors)
 - images/maps_03.jpg: Gray shaker cabinets with a white peninsula (alt: Gray shaker kitchen with stainless chimney hood, white tile backsplash and pendant lights over a peninsula)

@@ -93,7 +93,7 @@ Dynasty Home Improvement LLC is a bathroom remodeler based on Windham Ave in Col
 4. **Build and finish**: The crew handles demolition, subfloor repair, tile, fixtures and finishing, and keeps the house clean throughout the job.
 5. **Final look**: Walk through the finished room with David. Reviewers say he follows through with what was promised.
 
-## Recent bathrooms and kitchens
+## Bathrooms and kitchens by Dynasty
 
 - images/maps_03.jpg: Walk-in shower with pebble floor and niche (alt: Bathroom with walk-in shower, white marble-look wall tile, pebble shower floor and white shaker cabinets)
 - images/maps_02.jpg: White shaker kitchen with marble-look counters (alt: White kitchen with marble-look counters, sink under a window and herringbone tile backsplash)

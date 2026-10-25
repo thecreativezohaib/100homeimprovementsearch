@@ -68,11 +68,11 @@ Image: images/maps_01.jpg (alt: White painted kitchen cabinets with granite coun
 
 ### Help choosing colors
 
-Customers credit Chuck with suggestions on colors. One homeowner says his advice on paint colors created amazing results throughout their Cape Cod style home.
+One homeowner credits Chuck with help choosing paint colors, saying his suggestions created amazing results when the crew painted the inside of their Cape Cod style home.
 
 ### Honest and trustworthy
 
-Trustworthy comes up again and again. Reviewers call Chuck and Mike men of goodwill, and describe the crew as honest, polite, diligent and conscientious.
+Trustworthy comes up in more than one review. Reviewers call Chuck and Mike men of goodwill, and describe the crew as honest, polite, diligent and conscientious.
 
 ### Finished in a timely way
 
