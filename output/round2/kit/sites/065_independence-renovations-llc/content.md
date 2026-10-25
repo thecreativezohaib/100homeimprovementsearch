@@ -65,7 +65,7 @@ Image: `images/maps_01.jpg` (alt: Covered patio with a metal roof, wood posts an
 
 ## About Nick and Independence Renovations
 
-Independence Renovations LLC. is a remodeling company on N Charlotte St in Pottstown, Pennsylvania, run by Nick. One customer who has known him his whole life credits Nick's construction background, and says he does it all. On Facebook the company describes itself in its own words: quality craftsmanship, honest pricing, a name you can trust to get the job done right the first time, specializing in bathroom and kitchen renovations. The German shepherd on their logo fits the reviews: loyal customers who keep calling Nick back.
+Independence Renovations LLC. is a remodeling company on N Charlotte St in Pottstown, Pennsylvania, where customers work directly with Nick. One customer who has known him his whole life credits Nick's construction background, and says he does it all. On Facebook the company describes itself in its own words: quality craftsmanship, honest pricing, a name you can trust to get the job done right the first time, specializing in bathroom and kitchen renovations. The German shepherd on their logo fits the reviews: loyal customers who keep calling Nick back.
 
 Owner: Nick, Contractor named in every captured review; last name and formal title not published
 
