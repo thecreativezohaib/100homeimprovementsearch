@@ -20,7 +20,7 @@ Top Notch Granite is Fredrick's countertop crew: they come out to measure, give 
 - Button: Call (601) 540-0755 (tel:+16015400755)
 - Button: Ask for a granite quote (#contact)
 - Trust badges: 5.0 stars from 10 Google reviews | Owner-led: Fredrick and his crew | Reviewers praise promptness
-- Image: images/social_01.jpg (alt: Granite countertops in Florence: white and grey granite island and full-height granite backsplash with dark lower and white upper cabinets)
+- Image: images/social_01.jpg (alt: Granite countertops, Florence installer Top Notch: white and grey granite island and full-height granite backsplash with dark lower and white upper cabinets)
 
 ## Granite done right, by people you will recommend
 

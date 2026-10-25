@@ -54,7 +54,7 @@ Cabinets that make use of every wall, from tall pantry towers around the refrige
 
 ### Countertops and backsplashes
 
-Stone countertops with bold veining or a quiet leathered finish, paired with subway tile or patterned backsplashes. The same choices carry into bathrooms too, like a vanity top with black and white swirled stone.
+Stone countertops with bold veining or a quiet dark matte finish, paired with subway tile or mosaic backsplashes. The same choices carry into bathrooms too, like a vanity top in black and white swirled stone shown in our gallery below.
 
 ![White kitchen with grey and white granite countertops, stainless appliances and mosaic backsplash](images/maps_03.jpg)
 
@@ -89,7 +89,7 @@ The Expert Touch, Total Home Improvements, is a remodeling company with a showro
 
 ## Recent kitchens and bathrooms
 
-- ![Long navy kitchen island with dark leathered stone top, leather bar stools and three glass pendants](images/maps_01.jpg)  
+- ![Long navy kitchen island with dark matte stone top, leather bar stools and three glass pendants](images/maps_01.jpg)  
   Navy island kitchen with black farmhouse sink
 - ![White shaker kitchen with cooktop in a swirled stone island and tall pantry cabinets](images/maps_02.jpg)  
   White kitchen with swirled stone island
@@ -148,7 +148,7 @@ Yes. Financing is offered through a link on The Expert Touch Instagram profile. 
 
 **Do you do both kitchens and bathrooms?**
 
-Yes. Kitchens and bathrooms are the core of the business, and the reviews mention bathroom renovations more than anything else, followed by kitchen remodels. We also handle custom cabinets, countertops, backsplashes, flooring and general home repairs and improvements.
+Yes. Kitchens and bathrooms are the core of the business, and the reviews mention bathroom renovations more than anything else, followed by kitchen remodels. We also handle custom cabinets, countertops, backsplashes, flooring and the general home repairs and improvements listed on the sign outside our showroom.
 
 **Who will I work with?**
 
@@ -219,4 +219,4 @@ Socials: https://www.facebook.com/people/The-Expert-Touch/100057405493125/, http
 - Towns served beyond Toms River
 - Instagram URL built from the handle @the_expert_touch reported by Gemini; confirm it
 - Gemini's one 'review' for this business is unrelated web text and was not used
-- Two of three quoted reviews keep their original punctuation, including one em dash
+- One quoted review contains an em dash; it is kept because reviews are quoted exactly

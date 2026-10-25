@@ -20,7 +20,7 @@ T & A Cabinet Shop builds kitchen cabinets in its own Soddy-Daisy shop, measures
 - Button: Call (423) 332-5635 (tel:+14233325635)
 - Button: Ask about your cabinet project (#contact)
 - Trust badges: Cabinets built in our Soddy-Daisy shop | Showroom at 148 Bean St | Open Monday to Friday
-- Image: images/social_02.jpg (alt: Custom cabinets in Soddy-Daisy: white inset kitchen cabinets with glass uppers, a stained wood island, wood range hood and wood beams)
+- Image: images/social_02.jpg (alt: Custom cabinets, Soddy-Daisy cabinet shop T & A: white inset kitchen cabinets with glass uppers, a stained wood island, wood range hood and wood beams)
 
 ## A working cabinet shop, not just a catalogue
 

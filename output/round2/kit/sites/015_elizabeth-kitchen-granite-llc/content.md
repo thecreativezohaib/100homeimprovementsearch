@@ -20,7 +20,7 @@ Elizabeth Kitchen & Granite designs kitchens, supplies cabinets, and fabricates 
 - Button: Call (908) 662-9512 (tel:+19086629512)
 - Button: Plan your kitchen with us (#contact)
 - Trust badges: 4.8 stars from 19 Google reviews | 15+ years fabricating stone | Latino-owned business | Open Monday to Saturday
-- Image: images/maps_01.jpg (alt: Kitchen remodeling in Elizabeth: two-tone navy and light grey shaker cabinets, white quartz counters, hexagon tile backsplash and gold pulls)
+- Image: images/maps_01.jpg (alt: Kitchen remodeling, Elizabeth showroom: two-tone navy and light grey shaker cabinets, white quartz counters, hexagon tile backsplash and gold pulls)
 
 ## Cabinets and stone under one roof
 

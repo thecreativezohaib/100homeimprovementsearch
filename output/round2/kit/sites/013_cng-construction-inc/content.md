@@ -20,7 +20,7 @@ CNG Construction Inc rebuilds bathrooms from the studs up, with new tile, shower
 - Button: Email CNG Construction (mailto:cngconstructioninc@gmail.com)
 - Button: Request an estimate (#contact)
 - Trust badges: 5.0 stars from 27 Google reviews | Owner-led: Craig works on the jobs | Known for on-time starts and quick completion
-- Image: images/maps_05.jpg (alt: Bathroom remodeling in Buffalo: white subway tile shower with river rock floor and niche, black sliding glass door and white vanity)
+- Image: images/maps_05.jpg (alt: Bathroom remodeling, Buffalo remodeler CNG Construction: white subway tile shower with river rock floor and niche, black sliding glass door and white vanity)
 
 ## Bathrooms done right, start to finish
 

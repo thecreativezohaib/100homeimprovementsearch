@@ -20,7 +20,7 @@ M & L Countertops & More measures, fabricates, delivers and installs laminate an
 - Button: Call (309) 792-1886 (tel:+13097921886)
 - Button: Ask for a countertop quote (#contact)
 - Trust badges: Measure, fabricate, deliver and install | Laminate and several brands of solid surface | Shop at 3919 17th St, East Moline
-- Image: images/social_01.jpg (alt: New countertops in East Moline: white marble-look laminate countertop with a stainless double-bowl sink and matching backsplash)
+- Image: images/social_01.jpg (alt: Countertops, East Moline shop M & L: white marble-look laminate countertop with a stainless double-bowl sink and matching backsplash)
 
 ## Countertops made and fitted by one East Moline shop
 

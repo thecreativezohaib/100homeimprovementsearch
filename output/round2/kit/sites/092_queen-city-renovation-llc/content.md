@@ -7,7 +7,7 @@
 - Primary keyword: bathroom remodeling Mint Hill NC
 - Secondary keywords: tile shower installation Mint Hill, master bathroom renovation Charlotte NC, marble shower remodel Charlotte, bathroom vanity installation Mint Hill, fireplace refacing Mint Hill NC, bathroom flooring Charlotte NC
 - OG title: Queen City Renovation | Bathroom Remodeling in Mint Hill, NC
-- OG description: Primary bathrooms rebuilt from the studs: marble showers, tile niches, freestanding tubs and new vanities. Rated 5.0 from 15 Google reviews.
+- OG description: Primary bathrooms remodeled with marble showers, tile niches, freestanding tubs and new vanities. Rated 5.0 from 15 Google reviews.
 
 ## Hero
 
@@ -15,7 +15,7 @@
 
 # Bathroom Remodeling in Mint Hill, NC
 
-Max and his crew turn dated primary bathrooms into marble and tile showers, freestanding tub corners and new vanities, with tidy job sites and honest budgets.
+Max and his crew turn dated primary bathrooms into marble and tile showers, freestanding tub corners and new vanities, with tidy job sites and budgets that hold.
 
 [Call or text (704) 989-3052](tel:+17049893052)  |  [Request an estimate](#contact)
 
@@ -25,7 +25,7 @@ Hero image: `images/maps_01.jpg` (Primary bathroom with freestanding tub, glass-
 
 ## Showers and tile that make the whole bathroom
 
-Queen City Renovation focuses on bathroom remodeling in Mint Hill, NC and around Charlotte. Most of our work starts with a tired primary bath: a fiberglass shower shell, beige floor tile, a builder vanity. We take it down and rebuild it with marble, porcelain and custom niches.
+Queen City Renovation focuses on bathroom remodeling in Mint Hill, NC and around Charlotte. A typical project in our photos starts with a tired primary bath: a fiberglass shower shell and beige floor tile. We take it out and rebuild the room with marble, porcelain and custom niches.
 
 Tile is the word that comes up most in our Google reviews, seven times so far. Homeowners also notice how we work. We prep the house before the job starts, clean up at the end of each day, stay on budget and give straight advice when you ask for it, which is why some clients hire us again.
 

@@ -20,7 +20,7 @@ New Again is a small Chico kitchen remodeler with a showroom of granite, quartz,
 - Button: Call (530) 899-2888 (tel:+15308992888)
 - Button: Plan your kitchen (#contact)
 - Trust badges: Showroom at 1108 Mangrove Ave, Chico | Granite, quartz, cabinets and tile | Open Saturdays 9 AM to 3 PM
-- Image: images/maps_01.jpg (alt: Kitchen remodeling in Chico: grey beadboard cabinets, marble-look quartz island with rope-twist post, subway tile backsplash and copper faucet)
+- Image: images/maps_01.jpg (alt: Kitchen remodeling, Chico remodeler New Again: grey beadboard cabinets, marble-look quartz island with rope-twist post, subway tile backsplash and copper faucet)
 
 ## A Chico kitchen shop where you can see it all first
 

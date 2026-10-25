@@ -3,7 +3,7 @@
 ## SEO
 
 - Title tag: Local Home Remodeling in Warren, PA | Wills Builders
-- Meta description: Home remodeling in Warren, PA by the Wills Builders crew: kitchens, baths, flooring, porches and siding from our office on Pennsylvania Ave W. Call (814) 723-4190.
+- Meta description: Home remodeling in Warren, PA by the Wills Builders crew: kitchens, baths, flooring, porches and siding from our Warren office. Call (814) 723-4190.
 - Primary keyword: home remodeling Warren PA
 - Secondary keywords: kitchen remodeling Warren PA, bathroom remodeling Warren PA, porch builder Warren PA, vinyl siding contractor Warren PA, flooring installation Warren PA, general contractor Warren Pennsylvania
 - OG title: Wills Builders | Home Remodeling in Warren, PA
@@ -25,9 +25,9 @@ Hero image: `images/maps_01.jpg` (Remodeled front porch with stone veneer column
 
 ## A Warren crew that shows up and gets it done
 
-Wills Builders does home remodeling in Warren, PA, out of an office on Pennsylvania Avenue West. Our motto says it plainly: satisfied customers are our best ads. Most of our work comes from people who have seen a porch, a siding job or a remodel we did for a neighbor.
+Wills Builders does home remodeling in Warren, PA, out of an office on Pennsylvania Avenue West. Our motto says it plainly: satisfied customers are our best ads. We want every porch, siding job and remodel to be one your neighbors notice.
 
-One reviewer put it this way: she had seen the remodeling work we did for other people, called it amazing, and noted that we are timely in starting and completing projects. Another simply calls us a great company for all your building needs. You will recognize our crew by the navy Wills Builders shirts and the white trailer.
+One reviewer put it this way: she had seen the remodeling work we did for other people, called it amazing, and noted that we are timely in starting and completing projects. Another simply calls us a great company for all your building needs. You will recognize our crew by the navy Wills Builders shirts and the white company trailer parked out front.
 
 ## Home remodeling services in Warren, PA
 
@@ -45,7 +45,7 @@ Image: `images/social_03.jpg` (Single-story house with new gray vinyl siding, wh
 
 ### Kitchen remodeling
 
-Google lists Wills Builders as a kitchen remodeler, and kitchens are part of the remodeling work our crew takes on in Warren. Call to talk about cabinets, countertops and layout changes, and ask to see examples of kitchens we have finished nearby.
+Google lists Wills Builders as a kitchen remodeler, and kitchens are part of the remodeling work our crew takes on in Warren. Call to talk about cabinets, countertops and layout changes for your kitchen, and we will come out to look at the space with you.
 
 ### Bathrooms, countertops and flooring
 
@@ -61,7 +61,7 @@ Image: `images/maps_02.jpg` (Wills Builders crew working outside a brick and woo
 
 **On time, start to finish**: A Google reviewer says we are timely in starting and completing projects, and that the work she has seen us do for other people is amazing.
 
-**A real local crew**: Our team works out of 1513 Pennsylvania Ave W in Warren. You will see the same faces in navy Wills Builders shirts on your job.
+**A real local crew**: Our team works out of 1513 Pennsylvania Ave W in Warren. Our crew wears navy Wills Builders shirts, so you know who is on your property.
 
 **Hard working and talented**: Reviewers describe our crew as very professional, hard working and talented, and one notes a crew member who is especially kind to customers and their pets.
 
@@ -69,7 +69,7 @@ Image: `images/maps_02.jpg` (Wills Builders crew working outside a brick and woo
 
 ## About Wills Builders
 
-Wills Builders is a building and remodeling company based at 1513 Pennsylvania Ave W in Warren, Pennsylvania. Our motto is simple: satisfied customers are our best ads. The team photo says a lot about who we are: a crew of all ages in matching navy shirts, lined up in front of the white Wills Builders trailer with our phone number on the side. We reply to reviews and thank people for their feedback, and we ask past customers to keep us in mind for anything we can help with. Most of our work comes from people who have seen what we built for someone they know.
+Wills Builders is a building and remodeling company based at 1513 Pennsylvania Ave W in Warren, Pennsylvania. Our motto is simple: satisfied customers are our best ads. The team photo says a lot about who we are: a crew of all ages in matching navy shirts, lined up in front of the white Wills Builders trailer with our phone number on the side. We reply to reviews and thank people for their feedback, and we ask past customers to keep us in mind for anything we can help with. That is why we care about how every finished job looks from the street.
 
 Owner: not known (role not known)
 
@@ -119,19 +119,19 @@ Home remodeling and building in Warren. Our photos show front porches with stone
 
 **Where is your office?**
 
-Our office is at 1513 Pennsylvania Ave W # C, Warren, PA 16365. Call (814) 723-4190 before stopping by so we can make sure someone is there, since much of our team is out on job sites during the day.
+Our office is at 1513 Pennsylvania Ave W # C, Warren, PA 16365. Office hours are Monday to Friday, 8 AM to 3:30 PM. Please call (814) 723-4190 before stopping by so we can make sure someone is there to talk with you about your project.
 
 **What are your hours?**
 
-We are open Monday through Friday from 8 AM to 3:30 PM and closed on Saturday and Sunday. You can call (814) 723-4190 during those hours or email willsbuilders@westpa.net at any time and we will reply on the next business day we are open.
+We are open Monday through Friday from 8 AM to 3:30 PM and closed on Saturday and Sunday. You can call (814) 723-4190 during those hours or email willsbuilders@westpa.net at any time. Messages sent in the evening or on a weekend are answered during office hours.
 
 **Will my project start when you say it will?**
 
-Being on time matters to us. A Google reviewer who has seen our work for other people says we are timely in starting and completing projects. When we schedule your job, we will give you a start date and keep you informed if anything changes.
+Being on time matters to us. A Google reviewer who has seen our work for other people says we are timely in starting and completing projects. When we schedule your job, you get a start date so you can plan around the work.
 
 **Can you do both inside and outside work?**
 
-Yes. Outside, we build porches and install siding and trim. Inside, we take on kitchen and bathroom remodeling, countertops and flooring. Having one crew for the whole house means fewer contractors to coordinate and one phone number to call.
+Yes. Outside, we build porches and install siding and trim. Inside, we take on kitchen and bathroom remodeling, countertops and flooring. Having one crew for the whole house means fewer contractors to coordinate and one phone number to call for every part of the job.
 
 ## Let's talk about your next project
 

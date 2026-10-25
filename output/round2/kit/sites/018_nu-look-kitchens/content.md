@@ -20,7 +20,7 @@ Nu-Look Kitchens refaces and replaces kitchen cabinets and adds new countertops,
 - Button: Call (563) 582-4680 (tel:+15635824680)
 - Button: Ask about refacing your kitchen (#contact)
 - Trust badges: 5.0 stars from 11 Google reviews | Plan your kitchen one-on-one with Kent | Reviewers praise quick installs
-- Image: images/maps_02.jpg (alt: Cabinet refacing in Dubuque: cream raised-panel kitchen cabinets with crown moulding, white granite island and grey glass tile backsplash)
+- Image: images/maps_02.jpg (alt: Cabinet refacing, Dubuque kitchen company Nu-Look: cream raised-panel kitchen cabinets with crown moulding, white granite island and grey glass tile backsplash)
 
 ## A new look for the kitchen you already have
 
@@ -40,7 +40,7 @@ Image: images/maps_03.jpg (alt: Refaced oak kitchen cabinets with white countert
 
 When you want new cabinets, Nu-Look supplies and installs them. Customers describe the cabinets as excellent quality and very reasonably priced, and one family had their new cabinets installed in less than two days, with everything covered and cleaned up afterwards.
 
-Image: images/maps_02.jpg (alt: New cream raised-panel kitchen cabinets with tall pantry, brushed nickel pulls and crown moulding)
+Image: images/maps_02.jpg (alt: Cream raised-panel kitchen cabinets with tall pantry, brushed nickel pulls and crown moulding)
 
 ### Countertops
 
