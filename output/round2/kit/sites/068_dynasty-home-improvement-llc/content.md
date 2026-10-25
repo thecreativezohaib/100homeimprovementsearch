@@ -2,7 +2,7 @@
 
 ## SEO
 
-- Title tag: Bathroom Remodeling in Colchester, CT | Dynasty Home Improvement
+- Title tag: Bathroom Remodeling Colchester CT | Dynasty Home Improvement
 - Meta description: Bathroom remodeling in Colchester, CT with David and his crew: tile, showers, subfloors, fixtures, plus kitchens. 5.0 stars from 18 Google reviews. Call today.
 - Primary keyword: bathroom remodeling Colchester
 - Secondary keywords: bathroom remodeler Colchester CT, tile shower installation Colchester, kitchen remodeling Colchester CT, kitchen backsplash Colchester, bathroom renovation contractor Colchester CT, home improvement Colchester CT

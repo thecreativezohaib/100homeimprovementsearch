@@ -114,7 +114,7 @@ The shop is at 108 Constitution Dr, Warner Robins, GA 31088. Google currently sh
 
 A recent reviewer asked the shop for touch-up paint for their cabinets. If you need paint or parts for Cleghorn cabinets, call (478) 953-6996 or email clegcabs@aol.com with a photo of the cabinet and, if you have it, when it was installed.
 
-**How do I get a price?**
+**How is a cabinet job priced?**
 
 Call or email with your kitchen measurements, a rough layout and a few photos of the room. Prices depend on size, finish and the cabinet details you choose. Estimate terms are not published, so ask how pricing works when you first get in touch.
 

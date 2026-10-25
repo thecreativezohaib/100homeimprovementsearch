@@ -122,7 +122,7 @@ Google lists Monday to Thursday 7:30 AM to 4:30 PM and Friday 7:30 AM to 4 PM. T
 
 Custombilt Counter Tops is at 1822 Albany Ave, Waycross, GA 31503. Stop in during weekday hours to look at Formica colors, talk through sizes and ask about your order, or call ahead at (912) 283-5704 if you want to check first.
 
-**How do I get a price?**
+**How much do countertops cost?**
 
 Call (912) 283-5704 or visit the shop with your measurements and the number of tops you need. Prices depend on sizes, cutouts and the color you pick, and Google review highlights mention very reasonable prices. Estimate terms are not published, so ask when you call.
 

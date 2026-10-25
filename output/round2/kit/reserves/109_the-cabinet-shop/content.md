@@ -92,8 +92,8 @@ _Image: none yet (needs project photo)_
 ## What clients say about Robert and Deborah
 
 > The Cabinet Shop is extremely professional from start to finish.  Robert and Deborah are very welcoming from the first time I spoke to them
-through getting my moms input on how she wanted her kitchen.. They communicated on everything they were doing for my mom’s new kitchen cabinets.
-The Cabinet Shop team did an amazing job and my mom will definitely be reaching out to them again!  Thank you all for everything you did for my moms new kitchen 🥳 the family really enjoys it
+> through getting my moms input on how she wanted her kitchen.. They communicated on everything they were doing for my mom’s new kitchen cabinets.
+> The Cabinet Shop team did an amazing job and my mom will definitely be reaching out to them again!  Thank you all for everything you did for my moms new kitchen 🥳 the family really enjoys it
 >
 > E. J., Google, 2 years ago
 
@@ -102,9 +102,9 @@ The Cabinet Shop team did an amazing job and my mom will definitely be reaching 
 > Dee V., Google, 4 years ago
 
 > We are really satisfied with the design and installations of our custom cabinets by The Cabinet Shop. I had not called anybody else for a quote on our kitchen.
-After Deborah and Robert came to measure and talked to us, we had no doubt they where the right company for the job. We told them what we had in mind and they listen and advised us on what looked good and what worked with the space we had.
-Their vast experience guided us to a beautiful and functionable kitchen that will last for decades. When it was time for installation Robert was present till the end, demanding perfection from his team.
-Now we have a piece of art displayed in our home and we are happy to recommend The Cabinet Shop to anybody that sees our kitchen.
+> After Deborah and Robert came to measure and talked to us, we had no doubt they where the right company for the job. We told them what we had in mind and they listen and advised us on what looked good and what worked with the space we had.
+> Their vast experience guided us to a beautiful and functionable kitchen that will last for decades. When it was time for installation Robert was present till the end, demanding perfection from his team.
+> Now we have a piece of art displayed in our home and we are happy to recommend The Cabinet Shop to anybody that sees our kitchen.
 >
 > Jesus G., Google, 5 years ago
 
@@ -132,9 +132,9 @@ Google lists Monday to Thursday 8 AM to 5 PM and Friday 8 AM to 3 PM. The shop i
 
 One family's custom kitchen cabinets and island were still the room they loved 13 years later, when they remodeled the rest of the house but kept the kitchen. They called the work amazing, high quality and proven to last, and hired the shop again.
 
-**How do I get a price?**
+**How do I get a price for custom cabinets?**
 
-Call (956) 202-3893 to set up a time for Robert and Deborah to measure and talk through your project. Pricing depends on the rooms, sizes and finishes. Google's review highlights mention top quality work and very reasonable pricing. Estimate terms are not published, so ask when you call.
+Call (956) 202-3893 to set up a time for Robert and Deborah to measure and talk through your project. Pricing depends on the rooms, sizes and finishes. Google's review highlights mention top quality work and very reasonable pricing. The shop has not published how estimates work, so bring it up on your first call.
 
 ## Talk to Robert and Deborah about your kitchen
 

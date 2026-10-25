@@ -121,7 +121,7 @@ Call 254-315-6551 for an estimate, as the Split Rock Instagram bio says, or emai
 
 **What are your hours?**
 
-Google lists Monday to Friday, 8 AM to 5 PM, and closed on Saturday and Sunday. Calls during those hours are the quickest way to reach the team. Email is fine any time, and you can attach photos of the space you want remodeled.
+Split Rock keeps weekday hours, 8 AM to 5 PM Monday to Friday, and is closed on weekends. Calls during those hours are the quickest way to reach the team. Email is fine any time, and you can attach photos of the space you want remodeled.
 
 **Can you remodel more than one room at a time?**
 

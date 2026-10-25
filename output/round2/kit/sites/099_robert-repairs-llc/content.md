@@ -39,7 +39,7 @@ Image: `images/maps_05.jpg` (White paneled entry room with glass block windows, 
 
 ### House painting
 
-Interior painting is one of the services we list for Knoxville homeowners. Fresh paint is often the last step of a room makeover, and it can also be a project on its own when walls, trim or doors need a clean new finish.
+House painting is one of the services we list for Knoxville homeowners. Fresh paint is often the last step of a room makeover, and it can also be a project on its own when walls, trim or doors need a clean new finish.
 
 Image: `images/maps_06.jpg` (Freshly finished white walls and trim in a small entry room)
 
@@ -75,7 +75,7 @@ Google lists Robert Repairs as a kitchen remodeler, and bathroom remodeling is a
 
 ## About Robert Repairs
 
-Robert Repairs LLC is run by Robert and serves Knoxville, TN and the surrounding areas. The business covers home repairs, painting, wall paneling, flooring and smaller jobs like furniture assembly. Robert replies to every review himself, thanking clients and telling them they can always count on us. His reviews describe a hands-on owner who shows up on time, pays attention to the details and is happy to come back for the next project. One client's wall cladding job has already led to plans for her flooring.
+Robert Repairs LLC is run by Robert and serves Knoxville, TN and the surrounding areas. The business covers home repairs, painting, wall paneling, flooring and smaller jobs like furniture assembly. Owner replies on Google thank each client personally and tell them they can always count on us. His reviews describe a hands-on owner who shows up on time, pays attention to the details and is happy to come back for the next project. One client's wall cladding job has already led to plans for her flooring.
 
 Owner: Robert (Owner (named in reviews and owner replies))
 

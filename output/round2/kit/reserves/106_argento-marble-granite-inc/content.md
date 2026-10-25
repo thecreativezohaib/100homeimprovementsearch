@@ -117,9 +117,9 @@ Argento Marble & Granite Inc is at 1101 Dolores Way, Carbondale, CO 81623. Hours
 
 A Google review names Daniel as the company president. For questions about scope, scheduling or a problem with a job, ask for him by name when you call (970) 963-7070, or write to office@argentomarble.com and ask that it be passed to him.
 
-**How do I get a price?**
+**How do I get a quote for stone countertops?**
 
-Send rough measurements, photos of the room and the stone you like to office@argentomarble.com, or call (970) 963-7070. Prices depend on the slab, the size and the cutouts. Estimate terms are not published, so ask how pricing works when you first get in touch.
+Send rough measurements, photos of the room and the stone you like to office@argentomarble.com, or call (970) 963-7070. Prices depend on the slab, the size and the cutouts. Argento does not publish its estimate terms, so ask about them on your first call.
 
 ## Planning new stone countertops?
 

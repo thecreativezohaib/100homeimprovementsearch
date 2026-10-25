@@ -77,7 +77,7 @@ _Image: none yet (needs project photo)_
 
 ## How a cabinet project works
 
-1. **Call or stop by.** Call (209) 819-6013 any day between 6 AM and 6 PM, or visit the shop at 3514 Atwater Blvd, Suite C.
+1. **Call or stop by.** Call (209) 819-6013 any day between 6 AM and 6 PM, or visit the shop at 3514 Atwater Blvd C.
 2. **Talk through the rooms.** Tell Jaime which rooms need cabinets, from the kitchen to a laundry room or wet bar, and whether you want countertops and backsplash too.
 3. **Design and price.** Settle the layout, door style, finish and countertop, and go over pricing before anything is built, so there are no surprises.
 4. **Build and install.** Jaime, his son and the team build and install the cabinets. One family said they finished the work fast and perfectly.
@@ -91,23 +91,23 @@ _Image: none yet (needs project photo)_
 ## What customers say about Jaime and his team
 
 > Jaime, his son and his team are amazing and I would highly recommend them for all your custom cabinetry, countertop and backsplash projects. They have been very professional, attentive to detail, committed and reliable from the beginning. And the most important aspects of all, they truly care about your project (no matter how small it is) and are very trustworthy.
-
-Jaime and his team did cabinets in our kitchen, laundry, bathroom and wet bar along with countertop and backsplash. Pricing is very reasonable. They finished our projects fast and perfectly! Jaime did everything we asked him to. All he wanted is to make us happy and completely satisfied.
-
-We looked at different cabinet professionals in the area and Jaime was our top pick. I will continue to work/hire Jaime and his team for future projects.
-
-Thank you for such awesome work done Jaime!
+>
+> Jaime and his team did cabinets in our kitchen, laundry, bathroom and wet bar along with countertop and backsplash. Pricing is very reasonable. They finished our projects fast and perfectly! Jaime did everything we asked him to. All he wanted is to make us happy and completely satisfied.
+>
+> We looked at different cabinet professionals in the area and Jaime was our top pick. I will continue to work/hire Jaime and his team for future projects.
+>
+> Thank you for such awesome work done Jaime!
 >
 > N. B., Google, 8 years ago
 
 > Excelente customer service!! I spoke with Jame Sr and Jame jr. Regarding some cabinets door that I'm having issues with, and they both gave me the easiest way to solve my cabinets door problem.
-Thank you 👍 …
+> Thank you 👍 …
 >
 > Giovanni S., Google, a month ago
 
 ## A cabinet shop in Atwater, California
 
-Jaime's Custom Cabinets is at 3514 Atwater Blvd C, Atwater, CA 95301, and Google review highlights call it the best cabinet makers in Atwater. No wider service area is published. If you live outside Atwater, call (209) 819-6013 any day between 6 AM and 6 PM and ask whether your project is in range, or stop by the shop with photos and measurements of the room.
+Jaime's Custom Cabinets is at 3514 Atwater Blvd C, Atwater, CA 95301, and Google review highlights call it the best cabinet makers in Atwater. Google shows no service area beyond the shop's own town. If you live outside Atwater, call (209) 819-6013 any day between 6 AM and 6 PM and ask whether your project is in range, or stop by the shop with photos and measurements of the room.
 
 Towns: Atwater
 
@@ -119,7 +119,7 @@ Custom cabinetry for kitchens, bathrooms, laundry rooms and wet bars, according 
 
 **What are your hours?**
 
-Google lists the shop as open every day of the week, Sunday through Saturday, from 6 AM to 6 PM. That makes it easy to call or stop by at 3514 Atwater Blvd, Suite C, before or after work, or on the weekend.
+Google lists the shop as open every day of the week, Sunday through Saturday, from 6 AM to 6 PM. That makes it easy to call or stop by at 3514 Atwater Blvd C, before or after work, or on the weekend.
 
 **Can you help with a cabinet door that isn't working right?**
 
