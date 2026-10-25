@@ -77,7 +77,7 @@ _AI image `ai_service_tile.jpg`: Illustration: white marble subway tile backspla
 
 Rommy's Kitchens & Closets by Design is a Latino-owned remodeling company with an office at 2260 Main St in Chula Vista. Rommy leads the design work and builds each project with his team. The company also goes by Rommy's Designs, with the line Kitchens, Baths & More, and its goal is to make building the kitchen, bathroom or entertainment space you want simpler. Clients describe him as responsive and accommodating, and one says she will definitely use Rommy and his team again for her next project.
 
-Owner: Rommy, Designer and team lead
+Named person: Rommy, Designer and team lead
 
 ![L-shaped kitchen with maple-tone cabinets, speckled granite counters and stainless appliances](images/maps_02.jpg)
 
