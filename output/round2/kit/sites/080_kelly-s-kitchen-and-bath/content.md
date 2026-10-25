@@ -1,7 +1,7 @@
 # Kelly's Kitchen and Bath: homepage content
 
 **Title tag:** Kitchen and Bath Remodeling | Kelly's Kitchen and Bath  
-**Meta description:** Kelly's Kitchen and Bath handles kitchen and bath remodeling from demo to the last fixture: walls, floors, cabinets, lighting and appliances. 5.0 stars on Google.  
+**Meta description:** Kelly's Kitchen and Bath handles kitchen and bath remodeling from demo to the last fixture: walls, floors, cabinets, lighting and appliances. 5.0 on Google.  
 **Primary keyword:** kitchen and bath remodeling  
 **Secondary keywords:** complete kitchen remodel, master bathroom renovation, cabinet installation, kitchen wall removal and layout change, custom cabinets and countertops, appliance installation during remodel  
 **OG title:** Kelly's Kitchen and Bath: Complete Kitchen and Bath Remodels  
@@ -17,7 +17,7 @@ Kelly and his team gut and rebuild kitchens and bathrooms: moving walls and appl
 
 [Call (636) 697-0380](tel:+16366970380)  |  [Tell Kelly about your project](#contact)
 
-Trust badges: 5.0 stars from 8 Google reviews · Owner Kelly on the job · Demo through final install · 35 project photos on Google
+Trust badges: 5.0 stars from 8 Google reviews · Kelly does the work himself · Demo through final install · 35 photos on Google
 
 Image: `images/maps_03.jpg` (Kitchen and bath remodeling by Kelly's Kitchen and Bath: white shaker kitchen with subway tile backsplash, black range hood, island and pendant lights)
 
@@ -118,7 +118,7 @@ Prices are not published, since every remodel is different. One customer who col
 
 **How do I reach you?**
 
-Call (636) 697-0380 or email kelly@kellyskandb.com. Google lists hours Monday to Friday, 8 AM to 5 PM, closed Saturday and Sunday. You can also see recent projects on the Kelly's Kitchen and Bath Facebook and Instagram pages.
+Call (636) 697-0380 or email kelly@kellyskandb.com. Google lists hours Monday to Friday, 8 AM to 5 PM, closed Saturday and Sunday. You can also see recent projects on the Kelly's Kitchen and Bath Facebook and Instagram pages before you call.
 
 **Do you install appliances and flooring too?**
 

@@ -69,9 +69,9 @@ _No photo yet._
 
 ## About Neptoon Tile Company
 
-Neptoon Tile Company is a tile contractor whose Google reviews all point to one person: Jesse, whose tiling skill, communication and attention to detail customers mention by name. The business replies to its reviews personally, thanking customers for the chance to install a backsplash or work on their build. Its listed services are bathroom remodeling and flooring, and its photos show marble shower work and large-format floor tile. The shop keeps weekday hours plus Saturday mornings, so it is easy to call about a project.
+Neptoon Tile Company is a tile contractor whose Google reviews keep pointing to one person: Jesse, whose tiling skill, communication and attention to detail customers mention by name. The business replies to its reviews personally, thanking customers for the chance to install a backsplash or work on their build. Its listed services are bathroom remodeling and flooring, and its photos show marble shower work and large-format floor tile. The shop keeps weekday hours plus Saturday mornings, so it is easy to call about a project.
 
-_Owner / lead: Jesse. Role: Tile setter named in every captured review; whether he is the owner is not confirmed_
+_Owner / lead: Jesse. Role: Tile setter named in reviews; whether he is the owner is not confirmed_
 
 _No photo yet._
 

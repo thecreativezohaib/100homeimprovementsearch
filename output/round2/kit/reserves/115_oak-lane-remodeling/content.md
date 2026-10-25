@@ -71,13 +71,13 @@ Their photos include a living room fireplace wall: a charcoal shiplap surround b
 
 **A before and after you can see.** One customer wrote that the before and after of their back steps speaks for itself: clean, fresh, sturdy and brand new again, with attention to detail that shows.
 
-**Kind and easy to work with.** Every captured review mentions Cameron by name, calling him friendly, professional and easy to work with, and one points to the kindness in how he does his work.
+**Kind and easy to work with.** Reviewers who name Cameron call him friendly, professional and easy to work with, and one says you will see his kindness in how he does his work.
 
 ## About Cameron and Oak Lane Remodeling
 
-Oak Lane Remodeling is a remodeler built around Cameron, the name every reviewer mentions. He takes on small jobs like steps, gates and backsplashes and larger remodels of basements, kitchens and bathrooms. Customers describe him as friendly, professional and knowledgeable about remodeling and home maintenance, and they like that he keeps them updated as the work moves along. Some have hired him for project after project over a year and a half. The business is open on weekdays from 7 AM to 4 PM.
+Oak Lane Remodeling is a remodeler built around Cameron, the name reviewers keep coming back to. He takes on small jobs like steps, gates and backsplashes and larger remodels of basements, kitchens and bathrooms. Customers describe him as friendly, professional and knowledgeable about remodeling and home maintenance, and they like that he keeps them updated as the work moves along. Some have hired him for project after project over a year and a half. The business is open on weekdays from 7 AM to 4 PM.
 
-_Owner / lead: Cameron. Role: Named in every captured review as the person doing the work; last name and title not published_
+_Owner / lead: Cameron. Role: Named in reviews as the person doing the work; last name and title not published_
 
 _No photo yet._
 

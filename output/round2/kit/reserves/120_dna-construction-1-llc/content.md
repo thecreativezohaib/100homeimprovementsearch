@@ -5,7 +5,7 @@
 - **Title tag:** Kitchen Remodeling in Harrison, NJ | DNA Construction 1 LLC
 - **Meta description:** DNA Construction 1 LLC does kitchen remodeling in Harrison, NJ, plus bathrooms, flooring, painting and decks. Open Mon to Sat, 7 AM to 8 PM. 5.0 stars.
 - **Primary keyword:** kitchen remodeling Harrison
-- **Secondary keywords:** bathroom remodeling Harrison NJ, home renovation Harrison NJ, kitchen countertops Harrison NJ, interior painting Harrison NJ, flooring installation Harrison NJ, home additions Hudson County NJ
+- **Secondary keywords:** bathroom remodeling Harrison NJ, home renovation Harrison NJ, kitchen countertops Harrison NJ, interior painting Harrison NJ, flooring installation Harrison NJ, home remodeling contractor Harrison NJ
 - **OG title:** Kitchen Remodeling in Harrison, NJ | DNA Construction 1 LLC
 - **OG description:** Family built and run remodeler for kitchens, baths and more, rated 5.0 on Google. Call (551) 580-5040, Monday to Saturday, 7 AM to 8 PM.
 

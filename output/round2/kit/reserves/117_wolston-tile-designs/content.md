@@ -29,7 +29,7 @@ Custom tile showers, backsplashes and floors from Erik, Jennifer and the Wolston
 
 Wolston Tile Designs is a family owned company offering tile installation in Duncan, from custom walk-in showers to kitchen backsplashes and floors through the whole house. The company's own Facebook post says it has won the Readers' Choice Award for Tile Installation for the last three years.
 
-Reviewers keep describing the same habits. The crew starts when they say they will and does not overbook. They keep a very neat workspace and work to keep demolition dust out of the rest of the house. And the price at the end matches the original contract. Erik and Jennifer are the names customers mention, and one calls them true artists.
+Reviewers keep describing the same habits. The crew starts when they say they will and does not overbook. They keep a very neat workspace and work to keep demolition dust out of the rest of the house. And the price at the end matches the original contract. One customer names Erik and Jennifer and calls them true artists.
 
 ## Tile Work in and Around Duncan
 
@@ -75,7 +75,7 @@ _No photo yet._
 
 ## About Erik, Jennifer and Wolston Tile Designs
 
-Wolston Tile Designs is a family owned and operated tile company based at 1927 Ridgeway Cir in Duncan, Oklahoma. Reviewers name Erik and Jennifer, and one calls them true artists whose work is perfect when they are done. The team sticks to tile: showers, backsplashes, floors and bathroom remodels, and openly leaves plumbing to licensed plumbers. Their Facebook page, followed by more than 1,100 people, shares finished showers, before and after photos and the occasional honest look at a failed shower they were asked to inspect.
+Wolston Tile Designs is a family owned and operated tile company based at 1927 Ridgeway Cir in Duncan, Oklahoma. A reviewer names Erik and Jennifer and calls them true artists whose work is perfect when they are done. The team sticks to tile: showers, backsplashes, floors and bathroom remodels, and openly leaves plumbing to licensed plumbers. Their Facebook page, followed by more than 1,100 people, shares finished showers, before and after photos and the occasional honest look at a failed shower they were asked to inspect.
 
 _Owner / lead: Erik and Jennifer. Role: Named in reviews as the people doing the tile work; a reviewer refers to 'the Wolston's'; the business is described as family owned and operated; titles not published_
 
