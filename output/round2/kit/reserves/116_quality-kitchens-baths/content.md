@@ -99,7 +99,7 @@ The shop on Hwy 45 S, with granite slabs on racks
 
 ## Granite Countertops for Martin, TN Homes
 
-Quality Kitchens & Baths works from 7657 Hwy 45 S in Martin, Tennessee, and its Facebook page lists Martin as its home town. Google does not publish a wider service area. If you live outside Martin, call (731) 431-9944 to ask whether delivery and installation reach your home before you come in to choose a slab. Bring rough cabinet measurements when you visit.
+Quality Kitchens & Baths works from 7657 Hwy 45 S in Martin, Tennessee, and its Facebook page lists Martin as its home town. If you live outside Martin, call (731) 431-9944 to ask whether delivery and installation reach your home before you come in to choose a slab. Bring rough cabinet measurements and a few photos of your kitchen or bath when you visit.
 
 Towns: Martin
 
@@ -118,7 +118,7 @@ Google lists Quality Kitchens & Baths as a kitchen remodeler, and reviewers desc
 Yes. Granite slabs stand on racks beside the building at 7657 Hwy 45 S, so you can look at real stone in daylight. Visit during weekday hours to see them in person, and ask what else can be ordered if you have a particular color in mind.
 
 **How else can I reach you?**  
-Call (731) 431-9944, or fax drawings and measurements to 731-588-2686, the fax number on the shop's sign. Email qualitykitchensandbaths@hotmail.com works too. Free estimates and financing are not published, so ask about them when you get in touch, along with the timing for your job.
+Call (731) 431-9944, or fax drawings and measurements to 731-588-2686, the fax number on the shop's sign. You can also email qualitykitchensandbaths@hotmail.com. When you get in touch, ask about estimates, payment options and the timing for your job so you can plan around it.
 
 ## Come See the Slabs
 

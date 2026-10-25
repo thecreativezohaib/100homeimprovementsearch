@@ -31,7 +31,7 @@ _AI prompt: Photorealistic photo of a finished kitchen in a mountain-modern home
 
 Argento Marble & Granite Inc installs granite countertops in Carbondale from its location at 1101 Dolores Way. As the name says, the company works in marble and granite, and Google lists it as a tile contractor too.
 
-Kitchen work is the core of what the company does: its Facebook page centers on countertop projects and kitchen remodeling, and a Google review describes a countertop and cabinet installation. If you are replacing tops or redoing a kitchen, call (970) 963-7070 to talk about stone, layout and timing, and ask how the project will be handled from removal of the old tops to the final install.
+Kitchen work is the core of what the company does: its Facebook page centers on countertop projects and kitchen remodeling, and past jobs include cabinets as well as countertops. If you are replacing tops or redoing a kitchen, call (970) 963-7070 to talk about stone, layout and timing, and ask how the project will be handled from removal of the old tops to the final install.
 
 ## Stone and tile work
 
@@ -79,7 +79,7 @@ _AI prompt: Photorealistic photo of a just-finished kitchen in a mountain-modern
 
 ## About Argento Marble & Granite
 
-Argento Marble & Granite Inc is a stone and tile business at 1101 Dolores Way in Carbondale, Colorado. Its work centers on marble and granite countertops for kitchens, along with tile, and a Google review describes the company carrying out a countertop and cabinet installation. The same review names Daniel as company president. The office can be reached by phone at (970) 963-7070 or by email at office@argentomarble.com. Send photos and rough measurements of your kitchen to start the conversation.
+Argento Marble & Granite Inc is a stone and tile business at 1101 Dolores Way in Carbondale, Colorado. Its work centers on marble and granite countertops for kitchens, along with tile and cabinet installation. A Google review names Daniel as company president. The office can be reached by phone at (970) 963-7070 or by email at office@argentomarble.com. Whether you are swapping worn tops for stone or planning a full kitchen, send photos and rough measurements to start the conversation, and ask for Daniel if you want to talk through the scope.
 
 _Owner: Daniel (Company president (first name only, from a Google review))_
 
@@ -114,7 +114,7 @@ Towns: Carbondale
 
 **What does Argento Marble & Granite do?**
 
-The company works in marble and granite countertops and is listed on Google as a tile contractor. Its Facebook page lists countertops and kitchen remodeling, and a Google review describes a countertop and cabinet installation. Call (970) 963-7070 to talk about your project.
+The company works in marble and granite countertops and is listed on Google as a tile contractor. Its Facebook page lists countertops and kitchen remodeling, and the company has installed cabinets along with countertops. Call (970) 963-7070 to talk about your project.
 
 **Can you install cabinets as well as countertops?**
 

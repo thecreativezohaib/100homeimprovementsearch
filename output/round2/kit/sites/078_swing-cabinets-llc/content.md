@@ -127,7 +127,7 @@ Google lists Monday to Thursday, 6 AM to 4:30 PM, and Friday, 6 AM to 3:30 PM. T
 
 **Where is the shop?**
 
-Swing Cabinets, LLC is at 331 Pinkston Rd, Shelbyville, TN 37160. It is a family-owned business that has built cabinets for family and friends in the area for 25 years. Call ahead before stopping by so someone is free to talk about your project.
+Swing Cabinets, LLC is at 331 Pinkston Rd, Shelbyville, TN 37160. Call (931) 684-3576 before stopping by so someone is free to talk about your project, and bring photos, rough measurements or a sketch of the room if you have them.
 
 ## Ready to talk about new cabinets?
 

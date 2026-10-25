@@ -92,7 +92,7 @@ _Image: `images/maps_02.jpg` (real photo), alt: "Double gate of new horizontal p
 1. **Call or email.** Call (740) 403-9449 on a weekday between 7 AM and 4 PM, or email oaklaneremodeling@gmail.com, and describe the project.
 2. **Look at the job.** Cameron looks at what you need, from a worn set of steps to a full room, and gives you a price for the work.
 3. **Work with updates.** While the work is underway you hear how long the job is taking and how it is going, as one reviewer describes.
-4. **Before and after.** See the finished result next to the before. One customer has come back to Cameron for several projects over a year and a half.
+4. **Before and after.** See the finished result next to the before. Each of the reviews on this page recommends Oak Lane to others.
 
 ## Recent Oak Lane Projects
 
@@ -147,7 +147,7 @@ Prices are not published. One reviewer calls the pricing fair, and another says 
 
 **Do you build steps, fences and gates?**
 
-Yes. One family hired Oak Lane to tear down an old deck, build new steps and install a new fence, and another had worn back steps rebuilt. A repeat customer had a new gate built. Call (740) 403-9449 with a photo of the area and its rough size.
+Yes. Reviews mention new back steps, a new fence and a new gate, along with an old deck torn down. Call (740) 403-9449 with a photo of the area and its rough size, and Cameron can tell you what the job involves.
 
 ## Got a Project in Mind?
 

@@ -125,11 +125,11 @@ The Facebook page sums it up as Kitchen, Bath, Flooring & More, and lists kitche
 
 **Can someone help me plan my kitchen layout?**
 
-Yes. A reviewer wrote that the store has a lot of displays and very knowledgeable people to help you with your layouts. Bring your room measurements, photos of the space and any ideas you have collected, and the staff can walk you through options.
+Yes. Layout help is what reviewers praise most after the staff's product knowledge. Bring your room measurements, photos of the space and any ideas you have collected, and the staff can walk you through options using the displays in the store.
 
 **What if I don't have all my measurements?**
 
-Bring what you have. One customer was missing a measurement for her bathroom vanity, and Tim presented her options and made it work. Having wall lengths, ceiling height and plumbing locations will make the visit faster and the plan more accurate.
+Bring what you have. The staff have worked around a missing vanity measurement before. Wall lengths, ceiling height, window and door positions and plumbing locations make the visit faster and the plan more accurate, so measure what you can before you come in.
 
 **What are your hours?**
 

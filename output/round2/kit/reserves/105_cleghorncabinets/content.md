@@ -15,7 +15,7 @@
 
 # Cabinet Maker in Warner Robins, GA
 
-Kitchen cabinets from Richard Cleghorn's shop at 108 Constitution Dr. One customer called the craftsmanship of Mr. Ricky and his team unmatched.
+Kitchen cabinets built at Richard Cleghorn's shop at 108 Constitution Dr in Warner Robins, where customers know the owner by name.
 
 [Call (478) 953-6996](tel:+14789536996)  |  [Ask about your kitchen](#contact)
 
@@ -29,7 +29,7 @@ _Image: `images/social_01.jpg` (real photo), alt: "Cream glazed kitchen cabinets
 
 Cleghorn Cabinets is a cabinet maker in Warner Robins with a shop at 108 Constitution Dr. Richard Cleghorn is listed as the company's CEO, and reviewers name the people who helped them, Mr. Cleghorn and Mr. Ricky, rather than a sales desk.
 
-That personal touch is what people write about. One customer said Mr. Ricky and his team are truly exceptional and that the quality of their craftsmanship is unmatched. Another said Mr. Cleghorn was more than happy to assist and highly recommended his cabinet shop. If you are planning new kitchen cabinets, call the shop and talk to the people who build them.
+That personal touch is what people write about, along with the quality of the finished cabinets. The shop's Facebook page shows the kind of work they mean: cream glazed cabinets with glass-front uppers, a drawer stack and a granite countertop. If you are planning new kitchen cabinets, call (478) 953-6996 and talk to the people who build them.
 
 ## What the cabinet shop does
 
@@ -49,7 +49,7 @@ _AI prompt: Photorealistic photo of a remodeled kitchen in a traditional brick s
 
 ### Planning help from the owner
 
-Customers deal with the Cleghorns directly. One reviewer wrote that Mr Cleghorn was more than happy to assist and highly recommended his cabinet shop. Call (478) 953-6996 or email clegcabs@aol.com to ask about your project before you visit.
+Before you commit, you can talk through sizes, door styles and finishes with the shop that will build the cabinets. Call (478) 953-6996 or email clegcabs@aol.com with photos and rough measurements, and ask about your project before you visit.
 
 _Image: AI-generated `ai_service_planning.jpg`, alt: "Cabinet door samples, a tape measure and a hand-drawn cabinet layout on a shop bench"_
 
@@ -67,7 +67,7 @@ _AI prompt: Photorealistic close photo of a workbench in a cabinet shop with a c
 
 ## About Richard Cleghorn and the shop
 
-Cleghorn Cabinets is a cabinet shop at 108 Constitution Dr in Warner Robins, Georgia. A Georgia business directory lists Richard Cleghorn as CEO, with the same address and phone number the shop uses today. Customers call him Mr. Cleghorn, and one review praises Mr. Ricky and his team for craftsmanship she called unmatched. The shop's Facebook page shows kitchen cabinet work, including cream glazed cabinets with glass-front uppers. If you want to talk about cabinets with the person who runs the shop, call (478) 953-6996.
+Cleghorn Cabinets is a cabinet shop at 108 Constitution Dr in Warner Robins, Georgia. A Georgia business directory lists Richard Cleghorn as CEO, with the same address and phone number the shop uses today. Customers call him Mr. Cleghorn, and reviewers also name Mr. Ricky and his team. Google lists the business as a cabinet maker, and its Facebook page lists kitchen remodeling. If you want to talk about cabinets with the person who runs the shop, call (478) 953-6996.
 
 _Owner: Richard Cleghorn (CEO (listed as 'CEO: Richard Cleghorn, Pres' in a Georgia business directory))_
 
@@ -110,7 +110,7 @@ Google lists Cleghorn Cabinets as a cabinet maker, and its Facebook page shows k
 
 **Who will I be working with?**
 
-Richard Cleghorn is listed as the company's CEO in a Georgia business directory, and customers mention Mr. Cleghorn and Mr. Ricky by name in their reviews. One wrote that Mr Cleghorn was more than happy to assist and highly recommended his cabinet shop.
+Richard Cleghorn is listed as the company's CEO in a Georgia business directory, and customers mention Mr. Cleghorn and Mr. Ricky by name in their reviews. When you call (478) 953-6996, ask who will measure your kitchen and build your cabinets.
 
 **Where is the shop?**
 

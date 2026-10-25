@@ -124,7 +124,7 @@ Towns: Ukiah
 
 **Which cabinet brands do you carry?**
 
-The cabinet division's Facebook page lists cabinet sales featuring Mantra, Decora and Diamond. Each line has its own styles and finishes, and one customer combined two price lines of the same quality and construction to save money. Ask Bernadette which lines suit your kitchen and budget.
+The cabinet division's Facebook page lists cabinet sales featuring Mantra, Decora and Diamond. Each line has its own styles and finishes, and one customer mixed two price lines to save money. Ask Bernadette which lines suit your kitchen and budget.
 
 **Do you help with kitchen design?**
 

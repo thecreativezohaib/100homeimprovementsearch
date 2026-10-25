@@ -123,7 +123,7 @@ Yes. Backsplashes are the job reviewers mention most. One customer called the ne
 
 **Can you tile in an older house?**
 
-Yes. One homeowner wrote that installing new tile in an old home is never easy, and that Jesse handled every challenge with professionalism, skill and problem solving. Mention the age of the house and any known issues, like uneven floors, when you call.
+Yes. One homeowner hired Jesse for all of the tile work in an old house and praised how he handled every challenge with professionalism and skill. Mention the age of the house and any known issues, like uneven floors or out-of-square walls, when you call.
 
 **What areas do you serve?**
 

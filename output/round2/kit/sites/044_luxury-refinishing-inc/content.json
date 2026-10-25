@@ -2,8 +2,8 @@
  "id": "044_luxury-refinishing-inc",
  "business_name": "LUXURY REFINISHING INC",
  "seo": {
-  "title_tag": "Bathroom Refinishing Miramar, FL | Luxury Refinishing",
-  "meta_description": "Bathroom refinishing Miramar homeowners rate 5.0 on Google: bathtub, bathroom and cabinet refinishing plus remodels across South Florida. Call 786-236-4294.",
+  "title_tag": "Bathroom Refinishing in Miramar, FL | Luxury Refinishing",
+  "meta_description": "Bathroom refinishing in Miramar and South Florida, rated 5.0 from 31 Google reviews: bathtub, bathroom and cabinet refinishing, plus kitchen and bath remodels.",
   "primary_keyword": "bathroom refinishing Miramar",
   "secondary_keywords": [
    "bathtub refinishing Miramar FL",
@@ -18,7 +18,7 @@
  },
  "hero": {
   "eyebrow": "Miramar, South Florida",
-  "h1": "Bathroom Refinishing Miramar Homeowners Rate 5 Stars",
+  "h1": "Bathroom Refinishing in Miramar and Across South Florida",
   "subheadline": "Luxury Refinishing Inc brings tired tubs, bathrooms and cabinets back to life, and takes on kitchen and bathroom remodels when a refinish is not enough.",
   "primary_cta": {
    "label": "Call (786) 236-4294",
@@ -34,15 +34,15 @@
    "Open weekdays from 5 AM"
   ],
   "image": {
-   "file": "images/maps_01.jpg",
-   "alt": "White kitchen with marble-look countertops and backsplash, a project by bathroom refinishing Miramar company Luxury Refinishing Inc"
+   "file": "images/maps_02.jpg",
+   "alt": "Kitchen with white cabinets, glass-front uppers and a dark granite island by Luxury Refinishing, which also offers bathroom refinishing in Miramar, FL"
   }
  },
  "intro": {
   "h2": "Refinish first, replace only when you need to",
   "paragraphs": [
-   "Luxury Refinishing Inc does bathroom refinishing Miramar and South Florida homeowners recommend to their neighbors. Bathroom refinishing is the work reviewers mention most on Google, and one client called the company the best bathtub refinisher in South Florida.",
-   "Refinishing lets you keep a sound tub or solid cabinets and change how they look. One family found Reidel on Nextdoor through a neighbor's recommendation. He refinished a huge wall unit, going from dark cherry wood to crisp white, and also did two of their bathrooms. They described him as meticulous, with special attention to the small details. When a room needs more than a new finish, the team also handles kitchen and bathroom remodels."
+   "Luxury Refinishing Inc handles bathroom refinishing in Miramar and across South Florida, along with cabinets and remodels. Bathroom refinishing is the work reviewers mention most on Google, and one client called the company the best bathtub refinisher in South Florida.",
+   "Refinishing lets you keep a sound tub or solid cabinets and change how they look. One family found Reidel on Nextdoor through a neighbor's recommendation. He refinished their huge wall unit, taking it from dark cherry wood to crisp white, and also did two of their bathrooms. They described him as meticulous, with special attention to the small details. When a room needs more than a new finish, the team also handles kitchen and bathroom remodels."
   ]
  },
  "services": {
@@ -51,14 +51,19 @@
    {
     "name": "Bathtub and bathroom refinishing",
     "blurb": "The company's most reviewed service. A worn or dated bathtub and bathroom surfaces get a fresh finish without tearing everything out, so you keep the tub that already fits the room. Ask what can be refinished in your bathroom before you plan a full demolition.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_bathtub.jpg",
+     "ai_prompt": "Photorealistic photo of a freshly refinished glossy white bathtub with a white tile surround in a bright South Florida bathroom, light porcelain floor, chrome fixtures, a frosted window letting in soft natural daylight, clean and calm with warm white and soft gold tones; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.",
+     "alt": "Illustration: glossy white bathtub with a white tile surround in a bright bathroom"
+    }
    },
    {
     "name": "Cabinet refinishing",
     "blurb": "Solid kitchen and bathroom cabinets refinished in a new color, often bright white, so the room looks updated without buying new boxes. Cabinet refinishing is mentioned by name in Google reviews, and one client said Reidel did a really great job refinishing their cabinets.",
     "image": {
-     "file": "images/maps_02.jpg",
-     "alt": "Kitchen with white raised panel cabinets, glass-front uppers, dark granite island and stainless appliances"
+     "file": "images/maps_01.jpg",
+     "alt": "Kitchen with white shaker cabinets, marble-look countertops and a full-height backsplash"
     }
    },
    {
@@ -73,14 +78,19 @@
     "name": "Kitchen and bathroom remodeling",
     "blurb": "When a new finish is not enough, the team takes on kitchen and bathroom remodels. One client described an excellent remodeling experience from start to finish, with a professional team, great communication and beautiful results at the end.",
     "image": {
-     "file": "images/maps_01.jpg",
-     "alt": "White shaker kitchen with marble-look countertops, full-height backsplash, stainless range and microwave"
+     "file": "images/maps_02.jpg",
+     "alt": "Open kitchen with white cabinets, glass-front uppers, a dark granite island and stainless appliances"
     }
    },
    {
     "name": "Flooring and demolition",
     "blurb": "Flooring and demolition are part of the remodeling work too, so the same company can clear out an old bathroom or kitchen and lay the new floor. Call to talk through what your room needs and which parts can simply be refinished.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_flooring.jpg",
+     "ai_prompt": "Photorealistic photo of a newly installed large-format light gray porcelain tile floor in an open South Florida living area with white walls and baseboards, sliding glass doors with tropical greenery outside, bright natural daylight, empty and freshly finished; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.",
+     "alt": "Illustration: light gray large-format tile floor in a bright open living area"
+    }
    }
   ]
  },
@@ -100,17 +110,20 @@
     "text": "One family found Reidel on Nextdoor after another neighbor recommended him. After a wall unit and two bathrooms, they said they plan to hire him for more projects."
    },
    {
-    "title": "Early hours and quick replies",
-    "text": "The phone line opens at 5 AM on weekdays and runs to 6 PM. The owner replies to Google reviews and thanks clients for trusting Luxury Refinishing with their homes."
+    "title": "Early hours, personal replies",
+    "text": "The phone line opens at 5 AM on weekdays and runs to 6 PM. The owner replies to Google reviews and thanks clients for trusting Luxury Refinishing."
    }
   ]
  },
  "about": {
   "h2": "About Luxury Refinishing Inc",
-  "text": "Luxury Refinishing Inc is a refinishing and remodeling company in Miramar, Florida. Clients name Reidel as the person who does the work, and they describe him as meticulous and careful with small details. The core of the business is what its name says: refinishing bathtubs, bathrooms and cabinets so homeowners can keep what is solid and change how it looks. The company also handles kitchen and bathroom remodeling, flooring and demolition. With a 5.0 rating from 31 Google reviews, many new clients arrive the way one family did, through a neighbor's recommendation.",
+  "text": "Luxury Refinishing Inc is a refinishing and remodeling company in Miramar, Florida. Clients name Reidel as the person who does the work, and they describe him as meticulous and careful with small details. The core of the business is what its name says: refinishing bathtubs, bathrooms and cabinets so homeowners can keep what is solid and change how it looks. The company also handles kitchen and bathroom remodeling, flooring and demolition. It holds a 5.0 rating from 31 Google reviews, and one family found Reidel through a neighbor's recommendation on Nextdoor.",
   "owner_name": "Reidel",
-  "owner_role": "Refinisher named in client reviews",
-  "image": null
+  "owner_role": "Refinisher (named in reviews)",
+  "image": {
+   "file": "images/maps_04.jpg",
+   "alt": "Large built-in wall unit refinished in white with open shelves, crown molding and a TV opening"
+  }
  },
  "process": {
   "h2": "How a refinishing job works",
@@ -138,7 +151,7 @@
   ]
  },
  "gallery": {
-  "h2": "Bathroom refinishing Miramar and cabinet work",
+  "h2": "Cabinet and built-in work",
   "images": [
    {
     "file": "images/maps_03.jpg",
@@ -186,7 +199,7 @@
   ]
  },
  "service_area": {
-  "h2": "Based in Miramar, working across South Florida",
+  "h2": "Bathroom refinishing in Miramar and South Florida",
   "text": "Luxury Refinishing Inc is based in Miramar, Florida, and clients describe it as a South Florida bathtub refinisher. Google does not list a public address or a set service area, so the easiest way to check is to call (786) 236-4294 with your town and the project you have in mind. Weekday hours start at 5 AM, which helps if you want to talk before work.",
   "towns": [
    "Miramar, FL",
@@ -214,7 +227,7 @@
    },
    {
     "q": "Can you refinish my dark wood cabinets in white?",
-    "a": "Yes. One family had a huge cherry wood wall unit refinished in white, along with cabinets in two bathrooms, and they said Reidel paid special attention to the small details. Send photos of your cabinets so he can look at their condition and the finish you want."
+    "a": "Yes. One family had a huge cherry wood wall unit refinished in white, along with work in two of their bathrooms, and they said Reidel paid special attention to the small details. Send photos of your cabinets so he can look at their condition and the finish you want."
    }
   ]
  },
@@ -225,7 +238,13 @@
    "label": "Call (786) 236-4294",
    "href": "tel:+17862364294"
   },
-  "phone": "(786) 236-4294"
+  "phone": "(786) 236-4294",
+  "image": {
+   "file": null,
+   "ai_file_name": "ai_cta_bathroom.jpg",
+   "ai_prompt": "Photorealistic wide photo of a bright South Florida bathroom with a freshly refinished glossy white bathtub and white cabinets, soft gold fixtures, light porcelain floor and warm morning light from a window, calm empty space on one side for text overlay; no people, no faces, no text, no logos, no brand names. Aspect ratio 21:9.",
+   "alt": "Illustration: bright bathroom with a glossy white bathtub and white cabinets"
+  }
  },
  "footer": {
   "name": "LUXURY REFINISHING INC",
@@ -236,14 +255,14 @@
    "https://www.facebook.com/100057533765730",
    "https://www.google.com/maps/place/?q=place_id:ChIJaxFEPhW72YgROy7vEw_2D68&hl=en"
   ],
-  "hours": "Monday to Friday 5 AM to 6 PM, Saturday and Sunday closed"
+  "hours": "Monday to Friday: 5 AM to 6 PM. Saturday and Sunday: closed."
  },
  "schema_jsonld": {
   "@context": "https://schema.org",
   "@type": "HomeAndConstructionBusiness",
   "name": "LUXURY REFINISHING INC",
   "url": null,
-  "telephone": "+1-786-236-4294",
+  "telephone": "+17862364294",
   "email": "luxuryrefinishing@gmail.com",
   "address": {
    "@type": "PostalAddress",
@@ -260,8 +279,88 @@
    "https://www.facebook.com/100057533765730",
    "https://www.google.com/maps/place/?q=place_id:ChIJaxFEPhW72YgROy7vEw_2D68&hl=en"
   ],
-  "image": "images/maps_01.jpg"
+  "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLh6lKIGtLMqT0S2_ZABJb8x3JQuVoyno5HsTT8UqO3GMARzkpTNmbWy9jqRvmt9kFB8DvkgKRQfmxV-xbCING4s2SGyep3uOpOGroRl5C5ncIycDBzyKpIv34lYnmwneKsqzF=s0"
  },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Kitchen with white cabinets, glass-front uppers and a dark granite island by Luxury Refinishing, which also offers bathroom refinishing in Miramar, FL"
+  },
+  {
+   "slot": "service:Bathtub and bathroom refinishing",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_bathtub.jpg",
+   "ai_prompt": "Photorealistic photo of a freshly refinished glossy white bathtub with a white tile surround in a bright South Florida bathroom, light porcelain floor, chrome fixtures, a frosted window letting in soft natural daylight, clean and calm with warm white and soft gold tones; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.",
+   "alt": "Illustration: glossy white bathtub with a white tile surround in a bright bathroom"
+  },
+  {
+   "slot": "service:Cabinet refinishing",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Kitchen with white shaker cabinets, marble-look countertops and a full-height backsplash"
+  },
+  {
+   "slot": "service:Built-in wall units",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Large built-in wall unit refinished in white with open shelves, crown molding and a TV opening"
+  },
+  {
+   "slot": "service:Kitchen and bathroom remodeling",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Open kitchen with white cabinets, glass-front uppers, a dark granite island and stainless appliances"
+  },
+  {
+   "slot": "service:Flooring and demolition",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_flooring.jpg",
+   "ai_prompt": "Photorealistic photo of a newly installed large-format light gray porcelain tile floor in an open South Florida living area with white walls and baseboards, sliding glass doors with tropical greenery outside, bright natural daylight, empty and freshly finished; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.",
+   "alt": "Illustration: light gray large-format tile floor in a bright open living area"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Large built-in wall unit refinished in white with open shelves, crown molding and a TV opening"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Before: large dark cherry wood wall unit with TV opening, display shelves and lower cabinets"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "After: the same built-in wall unit refinished in white with open shelves and crown molding"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "White kitchen with marble-look counters, full-height backsplash and undermount stainless sink"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Open kitchen with white cabinets, glass-front uppers, dark granite island and tile floor"
+  },
+  {
+   "slot": "final_cta",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_cta_bathroom.jpg",
+   "ai_prompt": "Photorealistic wide photo of a bright South Florida bathroom with a freshly refinished glossy white bathtub and white cabinets, soft gold fixtures, light porcelain floor and warm morning light from a window, calm empty space on one side for text overlay; no people, no faces, no text, no logos, no brand names. Aspect ratio 21:9.",
+   "alt": "Illustration: bright bathroom with a glossy white bathtub and white cabinets"
+  }
+ ],
  "facts_used": [
   {
    "fact": "Name LUXURY REFINISHING INC, category Bathroom remodeler",
@@ -309,7 +408,7 @@
   }
  ],
  "missing": [
-  "No bathtub or bathroom refinishing photos in the capture, although it is the main service (Google shows 17 photos)",
+  "Needs bathtub and bathroom refinishing photos, the main service (Google shows 17 photos): the bathtub and flooring cards and the final CTA background use AI illustrations for now",
   "Gallery has 4 images, below the 6 minimum",
   "No street address or service area on Google; Miramar comes from Facebook",
   "Reidel's surname and role (owner or not) not found",
@@ -320,7 +419,8 @@
   "Financing not found",
   "No logo, palette or tagline",
   "Refinishing materials or products used not stated (no claims made about durability)",
-  "Only 3 of 31 Google review texts captured; Gemini reviews were unrelated web text and were not used"
+  "Only 3 of 31 Google review texts captured; Gemini reviews were unrelated web text and were not used",
+  "The two kitchen photos (maps_01, maps_02) are owner photos with no caption; confirm whether they show cabinet refinishing or a remodel"
  ],
  "brand": {
   "logo_file": null,

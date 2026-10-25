@@ -34,15 +34,17 @@
    "Open 7 days a week"
   ],
   "image": {
-   "file": "images/maps_03.jpg",
-   "alt": "Walk-in shower with frameless glass door, pebble tile floor and large blue-gray marble-look wall tile, by Independence Renovations, a bathroom remodeling Pottstown contractor"
+   "file": null,
+   "ai_file_name": "ai_hero_bathroom.jpg",
+   "ai_prompt": "Photorealistic photo of a remodeled bathroom in a southeastern Pennsylvania twin or colonial home, walk-in shower with large blue-gray marble-look wall tile, a natural pebble mosaic shower floor, frameless glass door with a brushed brass handle, white vanity with a light stone top, warm light wood-look floor, deep forest green accent towel and soft natural daylight from a window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 16:9 aspect ratio.",
+   "alt": "Bathroom remodeling idea for Pottstown homes: illustration of a walk-in shower with blue-gray stone-look tile, a pebble floor and a glass door"
   }
  },
  "intro": {
   "h2": "The contractor Pottstown neighbors call back",
   "paragraphs": [
-   "Independence Renovations LLC. handles bathroom remodeling Pottstown homeowners return to again and again. Their Facebook page says they specialize in bathroom and kitchen renovations, and the tiled walk-in shower above, with its pebble floor and glass door, shows the kind of finish Nick puts in.",
-   "The common thread in the reviews is repeat work. One customer had Nick build a deck, tile a bathroom and remodel the kitchen. Another had him do every job in both his house and his barbershop. A third says he would not work with another contractor now. Reviewers call Nick super nice, professional and on time."
+   "Independence Renovations LLC. does bathroom remodeling in Pottstown, along with kitchens, tile, decks and repairs. Its Facebook page says the company specializes in bathroom and kitchen renovations, and customers deal directly with Nick, who handles the carpentry, tile and plumbing himself.",
+   "The common thread in the reviews is repeat work. One customer had Nick build a deck, tile a bathroom and remodel the kitchen. Another had him do every job in both his house and his barbershop. A third says every project around his house has exceeded his expectations, and he would not work with another contractor now. Reviewers call Nick a super nice guy who does great work."
   ]
  },
  "services": {
@@ -50,23 +52,28 @@
   "items": [
    {
     "name": "Bathroom remodeling and tile",
-    "blurb": "Bathrooms are a core specialty. Nick handles tile, plumbing and carpentry himself, so a remodel like the walk-in shower shown here, with large-format wall tile, a pebble floor and a frameless glass door, stays with one contractor from start to finish.",
+    "blurb": "Bathrooms are a core specialty. Nick handles tile, plumbing and carpentry himself, so a remodel like this walk-in shower, with large-format wall tile, a pebble floor and a frameless glass door, can stay with one contractor from start to finish.",
     "image": {
      "file": "images/maps_03.jpg",
-     "alt": "Tiled walk-in shower with pebble floor, linear drain and glass door"
+     "alt": "Walk-in shower with a brass-handled glass door, blue-gray marble-look wall tile and a pebble mosaic floor"
     }
    },
    {
     "name": "Kitchen remodeling",
     "blurb": "Kitchen renovations are the other half of what their Facebook page says they specialize in. One Google reviewer had Nick remodel the kitchen after he had already built the deck and tiled the bathroom. Call to talk through layout, cabinets, counters and floors.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_kitchen.jpg",
+     "ai_prompt": "Photorealistic photo of a remodeled kitchen in a southeastern Pennsylvania two-story home, forest green shaker lower cabinets, white upper cabinets, light quartz countertops, white subway tile backsplash, brushed brass hardware, light oak floor, window over the sink with soft natural daylight, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+     "alt": "Illustration of a remodeled kitchen with forest green lower cabinets, white uppers and light stone counters"
+    }
    },
    {
     "name": "Decks and covered patios",
     "blurb": "Outdoor work shows up in their photos: a painted deck with white railings and a covered patio with a roof, posts and lighting. A Google reviewer listed the deck as one of several projects Nick completed on the same home.",
     "image": {
      "file": "images/maps_02.jpg",
-     "alt": "Red-painted wood deck with white railings and steps behind a two-story home"
+     "alt": "Red-painted wood deck with white railings and French doors to a two-story home"
     }
    },
    {
@@ -102,12 +109,12 @@
  },
  "about": {
   "h2": "About Nick and Independence Renovations",
-  "text": "Independence Renovations LLC. is a remodeling company on N Charlotte St in Pottstown, Pennsylvania, where customers work directly with Nick. One customer who has known him his whole life credits Nick's construction background, and says he does it all. On Facebook the company describes itself in its own words: quality craftsmanship, honest pricing, a name you can trust to get the job done right the first time, specializing in bathroom and kitchen renovations. The German shepherd on their logo fits the reviews: loyal customers who keep calling Nick back.",
+  "text": "Independence Renovations LLC. is a remodeling company on N Charlotte St in Pottstown, Pennsylvania, where customers work directly with Nick. One customer who has known him his whole life credits Nick's construction background, and says he does it all. On Facebook the company describes itself in its own words: quality craftsmanship, honest pricing, a name you can trust to get the job done right the first time, specializing in bathroom and kitchen renovations. The loyal German shepherd on their logo suits the reviews, which come from customers who keep calling Nick back.",
   "owner_name": "Nick",
   "owner_role": "Contractor named in every captured review; last name and formal title not published",
   "image": {
-   "file": "images/logo.jpg",
-   "alt": "Independence Renovations LLC logo with a German shepherd in a dark green shield"
+   "file": "images/maps_01.jpg",
+   "alt": "Covered patio and wood deck built behind a gray-sided house, lit up at dusk"
   }
  },
  "process": {
@@ -136,21 +143,21 @@
   ]
  },
  "gallery": {
-  "h2": "Recent work",
+  "h2": "Work by Independence Renovations",
   "images": [
    {
     "file": "images/maps_03.jpg",
-    "alt": "Walk-in shower with blue-gray marble-look wall tile, pebble mosaic floor and frameless glass door",
+    "alt": "Walk-in shower with blue-gray marble-look wall tile, pebble mosaic floor and frameless glass door with a brass handle",
     "caption": "Tiled walk-in shower with pebble floor"
    },
    {
     "file": "images/maps_01.jpg",
-    "alt": "Covered patio with metal roof and string of lights over a wood deck behind a gray-sided house",
+    "alt": "Covered patio with a metal roof and lights over a wood deck behind a gray-sided house at dusk",
     "caption": "Covered patio and deck"
    },
    {
     "file": "images/maps_02.jpg",
-    "alt": "Painted red deck with white rail and balusters and French doors to the house",
+    "alt": "Painted red deck with white rail and balusters, string lights and French doors to the house",
     "caption": "Painted deck with white railings"
    }
   ]
@@ -175,12 +182,6 @@
     "text": "Nick does great work no matter what it is he has done numerous projects around my house that have all exceeded my expectations i wouldnt work with another contractor after having him do my work",
     "source": "Google",
     "date": "a year ago"
-   },
-   {
-    "name": "Google reviewer",
-    "text": "Beautiful craftsmanship, professional and complete in a timely manner.",
-    "source": "Google (review highlight)",
-    "date": "not shown"
    }
   ]
  },
@@ -196,7 +197,7 @@
   "items": [
    {
     "q": "What kind of work do you do?",
-    "a": "Their Facebook page says they specialize in bathroom and kitchen renovations. Customers also describe decks, bathroom tile, concrete, carpentry and plumbing. One reviewer calls Nick an all-in-one contractor, so if your project spans several trades, he can usually talk you through all of it in one visit."
+    "a": "Their Facebook page says they specialize in bathroom and kitchen renovations. Customers also describe decks, bathroom tile, concrete, carpentry and plumbing. One reviewer calls Nick an all-in-one contractor, so if your project spans several trades, you can talk the whole job through with him."
    },
    {
     "q": "Do you do tile showers?",
@@ -263,8 +264,74 @@
    "https://www.facebook.com/61566535718088/",
    "https://www.google.com/maps/place/?q=place_id:ChIJFcdjXD2FxokRARFDmxZGs9A&hl=en"
   ],
-  "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSdG42lh2ZEbV87-PHg-fcKqISmMqip54JJAIZRNK9eilsYHS_g8LxkGR5MgGICokS6uiA34Dc-6PspNWpW31xO0gdtp0dKBDN7RZ790qNHxClHVfQrEljGmhUZoS0S-n0wDKb=s0"
+  "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqxlw3PYV77JEIkNIDU5zmob5cZQDljRpUeJsxogWO-cYmTWxG7mC6mmAjNECL6J32D5tpc3Za1RlD98LxOuczDfkgASIvABwJgBljmDUj9GwsoSq24s0i1rGWG7qh2UCmJ7wOTQ=s0"
  },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_hero_bathroom.jpg",
+   "ai_prompt": "Photorealistic photo of a remodeled bathroom in a southeastern Pennsylvania twin or colonial home, walk-in shower with large blue-gray marble-look wall tile, a natural pebble mosaic shower floor, frameless glass door with a brushed brass handle, white vanity with a light stone top, warm light wood-look floor, deep forest green accent towel and soft natural daylight from a window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 16:9 aspect ratio.",
+   "alt": "Bathroom remodeling idea for Pottstown homes: illustration of a walk-in shower with blue-gray stone-look tile, a pebble floor and a glass door"
+  },
+  {
+   "slot": "service:Bathroom remodeling and tile",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Walk-in shower with a brass-handled glass door, blue-gray marble-look wall tile and a pebble mosaic floor"
+  },
+  {
+   "slot": "service:Kitchen remodeling",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_kitchen.jpg",
+   "ai_prompt": "Photorealistic photo of a remodeled kitchen in a southeastern Pennsylvania two-story home, forest green shaker lower cabinets, white upper cabinets, light quartz countertops, white subway tile backsplash, brushed brass hardware, light oak floor, window over the sink with soft natural daylight, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+   "alt": "Illustration of a remodeled kitchen with forest green lower cabinets, white uppers and light stone counters"
+  },
+  {
+   "slot": "service:Decks and covered patios",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Red-painted wood deck with white railings and French doors to a two-story home"
+  },
+  {
+   "slot": "service:Carpentry, concrete and plumbing",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Covered patio with a metal roof, wood posts and lighting over a wood deck at dusk"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Covered patio and wood deck built behind a gray-sided house, lit up at dusk"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Walk-in shower with blue-gray marble-look wall tile, pebble mosaic floor and frameless glass door with a brass handle"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Covered patio with a metal roof and lights over a wood deck behind a gray-sided house at dusk"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Painted red deck with white rail and balusters, string lights and French doors to the house"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Painted red deck with white railings behind a two-story home"
+  }
+ ],
  "facts_used": [
   {
    "fact": "Name Independence Renovations LLC., category Remodeler, address 2315 N Charlotte St, Pottstown, PA 19464",
@@ -320,7 +387,7 @@
   }
  ],
  "missing": [
-  "Only 3 project photos (gallery 3, below 6 to 10); the shower photo is low resolution (589x1278); no kitchen photo; Maps shows 19 photos, so more could be pulled",
+  "Needs project photos: only 3 project photos (gallery has 3, below 6 to 10); Maps shows 19 photos, so more could be pulled",
   "Nick's last name not published (Gemini owner field 'and currently' is junk)",
   "Years in business not found (Facebook page appears recent, but no start year stated)",
   "PA Home Improvement Contractor registration number and insurance not found",
@@ -329,7 +396,10 @@
   "Instagram URL not found (Gemini reports 797 followers but no link)",
   "Towns beyond Pottstown not named",
   "Gemini reviews were unrelated junk and were not used",
-  "Website URL for schema url (no site yet)"
+  "Website URL for schema url (no site yet)",
+  "Hero is an AI illustration (ai_hero_bathroom.jpg) because the only bathroom photo, maps_03, is 589x1278 with black bars and too small for a 16:9 hero; replace it with a real high-resolution bathroom photo",
+  "No kitchen photo: the Kitchen remodeling card uses an AI illustration (ai_service_kitchen.jpg)",
+  "Only 3 named reviews captured; one unnamed Google highlight was removed from testimonials because it has no name or date (it is still quoted in Why choose us as a review highlight)"
  ],
  "brand": {
   "logo_file": "images/logo.jpg",

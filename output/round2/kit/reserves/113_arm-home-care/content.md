@@ -94,7 +94,7 @@ _Image: `images/maps_01.jpg` (real photo), alt: "Floor-to-ceiling white built-in
 1. **Call Tom.** Call (973) 348-9915, Monday to Friday between 8 AM and 6 PM, and describe the bathroom or repair you have in mind.
 2. **Get an estimate.** The Facebook page asks homeowners to call for an estimate. You hear what the job involves and what it should cost before you decide.
 3. **The crew does the work.** Tom sends Don, Carlos or the right crew for the job. One reviewer says Don picked a minimally invasive fix and finished it efficiently.
-4. **Clean up and stay in touch.** One customer noted the crew cleaned the bathroom afterward. Keep the number handy for the next project, as several customers do.
+4. **Clean up and stay in touch.** When the work is done, walk through it with the crew. Keep the number handy for the next project, as several customers do.
 
 ## Recent Work from ARM Home Care
 

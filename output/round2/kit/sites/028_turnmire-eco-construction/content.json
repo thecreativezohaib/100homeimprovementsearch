@@ -36,13 +36,13 @@
   ],
   "image": {
    "file": "images/maps_02.jpg",
-   "alt": "Frameless glass walk-in shower with beige tile, black rain head and matte black handle, bathroom remodel by Turnmire Eco Construction of Kettle Falls"
+   "alt": "Frameless glass walk-in shower with beige tile and black fixtures, a bathroom remodel by Turnmire Eco Construction of Kettle Falls"
   }
  },
  "intro": {
   "h2": "Showers and bathrooms with a builder who listens",
   "paragraphs": [
-   "Turnmire Eco Construction handles bathroom remodels in Kettle Falls, and much of our work is the shower: tile walls with a built-in niche, a bench, a grab bar where you need it and a clean linear drain. Liam and his apprentice Chayse built one recently that the homeowner called beautiful, with high quality workmanship and a top notch work ethic.",
+   "Turnmire Eco Construction handles bathroom remodels in Kettle Falls, and much of our work is the shower: tile walls with a built-in niche, a bench, a grab bar where you need it and a clean linear drain. Liam and his apprentice Chayse built one for a customer who praised the high quality workmanship and top notch work ethic.",
    "Customers keep inviting us back. One family had us do a tile bathroom remodel, finish their attic with a new staircase and then redo a second small bathroom. Another has hired us for two remodels. They mention honest, straightforward advice and patience when they want to change things as the project takes shape."
   ]
  },
@@ -51,10 +51,10 @@
   "items": [
    {
     "name": "Full bathroom remodels",
-    "blurb": "We take a tired bathroom down and rebuild it with new tile, a new shower, vanity and fixtures. Customers say the finished rooms turned out beautifully, and that Liam was thorough at every stage of the job.",
+    "blurb": "We take a tired bathroom down and rebuild it with new tile, a new shower, vanity and fixtures. One customer said their tile bathroom remodel turned out beautifully, and reviewers describe Liam as very thorough in his work from start to finish.",
     "image": {
      "file": "images/cover.jpg",
-     "alt": "Bathroom with marble-look tile shower behind glass, white vanity cabinet and toilet"
+     "alt": "Bathroom with a marble-look tile shower behind glass, a white vanity cabinet and a toilet"
     }
    },
    {
@@ -62,7 +62,7 @@
     "blurb": "Our showers are built around how you use them: a recessed niche for bottles, a corner bench to sit on, a curved grab bar and a decorative tile band. Liam offers ideas along the way, and you decide what fits.",
     "image": {
      "file": "images/maps_04.jpg",
-     "alt": "Tile shower with corner bench, curved stainless grab bar, recessed niche and diamond-pattern border tile"
+     "alt": "Tile shower with a corner bench, curved stainless grab bar, recessed niche and diamond-pattern border tile"
     }
    },
    {
@@ -78,7 +78,9 @@
     "blurb": "Bathrooms are our focus, but not our limit. We have finished an attic and added a staircase, and taken on other remodel projects for repeat clients. If you have a construction challenge, Liam likes finding creative solutions.",
     "image": {
      "file": null,
-     "alt": null
+     "ai_file_name": "ai_service_attic_stairs.jpg",
+     "ai_prompt": "Photorealistic photo of a newly finished attic room under sloped ceilings in a rural northeastern Washington home: light wood plank floor, white painted walls, a new wooden staircase with a simple railing rising into the room, a gable window looking out on pine-covered hills, natural daylight, forest green and warm beige accents, clean and empty, no people, no faces, no text, no logos, no brand names, 4:3",
+     "alt": "Illustration of a finished attic room with sloped ceilings and a new wooden staircase"
     }
    }
   ]
@@ -96,7 +98,7 @@
    },
    {
     "title": "Flexible when plans change",
-    "text": "One client said we are super patient and flexible if you want to modify the project as you see it taking shape. Changing your mind mid-job is normal."
+    "text": "One client said Liam is super patient and flexible if you want to modify your project as you see it taking shape. Changing your mind mid-job is normal."
    },
    {
     "title": "Finishes as planned",
@@ -110,8 +112,8 @@
   "owner_name": "Liam Turnmire",
   "owner_role": "Owner and builder",
   "image": {
-   "file": null,
-   "alt": null
+   "file": "images/maps_03.jpg",
+   "alt": "Tile shower wall with a recessed niche, diamond-pattern band and curved grab bar built by Liam and his apprentice"
   }
  },
  "process": {
@@ -127,7 +129,7 @@
    },
    {
     "title": "Build",
-    "text": "Liam and his crew do the demolition, tile, plumbing fixtures and glass. You can adjust details as you see the room take shape."
+    "text": "Liam and his crew handle the demolition, tile work and fixtures. You can adjust details as you see the room take shape."
    },
    {
     "title": "Finish and walk through",
@@ -247,10 +249,6 @@
   "url": null,
   "telephone": "+15092204367",
   "email": "LiamTurnmire@gmail.com",
-  "founder": {
-   "@type": "Person",
-   "name": "Liam Turnmire"
-  },
   "address": {
    "@type": "PostalAddress",
    "streetAddress": "3478-B Moore Rd",
@@ -267,7 +265,7 @@
    "https://www.facebook.com/Turnmire-Eco-Construction-1800289366922206",
    "https://www.google.com/maps/place/?q=place_id:ChIJNbYkumoinlQR0LcW-M1Ocsk&hl=en"
   ],
-  "image": "images/maps_02.jpg"
+  "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfE9dPc7FOsxp7QBXmA1gesKazNERh9g-YLtc7mI6-Ykm8GCgPHnwfcrIKGxuHIsKdJEth9bypMo3ezVJm8101OFCG_cb0dloPDCWD-bI6sTiP2t-AZkT8XhORYcn8sQE-JuvFQ=s0"
  },
  "facts_used": [
   {
@@ -319,9 +317,10 @@
   "Kitchen remodeling and countertops listed by Gemini only, no photos or reviews; not given its own service",
   "Towns served beyond Kettle Falls not stated",
   "No logo: the Facebook profile picture is a personal photo; brand palette comes from it",
-  "Only 5 distinct project photos available (gallery has 5, below the 6 to 10 target)",
   "Gemini reviews were unrelated web text; not used",
-  "Website URL for schema to be filled in at publish"
+  "Website URL for schema to be filled in at publish",
+  "Needs project photos: only 5 distinct real photos (114 exist on Google), so the gallery has 5 and the attic card uses an AI illustration",
+  "Liam's last name comes from the email address LiamTurnmire@gmail.com and the business name; his title is not published"
  ],
  "brand": {
   "logo_file": null,
@@ -357,5 +356,81 @@
   "specific_detail": "Lisa W's review: you did a tile bathroom remodel, finished their attic with a new staircase, then redid a small bathroom, and the crew was there so long they actually kind of miss you.",
   "angle": "You have a 5.0 from 15 Google reviews over eight years and 114 photos, mostly showers, but no website. A homepage would show your niches, benches and glass showers to people searching for a bathroom remodel in Kettle Falls.",
   "subject_line_idea": "The crew Lisa says she misses"
- }
+ },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Frameless glass walk-in shower with beige tile and black fixtures, a bathroom remodel by Turnmire Eco Construction of Kettle Falls"
+  },
+  {
+   "slot": "service:Full bathroom remodels",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "Bathroom with a marble-look tile shower behind glass, a white vanity cabinet and a toilet"
+  },
+  {
+   "slot": "service:Custom tile showers",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Tile shower with a corner bench, curved stainless grab bar, recessed niche and diamond-pattern border tile"
+  },
+  {
+   "slot": "service:Shower floors and glass",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Grey square tile shower floor with a long linear drain along one side"
+  },
+  {
+   "slot": "service:Attics, stairs and other remodels",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_attic_stairs.jpg",
+   "ai_prompt": "Photorealistic photo of a newly finished attic room under sloped ceilings in a rural northeastern Washington home: light wood plank floor, white painted walls, a new wooden staircase with a simple railing rising into the room, a gable window looking out on pine-covered hills, natural daylight, forest green and warm beige accents, clean and empty, no people, no faces, no text, no logos, no brand names, 4:3",
+   "alt": "Illustration of a finished attic room with sloped ceilings and a new wooden staircase"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Tile shower wall with a recessed niche, diamond-pattern band and curved grab bar built by Liam and his apprentice"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Beige tile shower with corner bench, curved grab bar, niche and diamond border"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Tile shower wall with recessed niche, diamond-pattern band, curved grab bar and handheld shower bar"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Frameless glass shower with beige tile and black fixtures next to a toilet and wood vanity"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Grey square tile shower floor with a stainless linear drain"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "Marble-look tile shower with glass door beside a white vanity and toilet"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Beige tile shower with a diamond-pattern border, niche and curved grab bar"
+  }
+ ]
 }

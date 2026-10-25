@@ -106,7 +106,7 @@ Towns: Greenville
 ## Common Questions
 
 **What are your hours?**  
-Google does not list hours for Watson Construction, so the best way to reach the company is to call (662) 703-1991 or email onewatsonconstruction@gmail.com. Leave a short description of your bathroom or tile project and the best time to call you back.
+Watson Construction does not post set office hours, so the best way to reach the company is to call (662) 703-1991 or email onewatsonconstruction@gmail.com. Leave a short description of your bathroom or tile project and the best time to call you back.
 
 **Do you offer free estimates?**  
 Yes. Watson Construction offers free estimates. Call or email to set one up, and ask what the estimate covers and how long it is good for, so you can compare it fairly with other bids for the same bathroom work.

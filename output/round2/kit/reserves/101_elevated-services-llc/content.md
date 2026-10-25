@@ -69,7 +69,7 @@ _AI prompt: Photorealistic photo of a living room accent wall finished in grey a
 
 ## Why Ruidoso homeowners call Elevated Services
 
-**He shows up when he says he will.** A repeat client wrote that Jeremy is always extremely reliable and fair, and that he will be there when he says he will. For a bathroom you use every day, that matters.
+**He shows up when he says he will.** A repeat client wrote that Jeremy is always extremely reliable and fair, and that he turns up on the day he promises. For a bathroom you use every day, that matters.
 
 **Clients come back.** One client has used Jeremy and Elevated Services for several different projects and says they have learned to count on him to do fantastic work.
 
@@ -90,7 +90,7 @@ _Image: `images/maps_06.jpg` (real photo), alt: "Vinyl plank floor repair in pro
 1. **Call or email.** Call (575) 937-3752 Monday to Friday between 8 AM and 5 PM, or email a few photos of the room or floor.
 2. **Talk through the job.** Explain what you want changed, from a cracked plank floor to a full bathroom update, and ask what the work involves.
 3. **Choose materials.** Settle on tile, flooring, vanity, fixtures and finishes together before work starts, so you know exactly what is going in.
-4. **The work.** Jeremy and Elevated Services do the work. Reviewers describe someone who wants everything done correctly and arrives when he says he will.
+4. **The work.** Jeremy and Elevated Services do the work. Reviewers describe a craftsman who wants everything done correctly and keeps to the schedule he sets.
 5. **Walkthrough.** Look over the finished room together and point out anything you would like adjusted before the job is closed out.
 
 ## Recent bathroom and floor projects

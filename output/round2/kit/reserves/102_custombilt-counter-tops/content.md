@@ -38,7 +38,7 @@ The jobs range in size. One customer had the shop put together tops for three ki
 
 ### Formica laminate countertops
 
-Reviewers point to a huge selection of Formica colors, so you can match a countertop to your cabinets, floor or paint. Come by the shop on Albany Ave during the week to look at colors and talk through your layout.
+Formica laminate comes in a wide range of colors at the shop, so you can match a countertop to your cabinets, floor or paint. Come by the shop on Albany Ave during the week to look at colors and talk through your layout.
 
 _Image: AI-generated `ai_service_laminate.jpg`, alt: "Laminate countertop with a fan of color sample chips spread across it"_
 
@@ -46,7 +46,7 @@ _AI prompt: Photorealistic photo of a kitchen countertop run in a smooth solid-c
 
 ### Custom-made tops
 
-Not every kitchen fits a standard size. One customer needed every top in one of his kitchens custom made and thanked the shop for being very helpful and professional. Bring your measurements and the shop can talk through what your space needs.
+Not every kitchen fits a standard size. One customer needed every top in one of his kitchens custom made, and the shop built them along with the tops for his other kitchens. Bring your measurements and talk through what your space needs.
 
 _Image: AI-generated `ai_service_custom_tops.jpg`, alt: "L-shaped kitchen with a laminate countertop cut to fit an angled corner and peninsula"_
 
@@ -109,7 +109,7 @@ _No gallery yet: needs project photos._
 
 ## Countertops for Waycross and the surrounding area
 
-Custombilt Counter Tops is at 1822 Albany Ave, Waycross, GA 31503. Its Facebook page says the shop offers quality countertops in the Waycross, GA area. If you live outside town and want to know whether the shop can help with your project, call (912) 283-5704 during business hours and describe what you need. The shop opens at 7:30 AM Monday to Friday, and you can also stop in to see the Formica colors before you decide.
+Custombilt Counter Tops is at 1822 Albany Ave, Waycross, GA 31503. Its Facebook page says the shop offers quality countertops in the Waycross, GA area. If you live outside town and want to know whether the shop can help with your project, call (912) 283-5704 during business hours and describe what you need. You can also stop in on a weekday to see the Formica colors before you decide.
 
 Towns: Waycross
 
@@ -117,7 +117,7 @@ Towns: Waycross
 
 **What kind of countertops do you make?**
 
-Reviewers mention a huge selection of Formica colors and custom-made tops, and the shop builds countertops for full kitchens. The Facebook page also lists demolition among its services. For other materials, call (912) 283-5704 and ask what the shop can make for your project.
+The shop is known for Formica laminate tops in many colors and for custom-made tops, and the shop builds countertops for full kitchens. The Facebook page also lists demolition among its services. For other materials, call (912) 283-5704 and ask what the shop can make for your project.
 
 **Can I buy countertops and install them myself?**
 
@@ -133,7 +133,7 @@ Custombilt Counter Tops is at 1822 Albany Ave, Waycross, GA 31503. Stop in durin
 
 **How much do countertops cost?**
 
-Call (912) 283-5704 or visit the shop with your measurements and the number of tops you need. Prices depend on sizes, cutouts and the color you pick, and Google review highlights mention very reasonable prices. Estimate terms are not published, so ask when you call.
+Call (912) 283-5704 or visit the shop with your measurements and the number of tops you need. Prices depend on sizes, cutouts and the color you pick. Estimate terms are not published, so ask how pricing works for your job when you call or stop in.
 
 ## Ready to pick your countertop color?
 
