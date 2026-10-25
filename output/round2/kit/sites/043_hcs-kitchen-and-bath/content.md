@@ -41,13 +41,13 @@ HCS sells and installs kitchen cabinets, from shaker islands with deep drawer st
 
 ### Countertops
 
-Granite and stone countertops measured and installed to match your new cabinets. Reviewers single out countertops that showed up on time and fit correctly, which matters when cabinets and tops come together on the same job.
+Granite and stone countertops measured and installed to match your new cabinets. Because the tops and the cabinets beneath them come from the same company, one team is responsible for making the two fit together, from the template to the final install.
 
 ![Kitchen island with dark stained raised panel cabinets and a gold and cream granite countertop, cream perimeter cabinets behind](images/social_03.jpg)
 
 ### Bathroom cabinets and vanities
 
-Bath cabinets supplied and installed alongside your kitchen order or on their own. One homeowner bought both kitchen and bath cabinets from HCS for a combined remodel and called it a great experience from start to finish.
+Bath cabinets supplied and installed alongside your kitchen order or on their own. One homeowner used HCS for both the kitchen and bath cabinets during a combined kitchen and bath remodel project and called it a great experience.
 
 _AI image `ai_service_bath_vanity.jpg`: Illustration: walnut-stained bathroom vanity with a cream granite top_ (prompt in Image plan below)
 
@@ -75,7 +75,7 @@ _AI image `ai_service_insurance.jpg`: Illustration: kitchen with new stained woo
 
 ## About HCS Kitchen and Bath
 
-HCS Kitchen and Bath is a cabinet and countertop company with a location at 7560 A E Beaty Dr in Memphis, open weekdays from 9 to 5. The company sells and installs cabinets, countertops and hardware, and it handles both insurance claim repairs and planned remodels. Its Facebook page lists the business in Bartlett. Reviewers describe the people as ethical, easy to work with and genuinely helpful. To talk about your kitchen or bath, call the office or email Shane directly at shane@hcskitchenandbath.com.
+HCS Kitchen and Bath is a cabinet and countertop company based at 7560 A E Beaty Dr in Memphis, open weekdays from 9 to 5. The company sells and installs cabinets, countertops and hardware, and it handles both insurance claim repairs and planned remodels. Its Facebook page lists the business in Bartlett. Reviewers describe the people as ethical, easy to work with and genuinely helpful. To talk about your kitchen or bath, call the office or email Shane directly at shane@hcskitchenandbath.com.
 
 ![Dark stained kitchen island with a gold and cream granite countertop and cream perimeter cabinets](images/social_03.jpg)
 
@@ -207,7 +207,7 @@ Socials: https://www.facebook.com/p/HCS-Kitchen-and-Bath-100057523176660, https:
 
 ## Missing
 
-- Only 2 distinct photos captured (cover and social_02 are the same image); gallery is below the 6 minimum
+- Only 2 distinct photos captured (cover and social_02 are the same image); gallery is below the 6 minimum (needs project photos)
 - Needs bathroom, remodel and insurance-job photos: three service cards and the final CTA background use AI illustrations for now
 - Owner name and role not found; only the contact email shane@ (first name Shane, role unknown)
 - Years in business not found

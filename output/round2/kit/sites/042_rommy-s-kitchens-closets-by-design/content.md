@@ -29,7 +29,7 @@ A Latino-owned design and remodeling company on Main Street. Rommy designs the r
 
 Rommy's Kitchens & Closets by Design handles kitchen remodeling in Chula Vista with the design worked out first. Rommy plans the room with you before his team builds it. One client said he turned an archaic eyesore into the magnificent centerpiece of their home, well within their budget.
 
-The company also works on bathrooms, closets, tile and built-in entertainment walls. Small rooms get the same attention. As Rommy's own page puts it, a small space does not have to mean giving up quality. Clients mention regular check-ins during the job and a team that makes room for the extra items you add along the way.
+The company also works on bathrooms, closets, tile and built-in entertainment walls. Small rooms get the same attention. As Rommy's own page puts it, a small space does not have to mean giving up quality. Clients mention regular check-ins during the job and a designer who is easy to reach when questions come up.
 
 ## Remodeling services
 
@@ -65,7 +65,7 @@ _AI image `ai_service_tile.jpg`: Illustration: white marble subway tile backspla
 
 ## Why Chula Vista homeowners work with Rommy
 
-**A real design before anything is built.** Reviewers start with the design. One wrote that Rommy gave them a wonderful design and that the finished kitchen became the centerpiece of their home.
+**A real design before anything is built.** Rommy works out the layout, cabinets and finishes with you first, so you can see the plan and adjust it before any work begins. Clients single out his designs in their reviews.
 
 **Fair prices that respect your budget.** Clients describe prices as fair and honest and the work as well within budget. Google's review highlights also mention great customer service and prices.
 
@@ -130,7 +130,7 @@ That is one of the things clients mention most. One reviewer said Rommy worked w
 
 **My kitchen or bathroom is small. Is it worth remodeling?**
 
-Yes. Rommy's own page makes the point that a small space does not have to mean giving up quality or a high-end look. Any room, whatever its size, can be redesigned to work better. Bring measurements and photos and talk through the options.
+Yes. Rommy's own page makes the point that a small space does not have to mean giving up quality or luxury. Any room, whatever its size, can be redesigned to work better. Bring measurements and photos and talk through the options.
 
 **Can I add things once the project has started?**
 
@@ -211,7 +211,7 @@ Socials: https://www.facebook.com/rommysdesigns, https://www.instagram.com/rommy
 
 ## Missing
 
-- Only 3 usable photos captured (Google shows 65); gallery is below the 6 minimum until more are pulled
+- Only 3 usable photos captured (Google shows 65); gallery is below the 6 minimum until more are pulled (needs project photos)
 - Needs bathroom, closet and tile project photos: those three service cards use AI illustrations for now
 - Owner's full name not found (reviews say 'Rommy')
 - Licence number (CSLB) not found

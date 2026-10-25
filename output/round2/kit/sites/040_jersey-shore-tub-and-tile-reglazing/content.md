@@ -50,11 +50,11 @@ A stained or off-color shower pan can spoil an otherwise new bathroom. Reglazing
 
 Tired of a dated tile color? Wall and floor tile can be refinished in place instead of demolished. The bathroom shown here had its walls and floor reglazed, a big change with far less disruption than a full tile tear-out.
 
-![Bathroom tile reglazing shown in four photos, grey and lilac wall tile with white floor](images/cover.jpg)
+![Bathroom tile reglazing shown in four photos, gray and lilac wall tile with white floor](images/cover.jpg)
 
 ### Honest shower repairs
 
-Not every shower can be saved, and Denis will tell you so. When one shower was not repairable, he still did what he could to make it watertight instead of selling a job that would not last. The reviewer called him a stand up guy.
+Not every shower can be saved, and Denis will tell you so. When one shower was not repairable, he still did what he could to make it watertight instead of selling a job that would not last. The reviewer called him a stand-up guy.
 
 ![Refinished bright white shower floor and white tile walls behind a glass door](images/maps_04.jpg)
 
@@ -99,9 +99,9 @@ Named person: Denis, Owner
   Same shower pan from another angle
 - ![Bathtub and square tile surround refinished in white](images/maps_02.jpg)  
   Tub and tile surround refinished
-- ![Oval drop-in soaking tub refinished in a bone finish surrounded by grey tile](images/social_04.jpg)  
+- ![Oval drop-in soaking tub refinished in a bone finish surrounded by gray tile](images/social_04.jpg)  
   Drop-in tub refinished
-- ![Four views of a bathroom with refinished white floor tile and grey and lilac wall tile](images/cover.jpg)  
+- ![Four views of a bathroom with refinished white floor tile and gray and lilac wall tile](images/cover.jpg)  
   Tile reglazing, walls and floor
 
 ## What customers say
@@ -132,11 +132,11 @@ Yes. Jersey Shore Tub and Tile Reglazing is licensed in New Jersey, and the lice
 
 **Can my shower pan or tile really change color?**
 
-Often, yes. One customer had a yellowish beige shower pan in an otherwise new bathroom, and Denis reglazed it bright white. Wall and floor tile can be refinished too. Send a photo of yours and you will get an honest answer about what reglazing can do for it.
+Often, yes. A dated or stained shower pan, tub or tile wall can be reglazed in a fresh, bright finish without tearing anything out, and one customer's yellowish beige shower pan is now bright white. Send a photo of yours and you will get an honest answer about what reglazing can do for it.
 
 **What if my tub or shower can't be fixed?**
 
-You will be told the truth. One reviewer says Denis explained that his shower was not repairable, then did what he could to make it watertight instead of selling him a job that would not hold up. That honesty is why he calls Denis a stand up guy.
+You will get a straight answer. Send a photo first and Denis will tell you honestly whether reglazing makes sense, even when the answer is no. Reviewers say he puts his reputation ahead of making a sale and still helps where he can.
 
 **What are your hours?**
 
@@ -166,7 +166,7 @@ Socials: https://www.facebook.com/100083580752257, https://www.google.com/maps/p
 - **hero**: real photo `images/social_01.jpg`. Alt: Cast iron pedestal bathtub freshly reglazed glossy white in a masked-off room, tub reglazing in Toms River, NJ
 - **service:Bathtub reglazing**: real photo `images/maps_02.jpg`. Alt: Bathtub and white tile surround refinished to a clean bright white
 - **service:Shower pan refinishing**: real photo `images/maps_03.jpg`. Alt: Shower pan reglazed from yellowish beige to bright white, with glass door
-- **service:Tile reglazing**: real photo `images/cover.jpg`. Alt: Bathroom tile reglazing shown in four photos, grey and lilac wall tile with white floor
+- **service:Tile reglazing**: real photo `images/cover.jpg`. Alt: Bathroom tile reglazing shown in four photos, gray and lilac wall tile with white floor
 - **service:Honest shower repairs**: real photo `images/maps_04.jpg`. Alt: Refinished bright white shower floor and white tile walls behind a glass door
 - **service:Kitchen backsplashes**: AI image `ai_service_kitchen_backsplash.jpg`. Alt: Illustration: kitchen with a glossy white subway tile backsplash and white shaker cabinets  
   Prompt: Photorealistic photo of a bright kitchen in a New Jersey shore-town home with a freshly finished glossy white subway tile backsplash between white shaker cabinets and a light quartz countertop, a brushed nickel faucet, soft slate-blue walls and warm sand-colored accents, natural daylight from a nearby window; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
@@ -175,8 +175,8 @@ Socials: https://www.facebook.com/100083580752257, https://www.google.com/maps/p
 - **gallery_2**: real photo `images/maps_03.jpg`. Alt: Small stand-up shower with pan refinished bright white
 - **gallery_3**: real photo `images/maps_04.jpg`. Alt: Bright white refinished shower floor with glass door frame
 - **gallery_4**: real photo `images/maps_02.jpg`. Alt: Bathtub and square tile surround refinished in white
-- **gallery_5**: real photo `images/social_04.jpg`. Alt: Oval drop-in soaking tub refinished in a bone finish surrounded by grey tile
-- **gallery_6**: real photo `images/cover.jpg`. Alt: Four views of a bathroom with refinished white floor tile and grey and lilac wall tile
+- **gallery_5**: real photo `images/social_04.jpg`. Alt: Oval drop-in soaking tub refinished in a bone finish surrounded by gray tile
+- **gallery_6**: real photo `images/cover.jpg`. Alt: Four views of a bathroom with refinished white floor tile and gray and lilac wall tile
 - **final_cta**: AI image `ai_cta_bathtub.jpg`. Alt: Illustration: glossy white bathtub in a sunlit bathroom  
   Prompt: Photorealistic wide photo of a freshly reglazed glossy white bathtub with a white tile surround in a sunlit New Jersey shore cottage bathroom, soft slate-blue walls, a sand-colored bath mat and a window with warm late-afternoon light, calm and clean with plenty of empty space on one side for text overlay; no people, no faces, no text, no logos, no brand names. Aspect ratio 21:9.
 

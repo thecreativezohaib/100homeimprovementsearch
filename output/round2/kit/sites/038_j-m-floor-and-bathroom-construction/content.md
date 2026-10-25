@@ -43,7 +43,7 @@ Master and guest bathrooms taken back to the walls and rebuilt, from the plumbin
 
 A broken shower pan can hide leaks and mold for years. In one master bathroom the crew replaced a completely broken pan, fixed all the leakages behind it, then retiled the shower so it looks new and stays dry.
 
-![Shower with blue-grey marble-look porcelain tile and recessed niche after a new shower pan](images/maps_03.jpg)
+![Shower with blue-gray marble-look porcelain tile and recessed niche after a new shower pan](images/maps_03.jpg)
 
 ### Pipes and drainage
 
@@ -61,7 +61,7 @@ Floors are in the company name. The photos show bathroom floors finished in wood
 
 The finishing touches matter. Customers mention the bath accessories Jose Alberto recommended and the lights above the vanity, and the photos show white vanities, LED mirrors and matte black fixtures that pull the room together.
 
-![White bathroom vanity with mirror cabinet and blue-grey tiled shower wall beside it](images/maps_05.jpg)
+![White bathroom vanity with mirror cabinet and blue-gray tiled shower wall beside it](images/maps_05.jpg)
 
 ## Why homeowners choose J&M
 
@@ -75,18 +75,18 @@ The finishing touches matter. Customers mention the bath accessories Jose Albert
 
 ## About Jose Alberto and J&M
 
-J&M Floor and Bathroom Construction is a bathroom and flooring company serving Palmetto Bay and Miami. Jose Alberto leads the crew, and his is the name customers mention when they talk about knowledgeable advice and a job done right. One of the company's earliest Google reviews, from six years ago, was for new bathroom floors and called it the best quality for the best price. Today the work covers full bathroom remodels: new shower pans, pipes and drainage, tile, floors, vanities and lighting. Homeowners describe the team as professional, timely and fantastic at their job.
+J&M Floor and Bathroom Construction is a bathroom and flooring company serving Palmetto Bay and Miami. Jose Alberto leads the crew, and his is the name customers mention when they talk about knowledgeable advice and a job done right. The company's Google reviews go back six years, starting with new bathroom floors. Today the work covers full bathroom remodels: new shower pans, pipes and drainage, tile, floors, vanities and lighting. Homeowners describe the team as professional, timely and fantastic at their job, and say their remodeled bathrooms are something they can't wait to show off.
 
-Owner: Jose Alberto, Crew lead
+Named person: Jose Alberto, Crew lead
 
-![Grey marble-look tiled shower with niche, handheld shower and low curb](images/maps_02.jpg)
+![Gray marble-look tiled shower with niche, handheld shower and low curb](images/maps_02.jpg)
 
 ## How your remodel works
 
 1. **Free estimate.** Call (786) 608-0337 or email to set up a free estimate. Weekday hours run from 6 AM to 9 PM.
 2. **Inspect and plan.** We look at what is behind the tile too, like the shower pan, pipes and drainage, and plan the remodel around it.
 3. **Rebuild and finish.** The crew fixes leaks and plumbing first, then installs tile, floors, vanity, lighting and the accessories you choose.
-4. **Clean finish.** The crew keeps the work area clean and shows up on time. Reviewers describe them as very clean, responsive and attentive from start to finish.
+4. **Clean finish.** When the work is done, you get a clean, finished room. Reviewers describe the crew as very clean, responsive and attentive from start to finish.
 
 ## Before and after
 
@@ -96,16 +96,16 @@ Owner: Jose Alberto, Crew lead
   Guest bathroom, after
 - ![Guest bathroom with floating white vanity, black faucet and marble-look walls](images/maps_09.jpg)  
   Floating vanity and lit mirror
-- ![Shower walls in blue-grey marble-look porcelain with rust-colored veining and a niche](images/maps_03.jpg)  
+- ![Shower walls in blue-gray marble-look porcelain with rust-colored veining and a niche](images/maps_03.jpg)  
   Master bath shower after a new shower pan
-- ![White freestanding vanity with mirror cabinet next to the blue-grey shower](images/maps_05.jpg)  
+- ![White freestanding vanity with mirror cabinet next to the blue-gray shower](images/maps_05.jpg)  
   Master bath vanity
-- ![Bathroom with white toilet, window and blue-grey tile shower edge](images/maps_04.jpg)  
+- ![Bathroom with white toilet, window and blue-gray tile shower edge](images/maps_04.jpg)  
   Master bath, finished
 - ![White and black veined tile shower with pebble mosaic floor](images/maps_01.jpg)  
   Walk-in shower with pebble floor
-- ![Grey marble-look tile shower with niche and handheld shower](images/maps_02.jpg)  
-  Grey marble-look shower
+- ![Gray marble-look tile shower with niche and handheld shower](images/maps_02.jpg)  
+  Gray marble-look shower
 - ![Wood-look plank tile floor and dark wood vanity](images/cover.jpg)  
   New bathroom floor
 
@@ -125,7 +125,7 @@ Owner: Jose Alberto, Crew lead
 
 ## Bathroom remodeling in Palmetto Bay and Miami
 
-J&M Floor and Bathroom Construction is listed on Google in Palmetto Bay, Florida, and on Nextdoor as a Miami business, and the crew comes to your home. If you live in Palmetto Bay, Miami or nearby and have a bathroom or floor that needs work, call (786) 608-0337 for a free estimate and ask whether your neighborhood is covered. Early weekday hours help.
+J&M Floor and Bathroom Construction is listed on Google in Palmetto Bay, Florida, and on Nextdoor as a Miami business, and the crew comes to your home. If you live in Palmetto Bay, Miami or nearby and have a bathroom or floor that needs work, call (786) 608-0337 for a free estimate and ask whether your neighborhood is covered. Weekday hours start at 6 AM.
 
 Towns: Palmetto Bay, FL, Miami, FL
 
@@ -137,7 +137,7 @@ Yes. Free estimates are printed right on the J&M business card. Call (786) 608-0
 
 **My shower leaks. Can you fix it?**
 
-Leaks are something we deal with. In one master bathroom the crew found mold from an old leak and a completely broken shower pan, installed a new shower pan and fixed all the leakages before finishing the room. If you see stains, soft spots or mold, call us to take a look.
+Yes. A broken shower pan can let water get behind the walls for years before anyone notices. J&M replaces failed shower pans and fixes the leaks before any new tile goes up. If you see stains, soft spots or mold around your shower, call (786) 608-0337 and ask the crew to take a look.
 
 **Do you replace pipes and drains?**
 
@@ -174,19 +174,19 @@ Socials: https://www.facebook.com/100067487492434, https://www.instagram.com/jos
 
 - **hero**: real photo `images/maps_09.jpg`. Alt: Guest bathroom with white marble-look tile, floating vanity, lit mirror and black fixtures by J&M, which offers bathroom remodeling in Palmetto Bay, FL
 - **service:Complete bathroom remodels**: real photo `images/maps_08.jpg`. Alt: Remodeled guest bathroom with white marble-look porcelain, curbless walk-in shower and LED mirror
-- **service:Shower pans and leak repair**: real photo `images/maps_03.jpg`. Alt: Shower with blue-grey marble-look porcelain tile and recessed niche after a new shower pan
+- **service:Shower pans and leak repair**: real photo `images/maps_03.jpg`. Alt: Shower with blue-gray marble-look porcelain tile and recessed niche after a new shower pan
 - **service:Pipes and drainage**: real photo `images/maps_01.jpg`. Alt: Walk-in shower with white and black veined wall tile, pebble mosaic floor and a window
 - **service:Floor installation**: real photo `images/cover.jpg`. Alt: Wood-look plank tile floor in a bathroom with dark wood vanity and white door
-- **service:Vanities, lighting and accessories**: real photo `images/maps_05.jpg`. Alt: White bathroom vanity with mirror cabinet and blue-grey tiled shower wall beside it
-- **about**: real photo `images/maps_02.jpg`. Alt: Grey marble-look tiled shower with niche, handheld shower and low curb
+- **service:Vanities, lighting and accessories**: real photo `images/maps_05.jpg`. Alt: White bathroom vanity with mirror cabinet and blue-gray tiled shower wall beside it
+- **about**: real photo `images/maps_02.jpg`. Alt: Gray marble-look tiled shower with niche, handheld shower and low curb
 - **gallery_1**: real photo `images/maps_10.jpg`. Alt: Guest bathroom before remodel with textured walls, old patterned shower tile and diagonal floor tile
 - **gallery_2**: real photo `images/maps_08.jpg`. Alt: Same guest bathroom after, with white marble-look porcelain, curbless shower with bench and LED mirror
 - **gallery_3**: real photo `images/maps_09.jpg`. Alt: Guest bathroom with floating white vanity, black faucet and marble-look walls
-- **gallery_4**: real photo `images/maps_03.jpg`. Alt: Shower walls in blue-grey marble-look porcelain with rust-colored veining and a niche
-- **gallery_5**: real photo `images/maps_05.jpg`. Alt: White freestanding vanity with mirror cabinet next to the blue-grey shower
-- **gallery_6**: real photo `images/maps_04.jpg`. Alt: Bathroom with white toilet, window and blue-grey tile shower edge
+- **gallery_4**: real photo `images/maps_03.jpg`. Alt: Shower walls in blue-gray marble-look porcelain with rust-colored veining and a niche
+- **gallery_5**: real photo `images/maps_05.jpg`. Alt: White freestanding vanity with mirror cabinet next to the blue-gray shower
+- **gallery_6**: real photo `images/maps_04.jpg`. Alt: Bathroom with white toilet, window and blue-gray tile shower edge
 - **gallery_7**: real photo `images/maps_01.jpg`. Alt: White and black veined tile shower with pebble mosaic floor
-- **gallery_8**: real photo `images/maps_02.jpg`. Alt: Grey marble-look tile shower with niche and handheld shower
+- **gallery_8**: real photo `images/maps_02.jpg`. Alt: Gray marble-look tile shower with niche and handheld shower
 - **gallery_9**: real photo `images/cover.jpg`. Alt: Wood-look plank tile floor and dark wood vanity
 - **final_cta**: real photo `images/maps_03.jpg`. Alt: Shower wall in blue-gray marble-look porcelain with a recessed niche
 

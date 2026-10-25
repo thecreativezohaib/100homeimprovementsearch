@@ -81,7 +81,7 @@ The shop also builds one-off pieces: a matching dining table and bench in solid 
 
 ## Meet Josh and the Very Good Carpentry crew
 
-Very Good Carpentry LLC is a Lafayette remodeling company. Josh Romero is the company's main contact and leads the crew on site, and reviewers also mention Matt by name. The team brings 15 years of experience in construction and remodeling and focuses on full bathroom and kitchen remodels. Between remodels, the shop builds furniture and woodwork in mahogany, white oak, walnut and zebra wood, which explains the care that goes into every vanity and niche. The company's promise is simple: excellent communication, craftsmanship and cleanliness.
+Very Good Carpentry LLC is a Lafayette remodeling company. Josh Romero is the company's main contact and leads the crew on site, and reviewers also mention Matt by name. The team brings 15 years of experience in construction and remodeling and focuses on full bathroom and kitchen remodels. Between remodels, the shop builds furniture and woodwork in mahogany, white oak, walnut and zebra wood, which explains the care that goes into every vanity and niche. The company's promise is simple: talk often, build well and leave the house clean.
 
 Named person: Josh Romero, Main contact and crew lead
 
@@ -107,7 +107,7 @@ Named person: Josh Romero, Main contact and crew lead
 - ![Burgundy bathroom with fluted wood floating vanity, lighted round mirror and brass towel ladder](images/maps_08.jpg)  
   Fluted vanity and lighted mirror, Lafayette
 - ![Gray bathroom with white vanity top, round mirror and open shelving over the toilet](images/maps_01.jpg)  
-  Vanity, lighting and fixtures replaced in a full bath refresh
+  Vanity, mirror and lighting in a remodeled bath
 - ![Cypress tree trunk cross cut with dark walnut bowtie inlays](images/social_01.jpg)  
   Walnut inlays in a cypress cross cut, built in the shop
 
@@ -139,7 +139,7 @@ Named person: Josh Romero, Main contact and crew lead
 
 ## Remodeling in Lafayette, Louisiana
 
-Very Good Carpentry is based in Lafayette, Louisiana, and one reviewer calls her remodeled bath the most amazing bathroom in Lafayette. If you live in or around Lafayette and are planning a bathroom, kitchen or closet project, call (337) 380-6913 or email vgcarpentry@yahoo.com and tell Josh where you are. He will let you know whether your address fits the crew's schedule.
+Very Good Carpentry is based in Lafayette, Louisiana, and the bathroom remodels in its reviews include a small primary bath in Lafayette. If you live in or around Lafayette and are planning a bathroom, kitchen or closet project, call (337) 380-6913 or email vgcarpentry@yahoo.com and tell Josh where you are. He will let you know whether your address fits the crew's schedule.
 
 Towns: Lafayette, LA
 
@@ -151,7 +151,7 @@ The company specializes in full bathroom and kitchen remodels. Past jobs include
 
 **Do you work in Lafayette?**
 
-Yes. Very Good Carpentry is a Lafayette company, and one reviewer calls her remodeled bath the most amazing bathroom in Lafayette. If you are in a nearby town, call (337) 380-6913 and ask whether your project fits the schedule before you plan around it.
+Yes. Very Good Carpentry is based in Lafayette, Louisiana. If you are in a nearby town, call (337) 380-6913 and ask whether your project fits the crew's schedule before you plan around it, and mention the kind of room you want to remodel.
 
 **What are your hours?**
 
@@ -159,7 +159,7 @@ The office is open Monday through Friday, 8 AM to 5 PM, and closed on Saturday a
 
 **Can you build a custom vanity or other wood pieces?**
 
-Yes. This is a carpentry shop first. The crew has built a solid mahogany floating vanity with hidden plumbing, a white oak dining table and bench, a zebra wood headboard with built-in lamps, and walnut inlay work. Ask about a built piece for your remodel.
+Yes. This is a carpentry shop first, and custom vanities, shelving and furniture are part of the work, in woods like mahogany, white oak, walnut and zebra wood. Ask about a built piece when you talk through your remodel plan with Josh, and he can tell you what fits the room.
 
 **How do I get a price for my bathroom?**
 

@@ -55,7 +55,7 @@ Floor tile for bathrooms, entries and living spaces, from wood-look plank tile t
 
 Stone takes patience. Jason took on a challenging job laying random slate pieces across a foyer, fitting the irregular shapes together into a floor the homeowner says came out beautifully. Marble and other natural stone are part of the trade, and the name.
 
-![Foyer floor of random multicolored slate pieces in rust, blue and grey tones](images/maps_06.jpg)
+![Foyer floor of random multicolored slate pieces in rust, blue and gray tones](images/maps_06.jpg)
 
 ### Patios and outdoor steps
 
@@ -65,7 +65,7 @@ Tile does not have to stop at the back door. On one covered patio, large stone-l
 
 ## Why choose JCS Tile & Marble
 
-**Design ideas, not just install.** Reviewers say Jason asked the right questions, helped hand select their tile and suggested design ideas that made their bathroom even better than they had hoped.
+**Design ideas, not just install.** Jason is part of the planning, from choosing tile to working out the layout, and reviewers credit his suggestions with making their rooms better than they planned.
 
 **Clean from start to finish.** Jason and his assistant Max worked hard to keep the rest of the house clean and cleaned up after themselves when the job was done, one family wrote.
 
@@ -82,7 +82,7 @@ JCS Tile & Marble is a tile contractor based in Port Townsend, Washington. Jason
 ## How a tile job works
 
 1. **Talk it over.** Call (360) 643-3344, any day from 9 AM to 5 PM. Jason asks about the room, how you use it and what you have in mind.
-2. **Choose the tile.** Jason helps you pick tile and layout. One customer says he hand selected the tile they bought and added design ideas.
+2. **Choose the tile.** Jason helps you pick the tile and work out the layout, including details like niches, benches and accent bands.
 3. **Installation.** Jason and his assistant set the tile and keep you updated on scheduling, materials and design while the work is underway.
 4. **Clean up.** When the tile is done, Jason and his assistant clean up after themselves. One family said they kept the rest of the house clean throughout.
 
@@ -98,7 +98,7 @@ JCS Tile & Marble is a tile contractor based in Port Townsend, Washington. Jason
   Shower with built-in bench
 - ![Bathtub surround in blue square tiles with white wave-textured wall tile](images/cover.jpg)  
   Tub surround in blue tile
-- ![Entry floor of irregular slate pieces in rust, blue and grey](images/maps_06.jpg)  
+- ![Entry floor of irregular slate pieces in rust, blue and gray](images/maps_06.jpg)  
   Random slate foyer
 - ![Covered patio and two steps in large stone-look tile next to a lawn](images/maps_02.jpg)  
   Tiled patio and steps
@@ -127,11 +127,11 @@ Towns: Port Townsend, WA, Kala Point, WA
 
 **Can you help me choose tile?**
 
-Yes. Helping with tile and layout is part of how Jason works. One customer wrote that he asked all the right questions, hand selected the tile they bought and had design ideas that made their bathroom even better than they had hoped. Bring your ideas and photos and we will go from there.
+Yes. Helping with tile and layout is part of how Jason works, and reviewers credit his design ideas with making their bathrooms better than they had hoped. Bring photos of the room and any tile you like, and he can suggest patterns, accents and niches that suit the space.
 
 **Do you work with general contractors?**
 
-Yes. Jason is brought in by general contractors to handle the tile on their remodels, and he also works directly for homeowners. One family whose general contractor selected Jason said they couldn't be more pleased with the work, the communication and the clean up.
+Yes. Jason is brought in by general contractors to handle the tile on their remodels, and he also works directly for homeowners. One family whose general contractor selected Jason said they couldn't be more pleased with the work, the communication and the cleanup.
 
 **Do you install natural stone and slate?**
 
@@ -143,7 +143,7 @@ Google lists JCS Tile & Marble as open every day of the week, Sunday through Sat
 
 **What area do you cover?**
 
-JCS Tile & Marble is based in Port Townsend, Washington, and travels to your home for the work. One recent bathroom remodel was at Kala Point. If you are not sure whether your address is in range, call (360) 643-3344 and ask before you plan anything else.
+JCS Tile & Marble is based in Port Townsend, Washington, and travels to your home for the work. If you are not sure whether your address is in range, call (360) 643-3344 any day between 9 AM and 5 PM and ask before you plan anything else.
 
 ## Planning a shower, bathroom or floor?
 
@@ -170,7 +170,7 @@ Socials: https://www.facebook.com/jcs.tile.and.marble, https://www.google.com/ma
 - **service:Bathroom remodels**: real photo `images/maps_03.jpg`. Alt: Remodeled Kala Point bathroom with tiled walk-in shower, half wall, corner bench and terrazzo-look floor tile
 - **service:Walk-in showers and tub surrounds**: real photo `images/maps_01.jpg`. Alt: Walk-in shower with built-in bench, white wall tile and a band of blue glass mosaic
 - **service:Tile floors**: real photo `images/maps_05.jpg`. Alt: Wood-look plank floor tile beside a wood double vanity with blue glass vessel sinks
-- **service:Natural stone and slate**: real photo `images/maps_06.jpg`. Alt: Foyer floor of random multicolored slate pieces in rust, blue and grey tones
+- **service:Natural stone and slate**: real photo `images/maps_06.jpg`. Alt: Foyer floor of random multicolored slate pieces in rust, blue and gray tones
 - **service:Patios and outdoor steps**: real photo `images/maps_02.jpg`. Alt: Covered back patio and steps finished in large stone-look tile with teak dining set
 - **about**: real photo `images/cover.jpg`. Alt: Tub surround in blue square tile with white textured wall tile and gray floor tile
 - **gallery_1**: real photo `images/maps_04.jpg`. Alt: Double vanity with blue glass vessel sinks, patterned tile backsplash and glass walk-in shower with marble-look tile
@@ -178,7 +178,7 @@ Socials: https://www.facebook.com/jcs.tile.and.marble, https://www.google.com/ma
 - **gallery_3**: real photo `images/maps_03.jpg`. Alt: Walk-in shower behind a tiled half wall with corner bench and niche, terrazzo-look floor tile
 - **gallery_4**: real photo `images/maps_01.jpg`. Alt: Walk-in shower with low bench, matte black fixtures and blue glass mosaic band
 - **gallery_5**: real photo `images/cover.jpg`. Alt: Bathtub surround in blue square tiles with white wave-textured wall tile
-- **gallery_6**: real photo `images/maps_06.jpg`. Alt: Entry floor of irregular slate pieces in rust, blue and grey
+- **gallery_6**: real photo `images/maps_06.jpg`. Alt: Entry floor of irregular slate pieces in rust, blue and gray
 - **gallery_7**: real photo `images/maps_02.jpg`. Alt: Covered patio and two steps in large stone-look tile next to a lawn
 - **final_cta**: real photo `images/maps_03.jpg`. Alt: Remodeled bathroom with a tiled walk-in shower, half wall and speckled floor tile
 

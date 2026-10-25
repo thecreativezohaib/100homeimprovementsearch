@@ -38,7 +38,7 @@ Customers keep naming Victor, both Sr. and Jr. One couple hired VL for their kit
 
 Granite, quartz, quartzite and marble cut to your cabinets and installed with care. Reviewers say the crew watched out for their new cabinets during install, explained what they needed to know about the stone, and left everything cleaned up.
 
-![White quartz countertop with grey veining and undermount sink in a kitchen with white cabinets](images/maps_01.jpg)
+![White quartz countertop with gray veining and undermount sink in a kitchen with white cabinets](images/maps_01.jpg)
 
 ### Bathroom vanity tops
 
@@ -50,7 +50,7 @@ _AI image `ai_service_vanity_tops.jpg`: Illustration: bathroom vanity with a whi
 
 Bold slabs look best when the veining carries on. VL runs stone down the sides of islands and up the wall as full-height backsplashes, with matching niches cut into the slab, as in the boldly veined kitchen shown here.
 
-![White quartz with bold grey veining running from countertop up a full-height backsplash with two niches](images/social_04.jpg)
+![White quartz with bold gray veining running from countertop up a full-height backsplash with two niches](images/social_04.jpg)
 
 ### Bars and commercial tops
 
@@ -70,7 +70,7 @@ Need the old tops torn out first? VL lists kitchen remodeling and demolition alo
 
 **Careful, clean installs.** Six Google reviews mention a clean job. One family noted the crew took care not to damage their new cabinets and left with everything cleaned up.
 
-**Creative on site.** Instead of wasting the sink cut-out, the installers suggested using that remnant to extend a customer's backsplash. Small ideas like that are why reviewers call the team creative.
+**Creative on site.** Instead of wasting the sink cut-out, the installers suggested using that remnant to extend a customer's backsplash. Ideas like that are why one reviewer called Victor creative as well as professional.
 
 **Fair pricing, real value.** Reviewers describe the pricing as very fair and the work as great value. VL Granite & Marble also offers free estimates, so you know the cost before you commit.
 
@@ -89,9 +89,9 @@ VL Granite & Marble LLC is a stone fabrication and installation company in Sheri
 
 ## Countertop projects
 
-- ![White quartz island and peninsula with grey shaker cabinets, wood range hood and white hexagon tile backsplash](images/maps_04.jpg)  
+- ![White quartz island and peninsula with gray shaker cabinets, wood range hood and white hexagon tile backsplash](images/maps_04.jpg)  
   Quartz island and peninsula in a remodeled kitchen
-- ![White quartz kitchen island with light grey veining over white cabinets with gold pulls](images/maps_05.jpg)  
+- ![White quartz kitchen island with light gray veining over white cabinets with gold pulls](images/maps_05.jpg)  
   White quartz island top
 - ![Long white quartz countertop with undermount sink and window view, white cabinets behind](images/maps_01.jpg)  
   Quartz sink run and island
@@ -130,7 +130,7 @@ VL Granite & Marble LLC is a stone fabrication and installation company in Sheri
 
 ## Granite countertops in Sheridan and beyond
 
-VL Granite & Marble works from 1865 W Union Ave, Suite J, in Sheridan, Colorado. Past projects include a kitchen in Morrison and a backlit stone bar at Columbine Ranch in Sedalia, and one review describes the crew offering to drive more than an hour up the mountain to finish a kitchen island. If you are in the Denver area or the foothills, call and ask about your address.
+VL Granite & Marble works from 1865 W Union Ave, Suite J, in Sheridan, Colorado. Past projects include a kitchen in Morrison and a backlit stone bar at Columbine Ranch in Sedalia, and one couple's island took the crew up into the mountains. If you are in the Denver area or the foothills, call (303) 591-7523 and ask about your address.
 
 Towns: Sheridan, CO, Morrison, CO, Sedalia, CO
 
@@ -150,7 +150,7 @@ Yes. Besides kitchen countertops, we cut and install bathroom vanity tops. One c
 
 **Where do you work?**
 
-The shop is in Sheridan, Colorado, at 1865 W Union Ave, Suite J. Past projects include a kitchen in Morrison and a bar at Columbine Ranch in Sedalia, and the crew has offered to drive more than an hour up the mountain to finish a kitchen. Call (303) 591-7523 to ask about your area.
+The shop is in Sheridan, Colorado, at 1865 W Union Ave, Suite J. Past projects include a kitchen in Morrison and a stone bar at Columbine Ranch in Sedalia. If you live elsewhere in the Denver area or up in the foothills, call (303) 591-7523 to ask whether your address is covered.
 
 **What are your business hours?**
 
@@ -158,7 +158,7 @@ We are open Monday through Friday from 8 AM to 5 PM and closed on Saturday and S
 
 ## Ready for new countertops?
 
-Book a free estimate and pick your slab with a team that has 17 years in the stone industry.
+Book a free estimate and pick your slab with Victor and the VL Granite & Marble team.
 
 [Call (303) 591-7523](tel:+13035917523)  Phone: (303) 591-7523
 
@@ -178,15 +178,15 @@ Socials: https://www.facebook.com/vlgraniteandmarblellc, https://www.instagram.c
 ## Image plan
 
 - **hero**: real photo `images/maps_04.jpg`. Alt: White quartz island and peninsula over gray shaker cabinets, installed by VL Granite & Marble, who also fit granite countertops in Sheridan, CO
-- **service:Kitchen countertops**: real photo `images/maps_01.jpg`. Alt: White quartz countertop with grey veining and undermount sink in a kitchen with white cabinets
+- **service:Kitchen countertops**: real photo `images/maps_01.jpg`. Alt: White quartz countertop with gray veining and undermount sink in a kitchen with white cabinets
 - **service:Bathroom vanity tops**: AI image `ai_service_vanity_tops.jpg`. Alt: Illustration: bathroom vanity with a white veined quartzite top and undermount sink  
   Prompt: Photorealistic photo of a finished bathroom in a Colorado foothills home: a white quartzite vanity top with soft gray veining and an undermount sink on a dark walnut vanity, matching stone backsplash, matte black faucet, light gray walls, a window showing pine trees, soft natural daylight, crisp and uncluttered with subtle cool violet-gray tones; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
-- **service:Waterfall islands and full-height backsplashes**: real photo `images/social_04.jpg`. Alt: White quartz with bold grey veining running from countertop up a full-height backsplash with two niches
+- **service:Waterfall islands and full-height backsplashes**: real photo `images/social_04.jpg`. Alt: White quartz with bold gray veining running from countertop up a full-height backsplash with two niches
 - **service:Bars and commercial tops**: real photo `images/maps_03.jpg`. Alt: Backlit translucent stone bar top and wall columns at Columbine Ranch, Sedalia, Colorado
 - **service:Kitchen remodels and demolition**: real photo `images/cover.jpg`. Alt: Kitchen with new white quartz countertop and undermount sink beside stainless refrigerator
 - **about**: real photo `images/social_14.jpg`. Alt: VL installer working at the sink cut-out of a white quartz waterfall island during installation
-- **gallery_1**: real photo `images/maps_04.jpg`. Alt: White quartz island and peninsula with grey shaker cabinets, wood range hood and white hexagon tile backsplash
-- **gallery_2**: real photo `images/maps_05.jpg`. Alt: White quartz kitchen island with light grey veining over white cabinets with gold pulls
+- **gallery_1**: real photo `images/maps_04.jpg`. Alt: White quartz island and peninsula with gray shaker cabinets, wood range hood and white hexagon tile backsplash
+- **gallery_2**: real photo `images/maps_05.jpg`. Alt: White quartz kitchen island with light gray veining over white cabinets with gold pulls
 - **gallery_3**: real photo `images/maps_01.jpg`. Alt: Long white quartz countertop with undermount sink and window view, white cabinets behind
 - **gallery_4**: real photo `images/maps_02.jpg`. Alt: Black and white granite bar top with waterfall edge and bar stools
 - **gallery_5**: real photo `images/social_01.jpg`. Alt: Bold veined white quartz island with full-height matching backsplash in a bright kitchen with tall windows

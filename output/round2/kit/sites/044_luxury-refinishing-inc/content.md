@@ -35,7 +35,7 @@ Refinishing lets you keep a sound tub or solid cabinets and change how they look
 
 ### Bathtub and bathroom refinishing
 
-The company's most reviewed service. A worn or dated bathtub and bathroom surfaces get a fresh finish without tearing everything out, so you keep the tub that already fits the room. Ask what can be refinished in your bathroom before you plan a full demolition.
+The company's most reviewed service. A worn or dated bathtub and tired bathroom surfaces get a fresh finish without tearing everything out, so you keep the tub that already fits the room. Ask what can be refinished in your bathroom before you plan a full demolition.
 
 _AI image `ai_service_bathtub.jpg`: Illustration: glossy white bathtub with a white tile surround in a bright bathroom_ (prompt in Image plan below)
 
@@ -71,11 +71,11 @@ _AI image `ai_service_flooring.jpg`: Illustration: light gray large-format tile 
 
 **Found by neighbor recommendation.** One family found Reidel on Nextdoor after another neighbor recommended him. After a wall unit and two bathrooms, they said they plan to hire him for more projects.
 
-**Early hours, personal replies.** The phone line opens at 5 AM on weekdays and runs to 6 PM. The owner replies to Google reviews and thanks clients for trusting Luxury Refinishing.
+**Early hours.** The phone line opens at 5 AM on weekdays and runs to 6 PM, so you can call before work. You can also email photos of your tub or cabinets at any time.
 
 ## About Luxury Refinishing Inc
 
-Luxury Refinishing Inc is a refinishing and remodeling company in Miramar, Florida. Clients name Reidel as the person who does the work, and they describe him as meticulous and careful with small details. The core of the business is what its name says: refinishing bathtubs, bathrooms and cabinets so homeowners can keep what is solid and change how it looks. The company also handles kitchen and bathroom remodeling, flooring and demolition. It holds a 5.0 rating from 31 Google reviews, and one family found Reidel through a neighbor's recommendation on Nextdoor.
+Luxury Refinishing Inc is a refinishing and remodeling company in Miramar, Florida. Clients name Reidel as the person who does the work. The core of the business is what its name says: refinishing bathtubs, bathrooms and cabinets so homeowners can keep what is solid and change how it looks. The company also handles kitchen and bathroom remodeling, flooring and demolition. It holds a 5.0 rating from 31 Google reviews, and the owner answers reviews personally, thanking clients for trusting Luxury Refinishing with their homes.
 
 Named person: Reidel, Refinisher (named in reviews)
 
@@ -128,11 +128,11 @@ Bathtubs, bathroom surfaces and cabinets, including large built-in wall units. B
 
 **Do you also do full remodels?**
 
-Yes. Besides refinishing, Luxury Refinishing takes on kitchen and bathroom remodeling, flooring and demolition. One client described an excellent remodeling experience from start to finish, with great communication and beautiful results. Call to talk through which option makes sense for your room.
+Yes. Besides refinishing, Luxury Refinishing takes on kitchen and bathroom remodeling, flooring and demolition. If you are not sure whether a room needs a new finish or a full remodel, send photos and talk it through with the team before deciding which option makes sense.
 
 **Where are you located?**
 
-The company is based in Miramar, Florida, and a client called it the best bathtub refinisher in South Florida. There is no public street address on Google. Call (786) 236-4294 and give your town to confirm the team can reach your home before you book.
+The company is based in Miramar, Florida, and works across South Florida. There is no public street address on Google, so the work happens at your home. Call (786) 236-4294 and give your town to confirm the team can reach you before you book.
 
 **What are your hours?**
 
@@ -140,7 +140,7 @@ Monday to Friday from 5 AM to 6 PM. The business is closed on Saturday and Sunda
 
 **Can you refinish my dark wood cabinets in white?**
 
-Yes. One family had a huge cherry wood wall unit refinished in white, along with work in two of their bathrooms, and they said Reidel paid special attention to the small details. Send photos of your cabinets so he can look at their condition and the finish you want.
+Yes. One family had a huge cherry wood wall unit refinished in white, and the before and after photos are on this page. Send photos of your cabinets so the team can look at their condition, talk through the finish you want and tell you what to expect.
 
 ## Give your tub or cabinets a second life
 
@@ -215,7 +215,7 @@ Socials: https://www.facebook.com/100057533765730, https://www.google.com/maps/p
 ## Missing
 
 - Needs bathtub and bathroom refinishing photos, the main service (Google shows 17 photos): the bathtub and flooring cards and the final CTA background use AI illustrations for now
-- Gallery has 4 images, below the 6 minimum
+- Gallery has 4 images, below the 6 minimum (needs project photos)
 - No street address or service area on Google; Miramar comes from Facebook
 - Reidel's surname and role (owner or not) not found
 - Years in business not found

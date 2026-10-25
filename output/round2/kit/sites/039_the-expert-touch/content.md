@@ -30,7 +30,7 @@ See it before it is built: The Expert Touch plans your kitchen or bathroom with 
 
 The Expert Touch handles home remodeling in Toms River from a real showroom at 1021 Route 37, where the sign out front says it plainly: kitchens and bathrooms. You start with a free estimate and 3D drawings, so you can see your new room before any demolition begins.
 
-Bathroom renovations come up most in the reviews, followed by kitchen remodels and the friendly crew. One customer had her mom's bathroom remodeled and says the showroom was super helpful, the prices competitive and the workers on time and respectful. Even the family dog liked them. Another credits Don and Andrew with making everything easy from design to the finishing touches.
+Bathroom renovations come up most in the reviews, followed by kitchen remodels and the friendly crew. One customer had her mom's bathroom remodeled and says the showroom was super helpful, the prices competitive and the workers on time and respectful. Even the family dog liked them. Another found the team to be great listeners when it came to what they wanted, from design to the finishing touches.
 
 ## Kitchens, bathrooms and more
 
@@ -42,9 +42,9 @@ Full kitchen remodels planned with 3D drawings: new layout, cabinets, countertop
 
 ### Bathroom renovations
 
-The job customers mention most often. Walk-in showers and tub surrounds with large-format tile, mosaic accent bands and built-in niches, plus new vanities and tops. One customer had a bathroom remodeled for her mom and praised how respectful the crew was.
+The job customers mention most often. Walk-in showers and tub surrounds with large-format tile, mosaic accent bands and built-in niches, plus new vanities and tops, all chosen with help from the showroom and planned in 3D before work starts.
 
-![Shower with large grey wall tile, hexagon mosaic band, two recessed niches and glass door](images/maps_05.jpg)
+![Shower with large gray wall tile, hexagon mosaic band, two recessed niches and glass door](images/maps_05.jpg)
 
 ### Custom cabinets
 
@@ -56,11 +56,11 @@ Cabinets that make use of every wall, from tall pantry towers around the refrige
 
 Stone countertops with bold veining or a quiet dark matte finish, paired with subway tile or mosaic backsplashes. The same choices carry into bathrooms too, like the vanity top in black and white swirled stone shown in the gallery below.
 
-![White kitchen with grey and white granite countertops, stainless appliances and mosaic backsplash](images/maps_03.jpg)
+![White kitchen with gray and white granite countertops, stainless appliances and mosaic backsplash](images/maps_03.jpg)
 
 ### Flooring and home improvements
 
-New floors that tie the rooms together, plus the repairs and improvements promised on the sign out front, which reads home remodeling and repairs. The photos also include new entry doors with decorative leaded glass, a quick way to change how a house greets you.
+New floors that tie the rooms together, plus general home repairs and improvements. The photos also include new entry doors with decorative leaded glass, a quick way to change how a house greets you before guests even step inside.
 
 ![White double entry doors with tall decorative leaded glass inserts](images/social_03.jpg)
 
@@ -68,7 +68,7 @@ New floors that tie the rooms together, plus the repairs and improvements promis
 
 **See it first in 3D.** Free estimates come with 3D drawings, so you can see the layout, cabinets and finishes before work starts, and change your mind on paper instead of on site.
 
-**A showroom you can visit.** The Route 37 showroom lets you see and touch materials. One reviewer said the showroom was super helpful for her mom and the prices competitive.
+**A showroom you can visit.** The Route 37 showroom lets you see and touch materials before you choose. Reviewers call it super helpful and describe the prices as competitive.
 
 **On time, informed, spotless.** Reviewers say the crew showed up exactly when they said, returned phone calls, kept them informed throughout and left everything spotless when the job was done.
 
@@ -87,17 +87,17 @@ The Expert Touch, also known as Total Home Improvements, is a remodeling company
 3. **Choose materials.** Pick cabinets, countertops, tile and fixtures with help in the showroom. Reviewers say the team listens closely to what you want.
 4. **Build and finish.** The crew shows up when promised, keeps you informed, cleans up before leaving each day and handles the finishing touches.
 
-## Kitchens, bathrooms and more
+## Kitchen and bath projects
 
 - ![Long navy kitchen island with dark matte stone top, leather bar stools and three glass pendants](images/maps_01.jpg)  
   Navy island kitchen with black farmhouse sink
 - ![White shaker kitchen with cooktop in a swirled stone island and tall pantry cabinets](images/maps_02.jpg)  
   White kitchen with swirled stone island
-- ![White kitchen with grey granite countertops, stainless range and pendant lights](images/maps_03.jpg)  
-  White cabinets with grey granite
+- ![White kitchen with gray granite countertops, stainless range and pendant lights](images/maps_03.jpg)  
+  White cabinets with gray granite
 - ![Floor-to-ceiling white pantry cabinets beside a doorway](images/maps_04.jpg)  
   Tall pantry cabinets
-- ![Grey tile shower with hexagon mosaic band and two niches behind a glass door](images/maps_05.jpg)  
+- ![Gray tile shower with hexagon mosaic band and two niches behind a glass door](images/maps_05.jpg)  
   Shower with mosaic band and niches
 - ![White bathroom vanity with black and white swirled stone top and rounded mirror](images/maps_06.jpg)  
   Vanity with swirled stone top
@@ -138,7 +138,7 @@ Yes. The Expert Touch offers free estimates, and they come with 3D drawings of y
 
 **Can I visit a showroom?**
 
-Yes. Our showroom is at 1021 NJ-37, Unit D, Toms River, NJ 08755, and it is open Monday through Friday from 8 AM to 4 PM. One customer said the showroom was super helpful when her mom was choosing materials for a bathroom remodel.
+Yes. Our showroom is at 1021 NJ-37, Unit D, Toms River, NJ 08755, and it is open Monday through Friday from 8 AM to 4 PM. Stop by to look at cabinets, countertops and tile, or call (732) 820-6720 first to set a time.
 
 **Do you offer financing?**
 
@@ -175,16 +175,16 @@ Socials: https://www.facebook.com/people/The-Expert-Touch/100057405493125/, http
 
 - **hero**: real photo `images/maps_02.jpg`. Alt: White shaker kitchen with a swirled stone island cooktop and tall pantry cabinets by The Expert Touch, home remodeling in Toms River, NJ
 - **service:Kitchen remodeling**: real photo `images/maps_01.jpg`. Alt: Kitchen with a long navy island, dark stone countertop, white cabinets and three glass pendant lights
-- **service:Bathroom renovations**: real photo `images/maps_05.jpg`. Alt: Shower with large grey wall tile, hexagon mosaic band, two recessed niches and glass door
+- **service:Bathroom renovations**: real photo `images/maps_05.jpg`. Alt: Shower with large gray wall tile, hexagon mosaic band, two recessed niches and glass door
 - **service:Custom cabinets**: real photo `images/maps_04.jpg`. Alt: Tall white shaker pantry cabinets with brushed nickel pulls in a hallway
-- **service:Countertops and backsplashes**: real photo `images/maps_03.jpg`. Alt: White kitchen with grey and white granite countertops, stainless appliances and mosaic backsplash
+- **service:Countertops and backsplashes**: real photo `images/maps_03.jpg`. Alt: White kitchen with gray and white granite countertops, stainless appliances and mosaic backsplash
 - **service:Flooring and home improvements**: real photo `images/social_03.jpg`. Alt: White double entry doors with tall decorative leaded glass inserts
 - **about**: real photo `images/cover.jpg`. Alt: The Expert Touch storefront on Route 37 in Toms River, with a sign for home remodeling and repairs, kitchens and bathrooms
 - **gallery_1**: real photo `images/maps_01.jpg`. Alt: Long navy kitchen island with dark matte stone top, leather bar stools and three glass pendants
 - **gallery_2**: real photo `images/maps_02.jpg`. Alt: White shaker kitchen with cooktop in a swirled stone island and tall pantry cabinets
-- **gallery_3**: real photo `images/maps_03.jpg`. Alt: White kitchen with grey granite countertops, stainless range and pendant lights
+- **gallery_3**: real photo `images/maps_03.jpg`. Alt: White kitchen with gray granite countertops, stainless range and pendant lights
 - **gallery_4**: real photo `images/maps_04.jpg`. Alt: Floor-to-ceiling white pantry cabinets beside a doorway
-- **gallery_5**: real photo `images/maps_05.jpg`. Alt: Grey tile shower with hexagon mosaic band and two niches behind a glass door
+- **gallery_5**: real photo `images/maps_05.jpg`. Alt: Gray tile shower with hexagon mosaic band and two niches behind a glass door
 - **gallery_6**: real photo `images/maps_06.jpg`. Alt: White bathroom vanity with black and white swirled stone top and rounded mirror
 - **gallery_7**: real photo `images/social_03.jpg`. Alt: Double entry doors with decorative leaded glass panels
 - **final_cta**: real photo `images/maps_03.jpg`. Alt: White kitchen with gray granite countertops, stainless appliances and a mosaic backsplash

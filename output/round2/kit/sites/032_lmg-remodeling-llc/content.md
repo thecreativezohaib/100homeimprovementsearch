@@ -81,14 +81,14 @@ Smaller jobs get the same care. Reviewers have hired LMG to replace a gable vent
 
 ## About LMG Remodeling
 
-LMG Remodeling, LLC is a family business based in Hagerstown, Maryland. In their own words, they do professional work, reasonably priced and done perfect from the start. Armando is the name customers mention most, for his clear communication and for suggestions that improved the final result. The company is licensed with the Maryland Home Improvement Commission under MHIC #05-152424. The work ranges from kitchen and bathroom remodels to drywall, paint, flooring, tile, doors and windows, along with smaller jobs like a gable vent or a split rail fence.
+LMG Remodeling, LLC is a family business based in Hagerstown, Maryland. Armando is the name customers mention most, for his clear communication and for suggestions that improved the final result. The company is licensed with the Maryland Home Improvement Commission under MHIC #05-152424. The work ranges from kitchen and bathroom remodels to drywall, paint, flooring, tile, doors and windows, along with smaller jobs like a gable vent or a split rail fence. Facebook posts show the range: power washing, exterior paint, a leaking condo window and even power for a homeowner's chicken coops.
 
 ![LMG crew's tools, sawhorses and shop vacuum in a basement during drywall taping and mudding](images/maps_06.jpg)
 
 ## How a project with LMG goes
 
 1. **Reach out.** Call (240) 919-9294, email or send LMG a Facebook message with a few photos of what you need done, big or small.
-2. **Talk it through.** Armando looks at the job and makes suggestions. One customer said those suggestions really improved the final result.
+2. **Talk it through.** Armando looks at the job with you, answers your questions and talks through the options before any work starts.
 3. **Work with regular updates.** The crew does the work and keeps you informed. Reviewers describe prompt replies and clear communication from start to finish.
 4. **Clean up and walkthrough.** When the work is done, the crew cleans up. One family said LMG left their home cleaner than they found it.
 
@@ -129,7 +129,7 @@ LMG Remodeling, LLC is a family business based in Hagerstown, Maryland. In their
 
 ## Home remodeling in Hagerstown, MD
 
-LMG Remodeling, LLC is based at 823 Woodland Way in Hagerstown, Maryland, and Hagerstown is the town named on its Facebook page. Kitchen and bath remodels, basements, painting and the smaller repairs on your list are all welcome, and so are quick fixes. If you live nearby and are not sure whether your address is covered, call (240) 919-9294 and ask before you book.
+LMG Remodeling, LLC is based at 823 Woodland Way in Hagerstown, Maryland, and Hagerstown is the town named on its Facebook page. Kitchen and bath remodels, basements, painting, power washing and small repairs are all welcome. If you live nearby and are not sure whether your address is covered, call (240) 919-9294 and ask before you book a visit or an estimate.
 
 Towns: Hagerstown, MD
 
@@ -238,6 +238,7 @@ Socials: https://www.facebook.com/LMGRemodelingLLC, https://www.google.com/maps/
 - Power washing of siding, foundation, walkway, porch and deck (source: Facebook post https://www.facebook.com/LMGRemodelingLLC/posts/power-washthis-cute-house-its-all-clean-for-the-summerwe-cleaned-all-siding-foun/691953789605142/)
 - Junk removal and moving services offered (source: Facebook post Mar 31, 2026 https://www.facebook.com/LMGRemodelingLLC/posts/we-also-are-offering-junk-removal-services-moving-services-and-more/1558803066253539/)
 - Hagerstown as service town (source: Google Maps address; Gemini service_towns)
+- Helped a homeowner bring power to their chicken coops for two AC units (source: Facebook post Aug 27, 2026 https://www.facebook.com/LMGRemodelingLLC/posts/this-time-we-were-called-to-help-a-homeowner-figure-out-how-to-bring-power-to-th/1698660088934502/)
 
 ## Missing
 
