@@ -78,7 +78,8 @@ for d in sorted(glob.glob(f"{K}/sites/[0-9]*_*") + glob.glob(f"{K}/reserves/[0-9
     real = len({e["file"] for e in plan if e.get("source") == "real" and e.get("file")})
     ai = sum(1 for e in plan if e.get("source") == "ai")
     tst = len((c.get("testimonials") or {}).get("items") or [])
-    unconfirmed = "EMAIL UNCONFIRMED" in miss
+    # Brooksberry: a 1-star review says the location closed; ranked with the unconfirmed until it is confirmed open
+    unconfirmed = "EMAIL UNCONFIRMED" in miss or rank == "128"
     pool.append({"dir": d, "name": name, "c": c, "r": r, "reason": reason, "real": real, "ai": ai, "tst": tst,
                  "unconfirmed": unconfirmed, "lint": lint(d, c, r), "email": email or "",
                  "score": (0 if unconfirmed else 1, min(real, 10) + 2 * min(tst, 3) + (3 if r.get("tier") == "main" else 0))})

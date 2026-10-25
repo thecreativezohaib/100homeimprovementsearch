@@ -3,7 +3,7 @@
 ## SEO
 
 - Title tag: Kitchen Cabinets, Russellville KY | Chapel Cabinet Company (58 chars)
-- Meta description: Kitchen cabinets in Russellville, KY from Chapel Cabinet Company, a cabinet maker on Morgantown Rd. 5.0 on Google, including a flood-damaged kitchen rebuilt. (157 chars)
+- Meta description: Kitchen cabinets in Russellville, KY from Chapel Cabinet Company, a cabinet maker on Morgantown Rd. Rated 5.0 on Google for planning, matching and quality work. (160 chars)
 - Primary keyword: kitchen cabinets Russellville
 - Secondary keywords: cabinet maker Russellville KY, custom kitchen cabinets Russellville KY, replace kitchen cabinets Russellville, flood damaged kitchen cabinets KY, kitchen countertops Russellville KY, Logan County KY cabinet maker, Chapel Cabinet Company
 - OG title: Chapel Cabinet Company, Russellville, KY
@@ -15,7 +15,7 @@ _Cabinet maker on Morgantown Rd, Russellville, KY_
 
 # Kitchen Cabinets in Russellville from a Local Cabinet Maker
 
-Lance and his team help you plan, match and replace kitchen cabinets and counters, from a full new kitchen to one that needs to be put back together.
+Lance and his team help you plan, match and replace kitchen cabinets and counters, whether you want new cabinets or need part of a kitchen put back together.
 
 [Call (270) 542-4051](tel:+12705424051)  |  [Ask about your kitchen](#contact)
 
@@ -27,21 +27,21 @@ Lance and his team help you plan, match and replace kitchen cabinets and counter
 
 ## Cabinets made to fit your kitchen
 
-Chapel Cabinet Company is a cabinet maker at 8072 Morgantown Rd that builds and replaces kitchen cabinets in Russellville, Kentucky. Lance and his team work with you on the plan, then see the job through to the last cabinet door.
+Chapel Cabinet Company is a cabinet maker at 8072 Morgantown Rd that builds and replaces kitchen cabinets in Russellville, Kentucky. Lance and his team work with you on the plan, then carry out the work, from new cabinets to matching replacements.
 
-One recent customer had a flood-damaged kitchen. Lance's team matched and replaced the cabinets and counters, and the homeowner says they were completely satisfied with the help in planning, the time to completion, the price and the quality of the work. Other customers call the team very prompt and available. The photos show the range: a bright white kitchen under a coffered ceiling and a cream glazed kitchen with a tall wood hood.
+One customer had a flood-damaged kitchen. Lance's team matched and replaced the cabinets and counters, and the homeowner says they were completely satisfied with the help in planning, the time to completion, the price and the quality of the work. Other customers call the team very prompt and available. The photos show the range: a bright white kitchen under a coffered ceiling and a cream glazed kitchen with a tall wood hood.
 
 ## What Chapel Cabinet Company does
 
 ### Kitchen cabinets
 
-As a cabinet maker, Chapel Cabinet Company works on kitchens from the cabinets up. The photos show raised-panel doors with a glazed cream finish, carved columns on the base cabinets, crown molding and a tall matching range hood. Ask Lance about the style you have in mind.
+Chapel Cabinet Company is listed on Google as a cabinet maker, and kitchen cabinets are its main work. The photos show raised-panel doors with a glazed cream finish, carved columns on the base cabinets, crown molding and a tall matching range hood. Ask Lance about the style you have in mind.
 
 ![Cream glazed raised-panel kitchen cabinets with a tall wood range hood, under-cabinet lights and granite counters](images/maps_02.jpg)
 
 ### Matching and replacing damaged cabinets
 
-Water and flood damage often ruin part of a kitchen, not all of it. For one Russellville-area customer, Lance and his team matched and replaced the cabinets and counters in a flood-damaged kitchen, and the homeowner would recommend them without reservation.
+Water and flood damage often ruin part of a kitchen, not all of it. For one customer, Lance and his team matched and replaced the cabinets and counters in a flood-damaged kitchen, and the homeowner would recommend them without reservation.
 
 _AI image `ai_service_replacement.jpg`_: Traditional kitchen with cream raised-panel cabinets and granite counters
 
@@ -53,7 +53,7 @@ _AI image `ai_service_countertops.jpg`_: Granite countertop on a white kitchen i
 
 ### Help with planning
 
-A good kitchen starts with a good plan. Michael C. says his family was completely satisfied with the help in planning, and Richard E. calls the team very prompt and available to take care of business. Call to talk through your kitchen before anything is ordered.
+A good kitchen starts with a good plan. Michael C. says they were completely satisfied with the help in planning, and Richard E. calls the team very prompt and available to take care of business. Call to talk through your kitchen before anything is ordered.
 
 _AI image `ai_service_planning.jpg`_: Tape measure, pencil and cabinet doors on a workbench
 
@@ -69,7 +69,7 @@ _AI image `ai_service_planning.jpg`_: Tape measure, pencil and cabinet doors on 
 
 ## About Chapel Cabinet Company
 
-Chapel Cabinet Company is a cabinet maker at 8072 Morgantown Rd in Russellville, Kentucky, open Monday to Friday from 7:30 AM to 4:30 PM. Lance and his team are the people customers name in reviews. They plan the work with you, match new cabinets to what you have when only part of a kitchen needs replacing, and replace counters along with the cabinets. The photos show the kind of kitchens they work on, from a white kitchen with a coffered ceiling and apron-front sink to a cream glazed kitchen with carved columns and a tall wood hood.
+Chapel Cabinet Company is a cabinet maker at 8072 Morgantown Rd in Russellville, Kentucky, open Monday to Friday from 7:30 AM to 4:30 PM. A customer review names Lance and his team. They plan the work with you, match new cabinets to what you have when only part of a kitchen needs replacing, and replace counters along with the cabinets. The photos show the kind of kitchens they work on, from a white kitchen with a coffered ceiling and apron-front sink to a cream glazed kitchen with carved columns and a tall wood hood.
 
 Owner: Lance (Leads the team named in a Google review ('Lance and his team'); owner title and last name not confirmed)
 
@@ -115,7 +115,7 @@ The shop is at 8072 Morgantown Rd, Russellville, KY 42276. Google lists the hour
 
 **Can you match cabinets after flood or water damage?**
 
-Yes, it has been done. Michael C. had a flood-damaged kitchen, and Lance and his team matched and replaced the cabinets and counters. He was completely satisfied with the planning, the time to completion, the price and the quality. Call to describe what was damaged in your kitchen.
+Yes. Michael C. had a flood-damaged kitchen, and Lance and his team matched and replaced the cabinets and counters. He was completely satisfied with the planning, the time to completion, the price and the quality. Call to describe what was damaged in your kitchen.
 
 **Do you replace countertops as well as cabinets?**
 

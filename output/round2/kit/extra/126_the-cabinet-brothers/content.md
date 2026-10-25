@@ -53,11 +53,11 @@ _AI image `ai_service_planning.jpg`_: Tape measure, sketch pad and cabinet door 
 
 ## Why homeowners choose The Cabinet Brothers
 
-**Quality at a good price.** Angie C. sums it up as quality cabinets at a good price, and even better service. That balance is what most homeowners are looking for in a kitchen project.
+**Quality at a good price.** Angie C. sums it up as quality cabinets at a good price, and even better service. That balance matters in any kitchen project.
 
 **Quick answers.** Angie C. also writes that the team is very quick to respond with any questions, which matters when you are measuring, choosing doors and trying to keep a project moving.
 
-**Women-owned business.** Google lists The Cabinet Brothers as women-owned, and reviews name Ling Tang as the owner. You talk with the person who runs the business.
+**Women-owned business.** Google lists The Cabinet Brothers as women-owned, and reviews name Ling Tang as the owner. Ask for Ling when you call.
 
 **Friendly people.** Melanie A. calls Ling Tang and Gene very nice people and says it was such a pleasure to do business with them.
 
@@ -109,7 +109,7 @@ The Cabinet Brothers is open Monday to Friday from 9 AM to 5 PM and closed on Sa
 
 **Is The Cabinet Brothers women-owned?**
 
-Yes. The Google listing identifies The Cabinet Brothers as women-owned, and reviews name Ling Tang as the owner. Customers say Ling Tang and Gene are very nice people and that it was such a pleasure to do business with them, so you deal directly with the people who run it.
+Yes. The Google listing identifies The Cabinet Brothers as women-owned, and reviews name Ling Tang as the owner. Customers say Ling Tang and Gene are very nice people and that it was such a pleasure to do business with them. Ask for Ling when you call.
 
 **Where are you located?**
 
