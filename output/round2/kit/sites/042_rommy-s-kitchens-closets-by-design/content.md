@@ -2,44 +2,46 @@
 
 ## SEO
 
-- **Title tag:** Kitchen Remodeling Chula Vista, CA | Rommy's Kitchens
-- **Meta description:** Kitchen remodeling Chula Vista homeowners plan with Rommy: custom cabinets, countertops, tile, baths and closets. Office at 2260 Main St. Call 619-575-7707.
-- **Primary keyword:** kitchen remodeling Chula Vista
-- **Secondary keywords:** kitchen remodel Chula Vista CA, custom cabinets Chula Vista, bathroom remodeling Chula Vista, custom closets Chula Vista, kitchen design Chula Vista, tile installation Chula Vista
-- **OG title:** Rommy's Kitchens & Closets by Design, Chula Vista
-- **OG description:** Designed by Rommy, built by his team: kitchens, baths, closets and built-ins for Chula Vista homes. Call (619) 575-7707 or stop by 2260 Main St.
+- Title tag: Kitchen Remodeling in Chula Vista, CA | Rommy's Kitchens (56 chars)
+- Meta description: Kitchen remodeling in Chula Vista, designed with Rommy: custom cabinets, countertops, tile, baths and closets. Office at 2260 Main St. Call (619) 575-7707. (155 chars)
+- Primary keyword: kitchen remodeling Chula Vista
+- Secondary keywords: kitchen remodel Chula Vista CA, custom cabinets Chula Vista, bathroom remodeling Chula Vista, custom closets Chula Vista, kitchen design Chula Vista, tile installation Chula Vista
+- OG title: Rommy's Kitchens & Closets by Design, Chula Vista
+- OG description: Designed by Rommy, built by his team: kitchens, baths, closets and built-ins for Chula Vista homes. Call (619) 575-7707 or stop by 2260 Main St.
 
 ## Hero
 
-*Kitchens, Baths & More in Chula Vista*
+_Kitchens, Baths & More in Chula Vista_
 
-# Kitchen Remodeling Chula Vista Homes, Designed by Rommy
+# Kitchen Remodeling in Chula Vista, Designed by Rommy
 
-A Latino-owned design and remodeling company on Main Street. Rommy draws up the plan, his team builds it, and clients say the prices are fair and honest.
+A Latino-owned design and remodeling company on Main Street. Rommy designs the room with you, his team builds it, and clients say the prices are fair and honest.
 
 [Call (619) 575-7707](tel:+16195757707)  |  [Book a design consultation](#contact)
 
-Trust badges: Latino-owned business · 30 years of experience · Office at 2260 Main St, Chula Vista · Open Saturdays 10 AM to 2 PM
+- Identifies as Latino-owned
+- Office at 2260 Main St, Chula Vista
+- Open Saturdays 10 AM to 2 PM
 
-![Kitchen remodeling Chula Vista company's work: deep green shaker cabinets, white marble counters, marble subway backsplash and floating wood shelves](images/maps_01.jpg)
+![Deep green shaker cabinets, white marble counters and a marble subway backsplash in a kitchen by Rommy's, kitchen remodeling in Chula Vista, CA](images/maps_01.jpg)
 
 ## Design first, then a kitchen that fits your budget
 
-Rommy's Kitchens & Closets by Design handles kitchen remodeling Chula Vista families plan around a real design, not a catalog page. Rommy sits down with you, works out the layout and helps you choose finishes. One client said he turned an archaic eyesore into the magnificent centerpiece of their home, well within their budget.
+Rommy's Kitchens & Closets by Design handles kitchen remodeling in Chula Vista with the design worked out first. Rommy plans the room with you before his team builds it. One client said he turned an archaic eyesore into the magnificent centerpiece of their home, well within their budget.
 
-The company also works on bathrooms, closets, tile and built-in entertainment walls. Small rooms get the same attention. As Rommy's own page puts it, a small space does not have to mean giving up quality. Clients mention regular check-ins during the job and a team that makes room for extra items you add along the way.
+The company also works on bathrooms, closets, tile and built-in entertainment walls. Small rooms get the same attention. As Rommy's own page puts it, a small space does not have to mean giving up quality. Clients mention regular check-ins during the job and a team that makes room for the extra items you add along the way.
 
 ## Remodeling services
 
 ### Kitchen remodeling and design
 
-Full kitchen remodels planned with Rommy from the start: layout, cabinets, counters, backsplash, lighting and appliances. Recent work includes deep green shaker cabinets with white marble counters, a marble subway backsplash and open wood shelves on either side of the window.
+Full kitchen remodels planned with Rommy from the start: layout, cabinets, counters, backsplash, lighting and appliances. One finished kitchen pairs deep green shaker cabinets with white marble counters, a marble subway backsplash and open wood shelves on either side of the window.
 
 ![Green shaker kitchen with brass pulls, white marble peninsula, stainless range hood and wood floating shelves](images/maps_01.jpg)
 
 ### Custom cabinets and countertops
 
-Custom cabinets sized to your room, topped with the counter material you choose. One finished L-shaped kitchen pairs warm maple-tone cabinets with a speckled granite counter and a stainless microwave hood, with room for a breakfast bar on the peninsula side.
+Custom cabinets sized to your room, topped with the counter material you choose. One finished L-shaped kitchen pairs warm maple-tone cabinets with a speckled granite counter, an undermount sink and a stainless microwave hood over the range.
 
 ![L-shaped kitchen with medium wood cabinets, speckled granite countertops, undermount sink and stainless appliances](images/maps_02.jpg)
 
@@ -47,19 +49,19 @@ Custom cabinets sized to your room, topped with the counter material you choose.
 
 Bathroom remodels from vanity to tile, with the same design-first approach used in the kitchens. Bring your measurements and photos to the Main Street office, and Rommy will talk you through layout, materials and what fits your budget.
 
-_(no photo)_
+_AI image `ai_service_bathroom.jpg`: Illustration: bathroom with a white double vanity, marble top and glass walk-in shower_ (prompt in Image plan below)
 
 ### Closets and built-ins
 
 Closets are in the company name for a reason. Rommy designs closet storage and built-in shelving, including entertainment walls like a stacked stone fireplace with a mounted TV and dark open shelving on each side.
 
-![Project collage: stacked stone fireplace wall with TV and built-in shelves, wood stair treads, dark wood kitchen with stainless fridge, and a patio, above the Rommy's Designs logo](images/social_01.jpg)
+_AI image `ai_service_closet.jpg`: Illustration: walk-in closet with white built-in cabinets, open shelving and a center island_ (prompt in Image plan below)
 
 ### Tile installation
 
 Backsplashes, floors and feature walls. Past jobs show marble subway tile carried up behind a stainless range hood, large-format light tile floors running through a kitchen and entry, and natural stacked stone wrapped around a living room fireplace.
 
-_(no photo)_
+_AI image `ai_service_tile.jpg`: Illustration: white marble subway tile backsplash behind a stainless range hood_ (prompt in Image plan below)
 
 ## Why Chula Vista homeowners work with Rommy
 
@@ -69,23 +71,25 @@ _(no photo)_
 
 **Regular check-ins and flexibility.** One homeowner said Rommy was very responsive, checked in regularly to keep the project on track, and was very accommodating when she added items mid-project.
 
-**Local, Latino-owned and easy to reach.** The office is on Main Street in Chula Vista, open weekdays 9 to 5 and Saturdays 10 to 2. The company identifies as Latino-owned and LGBTQ+ friendly on Google.
+**Local, Latino-owned and easy to reach.** The office is on Main Street in Chula Vista, open weekdays 9 AM to 5 PM and Saturdays 10 AM to 2 PM. On Google, the company identifies as Latino-owned and LGBTQ+ friendly.
 
 ## Meet Rommy
 
-Rommy's Kitchens & Closets by Design is a Latino-owned remodeling company with an office at 2260 Main St in Chula Vista. Rommy leads the design work and works with his team on each project. The company reports 30 years of experience and also goes by Rommy's Designs, with the line Kitchens, Baths & More. Its goal is to make building the kitchen, bathroom or entertainment space you want simpler. Past clients say they plan to use Rommy and his team again on their next project.
+Rommy's Kitchens & Closets by Design is a Latino-owned remodeling company with an office at 2260 Main St in Chula Vista. Rommy leads the design work and builds each project with his team. The company also goes by Rommy's Designs, with the line Kitchens, Baths & More, and its goal is to make building the kitchen, bathroom or entertainment space you want simpler. Clients describe him as responsive and accommodating, and one says she will definitely use Rommy and his team again for her next project.
 
-_Rommy, Designer and team lead_
+Owner: Rommy, Designer and team lead
+
+![L-shaped kitchen with maple-tone cabinets, speckled granite counters and stainless appliances](images/maps_02.jpg)
 
 ## How your remodel comes together
 
-1. **Call or stop by:** Call (619) 575-7707 or visit the office at 2260 Main St during business hours to talk about the room you want to change.
-2. **Design with Rommy:** Rommy works out the layout, cabinets, counters and tile with you, so you can see the plan before any work starts.
-3. **Agree on the budget:** You review the price together and adjust the plan until it fits. Clients say Rommy worked with their budget.
-4. **Build with regular check-ins:** The team builds the project while Rommy checks in to keep it on track. Extra items can be added along the way.
-5. **Final walkthrough:** Walk the finished room with Rommy, test drawers, doors and fixtures, and point out anything that needs a touch-up.
+1. **Call or stop by.** Call (619) 575-7707 or visit the office at 2260 Main St during business hours to talk about the room you want to change.
+2. **Design with Rommy.** Rommy works out the layout, cabinets, counters and tile with you, so you can see the plan before any work starts.
+3. **Agree on the budget.** You review the price together and adjust the plan until it fits. Clients say Rommy worked with their budget.
+4. **Build with regular check-ins.** The team builds the project while Rommy checks in to keep it on track. Extra items can be added along the way.
+5. **Final walkthrough.** Walk through the finished room with Rommy and check the drawers, doors and fixtures before the job wraps up.
 
-## Kitchen remodeling Chula Vista projects
+## Project photos
 
 - ![Green shaker cabinets with white marble counters, marble subway tile backsplash and wood floating shelves](images/maps_01.jpg)  
   Green shaker kitchen with marble counters
@@ -96,19 +100,15 @@ _Rommy, Designer and team lead_
 
 ## What clients say
 
-> Rommy and his team did a great job with our home improvement project!  He was very responsive and did a nice job of checking in regularly to make sure that the project stayed on track.  During the project, there were a few additional items that I wanted to have done and Rommy was very accommodating.  Rommy worked with my budget and I felt that his prices were fair and honest.  I will definitely be using Rommy and his team again for our next project!
+> "Rommy and his team did a great job with our home improvement project!  He was very responsive and did a nice job of checking in regularly to make sure that the project stayed on track.  During the project, there were a few additional items that I wanted to have done and Rommy was very accommodating.  Rommy worked with my budget and I felt that his prices were fair and honest.  I will definitely be using Rommy and his team again for our next project!"
 >
-> **Deanna S.**, Google, 6 years ago
+> Deanna S., Google, 6 years ago
 
-> Rommy gave us a wonderful design. The kitchen is superb. He transformed it from an archaic eyesore to a robust gem and magnificent center piece of our home. Quality workmanship well within our budget
+> "Rommy gave us a wonderful design. The kitchen is superb. He transformed it from an archaic eyesore to a robust gem and magnificent center piece of our home. Quality workmanship well within our budget"
 >
-> **Hector D.**, Google, 7 years ago
+> Hector D., Google, 7 years ago
 
-> Great customer service and prices.
->
-> **Google reviewer**, Google (review highlight), date not shown
-
-## Serving Chula Vista from Main Street
+## Kitchen remodeling in Chula Vista, from Main Street
 
 Rommy's Kitchens & Closets by Design works out of 2260 Main St, Suite 7, in Chula Vista, California. Chula Vista is the town named on its Google profile and its Facebook page. If your home is in a nearby part of San Diego County and you are not sure it is in range, call (619) 575-7707 or email rommyskitchens@gmail.com and ask before you book a consultation.
 
@@ -140,31 +140,48 @@ Clients say yes. One homeowner added a few items during her project and said Rom
 
 Call Rommy or stop by the Main Street office to plan your kitchen, bath or closet.
 
-[Call (619) 575-7707](tel:+16195757707)  ·  (619) 575-7707
+[Call (619) 575-7707](tel:+16195757707)  Phone: (619) 575-7707
+
+Background: ![Green shaker kitchen with white marble counters and wood floating shelves](images/maps_01.jpg)
 
 ## Footer
 
-**Rommy's Kitchens & Closets by Design**  
+Rommy's Kitchens & Closets by Design  
 2260 Main St Ste 7, Chula Vista, CA 91911  
-(619) 575-7707  
-rommyskitchens@gmail.com  
-https://www.facebook.com/rommysdesigns  
-https://www.instagram.com/rommysdesigns  
-https://www.google.com/maps/place/?q=place_id:ChIJdZ9dU8dN2YAR8x_0XKwVUBQ&hl=en  
-Hours: Monday to Friday 9 AM to 5 PM, Saturday 10 AM to 2 PM, Sunday closed
+Phone: (619) 575-7707  
+Email: rommyskitchens@gmail.com  
+Hours: Monday to Friday: 9 AM to 5 PM. Saturday: 10 AM to 2 PM. Sunday: closed.  
+Socials: https://www.facebook.com/rommysdesigns, https://www.instagram.com/rommysdesigns, https://www.google.com/maps/place/?q=place_id:ChIJdZ9dU8dN2YAR8x_0XKwVUBQ&hl=en
 
 ---
 
+## Image plan
+
+- **hero**: real photo `images/maps_01.jpg`. Alt: Deep green shaker cabinets, white marble counters and a marble subway backsplash in a kitchen by Rommy's, kitchen remodeling in Chula Vista, CA
+- **service:Kitchen remodeling and design**: real photo `images/maps_01.jpg`. Alt: Green shaker kitchen with brass pulls, white marble peninsula, stainless range hood and wood floating shelves
+- **service:Custom cabinets and countertops**: real photo `images/maps_02.jpg`. Alt: L-shaped kitchen with medium wood cabinets, speckled granite countertops, undermount sink and stainless appliances
+- **service:Bathroom remodeling**: AI image `ai_service_bathroom.jpg`. Alt: Illustration: bathroom with a white double vanity, marble top and glass walk-in shower  
+  Prompt: Photorealistic photo of a remodeled bathroom in a Southern California home: a white shaker double vanity with a white marble top and brushed brass faucets, a walk-in shower with white marble subway tile and a clear glass panel, light porcelain floor tile, a small window with soft natural daylight, a touch of royal blue in a towel; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
+- **service:Closets and built-ins**: AI image `ai_service_closet.jpg`. Alt: Illustration: walk-in closet with white built-in cabinets, open shelving and a center island  
+  Prompt: Photorealistic photo of a custom walk-in closet in a Southern California home: white built-in cabinets and drawers, open shelving and hanging rods with neatly folded clothes, warm wood-tone shelf accents, a central island with a light stone top, soft natural light from a window; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
+- **service:Tile installation**: AI image `ai_service_tile.jpg`. Alt: Illustration: white marble subway tile backsplash behind a stainless range hood  
+  Prompt: Photorealistic photo of a kitchen backsplash of white marble subway tile running up behind a stainless steel range hood, with deep green shaker cabinets below and a white marble countertop, a floating wood shelf to one side, natural daylight; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
+- **about**: real photo `images/maps_02.jpg`. Alt: L-shaped kitchen with maple-tone cabinets, speckled granite counters and stainless appliances
+- **gallery_1**: real photo `images/maps_01.jpg`. Alt: Green shaker cabinets with white marble counters, marble subway tile backsplash and wood floating shelves
+- **gallery_2**: real photo `images/maps_02.jpg`. Alt: L-shaped kitchen with maple-tone cabinets, granite counters and stainless range and microwave
+- **gallery_3**: real photo `images/social_01.jpg`. Alt: Collage of a stacked stone fireplace wall with built-ins, a wood tread staircase, a dark wood kitchen and a patio
+- **final_cta**: real photo `images/maps_01.jpg`. Alt: Green shaker kitchen with white marble counters and wood floating shelves
+
 ## Brand
 
-- Logo: None
+- Logo file: None
 - Palette: primary #2F4A9E, accent #B07A45, light #F4F4F2, dark #1E3A34
 - Palette note: brand.json palette is empty and there is no logo file. Primary is the royal blue band behind the 'ROMMY'S DESIGNS' wordmark on the Facebook cover; accent is the warm wood of the floating shelves and cabinets; light is the white marble; dark is the deep green of the shaker cabinets in maps_01.
-- Fonts: Libre Baskerville (headings) / Lato (body)
+- Fonts: Libre Baskerville (headings), Lato (body)
 - Tagline: Kitchens, Baths & More
 - Style direction: Classic and tidy: serif headings like the wordmark, crisp white backgrounds with a confident blue, and the green-and-marble kitchen as the hero.
 
-## Images not to use
+## Photos not to use
 
 - images/social_02.jpg: identical to social_03; the same photo is captioned as work by another company (NASP member Multi Craft Contracting), so it may not be Rommy's project
 - images/social_03.jpg: Facebook caption credits this kitchen to NASP member Multi Craft Contracting, Inc., not Rommy's team
@@ -180,25 +197,23 @@ Hours: Monday to Friday 9 AM to 5 PM, Saturday 10 AM to 2 PM, Sunday closed
 - Name, category Kitchen remodeler, address 2260 Main St Ste 7, Chula Vista, CA 91911 (source: Google Maps)
 - Phone +1 619-575-7707 (source: Google Maps)
 - Hours Mon to Fri 9 AM to 5 PM, Sat 10 AM to 2 PM, Sun closed (source: Google Maps)
-- Identifies as Latino-owned; LGBTQ+ friendly (source: Google Maps profile attributes)
 - 4.3 rating from 6 reviews; 65 photos on Google; review highlight 'Great customer service and prices.' (source: Google Maps)
 - Rommy designs; kitchen transformed from archaic eyesore; well within budget (source: Google review, Hector Diez de Bonilla)
 - Responsive, regular check-ins, accommodating with additional items, worked with budget, fair and honest prices, would hire again (source: Google review, Deanna Salas)
 - Email rommyskitchens@gmail.com (source: https://sandiegospotlights.com/dt_listing/rommys-kitchens-closets-by-design/)
 - Services: kitchen remodeling, bathroom remodeling, custom cabinets, tile installation (source: Gemini summary of Facebook/Instagram)
-- 30 years of experience (source: Gemini summary (years_in_business))
 - Also known as Rommy's Designs, Chula Vista; makes building the kitchen, bathroom or home entertainment space of your dreams simpler (source: Facebook page About (Gemini))
 - 'A small space doesn't have to mean compromising on quality or luxury' (source: Facebook post Aug 12, 2019 https://www.facebook.com/rommysdesigns/posts/a-small-space-doesnt-have-to-mean-compromising-on-quality-or-luxury-any-space-no/748271562293202/)
 - Wordmark 'ROMMY'S DESIGNS' with line 'Kitchens, Baths & More'; fireplace wall, stairs, kitchen and patio photos (source: Legible in Facebook cover image social_01.jpg)
 - Kitchen photo details: green shaker cabinets, marble counters and backsplash; maple cabinets with granite (source: Google Maps photos maps_01.jpg, maps_02.jpg)
 - Instagram rommysdesigns; Facebook rommysdesigns (source: research.json instagram_url; Facebook post URLs (Gemini))
+- Latino-owned and LGBTQ+ friendly attributes (source: Google Maps profile (research.json overview text: 'LGBTQ+ friendly', 'Identifies as Latino-owned'))
 
 ## Missing
 
 - Only 3 usable photos captured (Google shows 65); gallery is below the 6 minimum until more are pulled
-- No bathroom or closet project photos in the capture
+- Needs bathroom, closet and tile project photos: those three service cards use AI illustrations for now
 - Owner's full name not found (reviews say 'Rommy')
-- 30 years of experience comes only from Gemini's summary; no post seen stating it, confirm with the owner
 - Licence number (CSLB) not found
 - Insurance not found
 - Warranty terms not found (a 1-star review mentions a warranty but gives no terms)
@@ -206,4 +221,5 @@ Hours: Monday to Friday 9 AM to 5 PM, Saturday 10 AM to 2 PM, Sunday closed
 - Financing not found
 - No logo file; only the wordmark inside the Facebook cover banner
 - No towns besides Chula Vista named
-- Only 2 full positive review texts captured; Gemini reviews were unrelated web text and were not used
+- '30 years of experience' appears only in Gemini's summary with no post quoted; removed from the page until the owner confirms it
+- Only 2 positive reviews with full text were captured (the third captured review is a 1-star); the unattributed Google highlight was removed from testimonials. Pull more of the 6 reviews if possible

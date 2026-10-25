@@ -2,40 +2,42 @@
 
 ## SEO
 
-- **Title tag:** Bathroom Remodeling Lafayette, LA | Very Good Carpentry
-- **Meta description:** Bathroom remodeling Lafayette, LA by Very Good Carpentry: tile showers, soaking tubs, custom vanities and closet additions. 5.0 on Google. Call 337-380-6913.
-- **Primary keyword:** bathroom remodeling Lafayette
-- **Secondary keywords:** bathroom remodel Lafayette LA, tile shower Lafayette, custom vanity Lafayette, kitchen remodeling Lafayette LA, walk-in closet addition Lafayette, custom carpentry Lafayette LA
-- **OG title:** Very Good Carpentry: Bathroom Remodeling in Lafayette, LA
-- **OG description:** Josh and his crew turn tired bathrooms into bold, finished spaces: tile to the ceiling, soaking tubs, built-in vanities. See the work and call 337-380-6913.
+- Title tag: Bathroom Remodeling in Lafayette, LA | Very Good Carpentry (58 chars)
+- Meta description: Bathroom remodeling in Lafayette, LA by Very Good Carpentry: tile showers, soaking tubs, custom vanities and closet additions. 5.0 stars on Google. (147 chars)
+- Primary keyword: bathroom remodeling Lafayette
+- Secondary keywords: bathroom remodel Lafayette LA, tile shower Lafayette, custom vanity Lafayette, kitchen remodeling Lafayette LA, walk-in closet addition Lafayette, custom carpentry Lafayette LA
+- OG title: Very Good Carpentry: Bathroom Remodeling in Lafayette, LA
+- OG description: Josh and his crew turn tired bathrooms into bold, finished spaces: tile to the ceiling, soaking tubs and custom wood. See the work and call (337) 380-6913.
 
 ## Hero
 
-*Lafayette, LA bathroom and kitchen remodels*
+_Lafayette, LA bathroom and kitchen remodels_
 
-# Bathroom Remodeling Lafayette, LA: Tile, Tubs and Custom Wood
+# Bathroom Remodeling in Lafayette: Tile, Tubs and Custom Wood
 
 Very Good Carpentry is a Lafayette crew with 15 years in construction and remodeling. Clients say Josh and Matt listen to the vision, then build it.
 
 [Call (337) 380-6913](tel:+13373806913)  |  [Request an estimate](#contact)
 
-Trust badges: 5.0 stars from 6 Google reviews · 15 years in construction and remodeling · Led by Josh Romero
+- 5.0 stars from 6 Google reviews
+- 15 years in construction and remodeling
+- Led by Josh Romero
 
-![Bathroom remodeling Lafayette: small primary bathroom with stone-look wall panels, square white soaking tub and brushed brass fixtures](images/maps_07.jpg)
+![Glossy green herringbone tile shower with a tall tiled niche and square rain shower head, from bathroom remodeling in Lafayette, LA by Very Good Carpentry](images/maps_05.jpg)
 
 ## Bathrooms with real character, built by carpenters
 
-Very Good Carpentry does bathroom remodeling Lafayette homeowners describe as a true transformation. One client had a primary bath so small there was barely room to photograph it. It now has stone-look walls, a deep soaking tub and brass fixtures, and she calls it the most amazing bathroom in Lafayette.
+Very Good Carpentry handles bathroom remodeling in Lafayette, and its clients describe the results as a true transformation. One client had a primary bath so small there was barely room to photograph it. It now has stone-look walls, a deep soaking tub and brass fixtures, and she calls it the most amazing bathroom in Lafayette.
 
-The crew are woodworkers as much as remodelers. They have built a solid mahogany floating vanity with the plumbing hidden inside, white oak furniture and walnut inlay pieces. That eye for detail shows in every tile niche and vanity. Reviewers keep using the same words: quality work, on time, on budget.
+The crew are woodworkers as much as remodelers. They have built a solid mahogany floating vanity with the plumbing hidden inside, white oak furniture and walnut inlay pieces. That eye for detail shows in every tile niche and vanity. Reviewers mention quality work, accurate pricing and a project that came in on time and on budget.
 
-## Bathroom remodeling Lafayette homes, plus kitchens and custom wood
+## Bathroom remodeling in Lafayette, plus kitchens and custom wood
 
 ### Full bathroom remodels
 
 From the studs out: new tile, new tub or shower, vanity, lighting and fixtures. One client swapped a jetted tub for a soaker and a plastic surround for real tile to the ceiling, with recessed LED lights over the vanity.
 
-![Remodeled bathroom in Lafayette with dark stone-look shower walls, white soaking tub and brushed brass shower set](images/maps_09.jpg)
+![Remodeled bathroom with dark stone-look shower walls, a white soaking tub and a brushed brass shower set](images/maps_09.jpg)
 
 ### Tile showers and tub surrounds
 
@@ -51,15 +53,15 @@ Need more space, not just a refresh? The crew has taken a bathroom and walk-in c
 
 ### Custom vanities and built-ins
 
-Because this is a carpentry shop, vanities can be built rather than bought. One favorite: a solid mahogany vanity floating on the wall, with the plumbing rerouted to hide inside the cabinet. Store-bought vanities get a careful install too.
+Because this is a carpentry shop, vanities can be built rather than bought. One favorite: a solid mahogany vanity floating on the wall, with the plumbing rerouted to hide inside the cabinet. Shelving, linen cabinets and trim get the same attention.
 
-![Wood bathroom vanity with white integrated top, black faucet and round mirror](images/maps_11.jpg)
+![Fluted wood floating vanity with a white top, lighted round mirror and brass towel ladder in a burgundy bathroom](images/maps_08.jpg)
 
 ### Kitchen remodeling
 
-Very Good Carpentry lists full kitchen remodels alongside bathrooms as its specialty. Call to talk through cabinets, layout, countertops and finish carpentry for your kitchen, and ask Josh to show you photos of recent kitchen work before you decide.
+Very Good Carpentry lists full kitchen remodels alongside bathrooms as its specialty. Call to talk through cabinets, layout, countertops and finish carpentry for your kitchen, and ask Josh about the kitchens the crew has already built.
 
-_(no photo)_
+_AI image `ai_service_kitchen.jpg`: Illustration: kitchen with white oak cabinets, cream countertops and a green tile backsplash_ (prompt in Image plan below)
 
 ### Custom furniture and woodwork
 
@@ -79,20 +81,20 @@ The shop also builds one-off pieces: a matching dining table and bench in solid 
 
 ## Meet Josh and the Very Good Carpentry crew
 
-Very Good Carpentry LLC is a Lafayette remodeling company run by Josh Romero, the company's main contact, who leads the crew on site. Reviewers also mention Matt by name. The team brings 15 years of experience in construction and remodeling and focuses on full bathroom and kitchen remodels. Between remodels, the shop builds furniture in mahogany, white oak, walnut and zebra wood, which explains the care that goes into every vanity and niche. The company keeps it simple: talk often, build well, and leave the house clean.
+Very Good Carpentry LLC is a Lafayette remodeling company. Josh Romero is the company's main contact and leads the crew on site, and reviewers also mention Matt by name. The team brings 15 years of experience in construction and remodeling and focuses on full bathroom and kitchen remodels. Between remodels, the shop builds furniture and woodwork in mahogany, white oak, walnut and zebra wood, which explains the care that goes into every vanity and niche. The company's promise is simple: excellent communication, craftsmanship and cleanliness.
 
-_Josh Romero, Runs the company and leads the crew_
+Owner: Josh Romero, Main contact and crew lead
 
-![Very Good Carpentry logo, hand-lettered black text on a wood-grain oval](images/logo.jpg)
+![White square soaking tub with a brushed brass shower wand and a stone-look wall niche](images/maps_10.jpg)
 
 ## How a remodel with us works
 
-1. **Tell us your vision:** Call or email and describe the room you want. Bring photos, colors and ideas, even for a tiny bathroom with barely room to stand.
-2. **Plan and price:** Josh walks the space with you, works out the layout, tile, fixtures and any custom wood pieces, and gives you a price to review.
-3. **Demo and build:** The crew strips the room back, handles framing, plumbing changes and lighting, then sets tile, tub or shower and the vanity.
-4. **Finish carpentry and walkthrough:** Trim, shelves and fixtures go in last. You walk the finished room with the crew and point out anything you want adjusted.
+1. **Tell us your vision.** Call or email and describe the room you want. Bring photos, colors and ideas, even for a tiny bathroom with barely room to stand.
+2. **Plan and price.** Josh walks the space with you, works out the layout, tile, fixtures and any custom wood pieces, and gives you a price to review.
+3. **Demo and build.** The crew strips the room back, handles framing, plumbing changes and lighting, then sets tile, tub or shower and the vanity.
+4. **Finish carpentry and walkthrough.** Trim, shelves and fixtures go in last. Then you walk through the finished room with the crew before they pack up.
 
-## Recent bathrooms and woodwork
+## Bathrooms and woodwork
 
 - ![Glossy green herringbone tile shower with tall tiled niche and square brushed rain shower head](images/maps_05.jpg)  
   Herringbone tile shower from a bathroom and walk-in closet addition
@@ -111,33 +113,33 @@ _Josh Romero, Runs the company and leads the crew_
 
 ## What clients say
 
-> We are extremely happy with the work and vision provided by Very Good Carpentry.  We’ve been planning a bathroom and walk in closet addition and the team worked with us throughout the entire project.  We went from a blank slate to the bathroom of our dreams. It is rare finding a craftsman who you can trust, provides accurate pricing and delivers such quality work.  We are extremely satisfied with the completed project.  Thank you VGC!
+> "We are extremely happy with the work and vision provided by Very Good Carpentry.  We’ve been planning a bathroom and walk in closet addition and the team worked with us throughout the entire project.  We went from a blank slate to the bathroom of our dreams. It is rare finding a craftsman who you can trust, provides accurate pricing and delivers such quality work.  We are extremely satisfied with the completed project.  Thank you VGC!"
 >
-> **Jonathan G.**, Google, a year ago
+> Jonathan G., Google, a year ago
 
-> VGC hooked me up, y’all!! I explained my vision to Josh and Matt for my small primary bathroom and these guys brought it to life in the most amazing way possible.
-> 
+> "VGC hooked me up, y’all!! I explained my vision to Josh and Matt for my small primary bathroom and these guys brought it to life in the most amazing way possible.
+>
 > These guys are Artists AND Craftsmen! Now I have the most amazing bathroom in Lafayette…possibly the world.
-> 
-> Including before pics in here so you get an idea of the real transformation. As you can see, there was barely enough room in there to take pictures of it.
-> 
-> On time. On budget. My vision brought to life!
 >
-> **Claire F.**, Google, a year ago
+> Including before pics in here so you get an idea of the real transformation. As you can see, there was barely enough room in there to take pictures of it.
+>
+> On time. On budget. My vision brought to life!"
+>
+> Claire F., Google, a year ago
 
-> Josh and his crew renovated our bathroom at the beginning of the year.
+> "Josh and his crew renovated our bathroom at the beginning of the year.
 > Switched out the nasty jetted tub to a jet less soaker, replaced the plastic wrap around “tile” tub backsplash piece with real tiles all the way from tub to ceiling, replaced fixtures, vanity, ceiling light/fan combo and added recessed led lighting above the vanity and along that wall.
 > We love it!
 > VCG made our dream bathroom a reality
 > Quality work, quality guys
-> 
-> (Blue bathroom pics are from a 2018 “facelift” to keep us happy till the real deal )
 >
-> **Erinn Q.**, Google, a year ago
+> (Blue bathroom pics are from a 2018 “facelift” to keep us happy till the real deal )"
+>
+> Erinn Q., Google, a year ago
 
 ## Remodeling in Lafayette, Louisiana
 
-Very Good Carpentry is based in Lafayette, Louisiana, and the bathrooms in its Google reviews are Lafayette homes. If you live in or around Lafayette and are planning a bathroom, kitchen or closet project, call (337) 380-6913 or email vgcarpentry@yahoo.com and tell Josh where you are. He will let you know if your address fits the crew's schedule and travel.
+Very Good Carpentry is based in Lafayette, Louisiana, and one reviewer calls her remodeled bath the most amazing bathroom in Lafayette. If you live in or around Lafayette and are planning a bathroom, kitchen or closet project, call (337) 380-6913 or email vgcarpentry@yahoo.com and tell Josh where you are. He will let you know whether your address fits the crew's schedule.
 
 Towns: Lafayette, LA
 
@@ -149,7 +151,7 @@ The company specializes in full bathroom and kitchen remodels. Past jobs include
 
 **Do you work in Lafayette?**
 
-Yes. Very Good Carpentry is a Lafayette company and its reviewed bathroom projects are in Lafayette homes. If you are in a nearby town, call (337) 380-6913 and ask whether your project fits the schedule before you plan around it.
+Yes. Very Good Carpentry is a Lafayette company, and one reviewer calls her remodeled bath the most amazing bathroom in Lafayette. If you are in a nearby town, call (337) 380-6913 and ask whether your project fits the schedule before you plan around it.
 
 **What are your hours?**
 
@@ -167,31 +169,51 @@ Call (337) 380-6913 or email vgcarpentry@yahoo.com with a short description and 
 
 Tell Josh your vision and get a price for your Lafayette remodel.
 
-[Call (337) 380-6913](tel:+13373806913)  ·  (337) 380-6913
+[Call (337) 380-6913](tel:+13373806913)  Phone: (337) 380-6913
+
+Background: ![Teal bathroom with a built-in wood vanity counter, tall linen cabinet and woven pendant light](images/maps_04.jpg)
 
 ## Footer
 
-**Very Good Carpentry**  
+Very Good Carpentry  
 Serving Lafayette, LA  
-(337) 380-6913  
-vgcarpentry@yahoo.com  
-https://www.facebook.com/verygoodcarpentryllc  
-https://www.instagram.com/very_good_carpentry_llc  
-https://www.google.com/maps/place/?q=place_id:ChIJQcoyx0uTsioRVVeuf_38D5w&hl=en  
-Hours: Monday to Friday 8 AM to 5 PM, Saturday and Sunday closed
+Phone: (337) 380-6913  
+Email: vgcarpentry@yahoo.com  
+Hours: Monday to Friday: 8 AM to 5 PM. Saturday and Sunday: closed.  
+Socials: https://www.facebook.com/verygoodcarpentryllc, https://www.instagram.com/very_good_carpentry_llc, https://www.google.com/maps/place/?q=place_id:ChIJQcoyx0uTsioRVVeuf_38D5w&hl=en
 
 ---
 
+## Image plan
+
+- **hero**: real photo `images/maps_05.jpg`. Alt: Glossy green herringbone tile shower with a tall tiled niche and square rain shower head, from bathroom remodeling in Lafayette, LA by Very Good Carpentry
+- **service:Full bathroom remodels**: real photo `images/maps_09.jpg`. Alt: Remodeled bathroom with dark stone-look shower walls, a white soaking tub and a brushed brass shower set
+- **service:Tile showers and tub surrounds**: real photo `images/maps_12.jpg`. Alt: Tub surround in dark green vertical tile running to the ceiling, with a recessed shampoo niche
+- **service:Bathroom and closet additions**: real photo `images/maps_06.jpg`. Alt: New walk-in closet with hanging rods and wood floors, part of a bathroom and closet addition
+- **service:Custom vanities and built-ins**: real photo `images/maps_08.jpg`. Alt: Fluted wood floating vanity with a white top, lighted round mirror and brass towel ladder in a burgundy bathroom
+- **service:Kitchen remodeling**: AI image `ai_service_kitchen.jpg`. Alt: Illustration: kitchen with white oak cabinets, cream countertops and a green tile backsplash  
+  Prompt: Photorealistic photo of a remodeled kitchen in a Lafayette, Louisiana home: warm white oak cabinets with simple slab doors, a honey-toned wood open shelf, cream quartz countertops, a deep green glossy tile backsplash, brushed brass hardware and faucet, wide plank wood floor, soft natural daylight from a window with live oak trees outside; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
+- **service:Custom furniture and woodwork**: real photo `images/social_03.jpg`. Alt: Solid white oak dining bench with square legs, built by Very Good Carpentry
+- **about**: real photo `images/maps_10.jpg`. Alt: White square soaking tub with a brushed brass shower wand and a stone-look wall niche
+- **gallery_1**: real photo `images/maps_05.jpg`. Alt: Glossy green herringbone tile shower with tall tiled niche and square brushed rain shower head
+- **gallery_2**: real photo `images/maps_03.jpg`. Alt: Green herringbone tile shower with niche, wood slat bench and frameless glass door
+- **gallery_3**: real photo `images/maps_04.jpg`. Alt: Teal bathroom with built-in wood vanity counter, vessel sink, tall linen cabinet and woven pendant light
+- **gallery_4**: real photo `images/maps_10.jpg`. Alt: White square soaking tub with brushed brass shower wand and stone-look wall niche
+- **gallery_5**: real photo `images/maps_08.jpg`. Alt: Burgundy bathroom with fluted wood floating vanity, lighted round mirror and brass towel ladder
+- **gallery_6**: real photo `images/maps_01.jpg`. Alt: Gray bathroom with white vanity top, round mirror and open shelving over the toilet
+- **gallery_7**: real photo `images/social_01.jpg`. Alt: Cypress tree trunk cross cut with dark walnut bowtie inlays
+- **final_cta**: real photo `images/maps_04.jpg`. Alt: Teal bathroom with a built-in wood vanity counter, tall linen cabinet and woven pendant light
+
 ## Brand
 
-- Logo: images/logo.jpg
+- Logo file: images/logo.jpg
 - Palette: primary #5E422C, accent #BF8C49, light #F3DEBA, dark #1B1B1B
 - Palette note: Primary, accent and light come from the wood-grain oval in the logo (brand.json palette); dark is the black hand-lettering and outline of the logo.
-- Fonts: Permanent Marker (headings) / Source Sans 3 (body)
-- Tagline: none found
+- Fonts: Permanent Marker (headings), Source Sans 3 (body)
+- Tagline: none
 - Style direction: Warm workshop feel: honey wood tones and black marker lettering like the logo, with the crew's bold, colorful bathroom photos doing the talking on clean cream backgrounds.
 
-## Images not to use
+## Photos not to use
 
 - images/maps_02.jpg: framing and construction in progress, clutter and ladder, not a finished room
 - images/maps_13.jpg: before photo of a damaged tub wall; only usable in a before and after pair
@@ -232,8 +254,10 @@ Hours: Monday to Friday 8 AM to 5 PM, Saturday and Sunday closed
 - Warranty not found
 - Free estimates not stated (CTA says 'Request an estimate')
 - Financing not found
-- No kitchen project photos in the capture (kitchen service shown without a photo)
+- Needs kitchen project photos: the kitchen service card uses an AI illustration for now
 - No photo of the mahogany floating vanity or zebra wood headboard
 - Owner title not stated; Josh Romero appears as the contact on Linktree and leads the crew per reviews
 - Only 3 of 6 Google review texts captured; Gemini reviews were unrelated web text and were not used
 - No tagline found; no team photo
+- Erinn Q.'s review says her 'blue bathroom pics' are from a 2018 facelift before the real remodel; none of the photos used looks blue, but confirm maps_01, maps_11 and maps_12 show VGC's work
+- Josh Romero's title (owner or partner) is not stated; schema no longer names a founder

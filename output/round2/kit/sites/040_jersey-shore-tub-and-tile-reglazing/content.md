@@ -3,11 +3,11 @@
 ## SEO
 
 - Title tag: Tub Reglazing in Toms River, NJ | Jersey Shore Tub and Tile (59 chars)
-- Meta description: Tub reglazing Toms River homeowners rate 4.9 stars: tubs, shower pans and tile refinished like new without demolition. Licensed, 5-year warranty. Call now. (155 chars)
+- Meta description: Tub reglazing in Toms River, NJ, rated 4.9 stars on Google: tubs, shower pans and tile refinished like new without demolition. Licensed, 5-year warranty. (153 chars)
 - Primary keyword: tub reglazing Toms River
 - Secondary keywords: bathtub refinishing Toms River NJ, shower pan reglazing Toms River, tile reglazing Ocean County NJ, cast iron tub refinishing NJ, shower refinishing Toms River, bathroom tile color change without remodeling, Jersey Shore tub reglazing
 - OG title: Jersey Shore Tub and Tile Reglazing, Toms River, NJ
-- OG description: Change a dated tub, shower pan or tile to clean bright white without tearing anything out. 4.9 stars, NJ licensed, 5-year warranty with signed invoice.
+- OG description: Change a dated tub, shower pan or tile to a clean, bright finish without tearing anything out. 4.9 stars, NJ licensed, 5-year warranty with a signed invoice.
 
 ## Hero
 
@@ -24,13 +24,13 @@ Denis refinishes bathtubs, shower pans and tile so they look clean and new again
 - 5-year warranty with signed invoice
 - 13+ years in the trade
 
-![Cast iron pedestal bathtub freshly reglazed glossy white, with masking and window exhaust fan, tub reglazing Toms River, NJ](images/social_01.jpg)
+![Cast iron pedestal bathtub freshly reglazed glossy white in a masked-off room, tub reglazing in Toms River, NJ](images/social_01.jpg)
 
 ## The simple fix people want to tell everyone about
 
-Jersey Shore Tub and Tile Reglazing does tub reglazing Toms River homeowners are surprised exists. Instead of tearing out a tub, shower pan or wall of tile because of the color or the wear, Denis refinishes it in place so it looks clean and new.
+Jersey Shore Tub and Tile Reglazing offers tub reglazing in Toms River, a fix many homeowners do not even know exists. Instead of tearing out a tub, shower pan or wall of tile because of the color or the wear, Denis refinishes it in place so it looks clean and new.
 
-One customer had remodeled a small master bath with marble floors, a new vanity and shower doors, but could not stop staring at a yellowish beige shower pan. Her tile guy suggested reglazing. Denis turned it bright white, and she called it a transformation that is so simple yet so transforming. Another homeowner says Denis told him honestly his shower was not repairable, then made it watertight anyway.
+One customer had remodeled a small master bath with a marble floor, a new vanity and shower doors, but could not stop staring at a yellowish beige shower pan. Her tile guy suggested reglazing, and Denis turned it bright white. She called it one of those transformations you want to tell everyone about. Another homeowner says Denis told him honestly that his shower was not repairable, then did what he could to make it watertight anyway.
 
 ## What we refinish
 
@@ -48,7 +48,7 @@ A stained or off-color shower pan can spoil an otherwise new bathroom. Reglazing
 
 ### Tile reglazing
 
-Tired of a dated tile color? Wall and floor tile can be refinished in place instead of demolished. The project shown here covers whole bathroom walls and floors, a big change for a fraction of the disruption of a full tile tear-out.
+Tired of a dated tile color? Wall and floor tile can be refinished in place instead of demolished. The bathroom shown here had its walls and floor reglazed, a big change with far less disruption than a full tile tear-out.
 
 ![Bathroom tile reglazing shown in four photos, grey and lilac wall tile with white floor](images/cover.jpg)
 
@@ -56,31 +56,31 @@ Tired of a dated tile color? Wall and floor tile can be refinished in place inst
 
 Not every shower can be saved, and Denis will tell you so. When one shower was not repairable, he still did what he could to make it watertight instead of selling a job that would not last. The reviewer called him a stand up guy.
 
-![Refinished white shower floor and tile walls behind a glass door](images/maps_04.jpg)
+![Refinished bright white shower floor and white tile walls behind a glass door](images/maps_04.jpg)
 
-### Kitchens, now and then
+### Kitchen backsplashes
 
-The Facebook page describes transforming bathrooms and kitchens across New Jersey. Kitchen backsplash jobs come up less often, and in Denis's own words, he doesn't get these often, but loves doing them. Ask if your kitchen is a fit.
+The Facebook page describes transforming bathrooms and kitchens across New Jersey, and kitchen backsplashes are part of that. In Denis's own words, he doesn't get these often, but loves doing them. Call and ask whether your kitchen is a good fit.
 
-_(no photo)_
+_AI image `ai_service_kitchen_backsplash.jpg`: Illustration: kitchen with a glossy white subway tile backsplash and white shaker cabinets_ (prompt in Image plan below)
 
 ## Why homeowners call Denis
 
-**Licensed and warrantied.** New Jersey licence 13VH12234300 is printed on the company logo, and every customer gets a signed invoice that covers the work under a 5-year warranty.
+**Licensed and warrantied.** New Jersey license 13VH12234300 is printed on the company logo, and every customer gets a signed invoice that covers the work under a 5-year warranty.
 
 **Reputation over money.** One reviewer wrote that in a world full of money first people, Denis put his reputation first, and told him the truth about a shower that could not be repaired.
 
 **Honors the quote.** Fair pricing is a recurring topic in the reviews, and one customer summed it up: he honored his quoted price and did a perfect job.
 
-**13+ years of reglazing.** Denis has been in the reglazing trade for more than 13 years, long enough that, as he puts it, there is not much he has not seen.
+**13+ years of reglazing.** Denis has been in the reglazing trade for more than 13 years, and his Facebook page shares the unusual jobs along with the everyday tubs and showers.
 
 ## About Jersey Shore Tub and Tile Reglazing
 
-Jersey Shore Tub and Tile Reglazing is a Toms River business run by Denis, who has spent more than 13 years in the reglazing profession. He refinishes bathtubs, shower pans and tile so homeowners can change a color or fix a worn surface without tearing out the bathroom. Every job comes with a signed invoice from Denis himself, which covers the work under a 5-year warranty. The company is licensed in New Jersey under 13VH12234300. Reviewers describe him as honest and fair, and his Facebook page shares the jobs that make him say he loves this work.
+Jersey Shore Tub and Tile Reglazing is a Toms River business run by Denis, who has spent more than 13 years in the reglazing profession. He refinishes bathtubs, shower pans and tile so homeowners can change a color or fix a worn surface without tearing out the bathroom. After that long in the trade, as he puts it, there is not much he has not seen. The company is licensed in New Jersey under 13VH12234300. Reviewers describe him as honest and fair, and his Facebook page shows the jobs he enjoys most, from cast iron tubs to the occasional kitchen backsplash.
 
-Owner: Denis (Owner and reglazer (replies to reviews as the owner; reviewers spell the name Denis or Dennis))
+Owner: Denis, Owner
 
-![Jersey Shore Tub and Tile Reglazing logo with clawfoot tub, lighthouse at sunset, licence number and phone](images/logo.jpg)
+![Oval drop-in soaking tub refinished in a bone finish, surrounded by gray wall and floor tile](images/social_04.jpg)
 
 ## How reglazing works
 
@@ -89,10 +89,10 @@ Owner: Denis (Owner and reglazer (replies to reviews as the owner; reviewers spe
 3. **Prep and protect.** The room is masked off with plastic and tape and a window exhaust fan is set up before any refinishing begins.
 4. **Refinish and sign off.** The surface is reglazed, and you receive a signed invoice that covers the work under a 5-year warranty.
 
-## Recent reglazing jobs
+## Reglazing jobs
 
 - ![Cast iron pedestal tub reglazed white on a dolly in a masked-off room with exhaust fan in the window](images/social_01.jpg)  
-  Pedestal tub, fresh out of the spray
+  Cast iron pedestal tub, freshly reglazed
 - ![Small stand-up shower with pan refinished bright white](images/maps_03.jpg)  
   Yellowish beige shower pan, now bright white
 - ![Bright white refinished shower floor with glass door frame](images/maps_04.jpg)  
@@ -128,7 +128,7 @@ Yes. Every customer receives a signed invoice from Denis, and with that invoice 
 
 **Are you licensed?**
 
-Yes. Jersey Shore Tub and Tile Reglazing is licensed in New Jersey, and the licence number, 13VH12234300, is printed on the company logo. You are welcome to ask about it when you call or when Denis comes to your home to look at the tub or tile.
+Yes. Jersey Shore Tub and Tile Reglazing is licensed in New Jersey, and the license number, 13VH12234300, is printed on the company logo. You are welcome to ask about it when you call or when Denis comes to your home to look at the tub or tile.
 
 **Can my shower pan or tile really change color?**
 
@@ -146,7 +146,9 @@ We are open Monday through Friday from 8 AM to 6 PM and closed on Saturday and S
 
 Call Denis for an honest quote on reglazing your tub, shower pan or tile.
 
-[Call (609) 339-6239](tel:+16093396239) (609) 339-6239
+[Call (609) 339-6239](tel:+16093396239)  Phone: (609) 339-6239
+
+Background: _AI image `ai_cta_bathtub.jpg`: Illustration: glossy white bathtub in a sunlit bathroom_ (prompt in Image plan below)
 
 ## Footer
 
@@ -154,10 +156,29 @@ Jersey Shore Tub and Tile Reglazing
 1040 NJ-166 Apt. 1408, Toms River, NJ 08753, United States  
 Phone: (609) 339-6239  
 Email: jerseyshoretubandtile@yahoo.com  
-Hours: Mon to Fri 8 AM to 6 PM, Sat and Sun closed  
+Hours: Monday to Friday: 8 AM to 6 PM. Saturday and Sunday: closed.  
 Socials: https://www.facebook.com/100083580752257, https://www.google.com/maps/place/?q=place_id:ChIJX2U4smadwYkRvmq-g7bEfMQ&hl=en
 
 ---
+
+## Image plan
+
+- **hero**: real photo `images/social_01.jpg`. Alt: Cast iron pedestal bathtub freshly reglazed glossy white in a masked-off room, tub reglazing in Toms River, NJ
+- **service:Bathtub reglazing**: real photo `images/maps_02.jpg`. Alt: Bathtub and white tile surround refinished to a clean bright white
+- **service:Shower pan refinishing**: real photo `images/maps_03.jpg`. Alt: Shower pan reglazed from yellowish beige to bright white, with glass door
+- **service:Tile reglazing**: real photo `images/cover.jpg`. Alt: Bathroom tile reglazing shown in four photos, grey and lilac wall tile with white floor
+- **service:Honest shower repairs**: real photo `images/maps_04.jpg`. Alt: Refinished bright white shower floor and white tile walls behind a glass door
+- **service:Kitchen backsplashes**: AI image `ai_service_kitchen_backsplash.jpg`. Alt: Illustration: kitchen with a glossy white subway tile backsplash and white shaker cabinets  
+  Prompt: Photorealistic photo of a bright kitchen in a New Jersey shore-town home with a freshly finished glossy white subway tile backsplash between white shaker cabinets and a light quartz countertop, a brushed nickel faucet, soft slate-blue walls and warm sand-colored accents, natural daylight from a nearby window; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
+- **about**: real photo `images/social_04.jpg`. Alt: Oval drop-in soaking tub refinished in a bone finish, surrounded by gray wall and floor tile
+- **gallery_1**: real photo `images/social_01.jpg`. Alt: Cast iron pedestal tub reglazed white on a dolly in a masked-off room with exhaust fan in the window
+- **gallery_2**: real photo `images/maps_03.jpg`. Alt: Small stand-up shower with pan refinished bright white
+- **gallery_3**: real photo `images/maps_04.jpg`. Alt: Bright white refinished shower floor with glass door frame
+- **gallery_4**: real photo `images/maps_02.jpg`. Alt: Bathtub and square tile surround refinished in white
+- **gallery_5**: real photo `images/social_04.jpg`. Alt: Oval drop-in soaking tub refinished in a bone finish surrounded by grey tile
+- **gallery_6**: real photo `images/cover.jpg`. Alt: Four views of a bathroom with refinished white floor tile and grey and lilac wall tile
+- **final_cta**: AI image `ai_cta_bathtub.jpg`. Alt: Illustration: glossy white bathtub in a sunlit bathroom  
+  Prompt: Photorealistic wide photo of a freshly reglazed glossy white bathtub with a white tile surround in a sunlit New Jersey shore cottage bathroom, soft slate-blue walls, a sand-colored bath mat and a window with warm late-afternoon light, calm and clean with plenty of empty space on one side for text overlay; no people, no faces, no text, no logos, no brand names. Aspect ratio 21:9.
 
 ## Brand
 
@@ -165,7 +186,7 @@ Socials: https://www.facebook.com/100083580752257, https://www.google.com/maps/p
 - Palette: primary #6F7F92, accent #BF8A59, light #F7F2E2, dark #1C1A14
 - Palette note: From the logo (brand.json): slate blue sky #6F7F92 as primary, sunset copper #BF8A59 as accent, a light sand based on #DFD29C and the near-black of the tub and lettering. The logo's yellow outline and aqua 'Tub & Tile Reglazing' lettering can be small highlights.
 - Fonts: Baloo 2 (headings), Nunito (body)
-- Tagline: None
+- Tagline: none
 - Style direction: Friendly shore town feel: sunset and slate tones from the lighthouse logo, rounded casual headings and big bright-white before and after photos.
 
 ## Photos not to use
@@ -209,8 +230,9 @@ Socials: https://www.facebook.com/100083580752257, https://www.google.com/maps/p
 - Financing
 - Price ranges (none published, none invented)
 - Countertop refinishing: Gemini lists countertops, but no post or review confirms it, so it was left out
-- Kitchen backsplash photo
+- Needs a kitchen backsplash photo: that service card uses an AI illustration for now (the final CTA background is also AI, since the only landscape project photo is already the hero)
 - Towns served beyond Toms River
 - Only two positive full reviews were captured (a third is a 1-star the owner disputes); more of the 32 reviews should be pulled for 3 to 6 testimonials
 - Footer address is an apartment unit as listed on Google; the owner may prefer 'Serving Toms River, NJ'
 - Tile reglazing collage (cover.jpg) does not say which photos are before and which are after
+- Confirm the owner's name and spelling (Denis or Dennis) before it is used as the owner on the page

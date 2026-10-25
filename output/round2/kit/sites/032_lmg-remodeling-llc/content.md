@@ -3,7 +3,7 @@
 ## SEO
 
 - Title tag: Home Remodeling in Hagerstown, MD | LMG Remodeling, LLC (55 chars)
-- Meta description: Home remodeling Hagerstown neighbors rate 5.0 stars: kitchen and bath remodels, drywall, paint, flooring and repairs by LMG Remodeling, MHIC #05-152424. (152 chars)
+- Meta description: Home remodeling in Hagerstown, MD by LMG Remodeling, a 5.0-star family business: kitchen and bath remodels, drywall, paint, flooring and repairs. MHIC licensed. (160 chars)
 - Primary keyword: home remodeling Hagerstown
 - Secondary keywords: kitchen and bathroom remodels Hagerstown MD, drywall finishing Hagerstown, interior and exterior painting Hagerstown, flooring installation Hagerstown, door and window replacement Hagerstown, licensed home improvement contractor Hagerstown MD, basement drywall Hagerstown
 - OG title: LMG Remodeling, LLC: remodeling and repairs in Hagerstown, MD
@@ -13,9 +13,9 @@
 
 _Hagerstown, MD remodeler, MHIC #05-152424_
 
-# Home Remodeling in Hagerstown, Done Right the First Time
+# Home Remodeling in Hagerstown, Done Right from the Start
 
-LMG Remodeling is a family business that handles kitchen and bath remodels, drywall, paint, flooring and the repairs on your list, at prices reviewers call very fair.
+LMG Remodeling is a family business that handles kitchen and bath remodels, drywall, paint, flooring and the smaller repairs on your list, at prices reviewers call very fair.
 
 [Call (240) 919-9294](tel:+12409199294)  |  [Request a free estimate](#contact)
 
@@ -23,57 +23,57 @@ LMG Remodeling is a family business that handles kitchen and bath remodels, dryw
 - Maryland MHIC #05-152424
 - Family-run business
 
-![Basement walls taped, mudded, sanded and primed by LMG, a home remodeling Hagerstown, MD contractor](images/maps_07.jpg)
+![Finished basement with smooth primed white walls, part of LMG's home remodeling in Hagerstown, MD](images/maps_07.jpg)
 
-## A family crew for the jobs big and small
+## A family crew for jobs big and small
 
-LMG Remodeling is a family business for home remodeling Hagerstown homeowners can count on, whether it is a full bathroom or a few faded shutters. The Facebook page sums it up: professional work, reasonably priced and done perfect from the start.
+LMG Remodeling is a family business that takes on home remodeling in Hagerstown, from kitchen and bath remodels to a set of faded shutters. Its Facebook page puts it simply: professional work, reasonably priced and done perfect from the start.
 
-Armando and his crew show up in nearly every review. One family hung their own basement drywall and called LMG to finish it, and LMG did the corner bead, taping, mudding, sanding and priming until it looked perfect. Another customer had sun-faded shutters washed, repainted and rehung more securely than before. All three reviewers mention the same things: clear communication, very fair prices and a home left cleaner than they found it.
+Customers mention Armando by name. One family hung their own basement drywall and called LMG to finish it, and Armando's team did the corner bead, taping, mudding, sanding and priming until it looked perfect. Another homeowner had sun-faded shutters washed, repainted and rehung, more secure than before. Reviewers keep coming back to the same two things: clear communication and fair prices.
 
 ## What LMG Remodeling does
 
 ### Kitchen and bathroom remodels
 
-Kitchen and bathroom remodels are on the LMG services list, along with the tile, plumbing and electrical work that goes with them. On one master bath and bedroom job the crew started with prep, repairing badly damaged corners so the walls were clean and straight.
+Kitchen and bathroom remodels are on the LMG services list, along with the tile, plumbing and electrical work they usually need. On one master bedroom and bath job, the crew started with prep, repairing badly damaged corners so the walls looked clean again.
 
-_(no photo)_
+_AI image `ai_service_kitchen_bath.jpg`: Illustration: remodeled bathroom with a white tiled shower, glass door and navy vanity_ (prompt in Image plan below)
 
-### Drywall hanging and finishing
+### Drywall repair and finishing
 
 From a single patch to a whole basement. When one family hung their own drywall and it came out less than perfect, LMG did the corner bead, taping, mudding, sanding and priming, and the reviewer says it ended up looking perfect.
 
-![Basement room with finished and primed white drywall and fluorescent ceiling lights](images/maps_07.jpg)
+![Basement room with finished, primed white drywall, a ceiling light and two small windows](images/maps_08.jpg)
 
 ### Interior and exterior painting
 
-Inside walls and ceilings, plus outside doors, fascia, siding, window and door trim, handrails and concrete stain. LMG also takes down faded shutters, washes and repaints them, then reinstalls them so they look new again.
+Interior walls and ceilings, plus exterior doors, fascia, siding, window and door trim, handrails and concrete stain. LMG also takes down faded shutters, washes and repaints them, then reinstalls them so they look new again.
 
-![Freshly painted light blue laundry room with white six-panel doors and louvered closet doors](images/maps_02.jpg)
+![Light blue laundry room with fresh paint, white six-panel doors and louvered closet doors](images/maps_02.jpg)
 
 ### Flooring and tile
 
-LMG installs LVP, vinyl, hardwood and carpet, and lays tile. Pairing new floors with drywall and paint means one crew can take a room from bare studs to finished, without you lining up three different contractors.
+LMG installs LVP, vinyl, hardwood and carpet, and lays tile. Because the same crew also handles drywall and paint, a basement or spare room can go from bare walls to new floors without hiring a separate contractor for each trade.
 
-![Finished basement room with white walls and wood parquet pattern floor](images/maps_08.jpg)
+_AI image `ai_service_flooring.jpg`: Illustration: finished basement family room with oak-look vinyl plank flooring and white walls_ (prompt in Image plan below)
 
 ### Doors and windows
 
-Door and window replacement or installation. On one call, LMG replaced a leaking window on the bottom floor of a three level condo: they cut out the rotten wood, replaced it and installed a waterproof membrane before closing it up.
+LMG replaces and installs doors and windows. On one call, the crew replaced a leaking window on the bottom floor of a three-level condo: they removed the rotten wood, replaced it and installed a waterproof membrane before closing it up.
 
-_(no photo)_
+_AI image `ai_service_doors_windows.jpg`: Illustration: new white window with fresh trim in a red brick townhouse wall_ (prompt in Image plan below)
 
 ### Carpentry, repairs and power washing
 
 Smaller jobs get the same care. Reviewers have hired LMG to replace a gable vent and the posts and rails on a split rail fence. The crew also power washes siding, foundations, walkways, porches, decks and patios.
 
-![Brick townhouse with dark shutters that were cleaned, repainted and reinstalled](images/maps_04.jpg)
+![Brick townhouse with dark shutters that LMG washed, repainted and reinstalled](images/maps_04.jpg)
 
 ## Why Hagerstown homeowners call LMG
 
 **Licensed in Maryland.** LMG Remodeling, LLC is licensed by the Maryland Home Improvement Commission under MHIC #05-152424. The number is printed right on the company logo, so you can check it before any work starts.
 
-**Prices reviewers call fair.** Every review on the Google profile we read says the same thing about price: very fair, fair for the quality and fair price. That is three for three.
+**Prices reviewers call fair.** Price comes up again and again in LMG's reviews. Customers call it very fair for the quality of work, a fair price for good results, and very fair on a small fence repair.
 
 **You always know what is happening.** Customers say Armando communicated clearly, replied promptly and kept them informed throughout. One added that his suggestions improved the final result.
 
@@ -81,18 +81,18 @@ Smaller jobs get the same care. Reviewers have hired LMG to replace a gable vent
 
 ## About LMG Remodeling
 
-LMG Remodeling, LLC is a family business based in Hagerstown, Maryland. In their own words, they do professional work, reasonably priced and done perfect from the start. Armando leads the crew, and he is the name customers mention when they talk about clear communication and smart suggestions. The company is licensed with the Maryland Home Improvement Commission under MHIC #05-152424. The work ranges from kitchen and bathroom remodels to drywall, paint, flooring, tile, doors and windows, and the honest small repairs, like a gable vent or a fence rail, that many contractors pass on.
+LMG Remodeling, LLC is a family business based in Hagerstown, Maryland. In their own words, they do professional work, reasonably priced and done perfect from the start. Armando is the name customers mention most, for his clear communication and for suggestions that improved the final result. The company is licensed with the Maryland Home Improvement Commission under MHIC #05-152424. The work ranges from kitchen and bathroom remodels to drywall, paint, flooring, tile, doors and windows, along with smaller jobs like a gable vent or a split rail fence.
 
-![LMG Remodeling LLC logo with house, flames and paint roller showing MHIC# 05-152424](images/logo.jpg)
+![LMG crew's tools, sawhorses and shop vacuum in a basement during drywall taping and mudding](images/maps_06.jpg)
 
 ## How a project with LMG goes
 
-1. **Reach out.** Call (240) 919-9294, email or message LMG on Facebook with photos of what you need done, big or small.
+1. **Reach out.** Call (240) 919-9294, email or send LMG a Facebook message with a few photos of what you need done, big or small.
 2. **Talk it through.** Armando looks at the job and makes suggestions. One customer said those suggestions really improved the final result.
-3. **The work, with updates.** The crew does the work and keeps you informed. Reviewers describe prompt replies and clear communication from start to finish.
-4. **Clean up and check.** The job is finished with the area cleaned. One family said LMG left their home cleaner than they found it.
+3. **Work with regular updates.** The crew does the work and keeps you informed. Reviewers describe prompt replies and clear communication from start to finish.
+4. **Clean up and walkthrough.** When the work is done, the crew cleans up. One family said LMG left their home cleaner than they found it.
 
-## Recent work
+## Project photos
 
 - ![Basement with homeowner-hung drywall before finishing, sheets and tools on the floor](images/maps_05.jpg)  
   Basement drywall before LMG finished it
@@ -112,10 +112,10 @@ LMG Remodeling, LLC is a family business based in Hagerstown, Maryland. In their
 ## What customers say
 
 > "I had a great experience with LMG Remodeling. Armando and his crew removed my shutters, which had become very faded from years of sun exposure. They carefully took them down, thoroughly washed them, repainted them, and reinstalled them. The shutters now look like new, and they’re actually more secure than they were originally.
-
-Armando was excellent to work with throughout the entire process. He communicated clearly, worked quickly, and made suggestions that really improved the final result. On top of that, his pricing was very fair for the quality of work provided.
-
-I would highly recommend LMG Remodeling to anyone who needs repairs or improvements done around their home. Professional, reliable, and great workmanship."
+>
+> Armando was excellent to work with throughout the entire process. He communicated clearly, worked quickly, and made suggestions that really improved the final result. On top of that, his pricing was very fair for the quality of work provided.
+>
+> I would highly recommend LMG Remodeling to anyone who needs repairs or improvements done around their home. Professional, reliable, and great workmanship."
 >
 > Christina B., Google, 7 months ago
 
@@ -129,7 +129,7 @@ I would highly recommend LMG Remodeling to anyone who needs repairs or improveme
 
 ## Home remodeling in Hagerstown, MD
 
-LMG Remodeling, LLC is based at 823 Woodland Way in Hagerstown, Maryland, and Hagerstown is the town named on its Facebook page. The kitchens, baths, basements, paint jobs and repairs shown here come from homeowners in and around Hagerstown. If you live nearby and are not sure whether your address is covered, call (240) 919-9294 and ask. Small jobs are welcome too.
+LMG Remodeling, LLC is based at 823 Woodland Way in Hagerstown, Maryland, and Hagerstown is the town named on its Facebook page. Kitchen and bath remodels, basements, painting and the smaller repairs on your list are all welcome, and so are quick fixes. If you live nearby and are not sure whether your address is covered, call (240) 919-9294 and ask before you book.
 
 Towns: Hagerstown, MD
 
@@ -137,11 +137,11 @@ Towns: Hagerstown, MD
 
 **Are you licensed?**
 
-Yes. LMG Remodeling, LLC is licensed by the Maryland Home Improvement Commission. The licence number, MHIC #05-152424, is printed on the company logo. You are always welcome to ask for it again when we come out to look at your project.
+Yes. LMG Remodeling, LLC is licensed by the Maryland Home Improvement Commission, and its license number, MHIC #05-152424, is printed on the company logo. You are welcome to ask to see it when LMG comes out to look at your project.
 
 **Do you do kitchen and bathroom remodels?**
 
-Yes. Kitchen and bathroom remodels are on the LMG services list, together with tile, plumbing, electrical, flooring, drywall and paint. That means one crew can handle most of the trades a remodel needs. Recent posts include prep work on a master bedroom and master bath.
+Yes. Kitchen and bathroom remodels are on the LMG services list, together with tile, plumbing, electrical, flooring, drywall and paint, so one crew can handle most of the trades a remodel needs. One Facebook post shows the crew's prep work on a master bedroom and master bath.
 
 **Will you take on a small job?**
 
@@ -149,17 +149,19 @@ Yes. Reviewers have hired LMG to replace a gable vent, repair a split rail fence
 
 **Do you give free estimates?**
 
-Yes, estimates are free. Call (240) 919-9294 or email lmgremodelingllc@gmail.com with a short description and a few photos of the job. We will set up a time to look at it in person, talk through your options and explain what the work involves.
+Yes, LMG offers free estimates. Call (240) 919-9294 or email lmgremodelingllc@gmail.com with a short description and a few photos of the job, and LMG will get back to you to set up a time to see the work in person.
 
 **When can I reach you?**
 
-The Google profile lists LMG as open 24 hours Monday through Friday and closed on Saturday and Sunday. The fastest way to reach the crew is a phone call to (240) 919-9294 or a message on the LMG Facebook page.
+Google lists LMG as open 24 hours Monday through Friday and closed on Saturday and Sunday. The fastest way to reach the crew is a phone call to (240) 919-9294 or a message on the LMG Facebook page, ideally with a photo of the job.
 
 ## Got a project on your list?
 
 Call LMG Remodeling for a free estimate on your kitchen, bath, basement or repair.
 
-[Call (240) 919-9294](tel:+12409199294) (240) 919-9294
+[Call (240) 919-9294](tel:+12409199294)  Phone: (240) 919-9294
+
+Background: ![Finished basement room with primed white walls and a ceiling light](images/maps_08.jpg)
 
 ## Footer
 
@@ -167,10 +169,32 @@ LMG Remodeling, LLC
 823 Woodland Way, Hagerstown, MD 21742, United States  
 Phone: (240) 919-9294  
 Email: lmgremodelingllc@gmail.com  
-Hours: Mon to Fri open 24 hours, Sat and Sun closed  
+Hours: Monday to Friday: open 24 hours. Saturday and Sunday: closed.  
 Socials: https://www.facebook.com/LMGRemodelingLLC, https://www.google.com/maps/place/?q=place_id:ChIJt_ISwH3tyYkRsyVgRv6tHbE&hl=en
 
 ---
+
+## Image plan
+
+- **hero**: real photo `images/maps_07.jpg`. Alt: Finished basement with smooth primed white walls, part of LMG's home remodeling in Hagerstown, MD
+- **service:Kitchen and bathroom remodels**: AI image `ai_service_kitchen_bath.jpg`. Alt: Illustration: remodeled bathroom with a white tiled shower, glass door and navy vanity  
+  Prompt: Photorealistic photo of a finished bathroom remodel in a brick Maryland townhouse: white subway tile shower with a clear glass door, navy blue vanity with a white top and brass fixtures, light gray porcelain floor tile, soft natural daylight from a small window, clean and uncluttered, warm cream walls; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
+- **service:Drywall repair and finishing**: real photo `images/maps_08.jpg`. Alt: Basement room with finished, primed white drywall, a ceiling light and two small windows
+- **service:Interior and exterior painting**: real photo `images/maps_02.jpg`. Alt: Light blue laundry room with fresh paint, white six-panel doors and louvered closet doors
+- **service:Flooring and tile**: AI image `ai_service_flooring.jpg`. Alt: Illustration: finished basement family room with oak-look vinyl plank flooring and white walls  
+  Prompt: Photorealistic photo of a finished basement family room in a Maryland home with newly installed warm oak-look luxury vinyl plank flooring, smooth white painted walls and baseboards, two small basement windows letting in natural daylight, a simple navy sofa and a cream rug; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
+- **service:Doors and windows**: AI image `ai_service_doors_windows.jpg`. Alt: Illustration: new white window with fresh trim in a red brick townhouse wall  
+  Prompt: Photorealistic photo of a newly replaced white double-hung window with fresh white trim set in the red brick wall of a Maryland townhouse, navy shutters on each side, a new white six-panel front door nearby, clear afternoon daylight; no people, no faces, no text, no logos, no brand names. Aspect ratio 4:3.
+- **service:Carpentry, repairs and power washing**: real photo `images/maps_04.jpg`. Alt: Brick townhouse with dark shutters that LMG washed, repainted and reinstalled
+- **about**: real photo `images/maps_06.jpg`. Alt: LMG crew's tools, sawhorses and shop vacuum in a basement during drywall taping and mudding
+- **gallery_1**: real photo `images/maps_05.jpg`. Alt: Basement with homeowner-hung drywall before finishing, sheets and tools on the floor
+- **gallery_2**: real photo `images/maps_06.jpg`. Alt: Basement drywall during taping and mudding, with sawhorses and shop vacuum
+- **gallery_3**: real photo `images/maps_07.jpg`. Alt: Finished basement room with smooth primed white walls and two small windows
+- **gallery_4**: real photo `images/maps_08.jpg`. Alt: Finished basement room with white walls, ceiling light and parquet pattern floor
+- **gallery_5**: real photo `images/maps_02.jpg`. Alt: Painted light blue laundry room with white trim, six-panel door and louvered closet
+- **gallery_6**: real photo `images/maps_03.jpg`. Alt: Brick townhouse front with dark blue shutters reinstalled after repainting
+- **gallery_7**: real photo `images/maps_04.jpg`. Alt: Upper floors of brick townhouse with repainted shutters beside white windows
+- **final_cta**: real photo `images/maps_08.jpg`. Alt: Finished basement room with primed white walls and a ceiling light
 
 ## Brand
 
@@ -178,7 +202,7 @@ Socials: https://www.facebook.com/LMGRemodelingLLC, https://www.google.com/maps/
 - Palette: primary #0B2E54, accent #E3B649, light #F5F3EA, dark #12302E
 - Palette note: Primary navy #0B2E54 is from the brand.json palette (logo flames). The accent gold and the dark green-black of the paint roller are read from the logo itself; the light tone is a lightened version of the palette's #D8D4BB.
 - Fonts: Poppins (headings), Open Sans (body)
-- Tagline: None
+- Tagline: none
 - Style direction: Clean and dependable: navy and gold from the logo, bold rounded sans headings like the logo wordmark, and before and after photo pairs up front.
 
 ## Photos not to use
@@ -217,7 +241,7 @@ Socials: https://www.facebook.com/LMGRemodelingLLC, https://www.google.com/maps/
 
 ## Missing
 
-- No kitchen or bathroom project photos: the photos captured show basement drywall, a painted laundry room and shutters, so the kitchen and bath service has no image
+- Needs kitchen, bathroom, flooring and door or window project photos: those three service cards use AI illustrations for now
 - Owner name and role (reviews name Armando as the crew lead but do not say he owns the company)
 - Years in business or founding year
 - Insurance details (only the MHIC licence is shown)
@@ -227,3 +251,4 @@ Socials: https://www.facebook.com/LMGRemodelingLLC, https://www.google.com/maps/
 - Towns served beyond Hagerstown
 - Instagram URL (Gemini reports 66 Instagram followers, no URL captured)
 - Gemini's 'reviews' for this business are unrelated web text and were not used
+- Confirm that Armando owns or runs the company before naming him as owner
