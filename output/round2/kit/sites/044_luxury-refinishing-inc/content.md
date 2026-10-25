@@ -77,7 +77,7 @@ _AI image `ai_service_flooring.jpg`: Illustration: light gray large-format tile 
 
 Luxury Refinishing Inc is a refinishing and remodeling company in Miramar, Florida. Clients name Reidel as the person who does the work, and they describe him as meticulous and careful with small details. The core of the business is what its name says: refinishing bathtubs, bathrooms and cabinets so homeowners can keep what is solid and change how it looks. The company also handles kitchen and bathroom remodeling, flooring and demolition. It holds a 5.0 rating from 31 Google reviews, and one family found Reidel through a neighbor's recommendation on Nextdoor.
 
-Owner: Reidel, Refinisher (named in reviews)
+Named person: Reidel, Refinisher (named in reviews)
 
 ![Large built-in wall unit refinished in white with open shelves, crown molding and a TV opening](images/maps_04.jpg)
 
