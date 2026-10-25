@@ -66,7 +66,7 @@ Image: AI-generated, ai_service_repairs.jpg (alt: "Refinished wooden chair on a 
 
 ## Meet Bob Jackson
 
-Jackson Woodworks is Bob Jackson's shop on Courville Trail in Polson, Montana. Bob is a cabinet maker who builds custom cabinets, built-ins and furniture, and his customers describe him as an artist and a craftsman who takes the time to do it right. The shop's sign is a slab of wood with the name carved and burned into it, which suits the work. Alongside the larger custom pieces, Bob takes on small repair jobs, and reviewers say he finishes them quickly and does a wonderful job.
+Jackson Woodworks is Bob Jackson's shop on Courville Trail in Polson, Montana. Bob is a cabinet maker who builds custom cabinets, built-ins and furniture, and one longtime customer calls him an artist and a craftsman who takes the time to do it right. The shop's sign is a slab of wood with the name carved and burned into it, which suits the work. Alongside the larger custom pieces, Bob takes on small repair jobs, and reviewers say he finishes them quickly and does a wonderful job.
 
 Owner: Bob Jackson (Owner and cabinet maker)
 
@@ -126,7 +126,7 @@ The shop is at 34598 Courville Trail, Polson, MT 59860. Custom cabinets and buil
 
 ### How long does a custom project take?
 
-Timing comes down to how big the piece is and what else Bob has on the bench. Customers say he takes the time to do it right on custom work and finishes small repairs quickly. Ask him about timing once he has seen the job and you have talked through the details.
+Timing comes down to how big the piece is and what else Bob has on the bench. Carl R. says he takes the time to do it right on custom work, and Teri W. says her small repairs were completed quickly. Ask him about timing once he has seen the job and you have talked through the details.
 
 ## Have a Piece in Mind?
 

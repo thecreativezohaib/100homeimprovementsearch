@@ -62,13 +62,13 @@ Image: AI-generated, ai_service_remodeling.jpg (alt: "Freshly remodeled living r
 
 **Fast, without cutting corners.** Tommy W. had his whole front porch replaced in less than a week. Reviewers say the crew is fast and efficient while still doing a quality job.
 
-**You always know where things stand.** Reviewers say Luis communicates clearly and consistently and was in constant communication about the project. Sandra H. called him reliable and very pleasant to work with.
+**You always know where things stand.** Jennifer O. says Luis communicates clearly and consistently, and another reviewer says he was in constant communication about the project from start to finish.
 
 ## Meet Luis
 
 LCR Home Solutions LLC is based on Jewel Street in Lochbuie, Colorado. Luis is the contact on the company's Instagram, and reviewers name him as the one who did their work. The jobs range from finish carpentry inside, like crown and wall molding, to decks, porches and other exterior work. Customers describe him as hardworking, reliable and very pleasant to work with, and say he communicates clearly and consistently. Jennifer O. says she will absolutely be hiring him again for future projects.
 
-Owner: Luis (Lead carpenter and main contact (surname and ownership not published))
+Owner: Luis (Lead carpenter and main contact)
 
 Image: images/maps_06.jpg (alt: "Dining room with white wall molding and a dark wood floor, open to the front entry and staircase")
 

@@ -72,7 +72,7 @@ Image: AI-generated, ai_service_showers.jpg (alt: "Walk-in shower with white vei
 
 ## About Alfonso Molina and AML Stoneworks
 
-AML Stoneworks Countertops is run by Alfonso Molina, whose name is on the company business card along with countertops, backsplashes, showers and floors. The company fabricates and installs natural stone and quartz, and serves the whole Central Valley and the Bay Area. Customers say Alfonso came out to measure himself and gave a reasonable bid, and he answers his Google reviews, thanking customers by name. Beyond full installs, AML keeps stone remnants on hand and ready to sell, which can suit a smaller project like a vanity.
+AML Stoneworks Countertops is run by Alfonso Molina, whose name is on the company business card along with countertops, backsplashes, showers and floors. The company fabricates and installs natural stone and quartz, and serves the whole Central Valley and the Bay Area. James L. says Alfonso came out to do the measurements himself and gave a reasonable bid, and Alfonso answers his Google reviews, thanking customers by name. Beyond full installs, AML keeps stone remnants on hand and ready to sell, which can suit a smaller project like a vanity.
 
 Owner: Alfonso Molina (Owner)
 

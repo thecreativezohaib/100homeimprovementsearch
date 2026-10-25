@@ -15,7 +15,7 @@
 
 # Cabinets and Countertops in Rockingham, NC
 
-Choose your quartz countertops, cabinets and backsplash with our team on US-1, then let our install team put them in your kitchen or bathroom.
+Choose your quartz countertops, cabinets and backsplash with our team on US-1, then let our install team put in the countertops and backsplash in your kitchen or bathroom.
 
 - Primary button: Call (910) 474-1447 (tel:+19104741447)
 - Secondary button: Schedule a visit (#contact)
@@ -24,7 +24,7 @@ Choose your quartz countertops, cabinets and backsplash with our team on US-1, t
 
 ## Cabinets and countertops, supplied and installed
 
-Cabinet & Countertop Solutions sells and installs cabinets and countertops in Rockingham, NC, from a kitchen supply store you can visit on US-1. Stop by during opening hours to talk through your kitchen or bathroom, or call ahead and we can schedule a time.
+Cabinet & Countertop Solutions sells cabinets and countertops in Rockingham, NC, from a kitchen supply store you can visit on US-1. Stop by during opening hours to talk through your kitchen or bathroom, or call ahead and we can schedule a time.
 
 Then the same company handles the install. One homeowner told us her quartz countertop and backsplash job with Carolyn and the install team was seamless from start to finish. Another ordered two different countertops and says they are just what she asked for. Our photos show white quartz kitchens, copper and stainless sinks, and long bathroom vanity tops.
 
@@ -38,13 +38,13 @@ Image: images/maps_03.jpg (alt: "L-shaped kitchen with white quartz countertops,
 
 ### Kitchen cabinets
 
-Kitchen cabinets to go with your new counters, from white raised-panel kitchens with dark hardware to tall pantry units over gray base cabinets. Choose the style and finish with us, and our team installs them before the countertops go on.
+Kitchen cabinets to go with your new counters, from white raised-panel kitchens with dark hardware to tall pantry units over gray base cabinets. Choose the style and finish with us, and ask about installation when you order your countertops.
 
 Image: images/maps_10.jpg (alt: "White raised-panel kitchen cabinets with a copper range hood, wall ovens and a marble mosaic backsplash")
 
 ### Backsplash and tile
 
-Backsplash finishes the countertop job, and backsplash installs come up in several of our reviews. Kitchens in our photos have marble mosaic tile behind a copper range hood and a full quartz splash behind the sink, all set by our install team.
+Backsplash finishes the countertop job, and backsplash installs come up in several of our reviews. Kitchens in our photos have marble mosaic tile behind a copper range hood and a full quartz splash behind the sink and cooktop.
 
 Image: images/maps_11.jpg (alt: "White kitchen with a quartz island, black refrigerator and mosaic tile backsplash under a pendant light")
 
@@ -70,7 +70,7 @@ Image: images/cover.jpg (alt: "Two men standing in a finished white kitchen with
 
 **A store you can visit.** Our store at 899 US-1 is open Monday to Saturday, so you can talk through cabinets, countertops and backsplash in person instead of only over the phone.
 
-**Supply and install together.** We sell the countertops and cabinets and our install team puts them in, so the order, the measurements and the install all stay with one company.
+**Supply and install together.** We sell the countertops and our install team puts them in, along with the backsplash, so the order, the measurements and the install all stay with one company.
 
 **A smooth process.** One client called working with Carolyn and her team a great experience from start to finish. Another says her finished countertops are just what she asked for.
 
@@ -78,7 +78,7 @@ Image: images/cover.jpg (alt: "Two men standing in a finished white kitchen with
 
 ## About Cabinet & Countertop Solutions
 
-Cabinet & Countertop Solutions LLC runs a kitchen supply store at 899 US-1 in Rockingham, under the black and gold C&C sign. We supply and install countertops and cabinets, with backsplash and bathroom vanity tops as part of the work. Customers deal with real people: reviewers mention Carolyn by name, along with the install team that comes to your house. All of our Google reviews are five stars so far, from a pair of bathroom tops to a full kitchen with a copper range hood, marble backsplash and a big quartz island.
+Cabinet & Countertop Solutions LLC runs a kitchen supply store at 899 US-1 in Rockingham, under the black and gold C&C sign. We sell cabinets and countertops, and our install team puts in countertops, backsplash and bathroom vanity tops. Customers deal with real people: reviewers mention Carolyn by name, along with the install team that comes to your house. All of our Google reviews are five stars so far, from a pair of bathroom tops to a full kitchen with a copper range hood, marble backsplash and a big quartz island.
 
 Image: images/maps_01.jpg (alt: "Black and gold C&C Cabinet & Countertop Solutions LLC sign with the phone number outside the Rockingham store")
 
@@ -87,7 +87,7 @@ Image: images/maps_01.jpg (alt: "Black and gold C&C Cabinet & Countertop Solutio
 1. **Give us a call.** Call (910) 474-1447 or email candcllc0125@gmail.com, and we can schedule a time that works for you.
 2. **Choose your materials.** Visit the store at 899 US-1 to go over quartz, cabinets and backsplash options with our team.
 3. **Measure and order.** We measure your kitchen or bathroom so the cabinets and countertops are ordered and cut to fit your actual space.
-4. **Install.** Our install team sets the cabinets, countertops, sink and backsplash, as reviewers describe in their kitchen and bathroom jobs.
+4. **Install.** Our install team sets the countertops, sink and backsplash, as reviewers describe in their kitchen and bathroom jobs.
 5. **Enjoy the result.** We check the finished install with you so the countertops and cabinets are exactly what you asked for before the team leaves.
 
 ## Recent installs
@@ -129,7 +129,7 @@ We are at 899 US-1, Rockingham, NC 28379. The store is open Monday through Frida
 
 ### Do you install, or only sell materials?
 
-Both. Customers buy countertops and cabinets from us and our install team puts them in, including sinks and backsplash. Reviewers praise the install team and say the finished countertops are just what they asked for. Call to talk through what your kitchen or bathroom needs.
+Both. Customers buy countertops from us and our install team puts them in, along with sinks and backsplash. Reviewers praise the install team and say the finished countertops are just what they asked for. Call to talk through what your kitchen or bathroom needs, including cabinets.
 
 ### What materials do you carry?
 
@@ -265,3 +265,4 @@ Button: Call (910) 474-1447 (tel:+19104741447). Phone: (910) 474-1447
 - Instagram @countertop_solutions (from Gemini) is named 'Countertop Solutions LLC'; its link and tagline 'Not Just Countertops. Total Solutions.' are left off until confirmed
 - Whether the store has a showroom with displays is not stated; the page calls it a kitchen supply store (Google category)
 - Relationship to Gonzalez Construction (named in Rodney Byers' review on this profile, with Julio, his wife, Oscar and Gordon); that review is left off the page until confirmed, so only 2 testimonials
+- Whether the company installs cabinets (as well as selling them) is not stated; the page only claims countertop, sink and backsplash installs

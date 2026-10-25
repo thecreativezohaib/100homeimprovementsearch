@@ -62,9 +62,9 @@ Image: images/maps_05.jpg (alt: "Living room fireplace refaced floor to ceiling 
 
 ## What our clients point out
 
-**Tile done right.** Tile is mentioned in 7 of our Google reviews. Clients describe the crew as talented, meticulous and master craftsmen, and the marble showers in our photos show why.
+**Tile done right.** Clients describe the crew as talented, meticulous and master craftsmen in tile, flooring, electrical and wood, and the marble showers in our photos show why.
 
-**Your home treated with respect.** We prep everything before work begins and clean up when the day is done. Reviewers also call the crew polite, professional and flexible when surprises come up.
+**Your home treated with respect.** A recent client says we prepped everything before work began and cleaned up after each work day. Others call the crew polite, professional, understanding and flexible.
 
 **Fair prices, budgets kept.** Reviewers say the work was reasonably priced, that the price was fair, and that we stayed on budget from start to finish of a primary bathroom renovation.
 
@@ -74,7 +74,7 @@ Image: images/maps_05.jpg (alt: "Living room fireplace refaced floor to ceiling 
 
 Queen City Renovation LLC is a bathroom remodeling company based on Connell Road in Mint Hill, working around Charlotte. Max leads the work with his crew, including Slavic and Ivan. The owner replies to reviews personally, thanking homeowners by name. Clients have trusted the team with first-time remodels and with repeat projects, starting with a backsplash and returning for the primary bathroom. They talk about clear communication, solid advice when asked, and patience when a project hit challenges that were no fault of the crew.
 
-Owner: Max (Leads the crew (named in Google reviews))
+Owner: Max (Leads the crew)
 
 Image: images/maps_09.jpg (alt: "Marble-look walk-in shower with an arched window, glass door, built-in bench and pebble floor")
 

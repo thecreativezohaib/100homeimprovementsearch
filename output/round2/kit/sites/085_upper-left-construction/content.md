@@ -72,7 +72,7 @@ Image: images/cover.jpg (alt: "Wood-framed walls and floor of a building under c
 
 **Structure, not just finishes.** Framing, siding and roofing are part of the trade here, so a problem found behind a wall or under a roof can be handled by the same crew that is doing the remodel.
 
-**Detailed work.** Reviewers describe the work as excellent quality and very detailed, and say this is a company that works hard and will get the job done.
+**Detailed work.** Christine R. sums up her job as excellent quality, very detailed. Another reviewer calls it great quality of work from an excellent company that works hard.
 
 **Big and small jobs.** The work they share ranges from pole shops and a metal roof to one fence line or one added living room window. Call about the size of job you have, large or small.
 

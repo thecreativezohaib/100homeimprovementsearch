@@ -62,7 +62,7 @@ Image: AI-generated, ai_service_room_addition.jpg (alt: "Bright new family room 
 
 ## Why Homeowners Choose Ortega Remodeling
 
-**Fast turnarounds.** A whole kitchen in two weeks flat for one family, and a countertop installed in one day for Brenda J., who says the team was great from beginning till end.
+**Fast turnarounds.** A whole kitchen in two weeks flat for one family, and a countertop installed in one day for Brenda J. Ask about timing for your own project when you call.
 
 **Priced fairly.** One customer compared several estimates and found Ortega's very reasonable. Fernando and the team delivered as promised on a large project with a short timeline.
 
@@ -74,7 +74,7 @@ Image: AI-generated, ai_service_room_addition.jpg (alt: "Bright new family room 
 
 Ortega Remodeling is led by Fernando Ortega, and the logo carries the full company name, Ortega Remodeling and Services Inc. The team takes on kitchens, bathrooms, countertops, flooring, interior painting and room additions, and posts its projects on Instagram. Customers describe the crew as friendly, dependable and committed to quality work, and say every project was handled with care and professionalism. One family whose kitchen was finished in two weeks is already getting ready for its next project with the team, a room conversion.
 
-Owner: Fernando Ortega (Leads the team (named in reviews))
+Owner: Fernando Ortega (Leads the team)
 
 Image: images/maps_02.jpg (alt: "Remodeled bathroom with marble-look tile, a jetted tub under a shuttered bay window and a glass shower panel")
 
@@ -236,3 +236,4 @@ Button: Call (562) 618-3424 (tel:+15626183424). Phone: (562) 618-3424
 - California contractor licence (CSLB) number not found, although the logo says 'Inc'
 - Insurance, warranty, financing and free estimates not stated
 - Years in business not stated
+- Fernando Ortega is named in reviews as leading the team; ownership and his role at Ortega Remodeling and Services Inc not confirmed

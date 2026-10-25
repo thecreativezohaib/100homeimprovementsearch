@@ -72,9 +72,9 @@ Image: AI-generated, ai_service_front_door.jpg (alt: "Newly installed stained wo
 
 ## About DMP Remodels
 
-DMP Remodels describes itself as custom woodworking, carpentry and remodeling, and it takes on custom home and business remodeling around Batavia and Naperville. Darren leads the team. Clients describe him as reliable, very nice and pleasant to work with, and quick to get things done. The replies to reviews are personal, like the note thanking a homeowner for letting the team help bring the old charm back into his house. Our posts share the same focus: fix what is hiding behind the walls, and get the little details right so a space feels intentional.
+DMP Remodels describes itself as custom woodworking, carpentry and remodeling, and it takes on custom home and business remodeling around Batavia and Naperville. Darren leads the team. One client calls him very nice and pleasant to work with, and another says his team finished every project quickly. The replies to reviews are personal, like the note thanking a homeowner for letting the team help bring the old charm back into his house. Our posts share the same focus: fix what is hiding behind the walls, and get the little details right so a space feels intentional.
 
-Owner: Darren (Leads the DMP Remodels team (named in Google reviews))
+Owner: Darren (Leads the team)
 
 Image: images/maps_02.jpg (alt: "Shiplap fireplace wall with a rustic wood mantel built against navy walls")
 

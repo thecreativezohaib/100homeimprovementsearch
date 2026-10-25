@@ -38,7 +38,7 @@ Image: images/social_02.jpg (alt: "Remodeled kitchen with light gray shaker cabi
 
 ### Bathroom remodeling
 
-Full bathroom remodels and urgent redos. One homeowner who could not get there right away had an emergency bathroom redo finished within 10 days. She wrote that Fernanda took care of everything, that the work was quality and that the crew cleaned up well.
+Full bathroom remodels and urgent redos. One homeowner who could not be on site had an emergency bathroom redo finished within 10 days. She wrote that Fernanda took care of everything, that the work was quality and that the crew cleaned up well.
 
 Image: AI-generated, ai_service_bathroom.jpg (alt: "Bright coastal-style bathroom with a white vanity and a glass walk-in shower (illustration)")
 
@@ -104,7 +104,7 @@ Image: images/social_06.jpg (alt: "Bright dining and living area with a wood-pla
 
 ## Serving Hilton Head Island
 
-The office is at 18 Executive Park Rd #3 on Hilton Head Island, and the kitchens and rooms the team shares online are island homes and villas. If you live on the island or own a place here, call to check whether your project and timing fit their schedule. Owners who cannot get there right away can still get work done, as one reviewer did.
+The office is at 18 Executive Park Rd #3 on Hilton Head Island, and the kitchens and rooms the team shares online are island homes and villas. If you live on the island or own a place here, call to check whether your project and timing fit their schedule. Owners who cannot be on site can still get work done, as one reviewer did.
 
 Towns: Hilton Head Island, SC
 
@@ -120,7 +120,7 @@ Kitchen and bathroom remodeling, flooring including epoxy floors, painting, dryw
 
 ### Can you manage a project if I am not on the island?
 
-One homeowner who could not get there right away had an emergency bathroom redo finished within 10 days, and wrote that Fernanda, the project manager, took care of everything. Call to talk through access, updates and timing for your own project before work starts.
+Debbie T., who could not be there in person at first, had an emergency bathroom redo finished within 10 days, and wrote that Fernanda, the project manager, took care of everything. Call to talk through access, updates and timing for your own project before work starts.
 
 ### Where is your office and when are you open?
 
@@ -253,6 +253,6 @@ Button: Call (843) 227-4087 (tel:+18432274087). Phone: (843) 227-4087
 - Service towns beyond Hilton Head Island not stated (a Bluffton hashtag appears once, not used)
 - Only 3 of 6 Google review texts captured
 - Business email listing shows an older address (32 Office Park Rd, Suite 217); Google address used instead
-- No bathroom photo captured (the Jun 2, 2022 bathroom post images came through as kitchens): the bathroom service card uses an AI illustration until a real bathroom photo is supplied
 - Only 6 distinct project photos (social_03, 05, 07, 09, 11 are duplicates), so the gallery has 6 images
 - '10 years of experience' comes from the Facebook About text via Gemini and was not re-verified
+- No bathroom photo captured (the Jun 2, 2022 bathroom post images came through as kitchens): the bathroom service card uses an AI illustration until a real bathroom photo is supplied
