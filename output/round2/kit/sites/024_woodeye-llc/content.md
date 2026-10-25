@@ -1,0 +1,192 @@
+# WOODEYE LLC: homepage content
+
+**Title tag:** Custom Kitchen Cabinets in Stayton, OR | WOODEYE LLC  
+**Meta description:** WOODEYE LLC designs and builds custom kitchen cabinets and vanities in Stayton, OR. Planned with you on screen, built with care. 5.0 stars from 18 reviews.  
+**Primary keyword:** custom kitchen cabinets Stayton  
+**Secondary keywords:** cabinet maker Stayton OR, custom bathroom vanity Stayton, oak kitchen cabinets Oregon, kitchen cabinet replacement Stayton, custom lazy Susan cabinet, soft-close cabinets Stayton OR  
+**OG title:** WOODEYE LLC | Custom Kitchen Cabinets in Stayton, OR  
+**OG description:** Custom kitchen cabinets and vanities from a Stayton cabinet maker. Rated 5.0 from 18 Google reviews.
+
+## Hero
+
+*Cabinet maker on E High St, Stayton*
+
+# Custom Kitchen Cabinets in Stayton, OR
+
+Barak at WOODEYE plans your cabinets with you on a computer, then builds them so well that even the parts that don't show are beautiful. That is a customer's description, not ours.
+
+[Call (458) 356-8185](tel:+14583568185) | [Start planning your cabinets](#contact)
+
+- 5.0 stars from 18 Google reviews
+- Kitchens, vanities and custom pieces
+- Planned with you on screen
+- Open 7 days, including Sunday
+
+Image: `images/maps_02.jpg` (alt: Bright white kitchen with long island, yellow bar stools, glass-front cabinets and pendant lights, custom kitchen cabinets by WOODEYE LLC in Stayton OR)
+
+## Cabinets designed with you and built with care
+
+WOODEYE LLC builds custom kitchen cabinets in Stayton, OR, and the way we work starts at the screen. We sit down with you, plan the cabinets on a computer program and change the design as your ideas come in, before a single board is cut.
+
+What customers write about most is the craftsmanship. One couple asked for oak on the outside and found that even the hidden parts were beautiful, with quiet-closing doors and drawers throughout. They also found the cost was lower than pre-made cabinets from a big company. Another customer called her custom vanity absolutely breathtaking and said it far exceeded her expectations.
+
+## Custom kitchen cabinets in Stayton and more
+
+### Custom kitchen cabinets
+
+Replace old cabinets with a set designed for your kitchen. We plan the layout with you on a computer program, build the boxes, doors and drawers, and fit soft-close hardware so every door and drawer shuts quietly.
+
+Image: `images/maps_01.jpg` (alt: White shaker kitchen cabinets with dark stone countertop, full-height backsplash and stainless dishwasher under a window)
+
+### Custom bathroom vanities
+
+A vanity is small, but it is the piece you see every morning. We help you choose the wood and the color for your space, then build it with attention to the smallest details, like one customer's walnut-tone vanity.
+
+Image: `images/maps_03.jpg` (alt: Rich walnut-tone custom vanity with wide drawers and dark pulls on a black marble-look tile floor)
+
+### Whole-house cabinet replacement
+
+After a crawlspace water leak, one family's contractor brought us in to renovate every cabinet in the house. We work with your contractor or directly with you, using quality materials when you need a lot of cabinetry replaced at once.
+
+Image: `images/maps_06.jpg` (alt: Light oak cabinets with drawers and doors with brushed metal pulls before countertop installation)
+
+### Custom inserts and storage
+
+Corner cabinets, pull-outs and special storage are where custom work pays off. One customer asked for a lazy Susan, and we built it for their corner cabinet. Bring us the storage problem and we will design around it.
+
+Image: `images/maps_07.jpg` (alt: Custom wooden lazy Susan inside a dark grey corner cabinet holding pots and bowls)
+
+## Why homeowners choose WOODEYE
+
+**Craftsmanship you can see inside.** Craftsmanship is one of the most mentioned topics in our reviews. A customer noted that even the cabinet parts that don't show are beautiful.
+
+**Designed together, on screen.** We plan your cabinets on a computer program with you and stay responsive to your ideas, so you see the layout before it is built.
+
+**Custom without the big-box markup.** One customer found that our custom oak cabinets cost less than pre-made cabinets from some big company. Ask us to price your kitchen and compare.
+
+**Help choosing wood and color.** Customers mention that we went above and beyond choosing the right wood color for their space, and that communication was excellent from start to finish.
+
+## Meet Barak, the craftsman behind WOODEYE
+
+WOODEYE LLC is a cabinet maker at 278 E High St in Stayton, Oregon. In our Google reviews customers talk to and about one person: Barak. He plans the job with you, builds it and answers your reviews himself. Customers describe him as responsive, careful with details and good at listening, with one review summary saying he gave a family their dream kitchen. Some clients come to us directly; others are sent by their contractor, like the family who needed every cabinet in the house redone after a water leak. All 18 reviews on Google average a perfect 5.0.
+
+Owner: Barak (Cabinet maker and designer named in every review; replies to reviews as the owner)  
+Image: none
+
+## How your cabinets get made
+
+1. **Talk about your space.** Call (458) 356-8185 or stop by on E High St. Tell us about the room, what bothers you about the old cabinets and the wood you like.
+2. **Plan on the computer.** We design your cabinets together on a computer program, adjusting the layout, storage and details until it matches what you want.
+3. **Pick wood and color.** We help you choose the wood species and color for your space, like the oak exteriors or walnut tones our customers chose.
+4. **Build.** Each cabinet is built with quality materials and the details you asked for, including soft-close doors and drawers and any custom inserts.
+5. **Check and hand over.** We go over the finished cabinets with you, doors and drawers included, so they are ready for countertops, like the oak kitchen in our gallery.
+
+## Kitchens, vanities and custom pieces
+
+- `images/maps_01.jpg`: White shaker kitchen with a full-height stone backsplash (alt: White shaker kitchen with dark stone countertops, full stone backsplash and stainless appliances)
+- `images/maps_03.jpg`: Custom vanity, wood color chosen with the homeowner (alt: Walnut-tone custom vanity with three wide drawers on a black marble-look tile floor)
+- `images/maps_04.jpg`: Oak kitchen cabinets, before the countertops went on (alt: Light oak base cabinets with long silver pulls on a patterned tile floor)
+- `images/maps_05.jpg`: Even the inside of the cabinet is finished (alt: Open oak base cabinet showing clean interior shelf and finished inside panels)
+- `images/maps_06.jpg`: Soft-close drawers and doors in oak (alt: Oak drawer stack and doors with brushed pulls on a patterned tile floor)
+- `images/maps_07.jpg`: Custom lazy Susan for a corner cabinet (alt: Wooden lazy Susan shelves inside a grey corner cabinet)
+
+## What WOODEYE customers say
+
+> The experience working with Barak at Woodeye to get new kitchen cabinets to replace our very old ones was great from start to finish. We had a very good time working with him to plan the cabinets on a computer program he had. Barak was very responsive to our ideas. When we saw the cabinets we were blown away!! They were so beautiful. We had asked for oak on the outside, which is beautiful. But even the parts that don't show are beautiful. All the doors and drawers have that quiet closure mechanism, which seems so luxurious. And yet the cost of the cabinets from Woodeye was less than pre-made cabinets from some big company. We highly recommend Woodeye and Barak. The pictures we uploaded are before countertop installation.
+>
+> Barbara S., Google, 2 years ago
+
+> We had a custom vanity made and it turned out absolutely breathtaking. From start to finish, the experience was wonderful. He went above and beyond to make sure everything was just right, especially when it came to choosing the perfect wood color for our space. His communication was excellent, and it was clear that he paid close attention to even the smallest details. The craftsmanship is stunning and far exceeded our expectations. We could not be happier and would highly recommend his work to anyone looking for a great product from a great craftsman.
+>
+> Natasha, Google, a year ago
+
+> Our introduction to Barak was through our contractor that had done a complete renovation of all our cabinets in the house, from a water leak in our crawlspace.  Barak’s professionalism and craftsmanship were a welcomed addition when our world had been turned upside down.  We are so happy with the quality of materials he uses, and his design sense shines on us every day. He even made a custom lazy Susan for us (attached photo).  I don’t hesitate to recommend him for any cabinetry/woodworking job, you will be pleased with the results.
+>
+> Dan B., Google, a year ago
+
+## Custom cabinets from our Stayton shop
+
+WOODEYE LLC is at 278 E High St in Stayton, OR. We build kitchen cabinets, vanities and custom storage for homeowners and work alongside contractors on larger renovations. If you live outside Stayton and want to know whether we can take on your kitchen, call (458) 356-8185 and tell us where the project is and what you have in mind.
+
+Towns: Stayton
+
+## Questions about custom cabinets
+
+**Do I get to see the design before you build?**  
+Yes. We plan your cabinets with you on a computer program, so you can see the layout and talk through changes before any wood is cut. Customers say we were very responsive to their ideas while planning, and that seeing the finished cabinets still blew them away.
+
+**Are custom cabinets more expensive than store-bought?**  
+Not always. One customer wrote that our custom oak kitchen cabinets cost less than pre-made cabinets from some big company. The price depends on your layout, wood and details, so call and ask us to price your project and compare it with the quotes you already have.
+
+**Do you make bathroom vanities?**  
+Yes. We build custom vanities and help you choose the right wood color for the room. One customer called her finished vanity absolutely breathtaking and said the craftsmanship far exceeded her expectations. Bring a photo or measurements of your bathroom and we can start from there.
+
+**Can you work with my contractor?**  
+Yes. One family met us through their contractor after a crawlspace water leak meant every cabinet in the house had to be renovated. We are happy to work alongside your builder or remodeler, or with you directly if you are managing the project yourself.
+
+**What are your hours?**  
+Monday to Friday 8 AM to 7 PM, Saturday 9 AM to 5 PM and Sunday 10 AM to 7 PM. Evening and weekend hours make it easier to come in and plan when you are not at work. You can also call (458) 356-8185 first.
+
+## Let's plan your new cabinets
+
+Call Barak at WOODEYE and start designing your kitchen or vanity.
+
+[Call (458) 356-8185](tel:+14583568185) | (458) 356-8185
+
+## Footer
+
+WOODEYE LLC  
+278 E High St, Stayton, OR 97383, United States  
+Phone: (458) 356-8185  
+Email: not shown (see missing)  
+Socials: https://www.instagram.com/woodeye_woodworking, https://www.google.com/maps/place/?q=place_id:ChIJZ-lXVzf1v1QR3eG-YiRVN8Y&hl=en  
+Hours: Mon to Fri 8 AM to 7 PM, Sat 9 AM to 5 PM, Sun 10 AM to 7 PM
+
+---
+
+## Brand
+
+- Logo: none
+- Palette: primary #5B3C22, accent #D4A72C, light #F7F4EF, dark #1F1A17
+- Palette note: brand.json palette is empty and there is no logo. Proposed from the photos: walnut brown sampled from the custom vanity (maps_03), mustard accent from the bar stools in the hero kitchen (maps_02), warm white from the painted cabinets.
+- Fonts: Zilla Slab (headings), Nunito Sans (body)
+- Tagline: none
+- Style direction: Warm workshop feel: wood browns, plenty of white, close-up detail photos of drawers and joinery next to wide kitchen shots.
+
+### Images not to use
+
+- `images/social_01.jpg`: Moose Lodge building front in Stayton, not a project; came from an unrelated Facebook page
+- `images/social_02.jpg`: person in a hard hat, identity unknown, from the unrelated Woodeye Woodwork Facebook page
+- `images/social_03.jpg`: duplicate of social_02, person only, unrelated page
+- `images/social_04.jpg`: meeting hall full of people, not a project, unrelated page
+- `images/social_05.jpg`: duplicate meeting hall photo, unrelated page
+
+## Outreach (not on the page)
+
+- Specific detail: Barbara Stebbins wrote that her oak cabinets were beautiful even in the parts that don't show, every door and drawer has the quiet-close mechanism, and they cost less than pre-made cabinets from a big company.
+- Angle: You have a perfect 5.0 from 18 Google reviews and the 'website' button on your profile goes to Instagram. A real homepage would show your kitchens and vanities to people searching for custom kitchen cabinets in Stayton.
+- Subject line idea: The oak cabinets that cost less than big-box
+
+## Facts used
+
+- Name WOODEYE LLC, category Cabinet maker, address 278 E High St, Stayton, OR 97383, phone +1 458-356-8185 (Google Maps)
+- Rating 5.0 from 18 reviews; 32 photos; website link on profile points to instagram.com (Google Maps)
+- Hours Sun 10 AM to 7 PM, Mon to Fri 8 AM to 7 PM, Sat 9 AM to 5 PM (Google Maps)
+- Review topics: kitchen remodel 7, craftsmanship 7, material quality 2, innovative ideas 2; snippet 'Barak listened to our needs and wants and gave us our dream kitchen' (Google Maps review summary)
+- Custom vanity, help choosing wood color, excellent communication, attention to small details; owner replied (Google review, Natasha, a year ago)
+- Barak planned kitchen cabinets on a computer program; oak exterior; hidden parts beautiful; quiet-closing doors and drawers; cost less than pre-made big-company cabinets; photos before countertop installation (Google review, Barbara Stebbins, 2 years ago)
+- Introduced via contractor after a crawlspace water leak; whole-house cabinet renovation; quality materials; custom lazy Susan (Google review, Dan B, a year ago)
+- Instagram account woodeye_woodworking (research.json instagram_url, matches the instagram.com link on the Google profile)
+- Kitchen, vanity, oak cabinet and lazy Susan photos (Google Maps photos maps_01 to maps_07)
+
+## Missing
+
+- Email: woodeyewood2@xecu.net was published on woodeyewoodproducts.com with a (301) Maryland phone, a different business; left out of the footer. Get the real email from the owner.
+- All Gemini fields describe Woodeye Woodwork, a craft-show woodworker in Ontario, Canada (Thorold, Ancaster), not this Stayton shop; not used
+- No Facebook page found for the Stayton business
+- Barak's last name and official title not found
+- Years in business, licence (CCB number), insurance and warranty not found
+- Free estimates not stated; CTA avoids 'free'
+- No logo or brand colours
+- Service towns beyond Stayton not stated
+- Website URL for schema to be filled in at publish
