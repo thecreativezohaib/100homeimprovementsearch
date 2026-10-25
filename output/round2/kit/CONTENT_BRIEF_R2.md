@@ -47,3 +47,32 @@ from that business's own facts, services, towns, reviews and posts.
 - NAP exactly as on Google. Real reviews only, quoted exactly, never edited.
 - Plain, specific homeowner language. Short paragraphs. No em dashes. No "we pride ourselves", "second to none",
   "one-stop shop", "look no further".
+
+## Image plan (every page, key `image_plan` in content.json)
+Every essential image slot must be filled so the builder never meets an empty box:
+- `hero` (1), `services` (one per service card), `about` (1), `gallery` (6 to 10), `final_cta` background (1, optional).
+
+Fill order for each slot:
+1. A real photo of the business from `images/` that fits the slot (finished kitchen or bath for the hero, the matching
+   service for a service card, crew, truck, shop or a project for about). A photo may serve two slots if needed, but
+   prefer different photos. Never use photos listed in `images_not_to_use`.
+2. Only when no real photo fits: an AI-generated image. Write `ai_prompt` (one paragraph, photorealistic, describes a
+   finished space that matches the service, the region's housing style when known and the page palette; natural
+   light; no people's faces, no text, no logos, no brand names; give the aspect ratio: hero 16:9, service cards 4:3,
+   about 4:5, CTA 21:9) and `ai_file_name` (for example `ai_hero.jpg`).
+
+Honesty rules for AI images:
+- AI images are allowed for the hero, service cards, about and CTA backgrounds as illustrations.
+- The gallery and any caption that says "our project", "completed by us" or names a town or customer must use real
+  photos only. If fewer than 6 real photos exist, the gallery stays shorter and `missing` says "needs project photos".
+- Alt text of an AI image describes the scene plainly and never claims it is the business's work.
+
+Shape:
+"image_plan": [
+  {"slot": "hero", "file": "images/maps_03.jpg", "source": "real"},
+  {"slot": "service:Walk-in showers", "file": null, "source": "ai", "ai_file_name": "ai_service_showers.jpg",
+   "ai_prompt": "Photorealistic photo of ... , 4:3", "alt": "..."},
+  {"slot": "gallery_1", "file": "images/social_04.jpg", "source": "real"}
+]
+The image fields inside hero, services, about and gallery must match the plan (for AI slots: "file": null plus
+"ai_file_name" and "ai_prompt").
