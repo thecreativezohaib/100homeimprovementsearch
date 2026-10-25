@@ -7,7 +7,7 @@
 - **Primary keyword:** bathroom refinishing Miramar
 - **Secondary keywords:** bathtub refinishing Miramar FL, bathtub refinishing South Florida, cabinet refinishing Miramar, kitchen cabinet painting Miramar, bathroom remodeling Miramar FL, kitchen remodeling Miramar
 - **OG title:** Luxury Refinishing Inc: Bathroom and Cabinet Refinishing, Miramar
-- **OG description:** 31 five-star Google reviews for tub, bathroom and cabinet refinishing in South Florida. See the before and after, then call (786) 236-4294.
+- **OG description:** A 5.0 Google rating from 31 reviews for tub, bathroom and cabinet refinishing in South Florida. See the before and after, then call (786) 236-4294.
 
 ## Hero
 
@@ -63,7 +63,7 @@ _(no photo)_
 
 ## Why South Florida homeowners call Luxury Refinishing
 
-**31 reviews, all five stars.** Every one of the 31 Google reviews is five stars. Bathroom refinishing comes up in 12 of them, attention to detail in 7 and cabinet refinishing in 3.
+**5.0 stars from 31 reviews.** The 31 Google reviews average a perfect 5.0. Bathroom refinishing comes up in 12 of them, attention to detail in 7 and cabinet refinishing in 3.
 
 **Meticulous about small details.** Clients describe Reidel as very meticulous, paying special attention to the small details. That matters on refinishing work, where prep and clean edges decide how long a finish looks good.
 
@@ -73,7 +73,7 @@ _(no photo)_
 
 ## About Luxury Refinishing Inc
 
-Luxury Refinishing Inc is a refinishing and remodeling company in Miramar, Florida. Clients name Reidel as the person who does the work, and they describe him as meticulous and careful with small details. The core of the business is what its name says: refinishing bathtubs, bathrooms and cabinets so homeowners can keep what is solid and change how it looks. The company also handles kitchen and bathroom remodeling, flooring and demolition. With 31 five-star Google reviews, many new clients arrive the way one family did, through a neighbor's recommendation.
+Luxury Refinishing Inc is a refinishing and remodeling company in Miramar, Florida. Clients name Reidel as the person who does the work, and they describe him as meticulous and careful with small details. The core of the business is what its name says: refinishing bathtubs, bathrooms and cabinets so homeowners can keep what is solid and change how it looks. The company also handles kitchen and bathroom remodeling, flooring and demolition. With a 5.0 rating from 31 Google reviews, many new clients arrive the way one family did, through a neighbor's recommendation.
 
 _Reidel, Refinisher named in client reviews_
 
@@ -171,7 +171,7 @@ Hours: Monday to Friday 5 AM to 6 PM, Saturday and Sunday closed
 ## Outreach (not on the page)
 
 - Specific detail: The cherry wall unit Reidel refinished in white for Ronica R., with the before and after photos she posted with her review.
-- Angle: 31 five-star Google reviews and a client calling you 'the best bathtub refinisher in South Florida', but no website and no tub photos online. Most new clients still find you through Nextdoor recommendations.
+- Angle: A 5.0 rating from 31 Google reviews and a client calling you 'the best bathtub refinisher in South Florida', but no website and no tub photos online. Most new clients still find you through Nextdoor recommendations.
 - Subject line idea: The best bathtub refinisher in South Florida has no website yet
 
 ## Facts used

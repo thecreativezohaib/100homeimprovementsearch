@@ -7,7 +7,7 @@
 - **Primary keyword:** kitchen remodeling Philadelphia
 - **Secondary keywords:** kitchen remodel Philadelphia PA, bathroom remodel Philadelphia, tub to shower conversion Philadelphia, deck builder Philadelphia, balcony repair Philadelphia, home improvement contractor Philadelphia
 - **OG title:** DG Home Improvement: Kitchens, Baths and Decks in Philadelphia
-- **OG description:** Dennis and his crew fix what other contractors left behind and finish kitchens, baths and decks the right way. 25 five-star reviews. Call 267-423-2617.
+- **OG description:** Dennis and his crew fix what other contractors left behind and finish kitchens, baths and decks the right way. 5.0 from 25 reviews. Call 267-423-2617.
 
 ## Hero
 
@@ -69,7 +69,7 @@ Every new project starts with demolition. The crew clears out old kitchens, bath
 
 **Clear, organized communication.** Reviewers describe clear communication, well organized work and a team that handles challenges professionally. Clean work areas come up in Google reviews as well.
 
-**25 reviews, all five stars.** All 25 of DG's Google reviews give five stars. Bathroom remodels, decking and recommendations to other homeowners are the topics clients mention most often.
+**5.0 stars from 25 reviews.** DG's 25 Google reviews average a perfect 5.0. Bathroom remodels, decking and recommendations to other homeowners are the topics clients mention most often.
 
 ## Meet Dennis and the DG crew
 
@@ -195,7 +195,7 @@ Hours: not listed
 ## Outreach (not on the page)
 
 - Specific detail: Victoria's kitchen, where Dennis and Kirill fixed what previous contractors left and finished it with white shaker cabinets and veined quartz, and your line 'The quality will remain long after the price is forgotten.'
-- Angle: 25 five-star Google reviews but no website, no hours and no town on the profile, and a search for 'DG Home Improvement' surfaces several other companies' logos. A homepage makes sure people find your work, not theirs.
+- Angle: A 5.0 rating from 25 Google reviews but no website, no hours and no town on the profile, and a search for 'DG Home Improvement' surfaces several other companies' logos. A homepage makes sure people find your work, not theirs.
 - Subject line idea: Dennis, other 'DG Home Improvement' logos show up before yours
 
 ## Facts used

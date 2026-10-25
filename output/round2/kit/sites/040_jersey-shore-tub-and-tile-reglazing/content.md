@@ -5,7 +5,7 @@
 - Title tag: Tub Reglazing in Toms River, NJ | Jersey Shore Tub and Tile (59 chars)
 - Meta description: Tub reglazing Toms River homeowners rate 4.9 stars: tubs, shower pans and tile refinished like new without demolition. Licensed, 5-year warranty. Call now. (155 chars)
 - Primary keyword: tub reglazing Toms River
-- Secondary keywords: bathtub refinishing Toms River NJ, shower pan reglazing Toms River, tile reglazing Ocean County NJ, clawfoot tub refinishing NJ, shower refinishing Toms River, bathroom tile color change without remodeling, Jersey Shore tub reglazing
+- Secondary keywords: bathtub refinishing Toms River NJ, shower pan reglazing Toms River, tile reglazing Ocean County NJ, cast iron tub refinishing NJ, shower refinishing Toms River, bathroom tile color change without remodeling, Jersey Shore tub reglazing
 - OG title: Jersey Shore Tub and Tile Reglazing, Toms River, NJ
 - OG description: Change a dated tub, shower pan or tile to clean bright white without tearing anything out. 4.9 stars, NJ licensed, 5-year warranty with signed invoice.
 
@@ -36,7 +36,7 @@ One customer had remodeled a small master bath with marble floors, a new vanity 
 
 ### Bathtub reglazing
 
-Tub reglazing is the job most often mentioned in our reviews. Built-in tubs, drop-in tubs and heavy cast iron pedestal and clawfoot tubs get a new glossy surface, so a worn or dated tub looks new again without the cost and mess of replacing it.
+Tub reglazing is the job most often mentioned in our reviews. Built-in tubs, drop-in tubs and heavy cast iron pedestal tubs get a new glossy surface, so a worn or dated tub looks new again without the cost and mess of replacing it.
 
 ![Bathtub and white tile surround refinished to a clean bright white](images/maps_02.jpg)
 

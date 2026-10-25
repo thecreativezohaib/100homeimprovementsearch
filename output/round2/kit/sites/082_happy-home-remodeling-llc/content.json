@@ -50,7 +50,7 @@
   "items": [
    {
     "name": "Bathroom remodeling",
-    "blurb": "Full bathroom remodels, including moving walls, heated tile floors, walk-in showers with glass doors, freestanding tubs, double vanities and lighted mirrors. Mike coordinates the licensed plumber and electrician, schedules permits and inspections, and finishes within the timeline he quotes.",
+    "blurb": "Full bathroom remodels, including moving walls, heated tile floors, walk-in showers with glass doors, freestanding tubs, double vanities and lighted mirrors. Mike subcontracts the plumber and electrician, schedules permits and inspections, and finishes within the timeline he quotes.",
     "image": {
      "file": "images/maps_07.jpg",
      "alt": "Double vanity with black countertop, gray drawers, lighted mirrors and a tall linen cabinet, with a tiled shower beyond"
@@ -115,7 +115,7 @@
   "steps": [
    {
     "title": "Talk it through",
-    "text": "Call (720) 713-3443 and describe the project. Mike asks what you want to change and what matters most to you."
+    "text": "Call (720) 713-3443 and describe the project, the rooms involved and roughly when you would like the work done."
    },
    {
     "title": "Clear costs and schedule",
@@ -141,7 +141,7 @@
    {
     "file": "images/maps_08.jpg",
     "alt": "Freestanding tub and walk-in shower with corner bench, vertical tile accent stripe and black-framed glass door",
-    "caption": "Bathroom with walls moved and heated tile floor"
+    "caption": "Freestanding tub and walk-in shower"
    },
    {
     "file": "images/maps_07.jpg",
@@ -151,7 +151,7 @@
    {
     "file": "images/maps_09.jpg",
     "alt": "Gray shaker vanity with white top, brushed nickel faucet and a backlit LED mirror over a slate tile floor",
-    "caption": "Second bathroom update"
+    "caption": "Vanity with LED mirror"
    },
    {
     "file": "images/maps_01.jpg",
@@ -211,11 +211,11 @@
    },
    {
     "q": "Will the job finish on time?",
-    "a": "Mike gives you a timeline before work starts. One reviewer says her bathroom installation was meticulously completed within the stated timeline, even with the unexpected glitches every remodel has. If something comes up behind a wall, he explains it and the effect on cost and schedule before going ahead."
+    "a": "Mike gives you a timeline before work starts. One reviewer says her bathroom installation was meticulously completed within the stated timeline, even though, in her words, no construction remodel is without an unexpected glitch. She credits his knowledge, expertise and troubleshooting savvy for keeping the project on track."
    },
    {
     "q": "Do you take on small jobs and repairs?",
-    "a": "Yes. Alongside full bathroom and basement remodels, customers have hired Mike for a pantry remodel, an exterior door replacement, a deck replacement, a roof repair and assorted minor repairs. Many of them started with one project and came back with the next. Ask about smaller jobs when you call."
+    "a": "Yes. Alongside full bathroom and basement remodels, customers have hired Mike for a pantry remodel, an exterior door replacement, a deck replacement, a roof repair and assorted minor repairs. Several have hired him for more than one project. Ask about smaller jobs when you call."
    },
    {
     "q": "How do I get started?",
@@ -253,14 +253,38 @@
   "image": "images/maps_08.jpg"
  },
  "facts_used": [
-  {"fact": "Name Happy Home Remodeling, LLC, category Remodeler, phone +1 720-713-3443, no address or service area, 41 photos", "source": "Google Maps"},
-  {"fact": "Hours listed 12 AM to 12 PM every day", "source": "Google Maps"},
-  {"fact": "Rating 5.0 from 6 reviews; review topics communication (3), quick completion, attention to detail, install flooring, expertise (2 each)", "source": "Google Maps"},
-  {"fact": "Basement: drywall, hard flooring, doors, shower, painting; quick, attention to detail, friendly, responsive", "source": "Google review, Michael Edwards, 3 years ago (photos maps_03 to maps_06)"},
-  {"fact": "Bathroom remodel with moved walls and heated tile floor, second bathroom update, exterior door, minor repairs; clear communication on costs, permits, plumber/electrician subcontracting, inspections; completed within stated timeline; new to the area; interviewed several contractors", "source": "Google review, MaryChris, 2 years ago (photos maps_07 to maps_09)"},
-  {"fact": "Pantry remodel, deck replacement, roof repair; communicates well, eye for detail", "source": "Google review, N, a year ago"},
-  {"fact": "Owner named Mike", "source": "all three Google reviews"},
-  {"fact": "Wood plank wall and closet shelving photos", "source": "Google Maps photos maps_01, maps_02 (owner uploads)"}
+  {
+   "fact": "Name Happy Home Remodeling, LLC, category Remodeler, phone +1 720-713-3443, no address or service area, 41 photos",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "Hours listed 12 AM to 12 PM every day",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "Rating 5.0 from 6 reviews; review topics communication (3), quick completion, attention to detail, install flooring, expertise (2 each)",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "Basement: drywall, hard flooring, doors, shower, painting; quick, attention to detail, friendly, responsive",
+   "source": "Google review, Michael Edwards, 3 years ago (photos maps_03 to maps_06)"
+  },
+  {
+   "fact": "Bathroom remodel with moved walls and heated tile floor, second bathroom update, exterior door, minor repairs; clear communication on costs, permits, plumber/electrician subcontracting, inspections; completed within stated timeline; new to the area; interviewed several contractors",
+   "source": "Google review, MaryChris, 2 years ago (photos maps_07 to maps_09)"
+  },
+  {
+   "fact": "Pantry remodel, deck replacement, roof repair; communicates well, eye for detail",
+   "source": "Google review, N, a year ago"
+  },
+  {
+   "fact": "Owner named Mike",
+   "source": "all three Google reviews"
+  },
+  {
+   "fact": "Wood plank wall and closet shelving photos",
+   "source": "Google Maps photos maps_01, maps_02 (owner uploads)"
+  }
  ],
  "missing": [
   "No town, address or service area anywhere reliable; primary keyword has no town (720 area code suggests the Denver area, not used); add the town once confirmed",
@@ -290,14 +314,38 @@
   "style_direction": "Friendly but tidy: rounded headings that suit the 'Happy' name, charcoal and warm oak, and the long MaryChris review given pride of place as the centrepiece of the page."
  },
  "images_not_to_use": [
-  {"file": "images/logo.jpg", "why": "yellow storefront of a Happy Home Remodeling that appears to be a different company (Wisconsin); not this business"},
-  {"file": "images/social_01.jpg", "why": "same storefront photo as logo.jpg"},
-  {"file": "images/social_03.jpg", "why": "logo of 'Happy Homes Remodeling', a different company"},
-  {"file": "images/cover.jpg", "why": "Facebook cover with script name over a panel wall; the Facebook page cannot be tied to this Google profile"},
-  {"file": "images/social_02.jpg", "why": "duplicate of cover.jpg"},
-  {"file": "images/maps_04.jpg", "why": "lumber and sawhorses, work in progress"},
-  {"file": "images/maps_05.jpg", "why": "basement framing with tools on the floor, in progress"},
-  {"file": "images/maps_06.jpg", "why": "stack of lumber, not a project"}
+  {
+   "file": "images/logo.jpg",
+   "why": "yellow storefront of a Happy Home Remodeling that appears to be a different company (Wisconsin); not this business"
+  },
+  {
+   "file": "images/social_01.jpg",
+   "why": "same storefront photo as logo.jpg"
+  },
+  {
+   "file": "images/social_03.jpg",
+   "why": "logo of 'Happy Homes Remodeling', a different company"
+  },
+  {
+   "file": "images/cover.jpg",
+   "why": "Facebook cover with script name over a panel wall; the Facebook page cannot be tied to this Google profile"
+  },
+  {
+   "file": "images/social_02.jpg",
+   "why": "duplicate of cover.jpg"
+  },
+  {
+   "file": "images/maps_04.jpg",
+   "why": "lumber and sawhorses, work in progress"
+  },
+  {
+   "file": "images/maps_05.jpg",
+   "why": "basement framing with tools on the floor, in progress"
+  },
+  {
+   "file": "images/maps_06.jpg",
+   "why": "stack of lumber, not a project"
+  }
  ],
  "outreach": {
   "specific_detail": "MaryChris's bathroom: you moved walls, put in heated tile flooring and handled the permits, plumber, electrician and inspections, all within the timeline you gave her.",

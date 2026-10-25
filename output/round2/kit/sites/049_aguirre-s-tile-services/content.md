@@ -7,7 +7,7 @@
 - **Primary keyword:** tile installation Forney
 - **Secondary keywords:** backsplash installation Forney TX, walk-in shower tile Forney, bathroom floor tile replacement Forney, tile contractor Forney TX, herringbone tile floor Forney, fireplace tile Forney
 - **OG title:** Aguirre's Tile Services: Tile Installation in Forney, TX
-- **OG description:** Backsplashes, showers, floors and fireplaces tiled by Manny and the Aguirre's crew. 56 five-star Google reviews. Call (214) 407-2403 for a free estimate.
+- **OG description:** Backsplashes, showers, floors and fireplaces tiled by Manny and the Aguirre's crew. Rated 5.0 from 56 Google reviews. Call (214) 407-2403 for a free estimate.
 
 ## Hero
 
@@ -63,7 +63,7 @@ Tile is not just for kitchens and baths. Aguirre's also tiles fireplaces and fea
 
 ## Why Forney homeowners call Manny
 
-**56 reviews, all five stars.** Every one of the 56 Google reviews is five stars. Backsplash installation comes up in 12, with herringbone patterns, shower remodels and free estimates also mentioned.
+**5.0 from 56 reviews.** The 56 Google reviews average a perfect 5.0. Backsplash installation comes up in 12, with herringbone patterns, shower remodels and free estimates also mentioned.
 
 **He explains the process.** Reviewers say Manny walks them through every step and explains the whole process, so you know what is happening to your floor or shower before the old tile comes up.
 
@@ -73,7 +73,7 @@ Tile is not just for kitchens and baths. Aguirre's also tiles fireplaces and fea
 
 ## About Aguirre's Tile Services
 
-Aguirre's Tile Services is a tile contractor on University Drive in Forney, Texas, and tile is all it does: floors, bath tubs, walk-in showers, backsplashes, walls, fireplaces and more. Manny is the name you will see in review after review. Clients call him punctual, professional and a great communicator who gives excellent advice. The company's approach is simple: you choose the tile and the design, and Aguirre's takes care of the rest, from tear-out to the last grout line. With 56 five-star reviews, many customers say they will call again.
+Aguirre's Tile Services is a tile contractor on University Drive in Forney, Texas, and tile is all it does: floors, bath tubs, walk-in showers, backsplashes, walls, fireplaces and more. Manny is the name you will see in review after review. Clients call him punctual, professional and a great communicator who gives excellent advice. The company's approach is simple: you choose the tile and the design, and Aguirre's takes care of the rest, from tear-out to the last grout line. With a 5.0 rating from 56 reviews, many customers say they will call again.
 
 _Manny, Tile installer named in client reviews_
 
@@ -195,8 +195,8 @@ Hours: Monday to Friday 9 AM to 6 PM, Saturday 9 AM to 12 PM, Sunday closed
 ## Outreach (not on the page)
 
 - Specific detail: The kitchen floor before and after you posted in June 2024: a room covered in broken old tile, then clean white marble-look planks.
-- Angle: 56 five-star Google reviews and 99 photos, with 12 reviews about backsplashes alone, but the Google profile still says 'Add website'. Your reviews already do the selling; a homepage would collect the free estimate requests.
-- Subject line idea: 56 five-star reviews for Manny, and no website yet
+- Angle: A 5.0 rating from 56 Google reviews and 99 photos, with 12 reviews about backsplashes alone, but the Google profile still says 'Add website'. Your reviews already do the selling; a homepage would collect the free estimate requests.
+- Subject line idea: A 5.0 from 56 reviews for Manny, and no website yet
 
 ## Facts used
 

@@ -7,13 +7,13 @@
 - **Primary keyword:** bathroom remodeling Utah
 - **Secondary keywords:** master bathroom remodel Utah, walk-in shower remodel Utah, vanity replacement Utah, accessible shower with grab bars Utah, kitchen remodel Utah, bathroom contractor 801
 - **OG title:** Compass Bath and Remodel: Bathroom Remodeling with Russ Nay
-- **OG description:** From 70s shag carpet and rotting subfloors to bright master baths: 29 five-star Google reviews for Russ and his crew. Call (801) 678-2880.
+- **OG description:** From 70s shag carpet and rotting subfloors to bright master baths: a 5.0 Google rating from 29 reviews for Russ and his crew. Call (801) 678-2880.
 
 ## Hero
 
 *Master baths, walk-in showers and vanities*
 
-# Bathroom Remodeling Utah Homeowners Rate Five Stars
+# Bathroom Remodeling Utah Homeowners Rate 5.0
 
 Russ Nay and his crew rebuild dated bathrooms from the subfloor up, with clear weekly updates and a plan you can see before work starts.
 
@@ -69,7 +69,7 @@ _(no photo)_
 
 **Creative with tricky rooms.** Rotting subfloors, dropped ceilings and unusual family needs do not throw him. One client praised his patience and creative solutions for a bespoke situation.
 
-**29 reviews, all five stars.** Every Google review is five stars. Bathroom remodels come up in 12 of them, kitchen remodels in 4, walk-in showers in 3 and vanity replacement in 2.
+**A 5.0 rating from 29 reviews.** The 29 Google reviews average 5.0. Bathroom remodels come up in 12 of them, kitchen remodels in 4, walk-in showers in 3 and vanity replacement in 2.
 
 ## Meet Russ Nay
 
@@ -182,8 +182,8 @@ Hours: Monday to Friday 8 AM to 5 PM, Saturday and Sunday closed
 ## Outreach (not on the page)
 
 - Specific detail: Sarah's dad's master bath, which went from 70s shag carpet, a rotting subfloor and a dropped ceiling to 'a royal jewel of a space' with blue stone-look tile and brass.
-- Angle: 29 five-star Google reviews and 68 photos, but no website and no town listed anywhere, so people searching for a bathroom remodeler in their city cannot tell Compass works there.
-- Subject line idea: Russ, 29 five-star reviews and no website yet
+- Angle: A 5.0 rating from 29 Google reviews and 68 photos, but no website and no town listed anywhere, so people searching for a bathroom remodeler in their city cannot tell Compass works there.
+- Subject line idea: Russ, a 5.0 from 29 reviews and no website yet
 
 ## Facts used
 

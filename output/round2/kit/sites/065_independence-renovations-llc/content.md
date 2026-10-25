@@ -19,7 +19,7 @@ Nick and Independence Renovations remodel bathrooms and kitchens, set tile and b
 
 [Call (484) 925-4872](tel:+14849254872)  |  [Tell Nick about your project](#contact)
 
-Trust badges: 5.0 stars from 7 Google reviews · Owner-led: customers work with Nick · Open 7 days a week
+Trust badges: 5.0 stars from 7 Google reviews · You work directly with Nick · Open 7 days a week
 
 Hero image: `images/maps_03.jpg` (alt: Walk-in shower with frameless glass door, pebble tile floor and large blue-gray marble-look wall tile, by Independence Renovations, a bathroom remodeling Pottstown contractor)
 

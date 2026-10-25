@@ -19,7 +19,7 @@ David and the Dynasty crew tear out old tile, fix what is underneath and rebuild
 
 [Call (860) 710-4602](tel:+18607104602)  |  [Request a quote](#contact)
 
-Trust badges: 5.0 stars from 18 Google reviews · Owner-led: you work directly with David · Reviewers: stays within budget and timing
+Trust badges: 5.0 stars from 18 Google reviews · You work directly with David · Reviewers: stays within budget and timing
 
 Hero image: `images/maps_03.jpg` (alt: Walk-in shower with sliding glass door, large white marble-look tile, pebble floor and matching pebble niche, a bathroom remodeling Colchester project by Dynasty Home Improvement)
 
