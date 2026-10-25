@@ -93,7 +93,7 @@ Image: images/cover.jpg (real photo). Alt: Inside the Ogden Woodworking shop in 
 3. **Build in the shop.** Cabinets, doors, countertops and custom pieces are built and cut in the Pine Ave woodshop.
 4. **Install on time.** Craig installs within the agreed time frame, adjusting for twisted door frames, out-of-level cabinets and older buildings as he goes.
 
-## From the shop and recent installs
+## From the shop and finished installs
 
 - images/maps_01.jpg: Lab cabinets and countertops (alt: U-shaped laboratory room with charcoal slab-door cabinets, glass-front uppers and white countertops)
 - images/maps_02.jpg: Chemical resistant lab countertop (alt: White chemical resistant countertop with integrated sink and twin lab faucets)

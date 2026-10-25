@@ -82,9 +82,9 @@ Owner: Craig, Owner
 
 1. **Estimate appointment.** Reach out by email and CNG schedules a time to see the space and provide an estimate for your project.
 2. **Plan together.** Craig listens carefully to what you want and offers practical suggestions that can save money without cutting corners.
-3. **Contract and start date.** You sign a contract with a start date. One customer says CNG started the job on the exact day it promised.
+3. **Contract and start date.** You sign a contract with a start date and a time frame, so you know when the crew will begin and roughly when it will finish.
 4. **Build and inspections.** The crew works on your job every day, handling trades such as plumbing and electrical and coordinating any inspections.
-5. **Finish and walkthrough.** Customers say CNG finished within the time frame it committed to. Then you walk through the finished room together.
+5. **Finish and walkthrough.** The crew works to the time frame agreed at signing, and then you walk through the finished room together.
 
 ## Bathrooms and renovations by CNG
 
@@ -139,7 +139,7 @@ Yes. CNG also finishes basements, does kitchen remodels and takes on whole-house
 
 **How do I get an estimate?**
 
-Email cngconstructioninc@gmail.com with your address, the room you want remodeled and a few photos if you have them, and ask for an appointment so CNG can see the space and provide an estimate. One customer says the team was on time for that first appointment too.
+Email cngconstructioninc@gmail.com with your address, the room you want remodeled and a few photos if you have them, and ask for an appointment so CNG can see the space and provide an estimate. Bring your questions about timing and scope to that visit.
 
 ## Planning a new bathroom in Buffalo?
 

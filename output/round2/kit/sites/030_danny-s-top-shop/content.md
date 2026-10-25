@@ -62,7 +62,7 @@ A long-time customer says our products and service have gone unmatched for decad
 
 ### Fair, reasonable prices
 
-Google's review summaries highlight fair prices and reasonable pricing alongside great workmanship, and pricing comes up again and again in what customers write about us.
+Google's review summaries highlight fair prices and reasonable pricing alongside great workmanship, and pricing is a recurring topic in what customers write about the shop.
 
 ### Fast and efficient
 

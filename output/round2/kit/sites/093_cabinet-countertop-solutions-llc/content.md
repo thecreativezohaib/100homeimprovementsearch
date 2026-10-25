@@ -3,108 +3,105 @@
 ## SEO
 
 - Title tag: Cabinets and Countertops in Rockingham, NC | C&C Solutions
-- Meta description: Quartz countertops, kitchen cabinets, backsplash, flooring and tile from our showroom on US-1 in Rockingham, NC. 5.0 on Google. Call (910) 474-1447 today.
+- Meta description: Quartz countertops, kitchen cabinets, backsplash and vanity tops from our kitchen supply store on US-1 in Rockingham, NC. 5.0 on Google. Call (910) 474-1447.
 - Primary keyword: cabinets and countertops Rockingham NC
-- Secondary keywords: quartz countertops Rockingham NC, kitchen cabinets Rockingham, backsplash installation Rockingham NC, bathroom vanity tops Rockingham, kitchen remodeling Rockingham NC, flooring and tile Rockingham NC
-- OG title: Cabinet & Countertop Solutions | Rockingham, NC
-- OG description: Not Just Countertops. Total Solutions. Quartz tops, shaker cabinets, backsplash, flooring and tile from our Rockingham showroom on US-1.
+- Secondary keywords: quartz countertops Rockingham NC, kitchen cabinets Rockingham, backsplash installation Rockingham NC, bathroom vanity tops Rockingham, kitchen supply store Rockingham NC, kitchen remodeling Rockingham NC
+- OG title: Cabinets and Countertops in Rockingham, NC | Cabinet & Countertop Solutions
+- OG description: Quartz tops, kitchen cabinets, backsplash and bathroom vanity tops, supplied and installed from our store on US-1 in Rockingham. Rated 5.0 on Google.
 
 ## Hero
 
-*Showroom on US-1 in Rockingham*
+*Kitchen supply store on US-1 in Rockingham*
 
 # Cabinets and Countertops in Rockingham, NC
 
-Pick your quartz, cabinets, backsplash and flooring at our US-1 showroom, then let our install team put it all in, for homes and businesses.
+Choose your quartz countertops, cabinets and backsplash with our team on US-1, then let our install team put them in your kitchen or bathroom.
 
-[Call (910) 474-1447](tel:+19104741447)  |  [Schedule a visit](#contact)
+- Primary button: Call (910) 474-1447 (tel:+19104741447)
+- Secondary button: Schedule a visit (#contact)
+- Trust badges: 5.0 stars from 15 Google reviews | Store at 899 US-1, Rockingham | Open Saturdays 9 AM to 1 PM | Supply and install
+- Hero Image: images/maps_02.jpg (alt: "Cabinets and countertops in Rockingham, NC: large kitchen with white raised-panel cabinets, a two-level white quartz island with seating and modern pendant lights")
 
-Trust badges: 5.0 stars from 15 Google reviews · Showroom at 899 US-1, Rockingham · Open Saturdays 9 AM to 1 PM · Residential and commercial
+## Cabinets and countertops, supplied and installed
 
-Hero image: `images/maps_02.jpg` (Large kitchen with white raised-panel cabinets, white quartz island with seating and modern pendant lights, cabinets and countertops Rockingham NC)
+Cabinet & Countertop Solutions sells and installs cabinets and countertops in Rockingham, NC, from a kitchen supply store you can visit on US-1. Stop by during opening hours to talk through your kitchen or bathroom, or call ahead and we can schedule a time.
 
-## Not just countertops. Total solutions.
+Then the same company handles the install. One homeowner told us her quartz countertop and backsplash job with Carolyn and the install team was seamless from start to finish. Another ordered two different countertops and says they are just what she asked for. Our photos show white quartz kitchens, copper and stainless sinks, and long bathroom vanity tops.
 
-Cabinet & Countertop Solutions sells and installs cabinets and countertops in Rockingham, NC, from a showroom you can walk into on US-1. You see the slabs, flooring planks and shaker cabinet boxes in person before you choose. Counters, cabinets and floors can be matched side by side in a single visit.
-
-Then the same company handles the install. One homeowner told us her quartz countertop and backsplash job with Carolyn and the install team was seamless from start to finish. Another bought cabinets and quartz here and had the kitchen and hallway bath renovated, appliances installed, backsplash set and rooms painted, all with one crew she named one by one.
-
-## What you can get from our Rockingham showroom
+## What you can get from our Rockingham store
 
 ### Quartz countertops
 
-White quartz with soft gray or gold veining is the most common choice in our recent kitchens, cut for L-shaped runs, large islands and undermount sinks in stainless or hammered copper. The kitchens in our Google photos all show quartz tops paired with new cabinets.
+White quartz with soft gray or gold veining shows up again and again in our installs, cut for L-shaped runs, large islands and undermount sinks in stainless or hammered copper. Quartz countertops are one of the topics customers mention most in our Google reviews.
 
-Image: `images/maps_03.jpg` (L-shaped kitchen with white quartz countertops, white wall cabinets and gray base cabinets)
+Image: images/maps_03.jpg (alt: "L-shaped kitchen with white quartz countertops, white wall cabinets and gray base cabinets")
 
 ### Kitchen cabinets
 
-We stock shaker style cabinets at the showroom, and our installs include white raised-panel kitchens with dark hardware and tall pantry units. Choose the boxes and finish here, and our team sets them square before the countertops go on.
+Kitchen cabinets to go with your new counters, from white raised-panel kitchens with dark hardware to tall pantry units over gray base cabinets. Choose the style and finish with us, and our team installs them before the countertops go on.
 
-Image: `images/maps_10.jpg` (White raised-panel kitchen cabinets with copper range hood, wall ovens and marble mosaic backsplash)
+Image: images/maps_10.jpg (alt: "White raised-panel kitchen cabinets with a copper range hood, wall ovens and a marble mosaic backsplash")
 
 ### Backsplash and tile
 
-Backsplash finishes the countertop job. Recent kitchens have marble mosaic tile behind a copper hood and elongated hexagon tile around the sink window. Tile and custom designs are part of what we offer for kitchens, baths and commercial spaces.
+Backsplash finishes the countertop job, and backsplash installs come up in several of our reviews. Kitchens in our photos have marble mosaic tile behind a copper range hood and a full quartz splash behind the sink, all set by our install team.
 
-Image: `images/maps_11.jpg` (White kitchen with quartz island, black refrigerator and mosaic tile backsplash under a pendant light)
+Image: images/maps_11.jpg (alt: "White kitchen with a quartz island, black refrigerator and mosaic tile backsplash under a pendant light")
 
 ### Bathroom vanity tops
 
-Quartz is not only for kitchens. One client ordered two different countertops for her bathrooms and says they are just what she asked for. We cut tops for long double vanities, with undermount sinks and matching quartz splash.
+Quartz is not only for kitchens. One client ordered two different countertops for her bathrooms and says they are just what she asked for. Our photos include a long double vanity with two undermount sinks and a quartz top with a matching splash.
 
-Image: `images/maps_07.jpg` (Long bathroom vanity with white quartz top, two undermount sinks and light wood drawers)
+Image: images/maps_07.jpg (alt: "Long bathroom vanity with a white quartz top, two undermount sinks and light wood drawers")
 
 ### Flooring
 
-Our showroom carries plank flooring in gray and natural oak looks, so you can match the floor to your new cabinets and counters in one visit. Flooring sits alongside tile, cabinetry and custom designs in what we do.
+Plank flooring in gray and natural oak looks appears in our own photos alongside slabs and cabinets, so ask about matching a new floor to your cabinets and counters. Call or stop by the store to see what is available for your kitchen or bath.
 
-Image: `images/social_01.jpg` (Granite slab, two wood-look flooring planks and wrapped white shaker cabinets in the showroom)
+Image: images/social_01.jpg (alt: "Blue-gray stone slab, two wood-look flooring planks and wrapped white shaker cabinets under the Cabinet & Countertop Solutions name")
 
 ### Kitchen and bath remodels
 
-For bigger jobs, the work goes past the counters. One family had their kitchen and hallway bathroom renovated, new appliances installed, the backsplash set and most of the house painted, and they kept the crew on for a carport.
+For bigger jobs, the work goes past the counters. One customer says that if you are looking for help with your remodeling needs, this is the company to help. Call to talk through a kitchen or bathroom update, from cabinets and tops to backsplash.
 
-Image: `images/cover.jpg` (Two team members standing in a finished white kitchen with copper hood and white quartz island)
+Image: images/cover.jpg (alt: "Two men standing in a finished white kitchen with a copper range hood and a white quartz island")
 
 ## Why Rockingham homeowners buy here
 
-**See it before you buy**: Our showroom at 899 US-1 has slabs, plank flooring and stocked shaker cabinets. Look at real materials instead of guessing from a small sample or a screen.
+**A store you can visit.** Our store at 899 US-1 is open Monday to Saturday, so you can talk through cabinets, countertops and backsplash in person instead of only over the phone.
 
-**Supply and install together**: Reviewers bought their cabinets and quartz from us and had the same company install them, so the order, the measurements and the install stay in one place.
+**Supply and install together.** We sell the countertops and cabinets and our install team puts them in, so the order, the measurements and the install all stay with one company.
 
-**A smooth process**: One client described working with Carolyn and the install team as seamless from start to finish. Another says the finished countertops are just what she asked for.
+**A smooth process.** One client called working with Carolyn and her team a great experience from start to finish. Another says her finished countertops are just what she asked for.
 
-**Saturday hours**: Besides Monday to Friday, 9 AM to 5 PM, we are open Saturday mornings from 9 AM to 1 PM, so you can shop without taking time off work.
+**Saturday hours.** Besides Monday to Friday, 9 AM to 5 PM, we are open Saturday mornings from 9 AM to 1 PM, so you can shop without taking time off work.
 
 ## About Cabinet & Countertop Solutions
 
-Cabinet & Countertop Solutions LLC runs a showroom at 899 US-1 in Rockingham, under the black and gold C&C sign. We serve residential and commercial customers with countertops, cabinetry, flooring, tile and custom designs. Customers deal with real people: reviewers mention Carolyn by name, along with the install team that comes to your house. Our Google reviews are all five stars so far, from a single bathroom top to a full kitchen with a copper range hood, marble backsplash and a big quartz island.
+Cabinet & Countertop Solutions LLC runs a kitchen supply store at 899 US-1 in Rockingham, under the black and gold C&C sign. We supply and install countertops and cabinets, with backsplash and bathroom vanity tops as part of the work. Customers deal with real people: reviewers mention Carolyn by name, along with the install team that comes to your house. All of our Google reviews are five stars so far, from a pair of bathroom tops to a full kitchen with a copper range hood, marble backsplash and a big quartz island.
 
-Owner: not known (role not known)
+Image: images/maps_01.jpg (alt: "Black and gold C&C Cabinet & Countertop Solutions LLC sign with the phone number outside the Rockingham store")
 
-Image: `images/maps_01.jpg` (Black and gold C&C Cabinet & Countertop Solutions LLC sign with phone number outside the Rockingham showroom)
+## From first call to finished kitchen
 
-## From showroom to finished kitchen
-
-1. **Give us a call**: Call (910) 474-1447 or email candcllc0125@gmail.com. Give us a call and we can schedule a time that works for you.
-2. **Choose your materials**: Visit the showroom at 899 US-1 to compare quartz, cabinets, flooring and backsplash tile side by side with our team.
-3. **Measure and order**: We measure your kitchen or bathroom so the cabinets and countertops are ordered and cut to fit your actual space.
-4. **Install**: Our install team sets the cabinets, countertops, sink and backsplash. For larger remodels, the crew can also handle appliances and paint.
-5. **Enjoy the result**: We check the finished install with you so the countertops and cabinets are exactly what you asked for before the team leaves.
+1. **Give us a call.** Call (910) 474-1447 or email candcllc0125@gmail.com, and we can schedule a time that works for you.
+2. **Choose your materials.** Visit the store at 899 US-1 to go over quartz, cabinets and backsplash options with our team.
+3. **Measure and order.** We measure your kitchen or bathroom so the cabinets and countertops are ordered and cut to fit your actual space.
+4. **Install.** Our install team sets the cabinets, countertops, sink and backsplash, as reviewers describe in their kitchen and bathroom jobs.
+5. **Enjoy the result.** We check the finished install with you so the countertops and cabinets are exactly what you asked for before the team leaves.
 
 ## Recent installs
 
-- `images/maps_02.jpg`: Big two-level island with white quartz (alt: Spacious kitchen with white cabinets, two-level island with white quartz top and cream bar stools)
-- `images/maps_10.jpg`: Copper hood and marble mosaic backsplash (alt: White kitchen with copper chimney hood, marble mosaic backsplash and double wall oven)
-- `images/maps_11.jpg`: Quartz island with gold veining (alt: White quartz island with gold veining and a glass pendant light in a white cabinet kitchen)
-- `images/maps_03.jpg`: Quartz countertops in a two-tone kitchen (alt: L-shaped white quartz countertop with corner sink area, white upper cabinets and gray lower cabinets)
-- `images/maps_04.jpg`: Tall pantry cabinets and quartz counter (alt: Tall white pantry cabinets and gray base cabinets with white quartz top)
-- `images/maps_05.jpg`: Undermount double sink in quartz (alt: Stainless steel double undermount sink in white quartz with pull-down faucet)
-- `images/maps_06.jpg`: Quartz bathroom vanity top (alt: Bathroom vanity with white quartz top and backsplash, undermount sink and cream cabinets)
-- `images/maps_07.jpg`: Double vanity with quartz top and splash (alt: Long double vanity with white quartz top next to white shiplap wall)
-- `images/social_01.jpg`: Slabs, flooring and cabinets at the showroom (alt: Collage of a blue-gray granite slab, wood-look flooring planks and white shaker cabinets)
-- `images/maps_01.jpg`: Our showroom on US-1 in Rockingham (alt: C&C Cabinet & Countertop Solutions LLC sign showing (910) 474-1447 in front of the showroom)
+- images/maps_02.jpg: Big two-level island with white quartz (alt: "Spacious kitchen with white cabinets, two-level island with white quartz top and cream bar stools")
+- images/maps_10.jpg: Copper hood and marble mosaic backsplash (alt: "White kitchen with copper chimney hood, marble mosaic backsplash and double wall oven")
+- images/maps_11.jpg: Quartz island with gold veining (alt: "White quartz island with gold veining and a glass pendant light in a white cabinet kitchen")
+- images/maps_03.jpg: Quartz countertops in a two-tone kitchen (alt: "L-shaped white quartz countertop with corner sink area, white upper cabinets and gray lower cabinets")
+- images/maps_04.jpg: Tall pantry cabinets and quartz counter (alt: "Tall white pantry cabinets and gray base cabinets with white quartz top")
+- images/maps_05.jpg: Undermount double sink in quartz (alt: "Stainless steel double undermount sink in white quartz with pull-down faucet")
+- images/maps_06.jpg: Quartz bathroom vanity top (alt: "Bathroom vanity with white quartz top and backsplash, undermount sink and cream cabinets")
+- images/maps_07.jpg: Double vanity with quartz top and splash (alt: "Long double vanity with white quartz top next to white shiplap wall")
+- images/social_01.jpg: Slab, flooring and cabinet samples (alt: "Collage of a blue-gray granite slab, wood-look flooring planks and white shaker cabinets")
+- images/maps_01.jpg: Our store on US-1 in Rockingham (alt: "C&C Cabinet & Countertop Solutions LLC sign showing (910) 474-1447 in front of the store")
 
 ## What our customers say
 
@@ -118,54 +115,104 @@ Finished product is beautiful."
 >
 > Nancy R., Google, 4 months ago
 
-> "Gonzalez Construction did an AWESOME job renovating our kitchen and hallway bathroom!  We purchased our cabinets and quartz countertops from them as well.  They installed all our new appliances and the backsplash as well as painting everything but our 3 bedrooms and master bathroom ( which they will do in the future).  Now they are installing a carport for us as well.  Great job Julio, his wife, Oscar, Gordon and to the rest of the staff!"
->
-> Rodney B., Google, Edited a year ago
-
 ## Cabinets and countertops in Rockingham, NC
 
-Our showroom is at 899 US-1 in Rockingham, NC 28379, and Rockingham is the town we list for our work. We serve both homes and businesses. If you live outside town and want to know whether we can measure and install at your place, call (910) 474-1447 and we will tell you right away. You are also welcome to stop by the showroom during opening hours, Monday to Saturday, to talk through your project and look at materials.
+Our store is at 899 US-1 in Rockingham, NC 28379, and Rockingham is the town listed for our work. If you live outside town and want to know whether we can measure and install at your place, call (910) 474-1447 and ask. You are also welcome to stop by during opening hours, Monday to Saturday, to talk through your project.
 
 Towns: Rockingham, NC
 
 ## Common questions
 
-**Where is your showroom and when is it open?**
+### Where is your store and when is it open?
 
-We are at 899 US-1, Rockingham, NC 28379. The showroom is open Monday through Friday from 9 AM to 5 PM and Saturday from 9 AM to 1 PM. We are closed on Sunday. Look for the black and gold C&C sign out front.
+We are at 899 US-1, Rockingham, NC 28379. The store is open Monday through Friday from 9 AM to 5 PM and Saturday from 9 AM to 1 PM. We are closed on Sunday. Look for the black and gold C&C sign out front.
 
-**Do you install, or only sell materials?**
+### Do you install, or only sell materials?
 
-Both. Customers buy cabinets and quartz countertops from us and our install team puts them in, including sinks and backsplash. Reviewers describe the install as seamless and say the finished countertops are just what they asked for. Larger jobs can include appliances, backsplash and paint.
+Both. Customers buy countertops and cabinets from us and our install team puts them in, including sinks and backsplash. Reviewers praise the install team and say the finished countertops are just what they asked for. Call to talk through what your kitchen or bathroom needs.
 
-**What materials do you carry?**
+### What materials do you carry?
 
-Countertops, cabinetry, flooring and tile. Our recent jobs use white quartz with gray or gold veining, and our showroom photos show a blue-gray granite slab, gray and oak-look flooring planks and white shaker cabinets. Call to ask about a specific color.
+Countertops, cabinets and backsplash, with flooring samples also shown in our photos. Our recent jobs use white quartz with gray or gold veining, and our photos show a blue-gray stone slab, gray and oak-look flooring planks and white shaker cabinets. Call to ask about a specific color.
 
-**Do you work on bathrooms too?**
+### Do you work on bathrooms too?
 
-Yes. We cut and install quartz vanity tops, including long double vanities with undermount sinks and matching splash. One customer ordered two different countertops for her home and says they came out just as she asked. Larger kitchen and bathroom renovations are possible too.
+Yes. We cut and install quartz vanity tops, including long double vanities with undermount sinks and matching splash. One customer ordered two different countertops for her home and says they came out just as she asked. Ask about larger kitchen and bathroom updates when you call.
 
-**How do I get started?**
+### How do I get started?
 
-Call (910) 474-1447 or email candcllc0125@gmail.com. Give us a call and we can schedule a time to talk about your kitchen or bathroom. You are also welcome to stop by the showroom during opening hours to look at materials.
+Call (910) 474-1447 or email candcllc0125@gmail.com, and we can schedule a time to talk about your kitchen or bathroom. You are also welcome to stop by the store on US-1 during opening hours, Monday to Saturday, to talk through your project in person.
 
 ## Come see your next countertop in person
 
-Visit us on US-1 or call to schedule a time with our team.
+Visit us on US-1 in Rockingham or call to schedule a time with our team.
 
-[Call (910) 474-1447](tel:+19104741447) · (910) 474-1447
+Button: Call (910) 474-1447 (tel:+19104741447). Phone: (910) 474-1447
 
 ## Footer
 
-Cabinet & Countertop Solutions LLC  
-899 US-1, Rockingham, NC 28379  
-(910) 474-1447  
-candcllc0125@gmail.com  
-Hours: Monday to Friday 9 AM to 5 PM, Saturday 9 AM to 1 PM, Sunday closed  
-Socials: https://www.facebook.com/share/19syQLQuqK, https://www.instagram.com/countertop_solutions/, https://www.google.com/maps/place/?q=place_id:ChIJi3b3-fXDVIgR8PmZ00MfBfM&hl=en
+- Name: Cabinet & Countertop Solutions LLC
+- Address: 899 US-1, Rockingham, NC 28379
+- Phone: (910) 474-1447
+- Email: candcllc0125@gmail.com
+- Socials: https://www.facebook.com/share/19syQLQuqK, https://www.google.com/maps/place/?q=place_id:ChIJi3b3-fXDVIgR8PmZ00MfBfM&hl=en
+- Hours: Monday to Friday 9 AM to 5 PM, Saturday 9 AM to 1 PM, Sunday closed
 
----
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Cabinet & Countertop Solutions LLC",
+ "telephone": "+19104741447",
+ "email": "candcllc0125@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "899 US-1",
+  "addressLocality": "Rockingham",
+  "addressRegion": "NC",
+  "postalCode": "28379",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Rockingham, NC"
+ ],
+ "openingHours": [
+  "Mo-Fr 09:00-17:00",
+  "Sa 09:00-13:00"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/share/19syQLQuqK",
+  "https://www.google.com/maps/place/?q=place_id:ChIJi3b3-fXDVIgR8PmZ00MfBfM&hl=en"
+ ],
+ "image": "images/maps_02.jpg"
+}
+```
+
+## Image plan
+
+- hero: real photo images/maps_02.jpg (alt: "Cabinets and countertops in Rockingham, NC: large kitchen with white raised-panel cabinets, a two-level white quartz island with seating and modern pendant lights")
+- service:Quartz countertops: real photo images/maps_03.jpg (alt: "L-shaped kitchen with white quartz countertops, white wall cabinets and gray base cabinets")
+- service:Kitchen cabinets: real photo images/maps_10.jpg (alt: "White raised-panel kitchen cabinets with a copper range hood, wall ovens and a marble mosaic backsplash")
+- service:Backsplash and tile: real photo images/maps_11.jpg (alt: "White kitchen with a quartz island, black refrigerator and mosaic tile backsplash under a pendant light")
+- service:Bathroom vanity tops: real photo images/maps_07.jpg (alt: "Long bathroom vanity with a white quartz top, two undermount sinks and light wood drawers")
+- service:Flooring: real photo images/social_01.jpg (alt: "Blue-gray stone slab, two wood-look flooring planks and wrapped white shaker cabinets under the Cabinet & Countertop Solutions name")
+- service:Kitchen and bath remodels: real photo images/cover.jpg (alt: "Two men standing in a finished white kitchen with a copper range hood and a white quartz island")
+- about: real photo images/maps_01.jpg (alt: "Black and gold C&C Cabinet & Countertop Solutions LLC sign with the phone number outside the Rockingham store")
+- gallery_1: real photo images/maps_02.jpg (alt: "Spacious kitchen with white cabinets, two-level island with white quartz top and cream bar stools")
+- gallery_2: real photo images/maps_10.jpg (alt: "White kitchen with copper chimney hood, marble mosaic backsplash and double wall oven")
+- gallery_3: real photo images/maps_11.jpg (alt: "White quartz island with gold veining and a glass pendant light in a white cabinet kitchen")
+- gallery_4: real photo images/maps_03.jpg (alt: "L-shaped white quartz countertop with corner sink area, white upper cabinets and gray lower cabinets")
+- gallery_5: real photo images/maps_04.jpg (alt: "Tall white pantry cabinets and gray base cabinets with white quartz top")
+- gallery_6: real photo images/maps_05.jpg (alt: "Stainless steel double undermount sink in white quartz with pull-down faucet")
+- gallery_7: real photo images/maps_06.jpg (alt: "Bathroom vanity with white quartz top and backsplash, undermount sink and cream cabinets")
+- gallery_8: real photo images/maps_07.jpg (alt: "Long double vanity with white quartz top next to white shiplap wall")
+- gallery_9: real photo images/social_01.jpg (alt: "Collage of a blue-gray granite slab, wood-look flooring planks and white shaker cabinets")
+- gallery_10: real photo images/maps_01.jpg (alt: "C&C Cabinet & Countertop Solutions LLC sign showing (910) 474-1447 in front of the store")
+- final_cta: real photo images/maps_10.jpg (alt: "White kitchen with a copper range hood, marble mosaic backsplash and quartz counters")
+
+19 real photo slots, 0 AI slots.
 
 ## Brand
 
@@ -173,21 +220,21 @@ Socials: https://www.facebook.com/share/19syQLQuqK, https://www.instagram.com/co
 - Palette: primary #495768, accent #C0B8A4, light #F4F3EF, dark #2A323C
 - Palette note: Primary #495768 and accent #C0B8A4 come from the logo palette (blue-gray granite slab and wood-look flooring); #7E9EC3 can be a secondary highlight. The profile image is a material collage, not a true logo; the street sign (maps_01) uses black with gold lettering and a C&C monogram, which suits a future logo.
 - Fonts: Cinzel (headings), Open Sans (body)
-- Tagline: Not Just Countertops. Total Solutions.
+- Tagline: None
 - Style direction: Showroom feel: stone and slate blue tones with crisp white panels, a serif C&C wordmark echoing the gold-on-black sign, and big kitchen photos with quartz up front.
 
 ## Images not to use
 
-- `images/social_02.jpg`: Duplicate of the cover photo (same two men in the same kitchen)
-- `images/maps_08.jpg`: Duplicate of the cover photo
-- `images/social_03.jpg`: Only 348 x 348 pixels, too small for the page (same kitchen as maps_10 at full size)
-- `images/maps_09.jpg`: Copper sink shot is cluttered with a dish rack and cleaning bottles
+- images/social_02.jpg: Duplicate of the cover photo (same two men in the same kitchen)
+- images/maps_08.jpg: Duplicate of the cover photo
+- images/social_03.jpg: Only 348 x 348 pixels, too small for the page (same kitchen as maps_10 at full size)
+- images/maps_09.jpg: Copper sink shot is cluttered with a dish rack and cleaning bottles
 
-## Outreach
+## Outreach (not on the page)
 
 - Specific detail: The white kitchen with the copper range hood, marble mosaic backsplash and quartz island, where the family bought their cabinets and quartz from you and kept the crew on for painting and a carport.
-- Angle: You have a showroom on US-1, Saturday hours, a 5.0 rating from 15 Google reviews and a tagline ready to go ('Not Just Countertops. Total Solutions.'), but no website, so people searching for countertops in Rockingham cannot see your slabs or installs before they call.
-- Subject line idea: A website for the C&C showroom on US-1
+- Angle: You have a store on US-1 with Saturday hours and a 5.0 rating from 15 Google reviews, but no website, so people searching for countertops in Rockingham cannot see your installs before they call.
+- Subject line idea: A website for the C&C store on US-1
 
 ## Facts used
 
@@ -195,11 +242,11 @@ Socials: https://www.facebook.com/share/19syQLQuqK, https://www.instagram.com/co
 - Rating 5.0 from 15 reviews (source: Google Maps)
 - Hours Monday to Friday 9 AM to 5 PM, Saturday 9 AM to 1 PM, Sunday closed (source: Google Maps)
 - Email candcllc0125@gmail.com; 'Give us a call and we can schedule' (source: Facebook Info https://www.facebook.com/profile.php/?id=61577743975659 (research.json email record))
-- 'Not Just Countertops. Total Solutions. Flooring, Tile, Cabinetry, Custom Designs, Residential & Commercial'; Instagram @countertop_solutions (source: Instagram bio (Gemini))
+- Instagram @countertop_solutions bio 'Not Just Countertops. Total Solutions...' (NOT used: account name 'Countertop Solutions LLC' may be a different business) (source: Instagram bio (Gemini))
 - Services: kitchen remodeling, countertops, flooring; town Rockingham (source: Facebook (Gemini))
 - Quartz countertop and backsplash install; Carolyn and the install team; seamless start to finish (source: Google review by MsMickey)
 - Two different countertops, just what she asked for (source: Google review by Nancy Rheault)
-- Cabinets and quartz bought here; kitchen and hallway bathroom renovated, appliances, backsplash, painting, carport; Julio, his wife, Oscar, Gordon named (source: Google review by Rodney Byers (names Gonzalez Construction))
+- Review naming Gonzalez Construction (cabinets and quartz bought, kitchen and hall bath renovated): NOT used on the page; its photos (maps_08 to maps_11) match the Facebook cover, so they are used as install photos (source: Google review by Rodney Byers (names Gonzalez Construction))
 - Black and gold sign reading C&C, (910) 474-1447, Cabinet & Countertop Solutions LLC (source: images/maps_01.jpg (legible in photo))
 - Showroom materials: granite slab, plank flooring samples, stocked white shaker cabinets (source: images/logo.jpg and images/social_01.jpg (seen in photo))
 - Project photos: white quartz kitchens, copper hood, marble mosaic and hexagon backsplash, copper and stainless sinks, quartz vanity tops (source: images/maps_02 to maps_11 (Google Maps), seen in contact sheet)
@@ -207,7 +254,6 @@ Socials: https://www.facebook.com/share/19syQLQuqK, https://www.instagram.com/co
 ## Missing
 
 - Owner name and role (Carolyn is named in a review but her role is not stated)
-- Relationship to Gonzalez Construction (named in Rodney Byers' review on this profile, with Julio, his wife, Oscar and Gordon); confirm before publishing that review
 - Years in business
 - NC contractor licence or insurance details
 - Warranty
@@ -215,5 +261,7 @@ Socials: https://www.facebook.com/share/19syQLQuqK, https://www.instagram.com/co
 - Financing
 - Prices for countertops or cabinets
 - Service towns beyond Rockingham
-- Instagram URL comes from Gemini only (@countertop_solutions); confirm it belongs to this business
 - Towns for individual project photos
+- Instagram @countertop_solutions (from Gemini) is named 'Countertop Solutions LLC'; its link and tagline 'Not Just Countertops. Total Solutions.' are left off until confirmed
+- Whether the store has a showroom with displays is not stated; the page calls it a kitchen supply store (Google category)
+- Relationship to Gonzalez Construction (named in Rodney Byers' review on this profile, with Julio, his wife, Oscar and Gordon); that review is left off the page until confirmed, so only 2 testimonials

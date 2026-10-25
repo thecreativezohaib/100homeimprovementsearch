@@ -15,90 +15,89 @@
 
 # Bathroom Remodeling in Mint Hill, NC
 
-Max and his crew turn dated primary bathrooms into marble and tile showers, freestanding tub corners and new vanities, with tidy job sites and budgets that hold.
+Max and his crew turn dated primary bathrooms into marble and tile showers, freestanding tub corners and new vanities. Reviewers say they prep the house, clean up daily and stay on budget.
 
-[Call or text (704) 989-3052](tel:+17049893052)  |  [Request an estimate](#contact)
-
-Trust badges: 5.0 stars from 15 Google reviews · Tile work praised in 7 reviews · Clients who come back for project two · Open Monday to Friday, 8 AM to 6 PM
-
-Hero image: `images/maps_01.jpg` (Primary bathroom with freestanding tub, glass-enclosed white subway tile shower and gray tile floor, bathroom remodeling Mint Hill NC by Queen City Renovation)
+- Primary button: Call or text (704) 989-3052 (tel:+17049893052)
+- Secondary button: Request an estimate (#contact)
+- Trust badges: 5.0 stars from 15 Google reviews | Tile is the top topic in their reviews | Repeat clients | Open Monday to Friday, 8 AM to 6 PM
+- Hero Image: images/maps_01.jpg (alt: "Bathroom remodeling from Queen City Renovation in Mint Hill, NC: primary bathroom with a freestanding tub, glass-enclosed white subway tile shower and gray tile floor")
 
 ## Showers and tile that make the whole bathroom
 
-Queen City Renovation focuses on bathroom remodeling in Mint Hill, NC and around Charlotte. A typical project in our photos starts with a tired primary bath: a fiberglass shower shell and beige floor tile. We take it out and rebuild the room with marble, porcelain and custom niches.
+Queen City Renovation focuses on bathroom remodeling in Mint Hill, NC and around Charlotte. One project in our photos started with a tired primary bath: a fiberglass shower shell and beige floor tile. We took it out and rebuilt the room with a marble shower, a marble accent wall and new flooring.
 
-Tile is the word that comes up most in our Google reviews, seven times so far. Homeowners also notice how we work. We prep the house before the job starts, clean up at the end of each day, stay on budget and give straight advice when you ask for it, which is why some clients hire us again.
+Tile is the word that comes up most in our Google reviews, in seven of them so far. Homeowners also notice how we work. A recent client says we prepped the house before the job started, cleaned up at the end of each day, stayed on budget and gave solid advice when asked. She hired us twice.
 
 ## Our bathroom and renovation work
 
 ### Primary bathroom remodels
 
-Full renovations of master and primary bathrooms: new shower, tub area, vanity, lighting and floor in one project. Recent jobs swapped garden tubs for freestanding soaking tubs set under the window, next to large walk-in showers with frameless glass.
+Full renovations of master and primary bathrooms: new shower, tub area, vanity, lighting and floor in one project. Several bathrooms in our photos pair a freestanding soaking tub under the window with a large walk-in tile shower behind frameless glass.
 
-Image: `images/maps_11.jpg` (Freestanding white tub beside a walk-in tile shower with matte black rain head and mosaic floor)
+Image: images/maps_11.jpg (alt: "Freestanding white tub beside a walk-in tile shower with a matte black rain head and mosaic floor")
 
 ### Tile and marble showers
 
 This is where our crew does its best work. One family moved from a fiberglass shell to a marble shower with a marble accent wall. We build in recessed niches, sometimes lined with herringbone tile, plus benches and pebble or mosaic shower floors.
 
-Image: `images/maps_06.jpg` (Marble tile shower with two recessed niches lined in herringbone tile and dual shower heads)
+Image: images/maps_06.jpg (alt: "Marble tile shower with two recessed niches lined in herringbone tile and dual shower heads")
 
 ### Vanities and cabinets
 
-New double vanities with quartz-style tops, undermount sinks, framed mirrors and wall lights. Our recent bathrooms pair warm wood-tone shaker cabinets with white counters and brushed brass fixtures. Cabinets are one of the topics reviewers bring up on Google.
+New double vanities with white tops, undermount sinks, framed mirrors and wall lights. Our recent bathrooms pair warm wood-tone cabinets with white counters and brushed brass fixtures. Cabinets are one of the topics reviewers bring up on Google.
 
-Image: `images/maps_12.jpg` (Light wood double vanity with white top, two framed mirrors and brass wall lights)
+Image: images/maps_12.jpg (alt: "Light wood double vanity with a white top, two framed mirrors and brass wall lights")
 
 ### Flooring
 
 New bathroom floors go in as part of the remodel, from large-format gray porcelain to light tile that runs from the vanity to the shower curb. A recent client called our crew master craftsmen in tile, flooring, electrical and wood.
 
-Image: `images/maps_01.jpg` (Large-format gray porcelain bathroom floor running from vanity to freestanding tub)
+Image: images/maps_10.jpg (alt: "Light tile bathroom floor running from a wood vanity past a freestanding tub to the shower curb")
 
 ### Fireplaces and backsplashes
 
-Our tile skills are not limited to bathrooms. We refaced a living room fireplace in stacked stone for one bathroom client and installed a kitchen backsplash for another before coming back to redo their primary bathroom.
+Our tile skills are not limited to bathrooms. For one bathroom client we also refaced the living room fireplace in stacked stone, and another client hired us for a backsplash before coming back to have us redo their primary bathroom.
 
-Image: `images/maps_05.jpg` (Living room fireplace refaced floor to ceiling in gray stacked stone with dark hearth)
+Image: images/maps_05.jpg (alt: "Living room fireplace refaced floor to ceiling in gray stacked stone with a dark hearth")
 
 ## What our clients point out
 
-**Tile done right**: Tile is mentioned in 7 of our Google reviews. Clients describe the crew as talented, meticulous and master craftsmen, and the marble showers in our photos show why.
+**Tile done right.** Tile is mentioned in 7 of our Google reviews. Clients describe the crew as talented, meticulous and master craftsmen, and the marble showers in our photos show why.
 
-**Your home treated with respect**: We prep everything before work begins and clean up when the day is done. Reviewers also call the crew polite, professional and flexible when surprises come up.
+**Your home treated with respect.** We prep everything before work begins and clean up when the day is done. Reviewers also call the crew polite, professional and flexible when surprises come up.
 
-**Fair prices, budgets kept**: Reviewers say the work was reasonably priced, that the price was fair, and that we stayed on budget from start to finish of a primary bathroom renovation.
+**Fair prices, budgets kept.** Reviewers say the work was reasonably priced, that the price was fair, and that we stayed on budget from start to finish of a primary bathroom renovation.
 
-**A crew you get to know**: Max leads the jobs with team members Slavic and Ivan. You see the same faces every day, and some clients have already hired us for a second project.
+**A crew you get to know.** Max leads the jobs with team members Slavic and Ivan, and reviewers name them directly. Some clients have already hired the same crew for a second project.
 
 ## About Queen City Renovation
 
-Queen City Renovation LLC is a bathroom remodeling company based on Connell Road in Mint Hill, working across the Charlotte area. Max leads the work with his crew, including Slavic and Ivan, and replies to reviews himself, often thanking both partners by name. Clients have trusted the team with first-time remodels and with repeat projects, starting with a backsplash and returning for the primary bathroom. They talk about clear communication, solid advice when asked, and patience when a project hit challenges that were nobody's fault.
+Queen City Renovation LLC is a bathroom remodeling company based on Connell Road in Mint Hill, working around Charlotte. Max leads the work with his crew, including Slavic and Ivan. The owner replies to reviews personally, thanking homeowners by name. Clients have trusted the team with first-time remodels and with repeat projects, starting with a backsplash and returning for the primary bathroom. They talk about clear communication, solid advice when asked, and patience when a project hit challenges that were no fault of the crew.
 
-Owner: Max (Leads the crew (named in Google reviews; signs owner replies as 'me and my crew'))
+Owner: Max (Leads the crew (named in Google reviews))
 
-Image: `images/maps_09.jpg` (Marble-look walk-in shower with arched window, glass door, built-in bench and pebble floor)
+Image: images/maps_09.jpg (alt: "Marble-look walk-in shower with an arched window, glass door, built-in bench and pebble floor")
 
 ## How your bathroom remodel goes
 
-1. **Call or text**: Reach us at (704) 989-3052, Monday to Friday from 8 AM to 6 PM, or email Queencityrenovation@gmail.com with photos of your bathroom.
-2. **Walkthrough and advice**: Max looks at the space with you, talks through tile, tub and vanity choices, and gives honest advice whenever you ask for it.
-3. **Price and plan**: You get a price for the work and a plan for the job. Reviewers say we stay on budget once the work starts.
-4. **Prep, build, clean up**: We protect your home before demolition, build the shower, floor and vanity, and clean up at the end of every work day.
-5. **Final walkthrough**: We walk the finished bathroom with you and go over every detail of the tile, glass and fixtures before we wrap up the job.
+1. **Call or text.** Reach us at (704) 989-3052, Monday to Friday from 8 AM to 6 PM, or email Queencityrenovation@gmail.com with photos of your bathroom.
+2. **Walkthrough and advice.** Max looks at the space with you, talks through tile, tub and vanity choices, and gives honest advice whenever you ask for it.
+3. **Price and plan.** You get a price for the work and a plan for the job. Reviewers say we stay on budget once the work starts.
+4. **Prep, build, clean up.** We protect your home before demolition, build the shower, floor and vanity, and clean up at the end of every work day.
+5. **Final walkthrough.** We walk the finished bathroom with you and go over every detail of the tile, glass and fixtures before we wrap up the job.
 
 ## Recent bathrooms around Mint Hill and Charlotte
 
-- `images/maps_01.jpg`: Primary bath with soaking tub and walk-in shower (alt: Primary bathroom with white shaker vanity, freestanding tub and frameless glass subway tile shower)
-- `images/maps_06.jpg`: Marble shower that replaced a fiberglass shell (alt: Marble shower walls with herringbone tile niches and handheld and fixed shower heads)
-- `images/maps_08.jpg`: Marble-look porcelain shower with built-in niche (alt: Large-format white marble-look porcelain shower with handheld shower and recessed niche)
-- `images/maps_09.jpg`: Shower with arched window and pebble floor (alt: Walk-in shower with arched window, bench seat, glass door and gray pebble floor)
-- `images/maps_10.jpg`: Wood vanity, freestanding tub and tile shower (alt: Bright bathroom with wood vanity, brass vanity lights, freestanding tub and open tile shower)
-- `images/maps_11.jpg`: Tub and shower side by side under the windows (alt: Freestanding tub with floor-mounted filler beside a white tile shower with black rain head)
-- `images/maps_12.jpg`: Double vanity with brass lighting (alt: Double vanity in light wood with white counter, two mirrors and brass sconces)
-- `images/maps_13.jpg`: Frameless glass shower and freestanding tub (alt: Frameless glass shower enclosure with brass handle next to a freestanding tub)
-- `images/maps_02.jpg`: Vertical stacked tile with a full-width niche (alt: Vertical stacked rectangular tile in taupe gloss with a long recessed shower niche)
-- `images/maps_05.jpg`: Living room fireplace refaced in stacked stone (alt: Stacked stone fireplace wall with insert and black hearth in a living room)
+- images/maps_01.jpg: Primary bath with soaking tub and walk-in shower (alt: "Primary bathroom with white shaker vanity, freestanding tub and frameless glass subway tile shower")
+- images/maps_06.jpg: Marble shower that replaced a fiberglass shell (alt: "Marble shower walls with herringbone tile niches and handheld and fixed shower heads")
+- images/maps_08.jpg: Marble-look porcelain shower with built-in niche (alt: "Large-format white marble-look porcelain shower with handheld shower and recessed niche")
+- images/maps_09.jpg: Shower with arched window and pebble floor (alt: "Walk-in shower with arched window, bench seat, glass door and gray pebble floor")
+- images/maps_10.jpg: Wood vanity, freestanding tub and tile shower (alt: "Bright bathroom with a wood vanity, brass vanity lights, a freestanding tub and an open tile shower")
+- images/maps_11.jpg: Tub and shower side by side under the windows (alt: "Freestanding tub with floor-mounted filler beside a white tile shower with black rain head")
+- images/maps_12.jpg: Double vanity with brass lighting (alt: "Double vanity in light wood with white counter, two mirrors and brass sconces")
+- images/maps_13.jpg: Frameless glass shower and freestanding tub (alt: "Frameless glass shower enclosure with brass handle next to a freestanding tub")
+- images/maps_02.jpg: Vertical stacked tile with a full-width niche (alt: "Vertical stacked rectangular tile in taupe gloss with a long recessed shower niche")
+- images/maps_05.jpg: Living room fireplace refaced in stacked stone (alt: "Stacked stone fireplace wall with insert and black hearth in a living room")
 
 ## Reviews from our clients
 
@@ -116,65 +115,116 @@ Image: `images/maps_09.jpg` (Marble-look walk-in shower with arched window, glas
 
 ## Bathroom remodeling in Mint Hill, NC and Charlotte
 
-Our shop is at 10227 Connell Rd in Mint Hill, and our Instagram lists Charlotte, North Carolina as home base for the crew. Most of our bathrooms, showers and fireplace jobs are in and around those two places. If you live nearby and are not sure we cover your street, call or text (704) 989-3052 and we will let you know.
+We are based at 10227 Connell Rd in Mint Hill, and our Instagram lists Charlotte, North Carolina. Our bathrooms, showers and fireplace work are for homes in Mint Hill and the Charlotte area. If you live nearby and are not sure we cover your street, call or text (704) 989-3052 with your address and ask before you plan the project.
 
 Towns: Mint Hill, NC, Charlotte, NC
 
 ## Bathroom remodeling questions
 
-**What kind of bathroom work do you do?**
+### What kind of bathroom work do you do?
 
 Full primary and master bathroom renovations: tearing out fiberglass shower shells, building tile and marble showers with niches and benches, setting freestanding tubs, installing new vanities and laying new floors. We have also refaced a fireplace and installed a backsplash for bathroom clients.
 
-**Where are you located and what areas do you serve?**
+### Where are you located and what areas do you serve?
 
 We are at 10227 Connell Rd, Mint Hill, NC 28227, and we work around Charlotte, North Carolina. If you are unsure whether your home is in range, call or text (704) 989-3052 with your town and a short description of the project.
 
-**What are your hours?**
+### What are your hours?
 
 We are open Monday through Friday from 8 AM to 6 PM. We are closed on Saturday and Sunday. You can call or text (704) 989-3052 during the week or email Queencityrenovation@gmail.com at any time with photos of your bathroom.
 
-**Will you keep my house clean during the work?**
+### Will you keep my house clean during the work?
 
 Yes. A recent client wrote that we prepped everything before the job began and cleaned up after each work day. Other reviewers describe the crew as polite, professional and respectful, which matters when we are working inside your home for several days.
 
-**How do I get a price?**
+### How do I get a price?
 
-Call or text (704) 989-3052 or send photos to Queencityrenovation@gmail.com. Max will set up a time to see the bathroom and talk through what you want. Reviewers describe our pricing as fair and reasonable, and say we stayed on budget.
+Call or text (704) 989-3052 or send photos to Queencityrenovation@gmail.com, and set up a time for Max to see the bathroom and talk through what you want. Reviewers describe our pricing as fair and reasonable, and one says we stayed on budget.
 
 ## Ready to trade your old shower for tile you love?
 
 Call or text Max and the crew to talk about your bathroom.
 
-[Call (704) 989-3052](tel:+17049893052) · (704) 989-3052
+Button: Call (704) 989-3052 (tel:+17049893052). Phone: (704) 989-3052
 
 ## Footer
 
-Queen City Renovation LLC  
-10227 Connell Rd, Mint Hill, NC 28227  
-(704) 989-3052  
-Queencityrenovation@gmail.com  
-Hours: Monday to Friday 8 AM to 6 PM, Saturday and Sunday closed  
-Socials: https://www.instagram.com/queencityrenovation, https://www.google.com/maps/place/?q=place_id:ChIJ-c2S_FgXVIgRumc6GT6zVlU&hl=en
+- Name: Queen City Renovation LLC
+- Address: 10227 Connell Rd, Mint Hill, NC 28227
+- Phone: (704) 989-3052
+- Email: Queencityrenovation@gmail.com
+- Socials: https://www.instagram.com/queencityrenovation, https://www.google.com/maps/place/?q=place_id:ChIJ-c2S_FgXVIgRumc6GT6zVlU&hl=en
+- Hours: Monday to Friday 8 AM to 6 PM, Saturday and Sunday closed
 
----
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Queen City Renovation LLC",
+ "telephone": "+17049893052",
+ "email": "Queencityrenovation@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "10227 Connell Rd",
+  "addressLocality": "Mint Hill",
+  "addressRegion": "NC",
+  "postalCode": "28227",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Mint Hill, NC",
+  "Charlotte, NC"
+ ],
+ "openingHours": "Mo-Fr 08:00-18:00",
+ "sameAs": [
+  "https://www.instagram.com/queencityrenovation",
+  "https://www.google.com/maps/place/?q=place_id:ChIJ-c2S_FgXVIgRumc6GT6zVlU&hl=en"
+ ],
+ "image": "images/maps_01.jpg"
+}
+```
+
+## Image plan
+
+- hero: real photo images/maps_01.jpg (alt: "Bathroom remodeling from Queen City Renovation in Mint Hill, NC: primary bathroom with a freestanding tub, glass-enclosed white subway tile shower and gray tile floor")
+- service:Primary bathroom remodels: real photo images/maps_11.jpg (alt: "Freestanding white tub beside a walk-in tile shower with a matte black rain head and mosaic floor")
+- service:Tile and marble showers: real photo images/maps_06.jpg (alt: "Marble tile shower with two recessed niches lined in herringbone tile and dual shower heads")
+- service:Vanities and cabinets: real photo images/maps_12.jpg (alt: "Light wood double vanity with a white top, two framed mirrors and brass wall lights")
+- service:Flooring: real photo images/maps_10.jpg (alt: "Light tile bathroom floor running from a wood vanity past a freestanding tub to the shower curb")
+- service:Fireplaces and backsplashes: real photo images/maps_05.jpg (alt: "Living room fireplace refaced floor to ceiling in gray stacked stone with a dark hearth")
+- about: real photo images/maps_09.jpg (alt: "Marble-look walk-in shower with an arched window, glass door, built-in bench and pebble floor")
+- gallery_1: real photo images/maps_01.jpg (alt: "Primary bathroom with white shaker vanity, freestanding tub and frameless glass subway tile shower")
+- gallery_2: real photo images/maps_06.jpg (alt: "Marble shower walls with herringbone tile niches and handheld and fixed shower heads")
+- gallery_3: real photo images/maps_08.jpg (alt: "Large-format white marble-look porcelain shower with handheld shower and recessed niche")
+- gallery_4: real photo images/maps_09.jpg (alt: "Walk-in shower with arched window, bench seat, glass door and gray pebble floor")
+- gallery_5: real photo images/maps_10.jpg (alt: "Bright bathroom with a wood vanity, brass vanity lights, a freestanding tub and an open tile shower")
+- gallery_6: real photo images/maps_11.jpg (alt: "Freestanding tub with floor-mounted filler beside a white tile shower with black rain head")
+- gallery_7: real photo images/maps_12.jpg (alt: "Double vanity in light wood with white counter, two mirrors and brass sconces")
+- gallery_8: real photo images/maps_13.jpg (alt: "Frameless glass shower enclosure with brass handle next to a freestanding tub")
+- gallery_9: real photo images/maps_02.jpg (alt: "Vertical stacked rectangular tile in taupe gloss with a long recessed shower niche")
+- gallery_10: real photo images/maps_05.jpg (alt: "Stacked stone fireplace wall with insert and black hearth in a living room")
+- final_cta: real photo images/maps_08.jpg (alt: "Large-format white marble-look shower walls with a handheld shower and recessed niche")
+
+18 real photo slots, 0 AI slots.
 
 ## Brand
 
-- Logo: None
+- Logo: none
 - Palette: primary #2F3E46, accent #B08D57, light #F5F3EF, dark #1C2227
 - Palette note: No logo or palette was found, so this is a proposed palette taken from the photos: slate gray from the tile and walls, brushed brass from the vanity lights and shower hardware, and a warm marble white for backgrounds.
 - Fonts: Libre Baskerville (headings), Nunito Sans (body)
-- Tagline: none found
+- Tagline: None
 - Style direction: Clean spa-like look with lots of white space and marble tones, a slate and brass palette, and large shower photos doing the selling.
 
 ## Images not to use
 
-- `images/maps_03.jpg`: Before photo: dated beige tile, garden tub and glass mosaic wall from Tuesday Wade's bathroom before the remodel
-- `images/maps_04.jpg`: Before photo: old fiberglass shower shell and beige floor tile
-- `images/maps_07.jpg`: Finished vanity but cluttered with personal items on the counter; weaker than the other vanity photos
+- images/maps_03.jpg: Before photo: dated beige tile, garden tub and glass mosaic wall from Tuesday Wade's bathroom before the remodel
+- images/maps_04.jpg: Before photo: old fiberglass shower shell and beige floor tile
+- images/maps_07.jpg: Finished vanity but cluttered with personal items on the counter; weaker than the other vanity photos
 
-## Outreach
+## Outreach (not on the page)
 
 - Specific detail: Tuesday Wade's bathroom, where Max, Slavic and Ivan took out a fiberglass shower shell and built a marble shower with a marble accent wall, then refaced her living room fireplace too.
 - Angle: You have a perfect 5.0 from 15 Google reviews, tile praised in 7 of them, and 39 photos of marble showers on Maps, but no website, so homeowners searching for a bathroom remodeler in Mint Hill or Charlotte only find you by luck.

@@ -70,7 +70,7 @@ One client said Liam is super patient and flexible if you want to modify your pr
 
 ### Finishes as planned
 
-A recent customer wrote that the project progressed as anticipated and finished as planned. Two of our reviewers hired us for more than one project.
+One customer wrote that the project progressed as anticipated and finished as planned. Two of our reviewers hired us for more than one project.
 
 ## About Liam Turnmire and his crew
 
@@ -123,7 +123,7 @@ Yes. Our shower photos include a recessed niche, a corner bench and a curved gra
 
 ### Who will actually be working in my home?
 
-Liam works on the job himself with his crew. On a recent shower the work was done by Liam and his apprentice Chayse. Customers mention that Liam communicates well and is very thorough, so you always know who to ask.
+Liam works on the job himself with his crew. On one shower the work was done by Liam and his apprentice Chayse. Customers mention that Liam communicates well and is very thorough, so you always know who to ask.
 
 ### What if I want to change something mid-project?
 

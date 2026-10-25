@@ -69,7 +69,7 @@ AI prompt: Photorealistic photo of a white shaker kitchen in a New England home 
 
 ## Why Uxbridge homeowners choose this shop
 
-- **Built here, installed by the builders** The shop's own crew covers every phase: cabinet building, sanding, spraying, staining and installing. The people who build your cabinets are the same company that sets them in your home.
+- **Built and installed by one shop** The shop's own crew covers every phase: cabinet building, sanding, spraying, staining and installing. The people who build your cabinets are the same company that sets them in your home.
 - **Quotes from real measurements** "They got all the specs before they gave me the quote," one reviewer wrote. You get a price for your actual room, not a guess.
 - **Installers people remember** Reviewers name installers Jim and Chuck and call them professional, polite and patient. One says they always go the extra mile, down to the minute adjustments on the drawers.
 - **Workmanship and fair pricing** Workmanship is the most mentioned topic in their Google reviews after cabinets. Google's summary quotes one customer: "Excellent workmanship, honest, well priced, good natured Jeff."

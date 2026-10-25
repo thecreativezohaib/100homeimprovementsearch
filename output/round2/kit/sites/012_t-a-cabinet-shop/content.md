@@ -22,7 +22,7 @@ T & A Cabinet Shop measures, builds and installs kitchen cabinets from its own s
 - Trust badges: Cabinets built in the Soddy-Daisy shop | Showroom at 148 Bean St | Open Monday to Friday
 - Image: images/social_02.jpg (alt: Custom cabinets in Soddy-Daisy, TN: white inset kitchen cabinets with glass uppers, a stained wood island, wood range hood and wood beams)
 
-## A working cabinet shop, not just a catalogue
+## A working cabinet shop, not just a catalog
 
 T & A Cabinet Shop makes custom cabinets in Soddy-Daisy at its shop at 148 Bean St. Your cabinets go on the shop's work schedule, are built there and then go out to your house with an install crew.
 

@@ -62,7 +62,7 @@ Preferred Tile also tiles new homes. Jamie writes that Wayne and his guys have d
 
 **See it in person.** The showroom displays porcelain, natural stone and mosaic tile in all sizes, so you can compare color, texture and finish side by side before you buy.
 
-**Trusted on custom homes.** A repeat client says Wayne and his guys have done several custom houses for them and are always professional. Builders and homeowners can call and ask for Wayne directly.
+**The owner picks up.** Wayne owns the business and asks customers to call the store and ask for him by name, so builders and homeowners can talk to the person in charge.
 
 ## About Wayne and the Preferred Tile family
 
@@ -110,7 +110,7 @@ Porcelain, natural stone, mosaics and tile in all sizes, the same range the stor
 
 **Do you install tile or just sell it?**
 
-Both. The shop posts finished showers and bathrooms on Facebook, and a repeat client says Wayne and his guys have tiled several custom houses for them. When you plan your job, ask who will do the installation, how scheduling works and what is included, so you know what to expect.
+Both. The shop posts finished showers and bathrooms on its Facebook page, and its crew has tiled custom homes for local clients. When you plan your job, ask who will do the installation, how scheduling works and what is included, so you know exactly what to expect.
 
 **How long have you been in business?**
 
@@ -122,7 +122,7 @@ The showroom is open Monday to Friday from 8 AM to 5 PM and closed on Saturday a
 
 **Do you work with builders?**
 
-Yes. One client wrote that Wayne and his guys have done several custom houses for them and called the team always professional. Builders can call (912) 764-7767 and ask for Wayne to talk about tile selections and schedules for new homes.
+Yes. One client has had Wayne's crew tile several custom houses and calls them always professional. Builders can call (912) 764-7767 and ask for Wayne to talk about tile selections, quantities and installation schedules for new homes, or bring plans to the showroom on a weekday.
 
 ## Come see the tile in person
 

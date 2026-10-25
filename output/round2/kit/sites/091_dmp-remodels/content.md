@@ -7,7 +7,7 @@
 - Primary keyword: kitchen and bath remodeling Batavia IL
 - Secondary keywords: bathroom remodel Batavia IL, kitchen remodel Naperville, custom carpentry Batavia, front door installation Batavia IL, water damage repair Naperville, remodeler near Batavia IL
 - OG title: DMP Remodels | Kitchen and Bath Remodeling in Batavia, IL
-- OG description: Kitchens, baths, custom woodwork and the odd jobs in between. Led by Darren, rated 5.0 from 16 Google reviews.
+- OG description: Kitchens, baths, custom woodwork and the odd jobs in between, from a team led by Darren and rated 5.0 from 16 Google reviews.
 
 ## Hero
 
@@ -17,77 +17,80 @@
 
 Darren and the DMP Remodels team take on kitchens, bathrooms, custom woodwork and the random projects on your list, and finish them quickly.
 
-[Call (708) 415-1719](tel:+17084151719)  |  [Request an estimate](#contact)
+- Primary button: Call (708) 415-1719 (tel:+17084151719)
+- Secondary button: Request an estimate (#contact)
+- Trust badges: 5.0 stars from 16 Google reviews | Led by Darren | Repeat clients | Open Monday to Friday, 10 AM to 6 PM
+- Hero Image: images/maps_01.jpg (alt: "Open white kitchen with an island, recessed lights and a wood-look floor, an example of kitchen and bath remodeling in Batavia, IL from DMP Remodels")
 
-Trust badges: 5.0 stars from 16 Google reviews · Darren on the job, by name in reviews · Repeat clients come back · Open Monday to Friday, 10 AM to 6 PM
+## Kitchens, baths and the random projects in between
 
-Hero image: `images/maps_01.jpg` (Open white kitchen with island, recessed lights and wood-look floor by DMP Remodels, kitchen and bath remodeling in Batavia, IL area)
+DMP Remodels does kitchen and bath remodeling in Batavia, IL, and it does not stop there. One client says he has thrown "various, random projects" at the team, and every one was done quickly and better than he expected.
 
-## Remodeling for the projects other contractors pass on
-
-DMP Remodels does kitchen and bath remodeling in Batavia, IL, and it does not stop there. One client says he has thrown "various, random projects" at the team, and every one came back done quickly and better than he expected.
-
-Darren runs the work and stays easy to reach. When one family had water damage and was living in a hotel, his team got the repairs done in a short time so they could go home. It was their second time hiring DMP, and most of our reviews come from people like that: clients who call back for the next job.
+Darren leads the work, and clients name him in their reviews. When one family had water damage and was living in a hotel, his team got the work done in a short amount of time, which helped them out. It was their second time hiring DMP, and that is a pattern in our reviews: clients who call back for the next job.
 
 ## What we build and fix
 
 ### Kitchen remodeling
 
-Full kitchen updates, from cabinets and countertops to backsplash and flooring. The open kitchen in our photos shows the look: white cabinets, a center island, recessed lighting and wood-look floors running into the dining area. Kitchen remodels are one of the topics reviewers mention most.
+Kitchen updates from cabinets and countertops to backsplash and flooring. The open kitchen in our photos shows the look: white cabinets, a center island, recessed lighting and wood-look floors running into the dining area. Kitchen remodels are one of the topics reviewers mention most.
 
-Image: `images/maps_01.jpg` (Remodeled white kitchen with center island, stainless refrigerator and wood-look floor opening to a dining table)
+Image: images/maps_01.jpg (alt: "Remodeled white kitchen with a center island, stainless refrigerator and wood-look floor opening to a dining table")
 
 ### Bathroom remodeling
 
-Bathrooms where the small choices match. On a recent vanity, the brown veining in the top ties into matching veining in the backsplash, so the whole room feels planned rather than pieced together. Bathroom remodels are tied with kitchens as the most mentioned job in our reviews.
+Bathrooms where the small choices match. On one recent vanity, the brown veining in the top ties into matching veining in the backsplash, so the whole room feels intentional rather than pieced together. Bathroom remodels come up as often as kitchens in our Google reviews.
+
+Image: AI-generated, ai_service_bathroom.jpg (alt: "White vanity with a brown-veined top and matching backsplash (illustration)")
 
 ### Custom carpentry and woodwork
 
-DMP started with custom woodworking and carpentry, and it shows in the trim work. Think shiplap fireplace walls with a rustic wood mantel, wainscoting, accent walls and stair details built on site to fit the room instead of ordered off a shelf.
+Custom woodworking and carpentry are part of what DMP does, and it shows in the trim work. Our photos include a white shiplap fireplace wall with a rustic wood mantel on black brackets, and a black geometric accent wall with wainscoting beside a staircase.
 
-Image: `images/maps_02.jpg` (White shiplap fireplace wall with rustic wood mantel and black brackets beside navy painted walls)
+Image: images/maps_02.jpg (alt: "White shiplap fireplace wall with a rustic wood mantel on black brackets beside navy painted walls")
 
 ### Walls, drywall and repairs
 
-Old houses hide surprises. On one job we pulled off wood paneling and found a time capsule of drywall disasters underneath, so we skim coated the walls smooth before the new trim went up. We also handle repairs after water damage.
+Older walls hide surprises. On one job we yanked out wood paneling and found a time capsule of drywall disasters underneath, so we skim coated the walls smooth. We also handle repairs after water damage, including for clients who need to get back home quickly.
 
-Image: `images/social_01.jpg` (Staircase with wood treads, black iron balusters and a black geometric trim accent wall)
+Image: images/social_01.jpg (alt: "Staircase with wood treads, black iron balusters and a black geometric trim accent wall")
 
 ### Doors and smaller projects
 
-Front door installation is a regular request, and reviewers say the new doors turned out perfectly. If you have a list of odd jobs around the house, send it over. One client says you can have literally anything done in your home.
+Front door installation comes up in our reviews, and one homeowner says his new door turned out perfectly. If you have a list of odd jobs around the house, send it over. One client recommends DMP to anyone looking to have literally anything done in their home.
+
+Image: AI-generated, ai_service_front_door.jpg (alt: "Newly installed stained wood front door with white trim on a brick home (illustration)")
 
 ## Why homeowners keep calling DMP
 
-**Clients come back**: Several reviewers are repeat customers. One family hired us a second time after water damage, and another client keeps sending us one project after another.
+**Clients come back.** Repeat customers show up in our reviews. One family hired us a second time after water damage, and another client keeps sending us one project after another.
 
-**Work gets done fast**: Timely completion is a review topic on our Google profile. When a family was living in a hotel during repairs, finishing in a short time mattered, and we did.
+**Work gets done fast.** Timely completion is a review topic on our Google profile. When a family was living in a hotel during repairs, finishing in a short amount of time mattered, and Darren's team got it done.
 
-**You deal with Darren**: Reviewers name Darren directly and describe him as very nice and pleasant to work with. You talk to the person running the job, not a call center.
+**You deal with Darren.** Reviewers name Darren directly and describe him as very nice and pleasant to work with. You talk to the person running the job, not a call center.
 
-**Every review is five stars**: DMP Remodels holds a 5.0 rating across 16 Google reviews, covering kitchen remodels, bathroom remodels, front doors and repair work.
+**Every review is five stars.** DMP Remodels holds a 5.0 rating across 16 Google reviews, covering kitchen remodels, bathroom remodels, front doors and repair work.
 
 ## About DMP Remodels
 
-DMP Remodels grew out of custom woodworking and carpentry, and today it takes on full home and business remodeling around Batavia and Naperville. Darren leads the team. Clients describe him as reliable, easy to work with and quick to get things done. Owner replies to reviews are personal, like the note thanking a homeowner for letting the team help bring the old charm back into his house. That is the approach on every job: treat the house with care, fix what is hiding behind the walls, and finish the details so the space feels intentional.
+DMP Remodels describes itself as custom woodworking, carpentry and remodeling, and it takes on custom home and business remodeling around Batavia and Naperville. Darren leads the team. Clients describe him as reliable, very nice and pleasant to work with, and quick to get things done. The replies to reviews are personal, like the note thanking a homeowner for letting the team help bring the old charm back into his house. Our posts share the same focus: fix what is hiding behind the walls, and get the little details right so a space feels intentional.
 
 Owner: Darren (Leads the DMP Remodels team (named in Google reviews))
 
-Image: `images/logo.jpg` (DMP Remodels logo with a house outline and bare tree in a circle)
+Image: images/maps_02.jpg (alt: "Shiplap fireplace wall with a rustic wood mantel built against navy walls")
 
 ## How a project with us works
 
-1. **Call or email**: Reach Darren at (708) 415-1719 or DMPRemodels@gmail.com, Monday to Friday between 10 AM and 6 PM, and tell us what you have in mind.
-2. **Look at the space**: We walk through the room with you, talk through layout and finishes, and point out anything that needs fixing before new work goes in.
-3. **Plan and price**: You get a clear scope for the job so you know what is included, what materials are going in and what it will take to finish.
-4. **Build and fix what we find**: The team does the work. If old paneling hides damaged drywall, we deal with it properly, like the skim coat on our stairway job.
-5. **Final walkthrough**: We go over the finished space with you together, check the details, and make sure you are happy before we call the job done.
+1. **Call or email.** Reach Darren at (708) 415-1719 or DMPRemodels@gmail.com, Monday to Friday between 10 AM and 6 PM, and tell us what you have in mind.
+2. **Look at the space.** We walk through the room with you, talk through layout and finishes, and point out anything that needs fixing before new work goes in.
+3. **Plan and price.** You get a clear scope for the job so you know what is included, what materials are going in and what it will take to finish.
+4. **Build and fix what we find.** The team does the work. If old paneling hides damaged drywall, we deal with it properly, like the skim coat on our stairway job.
+5. **Final walkthrough.** We go over the finished space with you together, check the details, and make sure you are happy before we call the job done.
 
 ## Recent DMP Remodels projects
 
-- `images/maps_01.jpg`: Open white kitchen with island and wood-look floors (alt: Open-plan white kitchen with island, glass-front upper cabinet, recessed lights and wood-look plank floor)
-- `images/maps_02.jpg`: Shiplap fireplace wall with rustic wood mantel (alt: White shiplap fireplace surround with linear electric fireplace and rustic wood mantel against navy walls)
-- `images/social_01.jpg`: Stairway accent wall, built after skim coating the old drywall (alt: Wood stair treads with black iron spindles next to a black geometric trim accent wall and white wainscoting)
+- images/maps_01.jpg: Open white kitchen with island and wood-look floors (alt: "Open-plan white kitchen with an island, glass-front upper cabinet, recessed lights and wood-look plank floor")
+- images/maps_02.jpg: Shiplap fireplace wall with rustic wood mantel (alt: "White shiplap fireplace surround with a linear electric fireplace and rustic wood mantel against navy walls")
+- images/social_01.jpg: Stairway accent wall, after skim coating the old drywall (alt: "Wood stair treads with black iron spindles next to a black geometric trim accent wall and white wainscoting")
 
 ## What clients say
 
@@ -105,29 +108,29 @@ Image: `images/logo.jpg` (DMP Remodels logo with a house outline and bare tree i
 
 ## Kitchen and bath remodeling in Batavia, IL and Naperville
 
-DMP Remodels is based in the Batavia and Naperville area and takes on home and business remodeling projects there. If you are close by and are not sure whether your address is in range, call (708) 415-1719 and ask. The same goes for job size: kitchens, bathrooms, front doors, trim and repair work are all on the list, so describe what you need and we will tell you straight away.
+DMP Remodels works in the Batavia and Naperville area and takes on home and business remodeling projects there. If you are close by and not sure whether your address is in range, call (708) 415-1719 and ask. The same goes for job size: kitchens, bathrooms, front doors, trim and repair work are all on the list, so describe what you need.
 
 Towns: Batavia, IL, Naperville, IL
 
 ## Questions homeowners ask
 
-**What kinds of projects do you take on?**
+### What kinds of projects do you take on?
 
 Kitchen and bathroom remodeling, custom cabinets, countertops, backsplash and flooring, plus custom carpentry like fireplace walls and trim. We also install front doors and repair walls after water damage. One client says he has sent us various random projects and every one was finished quickly.
 
-**Where are you located?**
+### Where are you located?
 
 DMP Remodels works in the Batavia and Naperville area of Illinois. Our Instagram lists Batavia and our Facebook page lists Naperville. If you live nearby and want to check whether we can reach you, give us a call at (708) 415-1719.
 
-**What are your hours?**
+### What are your hours?
 
-We are open Monday through Friday from 10 AM to 6 PM and closed on Saturday and Sunday. You can call (708) 415-1719 during those hours or email DMPRemodels@gmail.com any time, including weekends. Replies come during those weekday business hours.
+We are open Monday through Friday from 10 AM to 6 PM and closed on Saturday and Sunday. You can call (708) 415-1719 during those hours, or email DMPRemodels@gmail.com with a short description of the job and a few photos whenever it suits you.
 
-**How do I get a price for my project?**
+### How do I get a price for my project?
 
 Call (708) 415-1719 or email DMPRemodels@gmail.com with a short description of the job and a few photos if you have them. We will set up a time to look at the space and then put together a price for the work.
 
-**Can you help after water damage?**
+### Can you help after water damage?
 
 Yes. One of our Google reviews comes from a family who had water damage and was living in a hotel while the work was done. They say Darren got it finished in a short amount of time. It was the second time they had hired us.
 
@@ -135,18 +138,64 @@ Yes. One of our Google reviews comes from a family who had water damage and was 
 
 Call Darren and tell us about it. We answer Monday to Friday, 10 AM to 6 PM.
 
-[Call (708) 415-1719](tel:+17084151719) · (708) 415-1719
+Button: Call (708) 415-1719 (tel:+17084151719). Phone: (708) 415-1719
 
 ## Footer
 
-DMP Remodels  
-Serving Batavia and Naperville, IL  
-(708) 415-1719  
-DMPRemodels@gmail.com  
-Hours: Monday to Friday 10 AM to 6 PM, Saturday and Sunday closed  
-Socials: https://www.facebook.com/100067586964837, https://www.instagram.com/dmp.remodels/, https://www.google.com/maps/place/?q=place_id:ChIJxbx5VKWOgaoRcAZF2fVGpuI&hl=en
+- Name: DMP Remodels
+- Address: Serving Batavia and Naperville, IL
+- Phone: (708) 415-1719
+- Email: DMPRemodels@gmail.com
+- Socials: https://www.facebook.com/100067586964837, https://www.instagram.com/dmp.remodels/, https://www.google.com/maps/place/?q=place_id:ChIJxbx5VKWOgaoRcAZF2fVGpuI&hl=en
+- Hours: Monday to Friday 10 AM to 6 PM, Saturday and Sunday closed
 
----
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "DMP Remodels",
+ "telephone": "+17084151719",
+ "email": "DMPRemodels@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "addressLocality": "Batavia",
+  "addressRegion": "IL",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Batavia, IL",
+  "Naperville, IL"
+ ],
+ "openingHours": "Mo-Fr 10:00-18:00",
+ "sameAs": [
+  "https://www.facebook.com/100067586964837",
+  "https://www.instagram.com/dmp.remodels/",
+  "https://www.google.com/maps/place/?q=place_id:ChIJxbx5VKWOgaoRcAZF2fVGpuI&hl=en"
+ ],
+ "image": "images/maps_01.jpg",
+ "logo": "images/logo.jpg"
+}
+```
+
+## Image plan
+
+- hero: real photo images/maps_01.jpg (alt: "Open white kitchen with an island, recessed lights and a wood-look floor, an example of kitchen and bath remodeling in Batavia, IL from DMP Remodels")
+- service:Kitchen remodeling: real photo images/maps_01.jpg (alt: "Remodeled white kitchen with a center island, stainless refrigerator and wood-look floor opening to a dining table")
+- service:Bathroom remodeling: AI image ai_service_bathroom.jpg (alt: "White vanity with a brown-veined top and matching backsplash (illustration)")
+  - Prompt: Photorealistic photo of a finished bathroom in a 1990s two-story suburban home in the western suburbs of Chicago: a white shaker vanity with a white quartz top with soft brown veining, a matching full-height backsplash with the same brown veining, a matte black faucet, a framed round mirror, warm white walls, light oak-look floor tile, warm taupe and deep brown accents in towels, soft natural daylight from a window, uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.
+- service:Custom carpentry and woodwork: real photo images/maps_02.jpg (alt: "White shiplap fireplace wall with a rustic wood mantel on black brackets beside navy painted walls")
+- service:Walls, drywall and repairs: real photo images/social_01.jpg (alt: "Staircase with wood treads, black iron balusters and a black geometric trim accent wall")
+- service:Doors and smaller projects: AI image ai_service_front_door.jpg (alt: "Newly installed stained wood front door with white trim on a brick home (illustration)")
+  - Prompt: Photorealistic photo of a newly installed front entry door on a traditional brick and siding suburban home in the western suburbs of Chicago: a solid wood-look door in a warm brown stain with a narrow glass panel, black hardware, crisp white trim, a simple covered stoop with a potted plant, soft natural daylight, no people, no faces, no text, no house numbers, no logos, no brand names, 4:3 aspect ratio.
+- about: real photo images/maps_02.jpg (alt: "Shiplap fireplace wall with a rustic wood mantel built against navy walls")
+- gallery_1: real photo images/maps_01.jpg (alt: "Open-plan white kitchen with an island, glass-front upper cabinet, recessed lights and wood-look plank floor")
+- gallery_2: real photo images/maps_02.jpg (alt: "White shiplap fireplace surround with a linear electric fireplace and rustic wood mantel against navy walls")
+- gallery_3: real photo images/social_01.jpg (alt: "Wood stair treads with black iron spindles next to a black geometric trim accent wall and white wainscoting")
+- final_cta: real photo images/social_01.jpg (alt: "Wood staircase beside a black geometric trim accent wall")
+
+9 real photo slots, 2 AI slots.
 
 ## Brand
 
@@ -154,14 +203,14 @@ Socials: https://www.facebook.com/100067586964837, https://www.instagram.com/dmp
 - Palette: primary #372F26, accent #AFA293, light #F3F0EB, dark #1F1A15
 - Palette note: Primary #372F26 (circle and lettering) and accent #AFA293 (tree and house outline) come from the logo palette; light is a lighter tint of the logo's #D8D2CA and dark is a deeper shade of the primary brown for text.
 - Fonts: Raleway (headings), Lato (body)
-- Tagline: none found
+- Tagline: None
 - Style direction: Light, natural and calm: warm off-white backgrounds, thin geometric type like the logo, and the earthy brown and taupe of the tree mark, letting the woodwork photos carry the page.
 
 ## Images not to use
 
 - none
 
-## Outreach
+## Outreach (not on the page)
 
 - Specific detail: The stairway job where you pulled off old wood paneling, found 'a time capsule of drywall disasters' and skim coated it before building that black geometric accent wall.
 - Angle: You have a perfect 5.0 from 16 Google reviews and clients who name Darren and hire you twice, but only 3 photos on Google and no website, so people searching for a remodeler in Batavia or Naperville never see your kitchens, baths and carpentry.
@@ -193,6 +242,5 @@ Socials: https://www.facebook.com/100067586964837, https://www.instagram.com/dmp
 - Warranty
 - Free estimates (not stated, so the CTA says 'Request an estimate')
 - Financing
-- Bathroom and front door project photos (the vanity post has no image in the set)
-- Only 3 project photos available, below the 6 to 10 wanted for the gallery
 - Only 3 Google review texts captured (Gemini's review is Insider Pages boilerplate, not a real review)
+- Needs project photos: only 3 exist, so the gallery has 3 and the bathroom and front door cards use AI illustrations (the vanity post image was not captured)

@@ -62,7 +62,7 @@ CK Tile installs kitchen backsplashes as well as bathrooms, as the business note
 
 **Fair, clear pricing.** Rachel calls Ciro fair with pricing and easy to communicate with. Michael had two bathrooms remodeled and describes the work as high quality at a fair price.
 
-**Precise tile layout.** Francisco centered the tile around a large glass block window in Rachel's shower. As an engineer with picky taste, she says the attention to detail impressed her.
+**Precise, tidy work.** Reviewers praise the attention to detail in the tile layout, and two Google reviews mention a tidy workspace, so your home is treated with care while the work goes on.
 
 ## About Ciro and the CK Tile team
 

@@ -32,7 +32,7 @@ The shop stands out on difficult jobs. One customer's kitchen had unlevel cabine
 
 ### Granite countertops
 
-Granite for kitchens, bars and desks, templated and installed by the shop's own crew. On one remodel they fabricated around three load-bearing posts, added braces under the bar, desk and sink, and brought extra hands to carry the heavy slabs safely.
+Granite for kitchens, bars and desks, templated and installed by the shop's own crew. The crew plans seams so they are hard to spot, adds braces where a bar, desk or sink needs extra support, and brings enough hands to carry heavy slabs safely.
 
 *Image: images/maps_05.jpg (alt: Granite countertops and bar on honey oak cabinets, fitted around wood posts in an open kitchen)*
 

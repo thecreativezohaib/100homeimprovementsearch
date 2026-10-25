@@ -2,12 +2,12 @@
 
 ## SEO
 
-- Title tag: Custom Cabinets & Woodwork Polson MT | Jackson Woodworks
+- Title tag: Custom Cabinets Polson, MT | Woodwork by Jackson Woodworks
 - Meta description: Custom cabinets in Polson, MT, built by Bob Jackson: cabinetry, built-in desks, cutting boards, benches and wood repairs. 5.0 from 5 Google reviews.
 - Primary keyword: custom cabinets Polson
 - Secondary keywords: cabinet maker Polson MT, custom woodworking Polson Montana, built-in desk and cabinets Polson, custom cutting boards Polson, furniture repair Polson MT, kitchen cabinetry Polson
 - OG title: Custom Cabinets in Polson, MT | Jackson Woodworks
-- OG description: Bob Jackson builds custom cabinets, built-ins and furniture by hand in Polson, and fixes the small things too. Rated 5.0 on Google.
+- OG description: Bob Jackson builds custom cabinets, built-ins and furniture in Polson, and fixes the small things too. Rated 5.0 on Google.
 
 ## Hero
 
@@ -15,18 +15,18 @@
 
 # Custom Cabinets in Polson, MT
 
-Bob Jackson builds custom cabinets, built-ins and furniture by hand, and is just as happy to take on a small wood repair.
+Bob Jackson builds custom cabinets, built-ins and furniture in Polson, and he also takes on small wood repairs.
 
 - Primary button: Call (406) 600-4443 (tel:+14066004443)
 - Secondary button: Ask about your project (#contact)
 - Trust badges: 5.0 stars from 5 Google reviews | Owner-run by Bob Jackson | Open 7 days, 8 AM to 5 PM | Polson, MT workshop
-- Hero image: images/maps_01.jpg (alt: "Custom cabinets by Jackson Woodworks of Polson: stained wood tall cabinet, upper shelves and a built-in corner desk with drawers")
+- Hero Image: images/maps_01.jpg (alt: "Custom cabinets in Polson, MT from Jackson Woodworks: stained wood tall cabinet, upper shelves and a built-in corner desk with drawers")
 
 ## Custom Cabinets in Polson, Built One Piece at a Time
 
-Jackson Woodworks is a cabinet maker in Polson, Montana, building custom cabinets and woodwork for local homes. Owner Bob Jackson does the work himself, from tall raised-panel cabinets and built-in desks to the small details that make a kitchen work better day to day.
+Jackson Woodworks builds custom cabinets in Polson, Montana, along with built-ins and other woodwork for local homes. Owner Bob Jackson is the name customers know, and his work runs from tall raised-panel cabinets and built-in desks to small kitchen pieces like cutting boards fitted over a cooktop.
 
-Customers talk about Bob as much as the wood. Carl R. calls him an artist and a craftsman who takes the time to do it right. Teri W. points out that he is just as happy with a couple of small repair jobs as with larger, beautiful pieces, and Patricia J. says repairs are quick, friendly and not a lot of money.
+Customers talk about Bob as much as the wood. Carl R. calls him an artist and a craftsman who takes the time to do it right. Teri W. recommends him for little repair jobs as well as larger, beautiful work, and Patricia J. says you get things repaired quickly for not a lot of hassle or money.
 
 ## Woodwork From the Polson Shop
 
@@ -34,7 +34,7 @@ Customers talk about Bob as much as the wood. Carl R. calls him an artist and a 
 
 Cabinets built to fit the room rather than chosen from a catalog. The example here pairs a tall raised-panel cabinet with open upper shelves and a wraparound built-in desk with file drawers, all in a warm stained wood with crown on top.
 
-Image: images/maps_01.jpg (alt: "Stained wood built-in office with a tall two-door cabinet, upper shelves and an L-shaped desk with drawers")
+Image: images/maps_01.jpg (alt: "Stained wood built-in office with a tall two-door raised-panel cabinet, upper shelves and an L-shaped desk with drawers")
 
 ### Kitchen woodwork and cutting boards
 
@@ -44,15 +44,15 @@ Image: images/maps_02.jpg (alt: "Two fitted hardwood cutting boards covering a s
 
 ### Furniture, benches and stairs
 
-Handmade furniture and finish carpentry. The Jackson Woodworks banner shows a solid wood bench with a curved slatted back, a wood staircase with railings in a vaulted room, and a wood kitchen with an island, all examples of the larger work Bob takes on.
+Handmade furniture and finish carpentry. The Jackson Woodworks banner shows a solid wood bench with a curved slatted back, a wood staircase with railings in a vaulted room and a wood kitchen with an island, examples of the larger work Bob takes on.
 
 Image: images/social_02.jpg (alt: "Jackson Wood Works banner with photos of a wood staircase, a slatted wood bench and a wood kitchen")
 
 ### Repairs and small jobs
 
-Not every job needs to be big. Reviewers have brought Bob a couple of small repair jobs and other things to fix, and say he finished quickly, did a wonderful job and kept the cost low. Call him before you replace something that might be saved.
+Not every job needs to be big. Reviewers have brought Bob small repair jobs and say he finished them quickly, did a wonderful job and kept the cost low. If a favorite wood piece is damaged, call him before you replace something that might be saved.
 
-Image: none available
+Image: AI-generated, ai_service_repairs.jpg (alt: "Refinished wooden chair on a workshop bench beside hand tools (illustration)")
 
 ## Why Polson Homeowners Call Bob
 
@@ -62,29 +62,29 @@ Image: none available
 
 **Fair prices, fast repairs.** Patricia J. describes the shop as friendly and inexpensive, and says you will get your things repaired quickly for not a lot of hassle or money.
 
-**Polite and professional.** Reviewers call Bob very polite and professional, and a good man to boot. He also replies to his reviews himself and makes sure customers are satisfied.
+**Polite and professional.** Reviewers call Bob very polite and professional, and a good man to boot. In his reply to one review, he says he makes sure all his customers are satisfied.
 
 ## Meet Bob Jackson
 
-Jackson Woodworks is Bob Jackson's shop on Courville Trail in Polson, Montana. Bob is a cabinet maker who builds custom cabinets, built-ins and furniture, and his customers describe him as an artist and a craftsman. The shop's hand-carved sign, burned wood with raised letters, says a lot about how he works: by hand and with care. Alongside the larger custom pieces, Bob takes on small repair jobs, and reviewers say he finishes them quickly and does a wonderful job. He replies to his reviews in person.
+Jackson Woodworks is Bob Jackson's shop on Courville Trail in Polson, Montana. Bob is a cabinet maker who builds custom cabinets, built-ins and furniture, and his customers describe him as an artist and a craftsman who takes the time to do it right. The shop's sign is a slab of wood with the name carved and burned into it, which suits the work. Alongside the larger custom pieces, Bob takes on small repair jobs, and reviewers say he finishes them quickly and does a wonderful job.
 
 Owner: Bob Jackson (Owner and cabinet maker)
 
-Image: images/logo.jpg (alt: "Hand-carved Jackson Woodworks sign on a workbench with hand planes, a chisel and a carpenter's pencil in wood shavings")
+Image: images/logo.jpg (alt: "Carved and burned Jackson Woodworks sign on a workbench with hand planes, a chisel and a carpenter's pencil in wood shavings")
 
 ## How a Custom Piece Comes Together
 
 1. **Call the shop.** Call (406) 600-4443 any day between 8 AM and 5 PM and describe the piece, the room or the repair.
 2. **Look and measure.** Bob looks at the space or the item, takes measurements and talks through wood, finish and how you will use it.
 3. **Build in the shop.** The piece is built in the Polson shop. As one reviewer put it, he takes the time to do it right.
-4. **Install or pick up.** Built-ins are installed in your home, and repairs or furniture are ready for you to collect when finished.
+4. **Install or pick up.** Built-ins are fitted in your home, and repairs or furniture are ready for you when finished. Ask Bob how pickup or delivery works for your piece.
 
 ## Work From Jackson Woodworks
 
-- images/maps_01.jpg: Built-in office cabinetry (alt: "Stained wood cabinet, open shelves and built-in corner desk beside a window")
+- images/maps_01.jpg: Built-in office cabinetry (alt: "Stained wood cabinet, open shelves and a built-in corner desk beside a window")
 - images/maps_02.jpg: Cutting boards made to fit the cooktop (alt: "Fitted hardwood cutting boards over a gas cooktop on a granite island")
 - images/social_02.jpg: Stairs, bench and kitchen (alt: "Banner showing a wood staircase, a curved-back wood bench and a wood kitchen")
-- images/logo.jpg: The hand-carved shop sign (alt: "Hand-carved and burned Jackson Woodworks sign with hand tools and wood shavings")
+- images/logo.jpg: The Jackson Woodworks sign (alt: "Carved and burned Jackson Woodworks sign with hand tools and wood shavings")
 
 ## What Customers Say About Bob
 
@@ -102,7 +102,7 @@ Image: images/logo.jpg (alt: "Hand-carved Jackson Woodworks sign on a workbench 
 
 ## Serving Polson, Montana
 
-Jackson Woodworks is based at 34598 Courville Trail in Polson, Montana. Custom cabinets and built-ins are made in the shop and fitted in your home, and smaller repairs can be brought in. If you live in or around Polson and have a project or a piece that needs fixing, give Bob a call to check his schedule and talk it through.
+Jackson Woodworks is based at 34598 Courville Trail in Polson, Montana. Custom cabinets and built-ins are made for homes in the area, and Bob also handles smaller repairs. If you live in or around Polson and have a cabinet project or a piece that needs fixing, give Bob a call at (406) 600-4443 to check his schedule and talk it through.
 
 Towns: Polson, MT
 
@@ -118,7 +118,7 @@ Custom cabinets made to fit the room, like the stained wood office built-in with
 
 ### When is the shop open?
 
-Jackson Woodworks lists its hours as 8 AM to 5 PM every day of the week, Sunday through Saturday. Bob may be in the middle of a build, so if the phone rings out, a voicemail with your number and what you need will get a call back.
+Jackson Woodworks lists its hours as 8 AM to 5 PM every day of the week, Sunday through Saturday. Bob may be in the middle of a build when you call, so if he does not pick up, leave a voicemail with your name, your number and a short note about what you need.
 
 ### Where are you located?
 
@@ -126,7 +126,7 @@ The shop is at 34598 Courville Trail, Polson, MT 59860. Custom cabinets and buil
 
 ### How long does a custom project take?
 
-Timing comes down to how big the piece is and what else Bob has on the bench. Customers say Bob takes the time to do it right on custom work, and finishes small repairs quickly. He will give you a realistic idea of timing when he has seen the job and talked through the details.
+Timing comes down to how big the piece is and what else Bob has on the bench. Customers say he takes the time to do it right on custom work and finishes small repairs quickly. Ask him about timing once he has seen the job and you have talked through the details.
 
 ## Have a Piece in Mind?
 
@@ -136,14 +136,14 @@ Button: Call (406) 600-4443 (tel:+14066004443). Phone: (406) 600-4443
 
 ## Footer
 
-- Jackson Woodworks
-- 34598 Courville Trail, Polson, MT 59860
+- Name: Jackson Woodworks
+- Address: 34598 Courville Trail, Polson, MT 59860
 - Phone: (406) 600-4443
 - Email: bozemanwood@gmail.com
 - Socials: https://www.facebook.com/p/Jackson-Woodworks-100069990757827
 - Hours: Every day 8 AM to 5 PM
 
-## Schema JSON-LD
+## Schema (JSON-LD)
 
 ```json
 {
@@ -180,6 +180,23 @@ Button: Call (406) 600-4443 (tel:+14066004443). Phone: (406) 600-4443
 }
 ```
 
+## Image plan
+
+- hero: real photo images/maps_01.jpg (alt: "Custom cabinets in Polson, MT from Jackson Woodworks: stained wood tall cabinet, upper shelves and a built-in corner desk with drawers")
+- service:Custom cabinetry and built-ins: real photo images/maps_01.jpg (alt: "Stained wood built-in office with a tall two-door raised-panel cabinet, upper shelves and an L-shaped desk with drawers")
+- service:Kitchen woodwork and cutting boards: real photo images/maps_02.jpg (alt: "Two fitted hardwood cutting boards covering a stainless gas cooktop on a granite island with a mosaic tile backsplash")
+- service:Furniture, benches and stairs: real photo images/social_02.jpg (alt: "Jackson Wood Works banner with photos of a wood staircase, a slatted wood bench and a wood kitchen")
+- service:Repairs and small jobs: AI image ai_service_repairs.jpg (alt: "Refinished wooden chair on a workshop bench beside hand tools (illustration)")
+  - Prompt: Photorealistic photo of a small woodworking shop in rural western Montana: a solid wood dining chair, freshly repaired and refinished in a warm walnut stain, standing on a sturdy workbench, a few hand planes and chisels neatly laid beside it, light wood shavings, warm walnut brown and cream tones, soft natural light from a shop window, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.
+- about: real photo images/logo.jpg (alt: "Carved and burned Jackson Woodworks sign on a workbench with hand planes, a chisel and a carpenter's pencil in wood shavings")
+- gallery_1: real photo images/maps_01.jpg (alt: "Stained wood cabinet, open shelves and a built-in corner desk beside a window")
+- gallery_2: real photo images/maps_02.jpg (alt: "Fitted hardwood cutting boards over a gas cooktop on a granite island")
+- gallery_3: real photo images/social_02.jpg (alt: "Banner showing a wood staircase, a curved-back wood bench and a wood kitchen")
+- gallery_4: real photo images/logo.jpg (alt: "Carved and burned Jackson Woodworks sign with hand tools and wood shavings")
+- final_cta: real photo images/maps_02.jpg (alt: "Hardwood cutting boards fitted over a gas cooktop on a granite island")
+
+10 real photo slots, 1 AI slots.
+
 ## Brand
 
 - Logo: images/logo.jpg
@@ -189,14 +206,14 @@ Button: Call (406) 600-4443 (tel:+14066004443). Phone: (406) 600-4443
 - Tagline: None
 - Style direction: Warm workshop feel: wood-brown and cream, a slab serif for headings, and the hand-carved sign photo used as the logo; the banner's hand-lettered style can be echoed with Amatic SC for the wordmark only.
 
-### Images not to use
+## Images not to use
 
 - images/social_01.jpg: duplicate of logo.jpg
 
 ## Outreach (not on the page)
 
 - Specific detail: The fitted hardwood cutting boards you made to sit over that gas cooktop, turning the burners into prep space.
-- Angle: Teri's review sends people to 'the larger, beautiful work you can see on his website', but there is no website on your Google profile now. Five 5-star reviews and a sign you carved yourself deserve a page that shows your cabinets again.
+- Angle: Teri's review sends people to 'the larger, beautiful work you can see on his website', but there is no website on your Google profile now. Five 5-star reviews and work like your built-ins deserve a page that shows your cabinets again.
 - Subject line idea: Teri mentioned your website. Want it back?
 
 ## Facts used
@@ -213,7 +230,7 @@ Button: Call (406) 600-4443 (tel:+14066004443). Phone: (406) 600-4443
 
 ## Missing
 
-- Only 4 usable photos exist (gallery has 4, below the 6 minimum); ask Bob for more project photos
+- Needs project photos: only 3 project images plus the shop sign exist, so the gallery has 4 (below the 6 minimum) and the repairs card uses an AI illustration; ask Bob for more photos
 - The Instagram account @jackson_woodworks found by Gemini belongs to a cabinetmaker in Yorkshire, UK; not used and Gemini's services list (kitchen remodeling, countertops, flooring) left out
 - Email bozemanwood@gmail.com could not be confirmed on its source page; verify before sending
 - Years in business not stated (a 2018 local newspaper article exists but its text was not captured)

@@ -15,19 +15,18 @@
 
 # Custom Cabinetry in Phoenix, OR
 
-William Olsen designs and builds built-ins, kitchen cabinets and fine furniture by hand in figured maple, cherry, walnut and elm, for homes and businesses.
+William Olsen designs and builds built-ins, kitchen cabinets and fine furniture in cherry, figured maple, walnut and elm, for homes and businesses.
 
-[Call (541) 326-1652](tel:+15413261652)  |  [Request a quote](#contact)
-
-Trust badges: 5.0 stars from 15 Google reviews · Built by William Olsen himself · Fully equipped woodworking shop · Residential and commercial work
-
-Hero image: `images/maps_01.jpg` (Wall-length cherry built-in with lit display shelves, framed painting niche and lower cabinets, custom cabinetry Phoenix OR by William Olsen Designs)
+- Primary button: Call (541) 326-1652 (tel:+15413261652)
+- Secondary button: Request a quote (#contact)
+- Trust badges: 5.0 stars from 15 Google reviews | Designed by William Olsen | Fully equipped woodworking shop | Residential and commercial work
+- Hero Image: images/maps_01.jpg (alt: "Custom cabinetry in Phoenix, OR by William Olsen Designs: wall-length cherry built-in with lit display shelves, a framed painting niche and lower cabinets")
 
 ## Cabinetry and furniture built as one-of-a-kind pieces
 
-William Olsen Designs makes custom cabinetry in Phoenix, OR, and treats every cabinet like a piece of fine furniture. The drawers are dovetailed, the woods are chosen for their figure, and each design is drawn for the room it will live in.
+William Olsen Designs makes custom cabinetry in Phoenix, OR, with the eye of a fine furniture maker. Cherry drawers are joined with exposed dovetails, woods are picked for their figure, and built-ins are designed around the room they will live in.
 
-One family has four large built-ins from William and says visitors admire them every time. Another client commissioned a dining table in Chinese elm and English walnut, plus a cherry blossom triptych for the wall behind it. Clients are honest that custom costs a bit more than average, and just as clear that the result is worth it.
+One family has four large built-ins from William and says visitors admire them every time. Another client commissioned a dining table in Chinese elm and English walnut, plus a cherry blossom triptych for the wall behind it. She is honest that his prices may be a bit more than average, and just as clear that the one-of-a-kind result is worth it.
 
 ## What William builds
 
@@ -35,68 +34,68 @@ One family has four large built-ins from William and says visitors admire them e
 
 Full-wall cabinetry with lit display shelves, art niches and drawers below, designed around your room and what you want to show. One client has four large built-ins in her home and calls each one a statement of design, creativity and function.
 
-Image: `images/maps_05.jpg` (Cherry wall unit with glowing display shelves, a framed landscape painting niche and cabinet doors below)
+Image: images/maps_05.jpg (alt: "Cherry wall unit with glowing display shelves, a framed landscape painting niche and cabinet doors below")
 
 ### Kitchen cabinets
 
-Solid wood kitchen cabinetry built in the shop and fitted on site, like this warm wood kitchen with open corner shelves, a tiled backsplash and trim that frames the window over the sink. Cabinets are made to fit your walls rather than standard box sizes.
+Solid wood kitchen cabinetry built in the shop and fitted on site, like this warm wood kitchen with open corner shelves, a tiled backsplash and trim that frames the window over the sink. Each kitchen is made to fit its own walls.
 
-Image: `images/social_04.jpg` (Wood kitchen cabinets around a double window with green tile backsplash and open corner shelving)
+Image: images/social_04.jpg (alt: "Wood kitchen cabinets around a double window with a green tile backsplash and open corner shelving")
 
 ### Fine furniture
 
 Dining tables, sideboards and entryway tables in eastern cherry, figured maple, western black walnut, bigleaf maple, Chinese elm and English walnut. A reviewer calls her elm and walnut table stunning and describes the work as fine, one-of-a-kind custom furniture.
 
-Image: `images/cover.jpg` (Cherry sideboard with three paneled doors set in a black frame on a light wood floor)
+Image: images/cover.jpg (alt: "Cherry sideboard with three paneled doors set in a black frame on a light wood floor")
 
 ### Wall art and small pieces
 
 Not every commission is large. William has made a cherry blossom triptych to hang above a dining table and builds traditional sushi trays to order in figured maple, black walnut, cherry and rosewood. Ask for a quote on smaller pieces too.
 
-Image: `images/maps_04.jpg` (Three-panel cherry blossom wood art above a hardwood dining table with orange chairs)
+Image: images/maps_04.jpg (alt: "Three-panel cherry blossom wood art above a hardwood dining table with orange chairs")
 
-### Vehicle and commercial interiors
+### Vans and commercial work
 
-The shop works for residential and commercial clients. In 2013 William designed and built birch side panels for a Sprinter van, and seven years later the owner said the panels were still serving him beautifully.
+The shop works for residential and commercial clients, and not every project is a house. In 2013 William helped design and build birch side panels for a Sprinter van, and seven years later the owner said the panels were still serving him beautifully.
 
-Image: `images/social_02.jpg` (Rough hardwood slab being milled on a jointer in the William Olsen Designs shop)
+Image: AI-generated, ai_service_van_interior.jpg (alt: "Camper van interior lined with light birch wall panels and a birch bed base (illustration)")
 
 ## Why clients choose William
 
-**Furniture-grade joinery**: Drawers are joined with exposed dovetails, like the cherry drawers in our photos, and frames are built to last. A van owner says panels William built in 2013 were still performing seven years later.
+**Furniture-grade joinery.** Drawers are joined with exposed dovetails, like the cherry drawers in the shop's photos. A van owner says panels William built in 2013 were still serving him beautifully seven years later.
 
-**Wood with character**: William works in figured maple, eastern cherry, western black walnut, bigleaf maple, Chinese elm, English walnut and birch, choosing boards for their grain and color.
+**Wood with character.** William works in figured maple, eastern cherry, western black walnut, bigleaf maple, Chinese elm, English walnut and birch, and the finished pieces show off the grain.
 
-**A real professional shop**: A client points out that the shop has the latest, top-notch tools and equipment, and calls it an incredibly professional custom woodworking outfit, not a garage operation.
+**A real professional shop.** A client points out that the shop has the latest, top-notch tools and equipment, and calls it an incredibly professional custom woodworking outfit, not a garage operation.
 
-**Easy to work with**: Reviewers describe William as a joy to work with, a stand up businessman with integrity and a great sense of humor. One family says they would use no one else.
+**Easy to work with.** Reviewers describe William as a joy to work with, a stand up businessman with integrity and a great sense of humor. One family says they would use no one else.
 
 ## About William Olsen
 
-William Olsen Designs is a cabinet and fine furniture shop at 216 Houston Rd in Phoenix, Oregon. William specializes in sustainably eco-friendly fine furniture and custom cabinetry, and he designs and builds the work himself. His clients use words like artistry and integrity. They also mention his sense of humor and how easy he is to work with. The shop handles residential and commercial projects, from four-piece built-in wall systems and kitchen cabinets to a single walnut entryway table, and William's own Facebook posts invite you to request a quote on any piece.
+William Olsen Designs is a cabinet and fine furniture shop at 216 Houston Rd in Phoenix, Oregon. The business specializes in sustainably eco-friendly fine furniture and custom cabinetry, and William designs the work and builds it in his own shop. His clients use words like artistry and integrity, and also mention his great sense of humor and how easy he is to work with. The shop handles residential and commercial projects, from large built-ins and kitchen cabinets to a single entryway table, and his Facebook posts invite you to request a quote.
 
 Owner: William Olsen (Designer and woodworker, namesake of the business)
 
-Image: `images/social_02.jpg` (Live-edge hardwood slab on a jointer bed inside the woodworking shop)
+Image: images/social_02.jpg (alt: "Live-edge hardwood slab on a jointer bed inside the woodworking shop")
 
 ## How a custom piece comes together
 
-1. **Request a quote**: Call (541) 326-1652 or email willolsendesigns@aol.com with what you have in mind, the room it is for and any photos or measurements.
-2. **Design together**: William works through the design with you, balancing looks and function, the way one client says he helped design her multifaceted van panels.
-3. **Choose the wood**: Pick from species like cherry, figured maple, black walnut, bigleaf maple or elm, and William selects boards with the grain your piece needs.
-4. **Build in the shop**: Your cabinetry or furniture is milled, joined and finished in the Phoenix shop using professional tools and equipment, with built-ins and cabinets then fitted in place.
+1. **Request a quote.** Call (541) 326-1652 or email willolsendesigns@aol.com with what you have in mind, the room it is for and any photos or measurements.
+2. **Design together.** William works through the design with you, balancing looks and function, the way one client says he helped design his multifaceted van panels.
+3. **Choose the wood.** Pick from species like cherry, figured maple, black walnut, bigleaf maple or elm, and William selects boards with the grain your piece needs.
+4. **Build in the shop.** Your cabinetry or furniture is milled, joined and finished in the Phoenix shop using professional tools and equipment, with built-ins and cabinets then fitted in place.
 
 ## Built-ins, cabinets and furniture from the shop
 
-- `images/maps_01.jpg`: One of four large built-ins for a client's home (alt: Long cherry built-in wall unit with lit open shelves, decor and a painting niche beside a dining area)
-- `images/maps_05.jpg`: Display shelves with built-in lighting (alt: Close view of a cherry built-in with up-lit shelves, blue vase and framed landscape painting)
-- `images/social_04.jpg`: Wood kitchen with tiled backsplash (alt: Warm wood kitchen cabinets with green ceramic tile backsplash and a double window over the sink)
-- `images/cover.jpg`: Cherry sideboard with black frame (alt: Cherry sideboard with three raised-panel doors in an ebonized frame)
-- `images/social_01.jpg`: Dovetailed cherry drawers (alt: Cherry drawers with exposed dovetail joints in a black frame)
-- `images/maps_02.jpg`: Dining table in Chinese elm and English walnut (alt: Rectangular dining table with figured elm top and dark walnut border, orange upholstered chairs)
-- `images/maps_03.jpg`: Elm and walnut tabletop detail (alt: Close-up of figured elm tabletop framed by a dark English walnut border)
-- `images/maps_04.jpg`: Table and cherry blossom triptych (alt: Dining room with hardwood table and a three-panel cherry blossom art piece on the wall)
-- `images/social_02.jpg`: Milling a slab in the Phoenix shop (alt: Thick rough-sawn hardwood slab being flattened on a jointer)
+- images/maps_01.jpg: One of four large built-ins for a client's home (alt: "Long cherry built-in wall unit with lit open shelves, decor and a painting niche beside a dining area")
+- images/maps_05.jpg: Display shelves with built-in lighting (alt: "Close view of a cherry built-in with up-lit shelves, blue vase and framed landscape painting")
+- images/social_04.jpg: Wood kitchen with tiled backsplash (alt: "Warm wood kitchen cabinets with green ceramic tile backsplash and a double window over the sink")
+- images/cover.jpg: Cherry sideboard with black frame (alt: "Cherry sideboard with three raised-panel doors in an ebonized frame")
+- images/social_01.jpg: Dovetailed cherry drawers (alt: "Cherry drawers with exposed dovetail joints in a black frame")
+- images/maps_02.jpg: Dining table in Chinese elm and English walnut (alt: "Rectangular dining table with figured elm top and dark walnut border, orange upholstered chairs")
+- images/maps_03.jpg: Elm and walnut tabletop detail (alt: "Close-up of figured elm tabletop framed by a dark English walnut border")
+- images/maps_04.jpg: Table and cherry blossom triptych (alt: "Dining room with hardwood table and a three-panel cherry blossom art piece on the wall")
+- images/social_02.jpg: Milling a slab in the Phoenix shop (alt: "Thick rough-sawn hardwood slab being flattened on a jointer")
 
 ## From William's clients
 
@@ -117,29 +116,29 @@ One-of-a-kind work! I can't recommend enough."
 
 ## Custom cabinetry in Phoenix, OR
 
-The shop is at 216 Houston Rd in Phoenix, Oregon, and Phoenix is the town listed for our work. Cabinetry and built-ins are installed in your home, while furniture and smaller pieces are built in the shop. If you are nearby and want to know whether William can take on a built-in or kitchen at your address, call (541) 326-1652.
+The shop is at 216 Houston Rd in Phoenix, Oregon, and Phoenix is the town listed for the business. Cabinetry and built-ins are fitted in your home, while furniture and smaller pieces are built in the shop. If you are nearby and want to know whether William can take on a built-in or kitchen at your address, call (541) 326-1652.
 
 Towns: Phoenix, OR
 
 ## Questions about custom work
 
-**What does William Olsen Designs make?**
+### What does William Olsen Designs make?
 
 Custom cabinetry, large built-ins and wall units, kitchen cabinets and fine furniture such as dining tables, sideboards and entryway tables. William has also made wall art, traditional sushi trays and birch panels for a Sprinter van. The shop takes residential and commercial work.
 
-**Is custom furniture more expensive?**
+### Is custom furniture more expensive?
 
 Usually a little. One client wrote that William's prices may be a bit more than the average furniture or cabinet maker, but that what you get is fine, one-of-a-kind custom work. Call for a quote on your piece so you know the cost before work starts.
 
-**Which woods can I choose from?**
+### Which woods can I choose from?
 
-Recent pieces use eastern cherry, figured maple, western black walnut, bigleaf maple, Chinese elm, English walnut and birch, with rosewood offered for small items. William focuses on sustainably eco-friendly fine furniture and cabinetry, so ask about the source of the wood for your project.
+Pieces shown in reviews and on Facebook use eastern cherry, figured maple, western black walnut, bigleaf maple, Chinese elm, English walnut and birch, with rosewood offered for small items. William focuses on sustainably eco-friendly fine furniture and cabinetry, so ask about the source of the wood for your project.
 
-**What are your hours?**
+### What are your hours?
 
-The shop is open Monday to Thursday from 7:30 AM to 5 PM and Friday from 7:30 AM to 4 PM. It is closed on Saturday and Sunday. Call (541) 326-1652 during those hours or email willolsendesigns@aol.com any time.
+The shop is open Monday to Thursday from 7:30 AM to 5 PM and Friday from 7:30 AM to 4 PM. It is closed on Saturday and Sunday. Call (541) 326-1652 during those hours or email willolsendesigns@aol.com any time with photos or a sketch of your idea.
 
-**Where is the shop?**
+### Where is the shop?
 
 William Olsen Designs is at 216 Houston Rd, Phoenix, OR 97535. The shop is set up with professional woodworking tools and equipment, which one client called incredibly professional. Please call ahead at (541) 326-1652 before visiting so William can make time to talk.
 
@@ -147,34 +146,91 @@ William Olsen Designs is at 216 Houston Rd, Phoenix, OR 97535. The shop is set u
 
 Tell William about the room and the wood you love, and ask for a quote.
 
-[Call (541) 326-1652](tel:+15413261652) · (541) 326-1652
+Button: Call (541) 326-1652 (tel:+15413261652). Phone: (541) 326-1652
 
 ## Footer
 
-William Olsen Designs  
-216 Houston Rd, Phoenix, OR 97535  
-(541) 326-1652  
-willolsendesigns@aol.com  
-Hours: Monday to Thursday 7:30 AM to 5 PM, Friday 7:30 AM to 4 PM, Saturday and Sunday closed  
-Socials: https://www.facebook.com/williamolsendesigns, https://www.google.com/maps/place/?q=place_id:ChIJS83TeXp3z1QR_9eD07R6wss&hl=en
+- Name: William Olsen Designs
+- Address: 216 Houston Rd, Phoenix, OR 97535
+- Phone: (541) 326-1652
+- Email: willolsendesigns@aol.com
+- Socials: https://www.facebook.com/williamolsendesigns, https://www.google.com/maps/place/?q=place_id:ChIJS83TeXp3z1QR_9eD07R6wss&hl=en
+- Hours: Monday to Thursday 7:30 AM to 5 PM, Friday 7:30 AM to 4 PM, Saturday and Sunday closed
 
----
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "William Olsen Designs",
+ "telephone": "+15413261652",
+ "email": "willolsendesigns@aol.com",
+ "founder": {
+  "@type": "Person",
+  "name": "William Olsen"
+ },
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "216 Houston Rd",
+  "addressLocality": "Phoenix",
+  "addressRegion": "OR",
+  "postalCode": "97535",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Phoenix, OR"
+ ],
+ "openingHours": [
+  "Mo-Th 07:30-17:00",
+  "Fr 07:30-16:00"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/williamolsendesigns",
+  "https://www.google.com/maps/place/?q=place_id:ChIJS83TeXp3z1QR_9eD07R6wss&hl=en"
+ ],
+ "image": "images/maps_01.jpg"
+}
+```
+
+## Image plan
+
+- hero: real photo images/maps_01.jpg (alt: "Custom cabinetry in Phoenix, OR by William Olsen Designs: wall-length cherry built-in with lit display shelves, a framed painting niche and lower cabinets")
+- service:Built-ins and wall units: real photo images/maps_05.jpg (alt: "Cherry wall unit with glowing display shelves, a framed landscape painting niche and cabinet doors below")
+- service:Kitchen cabinets: real photo images/social_04.jpg (alt: "Wood kitchen cabinets around a double window with a green tile backsplash and open corner shelving")
+- service:Fine furniture: real photo images/cover.jpg (alt: "Cherry sideboard with three paneled doors set in a black frame on a light wood floor")
+- service:Wall art and small pieces: real photo images/maps_04.jpg (alt: "Three-panel cherry blossom wood art above a hardwood dining table with orange chairs")
+- service:Vans and commercial work: AI image ai_service_van_interior.jpg (alt: "Camper van interior lined with light birch wall panels and a birch bed base (illustration)")
+  - Prompt: Photorealistic photo of the finished interior of a high-roof cargo van converted for travel: smooth light birch plywood wall panels with simple multifaceted angled sections, a birch platform bed base with storage drawers, warm cherry-toned trim, soft natural daylight through the open rear doors with a glimpse of a forested Southern Oregon mountain road, uncluttered, no people, no faces, no text, no logos, no brand names, no vehicle badges, 4:3 aspect ratio.
+- about: real photo images/social_02.jpg (alt: "Live-edge hardwood slab on a jointer bed inside the woodworking shop")
+- gallery_1: real photo images/maps_01.jpg (alt: "Long cherry built-in wall unit with lit open shelves, decor and a painting niche beside a dining area")
+- gallery_2: real photo images/maps_05.jpg (alt: "Close view of a cherry built-in with up-lit shelves, blue vase and framed landscape painting")
+- gallery_3: real photo images/social_04.jpg (alt: "Warm wood kitchen cabinets with green ceramic tile backsplash and a double window over the sink")
+- gallery_4: real photo images/cover.jpg (alt: "Cherry sideboard with three raised-panel doors in an ebonized frame")
+- gallery_5: real photo images/social_01.jpg (alt: "Cherry drawers with exposed dovetail joints in a black frame")
+- gallery_6: real photo images/maps_02.jpg (alt: "Rectangular dining table with figured elm top and dark walnut border, orange upholstered chairs")
+- gallery_7: real photo images/maps_03.jpg (alt: "Close-up of figured elm tabletop framed by a dark English walnut border")
+- gallery_8: real photo images/maps_04.jpg (alt: "Dining room with hardwood table and a three-panel cherry blossom art piece on the wall")
+- gallery_9: real photo images/social_02.jpg (alt: "Thick rough-sawn hardwood slab being flattened on a jointer")
+- final_cta: real photo images/maps_03.jpg (alt: "Close-up of a figured elm tabletop framed by a dark English walnut border")
+
+16 real photo slots, 1 AI slots.
 
 ## Brand
 
-- Logo: None
+- Logo: none
 - Palette: primary #875218, accent #9D6B34, light #F3F5F6, dark #2F1C0A
 - Palette note: No logo, so brand.json took the palette from the cover photo of the cherry sideboard: cherry #875218 as primary, honey #9D6B34 as accent, deep walnut #2F1C0A for text. Light is a lighter tint of the gallery-wall gray #D8E0E5.
 - Fonts: Cormorant Garamond (headings), Work Sans (body)
-- Tagline: none found
+- Tagline: None
 - Style direction: Gallery-like and quiet: generous white space, a refined serif, warm cherry and walnut tones, and large close-up photos of grain and joinery like a fine furniture catalog.
 
 ## Images not to use
 
-- `images/social_03.jpg`: Duplicate of social_02 (same slab on the jointer)
-- `images/maps_06.jpg`: A client posing in the back of his van; shows a person, not the cabinetry or furniture
+- images/social_03.jpg: Duplicate of social_02 (same slab on the jointer)
+- images/maps_06.jpg: A client posing in the back of his van; shows a person, not the cabinetry or furniture
 
-## Outreach
+## Outreach (not on the page)
 
 - Specific detail: The dining table in Chinese elm with an English walnut border that Erin Douglas loves, with the cherry blossom triptych you made for the wall behind it.
 - Angle: Your clients call your work artistry and you have a perfect 5.0 on Google, but the newest reviews are six years old and there is no website, so people looking for custom cabinetry in Phoenix, Oregon never see those cherry built-ins.
@@ -206,3 +262,4 @@ Socials: https://www.facebook.com/williamolsendesigns, https://www.google.com/ma
 - Recent reviews: all three captured reviews are 6 years old
 - Bathroom projects: Gemini lists kitchen remodeling, bathroom remodeling and flooring, but nothing in the photos or reviews shows bathroom or flooring work, so they were left out
 - Caption for social_04 (kitchen) is mislabeled as the sushi tray post; kitchen location and date unknown
+- No photo of the van panels or other commercial work without a person in frame (maps_06 shows the client): that service card uses an AI illustration

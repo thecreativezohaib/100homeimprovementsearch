@@ -40,7 +40,7 @@ Image: images/maps_03.jpg (real photo). Alt: Refaced oak kitchen cabinets with w
 
 When you want new cabinets, Nu-Look supplies and installs them. Customers describe the cabinets as excellent quality and very reasonably priced, and one family had their new cabinets installed in less than two days, with everything covered and cleaned up afterwards.
 
-Image: images/maps_02.jpg (real photo). Alt: Cream raised-panel kitchen cabinets with a tall pantry, brushed nickel pulls and crown moulding
+Image: images/maps_02.jpg (real photo). Alt: Cream raised-panel kitchen cabinets with a tall pantry, brushed nickel pulls and crown molding
 
 ### Countertops
 
@@ -125,7 +125,7 @@ Yes. Countertops come up in reviews, and Nu-Look's photos show white granite on 
 
 ### How long does installation take?
 
-It depends on the size of the kitchen and the work involved. Quick installs come up again and again in reviews, and one family's new cabinets were installed in less than two days. Older homes can bring surprises, and customers say the installers resolve those problems well.
+It depends on the size of the kitchen and the work involved. Quick installs are a recurring theme in reviews, and one family's new cabinets were installed in less than two days. Older homes can bring surprises, and customers say the installers resolve those problems well.
 
 ### How do I get started?
 
@@ -181,7 +181,7 @@ Button: Call (563) 582-4680 (tel:+15635824680) | Phone: (563) 582-4680
 
 - hero: images/maps_02.jpg (real). Alt: Cream raised-panel kitchen cabinets and a white granite island by Nu-Look Kitchens, a cabinet refacing company in Dubuque, IA
 - service:Cabinet refacing: images/maps_03.jpg (real). Alt: Refaced oak kitchen cabinets with white countertops, glass mosaic backsplash and double stainless sink in a 60-year-old home
-- service:New kitchen cabinets: images/maps_02.jpg (real). Alt: Cream raised-panel kitchen cabinets with a tall pantry, brushed nickel pulls and crown moulding
+- service:New kitchen cabinets: images/maps_02.jpg (real). Alt: Cream raised-panel kitchen cabinets with a tall pantry, brushed nickel pulls and crown molding
 - service:Countertops: images/maps_04.jpg (real). Alt: U-shaped kitchen with refaced oak cabinets, light countertops and a double sink under the window
 - about: images/maps_01.jpg (real). Alt: Nu-Look Kitchens installers fitting white cabinets with glass-front uppers above new light stone countertops
 - gallery_1: images/maps_02.jpg (real). Alt: Cream raised-panel cabinets with white granite counters, granite island and grey glass hexagon backsplash

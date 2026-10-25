@@ -20,61 +20,61 @@ Alfonso Molina and AML Stoneworks fabricate and install stone counters, backspla
 - Primary button: Call (209) 622-7884 (tel:+12096227884)
 - Secondary button: Schedule a free estimate (#contact)
 - Trust badges: Free estimates | Fabrication and installation | Granite, marble, quartz and tile | Open 7 days
-- Hero image: images/cover.jpg (alt: "Countertop installation in the Central Valley: long gray and white granite island with undermount sink in a white shaker kitchen")
+- Hero Image: images/cover.jpg (alt: "Countertop installation in the Central Valley: long gray and white granite island with an undermount sink in a white shaker kitchen")
 
 ## Stone Counters Cut and Set by the Same Crew
 
-AML Stoneworks Countertops handles countertop installation across the Central Valley and the Bay Area, from pre-fabricated tops to full slabs. Owner Alfonso Molina comes out to measure, gives you a bid and sees the stone through to install.
+AML Stoneworks Countertops handles countertop installation across the Central Valley and the Bay Area, working from pre-fabricated pieces or full slabs. Owner Alfonso Molina comes out to take the measurements and gives you a bid before any stone is cut.
 
-The work goes beyond a single counter. Blanca T. had her kitchen remodeled and her outdoor kitchen started. Other projects show full-height marble-look backsplashes, waterfall islands and long granite islands. James L. says Alfonso is a true professional when it comes to counters and installation, and that the bid was reasonable. Estimates are free, and you can call or text to set one up.
+The work goes beyond a single counter. Blanca T. had her kitchen remodeled and her outdoor kitchen started. Their photos show long granite islands and white veined stone carried up the wall as a full-height backsplash. James L. says Alfonso is a true professional when it comes to counters and installation, and that the bid was reasonable. Estimates are free, and you can call or text to set one up.
 
 ## Countertop Installation and Stone Work in the Central Valley
 
 ### Granite, marble and quartz countertops
 
-Kitchen and bathroom counters in natural stone or quartz, fabricated and installed. AML handles everything from pre-fabricated pieces to full slabs, including large islands like the long granite top in the photo, which they described as one heavy piece.
+Kitchen and bathroom counters in granite, marble or quartz, fabricated and installed. AML works from pre-fabricated pieces or full slabs and takes on big islands too: one Facebook post describes a large top as one heavy piece that turned out very nice.
 
-Image: images/social_01.jpg (alt: "Kitchen with speckled granite countertops and full granite backsplash, a black undermount sink and a large picture window")
+Image: images/social_01.jpg (alt: "Kitchen with speckled granite countertops and a full granite backsplash, a black undermount sink and a large picture window")
 
 ### Full-height backsplashes
 
-Stone or quartz carried from the counter up the wall for a clean, grout-free backsplash. Several recent kitchens use a bright white quartz with gray and gold veining on both the counters and the full wall behind the range and sink.
+Stone carried from the counter up the wall for a clean backsplash with no grout lines. Several kitchens in their photos use a bright white stone with gray and gold veining on both the counters and the full wall behind the range and sink.
 
-Image: images/maps_02.jpg (alt: "White kitchen with veined white quartz countertops and a matching full-height backsplash during installation")
+Image: images/maps_02.jpg (alt: "White kitchen with veined white countertops and a matching full-height stone backsplash during installation")
 
 ### Kitchen remodels
 
-When the counters are part of a bigger change, AML works on the whole kitchen. Blanca T.'s kitchen went from honey oak cabinets and tile to gray shaker cabinets, a white island and marble-look counters with a matching backsplash.
+When the counters are part of a bigger change, AML helps with the wider kitchen remodel. One before and after on their Google profile shows a kitchen going from honey oak cabinets and tile to gray shaker cabinets, a white island and marble-look counters.
 
-Image: images/maps_04.jpg (alt: "Before and after of a kitchen: oak cabinets and tile floor replaced with gray cabinets, marble-look backsplash and plank floors")
+Image: images/maps_04.jpg (alt: "Before and after of a kitchen: oak cabinets and tile floor replaced with gray cabinets, a marble-look backsplash and plank floors")
 
 ### Outdoor kitchens
 
-Granite tops for outdoor kitchens and barbecue islands built on block bases. Blanca T. wrote that Alfonso brought her one step closer to finishing her outdoor kitchen, and the photo shows the granite set on the new block counter.
+Granite tops for outdoor kitchens and barbecue counters built on block bases. Blanca T. wrote that Alfonso brought her one step closer to completing her outdoor kitchen, and their photos show white and gray granite set on a new block counter.
 
 Image: images/maps_06.jpg (alt: "Outdoor kitchen block base topped with white and gray granite countertops on a concrete patio")
 
 ### Showers, floors and walls
 
-Granite, marble, quartz, stacked stone and tile installation is not just for counters. AML also sets stone and tile in showers, on floors and on walls, as listed on their business card and Facebook page. Ask about your bathroom at the estimate.
+Granite, marble, quartz, stacked stone and tile are not just for counters. AML also installs stone and tile in showers, on floors and on walls, as their business card and Facebook page say. Ask about your bathroom when they come out for the estimate.
 
-Image: none available
+Image: AI-generated, ai_service_showers.jpg (alt: "Walk-in shower with white veined stone walls, a stone bench and a frameless glass door (illustration)")
 
 ## Why Homeowners Call AML Stoneworks
 
-**Fabrication and installation in one place.** The business card says it plainly: fabrication and installation. Materials and install come from the same company, from pre-fabricated pieces to full slabs.
+**Fabrication and installation in one place.** Their business card says it plainly: fabrication and installation. The stone and the install come from the same company, whether the job uses pre-fabricated pieces or full slabs.
 
 **Free estimates, call or text.** AML offers free estimates and you can call or text to schedule one. James L. says Alfonso came out to measure and gave him a reasonable bid.
 
 **Easy to book, done on time.** Blanca T. wrote that it was easy to set up an appointment and everything was done on time, from the indoor kitchen to the start of her outdoor kitchen.
 
-**Open seven days.** Hours run Monday to Thursday 8 AM to 6 PM and Friday through Sunday 9 AM to 5 PM, so weekend measuring and questions are possible.
+**Open seven days.** Hours run Monday to Thursday 8 AM to 6 PM and Friday through Sunday 9 AM to 5 PM, so you can call or text with questions on the weekend too.
 
 ## About Alfonso Molina and AML Stoneworks
 
-AML Stoneworks Countertops is run by Alfonso Molina, whose name is on the company business card along with countertops, backsplash, showers and floors. The company fabricates and installs natural stone and quartz, and works throughout the Central Valley and the Bay Area. Alfonso does the measuring himself and answers his own Google reviews, thanking customers by name. Beyond full installs, AML keeps stone remnants on hand and ready to sell, which can suit a smaller project, and has also sold surplus pieces such as a cast iron sink.
+AML Stoneworks Countertops is run by Alfonso Molina, whose name is on the company business card along with countertops, backsplashes, showers and floors. The company fabricates and installs natural stone and quartz, and serves the whole Central Valley and the Bay Area. Customers say Alfonso came out to measure himself and gave a reasonable bid, and he answers his Google reviews, thanking customers by name. Beyond full installs, AML keeps stone remnants on hand and ready to sell, which can suit a smaller project like a vanity.
 
-Owner: Alfonso Molina (Owner (name on the business card))
+Owner: Alfonso Molina (Owner)
 
 Image: images/social_12.jpg (alt: "Large kitchen with natural wood cabinets and a big island with a dark stone top and four bar stools")
 
@@ -87,12 +87,12 @@ Image: images/social_12.jpg (alt: "Large kitchen with natural wood cabinets and 
 
 ## Recent Countertop Installations
 
-- images/cover.jpg: Granite island, white kitchen (alt: "Long gray and white granite island with undermount sink in a white shaker kitchen with stainless appliances")
-- images/social_01.jpg: Granite with full backsplash (alt: "Speckled granite counters with full granite backsplash along a large window")
-- images/social_02.jpg: Gold-veined quartz (alt: "White quartz with bold gold and gray veining on counters and backsplash during installation")
-- images/maps_02.jpg: Full-height quartz backsplash (alt: "Veined white quartz counters and full-height backsplash in a white shaker kitchen")
+- images/cover.jpg: Granite island, white kitchen (alt: "Long gray and white granite island with an undermount sink in a white shaker kitchen with stainless appliances")
+- images/social_01.jpg: Granite with full backsplash (alt: "Speckled granite counters with a full granite backsplash along a large window")
+- images/social_02.jpg: Gold-veined stone (alt: "White stone with bold gold and gray veining on the counters and backsplash during installation")
+- images/maps_02.jpg: Full-height backsplash (alt: "Veined white counters and a full-height backsplash in a white shaker kitchen")
 - images/social_12.jpg: Island in a wood kitchen (alt: "Wood kitchen with a large island topped in dark stone")
-- images/maps_03.jpg: Kitchen remodel, before and after (alt: "Before and after of a kitchen remodel with new gray cabinets, white marble-look island and backsplash")
+- images/maps_03.jpg: Kitchen remodel, before and after (alt: "Before and after of a kitchen remodel with new gray cabinets, a white marble-look island and backsplash")
 - images/maps_06.jpg: Outdoor kitchen granite (alt: "White and gray granite countertop on a block outdoor kitchen base")
 
 ## What Customers Say
@@ -107,7 +107,7 @@ Image: images/social_12.jpg (alt: "Large kitchen with natural wood cabinets and 
 
 ## Serving the Central Valley and the Bay Area
 
-AML Stoneworks says it serves all of the Central Valley and the Bay Area. In practice that covers kitchens, bathrooms and outdoor kitchens in towns across the valley and around the bay. If you are not sure whether your home is in range, call or text (209) 622-7884 with your city and a quick description of the counters you need replaced.
+AML Stoneworks says it serves all of the Central Valley and the Bay Area, and no showroom address is listed. The work they share includes indoor kitchens, a full-height backsplash and an outdoor kitchen. If you are not sure whether your home is in range, call or text (209) 622-7884 with your city and a quick description of the counters you need.
 
 Towns: Central Valley, CA, San Francisco Bay Area, CA
 
@@ -127,11 +127,11 @@ Yes. AML has posted that it keeps remnants on hand, ready to be sold, with price
 
 ### What areas do you serve?
 
-AML Stoneworks serves the whole Central Valley and the Bay Area. There is no showroom address listed, so the best first step is to call or text (209) 622-7884 with your city and project, and Alfonso will set up a time to come out and measure.
+AML Stoneworks serves the whole Central Valley and the Bay Area. There is no showroom address listed, so the best first step is to call or text (209) 622-7884 with your city and a short description of your project, then set up a time for the free estimate and measurements.
 
 ### What are your hours?
 
-Monday to Thursday from 8 AM to 6 PM, and Friday, Saturday and Sunday from 9 AM to 5 PM. That means you can reach AML seven days a week, including weekends, to ask a question or book a free measuring appointment at a time that suits you.
+Monday to Thursday from 8 AM to 6 PM, and Friday, Saturday and Sunday from 9 AM to 5 PM. That means you can reach AML seven days a week, including weekends, to ask a question about stone or to set up your free estimate.
 
 ## Ready for New Counters?
 
@@ -141,14 +141,14 @@ Button: Call (209) 622-7884 (tel:+12096227884). Phone: (209) 622-7884
 
 ## Footer
 
-- AML Stoneworks Countertops
-- Serving the Central Valley and the Bay Area
+- Name: AML Stoneworks Countertops
+- Address: Serving the Central Valley and the Bay Area
 - Phone: (209) 622-7884
 - Email: amlstoneworks@gmail.com
 - Socials: https://www.facebook.com/amlstoneworks, https://www.instagram.com/amlstoneworks209
 - Hours: Monday to Thursday 8 AM to 6 PM, Friday to Sunday 9 AM to 5 PM
 
-## Schema JSON-LD
+## Schema (JSON-LD)
 
 ```json
 {
@@ -179,16 +179,37 @@ Button: Call (209) 622-7884 (tel:+12096227884). Phone: (209) 622-7884
 }
 ```
 
+## Image plan
+
+- hero: real photo images/cover.jpg (alt: "Countertop installation in the Central Valley: long gray and white granite island with an undermount sink in a white shaker kitchen")
+- service:Granite, marble and quartz countertops: real photo images/social_01.jpg (alt: "Kitchen with speckled granite countertops and a full granite backsplash, a black undermount sink and a large picture window")
+- service:Full-height backsplashes: real photo images/maps_02.jpg (alt: "White kitchen with veined white countertops and a matching full-height stone backsplash during installation")
+- service:Kitchen remodels: real photo images/maps_04.jpg (alt: "Before and after of a kitchen: oak cabinets and tile floor replaced with gray cabinets, a marble-look backsplash and plank floors")
+- service:Outdoor kitchens: real photo images/maps_06.jpg (alt: "Outdoor kitchen block base topped with white and gray granite countertops on a concrete patio")
+- service:Showers, floors and walls: AI image ai_service_showers.jpg (alt: "Walk-in shower with white veined stone walls, a stone bench and a frameless glass door (illustration)")
+  - Prompt: Photorealistic photo of a finished walk-in shower in a Central Valley California ranch-style home: large white stone wall panels with soft gray veining, a narrow stacked stone accent band, a matching stone bench and wall niche, gray porcelain tile floor, frameless glass door, brushed gold fixtures, a warm white and stone gray palette with a subtle gold accent, soft natural daylight from a high window, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.
+- about: real photo images/social_12.jpg (alt: "Large kitchen with natural wood cabinets and a big island with a dark stone top and four bar stools")
+- gallery_1: real photo images/cover.jpg (alt: "Long gray and white granite island with an undermount sink in a white shaker kitchen with stainless appliances")
+- gallery_2: real photo images/social_01.jpg (alt: "Speckled granite counters with a full granite backsplash along a large window")
+- gallery_3: real photo images/social_02.jpg (alt: "White stone with bold gold and gray veining on the counters and backsplash during installation")
+- gallery_4: real photo images/maps_02.jpg (alt: "Veined white counters and a full-height backsplash in a white shaker kitchen")
+- gallery_5: real photo images/social_12.jpg (alt: "Wood kitchen with a large island topped in dark stone")
+- gallery_6: real photo images/maps_03.jpg (alt: "Before and after of a kitchen remodel with new gray cabinets, a white marble-look island and backsplash")
+- gallery_7: real photo images/maps_06.jpg (alt: "White and gray granite countertop on a block outdoor kitchen base")
+- final_cta: real photo images/social_02.jpg (alt: "Close view of white stone counters with gold and gray veining")
+
+14 real photo slots, 1 AI slots.
+
 ## Brand
 
-- Logo: None
+- Logo: none
 - Palette: primary #4A4A48, accent #C9A227, light #F5F4F1, dark #1F1F1E
 - Palette note: No real logo: brand.json palette was taken from a project photo. Proposed from the business card (stone gray #4A4A48, engraved silver lettering) and the gold #C9A227 'AML Stoneworks' watermark they put on their own photos, with a warm white like their quartz tops.
 - Fonts: Cinzel (headings), Lato (body)
 - Tagline: Fabrication & Installation
 - Style direction: Stone showroom feel: gray and white with a thin gold accent, engraved serif headings like the business card, and large close-up photos of the slabs.
 
-### Images not to use
+## Images not to use
 
 - images/logo.jpg: promo graphic with text overlay ('Schedule a free estimate today!'), not a logo
 - images/maps_01.jpg: business card with stock photos; use only as brand reference
@@ -216,7 +237,7 @@ Button: Call (209) 622-7884 (tel:+12096227884). Phone: (209) 622-7884
 - Name, category Kitchen remodeler, phone +1 209-622-7884, no public address (source: Google Maps)
 - Hours Mon to Thu 8 AM to 6 PM, Fri, Sat, Sun 9 AM to 5 PM (source: Google Maps)
 - Rating 4.2 from 5 reviews (not shown as a badge) (source: Google Maps)
-- Blanca Trujillo: kitchen remodel, outdoor kitchen started, easy appointment, done on time; photos maps_03 to maps_06 (source: Google review, 4 years ago)
+- Blanca Trujillo: kitchen remodel, outdoor kitchen started, easy appointment, done on time (which Google photos are hers is not recorded) (source: Google review, 4 years ago)
 - James Lassak: measurements, reasonable bid, true professional (source: Google review, 5 years ago)
 - Owner replies to reviews by name (source: Google Maps owner replies)
 - Alfonso Molina; Countertops, Backsplash, Showers, Floors; Fabrication & Installation; amlstoneworks@gmail.com; (209) 622-7884 (source: business card legible in images/maps_01.jpg)
@@ -234,7 +255,7 @@ Button: Call (209) 622-7884 (tel:+12096227884). Phone: (209) 622-7884
 - No street address or Google service area (footer uses the Facebook service area statement); no single main town, so the primary keyword uses the Central Valley region
 - Only 2 positive review texts captured (third is a 1-star review the owner says was not about AML); testimonials below the 3 minimum
 - No logo file (profile picture is a project photo with a promo text overlay); business card wordmark used as reference
-- No shower, floor or bathroom photo of their own work
+- No shower, floor or bathroom photo of their own work: the showers, floors and walls card uses an AI illustration
 - California contractor licence (CSLB) number not found
 - Insurance, warranty and financing not stated
 - Years in business not stated
