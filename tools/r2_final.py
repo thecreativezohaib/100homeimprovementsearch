@@ -64,6 +64,10 @@ def lint(d, c, r):
     return issues
 
 
+def social(c, host):
+    return next((u for u in (c.get("footer") or {}).get("socials") or [] if isinstance(u, str) and host in u), "")
+
+
 def link_ai(o, dst):
     if isinstance(o, dict):
         if o.get("ai_file_name") and not o.get("file") and os.path.exists(f"{dst}/images/{o['ai_file_name']}"):
@@ -121,7 +125,7 @@ for group, items in (("homepages", final), ("reserves", reserves), ("do_not_cont
         r = p["r"]
         rows.append({"group": group, "folder": f"{group}/{new}", "business_name": r["business_name"], "phone": r["google"]["phone"],
                      "email": p["email"], "email_status": "unconfirmed" if p["unconfirmed"] else ("not usable" if p["reason"] else "checked"),
-                     "facebook": r.get("facebook_url") or "", "instagram": r.get("instagram_url") or "", "google_maps": r["google"]["maps_url"],
+                     "facebook": r.get("facebook_url") or social(c, "facebook.com"), "instagram": r.get("instagram_url") or social(c, "instagram.com"), "google_maps": r["google"]["maps_url"],
                      "primary_keyword": (c.get("seo") or {}).get("primary_keyword", ""), "real_photos": p["real"], "ai_slots": p["ai"],
                      "ai_images_missing": sum(1 for e in c.get("image_plan") or [] if e.get("source") == "ai" and not e.get("file")) if group == "homepages" else "",
                      "testimonials": p["tst"], "reason_not_contactable": p["reason"] or "",
