@@ -15,7 +15,8 @@ for r in rows:
     num = os.path.basename(r["folder"])[:3]
     base = os.path.basename(r["save_as"])
     ar = (re.findall(r"\b(16:9|4:3|4:5|21:9)\b", r["prompt"]) or ["4:3"])[-1]
-    prompt = re.sub(r",?\s*\b(16:9|4:3|4:5|21:9)\b\s*\.?\s*$", "", r["prompt"].strip()).rstrip(" ,.")
+    prompt = re.sub(r"[,.;]?\s*(aspect ratio|aspect)?\s*:?\s*\b(16:9|4:3|4:5|21:9)\b\s*(aspect ratio)?\s*\.?\s*$", "", r["prompt"].strip(), flags=re.I)
+    prompt = re.sub(r"[,.;]?\s*aspect ratio\s*$", "", prompt, flags=re.I).rstrip(" ,.;") + "."
     items.append({"file_name": f"{num}_{base}", "aspect_ratio": ar, "size": SIZES[ar], "prompt": prompt,
                   "folder": r["folder"], "save_as": r["save_as"], "business_name": r["business_name"], "slot": r["slot"]})
 with open(f"{F}/AI_IMAGES_MAP.csv", "w", newline="") as fh:
