@@ -31,7 +31,7 @@
   "trust_badges": [
    "4.6 stars from 9 Google reviews",
    "Family owned",
-   "25 years of building for local families",
+   "25 years in business",
    "Free estimates"
   ],
   "image": {
@@ -51,7 +51,7 @@
   "items": [
    {
     "name": "Custom kitchen cabinets",
-    "blurb": "Cabinets built to fit your kitchen rather than picked from a catalog, in painted, glazed or stained finishes. Recent kitchens range from cream glazed cabinets with a dark island to rich cherry-toned cabinets with a butcher-block topped island.",
+    "blurb": "Cabinets built to fit your kitchen rather than picked from a catalog, in painted, glazed or stained finishes. Their kitchens range from cream glazed cabinets with a dark island to rich cherry-toned cabinets around a butcher-block topped island.",
     "image": {
      "file": "images/social_08.jpg",
      "alt": "Kitchen with cherry-stained custom cabinets, tile backsplash and an island with a butcher-block top and stools"
@@ -75,10 +75,12 @@
    },
    {
     "name": "Vanities, mantels and built-ins",
-    "blurb": "Beyond the kitchen, the shop builds bathroom vanities, fireplace mantels, bookshelves and bookcases, and entertainment centers. If it is made of wood and fits a wall in your house, ask about it when you call for your free estimate.",
+    "blurb": "Beyond the kitchen, the shop builds bathroom vanities, fireplace mantels, bookshelves and bookcases, and entertainment centers. If it is made of wood and needs to fit a particular wall in your house, ask about it when you call for your free estimate.",
     "image": {
      "file": null,
-     "alt": ""
+     "ai_file_name": "ai_service_builtins.jpg",
+     "ai_prompt": "Photorealistic photo of a living room in a middle Tennessee family home with a custom-built painted wood fireplace mantel flanked by built-in bookshelves and a lower entertainment cabinet, warm stained wood shelves, dark hardwood floor, soft natural daylight from a side window, warm wood browns with a touch of deep blue in a throw pillow, books and a few plain ceramic pieces on the shelves, no people, no faces, no text, no logos, no brand names, 4:3.",
+     "alt": "Fireplace mantel with built-in bookshelves and an entertainment cabinet (illustration)"
     }
    }
   ]
@@ -106,12 +108,12 @@
  },
  "about": {
   "h2": "A family business on Pinkston Road",
-  "text": "Swing Cabinets, LLC is a family-owned cabinet maker at 331 Pinkston Rd in Shelbyville, Tennessee. Its Facebook page, Swing's Custom Cabinets, invites customers to share photos of anything the shop has built for family and friends over 25 years of business. The owner's daughter has shared how her dad rescued and refinished an old family table and chairs, which says a lot about the care that goes into the work. The shop also sponsors local youth baseball teams. Troy Smith is the name on the business card.",
+  "text": "Swing Cabinets, LLC is a family-owned cabinet maker at 331 Pinkston Rd in Shelbyville, Tennessee. Its Facebook page, Swing's Custom Cabinets, invites customers to share photos of anything the shop has built for family and friends over 25 years of business. The owner's daughter once shared how her dad rescued and fixed up an old family table and chairs that were headed for the dump, which says a lot about the care that goes into the work. The shop also sponsors local youth baseball teams and shows up every year to support the players.",
   "owner_name": null,
-  "owner_role": "Owner not named in sources; Troy Smith appears on the business card (role not stated)",
+  "owner_role": null,
   "image": {
-   "file": "images/social_02.jpg",
-   "alt": "Swing Cabinets business card: Custom Cabinets and Counter Tops, Pinkston Road, Shelbyville, Free Estimates"
+   "file": "images/social_04.jpg",
+   "alt": "Wide view of a white custom kitchen by Swing Cabinets with wall ovens, glass-front uppers and an island"
   }
  },
  "process": {
@@ -321,19 +323,24 @@
   {
    "fact": "Email wright9544@yahoo.com",
    "source": "research.json email, TN directory of forest industries https://www.tn.gov/agriculture/businesses/business-development/forest-products/directory-of-tn-forest-industries-rd.html"
+  },
+  {
+   "fact": "Email wright9544@yahoo.com confirmed in the TN wood-using industries directory entry 'Swing Cabinets LLC, 329 Pinkston Road, Shelbyville, 931-684-3576, Contact: Carol Wright, Kitchen Cabinet Mfg.'",
+   "source": "https://www.tn.gov/content/dam/tn/agriculture/archive/documents/forestry/AgBusWoodusingindustries.pdf (checked during QA)"
   }
  ],
  "missing": [
   "Owner name (Troy Smith is on the business card but his role is not stated; the owner's daughter Kelsie mentions her dad without naming him)",
   "Address mismatch: business card says 329 Pinkston Road, Google says 331 Pinkston Rd; Google used",
-  "Photos of vanities, mantels, bookshelves and entertainment centers (none captured; that service has no image)",
   "All captured photos are low resolution (960 x 720 or smaller); Google shows only 2 photos",
   "Real logo: images/logo.jpg is a kitchen photo; the business card wordmark could be redrawn",
   "Years: Facebook post says 25 years of business (undated); Gemini says 49 years of experience; neither confirmed, 25 used",
   "Instagram: research lists instagram.com/henryscabinets, which does not match this business; left out of socials",
   "Licence (Gemini returned 'lic to', not usable), insurance, warranty, financing",
   "Towns beyond Shelbyville",
-  "Prices"
+  "Prices",
+  "Photos of vanities, mantels, bookshelves and entertainment centers (none captured); that service card uses an AI illustration",
+  "Troy Smith (business card) and Carol Wright (state directory contact) are named in sources but their roles are not stated; neither is named on the page"
  ],
  "brand": {
   "logo_file": null,
@@ -373,5 +380,87 @@
   "specific_detail": "Brian L.'s review that the shop takes pride in each piece with a huge focus on detail, and the business card that still lists mantels, entertainment centers and bookshelves next to kitchens.",
   "angle": "25 years of custom cabinets in Shelbyville, a 4.6 rating and 974 Facebook likes, but no website and only 2 photos on Google. A homepage with the kitchens and a free-estimate button would show newcomers what longtime customers already know.",
   "subject_line_idea": "25 years of Shelbyville kitchens, no website yet"
- }
+ },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/social_06.jpg",
+   "source": "real",
+   "alt": "Custom cabinets in Shelbyville, TN by Swing Cabinets: white kitchen with glass-front uppers, double wall ovens, a white island and dark hardwood floors"
+  },
+  {
+   "slot": "service:Custom kitchen cabinets",
+   "file": "images/social_08.jpg",
+   "source": "real",
+   "alt": "Kitchen with cherry-stained custom cabinets, tile backsplash and an island with a butcher-block top and stools"
+  },
+  {
+   "slot": "service:Kitchen remodels",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "Remodeled kitchen with cream glazed cabinets to the ceiling, double wall ovens and a dark stained island with stools"
+  },
+  {
+   "slot": "service:Countertops",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "Dark espresso cabinets with speckled granite countertops, glass mosaic backsplash and stainless range"
+  },
+  {
+   "slot": "service:Vanities, mantels and built-ins",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_builtins.jpg",
+   "ai_prompt": "Photorealistic photo of a living room in a middle Tennessee family home with a custom-built painted wood fireplace mantel flanked by built-in bookshelves and a lower entertainment cabinet, warm stained wood shelves, dark hardwood floor, soft natural daylight from a side window, warm wood browns with a touch of deep blue in a throw pillow, books and a few plain ceramic pieces on the shelves, no people, no faces, no text, no logos, no brand names, 4:3.",
+   "alt": "Fireplace mantel with built-in bookshelves and an entertainment cabinet (illustration)"
+  },
+  {
+   "slot": "about",
+   "file": "images/social_04.jpg",
+   "source": "real",
+   "alt": "Wide view of a white custom kitchen by Swing Cabinets with wall ovens, glass-front uppers and an island"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/social_06.jpg",
+   "source": "real",
+   "alt": "White kitchen with glass-front upper cabinets, white island, pendant light and dark hardwood floors"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/social_04.jpg",
+   "source": "real",
+   "alt": "Wide view of a white custom kitchen with wall ovens, glass-front uppers and an island"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "Cream glazed cabinets to the ceiling with a dark stained island and bar stools"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/social_08.jpg",
+   "source": "real",
+   "alt": "Cherry-toned kitchen cabinets with a butcher-block island and stools"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "Espresso cabinets with granite counters and glass mosaic backsplash"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/logo.jpg",
+   "source": "real",
+   "alt": "Dark stained kitchen cabinets with granite counters, mosaic backsplash and a painted island"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/social_08.jpg",
+   "source": "real",
+   "alt": "Cherry-toned kitchen cabinets with a butcher-block island"
+  }
+ ]
 }
