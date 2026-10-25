@@ -35,13 +35,13 @@
   ],
   "image": {
    "file": "images/maps_02.jpg",
-   "alt": "White shaker kitchen with gold pulls, glass-front cabinets and a veined white island countertop, cabinetry from DC Kitchen & Bath, a kitchen cabinets Westbury showroom"
+   "alt": "Kitchen cabinets from Westbury showroom DC Kitchen & Bath: white shaker kitchen with brass pulls, glass-front uppers and a veined white island"
   }
  },
  "intro": {
   "h2": "A cabinet showroom you can walk through",
   "paragraphs": [
-   "DC Kitchen & Bath is a cabinet store and showroom for kitchen cabinets in Westbury, on Old Country Rd. You can see full kitchen displays, open the doors, compare finishes and look at countertop options in person before you choose. It is open six days a week.",
+   "DC Kitchen & Bath sells kitchen cabinets in Westbury from a showroom on Old Country Rd. You can walk through full kitchen displays, open the doors, compare finishes and talk through countertop options in person before you choose. The showroom is open six days a week.",
    "Customers often come in with a bigger plan than one room. One homeowner renovating an entire house worked with Jay on her kitchen, three bathrooms and a master closet, then picked her countertops and knobs here too. Reviewers mention Jay's knowledge of kitchen and bath design, and Google shows kitchen cabinets as the topic people mention most."
   ]
  },
@@ -50,28 +50,33 @@
   "items": [
    {
     "name": "Kitchen cabinets",
-    "blurb": "Kitchen cabinets are the main reason people visit. Browse door styles and finishes on the showroom floor, from bright white shaker kitchens to kitchens with glass-front uppers, and work out a layout with Jay before you order.",
+    "blurb": "Kitchen cabinets are the main reason people visit. Browse door styles and finishes on the showroom floor, from bright white shaker kitchens to displays with glass-front uppers, and work out a layout with Jay before you order.",
     "image": {
-     "file": "images/social_01.jpg",
-     "alt": "White kitchen cabinets with stainless chimney hood, white countertops and a wire pendant over the island"
+     "file": "images/social_02.jpg",
+     "alt": "Showroom kitchen display with white cabinets, a wood-front island, stainless range and large marble-look floor tiles"
     }
    },
    {
     "name": "Bathroom cabinets",
     "blurb": "DC Kitchen & Bath also supplies bathroom cabinets. One customer had three bathrooms done along with her kitchen. Bring your bathroom measurements to the showroom and the team can help match cabinet sizes and finishes to the space you have.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_bathroom_cabinets.jpg",
+     "ai_prompt": "Photorealistic photo of a finished bathroom in a Long Island colonial-style home, white shaker vanity cabinet with soft-close drawers and a white quartz top, espresso-brown framed mirror, brushed copper-toned faucet and knobs, large white marble-look floor tiles, warm white walls, soft natural daylight from a window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+     "alt": "Illustration of a white shaker bathroom vanity with a white stone top and a dark-framed mirror"
+    }
    },
    {
     "name": "Kitchen and bathroom countertops",
-    "blurb": "Countertops for kitchens and baths are part of what the shop offers, so you can choose cabinets and stone together. The white veined island in our hero photo shows how a light countertop pairs with white shaker doors and brass hardware.",
+    "blurb": "Countertops for kitchens and baths are part of what the store offers, so you can choose cabinets and countertops together and see how they look side by side. One customer picked her countertops and knobs here as part of a whole-house renovation.",
     "image": {
-     "file": "images/social_02.jpg",
-     "alt": "White kitchen display with a wood-front island, white cabinets, stainless range and large marble-look floor tiles"
+     "file": "images/social_01.jpg",
+     "alt": "White kitchen with marble-look countertops, a stainless chimney hood and a crystal pendant over the island"
     }
    },
    {
     "name": "Closets and finishing touches",
-    "blurb": "Cabinet work does not have to stop at the kitchen. One client's master closet was done with white drawer units and open hanging sections, and she chose her knobs here as well, so the whole house matched from room to room.",
+    "blurb": "Cabinet work does not have to stop at the kitchen. One client had her master closet done with white drawer units and open hanging sections, alongside her kitchen and three bathrooms, and she picked her knobs at the showroom as well.",
     "image": {
      "file": "images/maps_03.jpg",
      "alt": "Walk-in closet with white drawer units, open shelving and hanging sections over a wood floor"
@@ -79,10 +84,10 @@
    },
    {
     "name": "Kitchen and bath design help",
-    "blurb": "Not sure which cabinets fit your remodel? Reviewers describe Jay as very knowledgeable about kitchen and bath design. Visit the showroom with your room sizes and ideas, and talk through layout, door style and finish before you commit to an order.",
+    "blurb": "Not sure which cabinets fit your remodel? A Google reviewer calls Jay so knowledgeable about kitchen and bath design. Visit the showroom with your room sizes and ideas, and talk through layout, door style and finish before you commit to an order.",
     "image": {
-     "file": "images/maps_01.jpg",
-     "alt": "DC Kitchen & Bath showroom storefront at 896 Old Country Rd in Westbury, NY, lit up at dusk"
+     "file": "images/maps_02.jpg",
+     "alt": "White shaker kitchen with brass pendant lights, a veined white island and four gold-base stools"
     }
    }
   ]
@@ -96,7 +101,7 @@
    },
    {
     "title": "Design knowledge from Jay",
-    "text": "Customers describe Jay as knowledgeable about kitchen and bath design. He and his team helped one homeowner plan a kitchen, three bathrooms and a master closet in a single house."
+    "text": "One customer calls Jay so knowledgeable about kitchen and bath design. He and his team helped her plan a kitchen, three bathrooms and a master closet in a single house."
    },
    {
     "title": "Cabinets and countertops in one place",
@@ -110,12 +115,12 @@
  },
  "about": {
   "h2": "About DC Kitchen & Bath",
-  "text": "DC Kitchen & Bath, listed on Facebook as DC Kitchen & BATH INC, is a kitchen and bathroom cabinet and countertop store in Westbury, New York. The showroom sits at 896 Old Country Rd, where customers walk through displayed kitchens before choosing their own. Jay is the name customers mention in their reviews: the person who helps with design questions and works with his team on each order. Homeowners come in for a single kitchen or, like one customer, for cabinetry across an entire house renovation.",
+  "text": "DC Kitchen & Bath, listed on Facebook as DC Kitchen & BATH INC, is a kitchen and bathroom cabinet and countertop store in Westbury, New York. The showroom sits at 896 Old Country Rd, where customers walk through displayed kitchens before choosing their own. Jay is the name that comes up in reviews: the person customers work with on design and on their order, together with his team. Homeowners come in for a single kitchen or, like one customer, for cabinetry across an entire house renovation.",
   "owner_name": "Jay",
   "owner_role": "Named in reviews as the person who handles design and orders; full name and title not published",
   "image": {
    "file": "images/maps_01.jpg",
-   "alt": "Front of the DC Kitchen & Bath showroom on Old Country Rd, Westbury"
+   "alt": "Front of the DC Kitchen & Bath showroom at 896 Old Country Rd, Westbury, lit up at dusk"
   }
  },
  "process": {
@@ -159,8 +164,8 @@
    },
    {
     "file": "images/social_02.jpg",
-    "alt": "White kitchen with a stained wood island, stainless range and polished marble-look floor tile",
-    "caption": "White cabinets with a wood-tone island"
+    "alt": "Showroom display kitchen with white cabinets, a stained wood island, stainless range and polished marble-look floor tile",
+    "caption": "Display kitchen in the showroom"
    },
    {
     "file": "images/maps_01.jpg",
@@ -170,31 +175,13 @@
   ]
  },
  "testimonials": {
-  "h2": "What customers say on Google",
+  "h2": "From a customer's Google review",
   "items": [
    {
     "name": "Julia",
     "text": "I'm so happy with Jay's service! Recently, I renovated my entire house and was looking for cabinetry with great quality and reasonable prices. After looking at a few places, I found DC Kitchen & Bath. Jay is so knowledgeable about kitchen and bath design, and he and his team helped me with my kitchen, three bathrooms, master closet, and even the countertops and knobs. Everything turned out beautifully and I could not thank Jay and his staff enough!",
     "source": "Google",
     "date": "4 years ago"
-   },
-   {
-    "name": "Google reviewer",
-    "text": "Great people great crew would def recommend",
-    "source": "Google (review highlight)",
-    "date": "not shown"
-   },
-   {
-    "name": "Google reviewer",
-    "text": "The quality of work truly in incredible.",
-    "source": "Google (review highlight)",
-    "date": "not shown"
-   },
-   {
-    "name": "Google reviewer",
-    "text": "Nice kitchen and bathroom display setting.",
-    "source": "Google (review highlight)",
-    "date": "not shown"
    }
   ]
  },
@@ -218,7 +205,7 @@
    },
    {
     "q": "Can someone help me with the design?",
-    "a": "Yes. Customers describe Jay as very knowledgeable about kitchen and bath design. Bring a sketch or measurements of your room, and photos of what you like, and the team can help you work through layout, cabinet style, finish and countertop choices before you place an order."
+    "a": "Yes. A Google reviewer describes Jay as so knowledgeable about kitchen and bath design. Bring a sketch or measurements of your room, and photos of what you like, and the team can help you work through layout, cabinet style, finish and countertop choices before you place an order."
    },
    {
     "q": "Can I do a whole house, not just the kitchen?",
@@ -280,6 +267,88 @@
   ],
   "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdn9LvG82qwAyRGsMZVueZiS-b4G5MVteC28T1k-M9K9_r-eEOX1vd46jUTCiwn4FW7Ms1njMtjpybDVWQYVN_VwE4p3Yef7SncKMbnp3VmCmB66BgZNVplCWg-AybWKB7di38DBQ=s0"
  },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Kitchen cabinets from Westbury showroom DC Kitchen & Bath: white shaker kitchen with brass pulls, glass-front uppers and a veined white island"
+  },
+  {
+   "slot": "service:Kitchen cabinets",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "Showroom kitchen display with white cabinets, a wood-front island, stainless range and large marble-look floor tiles"
+  },
+  {
+   "slot": "service:Bathroom cabinets",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_bathroom_cabinets.jpg",
+   "ai_prompt": "Photorealistic photo of a finished bathroom in a Long Island colonial-style home, white shaker vanity cabinet with soft-close drawers and a white quartz top, espresso-brown framed mirror, brushed copper-toned faucet and knobs, large white marble-look floor tiles, warm white walls, soft natural daylight from a window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+   "alt": "Illustration of a white shaker bathroom vanity with a white stone top and a dark-framed mirror"
+  },
+  {
+   "slot": "service:Kitchen and bathroom countertops",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "White kitchen with marble-look countertops, a stainless chimney hood and a crystal pendant over the island"
+  },
+  {
+   "slot": "service:Closets and finishing touches",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Walk-in closet with white drawer units, open shelving and hanging sections over a wood floor"
+  },
+  {
+   "slot": "service:Kitchen and bath design help",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "White shaker kitchen with brass pendant lights, a veined white island and four gold-base stools"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Front of the DC Kitchen & Bath showroom at 896 Old Country Rd, Westbury, lit up at dusk"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "White shaker kitchen with brass pendant lights, iridescent subway tile backsplash, pro range and a veined white island with four stools"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Master walk-in closet with white drawers, open shelves and hanging rods"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "White kitchen with chimney hood, white countertops and an island with a cooktop"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "Showroom display kitchen with white cabinets, a stained wood island, stainless range and polished marble-look floor tile"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "DC Kitchen & Bath storefront with illuminated sign on Old Country Rd, Westbury, NY"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "DC Kitchen & Bath storefront with illuminated sign on Old Country Rd, Westbury, NY"
+  }
+ ],
  "facts_used": [
   {
    "fact": "Name DC Kitchen & Bath, category Cabinet store, address 896 Old Country Rd, Westbury, NY 11590",
@@ -331,17 +400,18 @@
   }
  ],
  "missing": [
-  "Only 5 usable photos (gallery 5, below 6 to 10); no bathroom photo; 4 review photos show defects and are excluded",
   "Jay's last name and role (owner?) not published",
   "Years in business not found (Facebook posts date back to 2016, but no founding year stated)",
   "Whether they install cabinets themselves not confirmed (left out)",
   "Licence, insurance, warranty, financing and free estimates not found",
   "Cabinet brands carried not confirmed; Cosentino store-finder listing exists (email source) but dealer status not confirmed, so not claimed",
   "Towns beyond Westbury not named",
-  "Only one full positive review captured; other testimonials are short Google highlights without names or dates",
   "Recent negative reviews (1 star 9 months ago, 2 stars 2 years ago) mention communication and quality; not on the page, but the owner may want to reply on Google",
   "Gemini reviews were unrelated junk text and were not used",
-  "Website URL for schema url (no site yet)"
+  "Website URL for schema url (no site yet)",
+  "Needs project photos: only 5 usable photos (gallery has 5, below 6 to 10); 4 review photos show defects and are excluded",
+  "No bathroom photo: the Bathroom cabinets card uses an AI illustration (ai_service_bathroom_cabinets.jpg)",
+  "Only one named positive review was captured (Julia), so the testimonials section has 1 quote; the unnamed Google review highlights were removed from testimonials because they have no reviewer name or date. Ask the owner for more review texts"
  ],
  "brand": {
   "logo_file": "images/logo.jpg",

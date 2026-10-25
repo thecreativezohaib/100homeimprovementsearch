@@ -19,7 +19,7 @@
  "hero": {
   "eyebrow": "Veteran-owned, Beaumont, CA",
   "h1": "Tile Contractor in Beaumont, CA",
-  "subheadline": "Dan and his crew install tile, marble and stone for bathrooms, kitchens and floors, and customers keep calling them back for the next project.",
+  "subheadline": "Dan and his crew handle tile, marble and stone for bathrooms, kitchen backsplashes and floors, with free estimates and a 5.0 rating on Google.",
   "primary_cta": {
    "label": "Call (909) 561-7249",
    "href": "tel:+19095617249"
@@ -36,13 +36,13 @@
   ],
   "image": {
    "file": "images/maps_08.jpg",
-   "alt": "Guest bathroom by a tile contractor in Beaumont, hired twice by the same homeowner: stacked white tile tub surround, hexagon floor tile and a fluted wood double vanity with marble-look top"
+   "alt": "Guest bathroom tiled by Veteran Tile Works, a tile contractor in Beaumont: stacked white tile tub surround, light gray hexagon floor tile and a fluted wood double vanity with a marble-look top and brass faucets"
   }
  },
  "intro": {
   "h2": "A veteran family crew for tile and remodeling",
   "paragraphs": [
-   "Veteran Tile Works is a veteran-owned tile contractor in Beaumont that local families call for bathrooms, kitchen backsplashes, tile floors and repairs. Google lists it as veteran-owned, women-owned and Latino-owned, and Dan, the name in every review, works on site with his own crew of workers.",
+   "Veteran Tile Works is a veteran-owned tile contractor in Beaumont that local families call for bathrooms, kitchen backsplashes, tile floors and repairs. Google lists it as veteran-owned, women-owned and Latino-owned, and Dan, the name customers mention in their reviews, works on site with his own crew.",
    "What customers mention most is how the job runs. Google groups 13 reviews under cleanliness, and people describe Dan as on time, detail focused and professional. One homeowner hired him to redo tile that someone else had botched. Another called him back for a second bathroom and watched the crew work through a weekend so it was finished before her kids went back to school."
   ]
  },
@@ -83,10 +83,12 @@
    },
    {
     "name": "Handyman and full remodels",
-    "blurb": "Dan's crew also takes on handyman work and full remodeling, as the owner mentions in replies to reviews. One customer had them repair a laundry room and a garage door as well as the tile, all in the same project.",
+    "blurb": "Dan's crew also takes on handyman work and full remodeling, as the owner mentions in replies to reviews. One customer had them fix a laundry room and a garage door as well as the tile, all in the same project, after another contractor left it in poor shape.",
     "image": {
-     "file": "images/maps_02.jpg",
-     "alt": "Gray and white glass mosaic backsplash installed between a stainless range and an over-the-range microwave"
+     "file": null,
+     "ai_file_name": "ai_service_remodel.jpg",
+     "ai_prompt": "Photorealistic photo of a freshly remodeled laundry room in a Southern California stucco tract home, new wood-look plank tile floor, freshly painted walls, new white interior door with clean trim, a white washer and dryer, bright natural daylight from a small window, deep navy, warm brass and warm white palette, no people, no faces, no text, no logos, no brand names, 4:3",
+     "alt": "Illustration of a refreshed laundry room with a new wood-look tile floor and a new door"
     }
    }
   ]
@@ -114,12 +116,12 @@
  },
  "about": {
   "h2": "About Dan and the crew",
-  "text": "Veteran Tile Works is led by Dan, the name in every review, with a crew of workers who stay with him from start to finish. The business is based on Palm Ave in Beaumont and is listed on Google as veteran-owned, women-owned and Latino-owned. Dan's replies to reviews thank veterans and first responder families, and he invites customers to call back for handyman work or a full remodel. Many do. With 46 five-star reviews and more than 300 photos on Google, the work speaks for the crew.",
+  "text": "Veteran Tile Works is led on the job by Dan, the name customers mention in their reviews, and the crew of workers he brings with him. The business is based on Palm Ave in Beaumont and is listed on Google as veteran-owned, women-owned and Latino-owned. The owner's replies to reviews thank veterans and first responder families and invite customers to call back for handyman work or a full remodel, and at least one has already hired the crew twice. With a 5.0 rating from 46 reviews and more than 300 photos on Google, the work speaks for itself.",
   "owner_name": "Dan",
   "owner_role": "Leads the crew (named in reviews; owner title and last name not published)",
   "image": {
-   "file": null,
-   "alt": "No photo of Dan or the crew on file"
+   "file": "images/maps_02.jpg",
+   "alt": "Gray and white glass mosaic backsplash installed between a stainless range and an over-the-range microwave, a job for a veteran family"
   }
  },
  "process": {
@@ -148,7 +150,7 @@
   "images": [
    {
     "file": "images/maps_08.jpg",
-    "alt": "Guest bathroom with stacked white tile tub surround, gray hexagon floor tile and fluted wood double vanity with marble-look top",
+    "alt": "Guest bathroom with stacked white tile tub surround, light gray hexagon floor tile and fluted wood double vanity with marble-look top",
     "caption": "Guest bath remodel for a repeat customer"
    },
    {
@@ -280,6 +282,94 @@
   ],
   "image": "images/maps_08.jpg"
  },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_08.jpg",
+   "source": "real",
+   "alt": "Guest bathroom tiled by Veteran Tile Works, a tile contractor in Beaumont: stacked white tile tub surround, light gray hexagon floor tile and a fluted wood double vanity with a marble-look top and brass faucets"
+  },
+  {
+   "slot": "service:Bathroom remodeling",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "Tub surround with white marble-look subway tile, a shimmering mosaic accent wall and two recessed shampoo niches"
+  },
+  {
+   "slot": "service:Kitchen backsplashes",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "White kitchen cabinets with a blue and gray glass mosaic tile backsplash behind a white range"
+  },
+  {
+   "slot": "service:Tile flooring",
+   "file": "images/maps_06.jpg",
+   "source": "real",
+   "alt": "Wood-look plank tile floor with white baseboard along a yellow wall"
+  },
+  {
+   "slot": "service:Tile, marble, stone and mini brick",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Oak kitchen with white counters and a gray stone-look plank tile backsplash under the cabinets"
+  },
+  {
+   "slot": "service:Handyman and full remodels",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_remodel.jpg",
+   "ai_prompt": "Photorealistic photo of a freshly remodeled laundry room in a Southern California stucco tract home, new wood-look plank tile floor, freshly painted walls, new white interior door with clean trim, a white washer and dryer, bright natural daylight from a small window, deep navy, warm brass and warm white palette, no people, no faces, no text, no logos, no brand names, 4:3",
+   "alt": "Illustration of a refreshed laundry room with a new wood-look tile floor and a new door"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Gray and white glass mosaic backsplash installed between a stainless range and an over-the-range microwave, a job for a veteran family"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_08.jpg",
+   "source": "real",
+   "alt": "Guest bathroom with stacked white tile tub surround, light gray hexagon floor tile and fluted wood double vanity with marble-look top"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "Tub surround in white marble-look subway tile with a mosaic accent wall and two recessed niches"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "White kitchen with a blue and gray glass mosaic tile backsplash"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Oak kitchen with gray stone-look plank tile backsplash and white counters"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Gray and white glass mosaic backsplash behind a stainless range"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/maps_06.jpg",
+   "source": "real",
+   "alt": "Wood-look plank tile floor along a yellow wall with white baseboard"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "Blue and gray glass mosaic kitchen backsplash, used as a darkened background"
+  }
+ ],
  "facts_used": [
   {
    "fact": "Name Veteran Tile Works, category Tile contractor, address 1001 Palm Ave, Beaumont, CA 92223, phone +1 909-561-7249",
@@ -324,13 +414,15 @@
  ],
  "missing": [
   "No logo: images/logo.jpg is a tub surround photo, not a logo",
-  "Licence number and insurance not found",
+  "License number and insurance not found",
   "Dan's last name and years in business not found",
   "Warranty and financing not found",
   "Detailed weekly hours (Google shows only Open 24 hours)",
   "Gemini reviews are spam or unrelated text (Angi ad, Star Wars text, Yelp blurb), none used",
   "Instagram URL built from the handle Gemini reported (@veteran_tile_works), not captured directly",
-  "Towns beyond Beaumont not named"
+  "Towns beyond Beaumont not named",
+  "social_01.jpg (bathroom service card and gallery) is only 300x400 pixels; ask for the full-size photo",
+  "no photo of handyman or full remodel work, so that service card uses an AI illustration"
  ],
  "brand": {
   "logo_file": null,
@@ -372,7 +464,7 @@
  ],
  "outreach": {
   "specific_detail": "Amber's guest bath: her second project with Dan's crew, finished over a weekend before her kids went back to school, with the stacked tile tub surround and fluted double vanity in her photo.",
-  "angle": "You have 46 five-star Google reviews, 312 photos and a veteran-owned badge, but no website. A homepage would put that guest bath and your free estimate offer in front of Beaumont homeowners searching for tile.",
+  "angle": "You have a 5.0 rating from 46 Google reviews, 312 photos and a veteran-owned badge, but no website. A homepage would put that guest bath and your free estimate offer in front of Beaumont homeowners searching for tile.",
   "subject_line_idea": "Dan, that guest bath deserves a homepage"
  }
 }

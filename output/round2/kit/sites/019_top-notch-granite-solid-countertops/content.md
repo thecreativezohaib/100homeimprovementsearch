@@ -3,7 +3,7 @@
 ## SEO
 
 - Title tag: Granite Countertops in Florence, MS | Top Notch Granite
-- Meta description: Granite countertops in Florence, MS from Top Notch Granite: Fredrick measures, quotes and installs kitchen and bathroom granite. Rated 5.0 on Google.
+- Meta description: Granite countertops in Florence, MS from Top Notch Granite: Fredrick measures, quotes and installs granite for kitchens and bathrooms. Rated 5.0 on Google.
 - Primary keyword: granite countertops Florence
 - Secondary keywords: granite countertops Florence MS, kitchen granite installation Florence, bathroom granite countertops Florence MS, granite island countertop Florence, granite supplier Florence MS, countertop installers near Florence MS
 - OG title: Top Notch Granite: Granite Countertops in Florence, MS
@@ -15,44 +15,38 @@
 
 # Granite Countertops in Florence, MS
 
-Top Notch Granite is Fredrick's countertop crew: they come out to measure, give you a quote, help you choose from a wide variety of stone and install it with care.
+Top Notch Granite is Fredrick's countertop crew. They come out to measure, give you a quote, help you choose from a wide variety of stone and install it with care.
 
 - Button: Call (601) 540-0755 (tel:+16015400755)
 - Button: Ask for a granite quote (#contact)
 - Trust badges: 5.0 stars from 10 Google reviews | Owner-led: Fredrick and his crew | Reviewers praise promptness
-- Image: images/social_01.jpg (alt: Granite countertops, Florence installer Top Notch: white and grey granite island and full-height granite backsplash with dark lower and white upper cabinets)
+- Image: images/maps_04.jpg (real photo). Alt: Cream and gold granite countertops on a wood kitchen island and peninsula, installed by Top Notch Granite of Florence, MS
 
 ## Granite done right, by people you will recommend
 
-Top Notch Granite installs granite countertops in Florence and nearby, and it is led by Fredrick, who customers simply call Fred. He is quick to communicate, comes out to measure, gives you a quote and has a wide variety of stone for you to choose from.
+Top Notch Granite installs granite countertops in Florence and nearby. It is led by Fredrick, or Fred, as some customers call him. He is quick to communicate, comes out to measure, gives you a quote and has a wide variety of stone for you to choose from.
 
-Word of mouth matters here. One customer was recommended to Fred and has since recommended him to many other people, and says the pricing was very competitive and more reasonable than larger companies. Reviewers describe the crew as very careful installing and on time, and Google's review summary sums them up as good people that do a fantastic job for an affordable price.
+Word of mouth matters here. One customer was recommended to Fredrick, has since recommended him to many other people, and found his pricing very competitive and more reasonable than larger companies. Reviewers describe the crew as very careful installers who finish on time, and Google's review summary calls them good people that do a fantastic job for an affordable price.
 
 ## Granite countertop services
 
-### Kitchen granite countertops
+### Kitchen countertops, islands and bars
 
-Granite for full kitchens, from perimeter counters with an undermount sink to full-height granite backsplash behind the range. One recent kitchen pairs white and grey granite with dark lower cabinets and white uppers for a bright, high-contrast look.
+Granite for whole kitchens, from the counters around your sink and range to islands and bar tops cut to fit your layout. One customer's kitchen has cream and gold granite on the perimeter counters, a wood island with rounded corners and an angled breakfast bar.
 
-Image: images/social_01.jpg (alt: White and grey granite perimeter counters and full-height backsplash with undermount stainless sink)
-
-### Granite islands and bars
-
-Islands and raised bar tops cut to fit your layout, with eased, rounded corners. One recent kitchen features cream and gold granite on a pine island and a curved breakfast bar under brass pendant lights.
-
-Image: images/maps_04.jpg (alt: Cream and gold speckled granite island and bar top on wood cabinets with brick herringbone floor)
+Image: images/maps_02.jpg (real photo). Alt: Cream and gold granite island and counters with wood lower cabinets, white uppers and stainless appliances
 
 ### Bathroom granite
 
-Granite vanity tops for bathroom remodels. One homeowner used Top Notch for the granite in a bathroom remodel and said they did a great job and were on time, and would use them again for all their granite needs.
+Granite vanity tops for bathroom remodels. One homeowner used Top Notch for the granite in a bathroom remodel and said they did a great job and finished on time. He would definitely use them again and recommends them for all your granite needs.
 
-Image: images/maps_03.jpg (alt: Large dark granite slab with white veining lifted by a shop crane)
+Image: AI illustration ai_service_bathroom_granite.jpg (see image plan for the prompt). Alt: Illustration of a bathroom vanity with a cream granite top and dark wood cabinet
 
 ### Measure, quote and install
 
-Fredrick comes out to measure, gives you a quote, and helps you pick from a wide variety of colours. The crew then installs your counters, and customers say they were very careful installing in finished kitchens.
+Fredrick comes out to measure, gives you a quote and helps you pick from a wide variety of stone colors. His crew then installs your countertops, and customers say they were very careful during the installation and finished on time.
 
-Image: images/maps_02.jpg (alt: Granite island with stainless appliances, white upper cabinets and a crystal chandelier)
+Image: images/maps_03.jpg (real photo). Alt: Dark granite slab with white veining lifted by a crane
 
 ## Why homeowners call Top Notch
 
@@ -70,30 +64,28 @@ The crew is described as very careful installing and on time. Customers call the
 
 ### Built on referrals
 
-Customers come recommended and send others back. One reviewer has recommended Fredrick to many people, and another summary quote reads: they have a customer for life.
+Customers come recommended and send others back. One reviewer has recommended Fredrick to many people, and a line Google pulls from the reviews says: they have a customer for life.
 
 ## About Fredrick and Top Notch Granite
 
-Top Notch Granite solid countertops is a granite supplier and installer based at 93 Jackson Cir in Florence, Mississippi, run by Fredrick, known to customers as Fred. He handles the parts homeowners care about most himself: answering quickly, coming out to measure and giving a quote. His crew does the installing, and reviewers keep using the same words for them: top notch, careful, on time and exceptional. The company has 87 photos on Google, from bright white granite kitchens to warm gold granite islands, and a perfect 5.0 rating from 10 reviews.
+Top Notch Granite solid countertops is a granite supplier and installer at 93 Jackson Cir in Florence, Mississippi, led by Fredrick, known to some customers as Fred. Customers say he answers quickly, comes out to measure and gives the quote himself. His crew does the installing, and reviewers keep using the same words for them: top notch, careful, on time and exceptional. The company's own Google post says it does granite for kitchens, bathrooms and commercial projects. Its Google profile holds 87 photos and a perfect 5.0 rating from 10 reviews.
 
-Owner: Fredrick (Owner)
+Owner: Fredrick (Owner (leads the crew, per reviews))
 
-Image: images/maps_03.jpg (alt: Dark granite slab being moved by crane in the Top Notch Granite shop)
+Image: images/maps_04.jpg (real photo). Alt: Cream and gold granite island under a drum chandelier in a customer's kitchen
 
 ## How your granite gets installed
 
-1. **Call Fredrick**: Call (601) 540-0755 Monday to Friday, 8 AM to 5 PM. Customers say he is quick to communicate.
-2. **Measure**: Fredrick comes out to your home to measure your kitchen or bathroom counters, island and backsplash.
-3. **Quote and choose your stone**: You get a quote and choose from a wide variety of granite colours and patterns to match your cabinets.
-4. **Careful installation**: The crew installs your granite on schedule and with care, so you can start using your new kitchen or bath.
+1. **Call Fredrick.** Call (601) 540-0755 Monday to Friday, 8 AM to 5 PM. Customers say he is quick to communicate.
+2. **Measure.** Fredrick comes out to your home to measure your kitchen or bathroom counters, island and backsplash.
+3. **Quote and choose your stone.** You get a quote and choose from a wide variety of granite colors and patterns to match your cabinets.
+4. **Careful installation.** The crew installs your granite on schedule and with care, so you can start using your new kitchen or bath.
 
-## Recent granite work
+## Granite work by Top Notch
 
-- images/social_01.jpg: White and grey granite kitchen (alt: White and grey granite island and backsplash with dark lower cabinets and white uppers)
-- images/maps_04.jpg: Gold granite island and bar (alt: Cream and gold granite island and curved bar top over pine cabinets and brick floor)
-- images/maps_02.jpg: Granite island, finished kitchen (alt: Granite island under a crystal chandelier with stainless appliances and white uppers)
-- images/maps_03.jpg: Granite slab in the shop (alt: Dark granite slab with white veining hanging from a crane)
-- images/maps_01.jpg: Countertop colour samples (alt: Rows of countertop sample chips in white, cream, grey, black and red)
+- images/maps_04.jpg: Gold granite island and breakfast bar (alt: Cream and gold granite island and angled bar top over wood cabinets and a brick herringbone floor)
+- images/maps_02.jpg: Granite island and counters in the same kitchen (alt: Granite island and perimeter counters with stainless appliances, white upper cabinets and a drum chandelier)
+- images/maps_03.jpg: A dark granite slab on the lift (alt: Dark granite slab with white veining hanging from a lifting crane)
 
 ## What customers say
 
@@ -127,7 +119,7 @@ Yes. Top Notch has supplied and installed granite for bathroom remodels as well 
 
 ### How much choice do I have?
 
-Customers say Top Notch has a wide variety to choose from. Recent jobs range from bright white and grey granite with dark veining to warm cream and gold speckled granite, so you can match painted, stained or two-tone cabinets in your home.
+Customers say Top Notch has a wide variety to choose from. Past jobs include warm cream and gold speckled granite and dark granite with white veining, so you can find a stone that suits painted, stained or two-tone cabinets in your home.
 
 ### Are you more expensive than the big companies?
 
@@ -149,21 +141,69 @@ Button: Call (601) 540-0755 (tel:+16015400755) | Phone: (601) 540-0755
 - 93 Jackson Cir, Florence, MS 39073
 - Phone: (601) 540-0755
 - Email: federick.oberto@gmail.com
-- Socials: https://www.facebook.com/profile.php?id=100090381580726
+- Socials: none
 - Hours: Monday to Friday 8 AM to 5 PM; Saturday and Sunday closed
+
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Top Notch Granite solid countertops",
+ "url": null,
+ "telephone": "+16015400755",
+ "email": "federick.oberto@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "93 Jackson Cir",
+  "addressLocality": "Florence",
+  "addressRegion": "MS",
+  "postalCode": "39073",
+  "addressCountry": "US"
+ },
+ "openingHours": [
+  "Mo-Fr 08:00-17:00"
+ ],
+ "areaServed": [
+  "Florence, MS"
+ ],
+ "sameAs": [
+  "https://www.google.com/maps/place/?q=place_id:ChIJkcakxDHTKYYRwD7rUGWdBsM&hl=en"
+ ],
+ "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLd35_CtyMs7hm4UKUz-uWzIKM05iOH9ZjobxggsctPYmKuuE2x-6OaPIi_9DqyrAuNwQ28S1n3CPwPwTxVzugd-fs9uIV1Mj59phsZZeJ8DfSF3F7FCjOd9DGHcoCgZnr7AqbipspC57ts8=s0"
+}
+```
+
+## Image plan
+
+8 slots use real photos, 1 slots use AI illustrations.
+
+- hero: images/maps_04.jpg (real). Alt: Cream and gold granite countertops on a wood kitchen island and peninsula, installed by Top Notch Granite of Florence, MS
+- service:Kitchen countertops, islands and bars: images/maps_02.jpg (real). Alt: Cream and gold granite island and counters with wood lower cabinets, white uppers and stainless appliances
+- service:Bathroom granite: AI ai_service_bathroom_granite.jpg. Alt: Illustration of a bathroom vanity with a cream granite top and dark wood cabinet
+  - Prompt: Photorealistic photo of a finished bathroom in a single-story Mississippi brick ranch home: a polished cream granite vanity top with gold and grey speckles over a dark espresso wood vanity, white undermount sink, brushed brass faucet, soft stone-white walls and a framed mirror, natural daylight from a side window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3
+- service:Measure, quote and install: images/maps_03.jpg (real). Alt: Dark granite slab with white veining lifted by a crane
+- about: images/maps_04.jpg (real). Alt: Cream and gold granite island under a drum chandelier in a customer's kitchen
+- gallery_1: images/maps_04.jpg (real). Alt: Cream and gold granite island and angled bar top over wood cabinets and a brick herringbone floor
+- gallery_2: images/maps_02.jpg (real). Alt: Granite island and perimeter counters with stainless appliances, white upper cabinets and a drum chandelier
+- gallery_3: images/maps_03.jpg (real). Alt: Dark granite slab with white veining hanging from a lifting crane
+- final_cta: images/maps_02.jpg (real). Alt: Granite island and counters with white upper cabinets in a customer's kitchen
 
 ## Brand
 
-- Logo: None
+- Logo: none
 - Palette: primary #3A2E26, accent #B08A4E, light #F2F1EE, dark #1B1612
-- Palette note: No real logo (logo.jpg is a kitchen photo). brand.json colours from it are greys #9B9B96 and #DBDBD7 plus dark brown #29211B. Primary is that dark brown lifted slightly to #3A2E26 (the espresso base cabinets), light comes from #DBDBD7, and accent #B08A4E is proposed from the gold granite in maps_04.jpg so buttons have warmth.
+- Palette note: No real logo (logo.jpg is a Yelp kitchen photo, not used). Proposed from the confirmed project photos: espresso from the wood lower cabinets (primary #3A2E26), gold from the cream and gold granite in maps_04.jpg (accent #B08A4E), soft stone white (light) and a near-black brown for text.
 - Fonts: DM Serif Display (headings) / DM Sans (body)
-- Tagline: None
+- Tagline: none
 - Style direction: Polished but friendly: espresso and gold on soft stone white, a confident serif, and big close-up photos of the granite itself.
 
 ## Images not to use
 
-- images/logo.jpg: not a logo; duplicate of social_01.jpg
+- images/logo.jpg: not a logo; same Yelp photo as social_01.jpg
+- images/social_01.jpg: Yelp-hosted photo from unconfirmed social profiles; not confirmed as Top Notch's work
+- images/maps_01.jpg: countertop sample chips, likely stock or showroom image, not a project
 
 ## Outreach
 
@@ -181,15 +221,15 @@ Button: Call (601) 540-0755 (tel:+16015400755) | Phone: (601) 540-0755
 - Fredrick and his team; quick to communicate, measure, quote; wide variety; careful installing; recommended; competitive pricing vs larger companies (source: Google review by Sarah Dickinson)
 - Granite for a bathroom remodel, great job, on time (source: Google review by Brian)
 - Fred and his crew, exceptional job, kitchen results (source: Google review by Lacey Newman)
-- Kitchen photos: white and grey granite with backsplash; gold granite island and bar; dark slab on crane (source: Photos images/social_01.jpg, maps_02.jpg, maps_03.jpg, maps_04.jpg)
+- Kitchen photos: cream and gold granite island, counters and bar in one customer's kitchen (photos posted with Sarah Dickinson's review); dark slab on a crane (source: Google Maps photos images/maps_02.jpg, maps_03.jpg, maps_04.jpg)
 - Email federick.oberto@gmail.com (source: research.json email (msbuildersbuyersguide.com listing))
 - Florence as service town (source: Google Maps address; Gemini service_towns)
+- From the owner post (Oct 1, 2026): granite countertops for kitchens, bathrooms and commercial projects; wide selection of stone (source: Google Maps 'From the owner' post)
 
 ## Missing
 
 - Fredrick's last name (the email suggests Oberto, but it is not confirmed anywhere, so only the first name is used)
 - Instagram: research.json lists instagram.com/solidworldgranite, which does not match the business name; left out of footer and sameAs until confirmed
-- Gemini's Facebook About text belongs to an unrelated personal profile; confirm the Facebook URL
 - Whether they also do quartz, marble or solid surface (the Google name says 'solid countertops' but no review or post confirms other materials)
 - Years in business
 - Licence or insurance
@@ -197,7 +237,10 @@ Button: Call (601) 540-0755 (tel:+16015400755) | Phone: (601) 540-0755
 - Free estimates (reviews say 'give us a quote', not free)
 - Financing
 - Towns served beyond Florence
-- A real logo: images/logo.jpg is a kitchen photo
-- Only 5 distinct photos captured (87 exist on Google), below the 6 to 10 gallery target; maps_01 sample chips may be a stock image
-- Bathroom project photo
 - Domain / website URL for schema url
+- Facebook: research.json lists facebook.com/profile.php?id=100090381580726, but its About text belongs to an unrelated personal profile; removed from footer and sameAs until confirmed
+- images/social_01.jpg (and logo.jpg, the same picture) is a Yelp-hosted photo that came with the unconfirmed social profiles, so it is not used; confirm it is Top Notch's work before adding it back
+- images/maps_01.jpg (sample chips) looks like a stock or showroom image and shows quartz-like samples, so it is not used
+- Needs project photos: only 3 usable real photos (87 exist on Google), so the gallery has 3 and the bathroom card uses an AI illustration
+- A real logo (logo.jpg is a kitchen photo)
+- Fredrick's role as owner is inferred from reviews ('Fredrick and his team', 'Fred & his crew'); confirm

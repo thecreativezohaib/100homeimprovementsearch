@@ -17,79 +17,89 @@
 
 Nathan and his team plan new kitchen layouts, install cabinets, counters and floors, and take on whole-floor remodels for Kernersville homeowners.
 
-[Call (336) 505-1120](tel:+13365051120)  |  [Request an estimate](#contact)
-
-Trust badges: 5.0 stars from 9 Google reviews · Nathan and his team, named in reviews · Open Monday to Saturday
-
-Hero image: `images/maps_01.jpg` (alt: White kitchen with a large marble-look island, glass-front upper cabinets and arabesque tile backsplash, finished by a kitchen remodeling Kernersville team)
+- Button: Call (336) 505-1120 (tel:+13365051120)
+- Button: Request an estimate (#contact)
+- Trust badges: 5.0 stars from 9 Google reviews | Nathan and his team, named in reviews | Open Monday to Saturday
+- Hero image: images/maps_01.jpg (alt: Kitchen remodeling by Kernersville company Above & Beyond: white kitchen with a large marble-look island, glass-front upper cabinets and arabesque tile backsplash)
 
 ## Kitchens that still get compliments years later
 
-Above & Beyond Construction and Renovations LLC handles kitchen remodeling Kernersville homeowners keep talking about. One reviewer wrote that they have had many compliments on their new kitchen. Another said a wall came down, the room opened up, and the compliments were still coming a year later.
+Above & Beyond Construction and Renovations LLC does kitchen remodeling in Kernersville, and its clients keep hearing about it. One reviewer wrote that they have had many compliments on their new kitchen. Another said a wall came down, the room opened up, and the compliments were still coming a year later.
 
-What sets the team apart is how far a job can go. Nathan does not stop at cabinets. One client describes him bringing ideas for the new kitchen layout, then carrying the work through the dining room, living room, hallway and guest bedroom in one project. Reviewers also mention fair pricing, fast and efficient workers, and a crew they would call again.
+What sets the team apart is how far a job can go. Nathan does not stop at cabinets. One client describes him bringing ideas for the new kitchen layout, then carrying the work through the dining room, living room, hallway and guest bedroom in one project. Reviewers also mention fair pricing, fast and efficient workers, and a crew they would hire again.
 
 ## Kitchen remodeling in Kernersville, and more
 
 ### Kitchen remodeling
 
-Full kitchen rebuilds with new cabinets, counters, backsplash, lighting and flooring. Nathan helps work out the layout before anything is torn out, so the finished room fits how your family cooks and gathers. Kitchen work is what reviewers mention most.
+Full kitchen rebuilds with new cabinets, counters, backsplash, lighting and flooring. Nathan brings ideas on the layout, which one client called great, so the finished room fits how your family cooks and gathers. Kitchen work is what reviewers mention most.
 
-Image: `images/maps_03.jpg` (alt: Gray shaker kitchen with stainless range hood, three pendant lights and a white peninsula countertop)
+Image: images/maps_03.jpg (alt: Gray shaker kitchen with stainless range hood, three pendant lights and a white peninsula countertop)
 
 ### Opening up walls and layouts
 
 Want the kitchen to flow into the dining or living room? The team removes walls and rebuilds the space around a new layout. A Google reviewer said the open plan they got was still drawing compliments a full year after the job finished.
 
-Image: `images/maps_04.jpg` (alt: Remodeled kitchen with gray cabinets and wood-look plank flooring running through to glass patio doors)
+Image: images/maps_04.jpg (alt: Remodeled kitchen with gray cabinets and wood-look plank flooring running through to glass patio doors)
 
 ### Countertops and flooring
 
-New countertops and new floors are part of most of their kitchens, from marble-look island tops to wood-look plank flooring laid through the whole room. Their Facebook page lists countertops and flooring among the services they offer in Kernersville.
+New countertops and new floors show up in many of their kitchen photos, from marble-look island tops to wood-look plank flooring laid through the whole room. Countertops and flooring are also listed among the services on their Facebook page.
 
-Image: `images/maps_02.jpg` (alt: Galley side of a kitchen with gray cabinets, white countertops, stainless appliances and gray plank flooring)
+Image: images/maps_02.jpg (alt: Galley side of a kitchen with gray cabinets, white countertops, stainless appliances and gray plank flooring)
 
 ### Bathroom remodeling
 
 Bathroom remodeling is listed among their services on Facebook. Call to talk through what you have in mind for your bathroom, from a simple refresh to a full rebuild, and Nathan can tell you how his team would approach the job.
 
+Image: AI image ai_service_bathroom.jpg (alt: Illustration of a remodeled bathroom with a gray shaker vanity, white quartz top and white tile shower)
+
 ### Whole-home and sunroom projects
 
 Bigger jobs are welcome. One client had the kitchen, dining room, guest bedroom, living room and hallway remodeled together. Another had an outside sunroom enclosed and turned into an inside room, with siding, drywall, paint, doors, windows and lighting.
 
-Image: `images/maps_05.jpg` (alt: Built-in coffee station with gray lower cabinets and glass-front upper cabinets beside a living area)
+Image: images/maps_05.jpg (alt: Built-in coffee station with gray lower cabinets and glass-front upper cabinets beside a living area)
 
 ## Why Kernersville homeowners hire Above & Beyond
 
-**Every Google review is five stars.** All 9 people who reviewed the business on Google gave 5 stars. Quality of work and the new kitchen are the topics reviewers bring up most often.
+### Every Google review is five stars
 
-**Layout ideas from Nathan.** A client who had five rooms remodeled said Nathan has great ideas on the layout of the new kitchen. You get a second set of eyes on how the space could work.
+All 9 people who reviewed the business on Google gave 5 stars. Quality of work and the new kitchen are the topics reviewers bring up most often.
 
-**Pricing reviewers called fair.** Two reviewers described the cost as reasonable or fair, including one whose project covered five rooms. Ask for a quote and compare it for yourself.
+### Layout ideas from Nathan
 
-**A crew clients hire again.** Reviewers call the team efficient, pleasant, hardworking and prompt. One family says Nathan's team has always done excellent work for them across several different jobs.
+A client who had five rooms remodeled said Nathan has great ideas on the layout of the new kitchen. You get a second set of eyes on how the space could work.
+
+### Pricing reviewers called fair
+
+Two reviewers described the cost as reasonable or fair, including one whose project covered five rooms. Ask for a quote and compare it for yourself.
+
+### A crew clients hire again
+
+Reviewers call the team efficient, pleasant, hardworking and prompt. One family says Nathan's team has always done excellent work for them across several different jobs.
 
 ## Meet Nathan and the Above & Beyond team
 
 Above & Beyond Construction and Renovations LLC is a remodeling company based on Birch Hill Drive in Kernersville, North Carolina. Customers know it through Nathan, who meets with homeowners, talks through the layout and runs the work with his team. Their jobs range from single kitchens to whole-floor remodels and a sunroom turned into a year-round room. The common thread in their reviews is simple: the work looks great, the crew shows up and works hard, and people say they will call them again for the next project.
 
-Owner: Nathan, Leads the team (named in Google reviews); last name not published
+- Owner: Nathan (Leads the team (named in Google reviews); last name not published)
+- Image: images/maps_04.jpg (alt: Long remodeled kitchen with gray shaker cabinets, white counters and wood-look flooring leading to patio doors)
 
 ## How a remodel with Above & Beyond works
 
-1. **Call or email.** Reach Nathan at (336) 505-1120 or by email, Monday to Friday 8 AM to 7 PM or Saturday morning, and describe the rooms you want changed.
-2. **Walk through the layout.** Nathan looks at the space with you and shares ideas on the layout, such as removing a wall or moving the kitchen workspace.
-3. **Agree on the plan and price.** You get a price for the work you choose. Reviewers have described the pricing on their projects as fair and reasonable.
-4. **Build.** The team handles the work, from walls and drywall to cabinets, counters, floors, paint and lighting, and reviewers note how fast they work.
-5. **Final walkthrough.** Walk the finished rooms with Nathan and point out anything you want adjusted before the job is closed out.
+1. **Call or email**: Reach Nathan at (336) 505-1120 or by email, Monday to Friday 8 AM to 7 PM or Saturday morning, and describe the rooms you want changed.
+2. **Walk through the layout**: Nathan looks at the space with you and shares ideas on the layout, such as removing a wall or moving the kitchen workspace.
+3. **Agree on the plan and price**: You get a price for the work you choose. Reviewers have described the pricing on their projects as fair and reasonable.
+4. **Build**: The team handles the work, from walls and drywall to cabinets, counters, floors, paint and lighting, and reviewers note how fast they work.
+5. **Final walkthrough**: Walk the finished rooms with Nathan and point out anything you want adjusted before the job is closed out.
 
 ## Recent kitchen work
 
-- `images/maps_01.jpg`: White kitchen with a large island and stacked stone column (alt: White raised-panel kitchen with large island, three glass pendant lights, arabesque tile backsplash and dark wood floors)
-- `images/maps_03.jpg`: Gray shaker cabinets with a white peninsula (alt: Gray shaker kitchen with stainless chimney hood, white tile backsplash and pendant lights over a peninsula)
-- `images/maps_02.jpg`: Gray cabinets and plank flooring (alt: Gray shaker cabinets, white countertops and stainless range along one wall with gray plank floor)
-- `images/maps_04.jpg`: Kitchen opened toward the patio doors (alt: Kitchen with gray cabinets and white counters leading to French patio doors over wood-look flooring)
-- `images/maps_05.jpg`: Built-in coffee bar with glass-front uppers (alt: Coffee bar built-in with gray base cabinets, white countertop and glass-front upper cabinets)
+- images/maps_01.jpg: White kitchen with a large island and stacked stone column (alt: White raised-panel kitchen with large island, three glass pendant lights, arabesque tile backsplash and dark wood floors)
+- images/maps_03.jpg: Gray shaker cabinets with a white peninsula (alt: Gray shaker kitchen with stainless chimney hood, white tile backsplash and pendant lights over a peninsula)
+- images/maps_02.jpg: Gray cabinets and plank flooring (alt: Gray shaker cabinets, white countertops and stainless range along one wall with gray plank floor)
+- images/maps_04.jpg: Gray cabinets leading to the patio doors (alt: Kitchen with gray cabinets and white counters leading to French patio doors over wood-look flooring)
+- images/maps_05.jpg: Built-in coffee bar with glass-front uppers (alt: Coffee bar built-in with gray base cabinets, white countertop and glass-front upper cabinets)
 
 ## What clients say on Google
 
@@ -137,33 +147,81 @@ The business is at 1215 Birch Hill Dr, Kernersville, NC 27284, and Kernersville 
 
 Call Nathan and tell him about the room you want to change.
 
-[Call (336) 505-1120](tel:+13365051120)  (336) 505-1120
+Button: Call (336) 505-1120 (tel:+13365051120) | Phone: (336) 505-1120
 
 ## Footer
 
-Above & Beyond Construction and Renovations LLC  
-1215 Birch Hill Dr, Kernersville, NC 27284  
-Phone: (336) 505-1120  
-Email: nathanabovebeyondc@gmail.com  
-Hours: Mon to Fri 8 AM to 7 PM, Sat 8 AM to 1 PM, Sun closed  
-Socials: https://www.facebook.com/people/Above-Beyond-Construction-and-Renovations/100075956689834/, https://www.google.com/maps/place/?q=place_id:ChIJm7wqx1YHU4gRsFuCjq1qGAQ&hl=en
+- Above & Beyond Construction and Renovations LLC
+- 1215 Birch Hill Dr, Kernersville, NC 27284
+- Phone: (336) 505-1120
+- Email: nathanabovebeyondc@gmail.com
+- Socials: https://www.facebook.com/people/Above-Beyond-Construction-and-Renovations/100075956689834/, https://www.google.com/maps/place/?q=place_id:ChIJm7wqx1YHU4gRsFuCjq1qGAQ&hl=en
+- Hours: Mon to Fri 8 AM to 7 PM, Sat 8 AM to 1 PM, Sun closed
 
----
+## Structured data (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Above & Beyond Construction and Renovations LLC",
+ "url": null,
+ "telephone": "+13365051120",
+ "email": "nathanabovebeyondc@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "1215 Birch Hill Dr",
+  "addressLocality": "Kernersville",
+  "addressRegion": "NC",
+  "postalCode": "27284",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Kernersville, NC"
+ ],
+ "openingHours": [
+  "Mo-Fr 08:00-19:00",
+  "Sa 08:00-13:00"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/people/Above-Beyond-Construction-and-Renovations/100075956689834/",
+  "https://www.google.com/maps/place/?q=place_id:ChIJm7wqx1YHU4gRsFuCjq1qGAQ&hl=en"
+ ],
+ "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG1nnu-xUOwY0kmRjGVWFlwVVCqTD_pGnTMNAPJlmpo5gmHg67s3c5ZYVRj2t04oYsjmEa410z6CETTFHezVTD1SSQDfbP0JHWInQmpmgOl1SeQYvwyoGzvVoilBiBNiI3d1zTXQ=s0"
+}
+```
+
+## Image plan
+
+- **hero**: real photo images/maps_01.jpg (alt: Kitchen remodeling by Kernersville company Above & Beyond: white kitchen with a large marble-look island, glass-front upper cabinets and arabesque tile backsplash)
+- **service:Kitchen remodeling**: real photo images/maps_03.jpg (alt: Gray shaker kitchen with stainless range hood, three pendant lights and a white peninsula countertop)
+- **service:Opening up walls and layouts**: real photo images/maps_04.jpg (alt: Remodeled kitchen with gray cabinets and wood-look plank flooring running through to glass patio doors)
+- **service:Countertops and flooring**: real photo images/maps_02.jpg (alt: Galley side of a kitchen with gray cabinets, white countertops, stainless appliances and gray plank flooring)
+- **service:Bathroom remodeling**: AI image ai_service_bathroom.jpg (alt: Illustration of a remodeled bathroom with a gray shaker vanity, white quartz top and white tile shower)
+  - Prompt: Photorealistic photo of a remodeled bathroom in a suburban North Carolina home, slate-gray shaker vanity with a white quartz top and a brushed brass faucet, white subway tile walk-in shower with a clear glass door, wood-look plank floor, off-white walls, soft natural light from a side window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.
+- **service:Whole-home and sunroom projects**: real photo images/maps_05.jpg (alt: Built-in coffee station with gray lower cabinets and glass-front upper cabinets beside a living area)
+- **about**: real photo images/maps_04.jpg (alt: Long remodeled kitchen with gray shaker cabinets, white counters and wood-look flooring leading to patio doors)
+- **gallery_1**: real photo images/maps_01.jpg (alt: White raised-panel kitchen with large island, three glass pendant lights, arabesque tile backsplash and dark wood floors)
+- **gallery_2**: real photo images/maps_03.jpg (alt: Gray shaker kitchen with stainless chimney hood, white tile backsplash and pendant lights over a peninsula)
+- **gallery_3**: real photo images/maps_02.jpg (alt: Gray shaker cabinets, white countertops and stainless range along one wall with gray plank floor)
+- **gallery_4**: real photo images/maps_04.jpg (alt: Kitchen with gray cabinets and white counters leading to French patio doors over wood-look flooring)
+- **gallery_5**: real photo images/maps_05.jpg (alt: Coffee bar built-in with gray base cabinets, white countertop and glass-front upper cabinets)
+- **final_cta**: real photo images/maps_01.jpg (alt: White kitchen with a large marble-look island and three glass pendant lights)
 
 ## Brand
 
 - Logo: none
 - Palette: primary #4A5561, accent #B08D57, light #F5F4F1, dark #23272B
 - Palette note: No logo or brand colours found. Proposed from the photos: slate gray of their shaker cabinets, a warm brass accent to lift the white and gray kitchens, off-white like their countertops and a deep charcoal like the dark wood floors.
-- Fonts: Libre Baskerville (headings) / Source Sans 3 (body)
-- Tagline: none
+- Fonts: Libre Baskerville (headings), Source Sans 3 (body)
+- Tagline: None
 - Style direction: Clean, bright and residential: big kitchen photos on white, slate gray type and small brass details, friendly rather than corporate since clients know Nathan by name.
 
 ## Images not to use
 
-- none
+- None
 
-## Outreach (not on the page)
+## Outreach
 
 - Specific detail: The white kitchen with the big marble-look island, arabesque tile backsplash and stacked stone column, and the client who said the wall you removed was still drawing compliments a year later.
 - Angle: You have a perfect 5.0 from all 9 Google reviewers and 15 photos on Maps, but no website, so people searching kitchen remodeling in Kernersville only find a Facebook page and a map pin.
@@ -186,7 +244,7 @@ Socials: https://www.facebook.com/people/Above-Beyond-Construction-and-Renovatio
 
 ## Missing
 
-- Only 5 photos available (all kitchens): gallery has 5, below the 6 to 10 target; no bathroom photo for the bathroom service
+- Needs project photos: only 5 photos available (all kitchens), so the gallery has 5, below the 6 to 10 target
 - Owner's last name and title not published (only 'Nathan' from reviews)
 - Years in business not found
 - NC contractor licence number and insurance not found
@@ -198,3 +256,4 @@ Socials: https://www.facebook.com/people/Above-Beyond-Construction-and-Renovatio
 - Towns beyond Kernersville not named
 - Gemini reviews were unrelated junk text (YouTube, Yelp boilerplate) and were not used
 - Website URL for schema url (no site yet)
+- No bathroom photo: the Bathroom remodeling card uses an AI illustration (ai_service_bathroom.jpg)

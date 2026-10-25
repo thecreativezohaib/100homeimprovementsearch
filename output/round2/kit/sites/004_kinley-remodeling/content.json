@@ -36,13 +36,13 @@
   ],
   "image": {
    "file": "images/maps_02.jpg",
-   "alt": "Kitchen by a remodeling contractor in Erie: white cabinets with glass doors, flowing gray and taupe stone countertop, undermount sink and white subway tile backsplash"
+   "alt": "Kitchen by a remodeling contractor in Erie: white cabinets with glass doors, a flowing gray and taupe stone countertop, undermount sink and white subway tile backsplash"
   }
  },
  "intro": {
   "h2": "The crew people call when a job has to be done right",
   "paragraphs": [
-   "Kinley Remodeling is a remodeling contractor in Erie led by Will, who works with a small crew on kitchens, bathrooms, floors and entryways. The common thread in the reviews is careful tile work and a crew that respects your home.",
+   "Kinley Remodeling is a remodeling contractor in Erie led by Will, who works with his own crew on kitchens, bathrooms, floors and front entries. The common thread in the reviews is careful tile work and a crew that respects your home.",
    "Some customers come to Kinley after something went wrong. One family needed someone to step in and finish a kitchen remodel after an unexpected contractor crisis. Another had an old tile shower floor that was leaking, and Will's crew replaced it so it is 100% waterproof. Customers say the crew shows up on time, keeps the workspace spotless and asks for their input along the way."
   ]
  },
@@ -51,7 +51,7 @@
   "items": [
    {
     "name": "Kitchen remodeling and backsplashes",
-    "blurb": "Kitchen updates from new countertops and sinks to tile backsplashes with under-cabinet lighting. Will even stepped in to finish one family's kitchen remodel after their first contractor fell through, and they called his tile work fantastic.",
+    "blurb": "Kitchen updates from new countertops and sinks to tile backsplashes with under-cabinet lighting. Will even stepped in to finish one family's kitchen remodel after an unexpected contractor crisis, and they called his tile work fantastic.",
     "image": {
      "file": "images/maps_02.jpg",
      "alt": "White kitchen cabinets with glass doors, gray and taupe stone countertop and white subway tile backsplash under LED lighting"
@@ -59,10 +59,10 @@
    },
    {
     "name": "Shower floors and tile showers",
-    "blurb": "Leaking tile shower floors torn out and rebuilt so they are fully waterproof. One recent shower got a pebble mosaic floor with a square drain, large white wall tile and a clean curb with a glass panel.",
+    "blurb": "Leaking tile shower floors torn out and rebuilt so they are fully waterproof. One rebuilt shower got a pebble mosaic floor with a square drain, large white wall tile and a clean white curb with a glass panel.",
     "image": {
      "file": "images/maps_05.jpg",
-     "alt": "Walk-in shower with pebble mosaic floor, square drain, large white wall tiles, white curb and gray stone-look floor tile"
+     "alt": "Walk-in shower with pebble mosaic floor, square drain, large white wall tiles, white curb, glass panel and gray stone-look floor tile"
     }
    },
    {
@@ -106,12 +106,12 @@
  },
  "about": {
   "h2": "About Will and the Kinley crew",
-  "text": "Kinley Remodeling works out of Chelsea Avenue in Erie. Will runs the jobs with his own crew, and customers keep mentioning the same things: excellent communication, a professional crew and work that is worth waiting for. His projects range from shower floors and backsplashes to full kitchens, new flooring and a portico over a front door. Several customers say they will call Will again for future home projects, and Google shows 31 reviews, all five stars, plus 68 photos of finished work.",
+  "text": "Kinley Remodeling works out of Chelsea Avenue in Erie. Will runs the jobs with his own crew, and customers keep mentioning the same things: excellent communication, a professional crew and work that is worth the wait. His projects range from shower floors and backsplashes to full kitchens, new flooring and a portico over a front door. Several customers say they will call Will again for future home projects, and the business holds a 5.0 rating from 31 Google reviews, with 68 photos on its profile.",
   "owner_name": "Will",
   "owner_role": "Runs the jobs and the crew (named in reviews; last name and title not published)",
   "image": {
-   "file": null,
-   "alt": "No photo of Will or the crew on file"
+   "file": "images/maps_04.jpg",
+   "alt": "Brick ranch house in Erie with a new white portico, columns and gabled roof built by Kinley Remodeling"
   }
  },
  "process": {
@@ -123,7 +123,7 @@
    },
    {
     "title": "Talk through the plan",
-    "text": "Will looks at the space with you and asks for your input, so the finished room or entry is exactly what you wanted."
+    "text": "Will looks at the space with you and asks for your input, as customers say he did throughout their projects."
    },
    {
     "title": "Build it right",
@@ -217,11 +217,11 @@
    },
    {
     "q": "What are your hours?",
-    "a": "Google lists Kinley Remodeling as open every day of the week from 9 AM to 8 PM, including weekends. Call (724) 301-7571 during those hours, or email willhopkins269@gmail.com any time with photos and a description of your project, and Will can get back to you."
+    "a": "Kinley Remodeling is open every day of the week from 9 AM to 8 PM, including weekends. Call (724) 301-7571 during those hours, or email willhopkins269@gmail.com at any time with photos and a description of your project, and Will can get back to you."
    },
    {
     "q": "Where are you located?",
-    "a": "The business address is 1411 Chelsea Ave, Erie, PA 16505, and the work featured here is around Erie. If you are outside the city, call with your address and Will can tell you whether your project is within reach for his crew."
+    "a": "The business address is 1411 Chelsea Ave, Erie, PA 16505, and the projects shown here are around Erie. If you live outside the city, call with your address and Will can tell you whether your project is within reach for his crew."
    }
   ]
  },
@@ -270,6 +270,86 @@
   ],
   "image": "images/maps_02.jpg"
  },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Kitchen by a remodeling contractor in Erie: white cabinets with glass doors, a flowing gray and taupe stone countertop, undermount sink and white subway tile backsplash"
+  },
+  {
+   "slot": "service:Kitchen remodeling and backsplashes",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "White kitchen cabinets with glass doors, gray and taupe stone countertop and white subway tile backsplash under LED lighting"
+  },
+  {
+   "slot": "service:Shower floors and tile showers",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Walk-in shower with pebble mosaic floor, square drain, large white wall tiles, white curb, glass panel and gray stone-look floor tile"
+  },
+  {
+   "slot": "service:Flooring",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Dark wood-look plank flooring running through a hallway beside a staircase with black railing"
+  },
+  {
+   "slot": "service:Porticos and front entries",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "New white portico with gabled roof and columns over the front door of a brick ranch house"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Brick ranch house in Erie with a new white portico, columns and gabled roof built by Kinley Remodeling"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "White kitchen with glass-front cabinets, gray and taupe stone countertop and subway tile backsplash"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Shower with pebble mosaic floor, square drain and large white wall tile"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "White portico with columns and gabled roof over a brick ranch house front door"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Brick ranch house with a bare concrete front step before the portico was built"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Dark wood-look plank floor in a hallway beside a staircase"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/social_03.jpg",
+   "source": "real",
+   "alt": "White kitchenette with floating wood shelves, white countertop, stainless refrigerator and microwave"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Pebble mosaic shower floor and gray stone-look tile, used as a darkened background"
+  }
+ ],
  "facts_used": [
   {
    "fact": "Name Kinley Remodeling, category Remodeler, 1411 Chelsea Ave, Erie, PA 16505, +1 724-301-7571, hours 9 AM to 8 PM every day, website listed as facebook.com",
@@ -302,12 +382,14 @@
  ],
  "missing": [
   "Will's last name and title (email suggests Hopkins, not confirmed)",
-  "Licence or PA Home Improvement Contractor number, insurance, warranty, free estimates, financing, years in business: none found",
-  "No logo or brand colours",
+  "License or PA Home Improvement Contractor number, insurance, warranty, free estimates, financing, years in business: none found",
+  "No logo or brand colors",
   "Gemini Facebook data belongs to an unrelated profile; its about text, posts and reviews were not used",
   "social_03 comes from that Facebook capture: confirm with Will that it is his project before publishing",
   "Towns beyond Erie not named",
-  "Countertop service reported only by unreliable Gemini data, not listed as its own service"
+  "Countertop service reported only by unreliable Gemini data, not listed as its own service",
+  "Facebook URL (profile.php?id=61553011979286) was kept in socials and sameAs because Google links the profile to facebook.com, but Gemini's read of it returned an unrelated personal profile; confirm the link with Will",
+  "phone has a 724 area code while the business is in Erie (814); it matches Google, so keep it, but confirm it is Will's current number"
  ],
  "brand": {
   "logo_file": null,
@@ -337,7 +419,7 @@
  ],
  "outreach": {
   "specific_detail": "Karen's review: Will stepped in to finish her kitchen remodel after an unexpected contractor crisis, and she called his tile work fantastic.",
-  "angle": "You have 31 five-star Google reviews and 68 photos, but your Google profile points to a Facebook page instead of a website. A homepage would show the shower floor, kitchen and portico work in one place.",
+  "angle": "You have a 5.0 rating from 31 Google reviews and 68 photos, but your Google profile points to a Facebook page instead of a website. A homepage would show the shower floor, kitchen and portico work in one place.",
   "subject_line_idea": "Will, the contractor people call when the last one leaves"
  }
 }

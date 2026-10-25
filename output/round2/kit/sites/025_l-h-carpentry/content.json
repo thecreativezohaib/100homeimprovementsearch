@@ -36,14 +36,14 @@
   ],
   "image": {
    "file": "images/maps_02.jpg",
-   "alt": "Bathroom double vanity with granite top, two white sinks, black faucets and framed mirror, remodeling by L H Carpentry in Nacogdoches TX"
+   "alt": "Bathroom double vanity with a granite top, two white sinks, black faucets and a framed mirror, part of L H Carpentry's remodeling in Nacogdoches, TX"
   }
  },
  "intro": {
   "h2": "A carpenter you can call for the big jobs and the repairs",
   "paragraphs": [
-   "L H Carpentry does remodeling in Nacogdoches, TX, plus new construction and repairs, for homes and businesses. The business card says it plainly: new construction, remodeling, and repairs to any home or business. That range shows in the work, from a new kitchen island to an awning built over a customer's RV.",
-   "One of the biggest recent jobs was a church. After massive water damage, Lonnie and his crew repaired Trinity Baptist Church in Nacogdoches, including custom-made cabinets, 3,500 square feet of flooring and 2,000 square feet of wall carpet. Small or large, every job starts with a free estimate from Lonnie."
+   "L H Carpentry does remodeling in Nacogdoches, TX, plus new construction and repairs, for homes and businesses. The business card says it plainly: new construction, remodeling, and repairs to any home or business. That range shows clearly in the work, from a new kitchen island to an awning built over a customer's RV.",
+   "One recent job was a church. After massive water damage, Lonnie and his crew repaired Trinity Baptist Church in Nacogdoches, including custom-made cabinets, 3,500 square feet of flooring and 2,000 square feet of wall carpet. Large or small, every job starts with a free estimate from Lonnie."
   ]
  },
  "services": {
@@ -54,12 +54,12 @@
     "blurb": "New cabinets, a new island, countertops and backsplash can change a whole kitchen. In bathrooms we install vanities, tops, sinks and tile walls. Our Facebook page shows kitchen islands and cabinet jobs going back to 2018.",
     "image": {
      "file": "images/maps_02.jpg",
-     "alt": "Double vanity with granite countertop, two white sinks and black fixtures under a large framed mirror"
+     "alt": "Double vanity with a granite countertop, two white sinks and black fixtures under a large framed mirror"
     }
    },
    {
     "name": "Flooring, tile and backsplash",
-    "blurb": "From stacked stone-look wall tile to large floors, we install surfaces that take daily wear. Our church repair alone included 3,500 square feet of new flooring and 2,000 square feet of wall carpet in a single building.",
+    "blurb": "From stacked stone-look wall tile to large floors, we install surfaces that stand up to daily wear. Our church repair alone included 3,500 square feet of new flooring and 2,000 square feet of wall carpet in a single building.",
     "image": {
      "file": "images/maps_01.jpg",
      "alt": "Bathroom wall covered in grey and white stacked stone-look tile"
@@ -70,7 +70,9 @@
     "blurb": "We build and install cabinets that fit the room, including the custom-made cabinets in our church repair job. Kitchen cabinets with a new countertop and backsplash have been part of our remodeling work since at least 2018.",
     "image": {
      "file": null,
-     "alt": null
+     "ai_file_name": "ai_service_custom_cabinets.jpg",
+     "ai_prompt": "Photorealistic photo of newly installed custom stained wood kitchen cabinets with a speckled granite countertop and a simple tile backsplash in a single-story East Texas ranch home, warm cedar wood tones with a brick-red accent in a dish towel, natural daylight from a window over the sink, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3",
+     "alt": "Illustration of stained wood kitchen cabinets with a granite countertop"
     }
    },
    {
@@ -78,15 +80,19 @@
     "blurb": "When water gets in or high winds damage a roof, we repair it. Our Facebook page asks anyone with damage to roofs or anything else after a storm to give us a call at (936) 556-3053.",
     "image": {
      "file": null,
-     "alt": null
+     "ai_file_name": "ai_service_storm_repair.jpg",
+     "ai_prompt": "Photorealistic photo of a freshly repaired asphalt shingle roof with new fascia boards on a single-story brick ranch home in rural East Texas, tall pine trees behind, clear blue sky after a storm, soft natural light, no people, no faces, no text, no logos, no brand names, 4:3",
+     "alt": "Illustration of a repaired shingle roof on a brick ranch home among pine trees"
     }
    },
    {
     "name": "Outdoor builds and new construction",
-    "blurb": "Awnings, metal buildings, skirting, new windows and new steps are all on our list. One customer had Lonnie and his crew build an awning over her RV and said she could not be more pleased with it.",
+    "blurb": "Awnings, metal buildings, skirting, new windows and new steps are all on our list. One customer had Lonnie and his crew build an awning over an RV and wrote that they could not be more pleased.",
     "image": {
      "file": null,
-     "alt": null
+     "ai_file_name": "ai_service_outdoor_builds.jpg",
+     "ai_prompt": "Photorealistic photo of a newly built freestanding awning with treated timber posts and a metal roof covering an empty gravel parking pad beside a rural East Texas home, pine trees and green grass around it, warm afternoon light, no people, no faces, no text, no logos, no brand names, 4:3",
+     "alt": "Illustration of a timber-post awning with a metal roof beside a rural home"
     }
    }
   ]
@@ -96,7 +102,7 @@
   "items": [
    {
     "title": "Free estimates",
-    "text": "Our business card promises free estimates, and we mean it. Call, tell us what you need built or fixed, and get a price before you decide anything."
+    "text": "Free estimates are printed right on our business card. Call, tell us what you need built or fixed, and get a price before you decide anything."
    },
    {
     "title": "The owner on your job",
@@ -119,7 +125,9 @@
   "owner_role": "Owner",
   "image": {
    "file": null,
-   "alt": null
+   "ai_file_name": "ai_about_workshop.jpg",
+   "ai_prompt": "Photorealistic photo of a carpenter's workbench in a rural East Texas workshop, with a circular saw, a framing square, a tape measure and a stack of fresh cedar boards, warm natural light through an open roll-up door, brick-red and cedar tones, no people, no faces, no text, no logos, no brand names, 4:5",
+   "alt": "Illustration of a carpenter's workbench with tools and cedar boards"
   }
  },
  "process": {
@@ -143,7 +151,7 @@
    },
    {
     "title": "Walk it together",
-    "text": "When the job is finished we walk through it with you, so you can see the work and ask about anything you want to check."
+    "text": "When the job is finished, look it over with Lonnie and ask about anything you want to check before we pack up."
    }
   ]
  },
@@ -232,10 +240,6 @@
   "url": null,
   "telephone": "+19365563053",
   "email": "lhcarpentry6@gmail.com",
-  "founder": {
-   "@type": "Person",
-   "name": "Lonnie Hoffman"
-  },
   "address": {
    "@type": "PostalAddress",
    "streetAddress": "3057 Co Rd 723",
@@ -252,7 +256,7 @@
    "https://www.facebook.com/hoffman02",
    "https://www.google.com/maps/place/?q=place_id:ChIJAVJPSxv1N4YRyb2cB_hbu-0&hl=en"
   ],
-  "image": "images/maps_02.jpg",
+  "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCAd6QSzGbzvU5On-XMFrMAsZMDRrCzd1CxDCc53AcaVtal2qNIV6vsWQtAZXySgOAgMQXbCDi0Bbn30VJ_rzK9tcWO_b3Onqjgju18VjzNI5WeqvUw7NahvKEVfdV8ostkijEwg=s0",
   "logo": "images/logo.jpg"
  },
  "facts_used": [
@@ -309,7 +313,9 @@
   "Years in business not stated (Facebook posts go back to 2017; reviews to 8 years ago); no number used",
   "Licence, insurance and warranty not found",
   "Gemini reviews were unrelated web text; not used",
-  "Website URL for schema to be filled in at publish"
+  "Website URL for schema to be filled in at publish",
+  "Needs project photos: only 2 real photos, so cabinets, storm repair, outdoor builds, about and the closing banner use AI illustrations",
+  "Only 1 testimonial, below the 3 to 6 target (see the note on the other reviews above)"
  ],
  "brand": {
   "logo_file": "images/logo.jpg",
@@ -361,5 +367,77 @@
   "specific_detail": "The repair of Trinity Baptist Church in Nacogdoches after massive water damage, with custom-made cabinets, 3,500 square feet of flooring and 2,000 square feet of wall carpet.",
   "angle": "You offer free estimates and have a 5.0 rating on Google, but there is no website and only 22 photos on your profile. A homepage could show the church job and your kitchens so people in Nacogdoches see the range of work you do.",
   "subject_line_idea": "The Trinity Baptist Church repair, on a homepage"
- }
+ },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Bathroom double vanity with a granite top, two white sinks, black faucets and a framed mirror, part of L H Carpentry's remodeling in Nacogdoches, TX"
+  },
+  {
+   "slot": "service:Kitchen and bathroom remodeling",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Double vanity with a granite countertop, two white sinks and black fixtures under a large framed mirror"
+  },
+  {
+   "slot": "service:Flooring, tile and backsplash",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Bathroom wall covered in grey and white stacked stone-look tile"
+  },
+  {
+   "slot": "service:Custom cabinets",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_custom_cabinets.jpg",
+   "ai_prompt": "Photorealistic photo of newly installed custom stained wood kitchen cabinets with a speckled granite countertop and a simple tile backsplash in a single-story East Texas ranch home, warm cedar wood tones with a brick-red accent in a dish towel, natural daylight from a window over the sink, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3",
+   "alt": "Illustration of stained wood kitchen cabinets with a granite countertop"
+  },
+  {
+   "slot": "service:Water and storm damage repair",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_storm_repair.jpg",
+   "ai_prompt": "Photorealistic photo of a freshly repaired asphalt shingle roof with new fascia boards on a single-story brick ranch home in rural East Texas, tall pine trees behind, clear blue sky after a storm, soft natural light, no people, no faces, no text, no logos, no brand names, 4:3",
+   "alt": "Illustration of a repaired shingle roof on a brick ranch home among pine trees"
+  },
+  {
+   "slot": "service:Outdoor builds and new construction",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_outdoor_builds.jpg",
+   "ai_prompt": "Photorealistic photo of a newly built freestanding awning with treated timber posts and a metal roof covering an empty gravel parking pad beside a rural East Texas home, pine trees and green grass around it, warm afternoon light, no people, no faces, no text, no logos, no brand names, 4:3",
+   "alt": "Illustration of a timber-post awning with a metal roof beside a rural home"
+  },
+  {
+   "slot": "about",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_about_workshop.jpg",
+   "ai_prompt": "Photorealistic photo of a carpenter's workbench in a rural East Texas workshop, with a circular saw, a framing square, a tape measure and a stack of fresh cedar boards, warm natural light through an open roll-up door, brick-red and cedar tones, no people, no faces, no text, no logos, no brand names, 4:5",
+   "alt": "Illustration of a carpenter's workbench with tools and cedar boards"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Double vanity with granite top, two white sinks, black faucets and a large black-framed mirror"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Bathroom wall finished in grey and white stacked stone-look tile"
+  },
+  {
+   "slot": "final_cta",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_cta_timber.jpg",
+   "ai_prompt": "Photorealistic wide photo looking up at exposed cedar timber-frame beams and rafters against a soft evening sky, warm brick-red and cedar tones, natural golden-hour light, plenty of calm space for text overlay, no people, no faces, no text, no logos, no brand names, 21:9",
+   "alt": "Illustration of cedar timber-frame beams against an evening sky"
+  }
+ ]
 }

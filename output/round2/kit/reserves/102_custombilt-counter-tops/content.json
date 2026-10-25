@@ -30,7 +30,12 @@
    "Huge selection of Formica colors",
    "Open weekdays from 7:30 AM"
   ],
-  "image": null,
+  "image": {
+   "file": null,
+   "ai_file_name": "ai_hero.jpg",
+   "ai_prompt": "Photorealistic photo of a finished kitchen in a modest single-story brick ranch home in Waycross, Georgia, with new laminate countertops in a warm speckled stone pattern and a squared front edge, white painted cabinets, a stainless drop-in sink under a window, warm off-white walls and a deep navy painted island, soft natural morning light, tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 16:9 aspect ratio.",
+   "alt": "Illustration of a Waycross, GA kitchen with new speckled laminate countertops and a navy island"
+  },
   "primary_cta": {
    "label": "Call (912) 283-5704",
    "href": "tel:+19122835704"
@@ -40,7 +45,7 @@
   "h2": "Countertops in Waycross, built for your kitchen",
   "paragraphs": [
    "Custombilt Counter Tops makes countertops in Waycross from its shop at 1822 Albany Ave. Reviewers describe a family-owned business with a huge selection of Formica colors and staff who help you get it right, even if you plan to do the install yourself.",
-   "The jobs range in size. One customer had the shop put together tops for three kitchens, one of them needing all custom-made tops. Another, a self-described do-it-yourselfer, came in for new countertops and left recommending the shop for good, friendly service. Google's review highlights mention very reasonable prices, excellent workmanship and outstanding customer service. To see colors in person, stop by the shop on a weekday morning."
+   "The jobs range in size. One customer had the shop put together tops for three kitchens, one of them needing all custom-made tops. Another, a self-described do-it-yourselfer, came in for new countertops and left recommending the shop for good, friendly service. Google's review highlights mention very reasonable prices, excellent workmanship and outstanding customer service. To see colors in person, stop by the shop on a weekday."
   ]
  },
  "services": {
@@ -49,22 +54,42 @@
    {
     "name": "Formica laminate countertops",
     "blurb": "Reviewers point to a huge selection of Formica colors, so you can match a countertop to your cabinets, floor or paint. Come by the shop on Albany Ave during the week to look at colors and talk through your layout.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_laminate.jpg",
+     "ai_prompt": "Photorealistic photo of a kitchen countertop run in a smooth solid-color laminate with a fan of plain, unlabelled laminate sample chips in navy, amber, cream and grey spread across it, white cabinets below, warm natural light from a side window, in a finished kitchen in a modest single-story brick ranch home in Waycross, Georgia; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Laminate countertop with a fan of color sample chips spread across it"
+    }
    },
    {
     "name": "Custom-made tops",
     "blurb": "Not every kitchen fits a standard size. One customer needed every top in one of his kitchens custom made and thanked the shop for being very helpful and professional. Bring your measurements and the shop can talk through what your space needs.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_custom_tops.jpg",
+     "ai_prompt": "Photorealistic photo of an L-shaped kitchen where a laminate countertop is cut to fit an angled corner and wraps onto a short peninsula, wood-look laminate surface, cream cabinets, natural daylight, in a finished kitchen in a modest single-story brick ranch home in Waycross, Georgia; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "L-shaped kitchen with a laminate countertop cut to fit an angled corner and peninsula"
+    }
    },
    {
     "name": "Countertops for several kitchens",
     "blurb": "If you are redoing more than one kitchen, you can order all the tops from one shop. One reviewer had Custombilt put together tops for three kitchens at once and wrote a five-star review afterward. Call ahead to talk through quantities and timing.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_multiple_kitchens.jpg",
+     "ai_prompt": "Photorealistic photo of a simple, freshly updated kitchen in a small Southern rental home, new light grey laminate countertops with a matching backsplash strip, white cabinets, vinyl floor, bright natural light, clean and move-in ready; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Small updated kitchen with new light grey laminate countertops"
+    }
    },
    {
     "name": "Help for do-it-yourselfers",
     "blurb": "If you plan to set the countertops yourself, you can still get help choosing and ordering them. A do-it-yourselfer wrote that the staff helped him with his new countertops and that he highly recommends the shop for friendly service.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_diy.jpg",
+     "ai_prompt": "Photorealistic photo of a newly installed laminate countertop with a drop-in stainless sink in a finished kitchen in a modest single-story brick ranch home in Waycross, Georgia, a tape measure and a carpenter's level resting on the counter as if the homeowner just finished the install, warm natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "New laminate countertop with a drop-in sink, a tape measure and a level resting on it"
+    }
    }
   ]
  },
@@ -73,19 +98,19 @@
   "items": [
    {
     "title": "Family owned",
-    "text": "A longtime Google reviewer called Custombilt a great family owned business. You deal with the people who run the shop, not a call center or a big-box counter."
+    "text": "A Google reviewer called Custombilt a great family owned business. You deal with the people who run the shop, not a call center or a big-box store counter."
    },
    {
     "title": "A big color selection",
-    "text": "The same reviewer singled out the huge selection of Formica colors. More choices in the shop means a better chance of finding the shade you have in mind."
+    "text": "Harold G. singled out the huge selection of Formica colors. More choices in the shop means a better chance of finding the shade you have in mind."
    },
    {
     "title": "Custom work, not just stock sizes",
     "text": "One customer ordered tops for three kitchens, including one kitchen that needed every top custom made, and described the shop as very helpful and professional."
    },
    {
-    "title": "Prices customers mention",
-    "text": "Google's review highlights quote customers praising great customer service, friendly staff and very reasonable prices, along with excellent workmanship and outstanding customer service."
+    "title": "Fair prices and good service",
+    "text": "Customers quoted in Google's review highlights mention very reasonable prices, friendly staff and excellent workmanship, and two of the highlights praise the shop's customer service."
    }
   ]
  },
@@ -94,7 +119,12 @@
   "text": "Custombilt Counter Tops works out of 1822 Albany Ave in Waycross, Georgia, and its Facebook page puts it simply: quality countertops for the Waycross area, with a professional staff ready to help. Customers on Google describe a family-owned business that helps do-it-yourselfers, keeps a large range of Formica colors and can build custom tops when standard sizes will not do. The shop opens at 7:30 AM Monday to Friday, so you can stop in before work. It holds 4.6 stars from 27 Google reviews.",
   "owner_name": null,
   "owner_role": "Family-owned per a Google review; owner name not published",
-  "image": null
+  "image": {
+   "file": null,
+   "ai_file_name": "ai_about_shop.jpg",
+   "ai_prompt": "Photorealistic photo of the inside of a small, tidy countertop workshop in South Georgia: a long workbench with a finished laminate countertop section on it, a wall rack of plain unlabelled laminate color chips, stacked sheets of laminate, daylight from an open roll-up door; no people, no faces, no text, no logos, no brand names; 4:5 aspect ratio.",
+   "alt": "Small countertop workshop with a workbench and a wall of laminate color chips"
+  }
  },
  "process": {
   "h2": "How ordering countertops works",
@@ -158,7 +188,7 @@
    },
    {
     "q": "What are your hours?",
-    "a": "Google lists Monday to Thursday 7:30 AM to 4:30 PM and Friday 7:30 AM to 4 PM. The shop is closed on Saturday and Sunday, so plan a weekday visit to see colors and place an order."
+    "a": "Google lists Monday to Thursday 7:30 AM to 4:30 PM and Friday 7:30 AM to 4 PM. The shop is closed on Saturday and Sunday, so plan a weekday visit to see colors and place an order, or call (912) 283-5704 first."
    },
    {
     "q": "Where is the shop?",
@@ -258,7 +288,7 @@
   }
  ],
  "missing": [
-  "Needs project photos: Google shows no photos and none were found on Facebook; hero, services and gallery have no images",
+  "Needs project photos: Google shows no photos and none were found on Facebook; the gallery is empty and the hero, service cards, about and CTA use AI illustrations until real countertop photos are supplied",
   "Logo and brand colours: none found",
   "Owner name and how long the family has run the shop: not found",
   "Materials beyond Formica laminate (quartz, granite, solid surface): not confirmed, left out",
@@ -290,5 +320,63 @@
   "specific_detail": "Harold G.'s review calling Custombilt a great family owned business with a huge selection of Formica colors that helped him as a do-it-yourselfer.",
   "angle": "4.6 stars from 27 Google reviews, but the Google listing has no photos and no website, so people choosing countertops cannot see a single color or finished kitchen before they call.",
   "subject_line_idea": "Your Formica colors, online"
- }
+ },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_hero.jpg",
+   "ai_prompt": "Photorealistic photo of a finished kitchen in a modest single-story brick ranch home in Waycross, Georgia, with new laminate countertops in a warm speckled stone pattern and a squared front edge, white painted cabinets, a stainless drop-in sink under a window, warm off-white walls and a deep navy painted island, soft natural morning light, tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 16:9 aspect ratio.",
+   "alt": "Illustration of a Waycross, GA kitchen with new speckled laminate countertops and a navy island"
+  },
+  {
+   "slot": "service:Formica laminate countertops",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_laminate.jpg",
+   "ai_prompt": "Photorealistic photo of a kitchen countertop run in a smooth solid-color laminate with a fan of plain, unlabelled laminate sample chips in navy, amber, cream and grey spread across it, white cabinets below, warm natural light from a side window, in a finished kitchen in a modest single-story brick ranch home in Waycross, Georgia; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Laminate countertop with a fan of color sample chips spread across it"
+  },
+  {
+   "slot": "service:Custom-made tops",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_custom_tops.jpg",
+   "ai_prompt": "Photorealistic photo of an L-shaped kitchen where a laminate countertop is cut to fit an angled corner and wraps onto a short peninsula, wood-look laminate surface, cream cabinets, natural daylight, in a finished kitchen in a modest single-story brick ranch home in Waycross, Georgia; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "L-shaped kitchen with a laminate countertop cut to fit an angled corner and peninsula"
+  },
+  {
+   "slot": "service:Countertops for several kitchens",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_multiple_kitchens.jpg",
+   "ai_prompt": "Photorealistic photo of a simple, freshly updated kitchen in a small Southern rental home, new light grey laminate countertops with a matching backsplash strip, white cabinets, vinyl floor, bright natural light, clean and move-in ready; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Small updated kitchen with new light grey laminate countertops"
+  },
+  {
+   "slot": "service:Help for do-it-yourselfers",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_diy.jpg",
+   "ai_prompt": "Photorealistic photo of a newly installed laminate countertop with a drop-in stainless sink in a finished kitchen in a modest single-story brick ranch home in Waycross, Georgia, a tape measure and a carpenter's level resting on the counter as if the homeowner just finished the install, warm natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "New laminate countertop with a drop-in sink, a tape measure and a level resting on it"
+  },
+  {
+   "slot": "about",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_about_shop.jpg",
+   "ai_prompt": "Photorealistic photo of the inside of a small, tidy countertop workshop in South Georgia: a long workbench with a finished laminate countertop section on it, a wall rack of plain unlabelled laminate color chips, stacked sheets of laminate, daylight from an open roll-up door; no people, no faces, no text, no logos, no brand names; 4:5 aspect ratio.",
+   "alt": "Small countertop workshop with a workbench and a wall of laminate color chips"
+  },
+  {
+   "slot": "final_cta",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_cta_background.jpg",
+   "ai_prompt": "Photorealistic wide photo of a long, finished kitchen countertop in warm speckled laminate with white cabinets below and a deep navy wall above, soft late-afternoon natural light, simple and uncluttered with darker tones toward one side so text can sit on top; no people, no faces, no text, no logos, no brand names; 21:9 aspect ratio.",
+   "alt": "Long kitchen countertop in warm speckled laminate against a navy wall"
+  }
+ ]
 }

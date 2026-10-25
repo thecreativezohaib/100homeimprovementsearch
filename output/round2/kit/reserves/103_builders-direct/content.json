@@ -30,7 +30,12 @@
    "Layout help from knowledgeable staff",
    "Open Saturday mornings"
   ],
-  "image": null,
+  "image": {
+   "file": null,
+   "ai_file_name": "ai_hero.jpg",
+   "ai_prompt": "Photorealistic photo of a newly remodeled kitchen in an older two-story brick home in Hazleton, Pennsylvania: white shaker cabinets, a slate-blue island with a light quartz-look top, a white subway tile backsplash, warm oak-look plank floor, a window over the sink with soft natural daylight, tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 16:9 aspect ratio.",
+   "alt": "Illustration of kitchen remodeling in a Hazleton, PA home: white shaker cabinets, a slate-blue island and a new plank floor"
+  },
   "primary_cta": {
    "label": "Call (570) 501-1133",
    "href": "tel:+15705011133"
@@ -40,7 +45,7 @@
   "h2": "Start your kitchen remodeling in Hazleton with a plan",
   "paragraphs": [
    "Builders Direct is where many people start kitchen remodeling in Hazleton: a store at 757 W Broad St with a lot of displays and staff who help you work out your layout. Its Facebook page sums up the range in four words: Kitchen, Bath, Flooring & More.",
-   "What reviewers come back to is the people. One customer was missing a measurement for a bathroom vanity, and Tim laid out her options and made it work. Another praised the knowledgeable staff and good pricing. Google's review highlights add 'Low prices on great stuff' and 'Great place for remodeling.' Bring your measurements and ideas, and plan the room before you buy."
+   "What reviewers come back to is the people. One customer was missing a measurement for a bathroom vanity, and Tim laid out her options and made it work. Another praised the knowledgeable staff and good pricing, and a third mentioned the number of displays and the help with layouts. Bring your measurements and ideas, and plan the room before you buy."
   ]
  },
  "services": {
@@ -49,22 +54,42 @@
    {
     "name": "Kitchen planning and displays",
     "blurb": "See kitchen displays in person instead of guessing from a catalog. Reviewers describe a lot of displays and very knowledgeable people who help you with your layout, so you can work out what fits your room before anything is ordered.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_kitchen_planning.jpg",
+     "ai_prompt": "Photorealistic photo of a finished L-shaped kitchen in an older two-story brick home in Hazleton, Pennsylvania with cabinets that fit the room's angles exactly, a corner sink under a window, light countertops and warm natural light, showing a well-planned layout; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Finished L-shaped kitchen with a corner sink and a well-planned cabinet layout"
+    }
    },
    {
     "name": "Bathroom vanities",
     "blurb": "A vanity has to fit the space exactly. When one customer arrived missing a measurement for her bathroom vanity, Tim presented her options and made it work. Bring what measurements you have and the staff can help you choose.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_vanity.jpg",
+     "ai_prompt": "Photorealistic photo of a small updated bathroom in an older two-story brick home in Hazleton, Pennsylvania with a new slate-blue single-sink vanity, white top, brushed nickel faucet and a framed mirror, white tile wainscot, soft natural light from a frosted window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Small bathroom with a new slate-blue vanity, white top and framed mirror"
+    }
    },
    {
     "name": "Countertops",
-    "blurb": "Countertops are part of the kitchen and bath range at Builders Direct, according to its Facebook page. Talk to the staff about choosing tops that suit your cabinets and layout while you are planning the rest of the room in the store.",
-    "image": null
+    "blurb": "The Builders Direct Facebook page lists countertops alongside its kitchen and bath work. Choose your tops while you plan the rest of the room in the store, so the color and size suit your cabinets and layout. Ask the staff which options fit your budget.",
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_countertops.jpg",
+     "ai_prompt": "Photorealistic close view of a new light quartz-look kitchen countertop with an undermount sink and a simple eased edge on white cabinets, a few cabinet door and countertop samples resting nearby, natural daylight; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "New light quartz-look countertop with an undermount sink on white cabinets"
+    }
    },
    {
     "name": "Flooring",
     "blurb": "Flooring is right in the Facebook tagline: Kitchen, Bath, Flooring & More. Pick your floor at the same time as your cabinets and vanity so colors and finishes work together, and ask the staff what suits a kitchen or bathroom.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_flooring.jpg",
+     "ai_prompt": "Photorealistic photo of a kitchen and hallway in an older two-story brick home in Hazleton, Pennsylvania with new wide warm-oak luxury vinyl plank flooring running through both rooms, white cabinets at the edge of the frame, bright natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Kitchen and hallway with new wide oak-look vinyl plank flooring"
+    }
    }
   ]
  },
@@ -73,7 +98,7 @@
   "items": [
    {
     "title": "Staff who know the products",
-    "text": "'Knowledgeable staff' comes up again and again: Google even tags it as a review theme. Don B. summed it up as good selection, knowledgeable staff, good pricing."
+    "text": "Knowledgeable staff is the theme Google picks out of the reviews most often. Don B. summed up his visit as good selection, knowledgeable staff, good pricing."
    },
    {
     "title": "Help with your layout",
@@ -84,17 +109,22 @@
     "text": "Kathryn H. came in without a key vanity measurement. Instead of sending her home, Tim presented her options and made it work. She left very impressed."
    },
    {
-    "title": "Prices people mention",
-    "text": "Google review highlights include 'Low prices on great stuff' and 'Good selection, knowledgeable staff, good pricing.' The store holds 4.9 stars from 22 Google reviews."
+    "title": "Prices and selection",
+    "text": "Two of the highlights Google pulls from the reviews are 'Low prices on great stuff' and 'Great place for remodeling.' The store holds 4.9 stars from 22 Google reviews."
    }
   ]
  },
  "about": {
   "h2": "A Hazleton store for kitchen and bath projects",
-  "text": "Builders Direct is a kitchen supply store at 757 W Broad St in Hazleton, Pennsylvania. The idea is simple: come in, see the products on display and plan your kitchen or bathroom with people who know them. Tim is one of the staff reviewers mention by name, for sorting out a bathroom vanity when a measurement was missing. The store is open six days a week, including Saturday mornings, and its Facebook page has more than 500 followers. On Google it holds 4.9 stars from 22 reviews.",
+  "text": "Builders Direct is a kitchen supply store at 757 W Broad St in Hazleton, Pennsylvania. The idea is simple: come in, see the products on display and plan your kitchen or bathroom with people who know them. Tim is one of the staff reviewers mention by name, for sorting out a bathroom vanity when a measurement was missing. The store is open six days a week, including Saturday mornings, and its Facebook page has more than 500 followers. It has 4.9 stars from 22 Google reviews.",
   "owner_name": null,
   "owner_role": "Owner not published; staff member Tim named in a review",
-  "image": null
+  "image": {
+   "file": null,
+   "ai_file_name": "ai_about_planning.jpg",
+   "ai_prompt": "Photorealistic overhead photo of a kitchen planning table: a hand-drawn kitchen floor plan on graph paper, a tape measure, a pencil, cabinet door samples in white and slate blue, a countertop sample and a flooring plank sample, warm natural light; no people, no faces, no text, no logos, no brand names; 4:5 aspect ratio.",
+   "alt": "Kitchen floor plan sketch with a tape measure and cabinet, countertop and flooring samples"
+  }
  },
  "process": {
   "h2": "How to plan your project with Builders Direct",
@@ -266,13 +296,13 @@
   }
  ],
  "missing": [
-  "Needs project photos: the only Google photo is a sunset street scene; no showroom, display or project photos found",
+  "Needs project photos: the only Google photo is a sunset street scene; no showroom, display or project photos found, so the gallery is empty and the hero, service cards, about and CTA use AI illustrations",
   "Logo and brand colours: none found",
   "Owner name and years in business: not found",
   "Brands carried and cabinet lines: not found",
   "Whether Builders Direct installs or only supplies: not stated, so the page talks about planning and buying only",
   "Delivery, warranty, financing, free design help: not stated, left out",
-  "Instagram @buildersdirectusa (101 followers per Gemini) not checked; kept in socials as listed in research",
+  "Instagram @buildersdirectusa (101 followers per Gemini) not opened or checked; kept in socials and sameAs as listed in research, confirm it belongs to this Hazleton store",
   "gemini_reviews were unrelated web text, not used"
  ],
  "brand": {
@@ -301,5 +331,63 @@
   "specific_detail": "Kathryn H.'s review: she was missing a measurement for her bathroom vanity and Tim presented her options and made it work.",
   "angle": "4.9 stars from 22 Google reviews and 549 Facebook followers, yet the Google listing has only 2 photos (one is a sunset) and no website, so nobody can see the displays reviewers rave about before they drive over.",
   "subject_line_idea": "Your displays deserve to be seen online"
- }
+ },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_hero.jpg",
+   "ai_prompt": "Photorealistic photo of a newly remodeled kitchen in an older two-story brick home in Hazleton, Pennsylvania: white shaker cabinets, a slate-blue island with a light quartz-look top, a white subway tile backsplash, warm oak-look plank floor, a window over the sink with soft natural daylight, tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 16:9 aspect ratio.",
+   "alt": "Illustration of kitchen remodeling in a Hazleton, PA home: white shaker cabinets, a slate-blue island and a new plank floor"
+  },
+  {
+   "slot": "service:Kitchen planning and displays",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_kitchen_planning.jpg",
+   "ai_prompt": "Photorealistic photo of a finished L-shaped kitchen in an older two-story brick home in Hazleton, Pennsylvania with cabinets that fit the room's angles exactly, a corner sink under a window, light countertops and warm natural light, showing a well-planned layout; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Finished L-shaped kitchen with a corner sink and a well-planned cabinet layout"
+  },
+  {
+   "slot": "service:Bathroom vanities",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_vanity.jpg",
+   "ai_prompt": "Photorealistic photo of a small updated bathroom in an older two-story brick home in Hazleton, Pennsylvania with a new slate-blue single-sink vanity, white top, brushed nickel faucet and a framed mirror, white tile wainscot, soft natural light from a frosted window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Small bathroom with a new slate-blue vanity, white top and framed mirror"
+  },
+  {
+   "slot": "service:Countertops",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_countertops.jpg",
+   "ai_prompt": "Photorealistic close view of a new light quartz-look kitchen countertop with an undermount sink and a simple eased edge on white cabinets, a few cabinet door and countertop samples resting nearby, natural daylight; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "New light quartz-look countertop with an undermount sink on white cabinets"
+  },
+  {
+   "slot": "service:Flooring",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_flooring.jpg",
+   "ai_prompt": "Photorealistic photo of a kitchen and hallway in an older two-story brick home in Hazleton, Pennsylvania with new wide warm-oak luxury vinyl plank flooring running through both rooms, white cabinets at the edge of the frame, bright natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Kitchen and hallway with new wide oak-look vinyl plank flooring"
+  },
+  {
+   "slot": "about",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_about_planning.jpg",
+   "ai_prompt": "Photorealistic overhead photo of a kitchen planning table: a hand-drawn kitchen floor plan on graph paper, a tape measure, a pencil, cabinet door samples in white and slate blue, a countertop sample and a flooring plank sample, warm natural light; no people, no faces, no text, no logos, no brand names; 4:5 aspect ratio.",
+   "alt": "Kitchen floor plan sketch with a tape measure and cabinet, countertop and flooring samples"
+  },
+  {
+   "slot": "final_cta",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_cta_background.jpg",
+   "ai_prompt": "Photorealistic wide photo of a remodeled kitchen in an older two-story brick home in Hazleton, Pennsylvania with white cabinets, a slate-blue island and warm oak-look floor, soft evening light through the windows, calm and uncluttered with darker tones on one side so text can sit on top; no people, no faces, no text, no logos, no brand names; 21:9 aspect ratio.",
+   "alt": "Remodeled kitchen with white cabinets and a slate-blue island in evening light"
+  }
+ ]
 }

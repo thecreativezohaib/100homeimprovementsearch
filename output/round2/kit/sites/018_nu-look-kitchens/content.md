@@ -7,7 +7,7 @@
 - Primary keyword: cabinet refacing Dubuque
 - Secondary keywords: kitchen cabinet refacing Dubuque IA, new kitchen cabinets Dubuque, kitchen countertops Dubuque IA, kitchen remodel Dubuque, reface kitchen cabinets Iowa, kitchen cabinet installation Dubuque
 - OG title: Nu-Look Kitchens: Cabinet Refacing in Dubuque, IA
-- OG description: Reface or replace your kitchen cabinets and add new countertops. Kent plans it with you, and one family's new cabinets went in in under two days.
+- OG description: Reface or replace your kitchen cabinets and add new countertops. Kent plans every detail with you, and one family's new cabinets went in within two days.
 
 ## Hero
 
@@ -20,7 +20,7 @@ Nu-Look Kitchens refaces and replaces kitchen cabinets and adds new countertops,
 - Button: Call (563) 582-4680 (tel:+15635824680)
 - Button: Ask about refacing your kitchen (#contact)
 - Trust badges: 5.0 stars from 11 Google reviews | Plan your kitchen one-on-one with Kent | Reviewers praise quick installs
-- Image: images/maps_02.jpg (alt: Cabinet refacing, Dubuque kitchen company Nu-Look: cream raised-panel kitchen cabinets with crown moulding, white granite island and grey glass tile backsplash)
+- Image: images/maps_02.jpg (real photo). Alt: Cream raised-panel kitchen cabinets and a white granite island by Nu-Look Kitchens, a cabinet refacing company in Dubuque, IA
 
 ## A new look for the kitchen you already have
 
@@ -34,19 +34,19 @@ Rik and Toni had their cabinets refaced in a 60-year-old home and wrote that it 
 
 Refacing keeps your cabinet layout and boxes and gives them a new face. Rik and Toni's 60-year-old kitchen got refaced cabinets, which they paired with new countertops, a sink, a mosaic backsplash and a new floor for what they call a gourmet kitchen.
 
-Image: images/maps_03.jpg (alt: Refaced oak kitchen cabinets with white countertops, glass mosaic backsplash and double stainless sink in a 60-year-old home)
+Image: images/maps_03.jpg (real photo). Alt: Refaced oak kitchen cabinets with white countertops, glass mosaic backsplash and double stainless sink in a 60-year-old home
 
 ### New kitchen cabinets
 
 When you want new cabinets, Nu-Look supplies and installs them. Customers describe the cabinets as excellent quality and very reasonably priced, and one family had their new cabinets installed in less than two days, with everything covered and cleaned up afterwards.
 
-Image: images/maps_02.jpg (alt: Cream raised-panel kitchen cabinets with tall pantry, brushed nickel pulls and crown moulding)
+Image: images/maps_02.jpg (real photo). Alt: Cream raised-panel kitchen cabinets with a tall pantry, brushed nickel pulls and crown moulding
 
 ### Countertops
 
-New countertops finish a refaced or new-cabinet kitchen. Recent kitchens show white granite with grey and black veining on a work run and island, and light solid tops wrapping a U-shaped kitchen around a double undermount sink.
+New countertops finish a refaced or new-cabinet kitchen. Nu-Look's photos show white granite with grey and black veining on a work run and island, and light countertops wrapping a U-shaped oak kitchen around a double sink. Ask Kent which materials suit your cabinets.
 
-Image: images/maps_04.jpg (alt: U-shaped kitchen with refaced oak cabinets, light countertops and double sink under the window)
+Image: images/maps_04.jpg (real photo). Alt: U-shaped kitchen with refaced oak cabinets, light countertops and a double sink under the window
 
 ## Why homeowners choose Nu-Look
 
@@ -68,18 +68,18 @@ Reviewers call the cabinets excellent quality and Nu-Look very reasonably priced
 
 ## About Nu-Look Kitchens
 
-Nu-Look Kitchens is a kitchen remodeler focused on cabinet refacing, new cabinets and countertops. Kent is the person customers sit down with to plan the kitchen, and he signs the owner's replies on Google himself, thanking families by name. Installers Dan and Al are mentioned in reviews for fast, careful work and for solving problems on tricky jobs. The company has 71 photos on its Google profile, from refaced oak kitchens in older homes to cream raised-panel kitchens with granite islands. Its email address, refacing@yousq.net, says what it is known for.
+Nu-Look Kitchens is a Dubuque kitchen remodeler focused on cabinet refacing, new cabinets and countertops. Kent is the person customers sit down with to plan the work, and he answers Google reviews himself, thanking families by name. Reviewers also name the installers: Dan, who put in one family's cabinets in less than two days, and Al, whom another customer recommends after a job with some challenging issues. The Google profile holds 71 photos, from refaced oak kitchens in older homes to cream raised-panel kitchens with granite islands.
 
 Owner: Kent (Owner (signs the owner replies on Google))
 
-Image: images/maps_01.jpg (alt: Nu-Look Kitchens crew installing cream glass-front cabinets and a granite countertop in a kitchen)
+Image: images/maps_01.jpg (real photo). Alt: Nu-Look Kitchens installers fitting white cabinets with glass-front uppers above new light stone countertops
 
 ## How it works
 
-1. **Call Kent**: Call (563) 582-4680 or email refacing@yousq.net to talk about refacing or replacing your kitchen cabinets.
-2. **Sit down and plan**: Kent sits down with you and goes over everything in detail: refacing or new cabinets, finishes, countertops and price.
-3. **Installation**: The installer covers your floors and counters, installs cabinets and countertops, and works through any surprises an older home brings.
-4. **Clean up and enjoy**: The crew cleans up everything when the work is done, and Kent stays available if you have questions afterwards.
+1. **Call Kent.** Call (563) 582-4680 or email refacing@yousq.net to talk about refacing or replacing your kitchen cabinets.
+2. **Sit down and plan.** Kent sits down with you and goes over everything in detail: refacing or new cabinets, finishes, countertops and price.
+3. **Installation.** The installer covers everything to protect your home, puts in the cabinets and countertops, and works through any surprises an older home brings.
+4. **Clean up and enjoy.** The crew cleans up everything when the work is done. Customers say Kent is very responsive whenever they reach out with a question.
 
 ## Kitchens by Nu-Look
 
@@ -87,7 +87,7 @@ Image: images/maps_01.jpg (alt: Nu-Look Kitchens crew installing cream glass-fro
 - images/maps_03.jpg: Refaced oak kitchen in a 60-year-old home (alt: Refaced oak cabinets in a U-shaped kitchen with glass mosaic backsplash and light tile floor)
 - images/maps_04.jpg: New countertops, sink and backsplash (alt: Refaced oak kitchen with white countertops, double sink and mosaic backsplash under framed photos)
 - images/maps_05.jpg: The finished refacing job (alt: Wide view of refaced oak cabinets with light counters, gas range and tile floor)
-- images/maps_01.jpg: Installation in progress (alt: Installers fitting cream glass-front upper cabinets and granite counters in a kitchen)
+- images/maps_01.jpg: Installation in progress (alt: Installers fitting white glass-front upper cabinets above new light stone countertops)
 
 ## What customers say
 
@@ -105,7 +105,7 @@ Image: images/maps_01.jpg (alt: Nu-Look Kitchens crew installing cream glass-fro
 
 ## Cabinet refacing in Dubuque and the surrounding area
 
-Nu-Look Kitchens is listed in Dubuque, Iowa, and its refacing, cabinet and countertop work is done in customers' kitchens. Kent sits down with you to plan the project, and the installers handle the work in your home. If you live in or around Dubuque and want to know whether your home is in range, call (563) 582-4680 or email refacing@yousq.net.
+Nu-Look Kitchens is listed in Dubuque, Iowa, and does its refacing, cabinet and countertop work right in your home. Kent sits down with you to plan the project, then the installers take care of the work from there. If you live in or around Dubuque and want to know whether your home is in range, call (563) 582-4680 or email refacing@yousq.net.
 
 Towns: Dubuque, IA
 
@@ -113,7 +113,7 @@ Towns: Dubuque, IA
 
 ### What is cabinet refacing?
 
-Refacing gives your existing cabinets a new face, with new doors and finished surfaces, while the cabinet boxes and layout stay where they are. Rik and Toni had it done in a 60-year-old home and said refacing makes their kitchen look brand new, especially paired with new countertops.
+Refacing gives your existing cabinets a new face, with new doors and finished surfaces, while the cabinet boxes and layout stay where they are. Rik and Toni had it done in a 60-year-old home and said it makes their kitchen look brand new. They paired it with new countertops, a sink, a backsplash and a floor.
 
 ### Can I get new cabinets instead?
 
@@ -121,11 +121,11 @@ Yes. Nu-Look also installs new kitchen cabinets. One family had new cabinets ins
 
 ### Do you do countertops?
 
-Yes. Countertops are one of the things reviewers mention, and recent Nu-Look kitchens show white granite on a work run and island, and light countertops wrapping a U-shaped kitchen around a double sink. Ask Kent which countertop materials suit your refaced or new cabinets.
+Yes. Countertops come up in reviews, and Nu-Look's photos show white granite on a work run and island, and light countertops wrapping a U-shaped kitchen around a double sink. Ask Kent which countertop materials suit your refaced or new cabinets.
 
 ### How long does installation take?
 
-It depends on the size of the kitchen and the work involved. Quick install is a recurring theme in reviews, and one family's new cabinets went in in less than two days. Older homes can bring surprises, and customers say the installers resolve those problems well.
+It depends on the size of the kitchen and the work involved. Quick installs come up again and again in reviews, and one family's new cabinets were installed in less than two days. Older homes can bring surprises, and customers say the installers resolve those problems well.
 
 ### How do I get started?
 
@@ -144,19 +144,65 @@ Button: Call (563) 582-4680 (tel:+15635824680) | Phone: (563) 582-4680
 - Phone: (563) 582-4680
 - Email: refacing@yousq.net
 - Socials: https://www.facebook.com/nulook.kitchens.3, https://www.instagram.com/nulook_kitchens
-- Hours: None
+- Hours: not published
+
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Nu-Look Kitchens",
+ "url": null,
+ "telephone": "+15635824680",
+ "email": "refacing@yousq.net",
+ "address": {
+  "@type": "PostalAddress",
+  "addressLocality": "Dubuque",
+  "addressRegion": "IA",
+  "postalCode": "52003",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Dubuque, IA"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/nulook.kitchens.3",
+  "https://www.instagram.com/nulook_kitchens",
+  "https://www.google.com/maps/place/?q=place_id:ChIJ795HzbAt44cRRZ1NdIbHFvo&hl=en"
+ ],
+ "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLct6KQBdcFuNaicNZ5julisSgmnoZeRhlciuEq05PsZstZbpszwv76bL-dyV4p4AybMghtPnaOw4H3bOC8lRtuIaSEPN0i2QE2a7kBwm2yaCorpvNeCMmA3EnBkOKyeqGmRnA3mTA=s0"
+}
+```
+
+## Image plan
+
+11 slots use real photos, 0 slots use AI illustrations.
+
+- hero: images/maps_02.jpg (real). Alt: Cream raised-panel kitchen cabinets and a white granite island by Nu-Look Kitchens, a cabinet refacing company in Dubuque, IA
+- service:Cabinet refacing: images/maps_03.jpg (real). Alt: Refaced oak kitchen cabinets with white countertops, glass mosaic backsplash and double stainless sink in a 60-year-old home
+- service:New kitchen cabinets: images/maps_02.jpg (real). Alt: Cream raised-panel kitchen cabinets with a tall pantry, brushed nickel pulls and crown moulding
+- service:Countertops: images/maps_04.jpg (real). Alt: U-shaped kitchen with refaced oak cabinets, light countertops and a double sink under the window
+- about: images/maps_01.jpg (real). Alt: Nu-Look Kitchens installers fitting white cabinets with glass-front uppers above new light stone countertops
+- gallery_1: images/maps_02.jpg (real). Alt: Cream raised-panel cabinets with white granite counters, granite island and grey glass hexagon backsplash
+- gallery_2: images/maps_03.jpg (real). Alt: Refaced oak cabinets in a U-shaped kitchen with glass mosaic backsplash and light tile floor
+- gallery_3: images/maps_04.jpg (real). Alt: Refaced oak kitchen with white countertops, double sink and mosaic backsplash under framed photos
+- gallery_4: images/maps_05.jpg (real). Alt: Wide view of refaced oak cabinets with light counters, gas range and tile floor
+- gallery_5: images/maps_01.jpg (real). Alt: Installers fitting white glass-front upper cabinets above new light stone countertops
+- final_cta: images/maps_05.jpg (real). Alt: Wide view of a refaced oak kitchen with light countertops, gas range and tile floor
 
 ## Brand
 
-- Logo: None
+- Logo: none
 - Palette: primary #3F4A52, accent #B5793A, light #F7F4EE, dark #23282C
 - Palette note: brand.json palette is empty and there is no logo. Proposed from the photos: slate grey from the glass tile backsplash (primary), warm oak from the refaced cabinets (accent), cream from the raised-panel cabinets (light) and a deep charcoal for text.
 - Fonts: Merriweather (headings) / Mulish (body)
-- Tagline: None
+- Tagline: none
 - Style direction: Friendly and homey, aimed at owners of older houses: cream and oak with slate, a warm serif, and before-and-after style kitchen photos.
 
 ## Images not to use
 
+- none
 
 ## Outreach
 
@@ -190,5 +236,6 @@ Button: Call (563) 582-4680 (tel:+15635824680) | Phone: (563) 582-4680
 - Logo and brand colours (none found)
 - Bathroom remodeling and custom cabinets: listed by Gemini but not confirmed by any review or photo, so left out
 - Countertop materials offered (granite is visible in photos; other materials not stated)
-- Only 5 photos captured (71 exist on Google), below the 6 to 10 gallery target
 - Domain / website URL for schema url
+- Needs project photos: only 5 real photos were captured (71 exist on Google), so the gallery has 5 of the 6 to 10 target
+- Kent's role as owner is inferred from the 'Response from the owner' replies he signs; confirm his title

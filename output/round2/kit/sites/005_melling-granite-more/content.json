@@ -18,7 +18,7 @@
  },
  "hero": {
   "eyebrow": "Natural stone and quartz, Cedar City, UT",
-  "h1": "Granite Countertops Cedar City Homes Are Proud Of",
+  "h1": "Granite Countertops in Cedar City, Utah",
   "subheadline": "Corri and Mark Melling's shop on Westview Drive helps you pick your own slab in person, then fabricates and installs it in your kitchen or bath.",
   "primary_cta": {
    "label": "Call (435) 867-0099",
@@ -36,13 +36,13 @@
   ],
   "image": {
    "file": "images/cover.jpg",
-   "alt": "Granite countertops Cedar City kitchen by Melling Granite: white veined stone island and a carved stone range hood surround over a black and brass range, with sage gray cabinets"
+   "alt": "White veined stone island and carved stone range hood surround over a black and brass range with sage gray cabinets, a kitchen from Melling Granite, a source for granite countertops in Cedar City"
   }
  },
  "intro": {
   "h2": "Pick the slab, not a picture of it",
   "paragraphs": [
-   "Melling Granite & More makes custom granite countertops Cedar City homeowners can choose in person. Walk into the shop on Westview Drive, look at the actual slabs and pick the one that goes in your kitchen or bath. As one customer put it, you are not expected to make a choice by looking at a picture.",
+   "Melling Granite & More makes custom granite countertops in Cedar City, and you choose the stone in person. Walk into the shop on Westview Drive, look at the actual slabs and pick the one that goes in your kitchen or bath. As one customer put it, you are not expected to make a choice by looking at a picture.",
    "The team specializes in custom natural stone and quartz tops for kitchens and baths, from a single vanity to every stone surface in a whole-house remodel. Reviewers say they get the specifics right up front, do not cut corners and are meticulous from the office to the install crew."
   ]
  },
@@ -58,8 +58,8 @@
     }
    },
    {
-    "name": "Natural stone and quartzite",
-    "blurb": "Marble-look and natural stone tops with dramatic veining for kitchens that want a showpiece. Melissa, a Melling project manager, helped one homeowner find the perfect slabs for a whole-house remodel, including a long walnut island.",
+    "name": "Natural stone tops",
+    "blurb": "Natural stone tops with dramatic veining for kitchens that want a showpiece. Melissa, a Melling project manager, helped one homeowner find the perfect slabs for a whole-house remodel, including the white and green veined top on a long walnut island.",
     "image": {
      "file": "images/maps_04.jpg",
      "alt": "Long walnut island with white and green veined natural stone top under white ribbed pendant lights"
@@ -96,7 +96,7 @@
   "items": [
    {
     "title": "See your slab before you buy",
-    "text": "Jennifer selected her granite during her first visit to the office instead of choosing from a photo. The owners say selecting stone in person is an important part of the process."
+    "text": "Jennifer selected her granite during her visit to the office instead of choosing from a photo. The owners say selecting stone in person is an important part of the process."
    },
    {
     "title": "Specifics up front",
@@ -119,7 +119,7 @@
   "owner_role": "Owners",
   "image": {
    "file": "images/maps_01.jpg",
-   "alt": "Melling Granite shop front with gold and black sign over glass doors and flower planters"
+   "alt": "Melling Granite shop front on Westview Drive in Cedar City, with a gold and black sign over glass doors and flower planters"
   }
  },
  "process": {
@@ -139,7 +139,7 @@
    },
    {
     "title": "Fabrication and install",
-    "text": "The Melling install crew sets your new countertops, carefully and on schedule, and leaves the space clean."
+    "text": "The Melling install crew sets your new countertops. Reviewers mention the crew's attention to detail, promptness and clean work."
    }
   ]
  },
@@ -179,12 +179,12 @@
    {
     "file": "images/social_04.jpg",
     "alt": "Dark brown and gold granite island with chiseled edge on alder cabinets",
-    "caption": "Chiseled-edge granite island, Cedar City"
+    "caption": "Chiseled-edge granite island"
    },
    {
     "file": "images/social_06.jpg",
     "alt": "Kitchen with stacked stone island base, brown granite tops and dark alder cabinets",
-    "caption": "Granite with a stacked stone island, Cedar City"
+    "caption": "Granite with a stacked stone island"
    },
    {
     "file": "images/logo.jpg",
@@ -194,7 +194,7 @@
    {
     "file": "images/social_08.jpg",
     "alt": "Black countertop island with undermount sink and white cabinets",
-    "caption": "Black countertop on a white island, Cedar City"
+    "caption": "Black countertop on a white island"
    }
   ]
  },
@@ -222,8 +222,8 @@
   ]
  },
  "service_area": {
-  "h2": "Granite countertops Cedar City and nearby",
-  "text": "Melling Granite & More is based at 260 N Westview Dr in Cedar City, Utah, where customers come to see slabs and talk through their project. The shop's posts and projects are in Cedar City. If your home is outside town, call (435) 867-0099 with your location and project to ask whether the install crew can reach you, or email the owners.",
+  "h2": "Granite countertops for Cedar City homes",
+  "text": "Melling Granite & More is based at 260 N Westview Dr in Cedar City, Utah, where customers come to see slabs and talk through their project. Cedar City is home for the shop and its Facebook page. If your home is outside town, call (435) 867-0099 with your location and project to ask whether the install crew can reach you, or email the owners.",
   "towns": [
    "Cedar City, UT"
   ]
@@ -300,6 +300,116 @@
   "logo": "images/social_02.jpg",
   "image": "images/cover.jpg"
  },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "White veined stone island and carved stone range hood surround over a black and brass range with sage gray cabinets, a kitchen from Melling Granite, a source for granite countertops in Cedar City"
+  },
+  {
+   "slot": "service:Granite kitchen countertops",
+   "file": "images/social_04.jpg",
+   "source": "real",
+   "alt": "Large island with dark brown and gold granite top and chiseled edge, set on knotty alder cabinets"
+  },
+  {
+   "slot": "service:Natural stone tops",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Long walnut island with white and green veined natural stone top under white ribbed pendant lights"
+  },
+  {
+   "slot": "service:Quartz countertops",
+   "file": "images/social_08.jpg",
+   "source": "real",
+   "alt": "Black countertop on a white island with undermount sink, white cabinets and a wine fridge"
+  },
+  {
+   "slot": "service:Stone for baths and showers",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Walk-in shower lined with large white veined stone slabs, a built-in niche and a handheld shower"
+  },
+  {
+   "slot": "service:Range hood surrounds and backsplashes",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "Carved white veined stone range hood surround with shelf and full-height stone backsplash over a black range"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Melling Granite shop front on Westview Drive in Cedar City, with a gold and black sign over glass doors and flower planters"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "White veined stone island and carved stone range hood surround with sage gray cabinets and brass hardware"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Walnut island with white and green veined natural stone top and ribbed white pendants"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Walk-in shower with large white veined stone slab walls and built-in niche"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Long granite-topped island with bar stools in an open kitchen with wood and white cabinets"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Speckled granite island with farmhouse sink and bar stools"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/maps_06.jpg",
+   "source": "real",
+   "alt": "Speckled granite countertop under white cabinets with a gas cooktop and wood range hood"
+  },
+  {
+   "slot": "gallery_7",
+   "file": "images/social_04.jpg",
+   "source": "real",
+   "alt": "Dark brown and gold granite island with chiseled edge on alder cabinets"
+  },
+  {
+   "slot": "gallery_8",
+   "file": "images/social_06.jpg",
+   "source": "real",
+   "alt": "Kitchen with stacked stone island base, brown granite tops and dark alder cabinets"
+  },
+  {
+   "slot": "gallery_9",
+   "file": "images/logo.jpg",
+   "source": "real",
+   "alt": "Gold and gray veined granite island with white farmhouse sink and gray shaker cabinets"
+  },
+  {
+   "slot": "gallery_10",
+   "file": "images/social_08.jpg",
+   "source": "real",
+   "alt": "Black countertop island with undermount sink and white cabinets"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Long granite-topped island with bar stools in an open kitchen, used as a darkened background"
+  }
+ ],
  "facts_used": [
   {
    "fact": "Name Melling Granite & More, category Countertop store, 260 N Westview Dr, Cedar City, UT 84720, +1 435-867-0099, Mon to Fri 9 AM to 5 PM, Sat and Sun closed",
@@ -347,13 +457,14 @@
   }
  ],
  "missing": [
-  "Utah contractor licence number and insurance not found",
+  "Utah contractor license number and insurance not found",
   "Years in business not found",
   "Free estimates, warranty and financing not mentioned, so no CTA uses \"free\"",
   "Slab brands or quartz lines carried not confirmed (a Cosentino hashtag appears on one post only)",
   "Towns served beyond Cedar City not named",
   "Instagram URL not found (Gemini reports 297 followers)",
-  "Gemini reviews are unrelated spam text, none used"
+  "Gemini reviews are unrelated spam text, none used",
+  "cover.jpg (hero and range hood card) and logo.jpg (gallery) come from the Facebook cover and profile picture; confirm with the owners that both kitchens are Melling installs"
  ],
  "brand": {
   "logo_file": "images/social_02.jpg",

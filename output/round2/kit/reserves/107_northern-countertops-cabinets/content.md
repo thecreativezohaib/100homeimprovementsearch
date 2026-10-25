@@ -24,7 +24,7 @@ Northern Countertops & Cabinets pairs cabinet sales featuring Mantra, Decora and
 - Mantra, Decora and Diamond cabinets
 - Shop entrance on Mason St
 
-_Image: `images/maps_02.jpg`, alt: "Kitchen cabinets in Ukiah: white shaker kitchen with grey island, black pendant lights and stainless appliances"_
+_Image: `images/maps_02.jpg` (real photo), alt: "Kitchen cabinets in Ukiah: white shaker kitchen with grey island, black pendant lights and stainless appliances"_
 
 ## Kitchen cabinets in Ukiah, planned around your budget
 
@@ -38,35 +38,43 @@ Most reviews come back to Bernadette. She came out to measure one kitchen and st
 
 Bernadette designs the kitchens. Reviewers say she comes out to measure, answers every question, and stays undaunted through rounds of indecision and finish changes midway through. You end up with a plan that matches what you pictured, as one customer put it.
 
-_Image: `images/maps_02.jpg`, alt: "White shaker kitchen with grey island seating, black pendants and tall pantry cabinets"_
+_Image: `images/maps_02.jpg` (real photo), alt: "White shaker kitchen with grey island seating, black pendants and tall pantry cabinets"_
 
 ### Cabinet sales: Mantra, Decora and Diamond
 
 The cabinet division features Mantra, Decora and Diamond cabinets. Mixing price lines is an option: one customer combined two lines with the same quality and construction but less selection, and saved a lot while still getting the look she wanted.
 
-_Image: none yet (needs project photo)_
+_Image: AI-generated `ai_service_cabinets.jpg`, alt: "New kitchen cabinets with white shaker uppers and deep blue lower cabinets"_
+
+_AI prompt: Photorealistic photo of newly installed kitchen cabinets in a single-story ranch home in Ukiah, in inland Mendocino County, California, with oak-covered hills visible through the window: white shaker upper cabinets over deep blue flat-panel lower cabinets, brushed nickel pulls, a light quartz-look countertop, warm natural light, tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio._
 
 ### Countertops
 
 Countertops are in the name, and Google reviewers sum up the result as amazing quality countertops and installation with attentive customer service. Visit the shop on Mason St to talk through materials, edges and cutouts for your kitchen.
 
-_Image: none yet (needs project photo)_
+_Image: AI-generated `ai_service_countertops.jpg`, alt: "New light grey stone-look countertop with an undermount sink on white cabinets"_
+
+_AI prompt: Photorealistic close view of a new light grey stone-look kitchen countertop with a clean eased edge and an undermount sink cutout, white cabinets below, natural daylight, in a single-story ranch home in Ukiah, in inland Mendocino County, California, with oak-covered hills visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio._
 
 ### Hand-crafted butcher block
 
 For one kitchen, the shop went above and beyond to hand-craft a huge, 100% butcher-block wood countertop. If you want a warm wood top for an island or a full run of counters, ask about a custom butcher-block piece.
 
-_Image: none yet (needs project photo)_
+_Image: AI-generated `ai_service_butcher_block.jpg`, alt: "Large kitchen island with a thick hand-crafted butcher-block wood countertop"_
+
+_AI prompt: Photorealistic photo of a large kitchen island topped with a thick, hand-crafted end-grain and edge-grain hardwood butcher-block countertop with an oiled finish, white shaker cabinets around it, warm afternoon light across the wood grain, in a single-story ranch home in Ukiah, in inland Mendocino County, California, with oak-covered hills visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio._
 
 ### Installation
 
 Cabinets and countertops are installed after the design is set. One customer reported zero problems with installation and said she would work with Bernadette again for another kitchen remodel. Ask about scheduling when your design is final.
 
-_Image: none yet (needs project photo)_
+_Image: AI-generated `ai_service_installation.jpg`, alt: "Just-installed white kitchen cabinets and countertops with appliances in place"_
+
+_AI prompt: Photorealistic photo of a just-finished kitchen in a single-story ranch home in Ukiah, in inland Mendocino County, California, with oak-covered hills visible through the window: new white cabinets and countertops fully installed, doors aligned, appliances in place, clean empty counters, a roll of floor protection paper by the doorway, soft natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio._
 
 ## Why Ukiah kitchens start here
 
-**One designer who knows your kitchen.** All three captured reviews name Bernadette. She measures the room, answers the questions and handles the design changes, so you are not passed between people.
+**One designer who knows your kitchen.** Google reviewers name Bernadette again and again. She measures the room, answers the questions and handles the design changes, so one person follows your kitchen from the first measure to the final plan.
 
 **Smart with a budget.** Diana S. was over budget at the middle price line. Bernadette combined two lines of the same quality and construction, which made for big savings and a stunning result.
 
@@ -78,14 +86,12 @@ _Image: none yet (needs project photo)_
 
 Northern Countertops & Cabinets has two sides: countertops, and a cabinet division with kitchen design services. The banner over the shop door on Mason St in Ukiah says it plainly: kitchen cabinets and design services. Bernadette designs the kitchens, measuring on site and working through layouts and finishes with each customer. Customers also mention a gentleman at the shop who knows his stuff. The cabinet side features Mantra, Decora and Diamond, and the countertop side builds tops including custom butcher block. Every Google review so far is five stars.
 
-_Owner: None (Owner not published; designer Bernadette named in all three captured reviews)_
-
-_Image: `images/maps_01.jpg`, alt: "Shop entrance on Mason St in Ukiah with a Kitchen Cabinets and Design Services banner and an Open sign"_
+_Image: `images/maps_01.jpg` (real photo), alt: "Shop entrance in Ukiah with a Kitchen Cabinets and Design Services banner and an Open sign"_
 
 ## How your kitchen comes together
 
 1. **Visit or call.** Stop by the Mason St entrance on a weekday between 8:30 AM and 4:30 PM, or call (707) 467-3969 to set a time.
-2. **Measure.** Bernadette comes out to measure the kitchen, as reviewers describe, so the design starts from your real walls and windows.
+2. **Measure.** Bernadette comes out to measure the kitchen, as one reviewer describes, so the design starts from your real walls and windows.
 3. **Design and price lines.** Choose cabinets and finishes. If the first plan is over budget, ask about combining price lines, as one customer did for big savings.
 4. **Countertops.** Pick countertops to match your cabinets, including the option of a hand-crafted butcher-block wood top made by the shop.
 5. **Install.** Cabinets and tops go in once the design is final. One family reported zero problems with installation from start to finish.
@@ -151,19 +157,73 @@ NorthernCountertop@att.net
 Hours: Mon to Fri: 8:30 AM to 4:30 PM; Sat and Sun: closed  
 https://www.facebook.com/p/Northern-Countertops-Cabinet-Division-100083297713456  
 
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Northern Countertops & Cabinets",
+ "url": null,
+ "telephone": "+17074673969",
+ "email": "NorthernCountertop@att.net",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "195 Clara Ave (entrance on Mason St)",
+  "addressLocality": "Ukiah",
+  "addressRegion": "CA",
+  "postalCode": "95482"
+ },
+ "areaServed": [
+  "Ukiah, CA"
+ ],
+ "openingHours": [
+  "Mo-Fr 08:30-16:30"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/p/Northern-Countertops-Cabinet-Division-100083297713456",
+  "https://www.google.com/maps/place/?q=place_id:ChIJVWq2mSt7gYARpa4Uxx0jEls&hl=en"
+ ],
+ "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6S0kuiAzRYfUJdUnPIuZVV_Sf22EZycoGR5CfnqLIo4EYvsJm4_TYcc1NJ8GvtDptxAHRIDmjPmpsEg9nBcyzgKcwQKgZYptBgkpn5d3WNUrTpxsEv2ZI-IM4uG75Q1z2o1wH=s0"
+}
+```
+
+## Image plan
+
+4 real photo slots, 5 AI slots.
+
+- **hero**: `images/maps_02.jpg` (real), alt: "Kitchen cabinets in Ukiah: white shaker kitchen with grey island, black pendant lights and stainless appliances"
+- **service:Kitchen design**: `images/maps_02.jpg` (real), alt: "White shaker kitchen with grey island seating, black pendants and tall pantry cabinets"
+- **service:Cabinet sales: Mantra, Decora and Diamond**: AI `ai_service_cabinets.jpg`, alt: "New kitchen cabinets with white shaker uppers and deep blue lower cabinets"
+  - Prompt: Photorealistic photo of newly installed kitchen cabinets in a single-story ranch home in Ukiah, in inland Mendocino County, California, with oak-covered hills visible through the window: white shaker upper cabinets over deep blue flat-panel lower cabinets, brushed nickel pulls, a light quartz-look countertop, warm natural light, tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.
+- **service:Countertops**: AI `ai_service_countertops.jpg`, alt: "New light grey stone-look countertop with an undermount sink on white cabinets"
+  - Prompt: Photorealistic close view of a new light grey stone-look kitchen countertop with a clean eased edge and an undermount sink cutout, white cabinets below, natural daylight, in a single-story ranch home in Ukiah, in inland Mendocino County, California, with oak-covered hills visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.
+- **service:Hand-crafted butcher block**: AI `ai_service_butcher_block.jpg`, alt: "Large kitchen island with a thick hand-crafted butcher-block wood countertop"
+  - Prompt: Photorealistic photo of a large kitchen island topped with a thick, hand-crafted end-grain and edge-grain hardwood butcher-block countertop with an oiled finish, white shaker cabinets around it, warm afternoon light across the wood grain, in a single-story ranch home in Ukiah, in inland Mendocino County, California, with oak-covered hills visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.
+- **service:Installation**: AI `ai_service_installation.jpg`, alt: "Just-installed white kitchen cabinets and countertops with appliances in place"
+  - Prompt: Photorealistic photo of a just-finished kitchen in a single-story ranch home in Ukiah, in inland Mendocino County, California, with oak-covered hills visible through the window: new white cabinets and countertops fully installed, doors aligned, appliances in place, clean empty counters, a roll of floor protection paper by the doorway, soft natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.
+- **about**: `images/maps_01.jpg` (real), alt: "Shop entrance in Ukiah with a Kitchen Cabinets and Design Services banner and an Open sign"
+- **gallery_1**: `images/maps_02.jpg` (real), alt: "White shaker kitchen with grey island, black bar stools, black pendants and light wood-look floor"
+- **final_cta**: AI `ai_cta_background.jpg`, alt: "White shaker kitchen with a butcher-block island in evening light"
+  - Prompt: Photorealistic wide photo of a bright white shaker kitchen with a warm butcher-block island in a single-story ranch home in Ukiah, in inland Mendocino County, California, with oak-covered hills visible through the window, soft evening light, uncluttered, darker navy tones on one side so text can sit on top; no people, no faces, no text, no logos, no brand names; 21:9 aspect ratio.
+
 ## Brand
 
-- **Logo:** none
+- **Logo:** none usable
 - **Palette:** primary #1F5FA8, accent #B5793F, light #F6F3EE, dark #1E2A38
 - **Palette note:** Proposed: no logo or brand colours on file. Primary blue matches the lettering on their shop banner and the blue Open sign in maps_01; butcher-block wood tone as accent; warm white and navy-charcoal.
 - **Fonts:** Crimson Pro (headings), Karla (body)
 - **Tagline:** none found
 - **Style direction:** Friendly small-shop look: the banner's blue serif lettering carried into headings, white kitchens, a touch of warm wood, and Bernadette front and centre.
 
+## Images not to use
+
+- none
+
 ## Outreach (not on the page)
 
 - **Specific detail:** Megan V.'s review of the huge, 100% butcher-block wood countertop the shop hand-crafted, and Diana S. saying Bernadette combined two price lines to save her money.
-- **Angle:** Seven five-star Google reviews that all name Bernadette and a cabinet division featuring Mantra, Decora and Diamond, but no website to show the kitchens or explain the design service to people searching for kitchen cabinets in Ukiah.
+- **Angle:** Seven five-star Google reviews, with customers naming Bernadette again and again, and a cabinet division featuring Mantra, Decora and Diamond, but no website to show the kitchens or explain the design service to people searching for kitchen cabinets in Ukiah.
 - **Subject line idea:** Bernadette's kitchens deserve a homepage
 
 ## Facts used
@@ -185,7 +245,7 @@ https://www.facebook.com/p/Northern-Countertops-Cabinet-Division-100083297713456
 - Licence: Gemini says 'licensed' but no CSLB number or source text was found; left out until a number is confirmed
 - Bernadette's last name and title: not published
 - Countertop materials besides butcher block (quartz, granite, laminate): not confirmed, left out
-- Needs project photos: only 2 of the 18 Google photos were captured (one kitchen, one storefront)
+- Needs project photos: only 2 of the 18 Google photos were captured (one kitchen, one storefront), so the gallery has 1 photo and four service cards plus the CTA use AI illustrations; the butcher-block top in Megan V.'s review would be the first photo to ask for
 - Storefront banner in maps_01 is misspelled 'NORHTERN COUNTERTOPS'; crop the top line if that photo is used large
 - Instagram in research is @northernplumbingca (a plumbing name); left out of socials and sameAs until confirmed as theirs
 - Warranty, free estimates or free design, financing: not found

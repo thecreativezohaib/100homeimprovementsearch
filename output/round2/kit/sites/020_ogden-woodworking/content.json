@@ -36,14 +36,14 @@
   ],
   "image": {
    "file": "images/maps_01.jpg",
-   "alt": "Custom cabinets, Goleta cabinet maker Ogden Woodworking: charcoal slab-door base cabinets, glass-front uppers and white countertops with integrated sinks"
+   "alt": "Charcoal custom cabinets with frosted glass-front uppers and white countertops, built by Ogden Woodworking, a custom cabinets maker in Goleta, CA"
   }
  },
  "intro": {
   "h2": "One craftsman, from cabinets to the tricky jobs",
   "paragraphs": [
-   "Ogden Woodworking builds custom cabinets in Goleta out of its shop at 375 Pine Ave, and the person who answers the phone is the person who does the work: Craig Ogden.",
-   "Craig is known for honest fixes and hard problems. One family had been told by others they needed all new cabinets. Craig reworked theirs instead, replacing doors and hinges, leveling everything and adding sturdy soft-close hinges. In an old multistory building he hung custom doors in twisted frames by adjusting the contact points so they stay put once opened. A laboratory client needed chemical resistant countertops, has been getting compliments since day one, and has now hired him for a second location."
+   "Ogden Woodworking builds custom cabinets in Goleta from its shop at 375 Pine Ave, and owner Craig Ogden does the work himself. The sign over the door lists cabinets, furniture, CNC milling and wood signs, and reviewers add countertops, custom doors and cabinet repairs to that list.",
+   "Customers hire Craig for honest fixes and hard problems. He has reworked cabinets that others said to replace, hung custom doors in the twisted frames of an old multistory building, and fitted chemical resistant countertops for a laboratory that has since hired him again for a second location. Reviewers call him professional, courteous and local."
   ]
  },
  "services": {
@@ -51,10 +51,10 @@
   "items": [
    {
     "name": "Custom cabinets",
-    "blurb": "Cabinets built and installed for kitchens, offices and work spaces, from white shaker kitchens with crown moulding to charcoal slab-door cabinets with glass uppers. Reviewers say Craig finishes within the time frame allowed and that his quality control is outstanding.",
+    "blurb": "Cabinets built and installed for kitchens, offices and work spaces, from white shaker kitchens with crown molding to charcoal slab-door cabinets with frosted glass uppers. One reviewer says Craig installed custom cabinets within the time frame allowed and calls his quality control and craftsmanship outstanding.",
     "image": {
      "file": "images/social_02.jpg",
-     "alt": "White shaker kitchen cabinets with crown moulding being finished during installation"
+     "alt": "White shaker kitchen cabinets with crown molding while the new countertops are being finished"
     }
    },
    {
@@ -67,10 +67,12 @@
    },
    {
     "name": "Cabinet repair and refacing",
-    "blurb": "Before you replace everything, ask Craig. He has reworked existing cabinets by replacing doors and hinges, leveling boxes and fitting soft-close hinges, so every door opens and closes with ease, for customers who had been told to buy all new cabinets.",
+    "blurb": "Before you replace everything, ask Craig. One family had been told by others they needed all new cabinets. He reworked theirs instead, replacing doors and hinges, leveling the boxes and fitting sturdy soft-close hinges, so every door now opens and closes with ease.",
     "image": {
-     "file": "images/social_01.jpg",
-     "alt": "White cabinet boxes and trim being built and fitted on site with a miter saw"
+     "file": null,
+     "ai_file_name": "ai_service_cabinet_repair.jpg",
+     "ai_prompt": "Photorealistic close-up of a white painted shaker kitchen cabinet door standing open on a concealed soft-close hinge, with level, evenly gapped doors beside it, in a sunlit Southern California coastal ranch-style kitchen with light oak floors and soft teal and tan accents, natural light from a window, no people, no faces, no text, no logos, no brand names, 4:3",
+     "alt": "Illustration of a white kitchen cabinet door open on a soft-close hinge"
     }
    },
    {
@@ -78,7 +80,7 @@
     "blurb": "Custom interior doors and carpentry for houses and older buildings. In a multistory building with twisted door frames, Craig compensated by adjusting the contact points, so the new doors stay open and do not move once opened.",
     "image": {
      "file": "images/maps_03.jpg",
-     "alt": "Custom knotty alder shaker-style interior door with dark lever handle and black hinges"
+     "alt": "Custom knotty wood plank interior door with a black lever handle and black hinges"
     }
    },
    {
@@ -114,7 +116,7 @@
  },
  "about": {
   "h2": "Meet Craig Ogden",
-  "text": "Ogden Woodworking is Craig Ogden's woodworking shop at 375 Pine Ave in Goleta, California. The teal sign over the door spells out what he does: cabinets, furniture, CNC milling and wood signs. Craig builds in a full woodshop and installs on site, and he talks about his work the way his customers do. Of one build he posted: these were an interesting project, I'm pretty happy with the finished product and I learned a few things, and more important, happy customers. Reviewers describe him as detailed, professional and local, and several came to him by recommendation.",
+  "text": "Ogden Woodworking is Craig Ogden's woodworking shop at 375 Pine Ave in Goleta, California. The teal sign over the door spells out what he does: cabinets, furniture, CNC milling and wood signs. Craig builds in a full woodshop and installs on site. Of one build he posted that it was an interesting project, that he was pretty happy with the result and learned a few things, and that what mattered more was happy customers. Reviewers describe him as detailed, professional and local, and several came to him by recommendation, one through a cabinet contractor.",
   "owner_name": "Craig Ogden",
   "owner_role": "Owner and craftsman",
   "image": {
@@ -139,7 +141,7 @@
    },
    {
     "title": "Install on time",
-    "text": "Craig installs within the agreed time frame, adjusting for twisted frames, uneven floors and older buildings as he goes."
+    "text": "Craig installs within the agreed time frame, adjusting for twisted door frames, out-of-level cabinets and older buildings as he goes."
    }
   ]
  },
@@ -158,7 +160,7 @@
    },
    {
     "file": "images/social_02.jpg",
-    "alt": "Craftsman finishing countertops in a white shaker kitchen with crown moulding and wood-look floor",
+    "alt": "Craftsman sanding new countertops in a white shaker kitchen with crown molding and wood-look floor",
     "caption": "White shaker kitchen install"
    },
    {
@@ -168,8 +170,8 @@
    },
    {
     "file": "images/maps_03.jpg",
-    "alt": "Custom knotty alder shaker door in a doorway with black hinges and lever",
-    "caption": "Custom alder interior door"
+    "alt": "Custom knotty wood plank interior door with black hinges and a black lever handle",
+    "caption": "Custom knotty wood interior door"
    },
    {
     "file": "images/social_04.jpg",
@@ -276,10 +278,6 @@
   "openingHours": [
    "Mo-Fr 08:00-17:00"
   ],
-  "founder": {
-   "@type": "Person",
-   "name": "Craig Ogden"
-  },
   "areaServed": [
    "Goleta, CA"
   ],
@@ -356,7 +354,9 @@
   "Bathroom work: Gemini lists kitchen and bathroom remodeling and demolition, but no review or photo confirms bathrooms, so it is not offered",
   "A finished residential kitchen photo: the white shaker kitchen (social_02) is mid-install with a worker in frame",
   "Who 'Greg' is in Memory T.'s review (probably a misspelling of Craig; review is quoted as written)",
-  "Domain / website URL for schema url"
+  "Domain / website URL for schema url",
+  "Cabinet repair photo: none found, so that service card uses an AI illustration",
+  "The shop sign photo (logo.jpg) shows the older phone 805-681-0330, so it is kept for the brand file only and not shown on the page"
  ],
  "brand": {
   "logo_file": "images/logo.jpg",
@@ -400,5 +400,99 @@
   "specific_detail": "The laboratory job: chemical resistant countertops that earned the client compliments from day one and brought you back for a second location.",
   "angle": "Your shop sign over the door still advertises ogdenwoodworking.com, and you have strong reviews about fixing cabinets others wanted to replace, but your Google profile has only 4 photos and there is no site behind that address. A homepage gives the sign somewhere to send people.",
   "subject_line_idea": "Your sign says ogdenwoodworking.com"
- }
+ },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Charcoal custom cabinets with frosted glass-front uppers and white countertops, built by Ogden Woodworking, a custom cabinets maker in Goleta, CA"
+  },
+  {
+   "slot": "service:Custom cabinets",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "White shaker kitchen cabinets with crown molding while the new countertops are being finished"
+  },
+  {
+   "slot": "service:Countertops, including lab tops",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "White chemical resistant countertop with integrated sink and lab faucets over charcoal cabinets"
+  },
+  {
+   "slot": "service:Cabinet repair and refacing",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_cabinet_repair.jpg",
+   "ai_prompt": "Photorealistic close-up of a white painted shaker kitchen cabinet door standing open on a concealed soft-close hinge, with level, evenly gapped doors beside it, in a sunlit Southern California coastal ranch-style kitchen with light oak floors and soft teal and tan accents, natural light from a window, no people, no faces, no text, no logos, no brand names, 4:3",
+   "alt": "Illustration of a white kitchen cabinet door open on a soft-close hinge"
+  },
+  {
+   "slot": "service:Custom doors and finish carpentry",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Custom knotty wood plank interior door with a black lever handle and black hinges"
+  },
+  {
+   "slot": "service:Furniture, CNC milling and wood signs",
+   "file": "images/social_04.jpg",
+   "source": "real",
+   "alt": "Custom wood frame held in bar clamps on a bench in the Ogden Woodworking shop"
+  },
+  {
+   "slot": "about",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "Inside the Ogden Woodworking shop in Goleta with workbenches, saws and lumber"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "U-shaped laboratory room with charcoal slab-door cabinets, glass-front uppers and white countertops"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "White chemical resistant countertop with integrated sink and twin lab faucets"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "Craftsman sanding new countertops in a white shaker kitchen with crown molding and wood-look floor"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "White cabinets and trim being built on site with a miter saw on a work table"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Custom knotty wood plank interior door with black hinges and a black lever handle"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/social_04.jpg",
+   "source": "real",
+   "alt": "Custom wooden frame glued up in bar clamps on a shop bench"
+  },
+  {
+   "slot": "gallery_7",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "Ogden Woodworking shop interior with benches, a miter saw and stacked lumber"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Charcoal cabinets with frosted glass-front uppers and white countertops around a bright window"
+  }
+ ]
 }

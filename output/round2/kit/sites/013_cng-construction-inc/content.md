@@ -15,97 +15,89 @@
 
 # Bathroom Remodeling in Buffalo, NY
 
-CNG Construction Inc rebuilds bathrooms from the studs up, with new tile, showers, vanities, plumbing and fixtures, and takes on basements and full-house renovations too.
+CNG Construction Inc remodels bathrooms completely, with new tile, shower, vanity, plumbing and fixtures, and takes on basements and whole-house renovations too.
 
 - Button: Email CNG Construction (mailto:cngconstructioninc@gmail.com)
 - Button: Request an estimate (#contact)
-- Trust badges: 5.0 stars from 27 Google reviews | Owner-led: Craig works on the jobs | Known for on-time starts and quick completion
-- Image: images/maps_05.jpg (alt: Bathroom remodeling, Buffalo remodeler CNG Construction: white subway tile shower with river rock floor and niche, black sliding glass door and white vanity)
+- Trust badges: 5.0 stars from 27 Google reviews | Owner-led: Craig works on the jobs | Reviewers mention quick completion
+- Image: images/maps_05.jpg (alt: Bathroom remodeling in Buffalo by CNG Construction: white subway tile shower with a pebble floor and mosaic niche, black sliding glass door and white vanity)
 
 ## Bathrooms done right, start to finish
 
-CNG Construction Inc handles bathroom remodeling in Buffalo the full way: new tile, shower, vanity, plumbing and fixtures, with owner Craig on site and his employee Mike alongside him.
+CNG Construction Inc handles bathroom remodeling in Buffalo the complete way: new tile, shower, vanity, plumbing and fixtures, with owner Craig on the job and his employee Mike alongside him.
 
-Homeowners keep repeating the same things about them. They start on the exact day promised at contract signing, they finish in the time frame they commit to, and while your job is in progress it gets their full focus. Craig is also a problem solver. For one cottage renovation he came up with his own design for a set of stairs that had to meet code in a very tight spot, and built it himself. That same care shows in the tile work and finish details people photograph and post with their reviews.
+Reviewers talk about timing and care. One says the job started on the exact day promised at contract signing, finished in the time frame CNG committed to, and had the crew's full focus while it was in progress. Craig is also a problem solver. For one cottage renovation, he came up with his own design for a set of stairs that had to meet code in a very challenging spot, and built them. The same care shows in the tile work customers photograph and post with their reviews.
 
 ## Remodeling services in Buffalo
 
 ### Complete bathroom remodels
 
-Master baths and full bathrooms remodeled from top to bottom: new tile, shower, vanity, plumbing and fixtures. One Buffalo couple described their finished master bath as reflecting real attention to detail, and called CNG their go-to contractor afterwards.
+Master baths and full bathrooms remodeled from top to bottom, with new tile, shower, vanity, plumbing and fixtures. One customer said the finished master bath reflects real attention to detail, and now calls CNG their go-to contractor.
 
-Image: images/maps_08.jpg (alt: Remodeled master bathroom with white vanity, white quartz-look top, chrome faucet and framed mirror)
+*Image: images/maps_08.jpg (alt: Remodeled master bathroom with a white vanity, white stone-look top, chrome faucet and framed mirror)*
 
 ### Tiled showers
 
-Walk-in showers with subway tile walls, recessed niches lined in river rock and pebble shower floors, finished with sliding glass doors and black or chrome hardware. New tiles are the top thing reviewers mention on CNG's Google profile.
+Walk-in showers with subway or large-format tile walls, recessed niches and pebble shower floors, finished with sliding glass doors and black or chrome hardware. 'New tiles' is the topic reviewers mention most often on CNG's Google profile.
 
-Image: images/maps_02.jpg (alt: Large-format white tile shower with recessed niche, handheld shower and pebble tile floor)
+*Image: images/maps_02.jpg (alt: Large-format white tile shower with a recessed niche, handheld shower and pebble tile floor)*
 
 ### Basement finishing
 
-Framing, drywall, flooring and the electrical work that ties it together. One recent customer said CNG sorted out a tricky panel situation, coordinated the inspections smoothly and turned a basement they had put off for years into a finished space in about three weeks.
+Framing, drywall, flooring and the electrical work that ties it together. One recent customer says CNG sorted out a tricky panel situation, coordinated the inspections smoothly and turned a basement they had put off for years into a finished space in about three weeks.
 
-Image: images/maps_01.jpg (alt: Finished basement with grey vinyl plank floor, black trim, recessed lights and a wrapped support post)
+*Image: images/maps_01.jpg (alt: Finished basement with grey vinyl plank floor, black trim, recessed lights and a wrapped support post)*
 
 ### Custom stairs and carpentry
 
-When a standard part will not fit, Craig designs one. In a cottage renovation he custom built a set of oak stairs to meet code in a very challenging area, using his own design for the winding treads.
+When a standard solution will not fit, Craig designs one. In a cottage renovation, he custom built a set of wood stairs with winding treads to meet code in a very challenging area, working from his own design.
 
-Image: images/maps_03.jpg (alt: Custom-built oak staircase with winding treads and square newel posts in a renovated cottage)
+*Image: images/maps_03.jpg (alt: Custom-built wood staircase with winding treads and square newel posts in a renovated cottage)*
 
 ### Whole-house and kitchen renovations
 
-Bigger projects too. For one cottage CNG reframed the floor, reinforced the ceiling, did two full bathroom remodels and a kitchen remodel. Kitchen remodeling is part of the same crew's work, so one contractor can handle several rooms.
+Bigger projects too. For one cottage, CNG reframed the floor, reinforced the ceiling, did two full bathroom remodels and a kitchen remodel. Because the same crew handles kitchens, one contractor can take care of several rooms in the same house.
 
-Image: images/maps_06.jpg (alt: White subway tile shower with black towel bar on the sliding glass door, from a full cottage renovation)
+*Image: images/maps_06.jpg (alt: White subway tile shower with a pebble floor and black hardware on the glass door, from a full cottage renovation)*
 
 ## Why Buffalo homeowners hire CNG
 
-### On time from the first call
+**On time from the first call.** Gerry says CNG was on time at every stage: the estimate appointment, starting on the exact day promised at contract signing, and finishing within the time frame they committed to.
 
-Reviewers say CNG was on time at every stage: the estimate appointment, starting the exact day promised at contract signing, and finishing within the time frame they committed to.
+**The owner is on your job.** Craig, the owner, works on the projects himself with his employee Mike. Customers name them both and describe them as true professionals in every part of the job.
 
-### The owner is on your job
+**Your job gets their focus.** Gerry noted that while their master bath was in progress, it was CNG's only focus from start to completion, which kept the disruption to their home to a minimum.
 
-Craig, the owner, works on the projects himself with his employee Mike. Customers name them both and describe them as true professionals in every part of the job.
-
-### Your job gets their focus
-
-One customer noted that while their master bath was in progress, it was CNG's only focus from start to completion, which kept disruption to the house short.
-
-### Detail you can see
-
-Google's review summary highlights superb attention to detail and craftsmanship. Reviewers post their own before and after photos, from river rock shower niches to custom stair treads.
+**Detail you can see.** Google's review summary highlights superb attention to detail and craftsmanship. Customers post their own photos with their reviews, from pebble shower floors to custom stair treads.
 
 ## Meet Craig and the CNG crew
 
-CNG Construction Inc is a Buffalo remodeling company run by owner Craig, who works on the jobs himself with his employee Mike. Most of the work is bathrooms, from master bath remodels to complete gut jobs with new tile, shower, vanity, plumbing and fixtures, but the same crew finishes basements and renovates whole houses. Customers describe a team that comes and works hard every day, listens to what you want and offers practical suggestions that save money without cutting corners. Several reviewers say they would hire CNG again and now treat them as their go-to contractor.
+CNG Construction Inc is a Buffalo remodeling company run by owner Craig, who works on the jobs himself with his employee Mike. Most of the work is bathrooms, from master bath remodels to complete remodels with new tile, shower, vanity, plumbing and fixtures, but the same crew also finishes basements and renovates whole houses. Customers describe a team that shows up and works hard every day, listens to what you want and offers practical suggestions that save money without cutting corners. One reviewer now calls CNG their go-to contractor.
 
-Owner: Craig (Owner)
+Owner: Craig, Owner
 
-Image: images/maps_10.jpg (alt: Chrome heated towel radiator with grey towel in a remodeled Buffalo bathroom)
+*Image: images/maps_04.jpg (alt: Close view of the wood winder stair treads Craig designed and built for a cottage renovation)*
 
 ## How a CNG project works
 
-1. **Estimate appointment**: Reach out by email and CNG schedules a time to see the space and provide an estimate for your project.
-2. **Plan together**: Craig listens carefully to what you want and offers practical suggestions that can save money without cutting corners.
-3. **Contract and start date**: You sign a contract with a start date, and customers say CNG starts the job on the exact day promised.
-4. **Build and inspections**: The crew works on your job every day, handling trades such as plumbing and electrical and coordinating any inspections.
-5. **Finish on schedule**: CNG completes the work in the time frame agreed at signing, and you walk through your finished room.
+1. **Estimate appointment.** Reach out by email and CNG schedules a time to see the space and provide an estimate for your project.
+2. **Plan together.** Craig listens carefully to what you want and offers practical suggestions that can save money without cutting corners.
+3. **Contract and start date.** You sign a contract with a start date. One customer says CNG started the job on the exact day it promised.
+4. **Build and inspections.** The crew works on your job every day, handling trades such as plumbing and electrical and coordinating any inspections.
+5. **Finish and walkthrough.** Customers say CNG finished within the time frame it committed to. Then you walk through the finished room together.
 
-## Recent bathrooms and renovations
+## Bathrooms and renovations by CNG
 
-- images/maps_05.jpg: Subway tile shower with river rock floor (alt: White subway tile shower with river rock niche and floor, black sliding glass door, white vanity and black faucet)
-- images/maps_06.jpg: Pebble shower floor and glass slider (alt: Inside view of white subway tile shower with pebble floor and black glass door hardware)
-- images/maps_02.jpg: Walk-in shower with recessed niche (alt: White tile walk-in shower with recessed niche, handheld shower head and pebble floor)
-- images/maps_08.jpg: Master bath vanity, Buffalo (alt: White bathroom vanity with marble-look top, framed mirror and sconce)
-- images/maps_09.jpg: Vanity beside a dark subway tile shower (alt: White vanity with drawers, grey walls and dark subway tile shower wall)
+- images/maps_05.jpg: Subway tile shower with pebble floor (alt: White subway tile shower with a mosaic niche and pebble floor, black sliding glass door, white vanity and black faucet)
+- images/maps_06.jpg: Pebble shower floor and glass slider (alt: Inside view of a white subway tile shower with a pebble floor and black glass door hardware)
+- images/maps_02.jpg: Walk-in shower with recessed niche (alt: White tile walk-in shower with a recessed niche, handheld shower head and pebble floor)
+- images/maps_08.jpg: Master bath vanity, Buffalo (alt: White bathroom vanity with a stone-look top, framed mirror and sconce)
+- images/maps_09.jpg: Vanity beside a dark subway tile shower (alt: White vanity with drawers, grey walls and a dark subway tile shower wall)
 - images/maps_07.jpg: Dark subway tile wainscot (alt: Bathroom with dark subway tile wainscot, white toilet and framed art)
 - images/maps_10.jpg: Heated towel radiator (alt: Chrome traditional heated towel radiator on a grey bathroom wall)
-- images/maps_01.jpg: Finished basement (alt: Finished basement with grey luxury vinyl floor, black baseboards and recessed lighting)
-- images/maps_03.jpg: Custom stairs built to code (alt: Custom oak staircase with winding treads in a renovated cottage)
-- images/maps_04.jpg: Oak winder treads, railings to come (alt: Close view of custom oak winder stair treads before railings were added)
+- images/maps_01.jpg: Finished basement (alt: Finished basement with grey vinyl plank floor, black baseboards and recessed lighting)
+- images/maps_03.jpg: Custom stairs built to code (alt: Custom wood staircase with winding treads in a renovated cottage)
+- images/maps_04.jpg: Winder treads, railings to come (alt: Close view of custom wood winder stair treads before the railings were added)
 
 ## What customers say about CNG
 
@@ -129,55 +121,107 @@ Towns: Buffalo, NY
 
 ## Questions homeowners ask
 
-### What does a CNG bathroom remodel include?
+**What does a CNG bathroom remodel include?**
 
-Reviewers describe complete remodels with all new tiles, shower, vanity, plumbing and fixtures. Recent bathrooms include subway tile showers with river rock floors and niches, sliding glass doors, new vanities with stone-look tops, dark tile wainscot and a heated towel radiator.
+Reviewers describe complete remodels with all new tiles, shower, vanity, plumbing and fixtures. Bathrooms in their photos include subway tile showers with pebble floors and niches, sliding glass doors, new vanities with stone-look tops, dark tile wainscot and a heated towel radiator.
 
-### How long does a project take?
+**How long does a project take?**
 
-It depends on the job, and CNG gives you a time frame when you sign. Customers say they started on the exact day promised and finished within the committed time frame. One basement with framing, drywall, flooring and electrical work took about three weeks.
+It depends on the job, and CNG gives you a time frame when you sign. One customer says the job started on the exact day promised and finished within the committed time frame. A basement with framing, drywall, flooring and electrical work took about three weeks.
 
-### Who will be working in my house?
+**Who will be working in my house?**
 
 Owner Craig works on the projects himself, together with his employee Mike. Reviewers mention them by name and describe them as professional, hard working every day and serious about what they do, with your job as their only focus while it is in progress.
 
-### Do you do more than bathrooms?
+**Do you do more than bathrooms?**
 
 Yes. CNG also finishes basements, does kitchen remodels and takes on whole-house renovations. For one cottage they reframed the floor, reinforced the ceiling, remodeled two full bathrooms and a kitchen, and custom built a staircase to meet code in a tight space.
 
-### How do I get an estimate?
+**How do I get an estimate?**
 
-Email cngconstructioninc@gmail.com with your address, the room you want remodeled and a few photos if you have them. CNG will schedule an appointment to see the space and provide an estimate. Customers say the team was on time for that first appointment too.
+Email cngconstructioninc@gmail.com with your address, the room you want remodeled and a few photos if you have them, and ask for an appointment so CNG can see the space and provide an estimate. One customer says the team was on time for that first appointment too.
 
 ## Planning a new bathroom in Buffalo?
 
 Send Craig a note about your project and set up an estimate visit.
 
-Button: Email CNG Construction (mailto:cngconstructioninc@gmail.com) | Phone: None
+- Button: Email CNG Construction (mailto:cngconstructioninc@gmail.com)
+- Phone: None
 
 ## Footer
 
 - CNG Construction Inc
 - 33 Traymore St, Buffalo, NY 14216
-- Phone: None
+- None
 - Email: cngconstructioninc@gmail.com
 - Socials: https://www.facebook.com/CNG-Construction-Inc-397140093742152, https://www.instagram.com/cng_contracting
-- Hours: None
+- Hours: not listed
+
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "CNG Construction Inc",
+ "url": null,
+ "email": "cngconstructioninc@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "33 Traymore St",
+  "addressLocality": "Buffalo",
+  "addressRegion": "NY",
+  "postalCode": "14216",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Buffalo, NY"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/CNG-Construction-Inc-397140093742152",
+  "https://www.instagram.com/cng_contracting",
+  "https://www.google.com/maps/place/?q=place_id:ChIJL5TKmiFt04kR3TYix_lbNLY&hl=en"
+ ],
+ "image": "images/maps_05.jpg"
+}
+```
+
+## Image plan
+
+- hero: real photo images/maps_05.jpg (alt: Bathroom remodeling in Buffalo by CNG Construction: white subway tile shower with a pebble floor and mosaic niche, black sliding glass door and white vanity)
+- service:Complete bathroom remodels: real photo images/maps_08.jpg (alt: Remodeled master bathroom with a white vanity, white stone-look top, chrome faucet and framed mirror)
+- service:Tiled showers: real photo images/maps_02.jpg (alt: Large-format white tile shower with a recessed niche, handheld shower and pebble tile floor)
+- service:Basement finishing: real photo images/maps_01.jpg (alt: Finished basement with grey vinyl plank floor, black trim, recessed lights and a wrapped support post)
+- service:Custom stairs and carpentry: real photo images/maps_03.jpg (alt: Custom-built wood staircase with winding treads and square newel posts in a renovated cottage)
+- service:Whole-house and kitchen renovations: real photo images/maps_06.jpg (alt: White subway tile shower with a pebble floor and black hardware on the glass door, from a full cottage renovation)
+- about: real photo images/maps_04.jpg (alt: Close view of the wood winder stair treads Craig designed and built for a cottage renovation)
+- gallery_1: real photo images/maps_05.jpg (alt: White subway tile shower with a mosaic niche and pebble floor, black sliding glass door, white vanity and black faucet)
+- gallery_2: real photo images/maps_06.jpg (alt: Inside view of a white subway tile shower with a pebble floor and black glass door hardware)
+- gallery_3: real photo images/maps_02.jpg (alt: White tile walk-in shower with a recessed niche, handheld shower head and pebble floor)
+- gallery_4: real photo images/maps_08.jpg (alt: White bathroom vanity with a stone-look top, framed mirror and sconce)
+- gallery_5: real photo images/maps_09.jpg (alt: White vanity with drawers, grey walls and a dark subway tile shower wall)
+- gallery_6: real photo images/maps_07.jpg (alt: Bathroom with dark subway tile wainscot, white toilet and framed art)
+- gallery_7: real photo images/maps_10.jpg (alt: Chrome traditional heated towel radiator on a grey bathroom wall)
+- gallery_8: real photo images/maps_01.jpg (alt: Finished basement with grey vinyl plank floor, black baseboards and recessed lighting)
+- gallery_9: real photo images/maps_03.jpg (alt: Custom wood staircase with winding treads in a renovated cottage)
+- gallery_10: real photo images/maps_04.jpg (alt: Close view of custom wood winder stair treads before the railings were added)
+- final_cta: AI image ai_cta_bathroom.jpg (alt: White subway tile walk-in shower with a pebble floor, glass slider and white vanity in soft daylight)
+  - Prompt: Photorealistic wide photo of a finished bathroom in an older Buffalo, New York home: white subway tile walk-in shower with a pebble mosaic floor and a recessed niche, frameless glass slider with matte black hardware, white vanity with a stone-look top, soft grey walls and a navy tile accent wall, gentle natural daylight from a window, no people, no faces, no text, no logos, no brand names, 21:9
 
 ## Brand
 
 - Logo: images/cover.jpg
 - Palette: primary #6B675C, accent #2E4A62, light #F2EDE7, dark #22252A
 - Palette note: brand.json only gives the logo's cream background #F2EDE7 (kept as light). Primary is a deepened version of the taupe-grey house outline in the logo; accent is the dark navy subway tile seen in Gerry M.'s master bath photos; dark is a near-black matching the black shower hardware.
-- Fonts: Lora (headings) / Nunito Sans (body)
-- Tagline: None
-- Style direction: Calm, tidy and tile-focused: cream and taupe from the logo, navy accents, a classic serif like the logo wordmark, and tall bathroom photos given plenty of space.
+- Fonts: Lora (headings), Nunito Sans (body)
+- Tagline: none
+- Style: Calm, tidy and tile-focused: cream and taupe from the logo, navy accents, a classic serif like the logo wordmark, and tall bathroom photos given plenty of space.
 
 ## Images not to use
 
 - images/social_01.jpg: duplicate of the logo (cover.jpg); use only as logo
 
-## Outreach
+## Outreach (not on the page)
 
 - Specific detail: The staircase Craig designed and custom built to meet code in a very tight spot of a cottage renovation, which Juliana C. posted photos of.
 - Angle: You have a 5.0 rating from 27 Google reviews and 123 photos, but no website and no phone number on your Google profile, so people who love your bathroom photos have no easy way to reach you. A homepage puts your work and a contact form in one place.
@@ -201,15 +245,17 @@ Button: Email CNG Construction (mailto:cngconstructioninc@gmail.com) | Phone: No
 ## Missing
 
 - Phone number: none on Google, so the page uses email for calls to action. Ask the owner for a phone number before launch
+- Email cngconstructioninc@gmail.com was found on a USDOT trucking listing (roserocket.com) for CNG Construction Inc; confirm it belongs to this Buffalo business
 - Real opening hours: Google lists 'Open 24 hours' every day, which looks like a placeholder, so hours are left blank
 - Owner's last name (only 'Craig' is known)
 - Legal form: Google says Inc, the logo says LLC; Google name used
 - Licence or insurance (no number found)
 - Years in business
 - Warranty
-- Whether estimates are free
+- Whether estimates are free, so the CTA says 'Request an estimate'
 - Financing
 - Kitchen project photos (kitchen remodel is mentioned in a review but no kitchen photo was captured)
+- No wide project photo suits the final CTA background, so it uses an AI illustration
 - Towns served beyond Buffalo
 - Gemini reviews were unrelated web text and were not used
 - Domain / website URL for schema url

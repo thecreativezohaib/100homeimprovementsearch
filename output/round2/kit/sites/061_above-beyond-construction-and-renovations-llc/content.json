@@ -35,14 +35,14 @@
   ],
   "image": {
    "file": "images/maps_01.jpg",
-   "alt": "White kitchen with a large marble-look island, glass-front upper cabinets and arabesque tile backsplash, finished by a kitchen remodeling Kernersville team"
+   "alt": "Kitchen remodeling by Kernersville company Above & Beyond: white kitchen with a large marble-look island, glass-front upper cabinets and arabesque tile backsplash"
   }
  },
  "intro": {
   "h2": "Kitchens that still get compliments years later",
   "paragraphs": [
-   "Above & Beyond Construction and Renovations LLC handles kitchen remodeling Kernersville homeowners keep talking about. One reviewer wrote that they have had many compliments on their new kitchen. Another said a wall came down, the room opened up, and the compliments were still coming a year later.",
-   "What sets the team apart is how far a job can go. Nathan does not stop at cabinets. One client describes him bringing ideas for the new kitchen layout, then carrying the work through the dining room, living room, hallway and guest bedroom in one project. Reviewers also mention fair pricing, fast and efficient workers, and a crew they would call again."
+   "Above & Beyond Construction and Renovations LLC does kitchen remodeling in Kernersville, and its clients keep hearing about it. One reviewer wrote that they have had many compliments on their new kitchen. Another said a wall came down, the room opened up, and the compliments were still coming a year later.",
+   "What sets the team apart is how far a job can go. Nathan does not stop at cabinets. One client describes him bringing ideas for the new kitchen layout, then carrying the work through the dining room, living room, hallway and guest bedroom in one project. Reviewers also mention fair pricing, fast and efficient workers, and a crew they would hire again."
   ]
  },
  "services": {
@@ -50,7 +50,7 @@
   "items": [
    {
     "name": "Kitchen remodeling",
-    "blurb": "Full kitchen rebuilds with new cabinets, counters, backsplash, lighting and flooring. Nathan helps work out the layout before anything is torn out, so the finished room fits how your family cooks and gathers. Kitchen work is what reviewers mention most.",
+    "blurb": "Full kitchen rebuilds with new cabinets, counters, backsplash, lighting and flooring. Nathan brings ideas on the layout, which one client called great, so the finished room fits how your family cooks and gathers. Kitchen work is what reviewers mention most.",
     "image": {
      "file": "images/maps_03.jpg",
      "alt": "Gray shaker kitchen with stainless range hood, three pendant lights and a white peninsula countertop"
@@ -66,7 +66,7 @@
    },
    {
     "name": "Countertops and flooring",
-    "blurb": "New countertops and new floors are part of most of their kitchens, from marble-look island tops to wood-look plank flooring laid through the whole room. Their Facebook page lists countertops and flooring among the services they offer in Kernersville.",
+    "blurb": "New countertops and new floors show up in many of their kitchen photos, from marble-look island tops to wood-look plank flooring laid through the whole room. Countertops and flooring are also listed among the services on their Facebook page.",
     "image": {
      "file": "images/maps_02.jpg",
      "alt": "Galley side of a kitchen with gray cabinets, white countertops, stainless appliances and gray plank flooring"
@@ -75,7 +75,12 @@
    {
     "name": "Bathroom remodeling",
     "blurb": "Bathroom remodeling is listed among their services on Facebook. Call to talk through what you have in mind for your bathroom, from a simple refresh to a full rebuild, and Nathan can tell you how his team would approach the job.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_bathroom.jpg",
+     "ai_prompt": "Photorealistic photo of a remodeled bathroom in a suburban North Carolina home, slate-gray shaker vanity with a white quartz top and a brushed brass faucet, white subway tile walk-in shower with a clear glass door, wood-look plank floor, off-white walls, soft natural light from a side window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+     "alt": "Illustration of a remodeled bathroom with a gray shaker vanity, white quartz top and white tile shower"
+    }
    },
    {
     "name": "Whole-home and sunroom projects",
@@ -113,7 +118,10 @@
   "text": "Above & Beyond Construction and Renovations LLC is a remodeling company based on Birch Hill Drive in Kernersville, North Carolina. Customers know it through Nathan, who meets with homeowners, talks through the layout and runs the work with his team. Their jobs range from single kitchens to whole-floor remodels and a sunroom turned into a year-round room. The common thread in their reviews is simple: the work looks great, the crew shows up and works hard, and people say they will call them again for the next project.",
   "owner_name": "Nathan",
   "owner_role": "Leads the team (named in Google reviews); last name not published",
-  "image": null
+  "image": {
+   "file": "images/maps_04.jpg",
+   "alt": "Long remodeled kitchen with gray shaker cabinets, white counters and wood-look flooring leading to patio doors"
+  }
  },
  "process": {
   "h2": "How a remodel with Above & Beyond works",
@@ -161,7 +169,7 @@
    {
     "file": "images/maps_04.jpg",
     "alt": "Kitchen with gray cabinets and white counters leading to French patio doors over wood-look flooring",
-    "caption": "Kitchen opened toward the patio doors"
+    "caption": "Gray cabinets leading to the patio doors"
    },
    {
     "file": "images/maps_05.jpg",
@@ -273,22 +281,140 @@
   ],
   "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG1nnu-xUOwY0kmRjGVWFlwVVCqTD_pGnTMNAPJlmpo5gmHg67s3c5ZYVRj2t04oYsjmEa410z6CETTFHezVTD1SSQDfbP0JHWInQmpmgOl1SeQYvwyoGzvVoilBiBNiI3d1zTXQ=s0"
  },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Kitchen remodeling by Kernersville company Above & Beyond: white kitchen with a large marble-look island, glass-front upper cabinets and arabesque tile backsplash"
+  },
+  {
+   "slot": "service:Kitchen remodeling",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Gray shaker kitchen with stainless range hood, three pendant lights and a white peninsula countertop"
+  },
+  {
+   "slot": "service:Opening up walls and layouts",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Remodeled kitchen with gray cabinets and wood-look plank flooring running through to glass patio doors"
+  },
+  {
+   "slot": "service:Countertops and flooring",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Galley side of a kitchen with gray cabinets, white countertops, stainless appliances and gray plank flooring"
+  },
+  {
+   "slot": "service:Bathroom remodeling",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_bathroom.jpg",
+   "ai_prompt": "Photorealistic photo of a remodeled bathroom in a suburban North Carolina home, slate-gray shaker vanity with a white quartz top and a brushed brass faucet, white subway tile walk-in shower with a clear glass door, wood-look plank floor, off-white walls, soft natural light from a side window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+   "alt": "Illustration of a remodeled bathroom with a gray shaker vanity, white quartz top and white tile shower"
+  },
+  {
+   "slot": "service:Whole-home and sunroom projects",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Built-in coffee station with gray lower cabinets and glass-front upper cabinets beside a living area"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Long remodeled kitchen with gray shaker cabinets, white counters and wood-look flooring leading to patio doors"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "White raised-panel kitchen with large island, three glass pendant lights, arabesque tile backsplash and dark wood floors"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Gray shaker kitchen with stainless chimney hood, white tile backsplash and pendant lights over a peninsula"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Gray shaker cabinets, white countertops and stainless range along one wall with gray plank floor"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Kitchen with gray cabinets and white counters leading to French patio doors over wood-look flooring"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Coffee bar built-in with gray base cabinets, white countertop and glass-front upper cabinets"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "White kitchen with a large marble-look island and three glass pendant lights"
+  }
+ ],
  "facts_used": [
-  {"fact": "Business name, category Remodeler, address 1215 Birch Hill Dr, Kernersville, NC 27284", "source": "Google Maps"},
-  {"fact": "Phone +1 336-505-1120", "source": "Google Maps"},
-  {"fact": "Hours Mon to Fri 8 AM to 7 PM, Sat 8 AM to 1 PM, Sun closed", "source": "Google Maps"},
-  {"fact": "Rating 5.0 from 9 reviews", "source": "Google Maps"},
-  {"fact": "Review topics: new kitchen (3), quality of work (3), efficient team (2), fair pricing (2)", "source": "Google Maps review summary"},
-  {"fact": "Review snippet: wall removed, space opened, compliments 1 year later", "source": "Google Maps review summary"},
-  {"fact": "Owner/lead named Nathan; layout ideas; five-room remodel; reasonable cost; fast workers", "source": "Google review by Patricia Mabe"},
-  {"fact": "Sunroom enclosed and converted to inside room with siding, drywall, painting, doors, windows, lighting; fair pricing; repeat client", "source": "Google review by Jeffrey-Donna Sims"},
-  {"fact": "Many compliments, outstanding quality, new kitchen", "source": "Google review by Kevin Augeson"},
-  {"fact": "Email nathanabovebeyondc@gmail.com", "source": "Facebook page https://www.facebook.com/people/Above-Beyond-Construction-and-Renovations/100075956689834/ (verified mail server)"},
-  {"fact": "Services listed: bathroom remodeling, countertops, flooring; town Kernersville", "source": "Gemini summary of Facebook page"},
-  {"fact": "Kitchen materials described in captions and alt text (white and gray cabinets, arabesque backsplash, plank flooring, pendants)", "source": "Google Maps photos maps_01 to maps_05 (seen)"}
+  {
+   "fact": "Business name, category Remodeler, address 1215 Birch Hill Dr, Kernersville, NC 27284",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "Phone +1 336-505-1120",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "Hours Mon to Fri 8 AM to 7 PM, Sat 8 AM to 1 PM, Sun closed",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "Rating 5.0 from 9 reviews",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "Review topics: new kitchen (3), quality of work (3), efficient team (2), fair pricing (2)",
+   "source": "Google Maps review summary"
+  },
+  {
+   "fact": "Review snippet: wall removed, space opened, compliments 1 year later",
+   "source": "Google Maps review summary"
+  },
+  {
+   "fact": "Owner/lead named Nathan; layout ideas; five-room remodel; reasonable cost; fast workers",
+   "source": "Google review by Patricia Mabe"
+  },
+  {
+   "fact": "Sunroom enclosed and converted to inside room with siding, drywall, painting, doors, windows, lighting; fair pricing; repeat client",
+   "source": "Google review by Jeffrey-Donna Sims"
+  },
+  {
+   "fact": "Many compliments, outstanding quality, new kitchen",
+   "source": "Google review by Kevin Augeson"
+  },
+  {
+   "fact": "Email nathanabovebeyondc@gmail.com",
+   "source": "Facebook page https://www.facebook.com/people/Above-Beyond-Construction-and-Renovations/100075956689834/ (verified mail server)"
+  },
+  {
+   "fact": "Services listed: bathroom remodeling, countertops, flooring; town Kernersville",
+   "source": "Gemini summary of Facebook page"
+  },
+  {
+   "fact": "Kitchen materials described in captions and alt text (white and gray cabinets, arabesque backsplash, plank flooring, pendants)",
+   "source": "Google Maps photos maps_01 to maps_05 (seen)"
+  }
  ],
  "missing": [
-  "Only 5 photos available (all kitchens): gallery has 5, below the 6 to 10 target; no bathroom photo for the bathroom service",
+  "Needs project photos: only 5 photos available (all kitchens), so the gallery has 5, below the 6 to 10 target",
   "Owner's last name and title not published (only 'Nathan' from reviews)",
   "Years in business not found",
   "NC contractor licence number and insurance not found",
@@ -299,7 +425,8 @@
   "Logo, brand colours and tagline not found",
   "Towns beyond Kernersville not named",
   "Gemini reviews were unrelated junk text (YouTube, Yelp boilerplate) and were not used",
-  "Website URL for schema url (no site yet)"
+  "Website URL for schema url (no site yet)",
+  "No bathroom photo: the Bathroom remodeling card uses an AI illustration (ai_service_bathroom.jpg)"
  ],
  "brand": {
   "logo_file": null,

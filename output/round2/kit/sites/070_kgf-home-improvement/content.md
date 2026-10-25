@@ -15,27 +15,27 @@
 
 # Kitchen Remodeling in Westland, MI
 
-KGF Home Improvement updates kitchens and bathrooms with sprayed cabinet finishes, cabinet installs and sharp trim work, from a local, owner-run crew.
+KGF Home Improvement updates kitchens and bathrooms with sprayed cabinet finishes, cabinet installs and sharp trim work, from a local, family-oriented company.
 
 [Call (734) 502-4805](tel:+17345024805)  |  [Request a free estimate](#contact)
 
-Trust badges: 5.0 stars from 5 Google reviews · Free estimates · Owner-run: work with Kyle · Open Monday to Saturday, 7 AM to 7 PM
+Trust badges: 5.0 stars from 5 Google reviews · Free estimates · Local, family-oriented company · Open Monday to Saturday, 7 AM to 7 PM
 
-Hero image: `images/maps_02.jpg` (alt: Tall white shaker pantry cabinets with black pulls beside a stainless refrigerator, by KGF Home Improvement, a kitchen remodeling Westland contractor)
+Hero image: `images/maps_02.jpg` (alt: White shaker pantry cabinets with black pulls beside a stainless refrigerator, kitchen remodeling in Westland, MI by KGF Home Improvement)
 
 ## From a 1970s kitchen to a clean, modern one
 
-KGF Home Improvement handles kitchen remodeling Westland homeowners hire when they want a local crew instead of a company that is always on TV. Their Facebook page describes skilled finish carpentry, with a specialty in kitchen remodeling and cabinet spraying. Estimates are free.
+KGF Home Improvement is a finish carpentry company offering kitchen remodeling in Westland, with a second specialty in cabinet spraying. Estimates are free. One couple chose KGF because they wanted someone local rather than a company that is always on TV.
 
-One first-time homeowner said KGF took their kitchen and bathroom from an outdated 1970s look to a cleaner, finished, modern one, after helping them with ideas and a clear direction. Another praised trim work with a flawless finish and cabinets that exceeded expectations. Reviewers describe a family-oriented, professional company that answers every question and gets the details right.
+As first-time homeowners, they got help with ideas and a clear direction, and went from an outdated 1970s kitchen and bathroom to a cleaner, modern look. Another customer praised trim work with a flawless finish and cabinets that exceeded expectations. Reviewers describe a professional company that answers every question and gets the details right, from the first idea to the last piece of trim.
 
 ## Kitchen remodeling in Westland, plus cabinets and trim
 
 ### Kitchen remodeling
 
-Kitchen remodeling is one of two specialties listed on their Facebook page. KGF helps you settle on ideas and a direction, then carries out the upgrade. One client went from an outdated 1970s kitchen to a cleaner, more modern look they say they absolutely love.
+Kitchen remodeling is one of the two specialties listed on KGF's Facebook page. KGF helps you settle on ideas and a direction, then carries out the upgrade. One client went from an outdated 1970s kitchen to a cleaner, modern look they say they absolutely love.
 
-Image: `images/maps_02.jpg` (alt: Wall of tall white painted shaker cabinets with black bar pulls next to a stainless refrigerator)
+Image: AI image `ai_service_kitchen.jpg` (alt: Updated white shaker kitchen with brass pulls and light countertops (illustration))
 
 ### Cabinet spraying and refinishing
 
@@ -47,13 +47,19 @@ Image: `images/maps_01.jpg` (alt: Close-up of white shaker cabinet doors with a 
 
 New cabinets need to go in level, square and tight to the wall. A Google reviewer recommends KGF for cabinet installation, and their photos show full-height pantry cabinets fitted neatly beside the refrigerator. Ask about installing new cabinets as part of a kitchen update.
 
+Image: `images/maps_02.jpg` (alt: Wall of tall white shaker pantry cabinets with black bar pulls fitted beside a stainless refrigerator)
+
 ### Trim and finish carpentry
 
-Finish carpentry is how the company describes itself. A reviewer called their trim work outstanding, with incredible attention to detail and a flawless finish. Trim is often the last thing you notice and the first thing that makes a room look finished.
+Finish carpentry is how the company describes itself. A reviewer called their trim work outstanding, with incredible attention to detail and a flawless finish. Good trim is often what makes a newly updated room look truly complete, so it pairs well with a kitchen or bath project.
+
+Image: AI image `ai_service_trim.jpg` (alt: Hallway with new white door casing, baseboards and crown molding (illustration))
 
 ### Bathroom upgrades
 
-KGF has upgraded bathrooms along with kitchens. One couple had both rooms modernized at the same time and said they absolutely love the results. Call to talk through what you would like to change in your bathroom and get a free estimate.
+KGF upgrades bathrooms as well as kitchens. One first-time homeowner had both rooms brought up to date and says they absolutely love their new kitchen and bathroom. Call to talk through what you would like to change in your bathroom and set up a free estimate.
+
+Image: AI image `ai_service_bathroom.jpg` (alt: Updated bathroom with white shaker vanity, brass pulls and white tile (illustration))
 
 ## Why Westland homeowners pick KGF
 
@@ -63,13 +69,15 @@ KGF has upgraded bathrooms along with kitchens. One couple had both rooms modern
 
 **Detail in the finish.** Reviewers keep mentioning attention to detail: outstanding trim, a flawless finish and cabinets that exceeded expectations. Every Google review is five stars.
 
-**Free estimates.** Their Facebook page offers free estimates. Call Monday to Saturday between 7 AM and 7 PM to set one up and talk through your kitchen or bath.
+**Free estimates.** KGF's Facebook page offers free estimates, so you can talk through your kitchen, cabinets or trim and get a price before you decide anything.
 
 ## About Kyle and KGF Home Improvement
 
-KGF Home Improvement is a finish carpentry and home improvement company based in Westland, Michigan, specializing in kitchen remodeling and cabinet spraying. Customers know the owner as Kyle, and one describes him as exceptionally polite and understanding with any concerns. Its latest Google reviews all came in during the last few months, and the work is already drawing repeat business: one couple who had their kitchen and bathroom upgraded is planning their basement next. Reviewers call KGF professional, reliable, responsive and easy to work with from start to finish.
+KGF Home Improvement is a finish carpentry and home improvement company in Westland, Michigan. Its Facebook page names two specialties: kitchen remodeling and cabinet spraying. Customers know the owner as Kyle, and one first-time homeowner described him as exceptionally polite and understanding with any concerns. Reviewers call the company professional, reliable and easy to work with from start to finish, and they single out the trim and cabinets for their detail. The work is already bringing customers back: the couple whose kitchen and bathroom KGF updated plan to have the company back for their basement.
 
-Owner: Kyle, Owner (a reviewer writes 'I believe the owner's name is Kyle'; the business email is kyle.ferguson13@icloud.com)
+Owner: Kyle, Owner
+
+About image: `images/maps_01.jpg` (alt: White shaker cabinet doors with brass pulls finished by KGF Home Improvement)
 
 ## How a KGF project works
 
@@ -78,10 +86,10 @@ Owner: Kyle, Owner (a reviewer writes 'I believe the owner's name is Kyle'; the 
 3. **The work.** The crew handles the remodel, cabinet spraying, installation and trim with the attention to detail reviewers mention.
 4. **Done your way.** Before they finish, they make sure everything is done exactly the way you wanted, as one reviewer put it.
 
-## Recent cabinet work
+## Cabinet work by KGF
 
 - `images/maps_02.jpg`: Full-height white pantry cabinets (alt: Floor-to-ceiling white shaker pantry cabinets with black pulls beside a stainless refrigerator)
-- `images/maps_01.jpg`: Smooth white cabinet finish (alt: White shaker cabinet doors with a smooth sprayed-look finish and brass pulls)
+- `images/maps_01.jpg`: Smooth white cabinet finish (alt: White shaker cabinet doors with a smooth painted finish and brass pulls)
 
 ## Five-star reviews on Google
 
@@ -90,10 +98,10 @@ Owner: Kyle, Owner (a reviewer writes 'I believe the owner's name is Kyle'; the 
 > James F., Google, 3 months ago
 
 > I had an excellent experience with KGF Home Improvement! Their trim work was outstanding, with incredible attention to detail and a flawless finish. They also did an amazing job on my cabinets, and the quality of the craftsmanship exceeded my expectations.
-
-What really set them apart was their customer service. They were professional, responsive, and easy to work with from start to finish. They took the time to answer all my questions and made sure everything was done exactly the way I wanted.
-
-If you’re looking for high-quality trim work, cabinet installation or refinishing, and a company that truly cares about its customers, I highly recommend KGF Home Improvement. I couldn’t be happier with the results!
+>
+> What really set them apart was their customer service. They were professional, responsive, and easy to work with from start to finish. They took the time to answer all my questions and made sure everything was done exactly the way I wanted.
+>
+> If you’re looking for high-quality trim work, cabinet installation or refinishing, and a company that truly cares about its customers, I highly recommend KGF Home Improvement. I couldn’t be happier with the results!
 >
 > James T., Google, 3 months ago
 
@@ -103,7 +111,7 @@ If you’re looking for high-quality trim work, cabinet installation or refinish
 
 ## Serving Westland, Michigan
 
-KGF Home Improvement is a local company based in Westland, the town listed on its Facebook page. It does not list a storefront, so the crew comes to you. If you are in or around Westland and want to update a kitchen, refinish cabinets, add trim or upgrade a bathroom, call (734) 502-4805 to check whether your address fits the schedule and to book a free estimate.
+KGF Home Improvement is a local company based in Westland, the town listed on its Facebook page. It does not list a storefront, so the work happens at your home. If you are in or around Westland and want to update a kitchen, refinish cabinets, add trim or upgrade a bathroom, call (734) 502-4805 to check that your home is in range and to book a free estimate.
 
 Towns: Westland, MI
 
@@ -115,7 +123,7 @@ Yes. Cabinet spraying is one of the two specialties on KGF's Facebook page, and 
 
 **Do you offer free estimates?**
 
-Yes. Their Facebook page says free estimates. Call (734) 502-4805 Monday through Saturday between 7 AM and 7 PM, or email kyle.ferguson13@icloud.com with a few photos of the room and a short description of what you would like done. Kyle can then come out to look.
+Yes. KGF's Facebook page offers free estimates. Call (734) 502-4805 Monday through Saturday between 7 AM and 7 PM, or email kyle.ferguson13@icloud.com with a few photos of the room and a short description of what you would like done, and ask about a visit.
 
 **I'm a first-time homeowner and not sure what I want. Can you help?**
 
@@ -145,6 +153,25 @@ Hours: Mon to Sat 7 AM to 7 PM, Sun closed
 Socials: https://www.facebook.com/p/KGF-Home-Improvement-61590314420204/, https://www.google.com/maps/place/?q=place_id:ChIJP3Njd6WpYSkRbtiDFfzPd88&hl=en
 
 ---
+
+## Image plan
+
+- **hero**: real photo `images/maps_02.jpg` (alt: White shaker pantry cabinets with black pulls beside a stainless refrigerator, kitchen remodeling in Westland, MI by KGF Home Improvement)
+- **service:Kitchen remodeling**: AI image `ai_service_kitchen.jpg` (alt: Updated white shaker kitchen with brass pulls and light countertops (illustration))
+  - Prompt: Photorealistic photo of a freshly updated kitchen in a 1960s or 1970s brick ranch home in suburban Detroit, Michigan: white shaker cabinets with a smooth sprayed finish, brass bar pulls, light quartz countertops, a stainless refrigerator flanked by full-height pantry cabinets, light gray wood-look floor, a deep indigo runner rug as the only accent color, soft natural daylight from a window over the sink, no people, no faces, no text, no logos, no brand names, 4:3.
+- **service:Cabinet spraying and refinishing**: real photo `images/maps_01.jpg` (alt: Close-up of white shaker cabinet doors with a smooth painted finish and brass bar pulls)
+- **service:Cabinet installation**: real photo `images/maps_02.jpg` (alt: Wall of tall white shaker pantry cabinets with black bar pulls fitted beside a stainless refrigerator)
+- **service:Trim and finish carpentry**: AI image `ai_service_trim.jpg` (alt: Hallway with new white door casing, baseboards and crown molding (illustration))
+  - Prompt: Photorealistic photo of a hallway and doorway in a 1960s or 1970s brick ranch home in suburban Detroit, Michigan after new finish carpentry: crisp white painted door casings, tall baseboards and crown molding with tight mitered corners, pale gray walls, light wood floor, soft natural daylight, no people, no faces, no text, no logos, no brand names, 4:3.
+- **service:Bathroom upgrades**: AI image `ai_service_bathroom.jpg` (alt: Updated bathroom with white shaker vanity, brass pulls and white tile (illustration))
+  - Prompt: Photorealistic photo of a modernized bathroom in a 1960s or 1970s brick ranch home in suburban Detroit, Michigan: white shaker vanity with brass pulls and a white quartz top, white subway tile tub surround, light gray floor tile, a framed mirror, soft natural daylight from a small window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3.
+- **about**: real photo `images/maps_01.jpg` (alt: White shaker cabinet doors with brass pulls finished by KGF Home Improvement)
+- **gallery_1**: real photo `images/maps_02.jpg` (alt: Floor-to-ceiling white shaker pantry cabinets with black pulls beside a stainless refrigerator)
+- **gallery_2**: real photo `images/maps_01.jpg` (alt: White shaker cabinet doors with a smooth painted finish and brass pulls)
+- **final_cta**: AI image `ai_cta_background.jpg` (alt: Bright white shaker kitchen with brass hardware (illustration))
+  - Prompt: Photorealistic wide photo of a finished white shaker kitchen in a 1960s or 1970s brick ranch home in suburban Detroit, Michigan, brass hardware, light countertops, soft late-afternoon natural light, deep indigo tones in the shadows and generous calm space on the left for overlaid text, no people, no faces, no text, no logos, no brand names, 21:9.
+
+Totals: 6 real photo slots, 4 AI slots.
 
 ## Brand
 
@@ -179,10 +206,12 @@ Socials: https://www.facebook.com/p/KGF-Home-Improvement-61590314420204/, https:
 - State MI (source: Inferred: Westland (Facebook) plus 734 area code (Google phone))
 - Email kyle.ferguson13@icloud.com (source: Facebook page https://www.facebook.com/p/KGF-Home-Improvement-61590314420204/ (mail server OK))
 - Photo contents (white shaker cabinets, pantry wall, brass and black pulls) (source: images maps_01, maps_02 (seen))
+- Owner first name Kyle: reviewer writes 'I believe the owner's name is Kyle', and the email on the Facebook page is kyle.ferguson13@icloud.com (source: Google review by James Ferguson; Facebook page)
+- 'Family-oriented' and 'local': reviewer calls KGF 'more of a family, oriented, professional company' and chose it because 'we wanted somebody more local' (source: Google review by James Ferguson, 3 months ago)
 
 ## Missing
 
-- Only 2 project photos (gallery 2, below 6 to 10); Maps shows 40 photos, so more should be pulled before building; no kitchen-wide, bathroom or trim photo
+- Needs project photos: only 2 real photos (gallery has 2, brief wants 6 to 10); Maps shows 40 photos, so more should be pulled before building. No full-kitchen, bathroom or trim photo, so those service cards, the kitchen card and the CTA background use AI illustrations
 - No street address or Google service area; town Westland comes from the Facebook page via Gemini, state inferred from the 734 area code
 - Logo not usable as is: the profile picture reads 'KG Supreme Home Improvement', not KGF. Confirm the current logo with the owner
 - Owner's full name not stated publicly (email suggests Kyle Ferguson); reviewer James Ferguson shares that surname, so consider leading with the other reviews

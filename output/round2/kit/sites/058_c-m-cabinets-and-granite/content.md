@@ -19,14 +19,14 @@ C&M Cabinets and Granite fabricates and installs granite and quartz countertops 
 
 - Button: Call (901) 854-7007 (tel:+19018547007)
 - Button: Ask about a free in-house estimate (#contact)
-- Trust badges: 37 Google reviews | Slab warehouse you can walk | Fabrication and installation in-house | 1,226 Facebook followers
-- Hero image: images/cover.jpg (alt: Granite countertops by Collierville shop C&M Cabinets and Granite in a gray-white kitchen with a large cased range hood, tile backsplash and gas cooktop)
+- Trust badges: 37 Google reviews | Slab warehouse you can walk | Granite fabrication and installation | 1,226 Facebook followers
+- Hero image: images/cover.jpg (alt: Kitchen with granite countertops by Collierville stone fabricator C&M Cabinets and Granite, with a cased range hood, tile backsplash and gas cooktop)
 
-## Pick your slab, then we cut it
+## Pick your slab, then C&M cuts and installs it
 
 C&M Cabinets and Granite fabricates and installs granite countertops in Collierville, and the stone is right there to see. The company has so much inventory it added a new warehouse to hold it all, with rows of granite, natural stone and quartz slabs.
 
-That selection is what Google reviewers mention first. One summed it up: if you are looking for any stone, any color, this is the place. C&M also designs and supplies custom and imported cabinets, so cabinets and tops can come from one company. One customer's quartz tops went in right after his new cabinets. Saturday morning hours make it easy to visit.
+That selection is what Google's review summary picks out: any stone, any color, in one place. C&M also designs and supplies custom and imported cabinets, so cabinets and tops can come from one company. One customer had his quartz countertops installed right after his new cabinets went in. Saturday morning hours make it easy to come and look.
 
 ## Countertops, cabinets and stone
 
@@ -34,13 +34,13 @@ That selection is what Google reviewers mention first. One summed it up: if you 
 
 Granite and other natural stone fabricated for kitchens and islands. Choose from bold exotic slabs with black, white and gold movement or quieter whites and grays, then C&M cuts and installs them in your home.
 
-Image: images/social_02.jpg (alt: Exotic granite slab with black, white and gold swirling pattern standing in the C&M slab yard)
+Image: images/social_02.jpg (alt: Exotic granite slab with black, white and gold swirls standing in the C&M slab yard)
 
 ### Quartz countertops
 
-White and veined quartz slabs stocked in the warehouse for kitchens and baths. A Google reviewer said Ricky and his crew did an amazing job installing his quartz countertops after the new cabinets were in.
+Quartz countertops for kitchens and baths, measured, fabricated and installed by C&M. A Google reviewer said Ricky and his crew did an amazing job installing his quartz tops once the new cabinets were in, and that he couldn't be happier.
 
-Image: images/maps_05.jpg (alt: Rows of white and veined quartz slabs lined up inside the C&M warehouse)
+Image: images/maps_05.jpg (alt: Rows of white veined countertop slabs lined up inside the C&M warehouse)
 
 ### Custom and imported cabinets
 
@@ -52,7 +52,7 @@ Image: images/social_01.jpg (alt: Black glass-front built-in cabinets with brass
 
 Vanity cabinets and stone tops for bathrooms, like a long double vanity in greige shaker cabinets with a white quartz top and two sinks. Cabinet replacement and quick turnaround are recurring topics in C&M's Google reviews.
 
-Image: images/maps_01.jpg (alt: Double bathroom vanity with greige shaker cabinets, white quartz top, two sinks and black-framed mirrors)
+Image: images/maps_01.jpg (alt: Double bathroom vanity with greige shaker cabinets, a white quartz top, two sinks and black-framed mirrors)
 
 ## Why Mid South homeowners come to C&M
 
@@ -66,7 +66,7 @@ C&M designs and supplies cabinets and fabricates the countertops, so one company
 
 ### Quick turnaround
 
-Quick turnaround is one of the most mentioned topics in C&M's 37 Google reviews, along with caring staff and cabinet replacement.
+Google tags three of C&M's 37 reviews for quick turnaround, and others for caring staff and cabinet replacement, so customers notice how fast the work moves.
 
 ### Named people, not a call center
 
@@ -76,7 +76,6 @@ Customers name installer Ricky and his crew. C&M has also introduced its designe
 
 C&M Cabinets and Granite is a stone fabricator and cabinet design firm at 320 S Mt Pleasant Rd in Collierville, Tennessee. It offers quality custom and imported cabinetry plus granite fabrication and installation to customers in Collierville and the tri-state area. Inventory grew enough that the company added a new warehouse to hold it all. The team has included designer Tricia Lichtle and installer Christopher Kelley, and reviewers praise Ricky and crew. C&M is also listed in the West Tennessee Home Builders Association member directory.
 
-- Owner: None (None)
 - Image: images/social_04.jpg (alt: Outdoor slab yard with rows of granite and natural stone slabs on racks under trees)
 
 ## From slab yard to installed countertops
@@ -91,10 +90,10 @@ C&M Cabinets and Granite is a stone fabricator and cabinet design firm at 320 S 
 
 - images/cover.jpg: Kitchen with stone counters and cased hood (alt: Gray-white kitchen with cased range hood, stone countertops, tile backsplash and gas cooktop)
 - images/social_01.jpg: Black glass-front built-ins (alt: Black glass-front built-in cabinets with brass hardware and lit shelves)
-- images/maps_01.jpg: Double vanity with quartz top (alt: Long double vanity in greige shaker cabinets with white quartz top)
+- images/maps_01.jpg: Double vanity with quartz top (alt: Long double vanity in greige shaker cabinets with a white quartz top)
 - images/social_02.jpg: Exotic granite slab in stock (alt: Exotic black, white and gold granite slab)
 - images/social_04.jpg: The outdoor slab yard (alt: Outdoor yard of granite and natural stone slabs on racks)
-- images/maps_05.jpg: Quartz slabs in the warehouse (alt: Indoor warehouse rows of white quartz slabs)
+- images/maps_05.jpg: White slabs in the indoor warehouse (alt: Indoor warehouse rows of white veined stone slabs)
 
 ## What customers say on Google
 
@@ -149,9 +148,60 @@ Button: Call (901) 854-7007 (tel:+19018547007) | Phone: (901) 854-7007
 - Socials: https://www.facebook.com/bestcountertopsinmemphis, https://www.instagram.com/cmcabinetsgranite, https://www.google.com/maps/place/?q=place_id:ChIJER3xAdW8f4gRXI1AMEEWP4A&hl=en
 - Hours: Mon to Fri 8 AM to 5 PM, Sat 9 AM to 1 PM, Sun closed
 
+## Structured data (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "C&M Cabinets and Granite",
+ "url": null,
+ "telephone": "+1-901-854-7007",
+ "email": "cm.cabinets@att.net",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "320 S Mt Pleasant Rd",
+  "addressLocality": "Collierville",
+  "addressRegion": "TN",
+  "postalCode": "38017",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Collierville, TN",
+  "Tri-state area"
+ ],
+ "openingHours": [
+  "Mo-Fr 08:00-17:00",
+  "Sa 09:00-13:00"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/bestcountertopsinmemphis",
+  "https://www.instagram.com/cmcabinetsgranite",
+  "https://www.google.com/maps/place/?q=place_id:ChIJER3xAdW8f4gRXI1AMEEWP4A&hl=en"
+ ],
+ "image": "images/cover.jpg"
+}
+```
+
+## Image plan
+
+- **hero**: real photo images/cover.jpg (alt: Kitchen with granite countertops by Collierville stone fabricator C&M Cabinets and Granite, with a cased range hood, tile backsplash and gas cooktop)
+- **service:Granite and stone countertops**: real photo images/social_02.jpg (alt: Exotic granite slab with black, white and gold swirls standing in the C&M slab yard)
+- **service:Quartz countertops**: real photo images/maps_05.jpg (alt: Rows of white veined countertop slabs lined up inside the C&M warehouse)
+- **service:Custom and imported cabinets**: real photo images/social_01.jpg (alt: Black glass-front built-in cabinets with brass pulls, lit shelves and a stone countertop)
+- **service:Bathroom vanities**: real photo images/maps_01.jpg (alt: Double bathroom vanity with greige shaker cabinets, a white quartz top, two sinks and black-framed mirrors)
+- **about**: real photo images/social_04.jpg (alt: Outdoor slab yard with rows of granite and natural stone slabs on racks under trees)
+- **gallery_1**: real photo images/cover.jpg (alt: Gray-white kitchen with cased range hood, stone countertops, tile backsplash and gas cooktop)
+- **gallery_2**: real photo images/social_01.jpg (alt: Black glass-front built-in cabinets with brass hardware and lit shelves)
+- **gallery_3**: real photo images/maps_01.jpg (alt: Long double vanity in greige shaker cabinets with a white quartz top)
+- **gallery_4**: real photo images/social_02.jpg (alt: Exotic black, white and gold granite slab)
+- **gallery_5**: real photo images/social_04.jpg (alt: Outdoor yard of granite and natural stone slabs on racks)
+- **gallery_6**: real photo images/maps_05.jpg (alt: Indoor warehouse rows of white veined stone slabs)
+- **final_cta**: real photo images/social_02.jpg (alt: Exotic black, white and gold granite slab in the C&M slab yard)
+
 ## Brand
 
-- Logo: None
+- Logo: none
 - Palette: primary #332B21, accent #B8893A, light #F4F1EB, dark #1C1712
 - Palette note: No logo found. brand.json colours come from the cover kitchen photo (warm taupes and deep brown). Deep brown #332B21 is kept as primary; a gold accent #B8893A is proposed from the gold veins in their exotic granite slab and the brass hardware in social_01; the light tone is a warm stone white near #C7BFB0 lightened.
 - Fonts: Playfair Display (headings), Nunito Sans (body)
@@ -202,3 +252,5 @@ Button: Call (901) 854-7007 (tel:+19018547007) | Phone: (901) 854-7007
 - Only 2 positive full review texts captured (Amber's was cut off after the first line); the third captured review is a 1-star complaint and was left off the page
 - Specific towns in the tri-state area
 - Gemini reviews were unrelated web text and were not used
+- Only 2 named Google reviews on the page (target 3 to 6); ask for more review texts with reviewer names
+- Whether the white slabs in maps_05 are quartz, quartzite or marble is not known, so alt text calls them stone slabs

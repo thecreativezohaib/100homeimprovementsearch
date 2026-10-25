@@ -7,7 +7,7 @@
 - Primary keyword: kitchen cabinet refinishing Dublin
 - Secondary keywords: cabinet painting Dublin VA, two-tone kitchen cabinets Dublin, kitchen remodeler Dublin Virginia, new cabinet doors and drawer fronts Dublin, custom trim and moldings Dublin VA, interior painting Dublin VA
 - OG title: Morris Finishing: Cabinet Refinishing and Kitchen Makeovers in Dublin, VA
-- OG description: Chuck, Susan and Mike turn dated kitchen cabinets into painted and two-tone kitchens in about a week. 4.8 stars from 22 Google reviews.
+- OG description: Chuck, Susan and Mike turn dated kitchen cabinets into painted and two-tone kitchens in Dublin, VA. 4.8 stars from 22 Google reviews.
 
 ## Hero
 
@@ -19,8 +19,8 @@ Morris Finishing Company refinishes and paints the cabinets you already have, ad
 
 - Button: Call (540) 674-0079 (tel:+15406740079)
 - Button: Ask about refinishing your kitchen (#contact)
-- Trust badges: 4.8 stars from 22 Google reviews | Kitchen cabinet specialists | About a week for a full kitchen, per reviewers
-- Hero image: images/cover.jpg (alt: Kitchen cabinet refinishing by Dublin, VA company Morris Finishing: two-tone kitchen with white painted cabinets, dark island, granite counters and lantern pendant)
+- Trust badges: 4.8 stars from 22 Google reviews | Cabinet refinishing and painting | Google reviews going back 8 years
+- Hero image: images/cover.jpg (alt: Kitchen cabinet refinishing in Dublin, VA by Morris Finishing: two-tone kitchen with white painted cabinets, a dark island, granite counters and a lantern pendant)
 
 ## A new kitchen look without tearing out your cabinets
 
@@ -38,7 +38,7 @@ Image: images/social_04.jpg (alt: Kitchen cabinets painted white with a gray and
 
 ### Two-tone kitchens
 
-Painted uppers and tall cabinets in one color with lowers or an island in a deeper shade. One recent refinish paired white uppers with navy lowers over dark granite, and the owners said they could not be happier with it.
+Painted uppers and tall cabinets in one color, with lowers or an island in a deeper shade. One refinish paired white uppers with navy lowers over dark granite, and the owners wrote that they couldn't be happier with how it turned out.
 
 Image: images/maps_04.jpg (alt: Refinished kitchen with white tall and upper cabinets, navy lower cabinets, dark granite counters and slate-look floor)
 
@@ -50,9 +50,9 @@ Image: images/social_02.jpg (alt: Kitchen with taupe painted cabinets, light gra
 
 ### Custom moldings and trim
 
-Moldings, trim and custom details that make cabinets and rooms look finished. The Facebook page invites homeowners to update their cabinets or add custom moldings and trim with Morris Finishing Company LLC, so ask about trim when you plan your cabinets.
+Crown molding, trim and custom details that finish off refinished cabinets and the rooms around them. Morris Finishing's Facebook page offers custom moldings and trim alongside cabinet updates, so ask about adding them when you plan your kitchen.
 
-Image: images/social_01.jpg (alt: White kitchen with angled island, black countertops, glass-front upper cabinets and hardwood floor)
+Image: AI image ai_service_trim.jpg (alt: Illustration of white painted kitchen cabinets topped with stepped crown molding)
 
 ### Interior painting
 
@@ -80,9 +80,8 @@ Google's review summary quotes a customer saying the work was finished in a time
 
 ## About Morris Finishing Company
 
-Morris Finishing Company LLC works from 549 E Main St in Dublin, Virginia. Its focus is the finish: refinishing and painting kitchen cabinets, adding new doors and drawer fronts, custom moldings and trim, and interior painting. Customers get to know Susan, who they call to get started, and Chuck and Mike, who do the work. Reviews go back eight years, from a Cape Cod style home painted inside to recent two-tone cabinet refinishes, and they keep using the same words: honest, professional and detail oriented.
+Morris Finishing Company LLC works from 549 E Main St in Dublin, Virginia. Its focus is the finish: refinishing and painting kitchen cabinets, adding new doors and drawer fronts, custom moldings and trim, and interior painting. Customers get to know Susan, who they call to get started, and Chuck and Mike, who do the work. Reviews go back eight years, from a Cape Cod style home painted inside to recent two-tone cabinet refinishes, and they keep using the same words: honest, professional and trustworthy.
 
-- Owner: None (None)
 - Image: images/maps_02.jpg (alt: Long kitchen with white tall cabinets, navy lower cabinets, dark granite and a bay window)
 
 ## How a cabinet makeover works
@@ -98,10 +97,10 @@ Morris Finishing Company LLC works from 549 E Main St in Dublin, Virginia. Its f
 - images/cover.jpg: Two-tone kitchen with a dark island (alt: Two-tone kitchen with white painted cabinets, dark island, granite tops and lantern pendant)
 - images/maps_04.jpg: Navy and white cabinet refinish (alt: White uppers and navy lower cabinets with dark granite and slate-look floor)
 - images/maps_02.jpg: Same kitchen, toward the bay window (alt: Long kitchen with white tall cabinets, navy lowers and bay window)
-- images/maps_03.jpg: Taupe cabinets with black granite (alt: Taupe painted cabinets with black granite counters and stainless range)
-- images/social_04.jpg: Painted white with a new mosaic backsplash (alt: White painted cabinets with mosaic tile backsplash and stainless range)
+- images/maps_03.jpg: Gray-taupe lowers with black granite (alt: White upper cabinets and gray-taupe lower cabinets with black granite counters and stainless range)
+- images/social_04.jpg: Painted white with a mosaic backsplash (alt: White painted cabinets with mosaic tile backsplash and stainless range)
 - images/social_02.jpg: Warm taupe makeover (alt: Taupe cabinets with light granite and black faucet)
-- images/social_01.jpg: White kitchen with angled island (alt: White kitchen with angled island, black counters and glass-front uppers)
+- images/social_01.jpg: White kitchen with angled island (alt: White kitchen with a gray-painted angled island, black counters and glass-front uppers)
 - images/maps_01.jpg: Bright white cabinet refresh (alt: White painted cabinets with granite counters and stainless appliances)
 
 ## What customers say on Google
@@ -136,7 +135,7 @@ That is the core of what Morris Finishing does. They refinish and paint existing
 
 **Can you help me choose a color?**
 
-Yes. Reviewers say Chuck offered suggestions and helped them choose colors with amazing results, and customers have picked everything from white to taupe to two-tone navy and white. Ask to see examples of past kitchens when you call to plan your project.
+Yes. One reviewer says Chuck offered suggestions and helped choose colors with amazing results, and customers have picked everything from white to taupe to two-tone navy and white. Ask to see examples of past kitchens when you call to plan your project.
 
 **What are your hours?**
 
@@ -161,9 +160,62 @@ Button: Call (540) 674-0079 (tel:+15406740079) | Phone: (540) 674-0079
 - Socials: https://www.facebook.com/morrisfinishing, https://www.instagram.com/va_finishing, https://www.google.com/maps/place/?q=place_id:ChIJeambtNbkTYgRSlJ7CU3rEOE&hl=en
 - Hours: Mon to Fri 8 AM to 4 PM, Sat and Sun closed
 
+## Structured data (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Morris Finishing Company LLC",
+ "url": null,
+ "telephone": "+1-540-674-0079",
+ "email": "r.mooris@morrisfinishing.com",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "549 E Main St",
+  "addressLocality": "Dublin",
+  "addressRegion": "VA",
+  "postalCode": "24084",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Dublin, VA"
+ ],
+ "openingHours": [
+  "Mo-Fr 08:00-16:00"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/morrisfinishing",
+  "https://www.instagram.com/va_finishing",
+  "https://www.google.com/maps/place/?q=place_id:ChIJeambtNbkTYgRSlJ7CU3rEOE&hl=en"
+ ],
+ "image": "images/cover.jpg"
+}
+```
+
+## Image plan
+
+- **hero**: real photo images/cover.jpg (alt: Kitchen cabinet refinishing in Dublin, VA by Morris Finishing: two-tone kitchen with white painted cabinets, a dark island, granite counters and a lantern pendant)
+- **service:Cabinet refinishing and painting**: real photo images/social_04.jpg (alt: Kitchen cabinets painted white with a gray and white glass mosaic backsplash and stainless range)
+- **service:Two-tone kitchens**: real photo images/maps_04.jpg (alt: Refinished kitchen with white tall and upper cabinets, navy lower cabinets, dark granite counters and slate-look floor)
+- **service:New doors, drawer fronts and hardware**: real photo images/social_02.jpg (alt: Kitchen with taupe painted cabinets, light granite countertops, undermount sink and black faucet)
+- **service:Custom moldings and trim**: AI image ai_service_trim.jpg (alt: Illustration of white painted kitchen cabinets topped with stepped crown molding)
+  - Prompt: Photorealistic close-up photo of white painted shaker kitchen cabinets in a Virginia family home, finished with stepped crown molding along the top and a matching light rail below the uppers, crisp paint lines, warm oak floor visible at the edge, soft navy accent wall, gentle natural window light, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.
+- **service:Interior painting**: real photo images/maps_01.jpg (alt: White painted kitchen cabinets with granite countertops, stainless appliances and a gray accent wall)
+- **about**: real photo images/maps_02.jpg (alt: Long kitchen with white tall cabinets, navy lower cabinets, dark granite and a bay window)
+- **gallery_1**: real photo images/cover.jpg (alt: Two-tone kitchen with white painted cabinets, dark island, granite tops and lantern pendant)
+- **gallery_2**: real photo images/maps_04.jpg (alt: White uppers and navy lower cabinets with dark granite and slate-look floor)
+- **gallery_3**: real photo images/maps_02.jpg (alt: Long kitchen with white tall cabinets, navy lowers and bay window)
+- **gallery_4**: real photo images/maps_03.jpg (alt: White upper cabinets and gray-taupe lower cabinets with black granite counters and stainless range)
+- **gallery_5**: real photo images/social_04.jpg (alt: White painted cabinets with mosaic tile backsplash and stainless range)
+- **gallery_6**: real photo images/social_02.jpg (alt: Taupe cabinets with light granite and black faucet)
+- **gallery_7**: real photo images/social_01.jpg (alt: White kitchen with a gray-painted angled island, black counters and glass-front uppers)
+- **gallery_8**: real photo images/maps_01.jpg (alt: White painted cabinets with granite counters and stainless appliances)
+- **final_cta**: real photo images/social_01.jpg (alt: White kitchen with a gray-painted angled island, black counters and hardwood floor)
+
 ## Brand
 
-- Logo: None
+- Logo: none
 - Palette: primary #2C3E55, accent #9E6036, light #F7F5F1, dark #30221B
 - Palette note: No logo found; brand.json colours were sampled from an oak-cabinet kitchen photo (logo.jpg). The warm oak #9E6036 and dark brown #30221B are kept as accent and dark, and a navy primary #2C3E55 is proposed from the navy refinished cabinets in maps_04, which shows what they do best. Light is a painted-cabinet white.
 - Fonts: DM Serif Display (headings), Karla (body)
@@ -216,3 +268,5 @@ Button: Call (540) 674-0079 (tel:+15406740079) | Phone: (540) 674-0079
 - Allbiz shows a second phone (540) 509-1098; Google's (540) 674-0079 is used
 - The domain morrisfinishing.com exists for email but no live website was found; Google shows 'Add website'
 - Gemini reviews were unrelated web text and were not used
+- Email r.mooris@morrisfinishing.com comes from an allbiz listing that also shows a different phone; the 'mooris' spelling may be a typo, so confirm the address before launch
+- No real photo of molding or trim work: the Custom moldings and trim card uses an AI illustration (ai_service_trim.jpg)

@@ -15,38 +15,38 @@
 
 # Flooring Installation in Brenham, TX
 
-Garibay Flooring Co installs new floors and handles remodels from its location on S Chappell Hill St. Neighbors recommend them for showing up on time and finishing fast.
+Garibay Flooring Co installs new floors and takes on remodel work from its location on S Chappell Hill St. Reviewers say Mr. Garibay shows up when he says he will and finishes without gaps in the work.
 
 - Button: Call (281) 640-4906 (tel:+12816404906)
 - Button: Request a flooring quote (#contact)
-- Trust badges: 4.0 stars from 12 Google reviews | Flooring and remodel | Visit us in Brenham
-- Hero image: images/cover.jpg (alt: Flooring installation by Brenham, TX company Garibay Flooring Co: natural white oak wide-plank floor in a white kitchen with marble-topped island)
+- Trust badges: 4.0 stars from 12 Google reviews | Flooring and remodel company | Open Monday to Saturday in Brenham
+- Hero image: images/cover.jpg (alt: Wide-plank oak flooring installation by Brenham, TX company Garibay Flooring Co in a white kitchen with a marble-topped island)
 
-## Quoted fast, started on time, finished early
+## Quick quotes, on-time crews, no gaps in the work
 
-Garibay Flooring Co handles flooring installation in Brenham out of its location on S Chappell Hill St, plus remodeling work under the same roof. Their round red badge says it simply: flooring and remodel. Many customers find them the old-fashioned way, through a neighbor.
+Garibay Flooring Co handles flooring installation in Brenham from its location at 2406 S Chappell Hill St, and its logo promises remodel work too. Some customers have used the team for years, and at least one found Mr. Garibay through a neighbor's recommendation.
 
-One homeowner reached out, had Mr. Garibay at her door the next day and a quote the morning after. She accepted on Friday, work began Monday, and the job was done by noon Tuesday, with painting and furniture moving included in the price. Another family has used them for many years and says they are always punctual and respectful of their time.
+One homeowner had Mr. Garibay at her door the day after she called and a quote the next morning. She accepted on Friday, work began Monday, and the floor was done by noon Tuesday, with painting and furniture moving included in the price. Another family says the team always does a fantastic job and is extremely punctual.
 
 ## Flooring installation in Brenham and remodel work
 
 ### Wood floor installation
 
-Wide-plank wood floors in natural white oak, warm amber tones and soft gray washes, laid through kitchens, sunrooms and big open rooms. Customers describe installations that were smooth and professional, with results that transformed the space.
+Wide-plank wood floors in natural oak, warm amber tones and soft gray washes, laid through kitchens, bright rooms and big open spaces. Customers describe installations that were smooth and professional, with results that transformed the space.
 
-Image: images/cover.jpg (alt: Natural wide-plank wood floor in a white kitchen with a marble island)
+Image: images/social_02.jpg (alt: Gray-washed wide-plank wood floor in a vaulted great room with a timber ceiling)
 
 ### Floor replacement
 
-Out with the old floor and in with the new, often in just a couple of days. One customer's replacement started Monday and finished by noon Tuesday, and the quote included moving the furniture and painting.
+Worn floors replaced without dragging the job out. One homeowner's replacement started Monday morning and was finished by noon Tuesday, and the price included moving the furniture and painting. Ask for a schedule and a list of what your quote covers.
 
-Image: images/social_01.jpg (alt: Warm-toned wide-plank wood floor in a bright room with French doors)
+Image: images/social_01.jpg (alt: Warm amber wide-plank wood floor in a bright room with French doors)
 
 ### Remodeling projects
 
-Garibay Flooring Co's logo reads Flooring & Remodel, and the team also takes on larger home renovations. A Google reviewer said the crew was professional and punctual, paid close attention to detail and kept communication clear from start to finish.
+The logo reads Flooring & Remodel, and Google lists Garibay as a remodeler, so the work can go beyond the floor. One reviewer hired the team for a home renovation and said they were professional and punctual, with clear communication from start to finish.
 
-Image: images/social_02.jpg (alt: Large vaulted living space with timber ceiling and new gray-washed wide-plank wood floor)
+Image: AI image ai_service_remodeling.jpg (alt: Illustration of a renovated open living room with a wide-plank oak floor, white walls and a red accent chair)
 
 ## Why Brenham neighbors recommend Garibay
 
@@ -58,20 +58,20 @@ Punctual is the word that repeats in their reviews. One customer wrote that Mr. 
 
 A homeowner had a visit the day after she called and a quote the next morning. In her words, the price was not cheap, but it was reasonable.
 
-### The extras are in the quote
+### More than the floor itself
 
-Google's review summary highlights it: "His price included painting and moving furniture." Ask what your quote covers so you can compare it fairly.
+One reviewer wrote: "His price included painting and moving furniture." Ask Mr. Garibay what your own quote covers so you can compare it fairly with others.
 
 ### Customers for years
 
-One family says they have worked with Garibay for many years and the team always does a fantastic job, most recently with new floors.
+One family says they have worked with Garibay for many years and the team always does a fantastic job, most recently installing new floors for them.
 
 ## About Garibay Flooring Co
 
-Garibay Flooring Co is a flooring and remodeling company at 2406 S Chappell Hill St in Brenham, Texas, led by Mr. Garibay. Homeowners find them through neighbors and friends, and some have stayed with them for years. Besides installing floors, the company carries flooring lines you can see in person in Brenham, and it has offered unusual options such as natural sea grass carpet. It is active in town too, running the silent auction for the Top Floor Cars & Ram Optical Car Show.
+Garibay Flooring Co is a flooring and remodeling company at 2406 S Chappell Hill St in Brenham, Texas. Reviewers deal directly with Mr. Garibay, who comes out to see the rooms, writes the quote and shows up when he says he will. Some families have used the company for years. Besides installing floors, Garibay sells flooring material with installation and has offered unusual options like natural sea grass carpet. The team also gets involved beyond the job site: in 2025 it ran the silent auction for the Top Floor Cars & Ram Optical Car Show.
 
-- Owner: Mr. Garibay (Owner)
-- Image: images/logo.jpg (alt: Garibay Flooring Co round red badge logo with a vintage illustration of a man laying floor tile and the words Flooring & Remodel)
+- Owner: Mr. Garibay (Owner (inferred from the business name and reviews))
+- Image: images/maps_01.jpg (alt: Light oak floor boards being laid over the subfloor during a Garibay Flooring Co installation)
 
 ## From first call to finished floor
 
@@ -80,11 +80,12 @@ Garibay Flooring Co is a flooring and remodeling company at 2406 S Chappell Hill
 3. **Your quote**: You get a quote, which can include extras like moving furniture and painting. Ask what is included before you accept.
 4. **Install**: Work starts on the agreed day. One reviewer said the crew finished efficiently, without delays or gaps in the work.
 
-## Recent floors
+## Floors by Garibay Flooring Co
 
-- images/cover.jpg: Wide-plank oak through a white kitchen (alt: Natural white oak wide-plank floor in a white kitchen with marble island)
-- images/social_01.jpg: Warm wood floor in a sunroom (alt: Warm amber wide-plank wood floor in a sunroom with French doors)
+- images/cover.jpg: Wide-plank oak through a white kitchen (alt: Natural wide-plank oak floor in a white kitchen with a marble-topped island)
+- images/social_01.jpg: Warm wood floor in a bright room (alt: Warm amber wide-plank wood floor in a bright room with French doors)
 - images/social_02.jpg: Gray-washed planks in a vaulted great room (alt: Gray-washed wide-plank wood floor in a vaulted great room with timber ceiling and tall windows)
+- images/maps_01.jpg: Oak planks going down over the subfloor (alt: Light oak planks going down over an OSB subfloor beside a roll of red rosin paper)
 
 ## What customers say on Google
 
@@ -130,7 +131,7 @@ Yes. Garibay Flooring Co invites customers to visit at 2406 S Chappell Hill St i
 
 ## Ready for new floors?
 
-Call Garibay Flooring Co or stop by the Brenham shop.
+Call Mr. Garibay for a quote, or stop by 2406 S Chappell Hill St during open hours.
 
 Button: Call (281) 640-4906 (tel:+12816404906) | Phone: (281) 640-4906
 
@@ -142,6 +143,53 @@ Button: Call (281) 640-4906 (tel:+12816404906) | Phone: (281) 640-4906
 - Email: crisg@garibayflooringco.com
 - Socials: https://www.facebook.com/100063848353570/, https://www.google.com/maps/place/?q=place_id:ChIJ3Tlzg0WpRoYRod7ezAVAN3U&hl=en
 - Hours: Mon to Fri 8 AM to 4 PM, Sat 8 AM to 12 PM, Sun closed
+
+## Structured data (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Garibay Flooring Co",
+ "url": null,
+ "telephone": "+1-281-640-4906",
+ "email": "crisg@garibayflooringco.com",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "2406 S Chappell Hill St",
+  "addressLocality": "Brenham",
+  "addressRegion": "TX",
+  "postalCode": "77833",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Brenham, TX"
+ ],
+ "openingHours": [
+  "Mo-Fr 08:00-16:00",
+  "Sa 08:00-12:00"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/100063848353570/",
+  "https://www.google.com/maps/place/?q=place_id:ChIJ3Tlzg0WpRoYRod7ezAVAN3U&hl=en"
+ ],
+ "image": "images/cover.jpg"
+}
+```
+
+## Image plan
+
+- **hero**: real photo images/cover.jpg (alt: Wide-plank oak flooring installation by Brenham, TX company Garibay Flooring Co in a white kitchen with a marble-topped island)
+- **service:Wood floor installation**: real photo images/social_02.jpg (alt: Gray-washed wide-plank wood floor in a vaulted great room with a timber ceiling)
+- **service:Floor replacement**: real photo images/social_01.jpg (alt: Warm amber wide-plank wood floor in a bright room with French doors)
+- **service:Remodeling projects**: AI image ai_service_remodeling.jpg (alt: Illustration of a renovated open living room with a wide-plank oak floor, white walls and a red accent chair)
+  - Prompt: Photorealistic photo of a freshly renovated open living and dining room in a Central Texas farmhouse-style home, wide-plank natural oak floor, white painted walls and trim, black window frames, warm wood ceiling beams, one deep red accent chair echoing a red and black palette, soft natural daylight through tall windows, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.
+- **about**: real photo images/maps_01.jpg (alt: Light oak floor boards being laid over the subfloor during a Garibay Flooring Co installation)
+- **gallery_1**: real photo images/cover.jpg (alt: Natural wide-plank oak floor in a white kitchen with a marble-topped island)
+- **gallery_2**: real photo images/social_01.jpg (alt: Warm amber wide-plank wood floor in a bright room with French doors)
+- **gallery_3**: real photo images/social_02.jpg (alt: Gray-washed wide-plank wood floor in a vaulted great room with timber ceiling and tall windows)
+- **gallery_4**: real photo images/maps_01.jpg (alt: Light oak planks going down over an OSB subfloor beside a roll of red rosin paper)
+- **final_cta**: real photo images/social_01.jpg (alt: Warm amber wide-plank wood floor in a bright room with French doors)
 
 ## Brand
 
@@ -156,7 +204,6 @@ Button: Call (281) 640-4906 (tel:+12816404906) | Phone: (281) 640-4906
 
 - images/social_03.jpg: Duplicate of social_02.jpg
 - images/social_04.jpg: Sale graphic with an expired price, not a project
-- images/maps_01.jpg: Floor install in progress with paper covering, blurry and unfinished
 
 ## Outreach
 
@@ -190,8 +237,10 @@ Button: Call (281) 640-4906 (tel:+12816404906) | Phone: (281) 640-4906
 - Financing
 - Prices: a $4.10/sq ft sale from Feb 2026 was found but left out because it is a past promotion
 - Kitchen, bathroom and countertop services are listed only by Gemini, with no photos or reviews to back them, so they were not given their own sections
-- Only 3 usable project photos (below the 6-photo gallery target); Google shows only 2 photos
 - Instagram account
 - Towns served beyond Brenham
 - Tagline
 - Gemini reviews were unrelated web text and were not used
+- Needs project photos: only 4 real project photos exist (cover, social_01, social_02 and the in-progress maps_01), below the 6-photo gallery target; Google shows only 2 photos
+- No real remodeling photo: the Remodeling projects card uses an AI illustration (ai_service_remodeling.jpg) until the owner sends one
+- Mr. Garibay's role as owner is inferred from the business name and reviews; confirm

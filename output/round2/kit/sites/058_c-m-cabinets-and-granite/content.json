@@ -31,19 +31,19 @@
   "trust_badges": [
    "37 Google reviews",
    "Slab warehouse you can walk",
-   "Fabrication and installation in-house",
+   "Granite fabrication and installation",
    "1,226 Facebook followers"
   ],
   "image": {
    "file": "images/cover.jpg",
-   "alt": "Granite countertops by Collierville shop C&M Cabinets and Granite in a gray-white kitchen with a large cased range hood, tile backsplash and gas cooktop"
+   "alt": "Kitchen with granite countertops by Collierville stone fabricator C&M Cabinets and Granite, with a cased range hood, tile backsplash and gas cooktop"
   }
  },
  "intro": {
-  "h2": "Pick your slab, then we cut it",
+  "h2": "Pick your slab, then C&M cuts and installs it",
   "paragraphs": [
    "C&M Cabinets and Granite fabricates and installs granite countertops in Collierville, and the stone is right there to see. The company has so much inventory it added a new warehouse to hold it all, with rows of granite, natural stone and quartz slabs.",
-   "That selection is what Google reviewers mention first. One summed it up: if you are looking for any stone, any color, this is the place. C&M also designs and supplies custom and imported cabinets, so cabinets and tops can come from one company. One customer's quartz tops went in right after his new cabinets. Saturday morning hours make it easy to visit."
+   "That selection is what Google's review summary picks out: any stone, any color, in one place. C&M also designs and supplies custom and imported cabinets, so cabinets and tops can come from one company. One customer had his quartz countertops installed right after his new cabinets went in. Saturday morning hours make it easy to come and look."
   ]
  },
  "services": {
@@ -54,15 +54,15 @@
     "blurb": "Granite and other natural stone fabricated for kitchens and islands. Choose from bold exotic slabs with black, white and gold movement or quieter whites and grays, then C&M cuts and installs them in your home.",
     "image": {
      "file": "images/social_02.jpg",
-     "alt": "Exotic granite slab with black, white and gold swirling pattern standing in the C&M slab yard"
+     "alt": "Exotic granite slab with black, white and gold swirls standing in the C&M slab yard"
     }
    },
    {
     "name": "Quartz countertops",
-    "blurb": "White and veined quartz slabs stocked in the warehouse for kitchens and baths. A Google reviewer said Ricky and his crew did an amazing job installing his quartz countertops after the new cabinets were in.",
+    "blurb": "Quartz countertops for kitchens and baths, measured, fabricated and installed by C&M. A Google reviewer said Ricky and his crew did an amazing job installing his quartz tops once the new cabinets were in, and that he couldn't be happier.",
     "image": {
      "file": "images/maps_05.jpg",
-     "alt": "Rows of white and veined quartz slabs lined up inside the C&M warehouse"
+     "alt": "Rows of white veined countertop slabs lined up inside the C&M warehouse"
     }
    },
    {
@@ -78,7 +78,7 @@
     "blurb": "Vanity cabinets and stone tops for bathrooms, like a long double vanity in greige shaker cabinets with a white quartz top and two sinks. Cabinet replacement and quick turnaround are recurring topics in C&M's Google reviews.",
     "image": {
      "file": "images/maps_01.jpg",
-     "alt": "Double bathroom vanity with greige shaker cabinets, white quartz top, two sinks and black-framed mirrors"
+     "alt": "Double bathroom vanity with greige shaker cabinets, a white quartz top, two sinks and black-framed mirrors"
     }
    }
   ]
@@ -96,7 +96,7 @@
    },
    {
     "title": "Quick turnaround",
-    "text": "Quick turnaround is one of the most mentioned topics in C&M's 37 Google reviews, along with caring staff and cabinet replacement."
+    "text": "Google tags three of C&M's 37 reviews for quick turnaround, and others for caring staff and cabinet replacement, so customers notice how fast the work moves."
    },
    {
     "title": "Named people, not a call center",
@@ -154,7 +154,7 @@
    },
    {
     "file": "images/maps_01.jpg",
-    "alt": "Long double vanity in greige shaker cabinets with white quartz top",
+    "alt": "Long double vanity in greige shaker cabinets with a white quartz top",
     "caption": "Double vanity with quartz top"
    },
    {
@@ -169,8 +169,8 @@
    },
    {
     "file": "images/maps_05.jpg",
-    "alt": "Indoor warehouse rows of white quartz slabs",
-    "caption": "Quartz slabs in the warehouse"
+    "alt": "Indoor warehouse rows of white veined stone slabs",
+    "caption": "White slabs in the indoor warehouse"
    }
   ]
  },
@@ -275,6 +275,86 @@
   ],
   "image": "images/cover.jpg"
  },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "Kitchen with granite countertops by Collierville stone fabricator C&M Cabinets and Granite, with a cased range hood, tile backsplash and gas cooktop"
+  },
+  {
+   "slot": "service:Granite and stone countertops",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "Exotic granite slab with black, white and gold swirls standing in the C&M slab yard"
+  },
+  {
+   "slot": "service:Quartz countertops",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Rows of white veined countertop slabs lined up inside the C&M warehouse"
+  },
+  {
+   "slot": "service:Custom and imported cabinets",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "Black glass-front built-in cabinets with brass pulls, lit shelves and a stone countertop"
+  },
+  {
+   "slot": "service:Bathroom vanities",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Double bathroom vanity with greige shaker cabinets, a white quartz top, two sinks and black-framed mirrors"
+  },
+  {
+   "slot": "about",
+   "file": "images/social_04.jpg",
+   "source": "real",
+   "alt": "Outdoor slab yard with rows of granite and natural stone slabs on racks under trees"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/cover.jpg",
+   "source": "real",
+   "alt": "Gray-white kitchen with cased range hood, stone countertops, tile backsplash and gas cooktop"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "Black glass-front built-in cabinets with brass hardware and lit shelves"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Long double vanity in greige shaker cabinets with a white quartz top"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "Exotic black, white and gold granite slab"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/social_04.jpg",
+   "source": "real",
+   "alt": "Outdoor yard of granite and natural stone slabs on racks"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Indoor warehouse rows of white veined stone slabs"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/social_02.jpg",
+   "source": "real",
+   "alt": "Exotic black, white and gold granite slab in the C&M slab yard"
+  }
+ ],
  "facts_used": [
   {
    "fact": "Business name C&M Cabinets and Granite, category Contractor; profile shows 'Claim this business' and 'Add website'",
@@ -344,7 +424,9 @@
   "Hero photo cover.jpg is only 640x480; ask for a higher-resolution kitchen photo",
   "Only 2 positive full review texts captured (Amber's was cut off after the first line); the third captured review is a 1-star complaint and was left off the page",
   "Specific towns in the tri-state area",
-  "Gemini reviews were unrelated web text and were not used"
+  "Gemini reviews were unrelated web text and were not used",
+  "Only 2 named Google reviews on the page (target 3 to 6); ask for more review texts with reviewer names",
+  "Whether the white slabs in maps_05 are quartz, quartzite or marble is not known, so alt text calls them stone slabs"
  ],
  "brand": {
   "logo_file": null,

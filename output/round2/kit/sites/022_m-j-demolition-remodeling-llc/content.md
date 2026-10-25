@@ -1,11 +1,13 @@
 # M&J Demolition & Remodeling LLC: homepage content
 
-**Title tag:** Remodeling in Pasadena, TX | M&J Demolition & Remodeling  
-**Meta description:** M&J Demolition & Remodeling LLC handles remodeling, repairs and demolition in Pasadena, TX for homes and businesses. 5.0 stars on Google. Call (832) 691-1171.  
-**Primary keyword:** remodeling Pasadena TX  
-**Secondary keywords:** demolition contractor Pasadena TX, termite damage repair Pasadena, drywall and stud repair Pasadena TX, bathroom addition Pasadena TX, commercial remodeling Pasadena TX, kitchen remodeling Pasadena TX  
-**OG title:** M&J Demolition & Remodeling | Remodeling in Pasadena, TX  
-**OG description:** Demolition, damage repair and remodeling for homes and businesses in Pasadena, TX. Rated 5.0 on Google.
+## SEO
+
+- Title tag: Remodeling in Pasadena, TX | M&J Demolition & Remodeling
+- Meta description: M&J Demolition & Remodeling LLC handles remodeling, repairs and demolition in Pasadena, TX for homes and businesses. 5.0 stars on Google. Call (832) 691-1171.
+- Primary keyword: remodeling Pasadena TX
+- Secondary keywords: demolition contractor Pasadena TX, termite damage repair Pasadena, drywall and stud repair Pasadena TX, bathroom addition Pasadena TX, commercial remodeling Pasadena TX, home remodeling Pasadena TX
+- OG title: M&J Demolition & Remodeling | Remodeling in Pasadena, TX
+- OG description: Demolition, damage repair and remodeling for homes and businesses in Pasadena, TX. Rated 5.0 on Google.
 
 ## Hero
 
@@ -15,87 +17,86 @@
 
 Enrique and his team take out what is damaged or dated and rebuild it properly, from termite-damaged walls to a full bathroom addition. Residential and commercial work.
 
-[Call (832) 691-1171](tel:+18326911171) | [Ask about your project](#contact)
-
-- 5.0 stars from 7 Google reviews
-- Residential and commercial remodeling
-- Demolition and rebuild
-- Listed open 24 hours, 7 days
-
-Image: `images/maps_05.jpg` (alt: Dining room with bay window and chandelier, rebuilt after termite damage with new drywall and paint, remodeling in Pasadena TX by M&J)
+- Button: Call (832) 691-1171 (tel:+18326911171)
+- Button: Ask about your project (#contact)
+- Trust badges: 5.0 stars from 7 Google reviews | Residential and commercial remodeling | Demolition and rebuild | Listed open 24 hours, 7 days
+- Image: images/maps_05.jpg (real photo). Alt: Dining room with a bay window and chandelier, rebuilt after termite damage with new drywall and paint: remodeling in Pasadena, TX by M&J
 
 ## We fix what is behind the wall, then make it look new
 
 M&J Demolition & Remodeling LLC does remodeling in Pasadena, TX, and the work often starts where other jobs stop: behind the drywall. One homeowner's 60-year-old dining room had been damaged by termites. Enrique removed and replaced the damaged sheetrock, studs and insulation, then painted the room.
 
-That is the pattern in our reviews. Demolition is in our name because we do the tear-out ourselves, then rebuild, whether that is a damaged wall, a bathroom addition or an open commercial space with new floors. Customers describe the team as professional, conscientious and easy to talk to, and say they would hire us again.
+That is the pattern in our reviews. Demolition is in our name, and the same team does the tear-out and the rebuild, whether that is a damaged wall, a bathroom addition or an open commercial space with new floors. Customers describe the team as professional, conscientious and pleasant to work with, and say they would hire us again.
 
 ## What we do
 
 ### Damage repair: termites, drywall and studs
 
-When termites or moisture get into a wall, paint alone will not fix it. We open the wall, remove damaged sheetrock, studs and insulation, replace them and finish with fresh paint so the room looks like nothing happened.
+When termites or moisture get into a wall, paint alone will not fix it. We open the wall, remove the damaged sheetrock, studs and insulation, replace them and finish with fresh paint and trim, so the room is solid again and looks clean.
 
-Image: `images/maps_04.jpg` (alt: Termite-damaged wood header above a window with the drywall removed)
+Image: images/maps_06.jpg (real photo). Alt: Repaired closet with fresh grey paint, new baseboards, a wooden hanging rod and carpet
 
 ### Demolition and tear-out
 
-Demolition is part of our name and part of almost every job. We strip rooms back to the studs, protect the rest of your home with plastic sheeting and clear the way for the rebuild.
+Demolition is part of our name. On the termite job we stripped the dining room walls back to the studs, kept the dust behind plastic sheeting and cleared the way for the rebuild. We take on residential and commercial demolition.
 
-Image: `images/maps_02.jpg` (alt: Worker clearing a dining room stripped to the studs, with plastic sheeting protecting the next room)
+Image: images/maps_04.jpg (real photo). Alt: Termite-damaged wood header above a window, exposed after the drywall was removed
 
 ### Bathroom additions and home remodeling
 
-A recent customer had Enrique and his team build a bathroom addition and said their skills, professionalism and communication were off the charts. We take on residential remodeling of rooms, closets and bathrooms in and around Pasadena.
+One customer had Enrique and his team build a bathroom addition and said their skills, professionalism and communication were off the charts. We take on bathroom additions and residential remodeling of rooms and closets in and around Pasadena.
 
-Image: `images/maps_06.jpg` (alt: Small closet with fresh grey paint, new baseboards, a wooden hanging rod and carpet)
+Image: AI illustration ai_service_bathroom_addition.jpg (see image plan for the prompt). Alt: Illustration of a small finished bathroom with a white tub, subway tile and a white vanity
 
 ### Commercial remodeling
 
-We remodel commercial spaces as well as homes, from the floor to the walls and doors. This large open room got new wood-look flooring, freshly painted walls and new doors, so the space was clean, bright and ready to be used again.
+We remodel commercial spaces as well as homes. This large open room was finished with wood-look plank flooring and clean white walls, ready for the business to move back in. Call with the size of your space and what it is used for.
 
-Image: `images/maps_01.jpg` (alt: Large empty commercial room with new wood-look plank flooring, white walls and exposed ducting)
-
-### Kitchen remodeling and countertops
-
-Our Facebook page lists kitchen remodeling and countertops among our services. If your kitchen needs new counters or a full remodel, call and tell us about the space, and we will talk through what is involved.
-
-Image: none (no photo of this service)
+Image: images/maps_01.jpg (real photo). Alt: Large empty commercial room with wood-look plank flooring, white walls and exposed ducting
 
 ## Why customers call M&J
 
-**We fix the cause, not just the surface.** On the termite job we replaced the damaged studs and insulation, not just the drywall. The homeowner called us very professional and conscientious and said he would call again.
+### We fix the cause, not just the surface
 
-**Communication customers notice.** The bathroom addition customer said our skills, professionalism and communication were off the charts, and that he would rehire us.
+On the termite job we replaced the damaged studs and insulation, not just the drywall. The homeowner called us very professional and conscientious and said they would definitely call again.
 
-**Homes and businesses.** Our Facebook page describes us as remodeling in general, residential and commercial, plus demolition. The same crew can work on your house or your business space.
+### Communication customers notice
 
-**One crew from tear-out to paint.** Because we handle demolition ourselves, there is no handoff between a demo company and a remodeler. The team that opens the wall is the team that closes it.
+The customer who had us build a bathroom addition said our skills, professionalism and communication were off the charts, and that they would rehire us.
+
+### Homes and businesses
+
+Our Facebook page describes us as remodeling in general, residential and commercial, plus demolition. The same crew can work on your house or your business space.
+
+### One crew from tear-out to paint
+
+Demolition and rebuilding are both in our name, so you do not have to hire a demo company and a remodeler separately. The team that opens the wall is the team that closes it.
 
 ## About Enrique and the M&J team
 
-M&J Demolition & Remodeling LLC is a remodeling and demolition company in Pasadena, TX. In our Google reviews customers name Enrique as the person leading the work, along with his team. The jobs they describe are the kind that need both skills: opening up a 60-year-old dining room damaged by termites and rebuilding it, and building a bathroom addition from scratch. Every review on Google is five stars, and customers use words like professional, conscientious and pleasant to work with. We work for homeowners and for businesses.
+M&J Demolition & Remodeling LLC is a remodeling and demolition company in Pasadena, TX. In our Google reviews, customers name Enrique as the person leading the work, along with his team. The jobs they describe need both skills: opening up a 60-year-old dining room damaged by termites and rebuilding it, and building a bathroom addition. Every review on Google is five stars, and customers use words like professional, conscientious and pleasant to work with. We work for homeowners and for businesses.
 
-Owner: Enrique (Leads the work, named in Google reviews (exact title not published))  
-Image: none
+Owner: Enrique (Leads the work, named in Google reviews (exact title not published))
+
+Image: images/maps_02.jpg (real photo). Alt: M&J crew member clearing a dining room stripped to the studs, with plastic sheeting protecting the next room
 
 ## How a project with us works
 
 1. **Call us.** Call (832) 691-1171 and tell us what is going on: damage you found, a room you want changed, or a space to remodel.
-2. **Look at the problem.** We come out, look at the room and, if there is damage, find out how far it goes before we quote the work.
+2. **Look at the problem.** We look at the room with you and, if there is damage, find out how far it goes before we quote the work.
 3. **Demolition.** We protect the rest of your home or business, then remove damaged or dated materials down to what is solid.
 4. **Rebuild and finish.** New studs, insulation, drywall, flooring or fixtures go in, followed by paint and trim so the room is ready to use.
-5. **Final walkthrough.** We walk the finished space with you and go over what was replaced, so you know exactly what is behind your walls.
+5. **Final walkthrough.** We walk through the finished space with you and go over what was replaced, so you know what was done behind your walls.
 
 ## Before, during and after
 
-- `images/maps_03.jpg`: Before: a 60-year-old dining room with termite damage (alt: Dining room with stained, patched walls before repair, chandelier and wooden dining chairs)
-- `images/maps_04.jpg`: During: termite damage found above the window (alt: Termite-damaged wooden header exposed above a window)
-- `images/maps_02.jpg`: During: walls opened up, damaged studs and insulation removed (alt: Dining room stripped to the studs with plastic sheeting and a worker cleaning up)
-- `images/maps_05.jpg`: After: the same dining room rebuilt and painted (alt: Finished dining room with smooth walls, fresh paint, bay window and chandelier)
-- `images/maps_07.jpg`: Before: closet with a damaged wall and baseboard (alt: Closet corner with damaged baseboard and stained wall before repair)
-- `images/maps_06.jpg`: After: closet repaired and repainted (alt: Repaired closet with fresh paint, new baseboards and a wooden hanging rod)
-- `images/maps_01.jpg`: Commercial space with new flooring and paint (alt: Open commercial room with new wood-look flooring and white walls)
+- images/maps_03.jpg: Before: a 60-year-old dining room with termite damage (alt: Dining room with stained, patched walls before repair, chandelier and wooden dining chairs)
+- images/maps_04.jpg: During: termite damage found above the window (alt: Termite-damaged wooden header exposed above a window)
+- images/maps_02.jpg: During: walls opened up, damaged studs and insulation removed (alt: Dining room stripped to the studs with plastic sheeting and a worker cleaning up)
+- images/maps_05.jpg: After: the same dining room rebuilt and painted (alt: Finished dining room with smooth walls, fresh paint, bay window and chandelier)
+- images/maps_07.jpg: Before: closet with a damaged wall and baseboard (alt: Closet corner with damaged baseboard and stained wall before repair)
+- images/maps_06.jpg: After: closet repaired and repainted (alt: Repaired closet with fresh paint, new baseboards and a wooden hanging rod)
+- images/maps_01.jpg: Commercial space with new flooring and paint (alt: Open commercial room with new wood-look flooring and white walls)
 
 ## What customers say
 
@@ -109,59 +110,112 @@ Image: none
 
 ## Remodeling in Pasadena, TX and nearby
 
-M&J Demolition & Remodeling LLC is based in Pasadena, TX. Our Google profile does not list a street address, because we come to you. We take on homes and commercial spaces. If you are in Pasadena or close by and you are not sure we cover your street, call (832) 691-1171 and ask before you book. A few photos of the room help us give you a quick answer.
+M&J Demolition & Remodeling LLC is based in Pasadena, TX, and works at your home or business rather than from a showroom; the Google profile lists no street address. We take on homes and commercial spaces. If you are in Pasadena or close by and not sure we cover your street, call (832) 691-1171 and ask. A few photos of the room help us give you a quick answer.
 
 Towns: Pasadena
 
 ## Common questions
 
-**Do you repair termite and water damage?**  
-Yes. In one of our reviewed jobs we restored a 60-year-old dining room damaged by termites: we removed and replaced the damaged sheetrock, studs and insulation, then painted. If you have found soft wood, stains or damage behind a wall, call and we will come and look.
+### Do you repair termite and water damage?
 
-**Do you work on businesses as well as homes?**  
+Yes. In one reviewed job we restored a 60-year-old dining room damaged by termites: we removed and replaced the damaged sheetrock, studs and insulation, then painted. If you have found soft wood, stains or damage behind a wall, call and tell us what you are seeing.
+
+### Do you work on businesses as well as homes?
+
 Yes. We describe ourselves as remodeling in general, residential and commercial, plus demolition. Our photos include an open commercial room finished with new flooring and paint. Call with the size of the space, what it is used for and what you need done.
 
-**Can you build a bathroom addition?**  
+### Can you build a bathroom addition?
+
 Yes. A customer had Enrique and his team build a bathroom addition and reviewed it with five stars, mentioning skills, professionalism and communication. Every addition is different, so we start by looking at your home and talking through the layout you want.
 
-**When can I reach you?**  
+### When can I reach you?
+
 Our Google profile lists us as open 24 hours, seven days a week. The easiest way to reach us is to call (832) 691-1171 or email en071591@gmail.com with a short description and a few photos of the room or damage.
 
-**Where do you work?**  
+### Where do you work?
+
 We are based in Pasadena, TX and travel to our customers; our Google profile lists no street address to visit. If you are in or near Pasadena, call and tell us your address and the job, and we will let you know if we can take it on.
 
 ## Found damage, or ready to remodel?
 
 Call M&J and talk to the team that will do the tear-out and the rebuild.
 
-[Call (832) 691-1171](tel:+18326911171) | (832) 691-1171
+Button: Call (832) 691-1171 (tel:+18326911171) | Phone: (832) 691-1171
 
 ## Footer
 
-M&J Demolition & Remodeling LLC  
-Serving Pasadena, TX  
-Phone: (832) 691-1171  
-Email: en071591@gmail.com  
-Socials: https://www.facebook.com/RemodelingservicHTX, https://www.instagram.com/mjremodelin, https://www.google.com/maps/place/?q=place_id:ChIJ13w9NV5RoWsRRkHycDl3x40&hl=en  
-Hours: Open 24 hours, 7 days (as listed on Google)
+- M&J Demolition & Remodeling LLC
+- Serving Pasadena, TX
+- Phone: (832) 691-1171
+- Email: en071591@gmail.com
+- Socials: https://www.facebook.com/RemodelingservicHTX, https://www.instagram.com/mjremodelin, https://www.google.com/maps/place/?q=place_id:ChIJ13w9NV5RoWsRRkHycDl3x40&hl=en
+- Hours: Open 24 hours, 7 days (as listed on Google)
 
----
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "M&J Demolition & Remodeling LLC",
+ "url": null,
+ "telephone": "+18326911171",
+ "email": "en071591@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "addressLocality": "Pasadena",
+  "addressRegion": "TX",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Pasadena, TX"
+ ],
+ "openingHours": "Mo-Su 00:00-23:59",
+ "sameAs": [
+  "https://www.facebook.com/RemodelingservicHTX",
+  "https://www.instagram.com/mjremodelin",
+  "https://www.google.com/maps/place/?q=place_id:ChIJ13w9NV5RoWsRRkHycDl3x40&hl=en"
+ ],
+ "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLen5-zfNY-De-T4dIGjhgnYxek4L_ZQMV-x7texTeendDK6cZ3DVrrsGwshwp22CnyRvverVRT53zHLiKbotHW6qu9Cs-Hnzhhhc3xJD_3s-vb7xVuNs5vrwJCMEjPUEdtnHmKGKA=s0",
+ "logo": "images/social_01.jpg"
+}
+```
+
+## Image plan
+
+13 slots use real photos, 1 slots use AI illustrations.
+
+- hero: images/maps_05.jpg (real). Alt: Dining room with a bay window and chandelier, rebuilt after termite damage with new drywall and paint: remodeling in Pasadena, TX by M&J
+- service:Damage repair: termites, drywall and studs: images/maps_06.jpg (real). Alt: Repaired closet with fresh grey paint, new baseboards, a wooden hanging rod and carpet
+- service:Demolition and tear-out: images/maps_04.jpg (real). Alt: Termite-damaged wood header above a window, exposed after the drywall was removed
+- service:Bathroom additions and home remodeling: AI ai_service_bathroom_addition.jpg. Alt: Illustration of a small finished bathroom with a white tub, subway tile and a white vanity
+  - Prompt: Photorealistic photo of a newly finished small bathroom addition in a 1960s single-story brick ranch house near Houston, Texas: white tub and shower combination with white subway tile, a simple white vanity with a light quartz top, fresh light grey walls, white baseboards, a window letting in soft natural daylight, navy and warm orange accents in the towels, clean and empty, no people, no faces, no text, no logos, no brand names, 4:3
+- service:Commercial remodeling: images/maps_01.jpg (real). Alt: Large empty commercial room with wood-look plank flooring, white walls and exposed ducting
+- about: images/maps_02.jpg (real). Alt: M&J crew member clearing a dining room stripped to the studs, with plastic sheeting protecting the next room
+- gallery_1: images/maps_03.jpg (real). Alt: Dining room with stained, patched walls before repair, chandelier and wooden dining chairs
+- gallery_2: images/maps_04.jpg (real). Alt: Termite-damaged wooden header exposed above a window
+- gallery_3: images/maps_02.jpg (real). Alt: Dining room stripped to the studs with plastic sheeting and a worker cleaning up
+- gallery_4: images/maps_05.jpg (real). Alt: Finished dining room with smooth walls, fresh paint, bay window and chandelier
+- gallery_5: images/maps_07.jpg (real). Alt: Closet corner with damaged baseboard and stained wall before repair
+- gallery_6: images/maps_06.jpg (real). Alt: Repaired closet with fresh paint, new baseboards and a wooden hanging rod
+- gallery_7: images/maps_01.jpg (real). Alt: Open commercial room with new wood-look flooring and white walls
+- final_cta: images/maps_05.jpg (real). Alt: Finished dining room with smooth painted walls, a bay window and a chandelier
 
 ## Brand
 
-- Logo: `images/social_01.jpg`
+- Logo: images/social_01.jpg
 - Palette: primary #0E3F78, accent #F2741A, light #F5F7FA, dark #14202E
 - Palette note: brand.json palette is empty, but the logo (images/social_01.jpg) is clear: navy lettering and an orange roof line. Primary and accent were sampled from the logo; light and dark are neutral partners.
-- Fonts: Montserrat (headings), Open Sans (body)
+- Fonts: Montserrat (headings) / Open Sans (body)
 - Tagline: none
 - Style direction: Bold and practical: navy headings, orange call buttons like the logo roof, and before and after photo pairs that show the damage and the fix.
 
-### Images not to use
+## Images not to use
 
-- `images/maps_08.jpg`: closet photo dominated by a clothing mannequin; distracting
-- `images/social_01.jpg`: logo graphic; use only as the logo, not as a project photo
+- images/maps_08.jpg: closet photo dominated by a clothing mannequin; distracting
+- images/social_01.jpg: logo graphic; use only as the logo, not as a project photo
 
-## Outreach (not on the page)
+## Outreach
 
 - Specific detail: Enrique rebuilt a 60-year-old dining room that termites had eaten into, replacing the sheetrock, studs and insulation before painting, and the customer posted the before, during and after photos.
 - Angle: You have a perfect 5.0 on Google, 56 photos and already a sharp logo, but no website and no address on your profile. A homepage with your before and after photos would show Pasadena homeowners what you find behind the wall and how you fix it.
@@ -169,17 +223,16 @@ Hours: Open 24 hours, 7 days (as listed on Google)
 
 ## Facts used
 
-- Name M&J Demolition & Remodeling LLC, category Remodeler, phone +1 832-691-1171, no address or service area listed (Google Maps)
-- Rating 5.0 from 7 reviews; 56 photos (Google Maps)
-- Hours: open 24 hours every day (Google Maps)
-- Town Pasadena; 'Remodeling in General Residential and Commercial and DEMOLITION' (Facebook About via Gemini (facebook.com/RemodelingservicHTX); usdirectory listing URL M-J-Demolition-Remodeling-Llc-Pasadena)
-- State TX (Facebook page slug RemodelingservicHTX and 832 Houston-area phone)
-- Services kitchen remodeling, countertops, demolition (Gemini summary of Facebook)
-- Enrique restored a 60-year-old termite-damaged dining room: sheetrock, studs, insulation, paint; professional, conscientious, pleasant (Google review, wolfjanj, 3 years ago)
-- Enrique and his team built a bathroom addition; skills, professionalism and communication off the charts; would rehire (Google review, Arvle Dunn, a year ago)
-- Email en071591@gmail.com (usdirectory.com M&J Demolition Remodeling Pasadena listing)
-- Logo reads 'M&J Remodeling Service LLC', orange and navy with a house roof (images/social_01.jpg (Facebook))
-- Before, during and after photos of the dining room, closet repair and commercial space (Google Maps photos)
+- Name M&J Demolition & Remodeling LLC, category Remodeler, phone +1 832-691-1171, no address or service area listed (source: Google Maps)
+- Rating 5.0 from 7 reviews; 56 photos (source: Google Maps)
+- Hours: open 24 hours every day (source: Google Maps)
+- Town Pasadena; 'Remodeling in General Residential and Commercial and DEMOLITION' (source: Facebook About via Gemini (facebook.com/RemodelingservicHTX); usdirectory listing URL M-J-Demolition-Remodeling-Llc-Pasadena)
+- State TX (source: Facebook page slug RemodelingservicHTX and 832 Houston-area phone)
+- Enrique restored a 60-year-old termite-damaged dining room: sheetrock, studs, insulation, paint; professional, conscientious, pleasant (source: Google review, wolfjanj, 3 years ago)
+- Enrique and his team built a bathroom addition; skills, professionalism and communication off the charts; would rehire (source: Google review, Arvle Dunn, a year ago)
+- Email en071591@gmail.com (source: usdirectory.com M&J Demolition Remodeling Pasadena listing)
+- Logo reads 'M&J Remodeling Service LLC', orange and navy with a house roof (source: images/social_01.jpg (Facebook))
+- Before, during and after photos of the dining room, closet repair and commercial space (source: Google Maps photos)
 
 ## Missing
 
@@ -188,7 +241,9 @@ Hours: Open 24 hours, 7 days (as listed on Google)
 - Licence, insurance, warranty, years in business not found
 - Free estimates not stated anywhere; CTA does not say free
 - Owner's full name and title not found (Enrique named in reviews; email initials suggest it but not confirmed)
-- No kitchen or countertop photos, although Gemini lists those services
 - Logo says 'M&J Remodeling Service LLC', which differs from the Google name; confirm which name to use
 - Gemini review was a Yelp blurb, not a review; not used
 - Website URL for schema to be filled in at publish
+- Kitchen remodeling and countertops: listed only in Gemini's unverified summary, with no review or photo, so the kitchen card was removed; add it back if the owner confirms
+- Bathroom addition photo: none captured, so that service card uses an AI illustration
+- Only 2 testimonials, below the 3 to 6 target (see the note on the third review above)

@@ -3,7 +3,7 @@
  "business_name": "Robert Repairs LLC",
  "seo": {
   "title_tag": "Home Repairs and Remodeling Knoxville, TN | Robert Repairs",
-  "meta_description": "Home repairs and remodeling in Knoxville, TN: wall paneling, room makeovers, painting, flooring, concrete and assembly. Open 7 days, 8 AM to 8 PM. Call Robert.",
+  "meta_description": "Home repairs and remodeling in Knoxville, TN: wall paneling, room makeovers, painting, flooring and furniture assembly. Open 7 days, 8 AM to 8 PM. Call Robert.",
   "primary_keyword": "home repairs and remodeling Knoxville TN",
   "secondary_keywords": [
    "handyman Knoxville TN",
@@ -17,9 +17,9 @@
   "og_description": "Robert turns ugly rooms into usable ones: wall cladding, painting, flooring and the repairs on your list. Open every day, 8 AM to 8 PM."
  },
  "hero": {
-  "eyebrow": "Serving Knoxville, TN and the Surrounding Areas",
+  "eyebrow": "Serving Knoxville, TN and surrounding areas",
   "h1": "Home Repairs and Remodeling in Knoxville, TN",
-  "subheadline": "Robert takes the rooms and projects you have been putting off, like a cluttered basement entry, and turns them into spaces you actually use.",
+  "subheadline": "Robert tackles the rooms you have been putting off, like a cluttered basement entry, and turns them into spaces you actually use.",
   "primary_cta": {
    "label": "Call (865) 276-7363",
    "href": "tel:+18652767363"
@@ -31,19 +31,18 @@
   "trust_badges": [
    "5.0 stars from 11 Google reviews",
    "Open 7 days, 8 AM to 8 PM",
-   "Owner Robert does the work",
-   "Before and after photos from clients"
+   "Before and after photos on Google"
   ],
   "image": {
    "file": "images/maps_06.jpg",
-   "alt": "Basement entry room clad in white beadboard paneling with crown trim, home repairs and remodeling Knoxville TN by Robert Repairs"
+   "alt": "Basement entry room finished in white paneling with crown trim and a handrail, home repairs and remodeling Knoxville TN"
   }
  },
  "intro": {
   "h2": "From catch-all storage room to a space you want to use",
   "paragraphs": [
    "Robert Repairs LLC handles home repairs and remodeling in Knoxville, TN, with a focus on making tired rooms look finished. One client hired Robert to clad the walls of what she called a terribly ugly basement entry room. He did it in less than ideal conditions, and the old catch-all storage area may now become her mud room.",
-   "Robert works on the details too. Another client says he was punctual, detail-oriented and made sure everything was sturdy and perfectly aligned. We are open every day of the week from 8 AM to 8 PM, so it is easy to reach us when the project is on your mind."
+   "Robert pays attention to the details, too. Another client says he was punctual and detail-oriented and made sure everything was sturdy and perfectly aligned. We are open every day of the week from 8 AM to 8 PM, so it is easy to reach us when the project is on your mind."
   ]
  },
  "services": {
@@ -51,50 +50,48 @@
   "items": [
    {
     "name": "Wall paneling and room makeovers",
-    "blurb": "Walls cladded in clean white paneling with trim, turning a dark, cluttered basement room into a bright entry. The client says the room turned out to be a beautiful addition to her home, and her before and after photos are on our Google profile.",
+    "blurb": "Robert clads walls in clean white paneling with trim. For one client he turned a dark, cluttered basement entry into a bright room that may now become her mud room. She says it turned out to be a beautiful addition to her home.",
     "image": {
      "file": "images/maps_05.jpg",
-     "alt": "White paneled entry room with glass block windows, crown trim and a new door"
+     "alt": "Entry room with white paneled walls, crown trim and two glass block windows"
     }
    },
    {
     "name": "House painting",
-    "blurb": "House painting is one of the services we list for Knoxville homeowners. Fresh paint is often the last step of a room makeover, and it can also be a project on its own when walls, trim or doors need a clean new finish.",
+    "blurb": "Robert Repairs offers house painting for Knoxville homes. Fresh paint can finish off a room makeover like a paneled basement entry, or stand on its own when walls, trim or doors need a clean new coat. Call to describe the rooms you want painted.",
     "image": {
-     "file": "images/maps_06.jpg",
-     "alt": "Freshly finished white walls and trim in a small entry room"
+     "file": null,
+     "ai_file_name": "ai_service_painting.jpg",
+     "ai_prompt": "Photorealistic photo of a freshly painted living room in a brick ranch home in East Tennessee: smooth warm white walls, crisp white trim and doors, one slate blue accent wall and a hardwood floor, in slate blue, warm brick red and soft warm white, natural daylight from a window, tidy with no painting supplies, no people, no faces, no text, no logos, no brand names, 4:3",
+     "alt": "Freshly painted living room with white trim and a slate blue accent wall"
     }
    },
    {
     "name": "Flooring",
-    "blurb": "Flooring is part of our work, and a recent wall cladding client is lined up for a flooring project next. New floors pair well with paneling and paint to finish a room like a basement entry or a mud room.",
+    "blurb": "Flooring is part of our work. After paneling one client's basement entry room, Robert told her he hoped to come back soon for her flooring project. New floors pair well with fresh walls and paint to finish a basement, entry or mud room.",
     "image": {
      "file": null,
-     "alt": "No flooring photo available yet"
-    }
-   },
-   {
-    "name": "Concrete pads and outdoor projects",
-    "blurb": "Photos on our Google profile show outdoor work: a wide new concrete driveway apron beside a brick home with a three-car garage, and a concrete pad in front of a metal storage building with a covered carport.",
-    "image": {
-     "file": "images/maps_02.jpg",
-     "alt": "New light gray concrete driveway extension beside a brick house with three garage doors"
+     "ai_file_name": "ai_service_flooring.jpg",
+     "ai_prompt": "Photorealistic photo of a small mud room with new luxury vinyl plank flooring in a warm oak tone, white painted walls, a simple wooden bench and wall hooks, in slate blue, warm brick red and soft warm white, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
+     "alt": "Small mud room with new oak-tone plank flooring, white walls and a wooden bench"
     }
    },
    {
     "name": "Furniture assembly",
-    "blurb": "Need something put together right? A client says Robert assembled his dresser quickly, made sure it was sturdy and perfectly aligned, and that the whole process was smooth and stress-free. He recommends us to anyone needing furniture assembly done right.",
+    "blurb": "Need something put together right? A client says Robert assembled his dresser quickly, made sure it was sturdy and perfectly aligned, and that the whole process was smooth and stress-free. He recommends Robert to anyone needing furniture assembly done right.",
     "image": {
      "file": "images/maps_07.jpg",
-     "alt": "Assembled white fluted dresser with gold drawer pulls"
+     "alt": "Assembled white dresser with fluted drawer fronts and gold pulls"
     }
    },
    {
     "name": "Kitchen and bathroom updates",
-    "blurb": "Google lists Robert Repairs as a kitchen remodeler, and bathroom remodeling is among our services. If you have a kitchen or bathroom update in mind, call Robert to talk about what you want changed and whether it is a fit for us.",
+    "blurb": "Robert also takes on kitchen and bathroom updates. Call (865) 276-7363 to describe what you want changed, whether it is new flooring, wall finishes or fresh paint, and Robert will tell you whether the job is a good fit.",
     "image": {
      "file": null,
-     "alt": "No kitchen or bathroom photo available yet"
+     "ai_file_name": "ai_service_kitchen_bath.jpg",
+     "ai_prompt": "Photorealistic photo of a modest updated kitchen in an East Tennessee brick ranch home: freshly painted white cabinets, new wood-look plank flooring, a slate blue painted wall and simple brushed nickel hardware, in slate blue, warm brick red and soft warm white, natural daylight from a window over the sink, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
+     "alt": "Small updated kitchen with white painted cabinets, plank flooring and a slate blue wall"
     }
    }
   ]
@@ -104,30 +101,30 @@
   "items": [
    {
     "title": "Works in tough spaces",
-    "text": "One client says Robert did an amazing job in less than ideal conditions, turning an awful storage area into a room that may become her mud room."
+    "text": "One client says Robert did an amazing job in less than ideal conditions, turning an awful catch-all storage area into a room that may now become her mud room."
    },
    {
     "title": "Punctual and detail-oriented",
-    "text": "Reviewers describe Robert as professional, punctual and very detail-oriented, someone who makes sure the finished work is sturdy and lined up properly."
+    "text": "A client describes Robert as professional, punctual and very detail-oriented, someone who made sure the finished work was sturdy and perfectly aligned."
    },
    {
     "title": "Open seven days",
     "text": "We are open every day, Sunday through Saturday, from 8 AM to 8 PM, so you can call after work or on the weekend."
    },
    {
-    "title": "Every review is five stars",
-    "text": "Robert Repairs holds a 5.0 rating across 11 Google reviews. Clients say they are beyond happy with the results and describe the process as smooth and stress-free."
+    "title": "A 5.0 Google rating",
+    "text": "Robert Repairs has a 5.0 rating from 11 Google reviews. One client says she is beyond happy with the results, and another calls the whole process smooth and stress-free."
    }
   ]
  },
  "about": {
   "h2": "About Robert Repairs",
-  "text": "Robert Repairs LLC is run by Robert and serves Knoxville, TN and the surrounding areas. The business covers home repairs, painting, wall paneling, flooring and smaller jobs like furniture assembly. Owner replies on Google thank each client personally and tell them they can always count on us. His reviews describe a hands-on owner who shows up on time, pays attention to the details and is happy to come back for the next project. One client's wall cladding job has already led to plans for her flooring.",
+  "text": "Robert Repairs LLC is run by Robert and serves Knoxville, TN and the surrounding areas. The business covers home repairs, wall paneling, painting, flooring and smaller jobs like furniture assembly, plus kitchen and bathroom updates. Robert replies to his Google reviews personally and tells clients they can always count on him. Reviews describe someone who shows up on time, pays attention to the details and stays in touch after the job. After one basement entry makeover, he was already looking forward to coming back for the client's flooring.",
   "owner_name": "Robert",
-  "owner_role": "Owner (named in reviews and owner replies)",
+  "owner_role": "Runs the business; named in reviews, exact title not stated",
   "image": {
    "file": "images/maps_05.jpg",
-   "alt": "Finished entry room with white paneled walls and glass block windows"
+   "alt": "Finished basement entry room with white paneled walls and glass block windows"
   }
  },
  "process": {
@@ -143,7 +140,7 @@
    },
    {
     "title": "Agree on the job",
-    "text": "You get a clear plan and price for the work before anything starts, so you know exactly what is included in the job."
+    "text": "Robert explains what he will do, and you agree on the work and the price before the job starts."
    },
    {
     "title": "Do the work",
@@ -151,7 +148,7 @@
    },
    {
     "title": "Before and after",
-    "text": "We review the finished space with you. Clients often share before and after photos, like the basement entry now ready to be a mud room."
+    "text": "Robert goes over the finished work with you. One client shared before and after photos of her basement entry, now ready to become a mud room."
    }
   ]
  },
@@ -165,8 +162,8 @@
    },
    {
     "file": "images/maps_05.jpg",
-    "alt": "After: same entry room with white paneled walls, crown trim and glass block windows",
-    "caption": "After: walls cladded and trimmed in white"
+    "alt": "After: the same entry room with white paneled walls, crown trim and glass block windows",
+    "caption": "After: walls clad and trimmed in white"
    },
    {
     "file": "images/maps_03.jpg",
@@ -175,23 +172,23 @@
    },
    {
     "file": "images/maps_06.jpg",
-    "alt": "After: bright white paneled corner with crown molding and handrail by the stairs",
+    "alt": "After: bright white paneled corner with crown molding and a handrail by the stairs",
     "caption": "After: a room ready to become a mud room"
    },
    {
     "file": "images/maps_02.jpg",
-    "alt": "Wide new concrete driveway apron beside a brick home with three garage doors",
+    "alt": "Wide new concrete driveway extension beside a brick home with three garage doors",
     "caption": "Concrete driveway extension"
    },
    {
     "file": "images/maps_01.jpg",
-    "alt": "Metal storage building with attached carport on a concrete pad in a wooded yard",
-    "caption": "Concrete pad and metal building with carport"
+    "alt": "Metal storage building with an attached carport on a concrete pad in a wooded yard",
+    "caption": "Metal building with carport on a concrete pad"
    },
    {
     "file": "images/maps_07.jpg",
     "alt": "White dresser with fluted drawer fronts and gold pulls after assembly",
-    "caption": "Dresser assembled square and sturdy"
+    "caption": "Dresser assembled sturdy and aligned"
    }
   ]
  },
@@ -214,7 +211,7 @@
  },
  "service_area": {
   "h2": "Home repairs and remodeling in Knoxville, TN",
-  "text": "Robert Repairs LLC is serving Knoxville, TN and the surrounding areas. We come to your home, so there is no shop to visit. Whether it is a basement room, a wall that needs paneling, a floor, a paint job or a piece of furniture to assemble, call (865) 276-7363 any day between 8 AM and 8 PM and tell us where you are.",
+  "text": "Robert Repairs LLC serves Knoxville, TN and the surrounding areas. We come to you, so there is no shop to visit. Whether it is a basement room, a wall that needs paneling, a floor, a paint job or a piece of furniture to assemble, call (865) 276-7363 any day between 8 AM and 8 PM and tell us where you are.",
   "towns": [
    "Knoxville, TN"
   ]
@@ -224,11 +221,11 @@
   "items": [
    {
     "q": "What kinds of jobs do you take?",
-    "a": "Home repairs and remodeling around Knoxville: wall cladding and paneling, room makeovers, house painting, flooring and furniture assembly. Photos on our Google profile also show a concrete driveway extension and a concrete pad. If you are unsure whether your job fits, call and ask."
+    "a": "Home repairs and remodeling around Knoxville: wall cladding and paneling, room makeovers, house painting, flooring, furniture assembly, and kitchen and bathroom updates. If you are not sure whether your job fits, call (865) 276-7363 and describe it, and Robert will tell you."
    },
    {
     "q": "What are your hours?",
-    "a": "We are open seven days a week, Sunday through Saturday, from 8 AM to 8 PM. That makes it easy to call in the evening or on a weekend. Reach Robert at (865) 276-7363 or email robertsissonrepairs@gmail.com any time."
+    "a": "We are open seven days a week, Sunday through Saturday, from 8 AM to 8 PM. That makes it easy to call in the evening or on a weekend. Reach Robert at (865) 276-7363, or email robertsissonrepairs@gmail.com with a short description of the job."
    },
    {
     "q": "Can you fix up a basement or storage room?",
@@ -236,7 +233,7 @@
    },
    {
     "q": "Where do you work?",
-    "a": "We serve Knoxville, TN and the surrounding areas. We come to your home for every job. If you live outside Knoxville and are not sure whether you are in range, give us a call at (865) 276-7363 with your town and a short description of the project."
+    "a": "We serve Knoxville, TN and the surrounding areas, and we come to your home for the work. If you live outside Knoxville and are not sure whether you are in range, call (865) 276-7363 with your town and a short description of the project."
    },
    {
     "q": "Do you do small jobs?",
@@ -246,7 +243,7 @@
  },
  "final_cta": {
   "h2": "Have a room you have been putting off?",
-  "text": "Call Robert any day from 8 AM to 8 PM and tell him about it.",
+  "text": "Call Robert any day from 8 AM to 8 PM and tell him what you have in mind.",
   "button": {
    "label": "Call (865) 276-7363",
    "href": "tel:+18652767363"
@@ -286,31 +283,105 @@
   ],
   "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvrksp6uTFsxgJiPW2G31ZhiM0SLBQ9Mne3c0izJWSudFqI3KYg9rF8eYO9xk65AT6o04PkrC0Gv7bS4mihuzZCN88HwKc9iMV08-QV01ExhVKWmRjIPW-GbZPMZ6GCl7LGFqyXYzcnPp_=s0"
  },
- "facts_used": [
-  {"fact": "Name Robert Repairs LLC, category Kitchen remodeler, phone +1 865-276-7363, no address or service area on Google", "source": "Google Maps"},
-  {"fact": "Rating 5.0 from 11 reviews", "source": "Google Maps"},
-  {"fact": "Hours every day 8 AM to 8 PM", "source": "Google Maps"},
-  {"fact": "'Serving Knoxville, TN and the Surrounding Areas', email robertsissonrepairs@gmail.com, House Painting", "source": "https://robertrepairstn.com/contact (research.json email record)"},
-  {"fact": "Services include bathroom remodeling and flooring", "source": "Instagram (Gemini)"},
-  {"fact": "Wall cladding in a basement entry room, less than ideal conditions, may become a mud room; before and after photos", "source": "Google review by Ivy Mcnew"},
-  {"fact": "Owner reply mentions an upcoming flooring project for the same client", "source": "Owner reply to Ivy Mcnew, Google"},
-  {"fact": "Dresser assembly; professional, punctual, detail-oriented; sturdy and aligned; smooth and stress-free", "source": "Google review by Kemar Smith"},
-  {"fact": "Owner reply 'you can always count on us'", "source": "Owner reply to Destiny Workman, Google"},
-  {"fact": "Photos: before and after basement entry, concrete driveway extension, metal building with carport on concrete pad, assembled dresser", "source": "images/maps_01 to maps_07 (Google Maps, seen in contact sheet)"}
- ],
- "missing": [
-  "A website may already exist: research.json lists the email as published at https://robertrepairstn.com/contact. Check it before using the 'no website' angle",
-  "Robert's last name (the email suggests Sisson, but it is not stated anywhere)",
-  "Kitchen and bathroom project photos or reviews: Google lists 'Kitchen remodeler', but no kitchen or bath work is shown, so the page leads with repairs and remodeling",
-  "Who built the concrete driveway and metal building in maps_01 and maps_02 (owner photos, no captions)",
-  "Years in business (Gemini's '49 years of experience' is not supported and was not used)",
-  "Tennessee contractor licence or insurance details",
-  "Warranty",
-  "Free estimates (not stated, so CTA says 'Request an estimate')",
-  "Financing",
-  "Logo: cover.jpg, social_01 ('Roberto's Repairs') and social_02 ('Robert's Vehicle Repair LLC', 210 number) belong to other businesses; no logo or tagline for this company",
-  "Only 2 usable review texts; the third captured review reads like a promotional note and was not quoted",
-  "Facebook page link (Gemini gives https://www.facebook.com/people/Robert-Repairs-LLC/61587660346693/ but its images are another company's; not linked until confirmed)"
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_06.jpg",
+   "source": "real",
+   "alt": "Basement entry room finished in white paneling with crown trim and a handrail, home repairs and remodeling Knoxville TN"
+  },
+  {
+   "slot": "service:Wall paneling and room makeovers",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Entry room with white paneled walls, crown trim and two glass block windows"
+  },
+  {
+   "slot": "service:House painting",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_painting.jpg",
+   "ai_prompt": "Photorealistic photo of a freshly painted living room in a brick ranch home in East Tennessee: smooth warm white walls, crisp white trim and doors, one slate blue accent wall and a hardwood floor, in slate blue, warm brick red and soft warm white, natural daylight from a window, tidy with no painting supplies, no people, no faces, no text, no logos, no brand names, 4:3",
+   "alt": "Freshly painted living room with white trim and a slate blue accent wall"
+  },
+  {
+   "slot": "service:Flooring",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_flooring.jpg",
+   "ai_prompt": "Photorealistic photo of a small mud room with new luxury vinyl plank flooring in a warm oak tone, white painted walls, a simple wooden bench and wall hooks, in slate blue, warm brick red and soft warm white, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
+   "alt": "Small mud room with new oak-tone plank flooring, white walls and a wooden bench"
+  },
+  {
+   "slot": "service:Furniture assembly",
+   "file": "images/maps_07.jpg",
+   "source": "real",
+   "alt": "Assembled white dresser with fluted drawer fronts and gold pulls"
+  },
+  {
+   "slot": "service:Kitchen and bathroom updates",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_kitchen_bath.jpg",
+   "ai_prompt": "Photorealistic photo of a modest updated kitchen in an East Tennessee brick ranch home: freshly painted white cabinets, new wood-look plank flooring, a slate blue painted wall and simple brushed nickel hardware, in slate blue, warm brick red and soft warm white, natural daylight from a window over the sink, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
+   "alt": "Small updated kitchen with white painted cabinets, plank flooring and a slate blue wall"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "Finished basement entry room with white paneled walls and glass block windows"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_04.jpg",
+   "source": "real",
+   "alt": "Before: cluttered basement entry room with blue-gray walls and wire shelving full of stored items"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_05.jpg",
+   "source": "real",
+   "alt": "After: the same entry room with white paneled walls, crown trim and glass block windows"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/maps_03.jpg",
+   "source": "real",
+   "alt": "Before: wire shelving, boxes and hanging items against painted block walls"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/maps_06.jpg",
+   "source": "real",
+   "alt": "After: bright white paneled corner with crown molding and a handrail by the stairs"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Wide new concrete driveway extension beside a brick home with three garage doors"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Metal storage building with an attached carport on a concrete pad in a wooded yard"
+  },
+  {
+   "slot": "gallery_7",
+   "file": "images/maps_07.jpg",
+   "source": "real",
+   "alt": "White dresser with fluted drawer fronts and gold pulls after assembly"
+  },
+  {
+   "slot": "final_cta",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_cta_background.jpg",
+   "ai_prompt": "Photorealistic wide photo of a single-story brick ranch home in East Tennessee in late afternoon light, with a tidy front walk, neat lawn and green hills behind, in slate blue, warm brick red and soft warm white, soft natural light, no people, no faces, no text, no logos, no house numbers, no brand names, 21:9",
+   "alt": "Brick ranch house with a neat lawn in late afternoon light"
+  }
  ],
  "brand": {
   "logo_file": null,
@@ -329,13 +400,83 @@
   "style_direction": "Practical and friendly: a sturdy slab serif, slate and brick tones, and a big before and after slider of the basement entry as the centerpiece."
  },
  "images_not_to_use": [
-  {"file": "images/cover.jpg", "why": "'Roberto's Repairs' auto and motorcycle logo, a different business"},
-  {"file": "images/social_01.jpg", "why": "Duplicate of cover.jpg, different business"},
-  {"file": "images/social_02.jpg", "why": "'Robert's Vehicle Repair LLC' logo with a (210) phone number, a different business"}
+  {
+   "file": "images/cover.jpg",
+   "why": "'Roberto's Repairs' auto and motorcycle logo, a different business"
+  },
+  {
+   "file": "images/social_01.jpg",
+   "why": "Duplicate of cover.jpg, different business"
+  },
+  {
+   "file": "images/social_02.jpg",
+   "why": "'Robert's Vehicle Repair LLC' logo with a (210) phone number, a different business"
+  }
  ],
  "outreach": {
   "specific_detail": "Ivy Mcnew's basement entry room: you cladded the walls of what she called an awful catch-all storage area, and her before and after photos show it now ready to be a mud room.",
   "angle": "You have a perfect 5.0 from 11 Google reviews and are open seven days a week, but Google shows no town for you and the Facebook results for your name show other companies' logos. A homepage with your own before and after photos would fix that. Check robertrepairstn.com first, since research found a contact page there.",
   "subject_line_idea": "That basement entry makeover deserves the front page"
- }
+ },
+ "facts_used": [
+  {
+   "fact": "Name Robert Repairs LLC, category Kitchen remodeler, phone +1 865-276-7363, no address or service area on Google",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "Rating 5.0 from 11 reviews",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "Hours every day 8 AM to 8 PM",
+   "source": "Google Maps"
+  },
+  {
+   "fact": "'Serving Knoxville, TN and the Surrounding Areas', email robertsissonrepairs@gmail.com, House Painting",
+   "source": "https://robertrepairstn.com/contact (research.json email record)"
+  },
+  {
+   "fact": "Services include bathroom remodeling and flooring",
+   "source": "Instagram (Gemini)"
+  },
+  {
+   "fact": "Wall cladding in a basement entry room, less than ideal conditions, may become a mud room; before and after photos",
+   "source": "Google review by Ivy Mcnew"
+  },
+  {
+   "fact": "Owner reply mentions an upcoming flooring project for the same client",
+   "source": "Owner reply to Ivy Mcnew, Google"
+  },
+  {
+   "fact": "Dresser assembly; professional, punctual, detail-oriented; sturdy and aligned; smooth and stress-free",
+   "source": "Google review by Kemar Smith"
+  },
+  {
+   "fact": "Owner reply 'you can always count on us'",
+   "source": "Owner reply to Destiny Workman, Google"
+  },
+  {
+   "fact": "Photos: before and after of the basement entry (maps_03 to maps_06, from Ivy Mcnew's review), assembled dresser (maps_07, from Kemar Smith's review), concrete driveway extension and metal building with carport on a concrete pad (maps_01, maps_02, owner photos with no captions)",
+   "source": "images/maps_01 to maps_07 (Google Maps, seen in contact sheet)"
+  },
+  {
+   "fact": "House painting, flooring, kitchen and bath cards and the CTA background use AI illustrations because no real photos of that work exist; alt text does not claim them as Robert's work",
+   "source": "image_plan"
+  }
+ ],
+ "missing": [
+  "A website may already exist: research.json lists the email as published at https://robertrepairstn.com/contact. Check it before using the 'no website' angle",
+  "Robert's last name (the email suggests Sisson, but it is not stated anywhere)",
+  "Kitchen and bathroom project photos or reviews: Google lists 'Kitchen remodeler', but no kitchen or bath work is shown, so the page leads with repairs and remodeling",
+  "Concrete driveway (maps_02) and metal building on a concrete pad (maps_01) are owner photos with no captions: confirm they are Robert's work. They stay in the gallery, but concrete was dropped as a service card because no source says Robert offers it",
+  "Years in business (Gemini's '49 years of experience' is not supported and was not used)",
+  "Tennessee contractor licence or insurance details",
+  "Warranty",
+  "Free estimates (not stated, so CTA says 'Request an estimate')",
+  "Financing",
+  "Logo: cover.jpg, social_01 ('Roberto's Repairs') and social_02 ('Robert's Vehicle Repair LLC', 210 number) belong to other businesses; no logo or tagline for this company",
+  "Only 2 usable review texts; the third captured review reads like a promotional note and was not quoted",
+  "Facebook page link (Gemini gives https://www.facebook.com/people/Robert-Repairs-LLC/61587660346693/ but its images are another company's; not linked until confirmed)",
+  "Project photos for painting, flooring and kitchen or bath work (those service cards use AI illustrations)"
+ ]
 }

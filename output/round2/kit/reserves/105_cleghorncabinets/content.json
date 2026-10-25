@@ -18,7 +18,7 @@
  "hero": {
   "eyebrow": "Cabinet shop on Constitution Drive",
   "h1": "Cabinet Maker in Warner Robins, GA",
-  "subheadline": "Kitchen cabinets from the shop of Richard Cleghorn at 108 Constitution Dr, where customers say Mr. Ricky and his team do craftsmanship that is unmatched.",
+  "subheadline": "Kitchen cabinets from Richard Cleghorn's shop at 108 Constitution Dr. One customer called the craftsmanship of Mr. Ricky and his team unmatched.",
   "secondary_cta": {
    "label": "Ask about your kitchen",
    "href": "#contact"
@@ -40,7 +40,7 @@
  "intro": {
   "h2": "Your cabinet maker in Warner Robins",
   "paragraphs": [
-   "Cleghorn Cabinets is a cabinet maker in Warner Robins with a shop at 108 Constitution Dr. Richard Cleghorn is listed as the company's CEO, and customers know him by name: reviews mention Mr. Ricky and Mr. Cleghorn, not a sales desk.",
+   "Cleghorn Cabinets is a cabinet maker in Warner Robins with a shop at 108 Constitution Dr. Richard Cleghorn is listed as the company's CEO, and reviewers name the people who helped them, Mr. Cleghorn and Mr. Ricky, rather than a sales desk.",
    "That personal touch is what people write about. One customer said Mr. Ricky and his team are truly exceptional and that the quality of their craftsmanship is unmatched. Another said Mr. Cleghorn was more than happy to assist and highly recommended his cabinet shop. If you are planning new kitchen cabinets, call the shop and talk to the people who build them."
   ]
  },
@@ -49,21 +49,31 @@
   "items": [
    {
     "name": "Kitchen cabinets",
-    "blurb": "Cleghorn Cabinets is listed on Google as a cabinet maker, and kitchen work is what its Facebook page shows. Talk with the shop about the cabinets your kitchen needs, from base cabinets and drawers to glass-front uppers for display.",
+    "blurb": "Cleghorn Cabinets is listed on Google as a cabinet maker, and its Facebook page shows kitchen cabinet work. Talk with the shop about the cabinets your kitchen needs, from base cabinets and drawer stacks to glass-front uppers for display.",
     "image": {
      "file": "images/social_01.jpg",
-     "alt": "Cream glazed cabinets with glass-front uppers, drawer stack and granite countertop"
+     "alt": "Cream glazed cabinets with glass-front uppers, a drawer stack and a granite countertop"
     }
    },
    {
     "name": "Kitchen remodeling",
     "blurb": "Kitchen remodeling is the service listed for Cleghorn Cabinets on Facebook. New cabinets are usually the biggest part of a kitchen remodel, so starting with the shop that builds them keeps the plan in one place. Call to talk through your kitchen.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_kitchen_remodel.jpg",
+     "ai_prompt": "Photorealistic photo of a remodeled kitchen in a traditional brick suburban home in Warner Robins, Georgia: cream painted raised-panel cabinets with a light brown glaze, a large island with a speckled light granite top, dark hardwood floor, soft blue-grey walls, warm natural light through a window over the sink; tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Remodeled kitchen with cream glazed cabinets, a granite island and dark wood floors"
+    }
    },
    {
-    "name": "Help from the owner",
+    "name": "Planning help from the owner",
     "blurb": "Customers deal with the Cleghorns directly. One reviewer wrote that Mr Cleghorn was more than happy to assist and highly recommended his cabinet shop. Call (478) 953-6996 or email clegcabs@aol.com to ask about your project before you visit.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_planning.jpg",
+     "ai_prompt": "Photorealistic close photo of a workbench in a cabinet shop with a cream raised-panel cabinet door sample, a stained oak door sample, a tape measure, a pencil and a hand-drawn kitchen cabinet layout on paper, warm natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Cabinet door samples, a tape measure and a hand-drawn cabinet layout on a shop bench"
+    }
    }
   ]
  },
@@ -80,7 +90,7 @@
    },
    {
     "title": "A real shop in Warner Robins",
-    "text": "Cleghorn Cabinets works from 108 Constitution Dr in Warner Robins and is listed with the same address and phone in a Georgia state business directory."
+    "text": "Cleghorn Cabinets works from 108 Constitution Dr in Warner Robins, and a Georgia business directory lists the shop at that same address and phone number."
    },
    {
     "title": "A family name on the work",
@@ -90,10 +100,15 @@
  },
  "about": {
   "h2": "About Richard Cleghorn and the shop",
-  "text": "Cleghorn Cabinets is a cabinet shop at 108 Constitution Dr in Warner Robins, Georgia. A Georgia state business directory lists Richard Cleghorn as CEO, with the same address and phone number the shop uses today. Customers call him Mr. Cleghorn, and one review praises Mr. Ricky and his team for craftsmanship she called unmatched. The shop's Facebook page shows kitchen cabinet work, including cream glazed cabinets with glass-front uppers. If you want to talk about cabinets with the person who runs the shop, call (478) 953-6996.",
+  "text": "Cleghorn Cabinets is a cabinet shop at 108 Constitution Dr in Warner Robins, Georgia. A Georgia business directory lists Richard Cleghorn as CEO, with the same address and phone number the shop uses today. Customers call him Mr. Cleghorn, and one review praises Mr. Ricky and his team for craftsmanship she called unmatched. The shop's Facebook page shows kitchen cabinet work, including cream glazed cabinets with glass-front uppers. If you want to talk about cabinets with the person who runs the shop, call (478) 953-6996.",
   "owner_name": "Richard Cleghorn",
-  "owner_role": "CEO",
-  "image": null
+  "owner_role": "CEO (listed as 'CEO: Richard Cleghorn, Pres' in a Georgia business directory)",
+  "image": {
+   "file": null,
+   "ai_file_name": "ai_about_shop.jpg",
+   "ai_prompt": "Photorealistic photo of the inside of a small, well-kept cabinet-making shop in Middle Georgia: a sturdy workbench, clamps on the wall, stacks of hardwood and plywood, a few finished cream cabinet boxes waiting for doors, sawdust swept, daylight from an open bay door; no people, no faces, no text, no logos, no brand names; 4:5 aspect ratio.",
+   "alt": "Small cabinet-making shop with a workbench, lumber and finished cabinet boxes"
+  }
  },
  "process": {
   "h2": "How a cabinet project starts",
@@ -111,7 +126,7 @@
     "text": "Agree on the design, finish and pricing before work begins, so you know exactly what the shop is building for you."
    },
    {
-    "title": "Build and install",
+    "title": "Building your cabinets",
     "text": "The shop builds your cabinets. Ask the Cleghorns how installation and scheduling work for your kitchen when you plan the job."
    }
   ]
@@ -121,7 +136,7 @@
   "images": [
    {
     "file": "images/social_01.jpg",
-    "alt": "Cream glazed kitchen cabinets with glass-front uppers, lit shelves and granite countertop",
+    "alt": "Cream glazed kitchen cabinets with glass-front uppers, lit shelves and a granite countertop",
     "caption": "Cream glazed cabinets with glass-front uppers"
    }
   ]
@@ -159,15 +174,15 @@
    },
    {
     "q": "Who will I be working with?",
-    "a": "Richard Cleghorn is listed as the company's CEO in a Georgia state business directory, and customers mention Mr. Cleghorn and Mr. Ricky by name in their reviews. One wrote that Mr Cleghorn was more than happy to assist and highly recommended his cabinet shop."
+    "a": "Richard Cleghorn is listed as the company's CEO in a Georgia business directory, and customers mention Mr. Cleghorn and Mr. Ricky by name in their reviews. One wrote that Mr Cleghorn was more than happy to assist and highly recommended his cabinet shop."
    },
    {
     "q": "Where is the shop?",
     "a": "The shop is at 108 Constitution Dr, Warner Robins, GA 31088. Google currently shows the business as open 24 hours, which is unlikely for a cabinet shop, so call (478) 953-6996 before you drive over to make sure someone is there."
    },
    {
-    "q": "Can I get touch-up paint for cabinets you built?",
-    "a": "A recent reviewer asked the shop for touch-up paint for their cabinets. If you need paint or parts for Cleghorn cabinets, call (478) 953-6996 or email clegcabs@aol.com with a photo of the cabinet and, if you have it, when it was installed."
+    "q": "Can I send photos of my kitchen first?",
+    "a": "Yes. Email clegcabs@aol.com with a few photos of the room, rough measurements and the door style or finish you like, or call (478) 953-6996 to talk it through. Sending the details first gives the shop a clear picture of your kitchen before you meet."
    },
    {
     "q": "How is a cabinet job priced?",
@@ -239,12 +254,12 @@
    "source": "Google review by Bruce B., 4 years ago"
   },
   {
-   "fact": "Customer asking for touch-up paint for their cabinets",
+   "fact": "Customer asking for touch-up paint for their cabinets (not used on the page)",
    "source": "Google review by Patrick F., 5 months ago (2 stars, not quoted on the page)"
   },
   {
-   "fact": "Richard Cleghorn, CEO; same address and phone; email clegcabs@aol.com",
-   "source": "Georgia state directory record https://dlg.usg.edu/record/dlg_ggpd_y-ga-bf600-b-ps1-bw6-b2006-belec-p-btext"
+   "fact": "'CEO: Richard Cleghorn, Pres'; same address and phone; fax 478-953-6998; email clegcabs@aol.com",
+   "source": "Georgia business directory archived by the Digital Library of Georgia https://dlg.usg.edu/record/dlg_ggpd_y-ga-bf600-b-ps1-bw6-b2006-belec-p-btext (record id suggests a 2006 edition)"
   },
   {
    "fact": "Service kitchen remodeling; town Warner Robins; cabinet project posts",
@@ -259,12 +274,15 @@
   "Real shop hours: Google shows 'Open 24 hours' every day, which looks wrong; footer says to call ahead until confirmed",
   "Google business name is 'CleghornCabinets' with no space; footer and schema keep it exactly, page copy uses 'Cleghorn Cabinets' as on Facebook. Suggest fixing the Google name",
   "Logo: none. images/logo.jpg is not a logo, it is the same kitchen photo as social_01",
-  "Needs project photos: only one photo exists, and its file comes from Houzz (st.hzcdn.com); confirm it is Cleghorn's own work before publishing",
+  "Needs project photos: only one photo exists (gallery has 1, the same photo is the hero and the Kitchen cabinets card), and its file comes from Houzz (st.hzcdn.com); confirm it is Cleghorn's own work before publishing",
   "Years in business, licence, warranty, free estimates, financing, installation details: not found",
   "Whether 'Mr. Ricky' is Richard Cleghorn is likely but not stated; the page names both without linking them",
   "Rating badge left off: 4.1 from 8 reviews with a recent 2-star; owner's call whether to show it",
   "Only 2 positive reviews captured; 5 more Google reviews not read",
-  "Tagline and Instagram: none found; gemini_reviews were unrelated web text, not used"
+  "Tagline and Instagram: none found; gemini_reviews were unrelated web text, not used",
+  "Delarita L.'s review is cut off on Google after 'unmatched.' (the rest sits behind 'More'); only the captured part is quoted, word for word",
+  "Directory listing naming Richard Cleghorn as CEO looks like a 2006 edition; confirm he still runs the shop before outreach",
+  "AI illustrations used for the Kitchen remodeling and Planning help cards, the about photo and the CTA background"
  ],
  "brand": {
   "logo_file": null,
@@ -292,5 +310,57 @@
   "specific_detail": "Delarita L.'s review: 'Mr. Ricky and his team are truly exceptional. The quality of their craftsmanship is unmatched.'",
   "angle": "Customers praise the craftsmanship and name Mr. Cleghorn personally, but the Google listing shows 'Open 24 hours', a run-together name and a single photo, and there is no website to show the cabinets the shop builds.",
   "subject_line_idea": "Craftsmanship 'unmatched', but hard to find online"
- }
+ },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "Cream glazed kitchen cabinets with glass-front uppers and granite countertop, from a cabinet maker in Warner Robins"
+  },
+  {
+   "slot": "service:Kitchen cabinets",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "Cream glazed cabinets with glass-front uppers, a drawer stack and a granite countertop"
+  },
+  {
+   "slot": "service:Kitchen remodeling",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_kitchen_remodel.jpg",
+   "ai_prompt": "Photorealistic photo of a remodeled kitchen in a traditional brick suburban home in Warner Robins, Georgia: cream painted raised-panel cabinets with a light brown glaze, a large island with a speckled light granite top, dark hardwood floor, soft blue-grey walls, warm natural light through a window over the sink; tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Remodeled kitchen with cream glazed cabinets, a granite island and dark wood floors"
+  },
+  {
+   "slot": "service:Planning help from the owner",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_planning.jpg",
+   "ai_prompt": "Photorealistic close photo of a workbench in a cabinet shop with a cream raised-panel cabinet door sample, a stained oak door sample, a tape measure, a pencil and a hand-drawn kitchen cabinet layout on paper, warm natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Cabinet door samples, a tape measure and a hand-drawn cabinet layout on a shop bench"
+  },
+  {
+   "slot": "about",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_about_shop.jpg",
+   "ai_prompt": "Photorealistic photo of the inside of a small, well-kept cabinet-making shop in Middle Georgia: a sturdy workbench, clamps on the wall, stacks of hardwood and plywood, a few finished cream cabinet boxes waiting for doors, sawdust swept, daylight from an open bay door; no people, no faces, no text, no logos, no brand names; 4:5 aspect ratio.",
+   "alt": "Small cabinet-making shop with a workbench, lumber and finished cabinet boxes"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/social_01.jpg",
+   "source": "real",
+   "alt": "Cream glazed kitchen cabinets with glass-front uppers, lit shelves and a granite countertop"
+  },
+  {
+   "slot": "final_cta",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_cta_background.jpg",
+   "ai_prompt": "Photorealistic wide photo of a long wall of cream glazed kitchen cabinets with glass-front uppers above a light granite countertop in a traditional brick suburban home in Warner Robins, Georgia, soft blue-grey wall, warm afternoon light, uncluttered, darker brown tones on one side so text can sit on top; no people, no faces, no text, no logos, no brand names; 21:9 aspect ratio.",
+   "alt": "Wall of cream glazed cabinets with glass-front uppers above a granite countertop"
+  }
+ ]
 }

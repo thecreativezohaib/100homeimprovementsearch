@@ -34,15 +34,15 @@
    "Based on N Washington Ave, Dunellen"
   ],
   "image": {
-   "file": "images/social_01.jpg",
-   "alt": "Modern kitchen with dark wood-grain lower cabinets, black marble backsplash and a glass display cabinet, from Lk Kitchen, a kitchen countertops Dunellen fabricator"
+   "file": "images/maps_01.jpg",
+   "alt": "Kitchen countertops by Dunellen, NJ fabricator Lk Kitchen: white marble-look counters and island on white shaker cabinets beside a stainless pro range"
   }
  },
  "intro": {
   "h2": "From measurements to a finished counter",
   "paragraphs": [
-   "Lk Kitchen, which several customers know as Luxury Kitchen, handles kitchen countertops Dunellen homeowners can watch come together step by step. One recent customer described the whole path: first consultation, measurements, fabrication and installation, all handled by the same team.",
-   "What reviewers notice is the finish work. They mention precise measurements, clean cuts and an install crew that checked everything was aligned before leaving. Countertop selection is the topic Google reviewers bring up most, and others talk about full kitchen upgrades, reasonable pricing and a team that was easy to reach throughout. If you want a counter that fits the first time, that is the part of the job they focus on."
+   "Lk Kitchen, known to some customers as Luxury Kitchen, measures, fabricates and installs kitchen countertops from its base in Dunellen. One recent customer described the whole path: first consultation, measurements, fabrication and installation, all handled by the same company.",
+   "What reviewers notice is the finish work. They mention precise measurements, clean cuts and an install crew that checked everything was aligned before leaving. Countertop selection is the topic Google reviewers bring up most, and others talk about full kitchen upgrades, reasonable pricing and a team that was easy to communicate with from start to finish. Another customer summed it up simply: this team made a dream kitchen a reality."
   ]
  },
  "services": {
@@ -52,30 +52,37 @@
     "name": "Countertop fabrication and installation",
     "blurb": "The team measures your kitchen, fabricates the countertops and installs them. A Google reviewer praised the precise measurements, clean cuts and beautiful finishing, and noted the installers were punctual and made sure everything was properly aligned before they left.",
     "image": {
-     "file": "images/maps_01.jpg",
-     "alt": "White and gray veined marble-look countertops on white shaker cabinets beside a stainless double-oven range"
+     "file": "images/maps_02.jpg",
+     "alt": "White shaker cabinets with gold pulls, a white countertop and a matching marble-look slab backsplash behind a gold faucet"
     }
    },
    {
     "name": "Help choosing your countertop",
-    "blurb": "Not sure which slab suits your cabinets? Countertop selection is the topic Google reviewers mention most often. The process starts with a consultation, so you can talk through colors, veining and where the seams will fall before anything is cut.",
+    "blurb": "Not sure which slab suits your cabinets? Countertop selection is the topic Google reviewers mention most often. One customer's job started with a consultation, so you can talk through colors, veining and edge details with the team before anything is measured or cut.",
     "image": {
-     "file": "images/maps_02.jpg",
-     "alt": "White cabinets with gold pulls, white countertop and matching marble-look slab backsplash behind a gold faucet"
+     "file": null,
+     "ai_file_name": "ai_service_countertop_samples.jpg",
+     "ai_prompt": "Photorealistic photo of several polished countertop stone samples, white marble-look, gray veined and warm beige, laid side by side on a white shaker kitchen counter in a New Jersey home, a brushed gold faucet softly out of focus in the background, warm walnut and tan accents, soft natural daylight, shallow depth of field, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+     "alt": "Illustration of white, gray and beige countertop stone samples laid out on a kitchen counter"
     }
    },
    {
     "name": "Kitchen remodeling",
     "blurb": "Beyond counters, Lk Kitchen is listed on Google as a kitchen remodeler. Customers describe kitchen upgrades that left the room transformed, with one calling it a dream kitchen made real by a reliable team that paid close attention to detail.",
     "image": {
-     "file": "images/social_01.jpg",
-     "alt": "Contemporary kitchen with wood-grain flat-panel cabinets, under-cabinet lighting and dark stone backsplash"
+     "file": "images/maps_01.jpg",
+     "alt": "White shaker kitchen with veined white countertops, a marble-look island, stainless double-oven range and herringbone tile panel"
     }
    },
    {
     "name": "Bathroom remodeling",
     "blurb": "Bathroom remodeling is listed among the services on the business's social pages. If your bathroom needs a new vanity top or a full update, call the team to talk about what you have in mind and how they would approach it.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_bathroom.jpg",
+     "ai_prompt": "Photorealistic photo of a remodeled bathroom in a New Jersey colonial-style home, white shaker double vanity with a white marble-look stone top and matching slab backsplash, brushed gold faucets and pulls, warm walnut-framed mirror, light porcelain floor tile, soft natural light from a window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+     "alt": "Illustration of a bathroom with a white double vanity, marble-look stone top and gold faucets"
+    }
    }
   ]
  },
@@ -84,7 +91,7 @@
   "items": [
    {
     "title": "One team from measure to install",
-    "text": "The same company handles the consultation, measurements, fabrication and installation, so there is no hand-off between a template crew, a shop and an installer you have never met."
+    "text": "The same company handles the consultation, measurements, fabrication and installation, so you are not juggling a separate measurer, fabricator and installer for one countertop job."
    },
    {
     "title": "Careful finishing",
@@ -105,7 +112,10 @@
   "text": "Lk Kitchen is a kitchen remodeler and countertop fabricator at 118 N Washington Ave in Dunellen, New Jersey. A linked Facebook page and several reviewers use the name Luxury Kitchen, and some call it Luxury Kitchen & Bath. The work centers on kitchens: helping customers choose a countertop, measuring and cutting it, installing it and upgrading the rest of the kitchen around it. The most recent Google reviews give five stars and describe a team that is reliable, punctual and focused on the small details that make a counter look right.",
   "owner_name": null,
   "owner_role": null,
-  "image": null
+  "image": {
+   "file": "images/maps_02.jpg",
+   "alt": "Close view of a white countertop and marble-look slab backsplash with a gold faucet on white shaker cabinets"
+  }
  },
  "process": {
   "h2": "How a countertop job works",
@@ -131,11 +141,6 @@
  "gallery": {
   "h2": "Kitchens and countertops",
   "images": [
-   {
-    "file": "images/social_01.jpg",
-    "alt": "Modern kitchen with dark wood-grain cabinets, black marble backsplash and floor, and a lit glass display cabinet",
-    "caption": "Dark modern kitchen with marble backsplash"
-   },
    {
     "file": "images/maps_01.jpg",
     "alt": "White kitchen with veined white countertops, an island with a thick marble-look edge, a stainless range and a herringbone tile panel",
@@ -168,18 +173,12 @@
     "text": "Luxury Kitchen team you did an amazing job!! You guys made my kitchen look so beautiful! Reasonably priced and attention to detail makes you outstanding! Highly recommended! Keep up the good work!",
     "source": "Google",
     "date": "2 months ago"
-   },
-   {
-    "name": "Google reviewer",
-    "text": "My experience with Luxury Kitchen & Bath was amazing.",
-    "source": "Google (review highlight)",
-    "date": "not shown"
    }
   ]
  },
  "service_area": {
   "h2": "Working from Dunellen, New Jersey",
-  "text": "Lk Kitchen is based at 118 N Washington Ave, Dunellen, NJ 08812. Dunellen is the town on its Google profile and the town tagged on its Facebook project photos. If you are planning new kitchen countertops or a kitchen upgrade in or near Dunellen, call (929) 374-9031 on a weekday to ask whether your home is in range and to set up a consultation.",
+  "text": "Lk Kitchen is based at 118 N Washington Ave, Dunellen, NJ 08812. Dunellen is the town on its Google profile and on its Luxury Kitchen Facebook page. If you are planning new kitchen countertops or a kitchen upgrade in or near Dunellen, call (929) 374-9031 on a weekday to ask whether your home is in range and to set up a consultation.",
   "towns": [
    "Dunellen, NJ"
   ]
@@ -193,7 +192,7 @@
    },
    {
     "q": "Can you help me pick a countertop?",
-    "a": "Yes. Countertop selection is the most common topic in their Google reviews, and every job starts with a consultation. Bring photos of your cabinets, floors and any finishes you are keeping, and the team can help you compare options before anything is measured or cut."
+    "a": "Yes. Countertop selection is the most common topic in their Google reviews, and one customer's job began with a consultation. Bring photos of your cabinets, floors and any finishes you are keeping, and the team can help you compare options before anything is measured or cut."
    },
    {
     "q": "Do you do more than countertops?",
@@ -224,7 +223,7 @@
   "phone": "(929) 374-9031",
   "email": "luxurykitchen18@gmail.com",
   "socials": [
-   "https://www.facebook.com/lkkitchenproducts",
+   "https://www.facebook.com/luxurykitchenNJ/",
    "https://www.instagram.com/l.k_kitchen",
    "https://www.google.com/maps/place/?q=place_id:ChIJS4ndqOe5w4kRNaRjXkt-yTs&hl=en"
   ],
@@ -253,12 +252,72 @@
    "Mo-Fr 08:00-17:00"
   ],
   "sameAs": [
-   "https://www.facebook.com/lkkitchenproducts",
+   "https://www.facebook.com/luxurykitchenNJ/",
    "https://www.instagram.com/l.k_kitchen",
    "https://www.google.com/maps/place/?q=place_id:ChIJS4ndqOe5w4kRNaRjXkt-yTs&hl=en"
   ],
-  "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1118421830083245"
+  "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcs--NwVb4bj0gYvL70VNCL_-uyI5KLG2mQXr2Ia2DusMYZdrWqUS-w9ivcI1MSRQYFR5W6NMFg-MxnKLyUJAZ5MERlo04q9jEkGEAdyAHf8P0vTghGnJbWIhDAjIYoncXWus2fm-BKTn4=s0"
  },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "Kitchen countertops by Dunellen, NJ fabricator Lk Kitchen: white marble-look counters and island on white shaker cabinets beside a stainless pro range"
+  },
+  {
+   "slot": "service:Countertop fabrication and installation",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "White shaker cabinets with gold pulls, a white countertop and a matching marble-look slab backsplash behind a gold faucet"
+  },
+  {
+   "slot": "service:Help choosing your countertop",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_countertop_samples.jpg",
+   "ai_prompt": "Photorealistic photo of several polished countertop stone samples, white marble-look, gray veined and warm beige, laid side by side on a white shaker kitchen counter in a New Jersey home, a brushed gold faucet softly out of focus in the background, warm walnut and tan accents, soft natural daylight, shallow depth of field, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+   "alt": "Illustration of white, gray and beige countertop stone samples laid out on a kitchen counter"
+  },
+  {
+   "slot": "service:Kitchen remodeling",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "White shaker kitchen with veined white countertops, a marble-look island, stainless double-oven range and herringbone tile panel"
+  },
+  {
+   "slot": "service:Bathroom remodeling",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_bathroom.jpg",
+   "ai_prompt": "Photorealistic photo of a remodeled bathroom in a New Jersey colonial-style home, white shaker double vanity with a white marble-look stone top and matching slab backsplash, brushed gold faucets and pulls, warm walnut-framed mirror, light porcelain floor tile, soft natural light from a window, clean and uncluttered, no people, no faces, no text, no logos, no brand names, 4:3 aspect ratio.",
+   "alt": "Illustration of a bathroom with a white double vanity, marble-look stone top and gold faucets"
+  },
+  {
+   "slot": "about",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "Close view of a white countertop and marble-look slab backsplash with a gold faucet on white shaker cabinets"
+  },
+  {
+   "slot": "gallery_1",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "White kitchen with veined white countertops, an island with a thick marble-look edge, a stainless range and a herringbone tile panel"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/maps_02.jpg",
+   "source": "real",
+   "alt": "White shaker cabinets with gold hardware, white countertop and full-height marble-look slab backsplash"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/maps_01.jpg",
+   "source": "real",
+   "alt": "White kitchen with veined white marble-look countertops and island"
+  }
+ ],
  "facts_used": [
   {
    "fact": "Name Lk Kitchen, category Kitchen remodeler, address 118 N Washington Ave, Dunellen, NJ 08812",
@@ -305,12 +364,16 @@
    "source": "Gemini summary of Facebook/Instagram"
   },
   {
-   "fact": "Photo contents (dark modern kitchen, veined white counters, slab backsplash)",
-   "source": "images social_01, maps_01, maps_02 (seen)"
+   "fact": "Facebook page used for sameAs: facebook.com/luxurykitchenNJ (lists the same phone and the Dunellen 08812 address)",
+   "source": "research.json email quote from https://www.facebook.com/luxurykitchenNJ/"
+  },
+  {
+   "fact": "Photo contents (veined white counters and island, slab backsplash with gold fixtures)",
+   "source": "images maps_01, maps_02 (seen)"
   }
  ],
  "missing": [
-  "Only 3 distinct usable photos (gallery 3, below 6 to 10); cover.jpg duplicates social_01; social_02 carries another brand's watermark; no bathroom photo",
+  "Needs project photos: only 2 usable photos (maps_01, maps_02), so the gallery has 2. The Facebook photos social_01 and cover.jpg were dropped because they come from facebook.com/lkkitchenproducts, which appears to be a different business",
   "Owner name not found",
   "Years in business not found",
   "Licence and insurance not found (Gemini returned the fragment 'lic The', not usable)",
@@ -320,7 +383,11 @@
   "Towns beyond Dunellen not named",
   "Gemini about text and Gemini reviews were unrelated junk and were not used",
   "Facebook page lists www.luxurykichenusa.com as a website, but the domain does not resolve (checked)",
-  "Website URL for schema url (no working site)"
+  "Website URL for schema url (no working site)",
+  "Facebook link: research listed facebook.com/lkkitchenproducts, but that page looks unrelated; the page now linked is facebook.com/luxurykitchenNJ, which shows the same phone. Confirm both the Facebook page and Instagram @l.k_kitchen belong to this business",
+  "Two service cards use AI illustrations (countertop samples, bathroom) because no real photos exist for them",
+  "Only 3 named reviews were captured; an unnamed Google highlight ('My experience with Luxury Kitchen & Bath was amazing.') was removed from testimonials because it has no name or date",
+  "Google shows 87 photos on the profile but only 2 were captured; ask the owner for their own project photos for the gallery"
  ],
  "brand": {
   "logo_file": null,
@@ -330,7 +397,7 @@
    "light": "#F5F1EC",
    "dark": "#1F1510"
   },
-  "palette_note": "Primary, accent and dark come from the palette taken from the Facebook cover photo (walnut brown #5B432F, warm tan #947B5E, near-black #1F1510; #3C2A1E is a backup dark brown). There is no logo; light is a proposed warm off-white to sit behind the photos.",
+  "palette_note": "Walnut brown #5B432F, warm tan #947B5E and near-black #1F1510 were sampled from the Facebook cover photo, which is no longer used because it may belong to another company, so treat this palette as a proposal that suits the 'Luxury Kitchen' name and the gold fixtures and white marble in maps_01 and maps_02. Light is a warm off-white.",
   "fonts": {
    "headings": "Playfair Display",
    "body": "Lato"
@@ -340,12 +407,16 @@
  },
  "images_not_to_use": [
   {
-   "file": "images/social_02.jpg",
-   "why": "carries a 'Kitchen Hyper' watermark from another company; may not be their project"
+   "file": "images/social_01.jpg",
+   "why": "From facebook.com/lkkitchenproducts, which looks like a different business: the photo carries an 'LK' watermark and an 'imaginations comfort' text mark, and the page's About text is unrelated. Not confirmed as this Dunellen company's work"
   },
   {
    "file": "images/cover.jpg",
-   "why": "exact duplicate of social_01"
+   "why": "Exact duplicate of social_01 (same unconfirmed source)"
+  },
+  {
+   "file": "images/social_02.jpg",
+   "why": "Carries a 'Kitchen Hyper' watermark from another company; may not be their project"
   }
  ],
  "outreach": {

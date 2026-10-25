@@ -23,45 +23,45 @@ Granite, quartz, solid surface and cultured marble tops, plus kitchen and bath r
 - Stone slabs on site at 7657 Hwy 45 S
 - Granite, quartz, solid surface, cultured marble
 
-![Quality Kitchens & Baths shop on Hwy 45 S in Martin, TN, with granite slabs for countertops standing on racks beside the building](images/maps_01.jpg)
+_AI image `ai_hero.jpg`: Illustration of granite countertops in a bright kitchen, the kind of top Quality Kitchens & Baths offers in Martin, TN_
 
 ## Stone Countertops and Remodels From a Martin Shop
 
-Quality Kitchens & Baths handles granite countertops in Martin, TN from its shop at 7657 Hwy 45 S. Slabs stand on racks right beside the building, and the Facebook page sums up the specialty in one line: granite, quartz, solid surface and cultured marble.
+Quality Kitchens & Baths supplies granite countertops in Martin, TN from its shop at 7657 Hwy 45 S. Slabs stand on racks right beside the building, and the Facebook page sums up the specialty in one line: granite, quartz, solid surface and cultured marble.
 
-The people come up as often as the stone. Reviewers name Mike and Heather again and again, call them super folks to work with during a remodel, and describe the whole crew as talented, kind and willing to make you happy. Another reviewer points to a great selection of bathroom material. The shop is open on weekdays from 9 AM to 4 PM.
+The people come up as often as the stone. Reviewers name Mike and Heather, call them super folks to work with during a remodel, and describe the whole crew as talented, kind and willing to make you happy. Another reviewer points to a great selection of bathroom material. The shop is open on weekdays from 9 AM to 4 PM.
 
 ## Countertops and Remodeling Services
 
 ### Granite countertops
 
-Granite leads the specialty list on the Quality Kitchens & Baths Facebook page, and slabs are stored on racks at the Hwy 45 S shop. Come see the colours and patterns in person, then talk through how the top will fit your cabinets and sink.
+Granite leads the specialty list on the Quality Kitchens & Baths Facebook page, and slabs are stored on racks at the Hwy 45 S shop. Come see the colors and patterns in person, then talk through how the top will fit your cabinets and sink.
 
 ![Granite slabs in white, grey and tan standing on racks outside the Quality Kitchens & Baths shop in Martin, TN](images/maps_01.jpg)
 
 ### Quartz countertops
 
-Quartz is the second material named in the shop's Facebook specialty list. Ask to compare quartz and granite side by side for your kitchen or bath, and check which colours they can get for your project before you make a final choice.
+Quartz is the second material on the shop's specialty list. Ask to see quartz and granite side by side for your kitchen or bath, and check which colors they can get for your project before you make a final choice.
 
-_No photo yet._
+_AI image `ai_service_quartz.jpg`: Illustration of a white quartz countertop with a soft grey vein in a kitchen_
 
 ### Solid surface and cultured marble tops
 
-Solid surface and cultured marble round out the materials the shop specializes in. Both are often used for bathroom vanity tops, and vanity tops are among the jobs reviewers mention. Ask which sizes and colours suit your bathroom and how long they take.
+Solid surface and cultured marble round out the materials the shop specializes in. Both are common choices for bathroom vanity tops, a job customers mention in their reviews. Ask which sizes and colors suit your bathroom and how long they take.
 
-_No photo yet._
+_AI image `ai_service_vanity.jpg`: Illustration of a cultured marble vanity top with an integrated sink in a small bathroom_
 
 ### Kitchen and bath remodels
 
-Google lists Quality Kitchens & Baths as a kitchen remodeler, and reviewers describe Mike, Heather and their crew working with them through a full remodel. One reviewer also points to a great selection of bathroom material to choose from at the shop.
+Google lists Quality Kitchens & Baths as a kitchen remodeler, and reviewers describe working with Mike, Heather and their crew through a remodel. One reviewer also points to a great selection of bathroom material to choose from at the shop.
 
-_No photo yet._
+_AI image `ai_service_remodel.jpg`: Illustration of a remodeled kitchen with stone countertops and new cabinets_
 
 ## Why Martin Homeowners Choose Quality Kitchens & Baths
 
 **Slabs on site.** Granite slabs stand on racks at the Hwy 45 S shop, so you can look at real stone in daylight before you choose the top for your kitchen.
 
-**Mike and Heather.** Reviewers mention Mike and Heather by name and call them super folks to work with during a remodel, very professional and great to work with.
+**Mike and Heather.** Customers mention Mike and Heather by name. One calls them super folks to work with during a remodel, and another says they are very professional and great to work with.
 
 **A crew that wants you happy.** One customer describes their entire crew as super talented, kind and willing to make you happy, which matters when people are working inside your home.
 
@@ -69,9 +69,9 @@ _No photo yet._
 
 ## About Quality Kitchens & Baths
 
-Quality Kitchens & Baths is a kitchen remodeler and countertop shop at 7657 Hwy 45 S in Martin, Tennessee. Its Facebook page describes the specialty as granite, quartz, solid surface and cultured marble, and the yard beside the building holds racks of stone slabs. Mike and Heather are the names reviewers mention most, along with a crew described as talented and kind. One reviewer sums it up simply: the owner knows what he's doing. The shop has 401 followers on Facebook and a 4.7 rating from 17 Google reviews.
+Quality Kitchens & Baths is a kitchen remodeler and countertop shop at 7657 Hwy 45 S in Martin, Tennessee. Its Facebook page describes the specialty as granite, quartz, solid surface and cultured marble, and the yard beside the building holds racks of stone slabs. Mike and Heather are the names customers mention in their reviews, along with a crew described as talented and kind. One review sums it up simply: the owner knows what he's doing. Stop by on a weekday to see the slabs and talk through your kitchen or bath.
 
-_Owner / lead: Mike and Heather. Role: Named together in reviews; a Google review highlight says 'Owner knows what he's doing'; last names and titles not published_
+_Owner / lead: Mike and Heather. Role: Named by customers in Google reviews (last names and titles not published)_
 
 ![Brick shop building with a blue Quality Kitchens & Baths banner and granite slabs on racks outside, Martin, TN](images/maps_01.jpg)
 
@@ -109,13 +109,13 @@ Towns: Martin
 The shop at 7657 Hwy 45 S in Martin is open Monday through Friday from 9 AM to 4 PM and closed on Saturday and Sunday, according to Google. Call (731) 431-9944 before you come so someone is free to walk you through the slabs.
 
 **What countertop materials do you offer?**  
-The Facebook page lists the specialty as granite, quartz, solid surface and cultured marble. Granite slabs are stored on racks at the shop, so you can see them in person. Ask about quartz colours, and about solid surface or cultured marble for vanity tops, when you call.
+The Facebook page lists the specialty as granite, quartz, solid surface and cultured marble. Granite slabs are stored on racks at the shop, so you can see them in person. Ask about quartz colors, and about solid surface or cultured marble for vanity tops, when you call.
 
 **Do you do full kitchen and bath remodels?**  
 Google lists Quality Kitchens & Baths as a kitchen remodeler, and reviewers describe Mike, Heather and their crew working with them through a remodel. One reviewer also mentions a great selection of bathroom material. Call to talk through your project and what the crew can take on.
 
 **Can I see slabs before I choose?**  
-Yes. Granite slabs stand on racks beside the building at 7657 Hwy 45 S, as the shop photo shows. Visit during weekday hours to look at them in person, and ask what else can be ordered if you have a particular colour in mind.
+Yes. Granite slabs stand on racks beside the building at 7657 Hwy 45 S, so you can look at real stone in daylight. Visit during weekday hours to see them in person, and ask what else can be ordered if you have a particular color in mind.
 
 **How else can I reach you?**  
 Call (731) 431-9944, or fax drawings and measurements to 731-588-2686, the fax number on the shop's sign. Email qualitykitchensandbaths@hotmail.com works too. Free estimates and financing are not published, so ask about them when you get in touch, along with the timing for your job.
@@ -124,7 +124,8 @@ Call (731) 431-9944, or fax drawings and measurements to 731-588-2686, the fax n
 
 Visit the Hwy 45 S shop on a weekday or give Mike and Heather a call.
 
-[Call (731) 431-9944](tel:+17314319944): (731) 431-9944
+[Call (731) 431-9944](tel:+17314319944)  
+Phone: (731) 431-9944
 
 ## Footer
 
@@ -135,6 +136,22 @@ Visit the Hwy 45 S shop on a weekday or give Mike and Heather a call.
 - https://www.facebook.com/p/Quality-Kitchens-and-Baths-100057212929391
 - https://www.google.com/maps/place/?q=place_id:ChIJ0QZqHuZgeYgRwpmHgtxuLOc&hl=en
 - Hours: Mon to Fri 9 AM to 4 PM; closed Sat and Sun
+
+## Image plan
+
+- **hero**: AI image `ai_hero.jpg`. Alt: Illustration of granite countertops in a bright kitchen, the kind of top Quality Kitchens & Baths offers in Martin, TN  
+  Prompt: Photorealistic photo of a finished kitchen in a single-story brick ranch home in rural West Tennessee, with long granite countertops in grey and tan tones on painted slate-blue shaker cabinets, an undermount stainless sink under a window, a simple tile backsplash, warm natural daylight from the window, clean and uncluttered, soft slate blue and warm tan palette, no people, no faces, no text, no logos, no brand names, 16:9
+- **service:Granite countertops**: real photo `images/maps_01.jpg` (Granite slabs in white, grey and tan standing on racks outside the Quality Kitchens & Baths shop in Martin, TN)
+- **service:Quartz countertops**: AI image `ai_service_quartz.jpg`. Alt: Illustration of a white quartz countertop with a soft grey vein in a kitchen  
+  Prompt: Photorealistic close view of a finished kitchen with a white quartz countertop with soft grey veining, an undermount sink and a simple faucet, painted slate-blue lower cabinets, warm natural light from a nearby window, soft slate blue and warm tan stone tones, no people, no faces, no text, no logos, no brand names, 4:3
+- **service:Solid surface and cultured marble tops**: AI image `ai_service_vanity.jpg`. Alt: Illustration of a cultured marble vanity top with an integrated sink in a small bathroom  
+  Prompt: Photorealistic photo of a small finished bathroom in a modest Tennessee ranch home, with a one-piece cultured marble vanity top and integrated oval sink in white with light beige veining, on a wood vanity cabinet, a plain framed mirror, soft natural daylight, soft slate blue and warm tan stone tones, no people, no faces, no text, no logos, no brand names, 4:3
+- **service:Kitchen and bath remodels**: AI image `ai_service_remodel.jpg`. Alt: Illustration of a remodeled kitchen with stone countertops and new cabinets  
+  Prompt: Photorealistic photo of a fully remodeled kitchen in a single-story brick ranch home, new shaker cabinets in slate blue and white, stone countertops in warm tan granite, a small island, pendant lights, wood-look floor, natural daylight, soft slate blue and warm tan stone tones, no people, no faces, no text, no logos, no brand names, 4:3
+- **about**: real photo `images/maps_01.jpg` (Brick shop building with a blue Quality Kitchens & Baths banner and granite slabs on racks outside, Martin, TN)
+- **gallery_1**: real photo `images/maps_01.jpg` (Brick shop building with a blue Quality Kitchens & Baths banner and granite slabs on racks outside, Martin, TN)
+- **final_cta**: AI image `ai_cta.jpg`. Alt: Illustration of a close view of polished granite countertop surface in grey and tan  
+  Prompt: Photorealistic wide close-up of a polished granite countertop edge in grey, white and tan swirls, on a kitchen counter in soft natural window light, shallow depth of field, calm and uncluttered, soft slate blue and warm tan stone tones, room on the left for overlaid text, no people, no faces, no text, no logos, no brand names, 21:9
 
 ## Brand
 
@@ -172,7 +189,7 @@ Visit the Hwy 45 S shop on a weekday or give Mike and Heather a call.
 
 ## Missing
 
-- needs project photos of finished kitchens, countertops and vanities; the only photo is the shop exterior
+- needs project photos: the only photo is the shop exterior, so the gallery has 1 photo and the hero, three service cards and the CTA background use AI illustrations until finished kitchens, countertops and vanities are photographed
 - no logo found; the banner shows the name in white on a blue gradient, no mark
 - Instagram qualitykitchenbathny looks like a New York business (NY in the handle) and was left out of socials and sameAs; confirm with the owner
 - last names and titles for Mike and Heather not published

@@ -15,15 +15,15 @@
 
 # Tile Contractor in Ruidoso, NM
 
-Bathroom updates, tile showers, tiled vanity walls and vinyl plank floors from Jeremy and Elevated Services, a crew Google reviewers call reliable, fair and hard working.
+Bathroom updates, tile showers and vinyl plank floors by Jeremy of Elevated Services, whom Google reviewers call reliable, fair and hard working.
 
 [Call (575) 937-3752](tel:+15759373752)  |  [Request an estimate](#contact)
 
 - 5.0 stars from 9 Google reviews
-- Hired again for several projects
+- Clients hire him again for new projects
 - Open Monday to Friday, 8 AM to 5 PM
 
-_Image: `images/maps_02.jpg`, alt: "Walk-in shower with marble-look wall tile, mosaic niche and black fixtures, finished by a tile contractor in Ruidoso, NM"_
+_Image: `images/maps_02.jpg` (real photo), alt: "Walk-in shower with marble-look wall tile, mosaic niche and black fixtures, finished by a tile contractor in Ruidoso, NM"_
 
 ## A tile contractor in Ruidoso who finishes the whole room
 
@@ -37,37 +37,41 @@ Other reviews tell the same story in different words. A homeowner whose vinyl pl
 
 A bathroom refresh can mean more than new tile. In one cabin bathroom Jeremy put in new floors, a new vanity with a tiled wall behind it, a medicine cabinet and new light fixtures, all listed by the owner in her Google review.
 
-_Image: `images/maps_01.jpg`, alt: "Updated bathroom with white shaker vanity, black faucet and pulls, and a white tile wall behind the arched mirror"_
+_Image: `images/maps_01.jpg` (real photo), alt: "Updated bathroom with white shaker vanity, black faucet and pulls, and a white tile wall behind the arched mirror"_
 
 ### Tile showers and walls
 
-Tile is the trade listed on the company's Google profile. Its photos include a walk-in shower finished in large marble-look wall tile with a mosaic niche, a small hexagon tile floor, a black-framed glass door and matching black fixtures.
+Tile is the main trade on the Elevated Services Google listing. One finished bathroom shows a walk-in shower in large marble-look wall tile with a mosaic niche, a small hexagon tile floor, a black-framed glass door and matching black fixtures.
 
-_Image: `images/maps_02.jpg`, alt: "Walk-in tile shower with marble-look tile, mosaic niche, hexagon floor tile and black-framed glass door"_
+_Image: `images/maps_02.jpg` (real photo), alt: "Walk-in tile shower with marble-look tile, mosaic niche, hexagon floor tile and black-framed glass door"_
 
 ### Flooring installs and repairs
 
 Wood, vinyl and laminate flooring are on the Elevated Services Facebook page. When one homeowner's vinyl plank floor cracked because of an issue underneath, the damaged planks came up, the subfloor was patched and new planks went down the hallway.
 
-_Image: `images/maps_07.jpg`, alt: "Hallway with new light oak vinyl plank flooring after a repair"_
+_Image: `images/maps_07.jpg` (real photo), alt: "Hallway with new light oak vinyl plank flooring after a repair"_
 
 ### Kitchen updates
 
-Kitchens are part of the work too. A cabin owner hired Jeremy to update both her kitchen and her bathroom and wrote that he did all she asked and more. Call to describe what your kitchen needs and ask whether it fits.
+Kitchens are part of the work too. A cabin owner hired Jeremy to update both her kitchen and her bathroom and wrote that he did all she asked and more. Call to describe what your kitchen needs and talk through the options.
 
-_Image: none yet (needs project photo)_
+_Image: AI-generated `ai_service_kitchen.jpg`, alt: "Cabin kitchen with white shaker cabinets, subway tile backsplash and pine walls"_
+
+_AI prompt: Photorealistic photo of an updated kitchen in a mountain cabin in Ruidoso, New Mexico: knotty pine walls and ceiling, white shaker cabinets with matte black pulls, a white subway tile backsplash, a white countertop, light oak-look vinyl plank floor, a window looking out on ponderosa pines, soft natural daylight, a small deep-green plant on the counter as the only accent; tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio._
 
 ### Stacked stone veneer
 
 Stacked stone veneer is listed on the Elevated Services Facebook page next to tile and flooring. It gives a wall the look of natural stone without building a full masonry wall. Ask Jeremy about your wall or project when you call.
 
-_Image: none yet (needs project photo)_
+_Image: AI-generated `ai_service_stacked_stone.jpg`, alt: "Cabin living room with a grey and tan stacked stone accent wall behind a wood stove"_
+
+_AI prompt: Photorealistic photo of a living room accent wall finished in grey and tan stacked stone veneer behind a black wood stove in a mountain cabin in Ruidoso, New Mexico, exposed wood ceiling beams, light oak-look plank floor, a dark-green wool throw on a leather armchair, warm natural light from a side window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio._
 
 ## Why Ruidoso homeowners call Elevated Services
 
 **He shows up when he says he will.** A repeat client wrote that Jeremy is always extremely reliable and fair, and that he will be there when he says he will. For a bathroom you use every day, that matters.
 
-**Clients come back.** The same reviewer has used Jeremy and Elevated Services for several different projects and says they have learned to count on him to do fantastic work.
+**Clients come back.** One client has used Jeremy and Elevated Services for several different projects and says they have learned to count on him to do fantastic work.
 
 **More than the list.** A cabin owner called Jeremy a true craftsman who wants everything done correctly, and said he went over and above all she asked on her kitchen and bathroom update.
 
@@ -75,27 +79,27 @@ _Image: none yet (needs project photo)_
 
 ## Meet Jeremy and Elevated Services
 
-Ask a client of Elevated Services LLC who did the work and you will hear one name: Jeremy. He is the person reviewers hired, the one on the job and the one they call back for the next project. One cabin owner described him as trustworthy, hard working and a true craftsman. The business is based in Ruidoso, and its Facebook page lists more than finish work: tile, wood, vinyl and laminate flooring and stacked stone veneer, plus dirt work, skid steer services, driveway grading and yard cleaning. On Google it holds 5.0 stars from 9 reviews.
+Ask a client of Elevated Services LLC who did the work and you will hear one name: Jeremy. He is the person reviewers hired, the one on the job and the one they call back for the next project. One cabin owner described him as trustworthy, hard working and a true craftsman. The business is based in Ruidoso, and its Facebook page lists more than finish work: tile, wood, vinyl and laminate flooring and stacked stone veneer, plus dirt work, skid steer services, driveway grading and yard cleaning. It has 5.0 stars from 9 Google reviews.
 
-_Owner: Jeremy (Named by every captured reviewer as the person doing the work; last name and title not published)_
+_Owner: Jeremy (Named in the Google reviews as the person doing the work; last name and title not published)_
 
-_Image: none yet (needs project photo)_
+_Image: `images/maps_06.jpg` (real photo), alt: "Vinyl plank floor repair in progress, with the cracked planks removed and the subfloor patched"_
 
 ## How a job with Elevated Services works
 
 1. **Call or email.** Call (575) 937-3752 Monday to Friday between 8 AM and 5 PM, or email a few photos of the room or floor.
 2. **Talk through the job.** Explain what you want changed, from a cracked plank floor to a full bathroom update, and ask what the work involves.
 3. **Choose materials.** Settle on tile, flooring, vanity, fixtures and finishes together before work starts, so you know exactly what is going in.
-4. **The work.** Jeremy and the crew do the job. Reviewers describe someone who wants everything done correctly and arrives when he says he will.
+4. **The work.** Jeremy and Elevated Services do the work. Reviewers describe someone who wants everything done correctly and arrives when he says he will.
 5. **Walkthrough.** Look over the finished room together and point out anything you would like adjusted before the job is closed out.
 
 ## Recent bathroom and floor projects
 
 - `images/maps_02.jpg`: Walk-in tile shower with mosaic niche (alt: "Walk-in shower with marble-look wall tile, mosaic niche and black-framed glass door")
-- `images/maps_01.jpg`: Cabin bathroom after: new vanity, tiled wall and lights (alt: "White shaker vanity with quartz top and black hardware in front of a white tile wall")
-- `images/maps_03.jpg`: Before: the old vanity (alt: "Older bathroom with cream cultured-marble vanity before the update")
+- `images/maps_01.jpg`: Cabin bathroom after: new vanity, tiled wall and lights (alt: "White shaker vanity with a white top and black hardware in front of a white tile wall")
+- `images/maps_03.jpg`: Before: the old vanity (alt: "Older bathroom with a cream cultured-marble vanity before the update")
 - `images/maps_07.jpg`: Vinyl plank hallway after the repair (alt: "Long hallway with new light oak vinyl plank flooring")
-- `images/maps_06.jpg`: During: damaged planks out, subfloor patched (alt: "Cracked vinyl plank floor pulled up with the subfloor patched during repair")
+- `images/maps_06.jpg`: During: damaged planks out, subfloor patched (alt: "Cracked vinyl plank floor pulled up with the subfloor patched during the repair")
 
 ## What clients say about Jeremy
 
@@ -125,7 +129,7 @@ The Facebook page lists tile, wood, vinyl and laminate flooring and stacked ston
 
 **What are your hours?**
 
-Google lists Monday to Friday, 8 AM to 5 PM, and closed on Saturday and Sunday. Calling during those hours at (575) 937-3752 is the best way to reach the team, or send an email any time to elevatedtile575@gmail.com.
+Google lists Monday to Friday, 8 AM to 5 PM, and closed on Saturday and Sunday. Call (575) 937-3752 during those hours to reach Jeremy, or email elevatedtile575@gmail.com any time with a few photos of the job and your town.
 
 **Can you fix a vinyl plank floor that has cracked?**
 
@@ -154,6 +158,57 @@ elevatedtile575@gmail.com
 Hours: Mon to Fri: 8 AM to 5 PM; Sat and Sun: closed  
 https://www.facebook.com/100081483460942  
 
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Elevated Services LLC",
+ "url": null,
+ "telephone": "+15759373752",
+ "email": "elevatedtile575@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "addressLocality": "Ruidoso",
+  "addressRegion": "NM"
+ },
+ "areaServed": [
+  "Ruidoso, NM"
+ ],
+ "openingHours": [
+  "Mo-Fr 08:00-17:00"
+ ],
+ "sameAs": [
+  "https://www.facebook.com/100081483460942",
+  "https://www.google.com/maps/place/?q=place_id:ChIJ66PU6uOT-KMROivkoNxEays&hl=en"
+ ],
+ "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSqOvIv1ZXol2HbP17owoioG0A99pBE0Iqv7KbqzXoNVak5ZJR-nYZYuDNfgCQ8cAT9u8G6YprxUWnVkNsBzLckwgpzfpXEtNUQBXdJCohcc_sQcVLeShLtFkdYO5KjNK1q79ALK0i4HYU=s0",
+ "logo": "https://us1-photo.nextdoor.com/business_logo/26/42/2642785861a9a711638567e10cbe9780.jpeg"
+}
+```
+
+## Image plan
+
+10 real photo slots, 3 AI slots.
+
+- **hero**: `images/maps_02.jpg` (real), alt: "Walk-in shower with marble-look wall tile, mosaic niche and black fixtures, finished by a tile contractor in Ruidoso, NM"
+- **service:Bathroom updates**: `images/maps_01.jpg` (real), alt: "Updated bathroom with white shaker vanity, black faucet and pulls, and a white tile wall behind the arched mirror"
+- **service:Tile showers and walls**: `images/maps_02.jpg` (real), alt: "Walk-in tile shower with marble-look tile, mosaic niche, hexagon floor tile and black-framed glass door"
+- **service:Flooring installs and repairs**: `images/maps_07.jpg` (real), alt: "Hallway with new light oak vinyl plank flooring after a repair"
+- **service:Kitchen updates**: AI `ai_service_kitchen.jpg`, alt: "Cabin kitchen with white shaker cabinets, subway tile backsplash and pine walls"
+  - Prompt: Photorealistic photo of an updated kitchen in a mountain cabin in Ruidoso, New Mexico: knotty pine walls and ceiling, white shaker cabinets with matte black pulls, a white subway tile backsplash, a white countertop, light oak-look vinyl plank floor, a window looking out on ponderosa pines, soft natural daylight, a small deep-green plant on the counter as the only accent; tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.
+- **service:Stacked stone veneer**: AI `ai_service_stacked_stone.jpg`, alt: "Cabin living room with a grey and tan stacked stone accent wall behind a wood stove"
+  - Prompt: Photorealistic photo of a living room accent wall finished in grey and tan stacked stone veneer behind a black wood stove in a mountain cabin in Ruidoso, New Mexico, exposed wood ceiling beams, light oak-look plank floor, a dark-green wool throw on a leather armchair, warm natural light from a side window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.
+- **about**: `images/maps_06.jpg` (real), alt: "Vinyl plank floor repair in progress, with the cracked planks removed and the subfloor patched"
+- **gallery_1**: `images/maps_02.jpg` (real), alt: "Walk-in shower with marble-look wall tile, mosaic niche and black-framed glass door"
+- **gallery_2**: `images/maps_01.jpg` (real), alt: "White shaker vanity with a white top and black hardware in front of a white tile wall"
+- **gallery_3**: `images/maps_03.jpg` (real), alt: "Older bathroom with a cream cultured-marble vanity before the update"
+- **gallery_4**: `images/maps_07.jpg` (real), alt: "Long hallway with new light oak vinyl plank flooring"
+- **gallery_5**: `images/maps_06.jpg` (real), alt: "Cracked vinyl plank floor pulled up with the subfloor patched during the repair"
+- **final_cta**: AI `ai_cta_background.jpg`, alt: "Cabin bathroom with a marble-look tiled shower and wood vanity"
+  - Prompt: Photorealistic wide photo of a bright mountain-cabin bathroom in Ruidoso, New Mexico with a marble-look tiled walk-in shower, black fixtures and a natural wood vanity, ponderosa pines visible through a small window, calm natural light, uncluttered, darker forest-green tones toward the left edge so text can sit on top; no people, no faces, no text, no logos, no brand names; 21:9 aspect ratio.
+
 ## Brand
 
 - **Logo:** images/logo.jpg
@@ -163,7 +218,7 @@ https://www.facebook.com/100081483460942
 - **Tagline:** none found
 - **Style direction:** Sturdy mountain-trade look: dark header to hold the black logo, green tile-diamond accents, and big bright bathroom photos.
 
-### Images not to use
+## Images not to use
 
 - `images/social_01.jpg`: duplicate of the logo, not a project
 - `images/social_02.jpg`: van and man belong to a different Elevated Services (plumbing, Nevada 775 number, NCL# printed on the door)
@@ -173,7 +228,7 @@ https://www.facebook.com/100081483460942
 ## Outreach (not on the page)
 
 - **Specific detail:** Amy L.'s review of the cabin bathroom Jeremy redid: new floors, a medicine cabinet, a vanity with a tiled wall behind it and new light fixtures, with before and after photos on Google.
-- **Angle:** Nine Google reviews, all five stars and all naming Jeremy, plus a finished walk-in shower photo, but no website and no address or service area on Google, so someone searching 'tile contractor Ruidoso' cannot see what you do or where you work.
+- **Angle:** Nine Google reviews averaging 5.0, clients praising Jeremy by name and a finished walk-in shower photo, but no website and no address or service area on Google, so someone searching 'tile contractor Ruidoso' cannot see what you do or where you work.
 - **Subject line idea:** The cabin bathroom Amy reviewed
 
 ## Facts used
@@ -198,7 +253,8 @@ https://www.facebook.com/100081483460942
 - New Mexico contractor licence number not found
 - Insurance, years in business, warranty, free estimates and financing: not found, left out
 - Tagline: none found
-- Needs project photos: no kitchen or stacked stone photos, and only one finished shower and one finished vanity; Google shows 11 photos in total
+- Needs project photos: only 5 usable real photos (gallery has 5), no kitchen or stacked stone photos, and only one finished shower and one finished vanity; Google shows 11 photos in total
 - Instagram: none found
 - Only 3 reviews captured; the other 6 Google reviews were not read. gemini_reviews were unrelated web text (Insider Pages, League of Women Voters, Yelp, Zacks), not used
 - images/social_02.jpg shows a van for a different 'Elevated Services' (plumbing and drain cleaning, phone 775-600-3911, NCL# 0091177); not this business
+- AI illustrations used for the Kitchen updates and Stacked stone veneer cards and the final CTA background; swap in real project photos when the business supplies them

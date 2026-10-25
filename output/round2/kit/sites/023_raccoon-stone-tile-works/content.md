@@ -1,11 +1,13 @@
 # Raccoon Stone & Tile Works: homepage content
 
-**Title tag:** Stone Countertops in Byron, GA | Raccoon Stone & Tile Works  
-**Meta description:** Pick your own full stone slab at our Byron, GA yard. Raccoon Stone & Tile Works templates, cuts and installs countertops. 4.6 stars from 44 Google reviews.  
-**Primary keyword:** stone countertops Byron GA  
-**Secondary keywords:** granite countertops Byron GA, stone slab yard central Georgia, kitchen remodel Byron GA, countertop fabrication Byron, custom stone fabrication Georgia, tile and flooring Byron GA  
-**OG title:** Raccoon Stone & Tile Works | Stone Countertops in Byron, GA  
-**OG description:** Walk our stone yard, choose the exact slab and watch it become your countertop. Fabrication and installation in Byron, GA.
+## SEO
+
+- Title tag: Stone Countertops in Byron, GA | Raccoon Stone & Tile Works
+- Meta description: Pick your own full stone slab at our Byron, GA yard. Raccoon Stone & Tile Works templates, cuts and installs countertops. 4.6 stars from 44 Google reviews.
+- Primary keyword: stone countertops Byron GA
+- Secondary keywords: granite countertops Byron GA, stone slab yard central Georgia, kitchen remodel Byron GA, countertop fabrication Byron, custom stone fabrication Georgia, pattern matched countertops Byron
+- OG title: Raccoon Stone & Tile Works | Stone Countertops in Byron, GA
+- OG description: Walk our stone yard, choose the exact slab and watch it become your countertop. Fabrication and installation in Byron, GA.
 
 ## Hero
 
@@ -13,22 +15,18 @@
 
 # Stone Countertops in Byron, GA, Cut From the Slab You Pick
 
-Raccoon Stone & Tile Works keeps full slabs on site, makes careful templates and matches the natural pattern across every seam. Central Georgia homeowners rate us 4.6 stars.
+Raccoon Stone & Tile Works keeps full slabs on site, makes careful templates and matches the natural pattern where pieces join. Customers give us 4.6 stars on Google.
 
-[Call (478) 956-2222](tel:+14789562222) | [Request a countertop quote](#contact)
-
-- 4.6 stars from 44 Google reviews
-- Full slabs on site to choose from
-- Showroom open Monday to Friday, 8 AM to 5 PM
-- Stone fabrication for homes and churches
-
-Image: `images/maps_02.jpg` (alt: Long L-shaped white stone countertop with undermount sink over light wood cabinets, stone countertops by Raccoon Stone & Tile Works, Byron GA)
+- Button: Call (478) 956-2222 (tel:+14789562222)
+- Button: Request a countertop quote (#contact)
+- Trust badges: 4.6 stars from 44 Google reviews | Full slabs on site to choose from | Showroom open Monday to Friday, 8 AM to 5 PM | Stone fabrication for homes and churches
+- Image: images/maps_02.jpg (real photo). Alt: Long L-shaped white stone countertop over light wood cabinets, one of the stone countertops by Raccoon Stone & Tile Works in Byron, GA
 
 ## See the whole slab before it becomes your countertop
 
-Most places show you a one-foot sample. At Raccoon Stone & Tile Works, our stone countertops in Byron, GA start in a yard full of full-size slabs, so you can see the veining and color of the actual piece that goes in your kitchen. We cut it only after you are happy with it.
+Many places show you a one-foot sample. At Raccoon Stone & Tile Works, stone countertops in Byron, GA start in a yard of full-size slabs, so you can see the veining and color of the actual piece that goes in your kitchen. We cut it only after you are happy with it.
 
-Reviewers notice what happens next. One said our template visit took four hours and the install was an absolute perfect fit. Another, with a multi-angled kitchen, watched our cutter match the natural pattern at every joint so the seams look almost seamless. That care is the whole point of choosing a local fabricator.
+Reviewers notice what happens next. One said our template visit took four hours and the install was an absolute perfect fit. Another, with a multi-angled kitchen, wrote that our cutter took great pride in matching the natural pattern where pieces had to join, and that the installer made the joints appear almost seamless.
 
 ## Stone and tile work from our Byron shop
 
@@ -36,48 +34,49 @@ Reviewers notice what happens next. One said our template visit took four hours 
 
 Choose a slab in our yard, and we template your kitchen, cut the stone in our shop and install it. Counter top work is the most mentioned topic in our Google reviews, along with how well the patterns are matched.
 
-Image: `images/maps_07.jpg` (alt: Granite island countertop with white, grey and black speckles next to white cabinets)
+Image: images/maps_01.jpg (real photo). Alt: Brown and cream granite countertop with a full stone backsplash on white cabinets
 
 ### Kitchen remodeling
 
-We are listed on Google as a kitchen remodeler. Customers say we coordinated with the companies supplying the other parts of their kitchen at each step, so the new counters, backsplash and cabinets come together on time.
+Google lists us as a kitchen remodeler, and one reviewer who had us remodel their kitchen says we did an outstanding job at a great price. Another customer says we coordinated with the company supplying the rest of their kitchen at each step.
 
-Image: `images/maps_06.jpg` (alt: Kitchen with dark stained cabinets, a stone island, light stone countertops and white tile backsplash)
+Image: images/maps_06.jpg (real photo). Alt: Kitchen with dark stained cabinets, a stone-topped island, light stone countertops and a white tile backsplash
 
 ### Stone yard and slab selection
 
 Our stone yard on the Highway 247 Connector holds rows of full slabs. Walk through, meet the team and pick the exact piece you want. We make sure you are happy with it before anything is cut.
 
-Image: `images/cover.jpg` (alt: Rows of full stone slabs in the outdoor yard at Raccoon Stone & Tile Works with the company truck)
+Image: images/maps_07.jpg (real photo). Alt: Close-up of a speckled white, grey and black granite island top cut from a full slab
 
 ### Custom stone pieces
 
 Stone is not only for kitchens. We have added stone accents to powder rooms and laundry rooms, fabricated a color we had never cut before for a themed room, and built an altar and baptismal font for a church.
 
-Image: none (no photo of this service)
-
-### Tile and flooring
-
-Tile is in our name, and flooring is part of what we offer alongside stone. If you are planning a floor or tile project with your new counters, ask us about it when you visit the showroom.
-
-Image: none (no photo of this service)
+Image: AI illustration ai_service_custom_stone.jpg (see image plan for the prompt). Alt: Illustration of a powder room with a custom stone vanity top and stone backsplash ledge
 
 ## Why central Georgia comes to Raccoon
 
-**Full slabs, not little samples.** A reviewer compared us with shops that show one-foot squares or send you to Atlanta. Here you see full slabs at the shop and pick the one you want.
+### Full slabs, not little samples
 
-**Templates that fit.** One customer said our template visit took four hours and the install was an absolute perfect fit. Measuring carefully is how stone goes in without gaps.
+A reviewer compared us with shops that show one-foot squares or send you to Atlanta. Here you see full slabs at the shop and pick the one you want.
 
-**Seams matched by hand.** In a multi-angled kitchen, our cutter matched the natural patterns where pieces join, and the installer made the joints appear almost seamless, in the customer's words.
+### Templates that fit
 
-**A team people like dealing with.** Helpful staff is a frequent review topic. Customers mention friendly people, quick price quotes, transparent steps and coordination with their other kitchen suppliers.
+One customer said our template visit took four hours and the install was an absolute perfect fit. Measuring carefully is how stone goes in without gaps.
+
+### Seams matched by hand
+
+In a multi-angled kitchen, our cutter matched the natural patterns where pieces had to join, and in the customer's words, the installer made the joints appear almost seamless.
+
+### A team people like dealing with
+
+Helpful staff is a frequent review topic. Customers mention friendly people, quick price quotes, transparent steps and coordination with their other kitchen suppliers.
 
 ## A stone shop with a yard you can walk
 
 Raccoon Stone & Tile Works is a stone fabricator and kitchen remodeler on the Highway 247 Connector in Byron, serving central Georgia. Our yard and showroom are open weekdays, and you are welcome to come browse the slabs and meet the team. We have been cutting stone for a long time: in 2007 we were selected to create the altar, ambo, tabernacle base and baptismal font at Sacred Heart, a job that let us stretch our fabrication skills. Today most of our work is kitchen countertops, along with stone accents for powder rooms, laundry rooms and themed rooms.
 
-Owner: not known (role not known)  
-Image: `images/cover.jpg` (alt: Outdoor stone yard with rows of full slabs and the Raccoon Stone Works truck)
+Image: images/cover.jpg (real photo). Alt: Outdoor stone yard with rows of full slabs and the Raccoon Stone Works truck in Byron, GA
 
 ## From slab to installed countertop
 
@@ -85,21 +84,25 @@ Image: `images/cover.jpg` (alt: Outdoor stone yard with rows of full slabs and t
 2. **Get a quote.** Customers mention that we answered all their questions and got them a price quote quickly. Bring your measurements or a sketch of the layout.
 3. **Template visit.** We come to your home and make a precise template of every counter run, corner and angle. Taking the time here is what makes the fit right.
 4. **Cut and match.** We cut your chosen slab in our shop and line up the natural pattern where pieces have to join, especially on angled layouts.
-5. **Install.** Our installer sets the stone and finishes the joints. Then you check the finished counters with us and tell us if anything needs attention.
+5. **Install.** Our installer sets the stone and finishes the joints, then you look over the finished countertops with us before we pack up.
 
 ## Countertops we have cut and installed
 
-- `images/maps_06.jpg`: Multi-angled kitchen with pattern-matched stone countertops (alt: Large kitchen with dark stained cabinets, stone island, light countertops and white tile backsplash under pendant lights)
-- `images/maps_03.jpg`: The same kitchen from the other side of the island (alt: Kitchen with dark wood cabinets, stone island and light stone countertops along the window wall)
-- `images/maps_04.jpg`: Stone countertop at the wall and backsplash (alt: Light stone countertop meeting a white subway tile backsplash beside dark stained cabinets)
-- `images/maps_05.jpg`: Angled counter run with matched joints (alt: Angled stone countertop run with a raised section and outlet, during backsplash work)
-- `images/maps_07.jpg`: Granite island top (alt: Speckled white and black granite island top beside white cabinets and wood floor)
-- `images/maps_01.jpg`: Granite counters with a stone backsplash (alt: Brown and cream granite countertop with full stone backsplash on white cabinets)
-- `images/cover.jpg`: Our stone yard in Byron (alt: Rows of full stone slabs in the Raccoon Stone & Tile Works yard)
+- images/maps_06.jpg: Multi-angled kitchen with pattern-matched stone (alt: Large kitchen with dark stained cabinets, stone island, light countertops and white tile backsplash under pendant lights)
+- images/maps_03.jpg: The same kitchen from the other side of the island (alt: Kitchen with dark wood cabinets, stone island and light stone countertops along the window wall)
+- images/maps_04.jpg: Stone countertop at the wall and backsplash (alt: Light stone countertop meeting a white subway tile backsplash beside dark stained cabinets)
+- images/maps_05.jpg: Angled counter run with matched joints (alt: Angled stone countertop run with a raised section and outlet, during backsplash work)
+- images/maps_07.jpg: Granite island top (alt: Speckled white and black granite island top beside white cabinets and wood floor)
+- images/maps_01.jpg: Granite counters with a stone backsplash (alt: Brown and cream granite countertop with full stone backsplash on white cabinets)
+- images/cover.jpg: Our stone yard in Byron (alt: Rows of full stone slabs in the Raccoon Stone & Tile Works yard)
 
 ## What customers say about Raccoon
 
-> Very professional work and communications all along the journey.   Everyone I interacted with was friendly and helpful. They had great rapport with the company supplying materials for other features of the kitchen and they coordinated at each step of the redecorating. Everyone was experienced, knew what they were doing, and wanted their work to be perfect.  The man who actually cut the stone into the pieces for my kitchen, took great pride in matching up the natural patterns where piecing was required- due to the multi-angular layout of my kitchen work space/cabinets. The installer made the joints appear almost seamless!.   It is beautiful! Totally transparent process and timely at each step; I am extremely pleased with the results of my countertops; the material is beautiful and they found the piece of stone I wanted and made certain I was happy with it before they cut/used it!  Then they made my countertops perfectly! Overall superb and I will use their services again in the future if ever needed.  I highly recommend Raccoon !
+> Very professional work and communications all along the journey.   Everyone I interacted with was friendly and helpful.
+They had great rapport with the company supplying materials for other features of the kitchen and they coordinated at each step of the redecorating.
+Everyone was experienced, knew what they were doing, and wanted their work to be perfect.  The man who actually cut the stone into the pieces for my kitchen, took great pride in matching up the natural patterns where piecing was required- due to the multi-angular layout of my kitchen work space/cabinets. The installer made the joints appear almost seamless!.   It is beautiful!
+Totally transparent process and timely at each step; I am extremely pleased with the results of my countertops; the material is beautiful and they found the piece of stone I wanted and made certain I was happy with it before they cut/used it!  Then they made my countertops perfectly!
+Overall superb and I will use their services again in the future if ever needed.  I highly recommend Raccoon !
 >
 > Shawn C., Google, a year ago
 
@@ -119,51 +122,106 @@ Towns: Byron, central Georgia
 
 ## Countertop questions
 
-**Can I see the actual slab before you cut it?**  
-Yes. We keep full slabs at the shop, so you can look at the whole piece instead of a small square sample. One customer said we found the piece of stone she wanted and made certain she was happy with it before we cut it.
+### Can I see the actual slab before you cut it?
 
-**How do you make sure the countertops fit?**  
+Yes. We keep full slabs at the shop, so you can look at the whole piece instead of a small square sample. One customer said we found the piece of stone they wanted and made certain they were happy with it before we cut it.
+
+### How do you make sure the countertops fit?
+
 We come to your home and make a template first. One customer said the template visit took four hours and the install was an absolute perfect fit. On layouts with many angles, we also match the stone pattern across the joints.
 
-**When is the showroom open?**  
+### When is the showroom open?
+
 Monday to Friday from 8 AM to 5 PM. We are closed on Saturday and Sunday. The showroom and stone yard are at 2347 GA-247CONN in Byron, GA. Call (478) 956-2222 if you would like to check on a slab before you drive over.
 
-**Do you do more than kitchen counters?**  
-Yes. We have made stone accents for powder rooms and laundry rooms, counters for a themed room in a color we had never fabricated before, and an altar and baptismal font for a church. Tile and flooring are also part of our work.
+### Do you do more than kitchen counters?
 
-**How quickly can I get a price?**  
+Yes. We have made stone accents for powder rooms and laundry rooms, counters for a themed room in a color we had never fabricated before, and an altar and baptismal font for a church. Tile is in our name too, so ask about tile work when you visit.
+
+### How quickly can I get a price?
+
 Bring your kitchen measurements or a drawing when you visit, or call us. Customers say we answered all their questions and got them a price quote quickly. The final number depends on the slab you choose and the layout we template.
 
 ## Come pick your slab
 
 Visit the yard in Byron or call to get your countertop quote started.
 
-[Call (478) 956-2222](tel:+14789562222) | (478) 956-2222
+Button: Call (478) 956-2222 (tel:+14789562222) | Phone: (478) 956-2222
 
 ## Footer
 
-Raccoon Stone & Tile Works  
-2347 GA-247CONN, Byron, GA 31008, United States  
-Phone: (478) 956-2222  
-Email: raccoonstoneandtile@gmail.com  
-Socials: https://www.facebook.com/100057276745410, https://www.google.com/maps/place/?q=place_id:ChIJ-ZisyzXm84gRug4KD2uOJak&hl=en  
-Hours: Mon to Fri 8 AM to 5 PM, Sat and Sun closed
+- Raccoon Stone & Tile Works
+- 2347 GA-247CONN, Byron, GA 31008, United States
+- Phone: (478) 956-2222
+- Email: raccoonstoneandtile@gmail.com
+- Socials: https://www.facebook.com/100057276745410, https://www.google.com/maps/place/?q=place_id:ChIJ-ZisyzXm84gRug4KD2uOJak&hl=en
+- Hours: Mon to Fri 8 AM to 5 PM, Sat and Sun closed
 
----
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Raccoon Stone & Tile Works",
+ "url": null,
+ "telephone": "+14789562222",
+ "email": "raccoonstoneandtile@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "2347 GA-247CONN",
+  "addressLocality": "Byron",
+  "addressRegion": "GA",
+  "postalCode": "31008",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Byron, GA",
+  "Central Georgia"
+ ],
+ "openingHours": "Mo-Fr 08:00-17:00",
+ "sameAs": [
+  "https://www.facebook.com/100057276745410",
+  "https://www.google.com/maps/place/?q=place_id:ChIJ-ZisyzXm84gRug4KD2uOJak&hl=en"
+ ],
+ "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLchW4tzwvGWZfeefz49uQpU_bDw6OhYmJXlpl_yHz97TnYOYnkMKVVo8_TBXasBaNWbD-b8zqlidx73G8pK4uqZyHw5kz5g9ag9b7QXOmFXysyr08BIf_SJqI6l-2WxYaPhk3AspCB5-rN5=s0"
+}
+```
+
+## Image plan
+
+13 slots use real photos, 1 slots use AI illustrations.
+
+- hero: images/maps_02.jpg (real). Alt: Long L-shaped white stone countertop over light wood cabinets, one of the stone countertops by Raccoon Stone & Tile Works in Byron, GA
+- service:Granite and natural stone countertops: images/maps_01.jpg (real). Alt: Brown and cream granite countertop with a full stone backsplash on white cabinets
+- service:Kitchen remodeling: images/maps_06.jpg (real). Alt: Kitchen with dark stained cabinets, a stone-topped island, light stone countertops and a white tile backsplash
+- service:Stone yard and slab selection: images/maps_07.jpg (real). Alt: Close-up of a speckled white, grey and black granite island top cut from a full slab
+- service:Custom stone pieces: AI ai_service_custom_stone.jpg. Alt: Illustration of a powder room with a custom stone vanity top and stone backsplash ledge
+  - Prompt: Photorealistic photo of a small powder room in a central Georgia brick home with a custom-fabricated natural stone vanity top and matching stone backsplash ledge in warm cream and grey granite, white vessel sink, oil-rubbed bronze faucet, soft slate blue-green walls, natural light from a small window, clean and empty, no people, no faces, no text, no logos, no brand names, 4:3
+- about: images/cover.jpg (real). Alt: Outdoor stone yard with rows of full slabs and the Raccoon Stone Works truck in Byron, GA
+- gallery_1: images/maps_06.jpg (real). Alt: Large kitchen with dark stained cabinets, stone island, light countertops and white tile backsplash under pendant lights
+- gallery_2: images/maps_03.jpg (real). Alt: Kitchen with dark wood cabinets, stone island and light stone countertops along the window wall
+- gallery_3: images/maps_04.jpg (real). Alt: Light stone countertop meeting a white subway tile backsplash beside dark stained cabinets
+- gallery_4: images/maps_05.jpg (real). Alt: Angled stone countertop run with a raised section and outlet, during backsplash work
+- gallery_5: images/maps_07.jpg (real). Alt: Speckled white and black granite island top beside white cabinets and wood floor
+- gallery_6: images/maps_01.jpg (real). Alt: Brown and cream granite countertop with full stone backsplash on white cabinets
+- gallery_7: images/cover.jpg (real). Alt: Rows of full stone slabs in the Raccoon Stone & Tile Works yard
+- final_cta: images/maps_02.jpg (real). Alt: Long white stone countertop over light wood cabinets
 
 ## Brand
 
 - Logo: none
 - Palette: primary #344E51, accent #B8946A, light #F3F5F4, dark #101B1D
 - Palette note: No logo. Primary #344E51 and dark #101B1D come from brand.json (taken from the Facebook cover photo of the stone yard; #BCD1D8 and #273738 are also available for tints). The warm accent #B8946A is proposed from the granite colors in the countertop photos, because the cover palette has no warm tone for buttons.
-- Fonts: Fraunces (headings), Work Sans (body)
+- Fonts: Fraunces (headings) / Work Sans (body)
 - Tagline: none
 - Style direction: Solid and natural: deep blue-green slate tones, a warm stone accent, big close-up countertop photos that show the veining and seams.
 
-### Images not to use
+## Images not to use
 
+- none
 
-## Outreach (not on the page)
+## Outreach
 
 - Specific detail: Michael Evangelo wrote that you keep full slabs at the shop while other places show one-foot squares, and that your template visit took four hours and gave an absolute perfect fit. Shawn Carpenter praised the cutter who matched the natural pattern on his multi-angled kitchen.
 - Angle: You have 44 Google reviews, 641 Facebook followers and a stone yard that customers compare favorably with Atlanta, but no website. A homepage could show the yard and your seam work to people deciding where to buy their countertops.
@@ -171,19 +229,20 @@ Hours: Mon to Fri 8 AM to 5 PM, Sat and Sun closed
 
 ## Facts used
 
-- Name, category Kitchen remodeler, address 2347 GA-247CONN, Byron, GA 31008, phone +1 478-956-2222 (Google Maps)
-- Rating 4.6 from 44 reviews; 37 photos (Google Maps)
-- Hours Mon to Fri 8 AM to 5 PM, Sat and Sun closed (Google Maps)
-- Review topics: counter top 12, helpful staff 8, pattern matching 2, material selection 2; snippets 'Answered all our questions and got a price quote for us quickly', 'remodel our kitchen', 'Friendly staff and beautiful stone slabs' (Google Maps review summary)
-- Pattern matching on a multi-angular layout, almost seamless joints, coordination with other suppliers, chose the exact stone before cutting (Google review, Shawn Carpenter, a year ago)
-- Full slabs at the shop vs 1-foot samples elsewhere; 4-hour template visit; perfect fit (Google review, Michael Evangelo, 8 years ago)
-- 'We have served central Georgia ...' and 'Come browse our full stone yard and meet our team!' (Facebook About via Gemini)
-- Showroom at 2347 HWY 247 Connector; stone accents in a powder room and laundry room (Facebook post Dec 2, 2024 https://www.facebook.com/100057276745410/posts/the-added-stone-fabrication-accents-give-this-powder-room-and-laundry-room-a-uni/1094307962488418/)
-- First time fabricating a color, counters for a themed room (Facebook post Jul 31, 2025 https://www.facebook.com/100057276745410/posts/this-is-the-first-time-we-have-ever-fabricated-this-color-these-beautiful-counte/1276249874294225/)
-- In 2007 selected to create the altar, ambo, tabernacle base and baptismal font at Sacred Heart (Facebook post Mar 12, 2024 https://www.facebook.com/100057276745410/posts/in-2007-raccoon-stone-and-tile-was-selected-to-create-the-altar-ambo-tabernacle-/918286236757259/)
-- Services kitchen remodeling, countertops, flooring (Gemini summary of Facebook)
-- Email raccoonstoneandtile@gmail.com (contractorsup.com listing (quote via Gemini))
-- Stone yard with rows of slabs and a 'Raccoon Stone Works' truck (images/cover.jpg (Facebook cover))
+- Name, category Kitchen remodeler, address 2347 GA-247CONN, Byron, GA 31008, phone +1 478-956-2222 (source: Google Maps)
+- Rating 4.6 from 44 reviews; 37 photos (source: Google Maps)
+- Hours Mon to Fri 8 AM to 5 PM, Sat and Sun closed (source: Google Maps)
+- Review topics: counter top 12, helpful staff 8, pattern matching 2, material selection 2; snippets 'Answered all our questions and got a price quote for us quickly', 'remodel our kitchen', 'Friendly staff and beautiful stone slabs' (source: Google Maps review summary)
+- Pattern matching on a multi-angular layout, almost seamless joints, coordination with other suppliers, chose the exact stone before cutting (source: Google review, Shawn Carpenter, a year ago)
+- Full slabs at the shop vs 1-foot samples elsewhere; 4-hour template visit; perfect fit (source: Google review, Michael Evangelo, 8 years ago)
+- 'We have served central Georgia ...' and 'Come browse our full stone yard and meet our team!' (source: Facebook About via Gemini)
+- Showroom at 2347 HWY 247 Connector; stone accents in a powder room and laundry room (source: Facebook post Dec 2, 2024 https://www.facebook.com/100057276745410/posts/the-added-stone-fabrication-accents-give-this-powder-room-and-laundry-room-a-uni/1094307962488418/)
+- First time fabricating a color, counters for a themed room (source: Facebook post Jul 31, 2025 https://www.facebook.com/100057276745410/posts/this-is-the-first-time-we-have-ever-fabricated-this-color-these-beautiful-counte/1276249874294225/)
+- In 2007 selected to create the altar, ambo, tabernacle base and baptismal font at Sacred Heart (source: Facebook post Mar 12, 2024 https://www.facebook.com/100057276745410/posts/in-2007-raccoon-stone-and-tile-was-selected-to-create-the-altar-ambo-tabernacle-/918286236757259/)
+- Services kitchen remodeling, countertops, flooring (source: Gemini summary of Facebook)
+- Email raccoonstoneandtile@gmail.com (source: contractorsup.com listing (quote via Gemini))
+- Stone yard with rows of slabs and a 'Raccoon Stone Works' truck (source: images/cover.jpg (Facebook cover))
+- 'We had them remodel our kitchen and did an outstanding job at a great price!' (source: Google Maps review summary)
 
 ## Missing
 
@@ -193,8 +252,9 @@ Hours: Mon to Fri 8 AM to 5 PM, Sat and Sun closed
 - Free estimates or quotes not stated as free; CTA says 'Request a countertop quote'
 - Stone types stocked (granite, quartz, marble, quartzite) not listed; copy says stone and granite only where photos show it
 - Town of Sacred Heart church not given
-- No photos of tile, flooring, powder room or laundry room work
 - No logo; palette from the Facebook cover photo
 - Instagram account not found (Gemini mentions 60 followers but no URL)
 - Gemini reviews were unrelated web text (Salesforce, Rotten Tomatoes, Yelp blurbs); not used
 - Website URL for schema to be filled in at publish
+- Tile and flooring: only the business name and Gemini's unverified summary mention them, with no photos or reviews, so the tile and flooring card was removed; confirm before adding
+- No photos of the powder room, laundry room, themed room or church pieces, so the custom stone card uses an AI illustration

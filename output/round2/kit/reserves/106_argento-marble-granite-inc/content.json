@@ -3,7 +3,7 @@
  "business_name": "Argento Marble & Granite Inc",
  "seo": {
   "title_tag": "Granite Countertops in Carbondale | Argento Marble & Granite",
-  "meta_description": "Argento Marble & Granite Inc makes granite countertops in Carbondale, CO, plus marble, tile and cabinet installs. 1101 Dolores Way. Call (970) 963-7070.",
+  "meta_description": "Argento Marble & Granite Inc installs granite countertops in Carbondale, CO, plus marble, tile and cabinet installs. 1101 Dolores Way. Call (970) 963-7070.",
   "primary_keyword": "granite countertops Carbondale",
   "secondary_keywords": [
    "marble countertops Carbondale",
@@ -28,7 +28,12 @@
    "Marble, granite and tile",
    "Led by company president Daniel"
   ],
-  "image": null,
+  "image": {
+   "file": null,
+   "ai_file_name": "ai_hero.jpg",
+   "ai_prompt": "Photorealistic photo of a finished kitchen in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window: a large island and perimeter counters in polished grey-and-white granite with a squared eased edge, warm white oak cabinets, graphite-grey lower cabinets, brushed brass pulls, wide plank oak floor, bright natural light, tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 16:9 aspect ratio.",
+   "alt": "Illustration of a Carbondale, CO mountain-home kitchen with granite countertops on a large island"
+  },
   "primary_cta": {
    "label": "Call (970) 963-7070",
    "href": "tel:+19709637070"
@@ -37,8 +42,8 @@
  "intro": {
   "h2": "Granite countertops in Carbondale, from the slab to the install",
   "paragraphs": [
-   "Argento Marble & Granite Inc supplies and installs granite countertops in Carbondale from its location at 1101 Dolores Way. As the name says, the company works in marble and granite, and Google lists it as a tile contractor too.",
-   "Kitchen work is the core of what the company does: its Facebook page centres on countertop projects and kitchen remodeling, and a Google review describes a countertop and cabinet installation. If you are replacing tops or redoing a kitchen, call (970) 963-7070 to talk about stone, layout and timing, and ask how the project will be handled from removal of the old tops to the final install."
+   "Argento Marble & Granite Inc installs granite countertops in Carbondale from its location at 1101 Dolores Way. As the name says, the company works in marble and granite, and Google lists it as a tile contractor too.",
+   "Kitchen work is the core of what the company does: its Facebook page centers on countertop projects and kitchen remodeling, and a Google review describes a countertop and cabinet installation. If you are replacing tops or redoing a kitchen, call (970) 963-7070 to talk about stone, layout and timing, and ask how the project will be handled from removal of the old tops to the final install."
   ]
  },
  "services": {
@@ -47,22 +52,42 @@
    {
     "name": "Granite countertops",
     "blurb": "Granite is in the company name and at the center of its kitchen work. Talk with Argento about slabs for your kitchen or bath, the layout of seams and cutouts, and how the old countertops will come out before the new ones go in.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_granite.jpg",
+     "ai_prompt": "Photorealistic close view of a newly installed speckled black, grey and white granite countertop with an undermount stainless sink and a clean seamless corner, graphite cabinets below, soft natural light, in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Speckled granite countertop with an undermount sink on graphite cabinets"
+    }
    },
    {
     "name": "Marble countertops",
     "blurb": "Marble is the other half of the Argento name. It suits bathrooms, islands and spaces where you want a softer, veined look. Ask the team which stone fits how you use the room and what care each option needs.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_marble.jpg",
+     "ai_prompt": "Photorealistic photo of a bathroom vanity with a white marble top with soft grey veining, an undermount sink, brushed brass faucet and a round mirror, warm white oak vanity base, soft natural light from a window, in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "White veined marble vanity top with a brass faucet and oak vanity base"
+    }
    },
    {
     "name": "Tile",
     "blurb": "Google lists Argento Marble & Granite as a tile contractor. If your project includes a tile backsplash, floor or shower alongside new countertops, ask whether the same team can handle the tile so the stone and tile are planned together.",
-    "image": null
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_tile.jpg",
+     "ai_prompt": "Photorealistic photo of a kitchen wall with a freshly installed stone-look tile backsplash in soft grey, running from a granite countertop to the upper cabinets, crisp grout lines, natural light, in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Soft grey stone-look tile backsplash above a granite countertop"
+    }
    },
    {
     "name": "Countertop and cabinet installation",
-    "blurb": "A Google review describes a countertop and cabinet installation by the company, with the old cabinets and countertops removed first. Plumbing and electrical work is a separate trade, so ask up front who will handle those parts of your project.",
-    "image": null
+    "blurb": "A Google review describes a countertop and cabinet installation by the company, with the old cabinets and countertops taken out first. Ask how removal, installation and the hookup of sinks and appliances will be scheduled for your kitchen.",
+    "image": {
+     "file": null,
+     "ai_file_name": "ai_service_install.jpg",
+     "ai_prompt": "Photorealistic photo of a just-finished kitchen in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window: new warm oak cabinets topped with grey granite countertops, a sink and cooktop set into the stone, protective paper still on the floor near the doorway, clean and empty counters, natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+     "alt": "Just-finished kitchen with new oak cabinets and grey granite countertops"
+    }
    }
   ]
  },
@@ -79,7 +104,7 @@
    },
    {
     "title": "Kitchen-focused",
-    "text": "Kitchen remodeling and countertops are the services highlighted on the Argento Facebook page, and its project posts centre on countertop work in Carbondale."
+    "text": "Kitchen remodeling and countertops are the services highlighted on the Argento Facebook page, and its project posts center on countertop work in Carbondale."
    },
    {
     "title": "Talk to the person in charge",
@@ -89,10 +114,15 @@
  },
  "about": {
   "h2": "About Argento Marble & Granite",
-  "text": "Argento Marble & Granite Inc is a stone and tile business at 1101 Dolores Way in Carbondale, Colorado. Its work centres on marble and granite countertops for kitchens, along with tile, and a Google review describes the company carrying out a countertop and cabinet installation. The same review names Daniel as company president. The office can be reached by phone at (970) 963-7070 or by email at office@argentomarble.com, and a recent job listing for an office assistant and project estimator shows the company is growing its office team.",
+  "text": "Argento Marble & Granite Inc is a stone and tile business at 1101 Dolores Way in Carbondale, Colorado. Its work centers on marble and granite countertops for kitchens, along with tile, and a Google review describes the company carrying out a countertop and cabinet installation. The same review names Daniel as company president. The office can be reached by phone at (970) 963-7070 or by email at office@argentomarble.com. Send photos and rough measurements of your kitchen to start the conversation.",
   "owner_name": "Daniel",
   "owner_role": "Company president (first name only, from a Google review)",
-  "image": null
+  "image": {
+   "file": null,
+   "ai_file_name": "ai_about_slabs.jpg",
+   "ai_prompt": "Photorealistic photo of polished granite and marble slabs standing upright on A-frame racks in an outdoor stone yard in a Colorado mountain valley, red sandstone cliffs and pines in the background, clear afternoon light; no people, no faces, no text, no logos, no brand names; 4:5 aspect ratio.",
+   "alt": "Polished granite and marble slabs on racks in a stone yard below Colorado mountains"
+  }
  },
  "process": {
   "h2": "How a countertop project works",
@@ -106,12 +136,12 @@
     "text": "Talk through marble, granite and tile options, and decide on edges, seams and sink or cooktop cutouts for your layout."
    },
    {
-    "title": "Agree the scope",
-    "text": "Confirm in writing what Argento does, such as removal and installation, and which parts, like plumbing or electrical, other trades will handle."
+    "title": "Agree on the scope",
+    "text": "Confirm in writing what Argento will do, such as removal and installation, and which parts, like plumbing or electrical hookups, other trades will handle."
    },
    {
     "title": "Install and check",
-    "text": "After installation, look over the seams, cutouts and edges with the installer, and test the sink and appliances before the crew leaves."
+    "text": "Once the tops are in, look over the seams, cutouts and edges with the installer before the job is signed off."
    }
   ]
  },
@@ -145,16 +175,16 @@
     "a": "The company works in marble and granite countertops and is listed on Google as a tile contractor. Its Facebook page lists countertops and kitchen remodeling, and a Google review describes a countertop and cabinet installation. Call (970) 963-7070 to talk about your project."
    },
    {
-    "q": "Do you handle plumbing and electrical work?",
-    "a": "Those are separate licensed trades. A past customer's project needed plumbing and electrical work to finish a countertop and cabinet installation, so before work begins, agree in writing who is responsible for disconnecting and reconnecting sinks, cooktops and outlets, and who will check that work once it is done."
+    "q": "Can you install cabinets as well as countertops?",
+    "a": "A Google review describes a countertop and cabinet installation by Argento, with the old cabinets and countertops removed first. If your kitchen needs both, call (970) 963-7070 and ask how the company handles removal, installation and the work of other trades such as plumbing and electrical."
    },
    {
     "q": "Where are you located?",
-    "a": "Argento Marble & Granite Inc is at 1101 Dolores Way, Carbondale, CO 81623. Hours are not listed on Google, so call (970) 963-7070 or email office@argentomarble.com before visiting to make sure someone is in the office to meet you."
+    "a": "Argento Marble & Granite Inc is at 1101 Dolores Way, Carbondale, CO 81623. Hours are not listed on Google, so call (970) 963-7070 or email office@argentomarble.com before you visit to make sure someone is in the office to meet you and talk through your project."
    },
    {
     "q": "Who runs the company?",
-    "a": "A Google review names Daniel as the company president. For questions about scope, scheduling or a problem with a job, ask for him by name when you call (970) 963-7070, or write to office@argentomarble.com and ask that it be passed to him."
+    "a": "A Google review names Daniel as the company president. For questions about the scope or scheduling of your project, ask for him by name when you call (970) 963-7070, or write to office@argentomarble.com and ask that your message be passed to him."
    },
    {
     "q": "How do I get a quote for stone countertops?",
@@ -213,7 +243,7 @@
    "source": "Google Maps"
   },
   {
-   "fact": "Daniel is the company president; countertop/cabinet installation; old cabinets and countertops removed; plumbing and electrical needed to complete it",
+   "fact": "Daniel is the company president; countertop/cabinet installation; old cabinets and countertops removed; plumbing and electrical handled by another contractor",
    "source": "Google review by Erin M., 6 years ago (2 stars, not quoted on the page)"
   },
   {
@@ -225,13 +255,13 @@
    "source": "Facebook via Gemini https://www.facebook.com/Argento-Marble-Granite-107866728985834"
   },
   {
-   "fact": "Email office@argentomarble.com; job listing 'Office Assistant / Project Estimator' for Argento Marble LLC in Carbondale",
+   "fact": "Email office@argentomarble.com; job posting 'Office Assistant / Project Estimator' for Argento Marble LLC in Carbondale (posting date not captured; not used on the page)",
    "source": "https://talents.vaia.com/companies/tahoe-daily-tribune/carbondale/office-assistant-project-estimator-argento-marble-llc-103128806/"
   }
  ],
  "missing": [
   "CHECK FIRST: the email domain argentomarble.com suggests a website may exist or once existed; confirm there is no live site before pitching a 'first website'",
-  "Needs project photos: no photos on Google and none captured from Facebook; hero, services and gallery are empty",
+  "Needs project photos: no photos on Google and none captured from Facebook; the gallery is empty and every image slot (hero, 4 service cards, about, CTA) is an AI illustration",
   "Hours: not on Google",
   "Daniel's last name: not published",
   "Colorado has no state contractor licence; local licence or insurance details not found",
@@ -239,7 +269,8 @@
   "Testimonials: only one positive review exists in the capture ('Great', 7 years ago); the others are 2 stars and 1 star ('Terrible'), so the page has a single short testimonial. Fresh reviews are needed",
   "Rating badge left off: 4.2 from 9 reviews with recent negative reviews",
   "Instagram in research is @cjmarblegranite (C&J Marble & Granite, a different name); left out of socials and sameAs",
-  "Logo, colours and tagline: none found; gemini_reviews were unrelated web text, not used"
+  "Logo, colours and tagline: none found; gemini_reviews were unrelated web text, not used",
+  "Note for the reviewer: the 2-star review's plumbing and electrical complaint is not repeated on the page; that review is used only for Daniel's title and the cabinet installation"
  ],
  "brand": {
   "logo_file": null,
@@ -259,8 +290,66 @@
  },
  "images_not_to_use": [],
  "outreach": {
-  "specific_detail": "Their job listing for an Office Assistant / Project Estimator in Carbondale, which shows the business is busy enough to grow its office team.",
+  "specific_detail": "Their job posting for an Office Assistant / Project Estimator in Carbondale (listed under 'Argento Marble LLC'), which uses the same office@argentomarble.com address.",
   "angle": "The Google listing has no photos, no hours and a 4.2 rating pulled down by a few old complaints; a simple site with their own countertop photos and clear contact details would give Carbondale homeowners something better to judge them on.",
   "subject_line_idea": "Your Carbondale countertops, in photos"
- }
+ },
+ "image_plan": [
+  {
+   "slot": "hero",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_hero.jpg",
+   "ai_prompt": "Photorealistic photo of a finished kitchen in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window: a large island and perimeter counters in polished grey-and-white granite with a squared eased edge, warm white oak cabinets, graphite-grey lower cabinets, brushed brass pulls, wide plank oak floor, bright natural light, tidy and uncluttered; no people, no faces, no text, no logos, no brand names; 16:9 aspect ratio.",
+   "alt": "Illustration of a Carbondale, CO mountain-home kitchen with granite countertops on a large island"
+  },
+  {
+   "slot": "service:Granite countertops",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_granite.jpg",
+   "ai_prompt": "Photorealistic close view of a newly installed speckled black, grey and white granite countertop with an undermount stainless sink and a clean seamless corner, graphite cabinets below, soft natural light, in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Speckled granite countertop with an undermount sink on graphite cabinets"
+  },
+  {
+   "slot": "service:Marble countertops",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_marble.jpg",
+   "ai_prompt": "Photorealistic photo of a bathroom vanity with a white marble top with soft grey veining, an undermount sink, brushed brass faucet and a round mirror, warm white oak vanity base, soft natural light from a window, in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "White veined marble vanity top with a brass faucet and oak vanity base"
+  },
+  {
+   "slot": "service:Tile",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_tile.jpg",
+   "ai_prompt": "Photorealistic photo of a kitchen wall with a freshly installed stone-look tile backsplash in soft grey, running from a granite countertop to the upper cabinets, crisp grout lines, natural light, in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Soft grey stone-look tile backsplash above a granite countertop"
+  },
+  {
+   "slot": "service:Countertop and cabinet installation",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_service_install.jpg",
+   "ai_prompt": "Photorealistic photo of a just-finished kitchen in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window: new warm oak cabinets topped with grey granite countertops, a sink and cooktop set into the stone, protective paper still on the floor near the doorway, clean and empty counters, natural light; no people, no faces, no text, no logos, no brand names; 4:3 aspect ratio.",
+   "alt": "Just-finished kitchen with new oak cabinets and grey granite countertops"
+  },
+  {
+   "slot": "about",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_about_slabs.jpg",
+   "ai_prompt": "Photorealistic photo of polished granite and marble slabs standing upright on A-frame racks in an outdoor stone yard in a Colorado mountain valley, red sandstone cliffs and pines in the background, clear afternoon light; no people, no faces, no text, no logos, no brand names; 4:5 aspect ratio.",
+   "alt": "Polished granite and marble slabs on racks in a stone yard below Colorado mountains"
+  },
+  {
+   "slot": "final_cta",
+   "file": null,
+   "source": "ai",
+   "ai_file_name": "ai_cta_background.jpg",
+   "ai_prompt": "Photorealistic wide photo of a long grey granite kitchen island in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window, warm oak cabinets and brass pendant lights, evening light, uncluttered, darker graphite tones on one side so text can sit on top; no people, no faces, no text, no logos, no brand names; 21:9 aspect ratio.",
+   "alt": "Long grey granite kitchen island under brass pendant lights in evening light"
+  }
+ ]
 }
