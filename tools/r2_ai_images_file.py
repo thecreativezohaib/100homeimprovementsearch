@@ -3,11 +3,11 @@
 (output/round2/final/GEMINI_AI_IMAGES.md), plus the name map (AI_IMAGES_MAP.csv) that r2_import_ai.py uses to put
 the returned images into the right folders. File names are globally unique: <folder number>_<file name in the
 page's image plan>, e.g. 004_ai_service_backsplash.jpg -> homepages/004_ck-tile-and-home-repair-llc/images/ai_service_backsplash.jpg
-Usage: r2_ai_images_file.py [batch_size=20]"""
+Usage: r2_ai_images_file.py [batch_size] (default: all images in one list)"""
 import csv, os, re, sys
 
 F = "/home/user/100homeimprovementsearch/output/round2/final"
-per = int(sys.argv[1]) if len(sys.argv) > 1 else 20
+per = int(sys.argv[1]) if len(sys.argv) > 1 else 10**6
 rows = list(csv.DictReader(open(f"{F}/AI_IMAGE_PROMPTS.csv")))
 SIZES = {"16:9": "1920x1080", "4:3": "1600x1200", "4:5": "1200x1500", "21:9": "2520x1080"}
 items = []
@@ -25,16 +25,16 @@ with open(f"{F}/AI_IMAGES_MAP.csv", "w", newline="") as fh:
     w.writerows(items)
 
 batches = [items[i:i + per] for i in range(0, len(items), per)]
-out = [f"""# AI images for the 100 homepages ({len(items)} images in {len(batches)} batches)
+single = len(batches) == 1
+out = [f"""# AI images for the 100 homepages ({len(items)} images{'' if single else f' in {len(batches)} batches'})
 
 ## How to use this file
 1. Open a Gemini chat that can make images (Gemini app with image generation, or Google AI Studio with an image model).
-2. Upload this file and send: "Do the task in this file. Start with batch 1."
-3. When a batch is done, reply "Next batch" until all {len(batches)} batches are done. If the chat slows down or hits a
-   limit, start a new chat with this file and say "Start with batch N".
-4. Download the images. If Gemini gives a zip, keep it. If it shows images one by one, download each and make sure the
-   saved file has EXACTLY the name shown above it (for example `004_ai_service_backsplash.jpg`).
-5. Send me all the images (one zip or several). I put each one into the right business folder by its name.
+2. Upload this file and send: "Do the task in this file. Generate all {len(items)} images and give me one zip."
+3. If it stops before the end, reply "Continue from the next image, same rules" until every image is done.
+4. Download the zip. If it shows images one by one instead, download each and make sure the saved file has EXACTLY
+   the name shown under it (for example `004_ai_service_backsplash.jpg`).
+5. Send me the zip. I put each image into the right business folder by its name.
 
 ## Instructions for Gemini (follow exactly)
 ```
@@ -48,14 +48,14 @@ For every image:
 - Never include: people's faces, readable text, logos, brand names, watermarks, signatures, frames or borders.
 - Name the image file EXACTLY as its FILE NAME (lowercase, same underscores, .jpg). Never rename, number or shorten.
 - Under each image, write its FILE NAME on its own line so it can be matched.
-- Do one batch at a time, in order, without asking questions. At the end of each batch, if you can, put that batch's
-  images into a zip named ai_images_batch_<N>.zip, keeping the exact file names.
+- Generate ALL images in this file, in order, in one go, without asking questions or stopping between images.
+- When all are done, put every image into ONE zip named ai_images_all.zip, keeping the exact file names.
 - If an image fails a safety or quality check, retry once with the same prompt; if it fails again, write
   "FAILED: <file name>" and continue.
 ```
 """]
 for bi, b in enumerate(batches, 1):
-    out.append(f"\n## Batch {bi} of {len(batches)} ({len(b)} images)\n")
+    out.append(f"\n## Images\n" if single else f"\n## Batch {bi} of {len(batches)} ({len(b)} images)\n")
     for k, it in enumerate(b, 1):
         n = (bi - 1) * per + k
         out.append(f"\n### Image {n}\nFILE NAME: {it['file_name']}\nASPECT RATIO: {it['aspect_ratio']} (about {it['size']} px)\n"

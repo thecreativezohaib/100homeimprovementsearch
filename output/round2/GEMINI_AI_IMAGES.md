@@ -1,13 +1,12 @@
-# AI images for the 100 homepages (182 images in 10 batches)
+# AI images for the 100 homepages (182 images)
 
 ## How to use this file
 1. Open a Gemini chat that can make images (Gemini app with image generation, or Google AI Studio with an image model).
-2. Upload this file and send: "Do the task in this file. Start with batch 1."
-3. When a batch is done, reply "Next batch" until all 10 batches are done. If the chat slows down or hits a
-   limit, start a new chat with this file and say "Start with batch N".
-4. Download the images. If Gemini gives a zip, keep it. If it shows images one by one, download each and make sure the
-   saved file has EXACTLY the name shown above it (for example `004_ai_service_backsplash.jpg`).
-5. Send me all the images (one zip or several). I put each one into the right business folder by its name.
+2. Upload this file and send: "Do the task in this file. Generate all 182 images and give me one zip."
+3. If it stops before the end, reply "Continue from the next image, same rules" until every image is done.
+4. Download the zip. If it shows images one by one instead, download each and make sure the saved file has EXACTLY
+   the name shown under it (for example `004_ai_service_backsplash.jpg`).
+5. Send me the zip. I put each image into the right business folder by its name.
 
 ## Instructions for Gemini (follow exactly)
 ```
@@ -21,13 +20,13 @@ For every image:
 - Never include: people's faces, readable text, logos, brand names, watermarks, signatures, frames or borders.
 - Name the image file EXACTLY as its FILE NAME (lowercase, same underscores, .jpg). Never rename, number or shorten.
 - Under each image, write its FILE NAME on its own line so it can be matched.
-- Do one batch at a time, in order, without asking questions. At the end of each batch, if you can, put that batch's
-  images into a zip named ai_images_batch_<N>.zip, keeping the exact file names.
+- Generate ALL images in this file, in order, in one go, without asking questions or stopping between images.
+- When all are done, put every image into ONE zip named ai_images_all.zip, keeping the exact file names.
 - If an image fails a safety or quality check, retry once with the same prompt; if it fails again, write
   "FAILED: <file name>" and continue.
 ```
 
-## Batch 1 of 10 (20 images)
+## Images
 
 ### Image 1
 FILE NAME: 004_ai_service_backsplash.jpg
@@ -129,8 +128,6 @@ FILE NAME: 032_ai_service_tub_surround.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
 PROMPT: Photorealistic photo of a modest bathroom in a central Maine home with a new white alcove tub and a clean white shower surround with a built-in shelf, chrome fixtures, a simple white vanity, light gray wood-look plank floor and soft natural daylight from a small window. Clean, practical and finished, no clutter. No people, no faces, no text, no logos, no brand names.
 
-## Batch 2 of 10 (20 images)
-
 ### Image 21
 FILE NAME: 037_ai_service_remodel.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
@@ -230,8 +227,6 @@ PROMPT: Photorealistic photo of a remodeled bathroom in an older Pennsylvania ho
 FILE NAME: 056_ai_cta_background.jpg
 ASPECT RATIO: 21:9 (about 2520x1080 px)
 PROMPT: Photorealistic wide photo of a tree-lined street of older two-story homes in a small northwestern Pennsylvania town, one house with a freshly built covered front porch with white railings, early evening light, in deep navy, light steel blue and clean white, no people, no faces, no text, no logos, no house numbers, no brand names.
-
-## Batch 3 of 10 (20 images)
 
 ### Image 41
 FILE NAME: 058_ai_service_vanity.jpg
@@ -333,8 +328,6 @@ FILE NAME: 071_ai_service_front_door.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
 PROMPT: Photorealistic photo of a newly installed front entry door on a traditional brick and siding suburban home in the western suburbs of Chicago: a solid wood-look door in a warm brown stain with a narrow glass panel, black hardware, crisp white trim, a simple covered stoop with a potted plant, soft natural daylight, no people, no faces, no text, no house numbers, no logos, no brand names.
 
-## Batch 4 of 10 (20 images)
-
 ### Image 61
 FILE NAME: 072_ai_service_kitchen_backsplash.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
@@ -434,8 +427,6 @@ PROMPT: Photorealistic photo of newly installed upper and lower kitchen cabinets
 FILE NAME: 077_ai_cta_shop.jpg
 ASPECT RATIO: 21:9 (about 2520x1080 px)
 PROMPT: Photorealistic wide photo inside a small cabinet shop: finished oak and painted cabinet doors leaning in a drying rack, stacked hardwood boards, warm light through high windows, shallow depth of field, oak, fieldstone and steel blue tones, no people, no faces, no text, no logos, no brand names.
-
-## Batch 5 of 10 (20 images)
 
 ### Image 81
 FILE NAME: 078_ai_service_bathroom.jpg
@@ -537,8 +528,6 @@ FILE NAME: 083_ai_service_tile.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
 PROMPT: Photorealistic photo of a bright Southern kitchen floor laid with large warm beige travertine-look porcelain tiles in a staggered pattern, white shaker cabinets and a dark granite counter edge at the top of the frame, soft natural daylight, warm beige and brown palette, no people, no text, no logos, no brand names.
 
-## Batch 6 of 10 (20 images)
-
 ### Image 101
 FILE NAME: 083_ai_about_tools.jpg
 ASPECT RATIO: 4:5 (about 1200x1500 px)
@@ -638,8 +627,6 @@ PROMPT: Photorealistic wide close-up of white marble subway tile and a marble fi
 FILE NAME: 088_ai_service_kitchen_bath.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
 PROMPT: Photorealistic photo of a remodeled kitchen in a modest older two-story home in southeast Ohio: white shaker cabinets, a charcoal island with a warm stained oak top, light countertops, a white subway tile backsplash, wood-look plank floor, soft natural light, tidy and uncluttered; no people, no faces, no text, no logos, no brand names.
-
-## Batch 7 of 10 (20 images)
 
 ### Image 121
 FILE NAME: 088_ai_service_backsplash.jpg
@@ -741,8 +728,6 @@ FILE NAME: 093_ai_service_shaker_doors.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
 PROMPT: Photorealistic close-up photo of painted shaker cabinet doors in bright white and soft warm gray leaning side by side on a light stone kitchen counter, brushed nickel bar pulls, a few drawer fronts stacked beside them, soft natural daylight from a window on the left, calm neutral palette of white, warm gray and sage, no people, no text, no logos, no brand names.
 
-## Batch 8 of 10 (20 images)
-
 ### Image 141
 FILE NAME: 093_ai_service_planning.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
@@ -843,8 +828,6 @@ FILE NAME: 097_ai_service_remodel.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
 PROMPT: Photorealistic photo of a fully remodeled kitchen in a single-story brick ranch home, new shaker cabinets in slate blue and white, stone countertops in warm tan granite, a small island, pendant lights, wood-look floor, natural daylight, soft slate blue and warm tan stone tones, no people, no faces, no text, no logos, no brand names.
 
-## Batch 9 of 10 (20 images)
-
 ### Image 161
 FILE NAME: 097_ai_cta.jpg
 ASPECT RATIO: 21:9 (about 2520x1080 px)
@@ -944,8 +927,6 @@ PROMPT: Photorealistic photo of a kitchen wall with a freshly installed stone-lo
 FILE NAME: 100_ai_service_install.jpg
 ASPECT RATIO: 4:3 (about 1600x1200 px)
 PROMPT: Photorealistic photo of a just-finished kitchen in a mountain-modern home in Carbondale, Colorado, with Mount Sopris visible through the window: new warm oak cabinets topped with grey granite countertops, a sink and cooktop set into the stone, protective paper still on the floor near the doorway, clean and empty counters, natural light; no people, no faces, no text, no logos, no brand names.
-
-## Batch 10 of 10 (2 images)
 
 ### Image 181
 FILE NAME: 100_ai_about_slabs.jpg
