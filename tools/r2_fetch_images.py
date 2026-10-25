@@ -25,7 +25,9 @@ def get(j):
     if os.path.exists(path):
         return {**j, "file": path, "ok": True}
     try:
-        r = requests.get(j["url"], timeout=40, headers={"User-Agent": "Mozilla/5.0"})
+        # Facebook's lookaside image links only serve the image to its own link-preview crawler user agent
+        ua = "facebookexternalhit/1.1" if "fbsbx.com" in j["url"] or "fbcdn" in j["url"] else "Mozilla/5.0"
+        r = requests.get(j["url"], timeout=40, headers={"User-Agent": ua})
         if r.status_code != 200 or len(r.content) < 5000:
             return {**j, "ok": False, "why": f"http {r.status_code} size {len(r.content)}"}
         open(path, "wb").write(r.content)

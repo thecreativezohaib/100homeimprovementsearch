@@ -1,0 +1,198 @@
+{
+ "id": "001_example-kitchen-and-bath",
+ "business_name": "Example Kitchen & Bath",
+ "seo": {
+  "title_tag": "Kitchen Remodeling in Raleigh, NC | Example Kitchen & Bath",
+  "meta_description": "...",
+  "primary_keyword": "kitchen remodeling Raleigh",
+  "secondary_keywords": [
+   "bathroom remodel Raleigh",
+   "..."
+  ],
+  "og_title": "...",
+  "og_description": "..."
+ },
+ "hero": {
+  "eyebrow": "...",
+  "h1": "...",
+  "subheadline": "...",
+  "primary_cta": {
+   "label": "Call (919) 555-0100",
+   "href": "tel:+19195550100"
+  },
+  "secondary_cta": {
+   "label": "Request a free estimate",
+   "href": "#contact"
+  },
+  "trust_badges": [
+   "4.9 stars from 87 Google reviews",
+   "..."
+  ],
+  "image": {
+   "file": "images/maps_03.jpg",
+   "alt": "White shaker kitchen with quartz island in Clermont, FL"
+  }
+ },
+ "intro": {
+  "h2": "...",
+  "paragraphs": [
+   "...",
+   "..."
+  ]
+ },
+ "services": {
+  "h2": "...",
+  "items": [
+   {
+    "name": "...",
+    "blurb": "...",
+    "image": {
+     "file": "images/social_04.jpg",
+     "alt": "..."
+    }
+   }
+  ]
+ },
+ "why_choose_us": {
+  "h2": "...",
+  "items": [
+   {
+    "title": "...",
+    "text": "..."
+   }
+  ]
+ },
+ "about": {
+  "h2": "...",
+  "text": "...",
+  "owner_name": "...",
+  "owner_role": "...",
+  "image": {
+   "file": "images/... or null",
+   "alt": "..."
+  }
+ },
+ "process": {
+  "h2": "...",
+  "steps": [
+   {
+    "title": "...",
+    "text": "..."
+   }
+  ]
+ },
+ "gallery": {
+  "h2": "...",
+  "images": [
+   {
+    "file": "images/maps_07.jpg",
+    "alt": "...",
+    "caption": "..."
+   }
+  ]
+ },
+ "testimonials": {
+  "h2": "...",
+  "items": [
+   {
+    "name": "Jane D.",
+    "text": "exact words from the review",
+    "source": "Google",
+    "date": "2 months ago (as shown)"
+   }
+  ]
+ },
+ "service_area": {
+  "h2": "...",
+  "text": "...",
+  "towns": [
+   "..."
+  ]
+ },
+ "faq": {
+  "h2": "...",
+  "items": [
+   {
+    "q": "...",
+    "a": "..."
+   }
+  ]
+ },
+ "final_cta": {
+  "h2": "...",
+  "text": "...",
+  "button": {
+   "label": "...",
+   "href": "tel:..."
+  },
+  "phone": "(919) 555-0100"
+ },
+ "footer": {
+  "name": "...",
+  "address": "... or Serving <area>",
+  "phone": "...",
+  "email": "...",
+  "socials": [
+   "https://facebook.com/..."
+  ],
+  "hours": "... or null"
+ },
+ "schema_jsonld": {
+  "@context": "https://schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "name": "...",
+  "url": "...",
+  "telephone": "...",
+  "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "...",
+   "addressLocality": "...",
+   "addressRegion": "..",
+   "postalCode": "..."
+  },
+  "areaServed": [
+   "..."
+  ],
+  "sameAs": [
+   "..."
+  ],
+  "image": "https://..."
+ },
+ "facts_used": [
+  {
+   "fact": "...",
+   "source": "Google Maps / Facebook post <url> / Instagram / registry <url>"
+  }
+ ],
+ "missing": [
+  "licence number not published on site",
+  "..."
+ ],
+ "brand": {
+  "logo_file": "images/logo.jpg or null",
+  "palette": {
+   "primary": "#1F3A5F",
+   "accent": "#C8A24A",
+   "light": "#F6F2EA",
+   "dark": "#1B1B1B"
+  },
+  "palette_note": "taken from the logo / where the colours came from",
+  "fonts": {
+   "headings": "e.g. Playfair Display",
+   "body": "e.g. Inter"
+  },
+  "tagline": "exact slogan or null",
+  "style_direction": "one sentence on the look that suits this business"
+ },
+ "images_not_to_use": [
+  {
+   "file": "images/social_02.jpg",
+   "why": "seasonal graphic, not a project"
+  }
+ ],
+ "outreach": {
+  "specific_detail": "one real detail of their work or reviews to mention in the email",
+  "angle": "why a homepage now, from their facts",
+  "subject_line_idea": "..."
+ }
+}
