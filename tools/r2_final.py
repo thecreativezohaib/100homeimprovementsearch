@@ -64,6 +64,17 @@ def lint(d, c, r):
     return issues
 
 
+def link_ai(o, dst):
+    if isinstance(o, dict):
+        if o.get("ai_file_name") and not o.get("file") and os.path.exists(f"{dst}/images/{o['ai_file_name']}"):
+            o["file"] = f"images/{o['ai_file_name']}"
+        for v in o.values():
+            link_ai(v, dst)
+    elif isinstance(o, list):
+        for v in o:
+            link_ai(v, dst)
+
+
 pool = []
 for d in sorted(glob.glob(f"{K}/sites/[0-9]*_*") + glob.glob(f"{K}/reserves/[0-9]*_*") + glob.glob(f"{K}/extra/[0-9]*_*")):
     if not os.path.exists(f"{d}/content.json"):
@@ -96,12 +107,23 @@ for group, items in (("homepages", final), ("reserves", reserves), ("do_not_cont
         shutil.copytree(p["dir"], dst)
         c = p["c"]
         c["id"] = new
+        # AI images generated so far (r2_import_ai.py keeps them by business slug): link each slot to its file
+        ai_dir = f"{O}/ai_images/{slug}"
+        if group == "homepages" and os.path.isdir(ai_dir):
+            for f in os.listdir(ai_dir):
+                shutil.copy(f"{ai_dir}/{f}", f"{dst}/images/{f}")
+            link_ai(c, dst)
+            md = open(f"{dst}/content.md").read()
+            md = re.sub(r"AI image `(ai_[a-z0-9_]+\.jpg)`", lambda m: f"AI image `images/{m.group(1)}`" if os.path.exists(f"{dst}/images/{m.group(1)}")
+                        else f"AI image `{m.group(1)}` (not generated yet)", md)
+            open(f"{dst}/content.md", "w").write(md)
         json.dump(c, open(f"{dst}/content.json", "w"), indent=1, ensure_ascii=False)
         r = p["r"]
         rows.append({"group": group, "folder": f"{group}/{new}", "business_name": r["business_name"], "phone": r["google"]["phone"],
                      "email": p["email"], "email_status": "unconfirmed" if p["unconfirmed"] else ("not usable" if p["reason"] else "checked"),
                      "facebook": r.get("facebook_url") or "", "instagram": r.get("instagram_url") or "", "google_maps": r["google"]["maps_url"],
                      "primary_keyword": (c.get("seo") or {}).get("primary_keyword", ""), "real_photos": p["real"], "ai_slots": p["ai"],
+                     "ai_images_missing": sum(1 for e in c.get("image_plan") or [] if e.get("source") == "ai" and not e.get("file")) if group == "homepages" else "",
                      "testimonials": p["tst"], "reason_not_contactable": p["reason"] or "",
                      "to_confirm": " | ".join(str(m) for m in (c.get("missing") or [])[:4]),
                      "outreach_detail": (c.get("outreach") or {}).get("specific_detail", ""), "lint_issues": "; ".join(p["lint"])})
@@ -109,7 +131,8 @@ for group, items in (("homepages", final), ("reserves", reserves), ("do_not_cont
             for e in c.get("image_plan") or []:
                 if e.get("source") == "ai":
                     prompts.append({"folder": f"homepages/{new}", "business_name": r["business_name"], "slot": e.get("slot"),
-                                    "save_as": f"images/{e.get('ai_file_name') or ''}", "prompt": e.get("ai_prompt"), "alt": e.get("alt", "")})
+                                    "save_as": f"images/{e.get('ai_file_name') or ''}", "prompt": e.get("ai_prompt"), "alt": e.get("alt", ""),
+                                    "generated": "yes" if e.get("file") else "no"})
 
 for fn, data in (("INDEX.csv", rows), ("AI_IMAGE_PROMPTS.csv", prompts)):
     with open(f"{F}/{fn}", "w", newline="") as fh:
@@ -119,6 +142,7 @@ for fn, data in (("INDEX.csv", rows), ("AI_IMAGE_PROMPTS.csv", prompts)):
 for f in ("CONTENT_BRIEF_R2.md", "content_schema_r2.json"):
     shutil.copy(f"{K}/{f}", f"{F}/{f}")
 nl = sum(1 for x in rows if x["group"] == "homepages" and x["lint_issues"])
+n_ai_done = sum(1 for x in prompts if x["generated"] == "yes")
 open(f"{F}/README.md", "w").write(f"""# Round 2 homepage kit (final)
 
 - `homepages/001..{len(final):03d}`: the {len(final)} businesses to build and contact, best first.
@@ -130,19 +154,21 @@ Each folder: `content.json` (the page, with `image_plan`), `content.md` (readabl
 confirm), `images/` (their own photos, logo when found), `images.json`, `brand.json`, `research.json`, `contact_sheet.jpg`.
 
 Images: every essential slot (hero, each service card, about, gallery, final CTA) has an image in `image_plan`. Real
-photos are used wherever one fits. Where none does, the slot has an AI prompt and a file name: generate it and save it
-under the folder's `images/` with that name. All prompts are listed in `AI_IMAGE_PROMPTS.csv`. Galleries use real photos
-only, so no AI picture is ever presented as the business's own project.
+photos are used wherever one fits. Where none does, the slot uses an AI image (`images/ai_*.jpg`, `"source": "ai"`,
+already cropped to the slot's shape). {n_ai_done} of {len(prompts)} AI images are in place; any still to generate have
+`"file": null` and are marked "no" in `AI_IMAGE_PROMPTS.csv` (prompt and file name included). Galleries use real photos
+only, so no AI picture is ever presented as the business's own project, and AI image alt text never claims it is.
 
 `INDEX.csv`: every business with contact details, email status, keyword, photo / AI / testimonial counts, the first
 items to confirm, the outreach detail, and any lint findings ({nl} homepage(s) with a lint note).
 """)
+exec(open(f"{R}/tools/r2_ai_images_file.py").read(), {"__name__": "r2_ai_images_file"})  # name map + Gemini file
 zp = f"{O}/R2_HOMEPAGE_KIT_FINAL.zip"
 with zipfile.ZipFile(zp, "w", zipfile.ZIP_DEFLATED) as z:
     for root, _, files in os.walk(F):
         for fn in files:
             p = os.path.join(root, fn)
             z.write(p, "R2_HOMEPAGE_KIT/" + os.path.relpath(p, F))
-print("homepages", len(final), "reserves", len(reserves), "do_not_contact", len(dnc), "ai prompts", len(prompts),
+print("homepages", len(final), "reserves", len(reserves), "do_not_contact", len(dnc), "ai prompts", len(prompts), "ai images in place", n_ai_done,
       "homepages with lint notes", nl, "unconfirmed emails in the 100", sum(p["unconfirmed"] for p in final),
       "zip MB", round(os.path.getsize(zp) / 1e6))
