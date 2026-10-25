@@ -3,7 +3,7 @@
 each image by its file name against output/round2/final/AI_IMAGES_MAP.csv, centre-crops it to the slot's aspect
 ratio, saves it as JPEG at the page's file name (homepages/<NNN_slug>/images/ai_*.jpg) and reports missing images.
 Usage: r2_import_ai.py <zip or folder> [...]"""
-import csv, io, os, sys, zipfile
+import csv, io, os, re, sys, zipfile
 from PIL import Image, ImageOps
 
 F = "/home/user/100homeimprovementsearch/output/round2/final"
@@ -13,8 +13,9 @@ found = {}
 
 
 def take(name, data):
-    stem = os.path.splitext(os.path.basename(name).lower())[0]
-    key = next((k for k in M if os.path.splitext(k)[0] == stem), None)
+    # browsers may add " (1)" or change the extension; the NNN_ai_name part is what matters
+    m = re.search(r"\d{3}_ai_[a-z0-9_]+", os.path.basename(name).lower())
+    key = next((k for k in M if m and os.path.splitext(k)[0] == m.group(0)), None)
     if not key:
         return
     r = M[key]
