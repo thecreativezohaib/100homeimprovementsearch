@@ -58,7 +58,7 @@ Image: AI image `images/ai_service_shiplap.jpg` (Bathroom wall with white horizo
 ## Why Funk homeowners call Tyler
 
 - **Tile work people rave about**: Katie J. calls Tyler's tile work phenomenal and says she would recommend him to anyone. Workmanship is one of the topics customers bring up in our Google reviews.
-- **You know the timeline**: Tyler updates you as the project moves, so you are never guessing about the schedule. The customer who told us that is already planning to hire Tyler on his next project.
+- **You know the timeline**: Tyler updates you as the project moves, so you are never guessing about the schedule. The customer who told us that is already planning to hire Tyler for the next project.
 - **Professional and timely**: Customers describe Tyler as very professional and say he does all of his work in a timely manner, which matters when a bathroom is out of use.
 - **Customers come back**: Our Google rating is 5.0 from seven reviews. Two of the customers quoted on this page plan to hire Tyler again, one of them for a future home build.
 
@@ -119,7 +119,7 @@ Yes. Customers say Tyler updates you on the project so you know the timeline, an
 
 **Where are you located?**
 
-Our address is 503 Main St, Funk, NE 68940. We are open Monday through Friday from 8 AM to 5 PM and closed on weekends. The quickest way to reach us is by phone at (308) 920-2616, and you can also email thouserconstruction@gmail.com.
+Our address is 503 Main St, Funk, NE 68940. The shop keeps weekday hours, Monday through Friday from 8 AM to 5 PM, and is closed Saturday and Sunday. The quickest way to reach us is by phone at (308) 920-2616, and you can also email thouserconstruction@gmail.com.
 
 **How do I get an estimate?**
 

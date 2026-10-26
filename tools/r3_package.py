@@ -31,6 +31,12 @@ def strings(o, path=""):
         yield path, o
 
 
+# businesses whose pages are kept but who should not be contacted first (red flags found while writing)
+RESERVE = {145: "working website on Google (renovations.work)", 193: "Google shows temporarily closed",
+           133: "no photos, no usable review, 1-star review", 119: "3.0 rating, 1-star review, email may be another business's",
+           16: "1-star review accuses the owner of lying about a permit", 33: "2.8 rating, 1-star review about damage",
+           34: "Google photos show another company (Perez Premium)", 20: "no own photos, email from another business's page",
+           14: "1-star review calls the owner a scam artist"}
 rows, prompts = [], []
 folders = [d for d in sorted(glob.glob(f"{K}/[0-9]*_*")) if os.path.exists(f"{d}/content.json")
            and (only is None or int(os.path.basename(d)[:3]) in only)]
@@ -58,7 +64,7 @@ for d in folders:
     issues = []
     for p, s in strings(c):
         quoted = re.search(r"testimonials", p)
-        if "—" in s:
+        if "—" in s and not quoted:  # a reviewer's own dash stays in a word-for-word quote
             issues.append(f"em dash at {p}")
         if not quoted and not re.search(r"missing|facts_used|images_not_to_use", p):
             issues += [f"'{b}' at {p}" for b in BANNED if b in s.lower()]
@@ -96,7 +102,14 @@ for d in folders:
         prompts.append({"file_name": f"{folder[:3]}_{e['ai_file_name']}", "aspect_ratio": ar, "size": SIZES[ar], "prompt": pr,
                         "folder": folder, "save_as": f"images/{e['ai_file_name']}", "business_name": r["business_name"],
                         "slot": e.get("slot")})
-    rows.append({"folder": folder, "business_name": r["business_name"], "phone": r["google"].get("phone"),
+    miss = " ".join(map(str, c.get("missing") or [])).lower()
+    flags = [f for f, k in (("kitchen and bath work not shown on Google", "kitchen and bath work not shown"),
+                            ("email or social may belong to another business", "different business"),
+                            ("town to confirm", "town from earlier research")) if k in miss]
+    n = int(folder[:3])
+    tier = "reserve" if n in RESERVE else ("ready_check" if flags[:2] and any(f in flags for f in flags[:2]) else "ready")
+    rows.append({"tier": tier, "reserve_reason": RESERVE.get(n, ""), "flags": "; ".join(flags),
+                 "folder": folder, "business_name": r["business_name"], "phone": r["google"].get("phone"),
                  "email": (c.get("footer") or {}).get("email", ""), "email_published_at": r["email"].get("published_at"),
                  "facebook": r.get("facebook_url") or "", "instagram": r.get("instagram_url") or "",
                  "google_maps": r["google"].get("maps_url"), "primary_keyword": seo.get("primary_keyword", ""),
@@ -128,7 +141,9 @@ write "FAILED: <file name>" and continue.
 
 ## Images
 """]
-for i, p in enumerate(prompts, 1):
+todo = [p for p in prompts if not os.path.exists(f"{K}/{p['folder']}/{p['save_as']}")]
+md[0] = md[0].replace(f"({len(prompts)} images)", f"({len(todo)} images)").replace(f"Generate all {len(prompts)} images", f"Generate all {len(todo)} images")
+for i, p in enumerate(todo, 1):
     md.append(f"\n### Image {i}\nFILE NAME: {p['file_name']}\nASPECT RATIO: {p['aspect_ratio']} (about {p['size']} px)\nPROMPT: {p['prompt']}\n")
 open(f"{K}/GEMINI_AI_IMAGES.md", "w").write("".join(md))
 nl = sum(1 for x in rows if x["lint_issues"])
@@ -147,20 +162,24 @@ published), `contact_sheet.jpg`.
 - AI slots (`"source": "ai"`) have a prompt and a file name; `GEMINI_AI_IMAGES.md` generates them all at once
   (names `<folder number>_<file>`). Galleries use real photos only.
 - `INDEX.csv`: contacts, keyword, photo / AI / testimonial counts, first items to confirm ({nl} with lint notes).
+- `homepages/`: businesses to contact (INDEX tier "ready", or "ready_check" when Google shows no kitchen and bath work or
+  the email was found on another business's page). `reserves/`: pages kept but with a red flag (INDEX reserve_reason).
 - `R3_B1_NEEDS.csv`: the batch 1 businesses that need more photos, a Maps link or reviews before a page can be built.
 """)
 zp = f"{O}/{name}.zip"
 with zipfile.ZipFile(zp, "w", zipfile.ZIP_DEFLATED) as z:
     for f in ("README.md", "INDEX.csv", "AI_IMAGE_PROMPTS.csv", "AI_IMAGES_MAP.csv", "GEMINI_AI_IMAGES.md"):
         z.write(f"{K}/{f}", f"{name}/{f}")
-    z.write(f"{O}/R3_B1_NEEDS.csv", f"{name}/R3_B1_NEEDS.csv")
+    for f in ("R3_B1_NEEDS.csv", "R3_B2_NEEDS.csv"):
+        z.write(f"{O}/{f}", f"{name}/{f}")
     for f in ("CONTENT_BRIEF_R2.md", "content_schema_r2.json"):
         z.write(f"{R}/output/round2/kit/{f}", f"{name}/{f}")
     for d in folders:
         for root, _, files in os.walk(d):
             for fn in files:
                 p = os.path.join(root, fn)
-                z.write(p, f"{name}/homepages/{os.path.relpath(p, K)}")
+                grp = "reserves" if int(os.path.basename(d)[:3]) in RESERVE else "homepages"
+                z.write(p, f"{name}/{grp}/{os.path.relpath(p, K)}")
 print("folders", len(rows), "| lint notes", nl, "| AI images", len(prompts), "| zip MB", round(os.path.getsize(zp) / 1e6, 1))
 for x in rows:
     print(x["folder"], x["real_photos"], "real,", x["ai_slots"], "AI,", x["testimonials"], "reviews |", x["lint_issues"][:150])

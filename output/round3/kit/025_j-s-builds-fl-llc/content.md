@@ -29,7 +29,7 @@ J&S Builds FL LLC does kitchen and bath remodeling in Palm Coast, FL, with a foc
 
 On the bathroom side, Lisa L. thanks Jef for a beautiful bathroom that is exactly what she wanted, and says using an extra bit of space in the room made the biggest difference. Another customer calls Jef pleasant, professional and quick to respond, and would have him back anytime.
 
-## Kitchen and bath remodeling services
+## Cabinets, kitchens and bathrooms in Palm Coast
 
 ### Cabinet installation
 
