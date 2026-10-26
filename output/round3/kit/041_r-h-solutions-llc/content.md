@@ -124,7 +124,7 @@ Tell us early. One homeowner decided she did not like her bedroom color after th
 
 Yes. Henry comes out to look at the job and gives you an estimate before work starts. The estimate process is one of the topics customers mention in our Google reviews, and one says she is beyond satisfied with the pricing, finished product and customer service.
 
-**What are your hours?**
+**What hours do you work?**
 
 We are open Monday through Saturday from 6 AM to 7 PM and closed on Sunday. Call (918) 304-1898 or email contact.rnhsolutions@yahoo.com to set up a time to look at your house. Early risers are welcome: our day starts at 6 AM.
 

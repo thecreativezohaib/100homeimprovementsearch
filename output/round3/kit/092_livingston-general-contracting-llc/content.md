@@ -123,7 +123,7 @@ Yes. We come out to look at the project and give you an estimate. One homeowner 
 
 Yes. Our photos show pressure-treated decks with wide stairs, capped posts and cable railings. One customer found us after seeing one of our decks in a Facebook post, and she has already recommended us to her family. Tell us how you plan to use the deck and we will suggest a layout.
 
-**When are you open?**
+**What are your business hours?**
 
 We are open Monday through Friday from 8 AM to 5 PM and closed on weekends. Call (812) 946-5652 or email livingstongeneralcontracting@gmail.com to set up an estimate visit. Photos of the space and a short description of what you want done help us prepare for the visit.
 

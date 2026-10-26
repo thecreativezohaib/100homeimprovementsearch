@@ -120,7 +120,7 @@ Yes. Small jobs come up in our Google reviews. One customer had us build a small
 
 Yes. One customer says Aric gave him a quote for his chimney cleaning, then showed up when scheduled and cleaned up afterward. To get started, call (207) 310-0007 or email gruntworkhandyman24@gmail.com with a short description and a photo or two of the job.
 
-**What are your hours?**
+**What days do you work?**
 
 We are open Monday through Friday from 8 AM to 4 PM and closed on Saturday and Sunday. Call during those hours to reach Aric, or send an email any time and we will get back to you on the next weekday.
 

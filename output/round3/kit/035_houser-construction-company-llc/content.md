@@ -126,7 +126,7 @@ Yes. Customers say Andrew explains in detail what needs to be done and answers e
 
 Yes. After installing new attic stairs, one customer says Andrew cleaned up everything. Another family says their siding replacement and cabinet removal were completed on time and with great attention to detail. Leaving your home tidy is part of the job.
 
-**When can I reach you?**
+**What days are you open?**
 
 We are open seven days a week, Monday through Sunday, from 8 AM to 6 PM. Call (201) 317-4194 to talk with Andrew about siding, a deck, attic stairs or a repair, or use the estimate request form on this page.
 

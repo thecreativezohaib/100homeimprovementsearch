@@ -119,7 +119,7 @@ It depends on the size and materials. For one customer, the crew showed up on Ap
 
 **Will the crew keep my home clean?**
 
-Yes. Our crew cleans up every day before leaving. One homeowner says the crew was incredibly tidy and quiet, and that every piece of furniture was taken off the deck and put back exactly where he wanted it at the end.
+Yes. Cleaning up at the end of each day is part of how the crew works. One homeowner says the crew was incredibly tidy and quiet, and that every piece of furniture was taken off the deck and put back exactly where he wanted it at the end.
 
 **Which areas do you serve?**
 
