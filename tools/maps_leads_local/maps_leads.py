@@ -18,8 +18,11 @@ Output (folder "maps_out" next to this script)
   qualified/<slug>/      place.json, reviews.json, images/ for every business that passed
   progress.log           what happened, line by line
 
-If Google shows a "unusual traffic" / CAPTCHA page, the script stops and waits: solve it in the window, then press
-Enter in the terminal. It never tries to hide or get around that.
+If Google shows a "unusual traffic" / CAPTCHA page, the script stops: with you at the laptop it waits for you to solve
+it and press Enter; overnight (--unattended) it waits 20, 40, then 60 minutes and tries again. It never tries to hide
+or get around the check. Overnight it also restarts Chrome if it crashes, and with --drive-folder it zips the results
+into your Google Drive for desktop folder every --upload-every businesses (same file name, so the shared link always
+opens the newest results).
 
 Setup (once)
   pip install playwright
@@ -27,6 +30,7 @@ Setup (once)
 Run
   python maps_leads.py                     (uses categories.txt and towns.txt)
   python maps_leads.py --max-per-search 40 --limit-searches 10   (a small test run first)
+  python maps_leads.py --unattended --drive-folder "G:/My Drive/maps_leads"   (overnight)
 """
 import argparse, csv, json, os, random, re, sys, time, urllib.request
 from pathlib import Path
@@ -85,12 +89,39 @@ def months_ago(text):
     return {"minute": 0, "hour": 0, "day": n / 30, "week": n / 4.3, "month": n, "year": n * 12}[m.group(2)]
 
 
+UNATTENDED = False
+BLOCKS = [0]
+
+
+def blocked(page):
+    return "/sorry/" in page.url or "unusual traffic" in (page.content()[:20000]).lower()
+
+
 def wait_if_blocked(page):
-    """Google sometimes asks the person at the keyboard to prove they are human: let them do it."""
-    if "/sorry/" in page.url or "unusual traffic" in (page.content()[:20000]).lower():
-        log("Google is asking for a check. Solve it in the browser window, then press Enter here.")
-        input()
+    """Google sometimes asks for a human check. Attended: you solve it and press Enter. Unattended (overnight):
+    the script stops working and waits (20 min, then 40, then 60) before trying again. It never tries to get
+    around the check."""
+    while blocked(page):
+        if not UNATTENDED:
+            log("Google is asking for a check. Solve it in the browser window, then press Enter here.")
+            input()
+        else:
+            BLOCKS[0] += 1
+            wait = min(60, 20 * BLOCKS[0])
+            log(f"Google is asking for a check: waiting {wait} minutes before trying again (you can also solve it in the window)")
+            for _ in range(wait * 6):
+                time.sleep(10)
+                try:
+                    if not blocked(page):
+                        break
+                except Exception:
+                    break
+            try:
+                page.reload(wait_until="domcontentloaded")
+            except Exception:
+                pass
         pause()
+    BLOCKS[0] = 0
 
 
 def accept_consent(page):
@@ -264,6 +295,67 @@ def download(url, path):
     return False
 
 
+def check_business(page, url, search):
+    """Open one listing, apply the criteria, and save everything for a business that passes."""
+    d = read_place(page, url)
+    row = {"search": search, **{k: d.get(k, "") for k in ("name", "category", "rating", "reviews", "phone", "address", "website", "maps_url")}}
+    site = d["website"]
+    reason = ""
+    if site and not SOCIAL.search(urlparse(site).netloc + urlparse(site).path):
+        reason = f"has a website ({urlparse(site).netloc})"
+    elif d["closed"]:
+        reason = "closed"
+    elif not d["rating"] or d["rating"] < MIN_RATING:
+        reason = f"rating {d['rating']}"
+    elif d["reviews"] < MIN_REVIEWS:
+        reason = f"{d['reviews']} reviews"
+    elif not KB_WORDS.search(d["category"] + " " + d["name"]):
+        reason = f"category {d['category']}"
+    reviews, photos = [], []
+    if not reason:
+        reviews = read_reviews(page, MAX_REVIEWS)
+        ages = [m for m in (months_ago(r["when"]) for r in reviews) if m is not None]
+        row["newest_review_months"] = round(min(ages), 1) if ages else ""
+        if not ages or min(ages) > MAX_NEWEST_REVIEW_MONTHS:
+            reason = "no review in the last %d months" % MAX_NEWEST_REVIEW_MONTHS
+    if not reason:
+        page.goto(d["maps_url"], wait_until="domcontentloaded")
+        wait_if_blocked(page)
+        page.wait_for_selector("h1.DUwDvf", timeout=20000)
+        pause()
+        photos = read_photos(page, MAX_PHOTOS)
+        row["photos"] = len(photos)
+        if len(photos) < MIN_PHOTOS:
+            reason = f"only {len(photos)} photos"
+    row["verdict"] = "FAIL" if reason else "PASS"
+    row["reason"] = reason
+    if not reason:
+        folder = QUAL / f"{slug(d['name'])}-{re.sub(r'[^0-9]', '', d['phone'])[-4:]}"
+        (folder / "images").mkdir(parents=True, exist_ok=True)
+        row["photos"] = sum(download(u, folder / "images" / f"maps_{i:02d}.jpg") for i, u in enumerate(photos, 1))
+        d.pop("overview", None)
+        json.dump({**d, "search": search, "photo_urls": photos}, open(folder / "place.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+        json.dump(reviews, open(folder / "reviews.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+    return row
+
+
+def publish(drive_folder):
+    """Zip maps_out into the Google Drive for desktop folder. The file keeps the same name, so Drive updates the
+    same file and its shared link always opens the newest results."""
+    if not drive_folder:
+        return
+    import shutil, zipfile
+    dst = Path(drive_folder)
+    dst.mkdir(parents=True, exist_ok=True)
+    tmp = HERE / "maps_out_latest.zip"
+    with zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as z:
+        for f in OUT.rglob("*"):
+            if f.is_file():
+                z.write(f, f.relative_to(HERE))
+    shutil.copyfile(tmp, dst / "maps_out_latest.zip")
+    log(f"results zipped to {dst / 'maps_out_latest.zip'} (Google Drive uploads it)")
+
+
 # ---- main ---------------------------------------------------------------------------------------------------------
 def main():
     ap = argparse.ArgumentParser()
@@ -271,7 +363,12 @@ def main():
     ap.add_argument("--towns", default=str(HERE / "towns.txt"))
     ap.add_argument("--max-per-search", type=int, default=60)
     ap.add_argument("--limit-searches", type=int, default=0, help="stop after this many searches (0 = all)")
+    ap.add_argument("--unattended", action="store_true", help="overnight: wait out Google checks instead of asking you")
+    ap.add_argument("--drive-folder", default="", help="a folder inside Google Drive for desktop, e.g. \"G:/My Drive/maps_leads\"")
+    ap.add_argument("--upload-every", type=int, default=1000, help="zip results to the Drive folder after this many businesses")
     args = ap.parse_args()
+    global UNATTENDED
+    UNATTENDED = args.unattended
     OUT.mkdir(exist_ok=True)
     QUAL.mkdir(exist_ok=True)
     cats = [l.strip() for l in open(args.categories, encoding="utf-8") if l.strip() and not l.startswith("#")]
@@ -283,12 +380,14 @@ def main():
     log(f"{len(searches)} searches planned, {len(done)} already done, {len(seen)} businesses seen, {passed} passed")
 
     with sync_playwright() as pw:
-        try:
-            browser = pw.chromium.launch(channel="chrome", headless=False)
-        except Exception:
-            browser = pw.chromium.launch(headless=False)
-        page = browser.new_page(locale="en-US", viewport={"width": 1400, "height": 950})
-        count = 0
+        def start():
+            try:
+                b = pw.chromium.launch(channel="chrome", headless=False)
+            except Exception:
+                b = pw.chromium.launch(headless=False)
+            return b, b.new_page(locale="en-US", viewport={"width": 1400, "height": 950})
+        browser, page = start()
+        count, since_upload, failures = 0, 0, 0
         for s in searches:
             if s in done:
                 continue
@@ -299,67 +398,51 @@ def main():
             try:
                 links = search_results(page, s, args.max_per_search)
             except Exception as e:
-                log(f"  search failed: {e}")
+                log(f"  search failed: {str(e)[:80]}; restarting the browser")
+                try:
+                    browser.close()
+                except Exception:
+                    pass
+                browser, page = start()
                 continue
             log(f"  {len(links)} businesses in the list")
             for url in links:
                 key = place_key(url)
                 if key in seen:
                     continue
-                row = {"place_key": key, "search": s}
                 try:
-                    d = read_place(page, url)
+                    row = check_business(page, url, s)
+                    failures = 0
                 except Exception as e:
-                    log(f"  could not open a listing: {str(e)[:80]}")
+                    log(f"  could not read a listing: {str(e)[:80]}")
+                    failures += 1
+                    if failures >= 5:  # the browser is probably stuck or closed: start a fresh one
+                        log("  restarting the browser")
+                        try:
+                            browser.close()
+                        except Exception:
+                            pass
+                        browser, page = start()
+                        failures = 0
                     continue
-                row.update({k: d.get(k, "") for k in ("name", "category", "rating", "reviews", "phone", "address", "website", "maps_url")})
-                site = d["website"]
-                reason = ""
-                if site and not SOCIAL.search(urlparse(site).netloc + urlparse(site).path):
-                    reason = f"has a website ({urlparse(site).netloc})"
-                elif d["closed"]:
-                    reason = "closed"
-                elif not d["rating"] or d["rating"] < MIN_RATING:
-                    reason = f"rating {d['rating']}"
-                elif d["reviews"] < MIN_REVIEWS:
-                    reason = f"{d['reviews']} reviews"
-                elif not KB_WORDS.search(d["category"] + " " + d["name"]):
-                    reason = f"category {d['category']}"
-                reviews, photos = [], []
-                if not reason:
-                    reviews = read_reviews(page, MAX_REVIEWS)
-                    ages = [m for m in (months_ago(r["when"]) for r in reviews) if m is not None]
-                    row["newest_review_months"] = round(min(ages), 1) if ages else ""
-                    if not ages or min(ages) > MAX_NEWEST_REVIEW_MONTHS:
-                        reason = "no review in the last %d months" % MAX_NEWEST_REVIEW_MONTHS
-                if not reason:
-                    page.goto(d["maps_url"], wait_until="domcontentloaded")
-                    page.wait_for_selector("h1.DUwDvf", timeout=20000)
-                    pause()
-                    photos = read_photos(page, MAX_PHOTOS)
-                    row["photos"] = len(photos)
-                    if len(photos) < MIN_PHOTOS:
-                        reason = f"only {len(photos)} photos"
-                row["verdict"] = "FAIL" if reason else "PASS"
-                row["reason"] = reason
-                if not reason:
-                    folder = QUAL / f"{slug(d['name'])}-{re.sub(r'[^0-9]', '', d['phone'])[-4:]}"
-                    (folder / "images").mkdir(parents=True, exist_ok=True)
-                    got = sum(download(u, folder / "images" / f"maps_{i:02d}.jpg") for i, u in enumerate(photos, 1))
-                    d.pop("overview", None)
-                    json.dump({**d, "search": s, "photo_urls": photos}, open(folder / "place.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
-                    json.dump(reviews, open(folder / "reviews.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
-                    passed += 1
-                    log(f"  PASS  {d['name']} | {d['rating']} ({d['reviews']}) | {got} photos saved | total passed {passed}")
+                row["place_key"] = key
+                passed += row["verdict"] == "PASS"
+                if row["verdict"] == "PASS":
+                    log(f"  PASS  {row['name']} | {row['rating']} ({row['reviews']}) | {row['photos']} photos | total passed {passed}")
                 else:
-                    log(f"  fail  {d['name'][:40]} | {reason}")
+                    log(f"  fail  {row['name'][:40]} | {row['reason']}")
                 write_row(row)
                 seen[key] = row["verdict"]
+                since_upload += 1
+                if since_upload >= args.upload_every:
+                    publish(args.drive_folder)
+                    since_upload = 0
                 pause()
             with open(DONE_SEARCHES, "a", encoding="utf-8") as f:
                 f.write(s + "\n")
             pause(3, 6)
         browser.close()
+    publish(args.drive_folder)
     log(f"done: {passed} passed. Zip the maps_out folder and share it.")
 
 

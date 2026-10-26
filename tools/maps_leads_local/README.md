@@ -26,5 +26,22 @@ python maps_leads.py
 - Stop any time with Ctrl+C; running it again continues where it stopped.
 - Change the criteria at the top of `maps_leads.py`, the searches in `categories.txt`, the places in `towns.txt`.
 
+## Overnight
+1. Install Google Drive for desktop (google.com/drive/download) and sign in. Your Drive appears as a drive letter
+   (Windows, usually `G:\My Drive`) or under Finder > Google Drive (Mac).
+2. Create a folder `maps_leads` in it.
+3. Stop the laptop from sleeping (Windows: Settings > System > Power > Sleep: Never, and plug it in).
+4. Run:
+   ```
+   python maps_leads.py --unattended --drive-folder "G:/My Drive/maps_leads"
+   ```
+   (Mac: `--drive-folder "$HOME/Library/CloudStorage/GoogleDrive-<your email>/My Drive/maps_leads"`)
+5. After the first upload (every 1,000 businesses, and at the end) a file `maps_out_latest.zip` appears in that Drive
+   folder. Right-click > Share > "Anyone with the link" > Copy link, and send me the link once: it always opens the
+   newest results.
+
+If Google asks for a human check during the night, the script simply waits (20, 40, 60 minutes) and tries again; it
+does not try to get around it. If it keeps happening, lower the pace by raising the numbers in `pause()`.
+
 ## Send the results
 Zip the `maps_out` folder (it holds `leads_all.csv` and `qualified/` with a folder per business) and share it.
