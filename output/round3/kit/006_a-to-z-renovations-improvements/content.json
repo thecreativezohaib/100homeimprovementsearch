@@ -35,11 +35,9 @@
    "Open Monday to Saturday"
   ],
   "image": {
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_hero_bathroom.jpg",
-   "ai_prompt": "Photorealistic photo of a freshly updated bathroom in a 1970s Lincoln, Nebraska ranch house: a new white alcove bathtub with a white subway tile shower surround and a chrome shower head, a sage green painted wall, a simple oak vanity with a white top, a light gray tile floor, morning daylight from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 16:9",
-   "alt": "Illustration of an updated bathroom with a new white tub and subway tile shower, remodeling and repairs Lincoln NE"
+   "file": "images/fb_15.jpg",
+   "source": "real",
+   "alt": "Remodeled kitchen with white shaker cabinets, black bar pulls, a glass mosaic backsplash, a stainless dishwasher and gray wood-look plank floor, by A to Z Renovations & Improvements, a remodeling and repairs contractor serving Lincoln, NE"
   }
  },
  "intro": {
@@ -61,6 +59,15 @@
      "ai_file_name": "ai_service_tub_shower.jpg",
      "ai_prompt": "Photorealistic photo of a newly installed white acrylic tub and shower combination with a clean white wall surround, chrome fixtures and a curved shower rod in a modest Midwestern home bathroom, warm sage accent towel, light gray vinyl floor, soft daylight, no people, no faces, no text, no logos, no brand names, 4:3",
      "alt": "Illustration of a new white tub and shower combination with chrome fixtures"
+    }
+   },
+   {
+    "name": "Kitchen remodeling",
+    "blurb": "This kitchen shows what a full refresh can look like: white shaker cabinets with matte black bar pulls, a glass mosaic tile backsplash, dark stone-look counters, a stainless range, microwave and dishwasher fitted into the run, and gray wood-look plank flooring through the kitchen and dining area.",
+    "image": {
+     "file": "images/fb_11.jpg",
+     "source": "real",
+     "alt": "White shaker kitchen cabinets with black bar pulls around a stainless range and over-the-range microwave, with a glass mosaic backsplash and gray plank floor"
     }
    },
    {
@@ -154,8 +161,44 @@
   ]
  },
  "gallery": {
-  "h2": "Recent outdoor projects",
+  "h2": "Recent projects",
   "images": [
+   {
+    "file": "images/fb_15.jpg",
+    "source": "real",
+    "alt": "Long run of white shaker cabinets with black bar pulls, a glass mosaic backsplash, a black sink and a stainless dishwasher, with a laundry area beyond",
+    "caption": "Kitchen remodel with glass mosaic backsplash"
+   },
+   {
+    "file": "images/fb_11.jpg",
+    "source": "real",
+    "alt": "White shaker cabinets around a stainless range and microwave beside a stainless refrigerator, with gray walls and wood-look plank floor",
+    "caption": "Range wall with new cabinets and backsplash"
+   },
+   {
+    "file": "images/fb_14.jpg",
+    "source": "real",
+    "alt": "View past a wooden dining table to a remodeled kitchen with white cabinets, gray walls and wood-look plank flooring running through the room",
+    "caption": "Open kitchen and dining area"
+   },
+   {
+    "file": "images/fb_07.jpg",
+    "source": "real",
+    "alt": "Aerial view of a new pressure-treated second-story deck on posts above a covered back porch beside a gray two-story house",
+    "caption": "Second-story deck over a back porch"
+   },
+   {
+    "file": "images/fb_10.jpg",
+    "source": "real",
+    "alt": "New pressure-treated deck with wide steps, side railings and lattice skirting at the back of a beige bungalow, above a flagstone patio",
+    "caption": "Back deck with wide steps"
+   },
+   {
+    "file": "images/fb_08.jpg",
+    "source": "real",
+    "alt": "New pressure-treated deck with a built-in bench, a lattice privacy screen and wide steps beside a sliding door",
+    "caption": "Deck with built-in bench"
+   },
    {
     "file": "images/maps_01.jpg",
     "source": "real",
@@ -167,6 +210,18 @@
     "source": "real",
     "alt": "Pressure-treated stair and landing with spindle railings built on a concrete pad",
     "caption": "New side-entry stairs and landing"
+   },
+   {
+    "file": "images/fb_04.jpg",
+    "source": "real",
+    "alt": "New pressure-treated deck and stairs with spindle railings beside a manufactured home, set on a fresh concrete pad",
+    "caption": "Deck and stairs at a manufactured home"
+   },
+   {
+    "file": "images/fb_09.jpg",
+    "source": "real",
+    "alt": "Pressure-treated steps and landing with railings at the side door of a beige manufactured home",
+    "caption": "Side-entry steps and landing"
    }
   ]
  },
@@ -234,9 +289,9 @@
   },
   "phone": "(531) 333-1054",
   "image": {
-   "file": "images/maps_01.jpg",
+   "file": "images/fb_07.jpg",
    "source": "real",
-   "alt": "Cedar-stained deck with cable railings wrapping a gray sunroom under tall cottonwood trees"
+   "alt": "Aerial view of a new pressure-treated second-story deck on posts above a covered back porch, with steps down to a concrete walk"
   }
  },
  "footer": {
@@ -271,11 +326,9 @@
  "image_plan": [
   {
    "slot": "hero",
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_hero_bathroom.jpg",
-   "ai_prompt": "Photorealistic photo of a freshly updated bathroom in a 1970s Lincoln, Nebraska ranch house: a new white alcove bathtub with a white subway tile shower surround and a chrome shower head, a sage green painted wall, a simple oak vanity with a white top, a light gray tile floor, morning daylight from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 16:9",
-   "alt": "Illustration of an updated bathroom with a new white tub and subway tile shower, remodeling and repairs Lincoln NE"
+   "file": "images/fb_15.jpg",
+   "source": "real",
+   "alt": "Remodeled kitchen with white shaker cabinets, black bar pulls, a glass mosaic backsplash, a stainless dishwasher and gray wood-look plank floor, by A to Z Renovations & Improvements, a remodeling and repairs contractor serving Lincoln, NE"
   },
   {
    "slot": "service:Tub and shower replacement",
@@ -284,6 +337,12 @@
    "ai_file_name": "ai_service_tub_shower.jpg",
    "ai_prompt": "Photorealistic photo of a newly installed white acrylic tub and shower combination with a clean white wall surround, chrome fixtures and a curved shower rod in a modest Midwestern home bathroom, warm sage accent towel, light gray vinyl floor, soft daylight, no people, no faces, no text, no logos, no brand names, 4:3",
    "alt": "Illustration of a new white tub and shower combination with chrome fixtures"
+  },
+  {
+   "slot": "service:Kitchen remodeling",
+   "file": "images/fb_11.jpg",
+   "source": "real",
+   "alt": "White shaker kitchen cabinets with black bar pulls around a stainless range and over-the-range microwave, with a glass mosaic backsplash and gray plank floor"
   },
   {
    "slot": "service:Basement remodeling",
@@ -315,40 +374,113 @@
   },
   {
    "slot": "gallery_1",
+   "file": "images/fb_15.jpg",
+   "source": "real",
+   "alt": "Long run of white shaker cabinets with black bar pulls, a glass mosaic backsplash, a black sink and a stainless dishwasher, with a laundry area beyond"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/fb_11.jpg",
+   "source": "real",
+   "alt": "White shaker cabinets around a stainless range and microwave beside a stainless refrigerator, with gray walls and wood-look plank floor"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/fb_14.jpg",
+   "source": "real",
+   "alt": "View past a wooden dining table to a remodeled kitchen with white cabinets, gray walls and wood-look plank flooring running through the room"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/fb_07.jpg",
+   "source": "real",
+   "alt": "Aerial view of a new pressure-treated second-story deck on posts above a covered back porch beside a gray two-story house"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/fb_10.jpg",
+   "source": "real",
+   "alt": "New pressure-treated deck with wide steps, side railings and lattice skirting at the back of a beige bungalow, above a flagstone patio"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/fb_08.jpg",
+   "source": "real",
+   "alt": "New pressure-treated deck with a built-in bench, a lattice privacy screen and wide steps beside a sliding door"
+  },
+  {
+   "slot": "gallery_7",
    "file": "images/maps_01.jpg",
    "source": "real",
    "alt": "Sunroom with black-framed sliding doors, a cedar-toned deck with cable railings and steps down to a patio"
   },
   {
-   "slot": "gallery_2",
+   "slot": "gallery_8",
    "file": "images/maps_02.jpg",
    "source": "real",
    "alt": "Pressure-treated stair and landing with spindle railings built on a concrete pad"
   },
   {
-   "slot": "final_cta",
-   "file": "images/maps_01.jpg",
+   "slot": "gallery_9",
+   "file": "images/fb_04.jpg",
    "source": "real",
-   "alt": "Cedar-stained deck with cable railings wrapping a gray sunroom under tall cottonwood trees"
+   "alt": "New pressure-treated deck and stairs with spindle railings beside a manufactured home, set on a fresh concrete pad"
+  },
+  {
+   "slot": "gallery_10",
+   "file": "images/fb_09.jpg",
+   "source": "real",
+   "alt": "Pressure-treated steps and landing with railings at the side door of a beige manufactured home"
+  },
+  {
+   "slot": "final_cta",
+   "file": "images/fb_07.jpg",
+   "source": "real",
+   "alt": "Aerial view of a new pressure-treated second-story deck on posts above a covered back porch, with steps down to a concrete walk"
   }
  ],
  "brand": {
-  "logo_file": null,
+  "logo_file": "images/logo.jpg",
   "palette": {
-   "primary": "#4E5A46",
-   "accent": "#B07A45",
-   "light": "#F4F1EA",
-   "dark": "#23261F"
+   "primary": "#3A3E3E",
+   "accent": "#CB2F31",
+   "light": "#F7F7F5",
+   "dark": "#111111"
   },
-  "palette_note": "No logo in images/. Taken from their photos: olive gray from the sunroom siding, cedar brown from the stained deck and railings, a warm off-white for backgrounds and a deep green-black for text.",
+  "palette_note": "Taken from their logo (images/logo.jpg, from their Facebook page): charcoal from the toolbox and the 'TO', red from the 'A', the 'Z' and the lettering, white from the logo background and near-black from its frame.",
   "fonts": {
    "headings": "Barlow Semi Condensed",
    "body": "Source Sans 3"
   },
-  "tagline": null,
-  "style_direction": "Friendly, sturdy and neighborly: olive and cedar tones, a simple A-to-Z list of services and Lee's name front and center, with large tap-to-call buttons."
+  "tagline": "Quality craftsmanship at an affordable price",
+  "style_direction": "Bold and friendly: their red and charcoal toolbox logo on white, a simple A-to-Z list of services, Lee's name front and center and large tap-to-call buttons."
  },
- "images_not_to_use": [],
+ "images_not_to_use": [
+  {
+   "file": "images/fb_02.jpg",
+   "why": "large two-story home with stone columns and balconies; the photo does not show which part was their work, so it is left out rather than guessed"
+  },
+  {
+   "file": "images/fb_05.jpg",
+   "why": "before or mid-project photo: tools, trim boards and a box on the table, unfinished wall patching"
+  },
+  {
+   "file": "images/fb_06.jpg",
+   "why": "before or mid-project photo of a bare room with personal items; not finished work"
+  },
+  {
+   "file": "images/fb_03.jpg",
+   "why": "same manufactured-home deck as fb_04 from farther away; used once to avoid repeats"
+  },
+  {
+   "file": "images/fb_12.jpg",
+   "why": "same second-story deck as fb_07 from another drone angle; used once to avoid repeats"
+  },
+  {
+   "file": "images/fb_13.jpg",
+   "why": "same second-story deck as fb_07 from another drone angle; used once to avoid repeats"
+  }
+ ],
  "outreach": {
   "specific_detail": "Kristen's egress window, where Lee also made sure the two damaged pieces of siding were replaced and the well had the proper cover.",
   "angle": "You have a 5.0 from 14 Google reviews and 68 photos, but your Google listing only points to Facebook and shows no town, so Lincoln homeowners cannot see what you do in one place. A homepage listing your A to Z of services, with Lee's reviews, would fix that.",
@@ -394,20 +526,35 @@
   {
    "fact": "Photos: cedar-stained deck with cable railings around a sunroom (maps_01), new pressure-treated stairs and landing (maps_02)",
    "source": "images/ from Google Maps, checked one by one"
+  },
+  {
+   "fact": "Email atozlincolnne@gmail.com verified: the HUD licensed installer list shows it with the Google phone 531-333-1054; it is also on their own Facebook page",
+   "source": "https://www.hud.gov/sites/default/files/Housing/documents/HUD-Licensed-Installer-List.pdf and https://www.facebook.com/atozrenovationsandimprovements/"
+  },
+  {
+   "fact": "Kitchen remodel photos: white shaker cabinets with black bar pulls, glass mosaic backsplash, stone-look counters, stainless range, microwave and dishwasher, gray wood-look plank floor (fb_11, fb_14, fb_15); supports the Kitchen remodeling service and the hero",
+   "source": "their own Facebook page https://www.facebook.com/atozrenovationsandimprovements/ (images/fb_*.jpg, checked one by one)"
+  },
+  {
+   "fact": "Deck and stair photos: second-story deck over a back porch (fb_07), back deck with wide steps and a built-in bench (fb_08, fb_10), decks and steps at manufactured homes (fb_04, fb_09)",
+   "source": "their own Facebook page https://www.facebook.com/atozrenovationsandimprovements/ (images/fb_*.jpg, checked one by one)"
+  },
+  {
+   "fact": "Logo (red and charcoal toolbox with 'A TO Z Renovations & Improvements') and tagline 'Quality craftsmanship at an affordable price'",
+   "source": "their own Facebook page https://www.facebook.com/atozrenovationsandimprovements/ (images/logo.jpg)"
   }
  ],
  "missing": [
-  "kitchen work not shown on Google (bath work is shown only by one tub and shower replacement review; the page leads with general remodeling and repairs)",
+  "kitchen and bath work not shown on Google (bath work appears only in one tub and shower review; one kitchen remodel appears in photos on their own Facebook page and is now a service card, the hero and the first gallery photos; the page still leads with general remodeling and repairs)",
   "town from earlier research, matches the phone's area code: confirm with owner (Lincoln, NE, used in the title, H1, intro, service area, footer and schema; Google shows no address or service area)",
-  "confirm email atozlincolnne@gmail.com (published at https://www.hud.gov/sites/default/files/Housing/documents/HUD-Licensed-Installer-List.pdf)",
   "hours: Google shows open 24 hours Monday to Saturday; the unverified notes say Mon to Fri 8 AM to 6 PM and Sat 9 AM to 3 PM. Confirm the real hours with the owner",
   "to confirm with owner: Lee's full name and role (the unverified notes say owner Lee Robert Schenaman)",
   "to confirm with owner: licensed and insured, HUD licence IL20231106 and USDOT 4370033 (unverified notes; the email appears on a HUD licensed installer list, which hints at manufactured home installation)",
   "to confirm with owner: bathtub refinishing, carpentry, concrete, drywall, doors, framing, flooring, electrical, HVAC, insulation, mobile home repairs and setting, painting, roofing and windows (unverified notes)",
-  "needs project photos: only 2 real photos, both exterior; no bathroom or basement photos (hero and three service cards use AI illustrations)",
   "Free estimates (not stated, so the CTA says 'Request an estimate')",
   "Years in business and warranty details",
-  "Logo and tagline (none in images/)",
-  "11 more Google reviews exist but were not captured"
+  "11 more Google reviews exist but were not captured",
+  "no bathroom, basement, egress window or siding photos yet: those three service cards still use AI illustrations; ask Lee for photos of that work",
+  "photo captions name no town or customer: the Facebook photos do not say where each project is"
  ]
 }

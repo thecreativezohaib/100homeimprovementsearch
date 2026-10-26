@@ -34,8 +34,8 @@
    "Open Monday to Saturday, 8 AM to 5 PM"
   ],
   "image": {
-   "file": "images/maps_01.jpg",
-   "alt": "Remodeled bathroom with a glass slider shower in white subway tile, a dark vanity and wood-look tile floor, bathroom remodeling Parsippany NJ",
+   "file": "images/fb_06.jpg",
+   "alt": "Remodeled bathroom with a corner glass shower, a dark gray vanity with a speckled white top, a whitewashed plank wall and gray stone-look tile floor, by JGK Home Improvement, a bathroom remodeling contractor serving Parsippany, NJ",
    "source": "real"
   }
  },
@@ -77,6 +77,24 @@
      "alt": "New gray double front doors with decorative glass panels set in a stone entry under a Tudor-style gable",
      "source": "real"
     }
+   },
+   {
+    "name": "Basement finishing",
+    "blurb": "Basements can become real living space. One we finished has light blue walls, gray wood-look plank flooring, support posts boxed in as white columns with trim at the top and base, six-panel doors and white baseboards. We have also set new sliding basement windows into a brick home's foundation wall.",
+    "image": {
+     "file": "images/fb_13.jpg",
+     "alt": "Finished basement with light blue walls, gray wood-look plank floor, support posts boxed in as white columns and white six-panel closet doors",
+     "source": "real"
+    }
+   },
+   {
+    "name": "Stairs and flooring",
+    "blurb": "Interior carpentry and floors are on our list too. One stairwell got oak newel posts and handrails with black twisted iron balusters, and an entry hall's worn old floor was replaced with gray wood-look plank tile laid in a staggered pattern up to the stairs.",
+    "image": {
+     "file": "images/fb_03.jpg",
+     "alt": "Stair railing with square oak newel posts, an oak handrail and black twisted iron balusters with basket details around a stairwell",
+     "source": "real"
+    }
    }
   ]
  },
@@ -107,8 +125,8 @@
   "owner_name": "Jason",
   "owner_role": "Owner, named in reviews; email gives his last initial as K",
   "image": {
-   "file": "images/maps_02.jpg",
-   "alt": "Stone entry with new gray double front doors and decorative glass",
+   "file": "images/fb_09.jpg",
+   "alt": "Narrow bathroom with a black grid glass shower in white subway tile, beadboard walls with a chair rail, a wood-look vanity with a black faucet and black hexagon floor tile",
    "source": "real"
   }
  },
@@ -141,15 +159,57 @@
   "h2": "Recent work",
   "images": [
    {
+    "file": "images/fb_06.jpg",
+    "alt": "Bathroom with a corner glass shower, a dark gray vanity with a speckled white top, a whitewashed plank wall, an oval mirror and gray stone-look tile floor",
+    "caption": "Bathroom with corner glass shower",
+    "source": "real"
+   },
+   {
+    "file": "images/fb_09.jpg",
+    "alt": "Narrow bathroom with a black grid glass shower in white subway tile, beadboard walls, a wood-look vanity and black hexagon floor tile",
+    "caption": "Subway tile shower with black grid door",
+    "source": "real"
+   },
+   {
+    "file": "images/fb_11.jpg",
+    "alt": "Bathroom with a gray tile shower behind a glass door, a recessed niche, a pebble shower floor, a white vanity and gray tile floor",
+    "caption": "Gray tile shower with pebble floor",
+    "source": "real"
+   },
+   {
     "file": "images/maps_01.jpg",
     "alt": "Remodeled bathroom with a glass slider shower, white subway tile, pebble shower floor, dark vanity and wood-look tile floor",
     "caption": "Bathroom remodel with subway tile shower",
     "source": "real"
    },
    {
+    "file": "images/fb_15.jpg",
+    "alt": "Dark gray vanity with a speckled white top, an oval mirror and a caged two-light sconce on a whitewashed plank wall beside a window",
+    "caption": "Vanity wall with whitewashed planks",
+    "source": "real"
+   },
+   {
+    "file": "images/fb_13.jpg",
+    "alt": "Finished basement with light blue walls, gray wood-look plank floor, support posts boxed in as white columns and white six-panel doors",
+    "caption": "Finished basement",
+    "source": "real"
+   },
+   {
+    "file": "images/fb_03.jpg",
+    "alt": "Square oak newel posts and handrails with black twisted iron balusters around a stairwell",
+    "caption": "Oak and iron stair railing",
+    "source": "real"
+   },
+   {
     "file": "images/maps_02.jpg",
     "alt": "Gray double front doors with decorative glass in a stone entry under a gray Tudor-style gable",
     "caption": "New double front doors",
+    "source": "real"
+   },
+   {
+    "file": "images/fb_08.jpg",
+    "alt": "Two new white sliding basement windows set into a freshly coated foundation wall below red brick, with brick sills",
+    "caption": "New basement windows in a brick home",
     "source": "real"
    }
   ]
@@ -219,11 +279,9 @@
   },
   "phone": "(973) 970-8847",
   "image": {
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_cta.jpg",
-   "ai_prompt": "Photorealistic photo of a wide, bright remodeled bathroom in a Northern New Jersey home, long white subway tile shower behind a black-framed glass door, dark gray double vanity with white top and black faucets, wood-look tile floor, soft natural light from a frosted window, calm slate gray, white and black palette, no people, no faces, no text, no logos, no brand names, 21:9",
-   "alt": "Wide view of a remodeled bathroom with a subway tile shower and a dark double vanity"
+   "file": "images/fb_11.jpg",
+   "source": "real",
+   "alt": "Bathroom with a gray tile walk-in shower behind a glass door, a recessed niche, a pebble shower floor and a white vanity"
   }
  },
  "footer": {
@@ -259,9 +317,9 @@
  "image_plan": [
   {
    "slot": "hero",
-   "file": "images/maps_01.jpg",
+   "file": "images/fb_06.jpg",
    "source": "real",
-   "alt": "Remodeled bathroom with a glass slider shower in white subway tile, a dark vanity and wood-look tile floor, bathroom remodeling Parsippany NJ"
+   "alt": "Remodeled bathroom with a corner glass shower, a dark gray vanity with a speckled white top, a whitewashed plank wall and gray stone-look tile floor, by JGK Home Improvement, a bathroom remodeling contractor serving Parsippany, NJ"
   },
   {
    "slot": "service:Bathroom remodeling",
@@ -284,49 +342,130 @@
    "alt": "New gray double front doors with decorative glass panels set in a stone entry under a Tudor-style gable"
   },
   {
-   "slot": "about",
-   "file": "images/maps_02.jpg",
+   "slot": "service:Basement finishing",
+   "file": "images/fb_13.jpg",
    "source": "real",
-   "alt": "Stone entry with new gray double front doors and decorative glass"
+   "alt": "Finished basement with light blue walls, gray wood-look plank floor, support posts boxed in as white columns and white six-panel closet doors"
+  },
+  {
+   "slot": "service:Stairs and flooring",
+   "file": "images/fb_03.jpg",
+   "source": "real",
+   "alt": "Stair railing with square oak newel posts, an oak handrail and black twisted iron balusters with basket details around a stairwell"
+  },
+  {
+   "slot": "about",
+   "file": "images/fb_09.jpg",
+   "source": "real",
+   "alt": "Narrow bathroom with a black grid glass shower in white subway tile, beadboard walls with a chair rail, a wood-look vanity with a black faucet and black hexagon floor tile"
   },
   {
    "slot": "gallery_1",
+   "file": "images/fb_06.jpg",
+   "source": "real",
+   "alt": "Bathroom with a corner glass shower, a dark gray vanity with a speckled white top, a whitewashed plank wall, an oval mirror and gray stone-look tile floor"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/fb_09.jpg",
+   "source": "real",
+   "alt": "Narrow bathroom with a black grid glass shower in white subway tile, beadboard walls, a wood-look vanity and black hexagon floor tile"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/fb_11.jpg",
+   "source": "real",
+   "alt": "Bathroom with a gray tile shower behind a glass door, a recessed niche, a pebble shower floor, a white vanity and gray tile floor"
+  },
+  {
+   "slot": "gallery_4",
    "file": "images/maps_01.jpg",
    "source": "real",
    "alt": "Remodeled bathroom with a glass slider shower, white subway tile, pebble shower floor, dark vanity and wood-look tile floor"
   },
   {
-   "slot": "gallery_2",
+   "slot": "gallery_5",
+   "file": "images/fb_15.jpg",
+   "source": "real",
+   "alt": "Dark gray vanity with a speckled white top, an oval mirror and a caged two-light sconce on a whitewashed plank wall beside a window"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/fb_13.jpg",
+   "source": "real",
+   "alt": "Finished basement with light blue walls, gray wood-look plank floor, support posts boxed in as white columns and white six-panel doors"
+  },
+  {
+   "slot": "gallery_7",
+   "file": "images/fb_03.jpg",
+   "source": "real",
+   "alt": "Square oak newel posts and handrails with black twisted iron balusters around a stairwell"
+  },
+  {
+   "slot": "gallery_8",
    "file": "images/maps_02.jpg",
    "source": "real",
    "alt": "Gray double front doors with decorative glass in a stone entry under a gray Tudor-style gable"
   },
   {
+   "slot": "gallery_9",
+   "file": "images/fb_08.jpg",
+   "source": "real",
+   "alt": "Two new white sliding basement windows set into a freshly coated foundation wall below red brick, with brick sills"
+  },
+  {
    "slot": "final_cta",
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_cta.jpg",
-   "ai_prompt": "Photorealistic photo of a wide, bright remodeled bathroom in a Northern New Jersey home, long white subway tile shower behind a black-framed glass door, dark gray double vanity with white top and black faucets, wood-look tile floor, soft natural light from a frosted window, calm slate gray, white and black palette, no people, no faces, no text, no logos, no brand names, 21:9",
-   "alt": "Wide view of a remodeled bathroom with a subway tile shower and a dark double vanity"
+   "file": "images/fb_11.jpg",
+   "source": "real",
+   "alt": "Bathroom with a gray tile walk-in shower behind a glass door, a recessed niche, a pebble shower floor and a white vanity"
   }
  ],
  "brand": {
-  "logo_file": null,
+  "logo_file": "images/logo.jpg",
   "palette": {
-   "primary": "#4A5560",
+   "primary": "#014582",
    "accent": "#B07A4A",
-   "light": "#F4F3F0",
-   "dark": "#1C1D1F"
+   "light": "#F4F6F9",
+   "dark": "#0F1E33"
   },
-  "palette_note": "No logo in images/. Taken from their photos: slate gray from the new front doors and gable trim, warm copper from the stone entry, white subway tile for backgrounds and the matte black bathroom fixtures for text.",
+  "palette_note": "Primary navy taken from their logo (images/logo.jpg, from their Facebook page: navy hexagon with white lettering); light from the logo's white and dark a deep shade of the same navy for text. The logo has only navy and white, so the accent keeps the warm copper of the stone entry in their door photo for buttons.",
   "fonts": {
    "headings": "Libre Franklin",
    "body": "Inter"
   },
   "tagline": null,
-  "style_direction": "Calm and dependable: slate gray and white with copper buttons, generous spacing and tall bathroom photos that show tile detail."
+  "style_direction": "Clean and dependable: their navy hexagon logo on white, copper buttons, generous spacing and tall bathroom photos that show tile detail."
  },
- "images_not_to_use": [],
+ "images_not_to_use": [
+  {
+   "file": "images/fb_04.jpg",
+   "why": "bathroom mid-renovation: trim missing around the window and tub wall and painter's tape on the corner; not finished"
+  },
+  {
+   "file": "images/fb_07.jpg",
+   "why": "basement framing in progress, a letterboxed screenshot with black bars; not finished work"
+  },
+  {
+   "file": "images/fb_10.jpg",
+   "why": "before photo of a worn entry floor (the after is fb_05)"
+  },
+  {
+   "file": "images/fb_05.jpg",
+   "why": "finished hall floor, but the frame is full of household items (yoga mat, shoes, ribbon on the newel post); the stairs and flooring card uses fb_03 instead"
+  },
+  {
+   "file": "images/fb_12.jpg",
+   "why": "basement window opening during work, mostly a dark hole in the wall; not finished"
+  },
+  {
+   "file": "images/fb_02.jpg",
+   "why": "same finished basement as fb_13 from another angle; used once to avoid repeats"
+  },
+  {
+   "file": "images/fb_14.jpg",
+   "why": "same bathroom as fb_06 and fb_15, shot from above with a distorted wide angle; used twice already"
+  }
+ ],
  "outreach": {
   "specific_detail": "Steve's deck: your crew, led by Santos, finished a full replacement in three days and put every piece of furniture back exactly where he wanted it.",
   "angle": "You have 4.8 stars from 56 Google reviews and bathroom remodels are the top topic in them, but Google sends people to a Facebook page instead of a website, and your listing shows no town. A homepage would put your bathrooms and Parsippany front and center.",
@@ -374,21 +513,47 @@
    "source": "images/ from Google Maps, checked one by one"
   },
   {
-   "fact": "Deck card and CTA background use AI illustrations because no real deck photo exists in images/; alt texts do not claim them as their work",
+   "fact": "Deck card uses an AI illustration because no real deck photo exists in images/; its alt text does not claim it as their work",
    "source": "image_plan"
+  },
+  {
+   "fact": "Email jasonk@jgkhomeimprovement.com verified on their own Facebook page; the domain is theirs and hosts no website",
+   "source": "https://www.facebook.com/jgkhomeimprovement/"
+  },
+  {
+   "fact": "Bathroom photos: corner glass shower with whitewashed plank wall (fb_06, fb_15), black grid shower in subway tile (fb_09), gray tile shower with pebble floor (fb_11)",
+   "source": "their own Facebook page https://www.facebook.com/jgkhomeimprovement/ (images/fb_*.jpg, checked one by one)"
+  },
+  {
+   "fact": "Basement finishing service: finished basement with blue walls, plank floor and boxed white columns (fb_13, fb_02); new basement windows in a brick foundation (fb_08)",
+   "source": "their own Facebook page https://www.facebook.com/jgkhomeimprovement/ (images/fb_*.jpg, checked one by one)"
+  },
+  {
+   "fact": "Stairs and flooring service: oak and iron stair railing (fb_03); entry hall floor before (fb_10) and after with gray plank tile (fb_05)",
+   "source": "their own Facebook page https://www.facebook.com/jgkhomeimprovement/ (images/fb_*.jpg, checked one by one)"
+  },
+  {
+   "fact": "Logo: navy hexagon with 'JGK Home Improvement LLC', hammer and paintbrush (no tagline)",
+   "source": "their own Facebook page https://www.facebook.com/jgkhomeimprovement/ (images/logo.jpg)"
+  },
+  {
+   "fact": "A post of theirs tags #morriscountynj, #parsippanynj, #randolphnj, #rockawaynj, #mendhamnj and #lavallettenj (supports Parsippany and Morris County)",
+   "source": "Facebook post https://www.facebook.com/jgkhomeimprovement/posts/-renomorriscountynj-parsippanynj-randolphnj-rockawaynj-mendhamnj-lavallettenj-po/4970264876405409/"
   }
  ],
  "missing": [
   "town from earlier research, matches the phone's area code: confirm with owner (Parsippany, NJ, used in the title, H1, intro, service area, footer and schema; Morris County comes from a Google review)",
   "Steve F.'s review contains em dashes written by the reviewer; it is quoted word for word, so the content.json 'no em dash' check flags only that testimonial text",
-  "confirm email jasonk@jgkhomeimprovement.com (published at https://www.google.com/maps/place/?q=place_id:ChIJfwJGFQOnw4kRnBAVHR7sH1U); the jgkhomeimprovement.com domain may already be theirs, so check whether it should host this page",
-  "to confirm with owner: kitchen remodeling, tile work, basement finishing and commercial remodeling (unverified notes)",
+  "jgkhomeimprovement.com is their own email domain and hosts no website: check whether it should host this page",
+  "to confirm with owner: kitchen remodeling and commercial remodeling (unverified notes; basement finishing and bathroom tile work are now shown in photos on their own Facebook page)",
   "to confirm with owner: licensed and insured in NJ (unverified notes; NJ home improvement contractor registration number not found)",
   "to confirm with owner: Jason's last name (email shows 'jasonk')",
-  "needs project photos (only 2 real photos; no deck photos even though decks are a top review topic)",
+  "no deck photos yet even though decks are a top review topic: the deck service card still uses an AI illustration",
   "Warranty details and years in business",
   "Free estimates (not stated, so the CTA says 'Request an estimate')",
-  "Logo and tagline (none in images/)",
-  "53 more Google reviews exist but were not captured"
+  "Tagline (none on the logo or Google)",
+  "53 more Google reviews exist but were not captured",
+  "a Facebook post tags Randolph, Rockaway, Mendham and Lavallette besides Parsippany and Morris County: confirm with the owner whether to list them as service towns",
+  "photo captions name no town or customer: the Facebook photos do not say where each project is"
  ]
 }

@@ -35,11 +35,9 @@
    "Built in our own shop"
   ],
   "image": {
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_hero_kitchen.jpg",
-   "ai_prompt": "Photorealistic photo of a custom kitchen in a North Carolina farmhouse-style home: cream painted inset cabinets running to the ceiling, aged brass knobs and bin pulls, a slate blue-gray island, black honed countertops, a white farmhouse sink with a brass bridge faucet, a patterned cement-look tile floor, morning light through a wide window onto pine trees, no people, no faces, no text, no logos, no brand names, 16:9",
-   "alt": "Illustration of a kitchen with cream inset custom cabinets, brass hardware and a blue-gray island, custom cabinets Moncure NC"
+   "file": "images/fb_10.jpg",
+   "source": "real",
+   "alt": "Kitchen with white shaker cabinets to the ceiling, a paneled refrigerator, a gray range hood and a navy island with a white quartz top, built by Cabinet Creations, a custom cabinet maker in Moncure, NC"
   }
  },
  "intro": {
@@ -56,11 +54,9 @@
     "name": "Custom kitchen cabinets",
     "blurb": "Kitchens are where most of our customers start. We design the layout with you, build the boxes and doors in our shop and install them. One family was invited to see their kitchen laid out in the shop before it ever reached the house.",
     "image": {
-     "file": null,
-     "source": "ai",
-     "ai_file_name": "ai_service_kitchen_cabinets.jpg",
-     "ai_prompt": "Photorealistic photo of a run of newly installed custom kitchen cabinets in a Chatham County, North Carolina home: cream painted inset doors with beaded frames, aged brass cup pulls, glass-front uppers, a black soapstone-look counter and a charcoal blue tile backsplash, soft daylight, no people, no faces, no text, no logos, no brand names, 4:3",
-     "alt": "Illustration of cream inset kitchen cabinets with brass cup pulls and glass-front uppers"
+     "file": "images/fb_09.jpg",
+     "source": "real",
+     "alt": "Kitchen during installation: white shaker cabinets with glass-front uppers to the ceiling, a paneled range hood, tall pantry cabinets and an island waiting for its countertop"
     }
    },
    {
@@ -85,22 +81,27 @@
     "name": "Bathroom cabinets and vanities",
     "blurb": "Bathrooms deserve the same craftsmanship as the kitchen. We have built bathroom cabinetry as part of whole-house projects, sized to the room and finished to match the rest of the home, so the vanity feels like it was always meant to be there.",
     "image": {
-     "file": null,
-     "source": "ai",
-     "ai_file_name": "ai_service_bath_vanity.jpg",
-     "ai_prompt": "Photorealistic photo of a custom bathroom vanity in a North Carolina home: a cream painted inset cabinet with drawers and aged brass knobs, a white marble top with an undermount sink, a slate gray tile wall behind, a round mirror and soft daylight from a side window, no people, no faces, no text, no logos, no brand names, 4:3",
-     "alt": "Illustration of a cream inset bathroom vanity with brass knobs and a marble top"
+     "file": "images/fb_04.jpg",
+     "source": "real",
+     "alt": "White shaker double vanity with a center drawer bank, nickel pulls and a cream stone top under two white framed mirrors"
     }
    },
    {
     "name": "Closets",
     "blurb": "A well-built closet changes how a bedroom works. One customer says our closet design was well thought out and the product and service were amazing, and she is already planning to talk with us about her kitchen next.",
     "image": {
-     "file": null,
-     "source": "ai",
-     "ai_file_name": "ai_service_closet.jpg",
-     "ai_prompt": "Photorealistic photo of a custom walk-in closet with cream painted cabinetry, open shoe shelves, hanging sections, a center bank of drawers with aged brass pulls and a soft gray patterned floor, warm natural light from a small window, neat and empty of clothing brands, no people, no faces, no text, no logos, no brand names, 4:3",
-     "alt": "Illustration of a walk-in closet with cream custom cabinetry, shelves and brass-handled drawers"
+     "file": "images/fb_12.jpg",
+     "source": "real",
+     "alt": "Walk-in closet lined with white cabinetry: hanging rods, adjustable shelves and a long bank of drawers with a white top under sunny windows"
+    }
+   },
+   {
+    "name": "Home offices and library walls",
+    "blurb": "Built-ins can carry a whole room. One library wall runs side to side in soft blue-gray paint, with paneled doors below, mirror-backed shelves above and a rolling ladder on a rail. A home office got a long desk with two knee spaces, file drawers, a tall center cabinet and open shelves.",
+    "image": {
+     "file": "images/fb_06.jpg",
+     "source": "real",
+     "alt": "Blue-gray library wall with paneled base cabinets, mirror-backed open shelves and a wooden rolling ladder on a rail, over a black and white diamond marble floor"
     }
    }
   ]
@@ -132,11 +133,9 @@
   "owner_name": "Wayne and Jennifer",
   "owner_role": "Named in Google reviews: Wayne works on the designs and Jennifer contacts customers; reviews call the business family owned. Full names and titles not stated on Google",
   "image": {
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_about_shop.jpg",
-   "ai_prompt": "Photorealistic photo of a small family cabinet shop in rural North Carolina: a long workbench with clamps and hand planes, stacks of maple boards, freshly built cream cabinet doors drying on a rack, sawdust on a concrete floor, big doors open to green trees and warm afternoon light, no people, no faces, no text, no logos, no brand names, 4:5",
-   "alt": "Illustration of a small cabinet shop with a workbench, lumber and cream cabinet doors drying on a rack"
+   "file": "images/fb_02.jpg",
+   "source": "real",
+   "alt": "Living room built-ins: white shaker base cabinets under a wood top, with open bookcases on each side of a wall-mounted TV under a vaulted ceiling"
   }
  },
  "process": {
@@ -165,19 +164,67 @@
   ]
  },
  "gallery": {
-  "h2": "A recent mudroom",
+  "h2": "Kitchens, baths and built-ins from our shop",
   "images": [
+   {
+    "file": "images/fb_10.jpg",
+    "source": "real",
+    "alt": "Kitchen with white shaker cabinets to the ceiling, a paneled refrigerator, a gray range hood and a navy island with a white quartz top under dark ceiling beams",
+    "caption": "White shaker kitchen with navy island"
+   },
+   {
+    "file": "images/fb_13.jpg",
+    "source": "real",
+    "alt": "Kitchen with white uppers, taupe lower cabinets, an open corner shelf, a wine fridge and wine rack and an island with a white quartz top",
+    "caption": "Two-tone kitchen with wine storage"
+   },
+   {
+    "file": "images/fb_04.jpg",
+    "source": "real",
+    "alt": "White shaker double vanity with a center drawer bank, nickel pulls, a cream stone top and two white framed mirrors",
+    "caption": "Double vanity with drawer bank"
+   },
+   {
+    "file": "images/fb_09.jpg",
+    "source": "real",
+    "alt": "White shaker kitchen cabinets with glass-front uppers, a paneled range hood and tall pantry cabinets, with the island and farmhouse sink base set before the countertops go in",
+    "caption": "Kitchen cabinets during installation"
+   },
+   {
+    "file": "images/fb_15.jpg",
+    "source": "real",
+    "alt": "Kitchen under skylights with white cabinets, glass-front uppers, wood floating shelves and an island with a table extension, before the countertops go in",
+    "caption": "Kitchen with island and table extension"
+   },
+   {
+    "file": "images/fb_06.jpg",
+    "source": "real",
+    "alt": "Blue-gray library wall with paneled base cabinets, mirror-backed open shelves and a wooden rolling ladder on a rail",
+    "caption": "Library wall with rolling ladder"
+   },
+   {
+    "file": "images/fb_03.jpg",
+    "source": "real",
+    "alt": "White built-in desk wall with two knee spaces, file drawers, a tall center cabinet and open shelves on both sides",
+    "caption": "Home office desk wall"
+   },
+   {
+    "file": "images/fb_11.jpg",
+    "source": "real",
+    "alt": "Gray painted mudroom built-in with open cubbies above, a row of black hooks and an L-shaped bench with shoe cubbies and a drawer",
+    "caption": "Mudroom bench with cubbies and hooks"
+   },
+   {
+    "file": "images/fb_12.jpg",
+    "source": "real",
+    "alt": "Walk-in closet with white hanging sections, adjustable shelves and a long drawer bank under the windows",
+    "caption": "Walk-in closet"
+   },
    {
     "file": "images/maps_02.jpg",
     "source": "real",
     "alt": "Laundry nook with white inset upper cabinets over a stacked washer and dryer, facing a farmhouse sink and tall storage cabinets",
     "caption": "Mudroom with laundry, sink and storage wall"
-   },
-   {
-    "file": "images/maps_01.jpg",
-    "source": "real",
-    "alt": "Tall white inset cabinets with antique brass pulls next to a farmhouse sink with a brass bridge faucet",
-    "caption": "Inset storage wall with brass hardware"
    }
   ]
  },
@@ -245,11 +292,9 @@
   },
   "phone": "(919) 542-3722",
   "image": {
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_cta_cabinets.jpg",
-   "ai_prompt": "Photorealistic photo of a long wall of cream inset custom cabinets with aged brass pulls in a bright North Carolina farmhouse kitchen, charcoal blue tile behind open shelves, a black honed counter and a patterned tile floor, soft afternoon light, calm and uncluttered, no people, no faces, no text, no logos, no brand names, 21:9",
-   "alt": "Illustration of a long wall of cream inset cabinets with brass pulls and charcoal blue tile"
+   "file": "images/fb_13.jpg",
+   "source": "real",
+   "alt": "Finished kitchen with white upper cabinets, taupe lower cabinets, a wine fridge and wine rack, a stone mosaic backsplash and a large island with a white quartz top"
   }
  },
  "footer": {
@@ -258,7 +303,7 @@
   "phone": "(919) 542-3722",
   "email": "cabinetcreations.nc@gmail.com",
   "socials": [
-   "https://www.facebook.com/Cabinet-Creations-Inc-107550829280590",
+   "https://www.facebook.com/p/Cabinet-Creations-Inc-100063543791119/",
    "https://www.google.com/maps/place/?q=place_id:ChIJM3TLoJG7rIkRgeZZfRvOub0"
   ],
   "hours": "Mon to Thu 9 AM to 3 PM, Fri 9 AM to 12 PM, Sat and Sun closed"
@@ -286,26 +331,22 @@
    "Fr 09:00-12:00"
   ],
   "sameAs": [
-   "https://www.facebook.com/Cabinet-Creations-Inc-107550829280590",
+   "https://www.facebook.com/p/Cabinet-Creations-Inc-100063543791119/",
    "https://www.google.com/maps/place/?q=place_id:ChIJM3TLoJG7rIkRgeZZfRvOub0"
   ]
  },
  "image_plan": [
   {
    "slot": "hero",
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_hero_kitchen.jpg",
-   "ai_prompt": "Photorealistic photo of a custom kitchen in a North Carolina farmhouse-style home: cream painted inset cabinets running to the ceiling, aged brass knobs and bin pulls, a slate blue-gray island, black honed countertops, a white farmhouse sink with a brass bridge faucet, a patterned cement-look tile floor, morning light through a wide window onto pine trees, no people, no faces, no text, no logos, no brand names, 16:9",
-   "alt": "Illustration of a kitchen with cream inset custom cabinets, brass hardware and a blue-gray island, custom cabinets Moncure NC"
+   "file": "images/fb_10.jpg",
+   "source": "real",
+   "alt": "Kitchen with white shaker cabinets to the ceiling, a paneled refrigerator, a gray range hood and a navy island with a white quartz top, built by Cabinet Creations, a custom cabinet maker in Moncure, NC"
   },
   {
    "slot": "service:Custom kitchen cabinets",
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_service_kitchen_cabinets.jpg",
-   "ai_prompt": "Photorealistic photo of a run of newly installed custom kitchen cabinets in a Chatham County, North Carolina home: cream painted inset doors with beaded frames, aged brass cup pulls, glass-front uppers, a black soapstone-look counter and a charcoal blue tile backsplash, soft daylight, no people, no faces, no text, no logos, no brand names, 4:3",
-   "alt": "Illustration of cream inset kitchen cabinets with brass cup pulls and glass-front uppers"
+   "file": "images/fb_09.jpg",
+   "source": "real",
+   "alt": "Kitchen during installation: white shaker cabinets with glass-front uppers to the ceiling, a paneled range hood, tall pantry cabinets and an island waiting for its countertop"
   },
   {
    "slot": "service:Mudrooms and laundry rooms",
@@ -321,47 +362,93 @@
   },
   {
    "slot": "service:Bathroom cabinets and vanities",
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_service_bath_vanity.jpg",
-   "ai_prompt": "Photorealistic photo of a custom bathroom vanity in a North Carolina home: a cream painted inset cabinet with drawers and aged brass knobs, a white marble top with an undermount sink, a slate gray tile wall behind, a round mirror and soft daylight from a side window, no people, no faces, no text, no logos, no brand names, 4:3",
-   "alt": "Illustration of a cream inset bathroom vanity with brass knobs and a marble top"
+   "file": "images/fb_04.jpg",
+   "source": "real",
+   "alt": "White shaker double vanity with a center drawer bank, nickel pulls and a cream stone top under two white framed mirrors"
   },
   {
    "slot": "service:Closets",
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_service_closet.jpg",
-   "ai_prompt": "Photorealistic photo of a custom walk-in closet with cream painted cabinetry, open shoe shelves, hanging sections, a center bank of drawers with aged brass pulls and a soft gray patterned floor, warm natural light from a small window, neat and empty of clothing brands, no people, no faces, no text, no logos, no brand names, 4:3",
-   "alt": "Illustration of a walk-in closet with cream custom cabinetry, shelves and brass-handled drawers"
+   "file": "images/fb_12.jpg",
+   "source": "real",
+   "alt": "Walk-in closet lined with white cabinetry: hanging rods, adjustable shelves and a long bank of drawers with a white top under sunny windows"
+  },
+  {
+   "slot": "service:Home offices and library walls",
+   "file": "images/fb_06.jpg",
+   "source": "real",
+   "alt": "Blue-gray library wall with paneled base cabinets, mirror-backed open shelves and a wooden rolling ladder on a rail, over a black and white diamond marble floor"
   },
   {
    "slot": "about",
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_about_shop.jpg",
-   "ai_prompt": "Photorealistic photo of a small family cabinet shop in rural North Carolina: a long workbench with clamps and hand planes, stacks of maple boards, freshly built cream cabinet doors drying on a rack, sawdust on a concrete floor, big doors open to green trees and warm afternoon light, no people, no faces, no text, no logos, no brand names, 4:5",
-   "alt": "Illustration of a small cabinet shop with a workbench, lumber and cream cabinet doors drying on a rack"
+   "file": "images/fb_02.jpg",
+   "source": "real",
+   "alt": "Living room built-ins: white shaker base cabinets under a wood top, with open bookcases on each side of a wall-mounted TV under a vaulted ceiling"
   },
   {
    "slot": "gallery_1",
+   "file": "images/fb_10.jpg",
+   "source": "real",
+   "alt": "Kitchen with white shaker cabinets to the ceiling, a paneled refrigerator, a gray range hood and a navy island with a white quartz top under dark ceiling beams"
+  },
+  {
+   "slot": "gallery_2",
+   "file": "images/fb_13.jpg",
+   "source": "real",
+   "alt": "Kitchen with white uppers, taupe lower cabinets, an open corner shelf, a wine fridge and wine rack and an island with a white quartz top"
+  },
+  {
+   "slot": "gallery_3",
+   "file": "images/fb_04.jpg",
+   "source": "real",
+   "alt": "White shaker double vanity with a center drawer bank, nickel pulls, a cream stone top and two white framed mirrors"
+  },
+  {
+   "slot": "gallery_4",
+   "file": "images/fb_09.jpg",
+   "source": "real",
+   "alt": "White shaker kitchen cabinets with glass-front uppers, a paneled range hood and tall pantry cabinets, with the island and farmhouse sink base set before the countertops go in"
+  },
+  {
+   "slot": "gallery_5",
+   "file": "images/fb_15.jpg",
+   "source": "real",
+   "alt": "Kitchen under skylights with white cabinets, glass-front uppers, wood floating shelves and an island with a table extension, before the countertops go in"
+  },
+  {
+   "slot": "gallery_6",
+   "file": "images/fb_06.jpg",
+   "source": "real",
+   "alt": "Blue-gray library wall with paneled base cabinets, mirror-backed open shelves and a wooden rolling ladder on a rail"
+  },
+  {
+   "slot": "gallery_7",
+   "file": "images/fb_03.jpg",
+   "source": "real",
+   "alt": "White built-in desk wall with two knee spaces, file drawers, a tall center cabinet and open shelves on both sides"
+  },
+  {
+   "slot": "gallery_8",
+   "file": "images/fb_11.jpg",
+   "source": "real",
+   "alt": "Gray painted mudroom built-in with open cubbies above, a row of black hooks and an L-shaped bench with shoe cubbies and a drawer"
+  },
+  {
+   "slot": "gallery_9",
+   "file": "images/fb_12.jpg",
+   "source": "real",
+   "alt": "Walk-in closet with white hanging sections, adjustable shelves and a long drawer bank under the windows"
+  },
+  {
+   "slot": "gallery_10",
    "file": "images/maps_02.jpg",
    "source": "real",
    "alt": "Laundry nook with white inset upper cabinets over a stacked washer and dryer, facing a farmhouse sink and tall storage cabinets"
   },
   {
-   "slot": "gallery_2",
-   "file": "images/maps_01.jpg",
-   "source": "real",
-   "alt": "Tall white inset cabinets with antique brass pulls next to a farmhouse sink with a brass bridge faucet"
-  },
-  {
    "slot": "final_cta",
-   "file": null,
-   "source": "ai",
-   "ai_file_name": "ai_cta_cabinets.jpg",
-   "ai_prompt": "Photorealistic photo of a long wall of cream inset custom cabinets with aged brass pulls in a bright North Carolina farmhouse kitchen, charcoal blue tile behind open shelves, a black honed counter and a patterned tile floor, soft afternoon light, calm and uncluttered, no people, no faces, no text, no logos, no brand names, 21:9",
-   "alt": "Illustration of a long wall of cream inset cabinets with brass pulls and charcoal blue tile"
+   "file": "images/fb_13.jpg",
+   "source": "real",
+   "alt": "Finished kitchen with white upper cabinets, taupe lower cabinets, a wine fridge and wine rack, a stone mosaic backsplash and a large island with a white quartz top"
   }
  ],
  "brand": {
@@ -372,7 +459,7 @@
    "light": "#F7F4EE",
    "dark": "#1E1E1E"
   },
-  "palette_note": "No logo in images/. Taken from the mudroom photos: charcoal blue from the brick-look tile wall, aged brass from the hardware and faucet, cream from the painted inset cabinets and near-black from the counter and appliances.",
+  "palette_note": "No logo: images/logo.jpg (their Facebook profile picture) is a kitchen photo, not a logo. Taken from the mudroom photos: charcoal blue from the brick-look tile wall, aged brass from the hardware and faucet, cream from the painted inset cabinets and near-black from the counter and appliances.",
   "fonts": {
    "headings": "Libre Baskerville",
    "body": "Lato"
@@ -380,7 +467,16 @@
   "tagline": null,
   "style_direction": "Warm, crafted and calm: cream and charcoal blue with brass details, tall photos of cabinetry and a quiet serif that suits a family shop."
  },
- "images_not_to_use": [],
+ "images_not_to_use": [
+  {
+   "file": "images/fb_01.jpg",
+   "why": "small (500 x 334) photo of a dark espresso kitchen that looks unlike their other posts; it cannot be confirmed as their own work rather than a shared photo"
+  },
+  {
+   "file": "images/logo.jpg",
+   "why": "not a logo: their Facebook profile picture is a small (334 x 334) kitchen photo with a copper range hood, too small for the page and not confirmed as their work"
+  }
+ ],
  "outreach": {
   "specific_detail": "The eight-foot custom buffet Wayne built in Annette's pantry, and Jennifer inviting her family to visit their kitchen while it was laid out in the shop.",
   "angle": "You have 4.7 stars from 15 Google reviews, reviews going back seven years and a recent mudroom review, but your Google listing only links to Facebook. A homepage with your cabinetry photos and those reviews would show homeowners around Moncure what a family shop can build.",
@@ -422,19 +518,35 @@
   {
    "fact": "Photos: mudroom and laundry with white inset cabinets, brass hardware, farmhouse sink, black counter and patterned tile (maps_01, maps_02)",
    "source": "images/ from Google Maps, checked one by one (likely the photos attached to Shannon Ryan's review)"
+  },
+  {
+   "fact": "Email cabinetcreations.nc@gmail.com verified: the Fearrington Cares vendor list shows it with the Google phone 919-542-3722; it is also on their own Facebook page",
+   "source": "https://fearringtoncares.org/vendor-list-homepage/vendor-list/wpbdp_category/cabinets-custom-furniture/ and https://www.facebook.com/p/Cabinet-Creations-Inc-100063543791119/"
+  },
+  {
+   "fact": "Kitchen photos: white shaker kitchen with navy island (fb_10), two-tone kitchen with wine storage (fb_13), kitchens during installation (fb_09, fb_15); bathroom double vanity (fb_04); walk-in closet (fb_12); living room built-ins (fb_02); mudroom bench (fb_11)",
+   "source": "their own Facebook page https://www.facebook.com/p/Cabinet-Creations-Inc-100063543791119/ (images/fb_*.jpg, checked one by one)"
+  },
+  {
+   "fact": "Home offices and library walls service: built-in desk wall (fb_03) and blue-gray library wall with rolling ladder (fb_06); a Google review summary also mentions a custom desk for an office",
+   "source": "their own Facebook page https://www.facebook.com/p/Cabinet-Creations-Inc-100063543791119/ and Google Maps review summary"
+  },
+  {
+   "fact": "Facebook link in footer and schema is the page verified in research.json (facebook_url), replacing the earlier link with a different page id",
+   "source": "research.json facebook_url"
   }
  ],
  "missing": [
-  "confirm email cabinetcreations.nc@gmail.com (published at https://fearringtoncares.org/vendor-list-homepage/vendor-list/wpbdp_category/cabinets-custom-furniture/)",
   "Facebook page name reads 'Cabinet Creations Inc' while Google shows 'Cabinet Creations'; same business, but confirm the legal name",
   "to confirm with owner: full names and titles of Wayne and Jennifer (the unverified notes say Jennifer and Wayne Foushee)",
   "to confirm with owner: over 30 years in Chatham County (unverified notes)",
   "to confirm with owner: cabinet refacing and custom furniture as services (unverified notes; a review summary mentions a custom office desk); service area beyond Moncure, such as Pittsboro and Chatham County (unverified notes)",
-  "needs project photos: only 2 real photos, both of one mudroom; no kitchen, bathroom or closet photos (hero, three service cards, about and CTA use AI illustrations)",
   "Free estimates (not stated, so the CTA says 'Request an estimate')",
   "Licence, insurance and warranty details",
-  "Logo and tagline (none in images/)",
+  "Logo and tagline: none found; the Facebook profile picture (images/logo.jpg) is a kitchen photo, not a logo",
   "12 more Google reviews exist but were not captured",
-  "The Shannon Ryan testimonial contains an em dash (after 'speaks for itself'); it is kept because reviews are quoted word for word"
+  "The Shannon Ryan testimonial contains an em dash (after 'speaks for itself'); it is kept because reviews are quoted word for word",
+  "most Facebook photos are small (640 x 480, including the hero fb_10): ask the owner for full-size originals before launch",
+  "photo captions name no town or customer: the Facebook photos do not say where each project is"
  ]
 }
