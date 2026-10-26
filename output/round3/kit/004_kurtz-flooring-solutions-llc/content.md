@@ -47,7 +47,7 @@ Image: AI image `images/ai_service_hardwood.jpg` (Living room with a new honey-t
 
 One family had their bathroom floor and tub and shower surround redone in porcelain tile and says it came out beautiful. Tile in a wet area takes patience at every corner and cut, which is how clients describe Gabriel: he takes his time and does it right.
 
-Image: AI image `images/ai_service_tub_surround.jpg` (Bathroom with a light gray porcelain tile tub surround and matching tile floor)
+Image: `images/fb_shower_01.jpg` (Walk-in shower with large white marble-look wall tile, a corner bench, a recessed niche and a hexagon mosaic floor)
 
 ### Kitchen tile and backsplashes
 
@@ -80,10 +80,13 @@ Image: `images/maps_07.jpg` (Light gray plank flooring through an open dining ar
 
 ## Recent floors and tile
 
+- `images/fb_shower_01.jpg`: Walk-in tile shower with bench and niche (alt: Walk-in shower tiled to the ceiling in large white marble-look tile, with a corner bench, a recessed niche and a gray hexagon mosaic floor)
 - `images/maps_08.jpg`: Hallway in gray plank flooring (alt: Gray oak-look plank flooring running down a hallway with white baseboards and several doorways)
+- `images/fb_shower_02.jpg`: Shower bench and recessed niche (alt: Tiled shower corner with a triangular marble-look bench, a two-shelf recessed niche and a gray hexagon mosaic floor)
 - `images/maps_07.jpg`: Dining area with a new light plank floor (alt: Light gray plank flooring in an open dining area leading to the kitchen)
 - `images/maps_06.jpg`: Rustic brown plank hallway (alt: Warm brown rustic plank flooring in a hallway with white doors and trim)
 - `images/maps_03.jpg`: Plank floor through kitchen and dining room (alt: Kitchen and dining room with rustic brown plank flooring beside a dark cherry island)
+- `images/fb_shower_03.jpg`: Mosaic shower floor from above (alt: Shower seen from above, with a strip of small hexagon mosaic tile framed by large marble-look tile and a corner shelf)
 - `images/maps_04.jpg`: Bathroom vanity and floor (alt: Bathroom with a white shaker vanity, marble-look top, black faucet and wood-look floor)
 - `images/maps_02.jpg`: Mosaic tile backsplash (alt: Glass and stone-look mosaic tile backsplash behind a stainless range with speckled gray counters)
 
@@ -163,7 +166,8 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
   "https://www.facebook.com/kurtzflooringsolutionsllc/",
   "https://www.google.com/maps/place/?q=place_id:ChIJ3-fLQli90ocRFkp2le9f-gc"
  ],
- "image": "images/maps_08.jpg"
+ "image": "images/maps_08.jpg",
+ "logo": "images/logo.jpg"
 }
 ```
 
@@ -174,35 +178,38 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
 | hero | real | images/maps_02.jpg | Kitchen with a linear glass and stone-look mosaic backsplash, speckled gray counters and a stainless range, flooring and tile installation in Little Rock, AR by Kurtz |
 | service:Plank floor replacement | real | images/maps_08.jpg | Gray oak-look plank flooring running down a hallway past several doorways |
 | service:Hardwood floor installation | ai | AI: images/ai_service_hardwood.jpg | Living room with a new honey-toned oak hardwood floor and white baseboards |
-| service:Porcelain tile bathrooms and tub surrounds | ai | AI: images/ai_service_tub_surround.jpg | Bathroom with a light gray porcelain tile tub surround and matching tile floor |
+| service:Porcelain tile bathrooms and tub surrounds | real | images/fb_shower_01.jpg | Walk-in shower with large white marble-look wall tile, a corner bench, a recessed niche and a hexagon mosaic floor |
 | service:Kitchen tile and backsplashes | real | images/maps_02.jpg | Linear glass and stone-look mosaic backsplash behind a stainless range and under wood cabinets |
 | about | real | images/maps_07.jpg | Light gray plank flooring through an open dining area with a round pedestal table |
-| gallery_1 | real | images/maps_08.jpg | Gray oak-look plank flooring running down a hallway with white baseboards and several doorways |
-| gallery_2 | real | images/maps_07.jpg | Light gray plank flooring in an open dining area leading to the kitchen |
-| gallery_3 | real | images/maps_06.jpg | Warm brown rustic plank flooring in a hallway with white doors and trim |
-| gallery_4 | real | images/maps_03.jpg | Kitchen and dining room with rustic brown plank flooring beside a dark cherry island |
-| gallery_5 | real | images/maps_04.jpg | Bathroom with a white shaker vanity, marble-look top, black faucet and wood-look floor |
-| gallery_6 | real | images/maps_02.jpg | Glass and stone-look mosaic tile backsplash behind a stainless range with speckled gray counters |
+| gallery_1 | real | images/fb_shower_01.jpg | Walk-in shower tiled to the ceiling in large white marble-look tile, with a corner bench, a recessed niche and a gray hexagon mosaic floor |
+| gallery_2 | real | images/maps_08.jpg | Gray oak-look plank flooring running down a hallway with white baseboards and several doorways |
+| gallery_3 | real | images/fb_shower_02.jpg | Tiled shower corner with a triangular marble-look bench, a two-shelf recessed niche and a gray hexagon mosaic floor |
+| gallery_4 | real | images/maps_07.jpg | Light gray plank flooring in an open dining area leading to the kitchen |
+| gallery_5 | real | images/maps_06.jpg | Warm brown rustic plank flooring in a hallway with white doors and trim |
+| gallery_6 | real | images/maps_03.jpg | Kitchen and dining room with rustic brown plank flooring beside a dark cherry island |
+| gallery_7 | real | images/fb_shower_03.jpg | Shower seen from above, with a strip of small hexagon mosaic tile framed by large marble-look tile and a corner shelf |
+| gallery_8 | real | images/maps_04.jpg | Bathroom with a white shaker vanity, marble-look top, black faucet and wood-look floor |
+| gallery_9 | real | images/maps_02.jpg | Glass and stone-look mosaic tile backsplash behind a stainless range with speckled gray counters |
 | final_cta | real | images/maps_06.jpg | Warm brown rustic plank flooring |
 
 ### AI image prompts
 
 - **images/ai_service_hardwood.jpg** (service:Hardwood floor installation): Photorealistic photo of a living room in a single-story Arkansas ranch home with a newly installed oak hardwood floor in a warm honey brown tone, boards running the length of the room, white baseboards, light gray walls, a simple sofa and a wool rug pulled back to show the floor, in walnut brown, honey and warm white, soft natural light from a side window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
-- **images/ai_service_tub_surround.jpg** (service:Porcelain tile bathrooms and tub surrounds): Photorealistic photo of a small remodeled bathroom in a single-story Arkansas ranch home: a white bathtub with a floor-to-ceiling surround of large light gray porcelain tile laid in a running bond, a matching porcelain tile floor, a white shaker vanity with a marble-look top, a chrome shower head, in warm gray, walnut brown and warm white, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
 
 ### Images not to use
 
 - `images/maps_01.jpg`: Low resolution (739 px), heavy compression and looks like a stock catalog kitchen, not shown as their work
 - `images/maps_05.jpg`: Blurry doorway shot that mostly shows a bedroom carpet and a bedspread
+- `images/ai_service_tub_surround.jpg`: AI illustration replaced by their real shower photo fb_shower_01; no longer used
 
 ## Brand
 
-- Logo: none
-- Palette: primary #5C4330, accent #B8875A, light #F3F1EC, dark #26221E
-- Palette note: No logo exists. Taken from their photos: walnut brown and honey from the rustic plank floors (maps_03, maps_06), the warm white of the trim and doors, and a near-black from the dark cabinetry.
+- Logo: `images/logo.jpg`
+- Palette: primary #085FB8, accent #4A8FDB, light #F3F7FC, dark #141414
+- Palette note: Taken from their logo (images/logo.jpg, from their own Facebook page): primary is the logo's blue wordmark and swirl, accent is a lighter tint of that blue for hovers and highlights, light is the logo's white background with a faint blue cast, and dark is the black of the 'Established 2015' lettering.
 - Fonts: Barlow Semi Condensed (headings), Nunito Sans (body)
 - Tagline: none
-- Style direction: Sturdy and friendly: a condensed sans for headings, wood-tone accents, and full-width floor photos that let the plank lines lead the eye down the page.
+- Style direction: Sturdy and friendly: a condensed sans for headings that echoes the logo's stencil lettering, logo blue for buttons and accents on clean white, and full-width floor and shower photos that let the plank lines and tile lead the eye down the page.
 
 ## Outreach (not on the page)
 
@@ -220,9 +227,11 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
 - Gabriel and Molly communicative; Gabriel's integrity and honesty, takes his time, does it right; previous nightmare contractor; bathroom floor and tub/shower surround in porcelain tile; fixed a bad flooring job around the fireplace done by the client; first call for future flooring (source: Google review by Matt Trice, 11 months ago)
 - Answered the daughter's questions, worked around two nosy dogs, work ethic, a joy to have in the home (source: Google review by Dena Aulwes, 3 years ago)
 - Main town Little Rock, AR (title, H1, intro, service area, footer, schema areaServed) (source: Antigravity notes (unverified), consistent with the 501 area code of the Google phone number)
-- Email kurtzflooringsolutionsllc@gmail.com and Facebook page https://www.facebook.com/kurtzflooringsolutionsllc/ (source: research.json (email published on Facebook: https://www.facebook.com/kurtzflooringsolutionsllc/?locale=de_DE))
+- Email kurtzflooringsolutionsllc@gmail.com and Facebook page https://www.facebook.com/kurtzflooringsolutionsllc/ (source: their own Facebook page facebook.com/kurtzflooringsolutionsllc)
 - Photos: mosaic tile backsplash kitchen (maps_02), rustic brown plank floors in kitchen and hallway (maps_03, maps_06), bathroom vanity (maps_04), light gray plank in dining area and hallway (maps_07, maps_08) (source: images/maps_02 to maps_08 (Google Maps photos, checked one by one))
-- Hardwood and tub surround cards use AI illustrations because no photos of that work exist; alt text does not claim them as Kurtz's work (source: image_plan)
+- Hardwood card uses an AI illustration because no photo of that work exists; alt text does not claim it as Kurtz's work (source: image_plan)
+- Logo: blue stencil wordmark 'Kurtz Flooring Solutions, LLC' with a swirl for the O and 'Established 2015' in black (images/logo.jpg), used as brand.logo_file and palette source (source: their own Facebook page https://www.facebook.com/kurtzflooringsolutionsllc/)
+- Photos: three finished walk-in tile showers with large marble-look wall tile, a corner bench, a recessed niche and a hexagon mosaic floor (fb_shower_01 to fb_shower_03), used on the bath tile service card and in the gallery (source: their own Facebook page https://www.facebook.com/kurtzflooringsolutionsllc/)
 
 ## Missing
 
@@ -232,10 +241,12 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
 - to confirm with owner: also does cabinet installation, granite and butcher block countertop installation, bathroom remodeling and LVP flooring
 - Flooring material: the plank floors in the photos look like vinyl or laminate, but no source says which, so the page says 'plank flooring'
 - Whether the bathroom vanity in maps_04 was installed by Kurtz (it is in their Google photos; the caption stays neutral)
-- confirm email kurtzflooringsolutionsllc@gmail.com (published on Facebook: https://www.facebook.com/kurtzflooringsolutionsllc/?locale=de_DE)
 - Website check: the round 3 vetting data lists kurtzflooringsolutions.com as a candidate domain (not live when checked); confirm before using the 'no website' angle
-- Hardwood and porcelain tub surround project photos (those service cards use AI illustrations)
-- Licence, insurance, warranty, financing and years in business: not stated
+- Hardwood project photos (that service card uses an AI illustration)
+- Licence, insurance, warranty and financing: not stated. Years in business: the logo says 'Established 2015' but the page copy does not use it; confirm with owner
 - No-cost quotes: not stated, so the CTA says 'Request a quote'
 - Only 3 of the 32 review texts were captured. Elizabeth Burke's review contains the words 'stress free', which an automated check for the word may flag; it is a quote, not an offer
-- Logo and tagline: none found
+- Tagline: none found (logo now taken from their Facebook page)
+- The Facebook shower photos show walk-in showers, not a tub surround, and do not say what the tile is; alt text and captions do not call it porcelain or tie it to a town or customer
+- Facebook shower photos are small (443 x 590 px, portrait), so the hero stays on maps_02; ask the owner for full-size shower photos, which would make a stronger hero
+- fb_shower_03 shows the photographer's shoes at the left edge: crop before publishing

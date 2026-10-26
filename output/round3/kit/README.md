@@ -1,4 +1,4 @@
-# Round 3 homepage kit (4 businesses)
+# Round 3 homepage kit (5 businesses)
 
 Each folder: `content.json` (the page in the round 2 structure, with `image_plan`), `content.md` (readable copy, image
 plan, facts used, what to confirm), `images/` (their own Google Maps photos, plus their own Facebook photos where they
