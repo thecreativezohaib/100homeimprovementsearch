@@ -33,7 +33,7 @@ Customers tell us the experience matters as much as the result. One says our tea
 
 ### Bathroom and shower remodels
 
-We take out dated tubs and showers and build clean walk-in showers in their place. This one uses large white marble-look porcelain from floor to ceiling, a square matte black rain head, a black handheld on a hose and matching black door hardware.
+We build clean, open walk-in showers that make a bathroom feel bigger. This one uses large white marble-look porcelain from floor to ceiling, a square matte black rain head, a black handheld on a hose and matching black door hardware.
 
 Image: `images/maps_02.jpg` (Marble-look porcelain shower with a matte black rain head, wall valve and handheld shower beside a white curtain)
 
@@ -51,7 +51,7 @@ Image: AI image `images/ai_service_kitchen.jpg` (Illustration of a kitchen with 
 
 ## Why Jacksonville families call Latin Remodeling
 
-- **Hablamos español**: We speak English and Spanish. One customer says talking with us in Spanish made the whole project so much easier for his family, from planning to the final day.
+- **Hablamos español**: We speak English and Spanish. One customer says being able to talk with us in Spanish made everything so much easier for his family, and he recommends us to others.
 - **Professional and fast**: Customers describe our team as professional and quick to get the work done. One recent client called the result perfect and right on time.
 - **Very reasonable prices**: We keep prices fair. One customer recommends us to anyone looking for quality work at a fair price after calling our prices very reasonable.
 - **Latino-owned and welcoming**: Our Google profile identifies us as Latino-owned and LGBTQ+ friendly. Everyone who calls gets the same respect and the same careful work.

@@ -2,7 +2,7 @@
 
 ## SEO
 
-- Title tag: Home Remodeling in Kent, WA | Quality Performance Construction
+- Title tag: Home Remodeling, Kent WA | Quality Performance Construction
 - Meta description: Quality Performance Construction remodels kitchens, baths, laundry rooms and dens and installs plank flooring in Kent, WA. Call Sam at (206) 755-1423.
 - Primary keyword: home remodeling Kent WA
 - Secondary keywords: kitchen remodel Kent WA, half bath remodel Kent, luxury vinyl plank installation Kent, garage conversion den remodel, sliding glass door installation, siding repair Kent WA, laundry room remodel
@@ -76,7 +76,7 @@ Image: AI image `images/ai_service_siding.jpg` (Side of a two-story house with f
 
 ## About Quality Performance Construction
 
-Quality Performance Construction is Sam's remodeling company, based at 3640 S 272nd St in Kent, WA. Sam manages every project himself and keeps a small, skilled team, which customers say helps him work cost-efficiently. He listens to what you want, gives you a timeline up front and talks through any extra work before it happens. Our projects run from garage-turned-den remodels and powder rooms to whole basements of new plank flooring. We are open weekdays from 8 AM to 8 PM and Saturdays from 9 AM to 4 PM.
+Quality Performance Construction is Sam's remodeling company, based at 3640 S 272nd St in Kent, WA. Sam manages the projects and keeps a small, skilled team, which customers say helps him work cost-efficiently. He listens to what you want, gives you a timeline up front and talks through any extra work before it happens. Our projects run from garage-turned-den remodels and powder rooms to whole basements of new plank flooring. We are open weekdays from 8 AM to 8 PM and Saturdays from 9 AM to 4 PM.
 
 Owner: Sam (Named in every captured review as the person who runs and manages the projects; last name and title not stated on Google)
 
@@ -137,11 +137,11 @@ It depends on the scope. One customer expected his project to take at least six 
 
 **Can you install flooring over an uneven subfloor?**
 
-Yes. Leveling comes first. On one job the floor took 60 bags of self-leveling compound before we installed 9 inch planks, and the homeowner says the project went smooth and stayed clean. We check the subfloor before quoting so there are no surprises later.
+Yes. Leveling comes first. On one job the floor took 60 bags of self-leveling compound before we installed 9 inch planks, and the homeowner says the project went smooth and stayed clean. If you have noticed dips or soft spots, point them out and we will look at the subfloor with you.
 
 **When can I call?**
 
-We are open Monday through Friday from 8 AM to 8 PM and Saturday from 9 AM to 4 PM, closed Sunday. Call (206) 755-1423 or email qualityperformanceconstruction@gmail.com with a few photos and a short description of your project.
+We are open Monday through Friday from 8 AM to 8 PM and Saturday from 9 AM to 4 PM, closed Sunday. Call (206) 755-1423 or email qualityperformanceconstruction@gmail.com with a few photos and a short description of your project. Evening calls are welcome on weekdays.
 
 ## Ready to rethink a room?
 

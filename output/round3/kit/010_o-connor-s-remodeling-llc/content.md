@@ -223,7 +223,7 @@ Real photo slots: 9 (5 different photos). AI slots: 2.
 
 ## Missing
 
-- reviews: all three captured reviews are 5 to 7 days old, and the Jagger Jackson review is a long, very promotional piece from a one-review account. It is quoted word for word as the brief requires, but the owner may want to drop it, and it contains two em dashes kept because reviews are not edited
+- reviews: all three captured reviews are 5 to 7 days old, and the Jagger Jackson review is a long, very promotional piece from a one-review account. It is quoted word for word as the brief requires, but the owner may want to drop it, and it contains three em dashes, kept because reviews are not edited
 - town from earlier research, matches the phone's area code: confirm with owner (Tulsa, OK, used in the title, H1, intro, service area, footer and schema; Google's service area field holds only stray review text; Sand Springs, OK from the same notes is not used)
 - confirm email casey.osr@yahoo.com (published at https://www.facebook.com/OConnorsRemodeling/posts/-is-your-bathroom-looking-a-little-spooky-dont-let-that-outdated-bathroom-haunt-/1389840106658480/)
 - to confirm with owner: owner name (the unverified notes and the email suggest Casey)
