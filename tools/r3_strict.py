@@ -20,7 +20,7 @@ R = "/home/user/100homeimprovementsearch"
 D = f"{R}/data/r3"
 
 # G5: own-work photos counted on the contact sheets (Google Maps photos + photos from the business's own pages)
-PHOTOS = {2: 7, 3: 8, 4: 7, 5: 2, 6: 10, 7: 10, 8: 15, 9: 10, 10: 2, 12: 5, 13: 13, 14: 2, 16: 13, 17: 11, 19: 12, 20: 5,
+PHOTOS = {2: 7, 3: 8, 4: 10, 5: 2, 6: 10, 7: 10, 8: 15, 9: 10, 10: 2, 12: 5, 13: 13, 14: 2, 16: 13, 17: 11, 19: 12, 20: 5,
           21: 7, 22: 4, 24: 1, 25: 11, 26: 10, 27: 24, 28: 8, 29: 27, 30: 5, 31: 0, 32: 6, 33: 9, 34: 1, 35: 3, 37: 14,
           41: 5, 55: 0, 81: 10, 86: 11, 92: 10, 100: 14, 109: 5, 110: 3, 113: 7, 119: 2, 133: 0, 145: 2, 146: 6,
           150: 6, 162: 2, 167: 2, 169: 3, 193: 2, 196: 2, 88: 14, 95: 14, 97: 16, 99: 14, 89: 1, 90: 0, 93: 0, 96: 9}
@@ -34,7 +34,7 @@ EMAIL = {6: ("ok", "HUD licensed installer list (PDF) shows it with the Google p
          8: ("ok", "Fearrington Cares vendor list shows it with the Google phone 919-542-3722; also on their own Facebook page"),
          4: ("ok", "their own Facebook page facebook.com/kurtzflooringsolutionsllc"),
          7: ("ok", "their own Facebook page facebook.com/FisherTileMT"),
-         12: ("ok", "a post on their own Facebook page (id 100084219031246)"),
+         12: ("ok", "screenshot: Intro of their own Facebook page 'Joseph's Constructor | Ewing NJ' shows it"),
          26: ("ok", "their own Instagram post"),
          29: ("ok", "the owner's own Facebook profile (Von Dunbar), name matches AIOR Services"),
          30: ("ok", "their own Instagram profile instagram.com/qualityknb"),
@@ -55,7 +55,7 @@ FLAGS = {14: "1-star review calls the owner a scam artist", 16: "1-star review: 
          110: "email from Philly's Finest Refinishing page", 196: "Facebook belongs to another business"}
 SITE = json.load(open(f"{D}/site_check.json"))
 HAS_SITE = {int(k): v for k, v in list(SITE["live"].items()) + list(SITE["unclear"].items())}
-HAS_SITE.update({145: "renovations.work", 108: "eaglecabinetsnc.com", 116: "surfacepaintingcompany.com (could not confirm)",
+HAS_SITE.update({30: "quality-kitchen-bath-afsy.b12sites.com (B12 site with their phone and email)", 145: "renovations.work", 108: "eaglecabinetsnc.com", 116: "surfacepaintingcompany.com (could not confirm)",
                  127: "restorationbuildercontractor.com (could not confirm)", 96: "grgranitequartz.com (could not confirm)"})
 GOOGLE_UNPROVEN = {88, 89, 90, 93, 95, 97, 99}  # only a made-up Maps link so far
 
