@@ -2,18 +2,18 @@
 
 ## SEO
 
-- Title tag: Custom Tile Showers and Bathroom Remodels | Tile Envy
-- Meta description: Tile Envy Installation Co builds custom tile showers and full bathroom remodels, with careful prep and tile lines that match up. Call AJ at (219) 216-4896.
-- Primary keyword: custom tile shower installation
+- Title tag: Custom Tile Showers in La Porte, IN | Tile Envy Installation
+- Meta description: Tile Envy Installation Co builds custom tile showers and bathroom remodels in La Porte, IN, with careful prep and tile lines that match up. Call (219) 216-4896.
+- Primary keyword: custom tile shower installation La Porte IN
 - Secondary keywords: tile contractor, walk-in tile shower, bathroom remodel with custom tile, shower tile upgrade, kitchen backsplash installation, tile shower niche and bench, decorative mosaic tile accents
-- OG title: Tile Envy Installation Co | Custom Tile Showers and Bathroom Remodels
+- OG title: Tile Envy Installation Co | Custom Tile Showers in La Porte, IN
 - OG description: AJ and the Tile Envy team build custom tile showers and remodel bathrooms with prep done right and every tile lined up.
 
 ## Hero
 
-*Tile contractor for showers, baths and backsplashes*
+*Tile contractor serving La Porte, IN*
 
-# Custom Tile Shower Installation and Bathroom Remodels
+# Custom Tile Shower Installation in La Porte, IN
 
 AJ and the Tile Envy team build walk-in tile showers and remodel whole bathrooms, starting with the prep behind the tile and finishing with lines that match up.
 
@@ -21,11 +21,11 @@ AJ and the Tile Envy team build walk-in tile showers and remodel whole bathrooms
 
 Trust badges: 4.6 stars from 19 Google reviews · Recommended by a fellow tile professional · Open Monday to Friday, 9 AM to 5 PM
 
-Hero image: `images/maps_02.jpg` (Marble-look walk-in tile shower with stacked niches beside a tiled tub deck with a mosaic border, custom tile shower installation)
+Hero image: `images/maps_02.jpg` (Marble-look walk-in tile shower with stacked niches beside a tiled tub deck with a mosaic border, custom tile shower installation La Porte IN)
 
 ## Tile work that lines up, from the prep to the last row
 
-Tile Envy Installation Co focuses on custom tile shower installation and bathroom remodels. One of our own Facebook posts sums up how we see it: the prep work is where a quality shower starts. A fellow tile professional recommends AJ and Tile Envy for exactly that, citing our attention to detail and dedication to proper industry methods.
+Tile Envy Installation Co focuses on custom tile shower installation and bathroom remodels in La Porte, IN. One of our own Facebook posts sums up how we see it: the prep work is where a quality shower starts. A fellow tile professional recommends AJ and Tile Envy for exactly that, citing our attention to detail and dedication to proper industry methods.
 
 Homeowners see the difference in the finished room. One family hired us to gut and remodel the main bath of a house they had just bought, taking down a wall to join two small rooms into one large space. They are still amazed at how perfectly every tile lines up. Another customer says AJ kept them informed through the whole process.
 
@@ -109,11 +109,11 @@ Image: `images/maps_04.jpg` (Charcoal subway tile shower with a black shower pan
 >
 > Aleh T., Google, 6 months ago
 
-## Where we work
+## Custom tile shower installation in La Porte, IN
 
-Our Google profile does not list a town or service area yet, so the quickest way to check is a phone call. Reach us at (219) 216-4896, Monday through Friday from 9 AM to 5 PM. Tell us where your home is and what you want done, whether that is a new shower, a full bathroom or a backsplash, and we will let you know if your project is in our area.
+Tile Envy Installation Co serves La Porte, IN. If your home is nearby but outside town, the quickest way to check is a phone call. Reach us at (219) 216-4896, Monday through Friday from 9 AM to 5 PM, tell us where you live and what you want done, whether a new shower, a full bathroom or a backsplash, and we will let you know.
 
-Towns: none listed on Google
+Towns: La Porte, IN
 
 ## Questions homeowners ask
 
@@ -148,7 +148,7 @@ Background image: `images/maps_08.jpg` (Finished bathroom with a tall white buil
 ## Footer
 
 - Tile Envy Installation Co
-- No address or service area on Google (see Missing)
+- Serving La Porte, IN
 - (219) 216-4896
 - tileenvyinstallationco@gmail.com
 - Hours: Mon to Fri 9 AM to 5 PM, Sat and Sun closed
@@ -165,6 +165,9 @@ Background image: `images/maps_08.jpg` (Finished bathroom with a tall white buil
  "description": "Tile contractor building custom tile showers and remodeling bathrooms.",
  "telephone": "+12192164896",
  "email": "tileenvyinstallationco@gmail.com",
+ "areaServed": [
+  "La Porte, IN"
+ ],
  "openingHours": [
   "Mo-Fr 09:00-17:00"
  ],
@@ -177,7 +180,7 @@ Background image: `images/maps_08.jpg` (Finished bathroom with a tall white buil
 
 ## Image plan
 
-- hero: `images/maps_02.jpg` (real) (Marble-look walk-in tile shower with stacked niches beside a tiled tub deck with a mosaic border, custom tile shower installation)
+- hero: `images/maps_02.jpg` (real) (Marble-look walk-in tile shower with stacked niches beside a tiled tub deck with a mosaic border, custom tile shower installation La Porte IN)
 - service:Custom tile showers: `images/maps_06.jpg` (real) (Walk-in shower with white wave-textured wall tile, black hexagon floor, recessed niche and long bench)
 - service:Full bathroom remodels: `images/maps_07.jpg` (real) (Remodeled bathroom with a white shaker double vanity, black faucets and mirrors, and dark plank flooring)
 - service:Decorative tile and accents: `images/maps_01.jpg` (real) (Marble-look tile shower with a framed mosaic panel, two stacked niches and oil-rubbed bronze body sprays)
@@ -218,6 +221,7 @@ Real photo slots: 15 (8 different photos). AI slots: 1.
 
 ## Facts used
 
+- Town La Porte, IN (from the unverified notes; the 219 area code of the Google phone covers La Porte; flagged in missing) (source: antigravity_notes_unverified plus Google phone area code)
 - Name Tile Envy Installation Co, category Tile contractor, phone +1 219-216-4896, no address or service area on Google (source: Google Maps)
 - Rating 4.6 from 19 reviews; 33 photos on Google (source: Google Maps)
 - Hours Mon to Fri 9 AM to 5 PM, Sat and Sun closed (source: Google Maps)
@@ -231,7 +235,7 @@ Real photo slots: 15 (8 different photos). AI slots: 1.
 
 ## Missing
 
-- to confirm with owner: main town and service area. Google shows no address and no service area. The unverified notes say La Porte, IN and list conflicting areas (Southwest Michigan and the Lake Michigan shoreline, with limited Northwest Indiana). None of it is used, so the title, H1, service area section and schema have no town; add one once confirmed
+- town from earlier research, matches the phone's area code: confirm with owner (La Porte, IN, used in the title, H1, intro, service area, footer and schema; Google itself shows no address or service area, and the same unverified notes also mention Southwest Michigan and the Lake Michigan shoreline, which are not used)
 - confirm email tileenvyinstallationco@gmail.com (published on Facebook: https://www.facebook.com/100086416961072/posts/the-prep-work-is-where-a-quality-shower-starts-this-custom-shower-is-fully-water/1094247546799134/). That post is on page id 100086416961072 while research.json facebook_url is https://www.facebook.com/TileEnvyShowroom; confirm they are the same page
 - to confirm with owner: AJ's full name and title
 - to confirm with owner: waterproofing method (their post title is cut off at 'fully water'); Schluter waterproof shower systems and TCNA, CTI, NTCA standards from the unverified notes
