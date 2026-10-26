@@ -72,7 +72,7 @@ Image: AI image `images/ai_about.jpg` (Painting tools, a stepladder and a drop c
 
 ## How a project with us works
 
-1. **Call or message**: Call (210) 776-8203 any day of the week and tell us about the rooms, the drywall damage or the bathroom you need help with.
+1. **Call any day**: Call (210) 776-8203 any day of the week and tell us about the rooms, the drywall damage or the bathroom you need help with.
 2. **Estimate at your home**: Abel comes out, looks at the space and gives you an estimate, as he did for the homeowner with the water-damaged bathroom.
 3. **Prep and repair**: We protect floors and furniture, then fix damaged drywall and surfaces so the paint goes on smooth and even.
 4. **Paint or rebuild**: The crew paints or remodels as agreed, working room by room and keeping you updated on progress.
@@ -102,7 +102,7 @@ Painting Pro Experts is based at 7902 Red Oak Vista in San Antonio, TX 78250. We
 
 Towns: San Antonio, TX
 
-## Questions homeowners ask
+## Painting questions we hear
 
 **What kind of work does Painting Pro Experts do?**
 

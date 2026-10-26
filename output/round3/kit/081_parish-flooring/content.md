@@ -92,7 +92,7 @@ Parish Flooring works in Baton Rouge, LA. If your home is outside the city and y
 
 Towns: Baton Rouge, LA
 
-## Questions homeowners ask
+## Tile and flooring questions
 
 **What does Parish Flooring install?**
 

@@ -106,7 +106,7 @@ R&H Solutions LLC is based at 309 NE 3rd St in Wagoner, OK 74467, and paints hom
 
 Towns: Wagoner, OK
 
-## Questions homeowners ask
+## Questions about painting with R&H
 
 **What do you paint?**
 

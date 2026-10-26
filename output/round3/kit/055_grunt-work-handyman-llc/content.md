@@ -102,7 +102,7 @@ Grunt Work Handyman LLC works in Portland, ME. If you live in a nearby town and 
 
 Towns: Portland, ME
 
-## Questions homeowners ask
+## Questions we get
 
 **What kind of jobs do you take?**
 

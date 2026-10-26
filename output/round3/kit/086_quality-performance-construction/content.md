@@ -121,7 +121,7 @@ Quality Performance Construction is based at 3640 S 272nd St in Kent, WA 98032. 
 
 Towns: Kent, WA
 
-## Questions homeowners ask
+## Remodeling questions
 
 **What kinds of remodeling do you do?**
 

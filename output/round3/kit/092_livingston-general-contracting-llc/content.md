@@ -19,7 +19,7 @@ Bri and Trey remodel bathrooms, install new flooring and build wood decks, and t
 
 [Call (812) 946-5652](tel:+18129465652)  |  [Request an estimate](#contact)
 
-Trust badges: 5.0 stars from 8 Google reviews · Family-owned, per our customers · Open Monday to Friday, 8 AM to 5 PM
+Trust badges: 5.0 stars from 8 Google reviews · Family-owned business, per a customer review · Open Monday to Friday, 8 AM to 5 PM
 
 Hero image: `images/maps_02.jpg` (Remodeled bathroom with sage green walls, a white shaker vanity with black pulls and marble-look tile floor laid on a diagonal, bathroom remodeling Clarksville IN)
 
@@ -70,7 +70,7 @@ Owner: Bri and Trey (Named in reviews as the team behind the family-owned busine
 
 Image: `images/maps_01.jpg` (Tall pressure-treated deck with wide stairs and cable railings built against a brick home)
 
-## How we work
+## How a Livingston project goes
 
 1. **Reach out**: Call (812) 946-5652, Monday through Friday from 8 AM to 5 PM, or message us after seeing our work on Facebook.
 2. **Estimate visit**: We come out, look at the space and recommend what we think will look and work best for you.
@@ -105,7 +105,7 @@ Livingston General Contracting, LLC. works in Clarksville, IN. If you live in a 
 
 Towns: Clarksville, IN
 
-## Questions homeowners ask
+## Common questions
 
 **What kind of projects do you take on?**
 
@@ -115,7 +115,7 @@ We remodel bathrooms, install flooring and build wood decks with cable railings.
 
 Yes. One family began a bathroom remodel and flooring project with a big retailer that fell short. We picked up right where it lagged, finished both, and returned items that had been ordered incorrectly before we took over. They now plan to hire us for their next project.
 
-**Do you give estimates?**
+**Will you come out for an estimate?**
 
 Yes. We come out to look at the project and give you an estimate. One homeowner who was unsure about hiring a company she did not know says we were super friendly at the estimate, recommended what we thought would look best and talked everything through.
 
