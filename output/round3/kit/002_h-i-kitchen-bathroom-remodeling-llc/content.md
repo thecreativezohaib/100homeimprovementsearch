@@ -188,7 +188,7 @@ Background image: `images/maps_05.jpg` (Wide view of a kitchen with cherry cabin
 
 ### AI image prompts
 
-- **ai_service_bathroom.jpg** (service:Bathroom remodeling): Photorealistic photo of a remodeled hall bathroom in a two-story suburban Raleigh, North Carolina home: white shaker vanity with a blue-gray granite top and an undermount sink, white subway tile shower with a clear glass door, light gray painted walls, warm cherry wood mirror frame and wood-look floor, in slate blue, warm cherry brown and soft white, soft natural light from a window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
+- **images/ai_service_bathroom.jpg** (service:Bathroom remodeling): Photorealistic photo of a remodeled hall bathroom in a two-story suburban Raleigh, North Carolina home: white shaker vanity with a blue-gray granite top and an undermount sink, white subway tile shower with a clear glass door, light gray painted walls, warm cherry wood mirror frame and wood-look floor, in slate blue, warm cherry brown and soft white, soft natural light from a window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
 
 ### Images not to use
 

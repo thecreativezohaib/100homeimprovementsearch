@@ -94,7 +94,7 @@
      "ai_file_name": "ai_service_tile_countertop.jpg",
      "ai_prompt": "Photorealistic photo of a freshly resurfaced tub and shower area in a North Texas suburban home: glossy bright white wall tile and a matching white tub, a white vanity countertop with a clean satin sheen nearby, brushed nickel fixtures, light gray floor tile, folded towels in navy and soft sky blue, natural daylight from a frosted window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
      "alt": "Bright bathroom with glossy white wall tile, a white tub and a white vanity top",
-     "file": null,
+     "file": "images/ai_service_tile_countertop.jpg",
      "source": "ai"
     }
    }
@@ -290,7 +290,7 @@
    "ai_file_name": "ai_cta_background.jpg",
    "ai_prompt": "Photorealistic photo of a calm, bright bathroom in a North Texas brick suburban home, shot wide: a glossy white alcove bathtub in a white tile surround, brushed nickel fixtures, a light gray floor, a folded navy towel and a sky blue bath mat, soft natural daylight from a frosted window, clean and finished, no people, no faces, no text, no logos, no brand names, 21:9",
    "alt": "Bright bathroom with a glossy white tub, white tile and blue towels",
-   "file": null,
+   "file": "images/ai_cta_background.jpg",
    "source": "ai"
   }
  },
@@ -366,7 +366,7 @@
   },
   {
    "slot": "service:Tile and countertop resurfacing",
-   "file": null,
+   "file": "images/ai_service_tile_countertop.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_tile_countertop.jpg",
    "ai_prompt": "Photorealistic photo of a freshly resurfaced tub and shower area in a North Texas suburban home: glossy bright white wall tile and a matching white tub, a white vanity countertop with a clean satin sheen nearby, brushed nickel fixtures, light gray floor tile, folded towels in navy and soft sky blue, natural daylight from a frosted window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -440,7 +440,7 @@
   },
   {
    "slot": "final_cta",
-   "file": null,
+   "file": "images/ai_cta_background.jpg",
    "source": "ai",
    "ai_file_name": "ai_cta_background.jpg",
    "ai_prompt": "Photorealistic photo of a calm, bright bathroom in a North Texas brick suburban home, shot wide: a glossy white alcove bathtub in a white tile surround, brushed nickel fixtures, a light gray floor, a folded navy towel and a sky blue bath mat, soft natural daylight from a frosted window, clean and finished, no people, no faces, no text, no logos, no brand names, 21:9",

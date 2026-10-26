@@ -83,7 +83,7 @@
      "ai_file_name": "ai_service_design.jpg",
      "ai_prompt": "Photorealistic photo of a kitchen design consultation table in a bright room: a printed kitchen floor plan, white shaker and walnut-tone cabinet door samples, white marble-look and speckled countertop samples, and a few brushed gold bar pulls laid out neatly, soft gray walls, natural daylight from a tall window, in slate gray, brushed gold and warm white, no people, no faces, no text, no logos, no brand names, 4:3",
      "alt": "Cabinet door samples, countertop samples and gold pulls laid out on a design table",
-     "file": null,
+     "file": "images/ai_service_design.jpg",
      "source": "ai"
     }
    },
@@ -257,7 +257,7 @@
    "ai_file_name": "ai_cta_background.jpg",
    "ai_prompt": "Photorealistic photo of a long, bright kitchen in a renovated New Orleans raised cottage, shot wide: white shaker cabinets to the ceiling with brushed gold pulls, white marble-look countertops, a gray and white glass mosaic backsplash, light gray walls and tall windows with afternoon light, in slate gray, brushed gold and warm white, clean and finished, no people, no faces, no text, no logos, no brand names, 21:9",
    "alt": "Long, bright kitchen with white shaker cabinets, gold pulls and marble-look counters",
-   "file": null,
+   "file": "images/ai_cta_background.jpg",
    "source": "ai"
   }
  },
@@ -323,7 +323,7 @@
   },
   {
    "slot": "service:Kitchen design help",
-   "file": null,
+   "file": "images/ai_service_design.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_design.jpg",
    "ai_prompt": "Photorealistic photo of a kitchen design consultation table in a bright room: a printed kitchen floor plan, white shaker and walnut-tone cabinet door samples, white marble-look and speckled countertop samples, and a few brushed gold bar pulls laid out neatly, soft gray walls, natural daylight from a tall window, in slate gray, brushed gold and warm white, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -373,7 +373,7 @@
   },
   {
    "slot": "final_cta",
-   "file": null,
+   "file": "images/ai_cta_background.jpg",
    "source": "ai",
    "ai_file_name": "ai_cta_background.jpg",
    "ai_prompt": "Photorealistic photo of a long, bright kitchen in a renovated New Orleans raised cottage, shot wide: white shaker cabinets to the ceiling with brushed gold pulls, white marble-look countertops, a gray and white glass mosaic backsplash, light gray walls and tall windows with afternoon light, in slate gray, brushed gold and warm white, clean and finished, no people, no faces, no text, no logos, no brand names, 21:9",

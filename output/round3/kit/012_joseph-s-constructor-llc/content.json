@@ -71,7 +71,7 @@
     "name": "Kitchen renovations",
     "blurb": "Kitchens are part of our whole-home work. One family's renovation took a little over two weeks and covered the kitchen along with flooring, painting, new doors and a new railing. They say Kim was super communicative and walked them through each step of the process.",
     "image": {
-     "file": null,
+     "file": "images/ai_service_kitchen.jpg",
      "source": "ai",
      "ai_file_name": "ai_service_kitchen.jpg",
      "ai_prompt": "Photorealistic photo of a renovated kitchen in a 1950s Cape Cod style home in central New Jersey: white shaker cabinets, a white quartz countertop, a white subway tile backsplash, matte black cabinet pulls and faucet, a brushed brass pendant over a small island and light oak-look flooring, in royal blue, warm gold, clean white and matte black accents, natural daylight from a window over the sink, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -91,7 +91,7 @@
     "name": "Painting, doors and railings",
     "blurb": "The finishing work that makes a house feel done: fresh paint, new interior doors and new stair railings. A client who had all three done alongside a new kitchen and floors says the crew was amazing, punctual and super respectful of their space throughout.",
     "image": {
-     "file": null,
+     "file": "images/ai_service_paint_doors_railings.jpg",
      "source": "ai",
      "ai_file_name": "ai_service_paint_doors_railings.jpg",
      "ai_prompt": "Photorealistic photo of a freshly painted front hallway in a central New Jersey colonial home: warm white walls, crisp white six-panel interior doors, a new stair railing with a natural oak handrail and matte black metal balusters, and light oak flooring, in royal blue, warm gold, clean white and matte black accents, soft natural light from a front window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -251,7 +251,7 @@
   },
   "phone": "(609) 665-8195",
   "image": {
-   "file": null,
+   "file": "images/ai_cta_background.jpg",
    "source": "ai",
    "ai_file_name": "ai_cta_background.jpg",
    "ai_prompt": "Photorealistic photo of a close, wide detail of a finished shower wall: white subway tile with dark grout, a matte black rain shower head and a frameless glass panel catching soft light, in royal blue, warm gold, clean white and matte black accents, natural daylight, calm and uncluttered with open space on the left for text overlay, no people, no faces, no text, no logos, no brand names, 21:9",
@@ -321,7 +321,7 @@
   },
   {
    "slot": "service:Kitchen renovations",
-   "file": null,
+   "file": "images/ai_service_kitchen.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_kitchen.jpg",
    "ai_prompt": "Photorealistic photo of a renovated kitchen in a 1950s Cape Cod style home in central New Jersey: white shaker cabinets, a white quartz countertop, a white subway tile backsplash, matte black cabinet pulls and faucet, a brushed brass pendant over a small island and light oak-look flooring, in royal blue, warm gold, clean white and matte black accents, natural daylight from a window over the sink, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -335,7 +335,7 @@
   },
   {
    "slot": "service:Painting, doors and railings",
-   "file": null,
+   "file": "images/ai_service_paint_doors_railings.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_paint_doors_railings.jpg",
    "ai_prompt": "Photorealistic photo of a freshly painted front hallway in a central New Jersey colonial home: warm white walls, crisp white six-panel interior doors, a new stair railing with a natural oak handrail and matte black metal balusters, and light oak flooring, in royal blue, warm gold, clean white and matte black accents, soft natural light from a front window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -379,7 +379,7 @@
   },
   {
    "slot": "final_cta",
-   "file": null,
+   "file": "images/ai_cta_background.jpg",
    "source": "ai",
    "ai_file_name": "ai_cta_background.jpg",
    "ai_prompt": "Photorealistic photo of a close, wide detail of a finished shower wall: white subway tile with dark grout, a matte black rain shower head and a frameless glass panel catching soft light, in royal blue, warm gold, clean white and matte black accents, natural daylight, calm and uncluttered with open space on the left for text overlay, no people, no faces, no text, no logos, no brand names, 21:9",

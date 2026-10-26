@@ -192,7 +192,7 @@ Background image: `images/maps_03.jpg` (Close view of glossy gray herringbone ti
 
 ### AI image prompts
 
-- **ai_service_master_bath.jpg** (service:Master bathroom tile remodels): Photorealistic photo of a remodeled master bathroom in a single-story Florida suburban home: a walk-in shower with a cobalt blue glazed herringbone tile accent wall, white large-format tile on the side walls, a clear glass panel, a white shaker double vanity with a white quartz top and brushed nickel faucets, light gray porcelain floor tile, in navy, cobalt blue and soft white, soft natural daylight from a high window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
+- **images/ai_service_master_bath.jpg** (service:Master bathroom tile remodels): Photorealistic photo of a remodeled master bathroom in a single-story Florida suburban home: a walk-in shower with a cobalt blue glazed herringbone tile accent wall, white large-format tile on the side walls, a clear glass panel, a white shaker double vanity with a white quartz top and brushed nickel faucets, light gray porcelain floor tile, in navy, cobalt blue and soft white, soft natural daylight from a high window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
 
 ### Images not to use
 

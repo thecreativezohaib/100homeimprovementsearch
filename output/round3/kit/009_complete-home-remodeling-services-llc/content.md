@@ -210,8 +210,8 @@ Background image: AI image `images/ai_cta_background.jpg` (Two-story colonial-st
 
 ### AI image prompts
 
-- **ai_service_exterior.jpg** (service:Doors, siding and drywall repairs): Photorealistic photo of the back of a two-story colonial-style house on Maryland's Eastern Shore with new pale gray lap siding, a new white-framed sliding patio door opening onto a small concrete patio, a hose bib on the wall, a neat green lawn and mature trees, in deep maroon-brown, sage green and warm cream accents, soft natural daylight, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
-- **ai_cta_background.jpg** (final_cta): Photorealistic photo of a quiet residential street of two-story colonial-style homes with lap siding, white trim and mature shade trees on Maryland's Eastern Shore at golden hour, tidy lawns and a calm sky, in deep maroon-brown, sage green and warm cream tones, soft natural light, no house numbers, no people, no faces, no text, no logos, no brand names, 21:9
+- **images/ai_service_exterior.jpg** (service:Doors, siding and drywall repairs): Photorealistic photo of the back of a two-story colonial-style house on Maryland's Eastern Shore with new pale gray lap siding, a new white-framed sliding patio door opening onto a small concrete patio, a hose bib on the wall, a neat green lawn and mature trees, in deep maroon-brown, sage green and warm cream accents, soft natural daylight, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
+- **images/ai_cta_background.jpg** (final_cta): Photorealistic photo of a quiet residential street of two-story colonial-style homes with lap siding, white trim and mature shade trees on Maryland's Eastern Shore at golden hour, tidy lawns and a calm sky, in deep maroon-brown, sage green and warm cream tones, soft natural light, no house numbers, no people, no faces, no text, no logos, no brand names, 21:9
 
 ### Images not to use
 

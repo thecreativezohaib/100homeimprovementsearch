@@ -4,7 +4,7 @@ each image by its file name against output/round2/final/AI_IMAGES_MAP.csv, centr
 ratio, saves it as JPEG at the page's file name (homepages/<NNN_slug>/images/ai_*.jpg) and reports missing images.
 A folder or zip may also hold a Gemini chat saved with Ctrl+S as "Webpage, Complete": each image is then matched to
 the file name Gemini wrote under it.
-Usage: r2_import_ai.py <zip or folder> [...] [--names-under | --names-above]"""
+Usage: r2_import_ai.py <zip or folder> [...] [--names-under | --names-above] [--round3]"""
 import csv, io, os, re, shutil, sys, tempfile, zipfile
 from html.parser import HTMLParser
 from urllib.parse import unquote
@@ -12,6 +12,8 @@ from PIL import Image, ImageOps
 
 F = "/home/user/100homeimprovementsearch/output/round2/final"
 AI = "/home/user/100homeimprovementsearch/output/round2/ai_images"
+if "--round3" in sys.argv:  # round 3: the kit folders themselves hold the pages
+    F = AI = "/home/user/100homeimprovementsearch/output/round3/kit"
 M = {r["file_name"].lower(): r for r in csv.DictReader(open(f"{F}/AI_IMAGES_MAP.csv"))}
 RATIO = {"16:9": 16 / 9, "4:3": 4 / 3, "4:5": 4 / 5, "21:9": 21 / 9}
 found = {}
@@ -35,9 +37,10 @@ def take(name, data):
     os.makedirs(os.path.dirname(dst), exist_ok=True)
     im.save(dst, "JPEG", quality=85, optimize=True, progressive=True)
     # keep a copy by business slug so r2_final.py puts it back whenever the kit is rebuilt
-    keep = f"{AI}/{r['folder'].split('/')[-1][4:]}/{os.path.basename(r['save_as'])}"
-    os.makedirs(os.path.dirname(keep), exist_ok=True)
-    shutil.copy(dst, keep)
+    if AI != F:
+        keep = f"{AI}/{r['folder'].split('/')[-1][4:]}/{os.path.basename(r['save_as'])}"
+        os.makedirs(os.path.dirname(keep), exist_ok=True)
+        shutil.copy(dst, keep)
     found[key] = dst
 
 

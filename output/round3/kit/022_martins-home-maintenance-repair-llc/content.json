@@ -62,7 +62,7 @@
     "name": "Plumbing and gas lines",
     "blurb": "Elias runs new hot and cold water lines, installs drainage lines and runs steel pipe for gas. One client who had all three done says everything was professionally done, with very clean work and great communication, and recommends him for any type of house work.",
     "image": {
-     "file": null,
+     "file": "images/ai_service_plumbing_gas.jpg",
      "source": "ai",
      "ai_file_name": "ai_service_plumbing_gas.jpg",
      "ai_prompt": "Photorealistic photo of a tidy utility room in an older American raised ranch home: neatly run copper hot and cold water lines with shutoff valves, a white PVC drain line and a black steel gas pipe with a yellow-handled shutoff, all clamped straight along a painted wall above a sealed concrete floor, in slate gray-blue, warm oak, warm beige and espresso brown, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -82,7 +82,7 @@
     "name": "Bathroom upgrades",
     "blurb": "Small bathroom upgrades are part of the work too. In one job shared on our Facebook page, a customer wanted to swap out an old three-handle fixture for something newer. Call to describe the faucet, valve or other bathroom update you have in mind.",
     "image": {
-     "file": null,
+     "file": "images/ai_service_bathroom_upgrade.jpg",
      "source": "ai",
      "ai_file_name": "ai_service_bathroom_upgrade.jpg",
      "ai_prompt": "Photorealistic photo of an updated tub and shower wall in an older American home bathroom: classic white subway tile, a new single-handle shower valve trim and matching shower head and tub spout in brushed nickel, a white tub and a light gray shower curtain pulled aside, in slate gray-blue, warm oak, warm beige and espresso brown, soft natural daylight, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -299,7 +299,7 @@
   },
   {
    "slot": "service:Plumbing and gas lines",
-   "file": null,
+   "file": "images/ai_service_plumbing_gas.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_plumbing_gas.jpg",
    "ai_prompt": "Photorealistic photo of a tidy utility room in an older American raised ranch home: neatly run copper hot and cold water lines with shutoff valves, a white PVC drain line and a black steel gas pipe with a yellow-handled shutoff, all clamped straight along a painted wall above a sealed concrete floor, in slate gray-blue, warm oak, warm beige and espresso brown, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -313,7 +313,7 @@
   },
   {
    "slot": "service:Bathroom upgrades",
-   "file": null,
+   "file": "images/ai_service_bathroom_upgrade.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_bathroom_upgrade.jpg",
    "ai_prompt": "Photorealistic photo of an updated tub and shower wall in an older American home bathroom: classic white subway tile, a new single-handle shower valve trim and matching shower head and tub spout in brushed nickel, a white tub and a light gray shower curtain pulled aside, in slate gray-blue, warm oak, warm beige and espresso brown, soft natural daylight, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",

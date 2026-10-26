@@ -35,7 +35,7 @@
    "Phone open 24 hours, 7 days"
   ],
   "image": {
-   "file": null,
+   "file": "images/ai_hero.jpg",
    "source": "ai",
    "ai_file_name": "ai_hero.jpg",
    "ai_prompt": "Photorealistic photo of a finished bathroom in a two-story Northern Virginia colonial home: a walk-in shower clad in large warm gray porcelain tile with a recessed tiled niche and a small mosaic floor, a frameless glass panel, a white shaker vanity with a white Carrara-look marble top and brushed brass faucet, in deep green-black stone, warm brass, warm gray and soft white, soft natural daylight from a double-hung window, clean and finished, no people, no faces, no text, no logos, no brand names, 16:9",
@@ -56,7 +56,7 @@
     "name": "Full bathroom remodels",
     "blurb": "Whole-bathroom renovations, with Raphael and Jorge on the job. They handled one client's bathroom renovation, and the homeowner calls them timely, thorough and great to work with. Call to talk through the layout, tile and fixtures you want.",
     "image": {
-     "file": null,
+     "file": "images/ai_service_bathroom.jpg",
      "source": "ai",
      "ai_file_name": "ai_service_bathroom.jpg",
      "ai_prompt": "Photorealistic photo of a fully renovated hall bathroom in a suburban American home: warm gray porcelain floor tile, a tub and shower surround in large gray tile with a recessed niche, a white vanity with a white marble top, a framed mirror and simple brass fixtures, in deep green-black stone, warm brass, warm gray and soft white, natural daylight from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -85,7 +85,7 @@
     "name": "Leak repairs and fixing earlier work",
     "blurb": "Sometimes the job starts with someone else's mistake. A client hired us after a leak that another person he had hired messed up and made worse. Raffaele fixed it and remodeled the entire bathroom, and the client says he would definitely recommend us.",
     "image": {
-     "file": null,
+     "file": "images/ai_service_leak_repair.jpg",
      "source": "ai",
      "ai_file_name": "ai_service_leak_repair.jpg",
      "ai_prompt": "Photorealistic photo of a repaired and freshly tiled tub and shower wall in a suburban American bathroom: large warm gray tile, a new single-handle shower valve trim in brushed brass, clean caulk lines at the tub edge and a recessed niche, in deep green-black stone, warm brass, warm gray and soft white, soft natural daylight, dry, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -224,7 +224,7 @@
   },
   "phone": "(703) 488-0600",
   "image": {
-   "file": null,
+   "file": "images/ai_cta_background.jpg",
    "source": "ai",
    "ai_file_name": "ai_cta_background.jpg",
    "ai_prompt": "Photorealistic photo of a wide close-up of a polished dark green marble slab with pale swirling veins meeting a wall of warm gray porcelain tile with thin grout lines, in deep green-black stone, warm brass, warm gray and soft white, soft natural side light, calm and uncluttered with open space for text overlay, no people, no faces, no text, no logos, no brand names, 21:9",
@@ -267,7 +267,7 @@
  "image_plan": [
   {
    "slot": "hero",
-   "file": null,
+   "file": "images/ai_hero.jpg",
    "source": "ai",
    "ai_file_name": "ai_hero.jpg",
    "ai_prompt": "Photorealistic photo of a finished bathroom in a two-story Northern Virginia colonial home: a walk-in shower clad in large warm gray porcelain tile with a recessed tiled niche and a small mosaic floor, a frameless glass panel, a white shaker vanity with a white Carrara-look marble top and brushed brass faucet, in deep green-black stone, warm brass, warm gray and soft white, soft natural daylight from a double-hung window, clean and finished, no people, no faces, no text, no logos, no brand names, 16:9",
@@ -275,7 +275,7 @@
   },
   {
    "slot": "service:Full bathroom remodels",
-   "file": null,
+   "file": "images/ai_service_bathroom.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_bathroom.jpg",
    "ai_prompt": "Photorealistic photo of a fully renovated hall bathroom in a suburban American home: warm gray porcelain floor tile, a tub and shower surround in large gray tile with a recessed niche, a white vanity with a white marble top, a framed mirror and simple brass fixtures, in deep green-black stone, warm brass, warm gray and soft white, natural daylight from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -295,7 +295,7 @@
   },
   {
    "slot": "service:Leak repairs and fixing earlier work",
-   "file": null,
+   "file": "images/ai_service_leak_repair.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_leak_repair.jpg",
    "ai_prompt": "Photorealistic photo of a repaired and freshly tiled tub and shower wall in a suburban American bathroom: large warm gray tile, a new single-handle shower valve trim in brushed brass, clean caulk lines at the tub edge and a recessed niche, in deep green-black stone, warm brass, warm gray and soft white, soft natural daylight, dry, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -321,7 +321,7 @@
   },
   {
    "slot": "final_cta",
-   "file": null,
+   "file": "images/ai_cta_background.jpg",
    "source": "ai",
    "ai_file_name": "ai_cta_background.jpg",
    "ai_prompt": "Photorealistic photo of a wide close-up of a polished dark green marble slab with pale swirling veins meeting a wall of warm gray porcelain tile with thin grout lines, in deep green-black stone, warm brass, warm gray and soft white, soft natural side light, calm and uncluttered with open space for text overlay, no people, no faces, no text, no logos, no brand names, 21:9",

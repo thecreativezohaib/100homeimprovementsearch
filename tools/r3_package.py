@@ -34,8 +34,27 @@ def strings(o, path=""):
 rows, prompts = [], []
 folders = [d for d in sorted(glob.glob(f"{K}/[0-9]*_*")) if os.path.exists(f"{d}/content.json")
            and (only is None or int(os.path.basename(d)[:3]) in only)]
+def link_ai(o, d):
+    """an AI slot whose image has been generated points to its file"""
+    if isinstance(o, dict):
+        if o.get("ai_file_name") and not o.get("file") and os.path.exists(f"{d}/images/{o['ai_file_name']}"):
+            o["file"] = f"images/{o['ai_file_name']}"
+        for v in o.values():
+            link_ai(v, d)
+    elif isinstance(o, list):
+        for v in o:
+            link_ai(v, d)
+
+
 for d in folders:
     c, r = json.load(open(f"{d}/content.json")), json.load(open(f"{d}/research.json"))
+    before = json.dumps(c)
+    link_ai(c, d)
+    if json.dumps(c) != before:
+        json.dump(c, open(f"{d}/content.json", "w"), indent=1, ensure_ascii=False)
+        md = open(f"{d}/content.md").read()
+        md = re.sub(r"(?<![/\w])(ai_[a-z0-9_]+\.jpg)", lambda m: f"images/{m.group(1)}" if os.path.exists(f"{d}/images/{m.group(1)}") else m.group(1), md)
+        open(f"{d}/content.md", "w").write(md)
     issues = []
     for p, s in strings(c):
         quoted = re.search(r"testimonials", p)
@@ -81,7 +100,7 @@ for d in folders:
                  "email": (c.get("footer") or {}).get("email", ""), "email_published_at": r["email"].get("published_at"),
                  "facebook": r.get("facebook_url") or "", "instagram": r.get("instagram_url") or "",
                  "google_maps": r["google"].get("maps_url"), "primary_keyword": seo.get("primary_keyword", ""),
-                 "real_photos": real, "ai_slots": len(ai), "testimonials": len((c.get("testimonials") or {}).get("items") or []),
+                 "real_photos": real, "ai_slots": len(ai), "ai_images_missing": sum(1 for e in ai if not e.get("file")), "testimonials": len((c.get("testimonials") or {}).get("items") or []),
                  "to_confirm": " | ".join(str(m) for m in (c.get("missing") or [])[:4]),
                  "outreach_detail": (c.get("outreach") or {}).get("specific_detail", ""), "lint_issues": "; ".join(issues)})
 

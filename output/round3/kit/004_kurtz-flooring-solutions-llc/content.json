@@ -61,7 +61,7 @@
     "name": "Hardwood floor installation",
     "blurb": "Hardwood installation is a topic in two Google reviews. If you want real wood in a living room or bedroom, call to talk through the boards, the layout and the condition of your subfloor, so the plan fits your house before any material is ordered.",
     "image": {
-     "file": null,
+     "file": "images/ai_service_hardwood.jpg",
      "source": "ai",
      "ai_file_name": "ai_service_hardwood.jpg",
      "ai_prompt": "Photorealistic photo of a living room in a single-story Arkansas ranch home with a newly installed oak hardwood floor in a warm honey brown tone, boards running the length of the room, white baseboards, light gray walls, a simple sofa and a wool rug pulled back to show the floor, in walnut brown, honey and warm white, soft natural light from a side window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -72,7 +72,7 @@
     "name": "Porcelain tile bathrooms and tub surrounds",
     "blurb": "One family had their bathroom floor and tub and shower surround redone in porcelain tile and says it came out beautiful. Tile in a wet area takes patience at every corner and cut, which is how clients describe Gabriel: he takes his time and does it right.",
     "image": {
-     "file": null,
+     "file": "images/ai_service_tub_surround.jpg",
      "source": "ai",
      "ai_file_name": "ai_service_tub_surround.jpg",
      "ai_prompt": "Photorealistic photo of a small remodeled bathroom in a single-story Arkansas ranch home: a white bathtub with a floor-to-ceiling surround of large light gray porcelain tile laid in a running bond, a matching porcelain tile floor, a white shaker vanity with a marble-look top, a chrome shower head, in warm gray, walnut brown and warm white, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -290,7 +290,7 @@
   },
   {
    "slot": "service:Hardwood floor installation",
-   "file": null,
+   "file": "images/ai_service_hardwood.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_hardwood.jpg",
    "ai_prompt": "Photorealistic photo of a living room in a single-story Arkansas ranch home with a newly installed oak hardwood floor in a warm honey brown tone, boards running the length of the room, white baseboards, light gray walls, a simple sofa and a wool rug pulled back to show the floor, in walnut brown, honey and warm white, soft natural light from a side window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
@@ -298,7 +298,7 @@
   },
   {
    "slot": "service:Porcelain tile bathrooms and tub surrounds",
-   "file": null,
+   "file": "images/ai_service_tub_surround.jpg",
    "source": "ai",
    "ai_file_name": "ai_service_tub_surround.jpg",
    "ai_prompt": "Photorealistic photo of a small remodeled bathroom in a single-story Arkansas ranch home: a white bathtub with a floor-to-ceiling surround of large light gray porcelain tile laid in a running bond, a matching porcelain tile floor, a white shaker vanity with a marble-look top, a chrome shower head, in warm gray, walnut brown and warm white, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3",
