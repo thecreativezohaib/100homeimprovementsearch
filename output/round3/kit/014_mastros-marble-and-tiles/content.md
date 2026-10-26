@@ -2,18 +2,18 @@
 
 ## SEO
 
-- Title tag: Marble and Tile Bathroom Remodels | Mastros Marble and Tiles
-- Meta description: Marble and tile bathroom remodels by Raphael and Jorge: full bathroom renovations, tiled showers, stone work and leak fixes. Call (703) 488-0600 any time.
-- Primary keyword: marble and tile bathroom remodels
-- Secondary keywords: bathroom renovation contractor, tile shower installation, marble installation contractor, shower niche tile work, bathroom leak repair, stone fireplace hearth installation
-- OG title: Mastros Marble and Tiles | Marble and Tile Bathroom Remodels
+- Title tag: Bathroom Remodeling in Woodbridge, VA | Mastros Marble
+- Meta description: Bathroom remodeling in Woodbridge, VA by Raphael and Jorge: full renovations, tiled showers, marble and stone work and leak fixes. Call (703) 488-0600.
+- Primary keyword: bathroom remodeling Woodbridge VA
+- Secondary keywords: marble and tile bathroom remodels, bathroom renovation contractor Woodbridge VA, tile shower installation, marble installation contractor, shower niche tile work, bathroom leak repair, stone fireplace hearth installation
+- OG title: Mastros Marble and Tiles | Bathroom Remodeling in Woodbridge, VA
 - OG description: Raphael and Jorge remodel bathrooms, tile showers and set marble and stone. Clients call them timely, thorough and great to work with.
 
 ## Hero
 
-*Tile and marble contractor*
+*Tile and marble contractor in Woodbridge, VA*
 
-# Marble and Tile Bathroom Remodels
+# Marble and Tile Bathroom Remodeling in Woodbridge, VA
 
 Mastros Marble and Tiles remodels whole bathrooms, tiles showers from the walls to the floor and sets polished stone, with Raphael and Jorge doing the work.
 
@@ -21,15 +21,15 @@ Mastros Marble and Tiles remodels whole bathrooms, tiles showers from the walls 
 
 Trust badges: 4.5 stars from 8 Google reviews · Bathroom remodels are our most reviewed job · Phone open 24 hours, 7 days
 
-Hero image: AI image `images/ai_hero.jpg` (Illustration of marble and tile bathroom remodels: a gray tiled walk-in shower with a recessed niche beside a white marble vanity top)
+Hero image: AI image `images/ai_hero.jpg` (Illustration for bathroom remodeling in Woodbridge, VA: a gray tiled walk-in shower with a recessed niche beside a white marble vanity top)
 
 ## Tile and stone work, done by the people you meet
 
-Mastros Marble and Tiles takes on marble and tile bathroom remodels, from a single shower to the whole room. Clients know the crew by name: Raphael and Jorge. One homeowner says they did an awesome job on their bathroom renovation and were timely, thorough and great to work with.
+Mastros Marble and Tiles takes on bathroom remodeling in Woodbridge, VA, with marble and tile work from a single shower to the whole room. Clients know the crew by name: Raphael and Jorge. One homeowner says they did an awesome job on their bathroom renovation and were timely, thorough and great to work with.
 
 We also get called when a bathroom has gone wrong. Another client hired Raffaele to remodel an entire bathroom and to fix a leak that someone else had made worse. Our photos show the details we build in: large-format wall tile, a mosaic shower floor, a recessed niche and a solid curb.
 
-## Marble and tile bathroom remodels, showers and stone
+## Bathroom remodeling in Woodbridge, VA: tile, showers and stone
 
 ### Full bathroom remodels
 
@@ -104,11 +104,11 @@ Image: `images/maps_02.jpg` (Gray tiled walk-in shower with a recessed niche bes
 >
 > Damian M., Google, a year ago
 
-## Where we work
+## Serving Woodbridge, VA
 
-We come to your home for bathroom remodels, tiled showers, marble and stone work and leak repairs. To find out whether your street is in our area, call (703) 488-0600 or email mastrosmarbleandtiles@gmail.com with your town and a short note about the project. Clients also reach us through Google and our Facebook page, where you can see more of our photos.
+Mastros Marble and Tiles serves Woodbridge, VA, and we come to your home for bathroom remodels, tiled showers, marble and stone work and leak repairs. If you live outside Woodbridge and want to know whether your street is in range, call (703) 488-0600 or email mastrosmarbleandtiles@gmail.com with your town and a short note about the project. Clients also reach us through Google and our Facebook page, where you can see more of our photos.
 
-Towns: none confirmed (see Missing)
+Towns: Woodbridge, VA
 
 ## Tile and marble questions
 
@@ -143,7 +143,7 @@ Background: AI image `images/ai_cta_background.jpg` (Close view of polished dark
 ## Footer
 
 - Name: Mastros marble and tiles
-- Address: Service area: call (703) 488-0600 to confirm
+- Address: Serving Woodbridge, VA
 - Phone: (703) 488-0600
 - Email: mastrosmarbleandtiles@gmail.com
 - Socials: https://www.facebook.com/MastrosMableandtiles, https://www.google.com/maps/place/?q=place_id:ChIJH2pD2xu8IUwRvcB3geeC2d0
@@ -158,6 +158,15 @@ Background: AI image `images/ai_cta_background.jpg` (Close view of polished dark
  "name": "Mastros marble and tiles",
  "telephone": "+17034880600",
  "email": "mastrosmarbleandtiles@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "addressLocality": "Woodbridge",
+  "addressRegion": "VA",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Woodbridge, VA"
+ ],
  "openingHours": "Mo-Su 00:00-23:59",
  "sameAs": [
   "https://www.facebook.com/MastrosMableandtiles",
@@ -169,8 +178,8 @@ Background: AI image `images/ai_cta_background.jpg` (Close view of polished dark
 
 ## Image plan
 
-- **hero**: AI image `images/ai_hero.jpg` (alt: Illustration of marble and tile bathroom remodels: a gray tiled walk-in shower with a recessed niche beside a white marble vanity top)
-  - Prompt: Photorealistic photo of a finished bathroom in a two-story suburban American colonial home: a walk-in shower clad in large warm gray porcelain tile with a recessed tiled niche and a small mosaic floor, a frameless glass panel, a white shaker vanity with a white Carrara-look marble top and brushed brass faucet, in deep green-black stone, warm brass, warm gray and soft white, soft natural daylight from a double-hung window, clean and finished, no people, no faces, no text, no logos, no brand names, 16:9
+- **hero**: AI image `images/ai_hero.jpg` (alt: Illustration for bathroom remodeling in Woodbridge, VA: a gray tiled walk-in shower with a recessed niche beside a white marble vanity top)
+  - Prompt: Photorealistic photo of a finished bathroom in a two-story Northern Virginia colonial home: a walk-in shower clad in large warm gray porcelain tile with a recessed tiled niche and a small mosaic floor, a frameless glass panel, a white shaker vanity with a white Carrara-look marble top and brushed brass faucet, in deep green-black stone, warm brass, warm gray and soft white, soft natural daylight from a double-hung window, clean and finished, no people, no faces, no text, no logos, no brand names, 16:9
 - **service:Full bathroom remodels**: AI image `images/ai_service_bathroom.jpg` (alt: Renovated bathroom with gray porcelain wall tile, a white vanity with a marble top and a tiled shower)
   - Prompt: Photorealistic photo of a fully renovated hall bathroom in a suburban American home: warm gray porcelain floor tile, a tub and shower surround in large gray tile with a recessed niche, a white vanity with a white marble top, a framed mirror and simple brass fixtures, in deep green-black stone, warm brass, warm gray and soft white, natural daylight from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
 - **service:Tile showers**: real photo `images/maps_02.jpg` (alt: Walk-in shower tiled in large warm gray tile with a recessed niche, a small square mosaic floor and a white curb)
@@ -221,8 +230,10 @@ Real photo slots: 5 (2 different photos). AI slots: 4.
 
 ## Missing
 
+- 1-star review (3 years ago) calls the owner a scam artist, no owner reply: review before outreach
 - confirm email mastrosmarbleandtiles@gmail.com (published on Facebook: https://www.facebook.com/groups/228475984028897/posts/2817957715080698/)
-- to confirm with owner: based in Woodbridge, VA and serving Northern Virginia (no town anywhere on Google, so the page names no town, title and H1 carry no location, and the footer says 'Service area: call to confirm')
+- Woodbridge, VA: town from earlier research, matches the phone's area code: confirm with owner (703); Google shows no town or service area
+- to confirm with owner: wider service area across Northern Virginia
 - to confirm with owner: kitchen renovations, kitchen floors and backsplashes
 - to confirm with owner: wood floor and vinyl installation
 - to confirm with owner: 10+ years of experience
@@ -232,6 +243,6 @@ Real photo slots: 5 (2 different photos). AI slots: 4.
 - Free estimates not stated, so the CTA says 'Request an estimate'
 - Logo and tagline: none found
 - needs project photos: only 2 usable real photos (maps_01 low light with personal photos on the mantel, crop the top; maps_02 a shower before fixtures); gallery stays at 2
-- A 1-star review from Shanna Pilisi (3 years ago) with photos (maps_03 to maps_06) accuses 'rafaelle' of sloppy work and taking money; no owner reply. Worth raising with the owner before outreach
+- The 1-star review is from Shanna Pilisi; its photos are maps_03 to maps_06, all excluded
 - Only 2 positive review texts captured (3 of 8 reviews); testimonials section has 2 items, under the 3 the brief asks for
 - Facebook page name is spelled 'MastrosMableandtiles' (missing r); confirm the URL

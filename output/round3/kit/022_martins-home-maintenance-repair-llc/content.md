@@ -2,18 +2,18 @@
 
 ## SEO
 
-- Title tag: Handyman and Remodeling | Martins Home Maintenance & Repair
-- Meta description: Handyman and remodeling by Elias: garage-to-laundry conversions, water, drain and gas lines, built-in walls and bathroom upgrades. Call (845) 381-2746.
-- Primary keyword: handyman and remodeling
-- Secondary keywords: garage to laundry room conversion, gas line installation handyman, hot and cold water line installation, built-in TV wall with shelves, bathroom fixture upgrade, home maintenance and repair
-- OG title: Martins Home Maintenance & Repair | Handyman and Remodeling
+- Title tag: Handyman and Remodeling in Montgomery, NY | Martins Repair
+- Meta description: Handyman and remodeling in Montgomery, NY by Elias: garage-to-laundry conversions, water, drain and gas lines, built-in walls and bathroom upgrades.
+- Primary keyword: handyman and remodeling Montgomery NY
+- Secondary keywords: garage to laundry room conversion, gas line installation handyman, hot and cold water line installation, built-in TV wall with shelves, bathroom fixture upgrade, home maintenance and repair Montgomery NY
+- OG title: Martins Home Maintenance & Repair | Handyman in Montgomery, NY
 - OG description: Elias turns half a garage into a laundry room, runs water and gas lines and builds media walls, with clean work and clear communication.
 
 ## Hero
 
 *Conversions, plumbing lines and built-ins*
 
-# Handyman and Remodeling, From Laundry Rooms to Gas Lines
+# Handyman and Remodeling in Montgomery, NY
 
 Elias turns unused space into rooms you use, runs hot, cold, drain and gas lines, and builds clean finished walls, with good communication and no mess left behind.
 
@@ -21,11 +21,11 @@ Elias turns unused space into rooms you use, runs hot, cold, drain and gas lines
 
 Trust badges: 5.0 stars from 6 Google reviews · Clean work and communication, say reviewers · Open Monday to Saturday
 
-Hero image: `images/maps_06.jpg` (Finished media wall with a mounted TV above two recessed dark wood shelf niches, crown molding and white baseboard, handyman and remodeling by Martins)
+Hero image: `images/maps_06.jpg` (Finished media wall with a mounted TV above two recessed dark wood shelf niches, crown molding and white baseboard, handyman and remodeling Montgomery NY by Martins)
 
 ## Real projects, clean work and clear answers
 
-Martins Home Maintenance & Repair LLC offers handyman and remodeling work led by Elias, and the jobs clients describe go well past small fixes. He converted half of one family's garage into a laundry room, framing a raised floor over the concrete and finishing it with plank flooring and laundry hookups. For another client he ran hot and cold water lines, a drainage line and a steel gas line.
+Martins Home Maintenance & Repair LLC offers handyman and remodeling work in Montgomery, NY, led by Elias, and the jobs clients describe go well past small fixes. He converted half of one family's garage into a laundry room, framing a raised floor over the concrete and finishing it with plank flooring and laundry hookups. For another client he ran hot and cold water lines, a drainage line and a steel gas line.
 
 What clients mention most is how he works. He talks you through what needs to be done, stays patient with questions and does not leave a mess. Clean work and communication are the two topics Google reviewers bring up most.
 
@@ -112,11 +112,11 @@ Image: `images/maps_01.jpg` (Garage interior with a new raised floor frame of wo
 >
 > Megan, Google, 8 months ago
 
-## Handyman and remodeling work at your home
+## Handyman and remodeling in Montgomery, NY
 
-Elias works on site, in your house or garage, and brings the job from rough framing to finished trim. To find out whether your home is in our area, call (845) 381-2746 during business hours or email martinsrepairs@outlook.com with your town and a short description of the job, whether it is a room conversion, a new gas or water line, a built-in wall or a bathroom fixture.
+Martins Home Maintenance & Repair serves Montgomery, NY. Elias works on site, in your house or garage, and brings the job from rough framing to finished trim. If you live outside Montgomery and want to know whether your home is in range, call (845) 381-2746 during business hours or email martinsrepairs@outlook.com with your town and a short description of the job, whether it is a room conversion, a new gas or water line, a built-in wall or a bathroom fixture.
 
-Towns: none confirmed (see Missing)
+Towns: Montgomery, NY
 
 ## Common questions
 
@@ -149,7 +149,7 @@ Call Elias and talk through the room, line or wall you have in mind.
 ## Footer
 
 - Name: Martins Home Maintenance & Repair LLC
-- Address: Service area: call (845) 381-2746 to confirm
+- Address: Serving Montgomery, NY
 - Phone: (845) 381-2746
 - Email: martinsrepairs@outlook.com
 - Socials: https://www.facebook.com/61566865794188, https://www.google.com/maps/place/?q=place_id:ChIJFbTFHT5hRCER0MTc8lejfkg
@@ -164,6 +164,15 @@ Call Elias and talk through the room, line or wall you have in mind.
  "name": "Martins Home Maintenance & Repair LLC",
  "telephone": "+18453812746",
  "email": "martinsrepairs@outlook.com",
+ "address": {
+  "@type": "PostalAddress",
+  "addressLocality": "Montgomery",
+  "addressRegion": "NY",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Montgomery, NY"
+ ],
  "openingHours": [
   "Mo-Th 07:00-16:00",
   "Fr 08:00-16:00",
@@ -179,7 +188,7 @@ Call Elias and talk through the room, line or wall you have in mind.
 
 ## Image plan
 
-- **hero**: real photo `images/maps_06.jpg` (alt: Finished media wall with a mounted TV above two recessed dark wood shelf niches, crown molding and white baseboard, handyman and remodeling by Martins)
+- **hero**: real photo `images/maps_06.jpg` (alt: Finished media wall with a mounted TV above two recessed dark wood shelf niches, crown molding and white baseboard, handyman and remodeling Montgomery NY by Martins)
 - **service:Garage and room conversions**: real photo `images/maps_02.jpg` (alt: New laundry room with gray wood-look plank floor, white walls, a recessed washer valve box and a dryer vent)
 - **service:Plumbing and gas lines**: AI image `images/ai_service_plumbing_gas.jpg` (alt: Neatly run copper water lines and a black steel gas pipe along a finished utility room wall)
   - Prompt: Photorealistic photo of a tidy utility room in an older American raised ranch home: neatly run copper hot and cold water lines with shutoff valves, a white PVC drain line and a black steel gas pipe with a yellow-handled shutoff, all clamped straight along a painted wall above a sealed concrete floor, in slate gray-blue, warm oak, warm beige and espresso brown, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
@@ -232,7 +241,8 @@ Real photo slots: 10 (6 different photos). AI slots: 2.
 ## Missing
 
 - confirm email martinsrepairs@outlook.com (published on Facebook: https://www.facebook.com/61566865794188/posts/a-little-bathroom-upgradethis-customer-wanted-to-swap-out-their-old-three-handle/122239088048562193/)
-- to confirm with owner: based in Montgomery, NY and serving Pine Bush and Orange County, NY (no town anywhere on Google, so the page names no town, title and H1 carry no location, and the footer says 'Service area: call to confirm')
+- Montgomery, NY: town from earlier research, matches the phone's area code: confirm with owner (845); Google shows no town or service area
+- to confirm with owner: also serving Pine Bush and Orange County, NY
 - to confirm with owner: fully insured
 - to confirm with owner: roofing, siding and tile installation as services
 - to confirm with owner: spelling of Elias (Giovanni writes Elias, two reviews write Ellias) and his title

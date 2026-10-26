@@ -2,18 +2,18 @@
 
 ## SEO
 
-- Title tag: Handyman and Home Remodeling | RC Handy with Cole Stewart
-- Meta description: Handyman and home remodeling by Cole Stewart of RC Handy: bathroom remodels, gut rebuilds, custom railings, floors and decks. Rated 5.0 on Google. Call today.
-- Primary keyword: handyman and home remodeling
-- Secondary keywords: bathroom remodel contractor, custom wrought iron stair railings, hardwood floor refinishing, smoke damage home rebuild, deck construction handyman, cabin kitchen remodel
-- OG title: RC Handy | Handyman and Home Remodeling by Cole Stewart
+- Title tag: Handyman and Home Remodeling in Denver, CO | RC Handy
+- Meta description: Handyman and home remodeling in Denver, CO by Cole Stewart: bathroom remodels, gut rebuilds, custom railings, floors and decks. Rated 5.0 on Google.
+- Primary keyword: handyman and home remodeling Denver CO
+- Secondary keywords: handyman Denver CO, bathroom remodel contractor Denver, custom wrought iron stair railings, hardwood floor refinishing, smoke damage home rebuild, deck construction handyman, cabin kitchen remodel
+- OG title: RC Handy | Handyman and Home Remodeling in Denver, CO
 - OG description: Cole Stewart plans it, builds it right and cleans up after himself, from custom railings to a mountain home rebuilt after smoke damage.
 
 ## Hero
 
 *Remodels, railings, floors and repairs*
 
-# Handyman and Home Remodeling by Cole Stewart
+# Handyman and Home Remodeling in Denver, CO by Cole Stewart
 
 Cole starts with a plan, spots the problems before they happen and cleans up after himself, whether the job is a gutted bathroom, a custom metal railing or a door that needs refinishing.
 
@@ -21,11 +21,11 @@ Cole starts with a plan, spots the problems before they happen and cleans up aft
 
 Trust badges: 5.0 stars from 14 Google reviews · Go-to handyman for repeat clients · Open Monday to Friday
 
-Hero image: `images/maps_07.jpg` (Refinished oak floors, new oak stair treads and black metal balusters in a bright split-level home, handyman and home remodeling by RC Handy)
+Hero image: `images/maps_07.jpg` (Refinished oak floors, new oak stair treads and black metal balusters in a bright split-level home, handyman and home remodeling Denver CO by RC Handy)
 
 ## From small fixes to full rebuilds, done by Cole
 
-RC Handy is Cole Stewart's handyman and home remodeling business, and his clients tend to keep him. One family has used Cole for years, for everything from deck construction to custom wrought iron railings to refinishing their hardwood floors. Another homeowner had her mountain home damaged by a smoke fire, had to gut it and start over, and says Cole worked tirelessly until it was finished, correctly.
+RC Handy is Cole Stewart's handyman and home remodeling business in Denver, CO, and his clients tend to keep him. One family has used Cole for years, for everything from deck construction to custom wrought iron railings to refinishing their hardwood floors. Another homeowner had her mountain home damaged by a smoke fire, had to gut it and start over, and says Cole worked tirelessly until it was finished, correctly.
 
 Cole starts with a plan. He asks what you want, shows you what is available, and catches the things that would not have worked before they happen. He answers the phone, returns texts and emails, and cleans up after himself.
 
@@ -107,6 +107,22 @@ Image: `images/maps_07.jpg` (Man in a cap and glasses giving a thumbs up at a ne
 
 ## What Cole's clients say
 
+> Look no further. This is a safe place. The place you’ve been looking for. Someone you can trust to show up, price it right and get it done on time. Someone that answers the phone and returns texts and emails.
+> 
+> Meet Cole Stewart, Mr. RC Handy. The answer to your problems.
+> 
+> Cole starts with a plan. He’ll want to know what your plans are. Then he shows you what’s available, what your options are. And you know those things that ALWAYS crop up? Those “gosh, I thought that would work better” things? Cole sees them before they happen. He also won’t chew your face off if you change your mind a little. ( you might get an eye roll😊)
+> 
+> I’ve known Cole to be a hard working, honest man. I loved working with him. He saved our dreams after a smoke fire damaged our mountain home. We had to gut it and start over. Cole was there for us. He worked tirelessly until it was finished. Correctly. And did I mention that he cleans up after himself?
+> 
+> Folks, this is no snow job. I’ve worked doing draw release inspections on construction sites for 25 years. I know what I’m talking about here. Cole is the real thing.
+> Hire him. You won’t regret it.
+> 
+> Kim Giarratano
+> Owner, Construction Progress Inspectors
+>
+> Kim G., Google, a month ago
+
 > Cole is one of the smartest and most capable handymen I've worked with.  We've been using Cole's services for years now, and he seems to be the best at everything from deck construction, to building custom wrought iron railings, to refinishing our hardwood floors.
 > Cole is an absolute master when it comes to building and woodworking and his prices are well worth the end result.  If you are looking for an honest, hard working guy then I can't recommend him enough.
 >
@@ -116,11 +132,11 @@ Image: `images/maps_07.jpg` (Man in a cap and glasses giving a thumbs up at a ne
 >
 > Pat Y., Google, 3 months ago
 
-## Handyman and home remodeling, wherever the job is
+## Handyman and home remodeling in Denver, CO
 
-Cole works in clients' homes, and his projects range from a split-level family home to a mountain cabin rebuilt after smoke damage. To check whether your home is in his area, call (303) 570-8839 Monday through Thursday from 9 AM to 7 PM or Friday until 6 PM, or email revolvercustom@gmail.com with your town and a short description of the job.
+RC Handy serves Denver, CO, and Cole works in clients' homes, from a split-level family home to a mountain cabin rebuilt after smoke damage. If you live outside Denver and want to know whether you are in range, call (303) 570-8839 Monday through Thursday from 9 AM to 7 PM or Friday until 6 PM, or email revolvercustom@gmail.com with your town and a short description of the job.
 
-Towns: none confirmed (see Missing)
+Towns: Denver, CO
 
 ## Questions for Cole
 
@@ -155,7 +171,7 @@ Background: AI image `images/ai_cta_background.jpg` (Wide view of a bright room 
 ## Footer
 
 - Name: RC Handy
-- Address: Service area: call (303) 570-8839 to confirm
+- Address: Serving Denver, CO
 - Phone: (303) 570-8839
 - Email: revolvercustom@gmail.com
 - Socials: https://www.facebook.com/RCHandyServices, https://www.google.com/maps/place/?q=place_id:ChIJ2wSdchLlnmcRtQa9TRHX5S4
@@ -170,6 +186,15 @@ Background: AI image `images/ai_cta_background.jpg` (Wide view of a bright room 
  "name": "RC Handy",
  "telephone": "+13035708839",
  "email": "revolvercustom@gmail.com",
+ "address": {
+  "@type": "PostalAddress",
+  "addressLocality": "Denver",
+  "addressRegion": "CO",
+  "addressCountry": "US"
+ },
+ "areaServed": [
+  "Denver, CO"
+ ],
  "openingHours": [
   "Mo-Th 09:00-19:00",
   "Fr 09:00-18:00"
@@ -184,7 +209,7 @@ Background: AI image `images/ai_cta_background.jpg` (Wide view of a bright room 
 
 ## Image plan
 
-- **hero**: real photo `images/maps_07.jpg` (alt: Refinished oak floors, new oak stair treads and black metal balusters in a bright split-level home, handyman and home remodeling by RC Handy)
+- **hero**: real photo `images/maps_07.jpg` (alt: Refinished oak floors, new oak stair treads and black metal balusters in a bright split-level home, handyman and home remodeling Denver CO by RC Handy)
 - **service:Bathroom remodels**: real photo `images/maps_01.jpg` (alt: Before and after of a gutted basement bathroom rebuilt with a freestanding tub, wood vanity with vessel sink and wood-look tile floor)
 - **service:Gut renovations and rebuilds**: real photo `images/maps_05.jpg` (alt: Rebuilt cabin interior with white painted beams and stairs, new wood-look plank flooring and an open living area)
 - **service:Kitchen updates**: real photo `images/maps_06.jpg` (alt: Cabin kitchen with new gray base cabinets, a stainless range, a wood island cart and plank flooring under a sloped ceiling)
@@ -228,7 +253,7 @@ Real photo slots: 13 (7 different photos). AI slots: 2.
 - Name RC Handy, category Handyman, phone +1 303-570-8839, no address or service area on Google, website field shows facebook.com (source: Google Maps)
 - Rating 5.0 from 14 reviews; 85 photos; review topics quality of work, reliable, friendly staff, construction (source: Google Maps)
 - Hours Mon to Thu 9 AM to 7 PM, Fri 9 AM to 6 PM, Sat and Sun closed (source: Google Maps)
-- Cole Stewart, 'Mr. RC Handy'; starts with a plan, shows options, sees problems early, answers phone, returns texts and emails, prices right, on time, cleans up; rebuilt a smoke-damaged mountain home after a gut; reviewer did draw release inspections for 25 years (source: Google review by Kim Giarratano (not quoted, see Missing))
+- Cole Stewart, 'Mr. RC Handy'; starts with a plan, shows options, sees problems early, answers phone, returns texts and emails, prices right, on time, cleans up; rebuilt a smoke-damaged mountain home after a gut; reviewer did draw release inspections for 25 years (source: Google review by Kim Giarratano)
 - Used Cole for years; deck construction, custom wrought iron railings, refinishing hardwood floors; master at building and woodworking; prices well worth it; honest, hard working (source: Google review by Mark R.)
 - Lights, wire mesh around a deck, refinished several doors; reasonably priced; manners and punctuality; go-to handyman (source: Google review by Pat Young)
 - Photos: gut bathroom before and after (maps_01); oak and black metal railing (maps_02, maps_07); mountain cabin before (maps_03, maps_04) and after (maps_05, maps_06), matching Kim Giarratano's 4 review photos (source: images/maps_01 to maps_07 (Google Maps))
@@ -239,14 +264,14 @@ Real photo slots: 13 (7 different photos). AI slots: 2.
 ## Missing
 
 - confirm email revolvercustom@gmail.com (published on Facebook: https://www.facebook.com/groups/NorthDenverNeighborhoods/posts/3667019403454746/)
-- to confirm with owner: based in Denver and serving North Denver, CO (no town anywhere on Google, so the page names no town, title and H1 carry no location, and the footer says 'Service area: call to confirm')
+- Denver, CO: town from earlier research, matches the phone's area code: confirm with owner (303); Google shows no town or service area
+- to confirm with owner: North Denver focus
 - to confirm with owner: plumbing and electrical repairs, interior and exterior painting, fencing, landscaping, welding, TV mounting and room remodels as services
 - to confirm with owner: legal name RC Handy LLC
-- Kim Giarratano's 5-star review (the strongest one) is not quoted because its first sentence is a phrase on the brief's banned list and the review cannot be shortened; its facts are used in the copy. Decide whether to allow it as a quote
 - Confirm the man in maps_07 (used for hero and about) is Cole Stewart; alt text does not name him
 - Licence and insurance details
 - Free estimates not stated, so the CTA says 'Request an estimate'
 - Logo and tagline: none found
 - Years in business
-- Only 3 of 14 review texts captured; testimonials section has 2 items, under the 3 the brief asks for
+- Only 3 of 14 review texts captured; testimonials section quotes all 3
 - needs project photos of decks and refinished doors (that card uses an AI illustration)
