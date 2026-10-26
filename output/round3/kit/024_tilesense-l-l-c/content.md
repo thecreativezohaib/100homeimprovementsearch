@@ -1,0 +1,241 @@
+# Tilesense L.L.C.: homepage content
+
+## SEO
+
+- Title tag: Tile Contractor in Vero Beach, FL | Tilesense L.L.C.
+- Meta description: Tilesense L.L.C. is a tile contractor in Vero Beach, FL for shower refreshes, backsplashes, grout cleaning, tile repair and patios. Call (772) 501-3726.
+- Primary keyword: tile contractor Vero Beach FL
+- Secondary keywords: shower repair Vero Beach, kitchen backsplash installation, grout cleaning Vero Beach, loose tile repair, outdoor tile patio repair, tile repair Vero Beach FL
+- OG title: Tilesense L.L.C. | Tile Contractor in Vero Beach, FL
+- OG description: Bret diagnoses tired showers, installs backsplashes, cleans grout and repairs tile and patios, with a 5.0 rating from 51 Google reviews.
+
+## Hero
+
+*Tile contractor serving Vero Beach, FL*
+
+# Tile Contractor in Vero Beach, FL for Showers and Repairs
+
+Bret works out what is wrong with a tired shower, sets kitchen backsplashes, cleans grout and repairs damaged tile inside and out, and customers say he explains everything along the way.
+
+[Call (772) 501-3726](tel:+17725013726)  |  [Request an estimate](#contact)
+
+Trust badges: 5.0 stars from 51 Google reviews · Open 7 days, 6 AM to 8 PM · Grout cleaning mentioned in 13 reviews
+
+Hero image: AI image `images/ai_hero.jpg` (Walk-in shower with gray wood-look wall tile, a floating stone bench and a pebble mosaic floor)
+
+## One tile specialist, from the first call to the cleanup
+
+Tilesense L.L.C. is the tile contractor Vero Beach, FL homeowners call when a shower needs attention, a backsplash needs installing or grout and tile have seen better days. Bret is the name in every review. One customer says that from the first phone call through his diagnosis of the problem to the finished shower refresh, he was amazing.
+
+Another couple hired him for a badly damaged outdoor tiled patio. They say he quoted a fair price with no pressure, communicated often, took time to explain everything and cleaned up beautifully. A kitchen customer calls him professional, knowledgeable and meticulous, and says he obviously loves what he does.
+
+## Tile services in Vero Beach
+
+### Shower refreshes and repairs
+
+A shower that leaks, looks dull or just feels tired starts with a diagnosis. Bret works out what is actually wrong before he touches a tile, then refreshes or repairs the shower. One customer says he could not be more satisfied and called the quote very reasonable.
+
+Image: AI image `images/ai_service_showers.jpg` (Refreshed tile shower with light gray wall tile, clean grout lines and a glass door)
+
+### Kitchen backsplashes
+
+Backsplash installation comes up in several of our Google reviews. Vicki W. hired Bret for the wall behind her kitchen counters and says he did an amazing job and was meticulous in his work. Bring your tile or just an idea, and we will plan the layout together.
+
+Image: AI image `images/ai_service_backsplash.jpg` (Kitchen wall with sea-glass green subway tile above a white quartz counter and white cabinets)
+
+### Grout cleaning
+
+Grout cleaning is the topic our customers mention most, with 13 reviews that talk about it. Dingy grout lines can make sound tile look old and tired. Ask Bret whether a thorough cleaning will do the job before you decide to replace anything in your floor or shower.
+
+Image: AI image `images/ai_service_grout.jpg` (Close view of a beige tile floor with bright, clean grout lines in sunlight)
+
+### Tile floors, entries and repairs
+
+Tile repair and loose tile repair are both topics in our Google reviews. Cracked or rocking tiles are worth fixing early. The front entry shown here has warm beige tile set in a straight grid, with even grout lines running right up to the double doors.
+
+Image: `images/maps_02.jpg` (Front entry of a stucco home with beige ceramic tile in a straight grid leading to white double doors)
+
+### Outdoor tiled patios
+
+Florida patios take a beating from sun and rain. One couple had a very damaged outdoor tiled patio and says Bret did a beautiful job from start to finish. The backyard patio pictured has stone-look tile in a random pattern, framed by a paver border.
+
+Image: `images/maps_04.jpg` (Backyard patio with stone-look tile in a random pattern, a paver border, a brick fire pit and wicker seating under umbrellas)
+
+## Why neighbors call Bret
+
+- **A diagnosis first**: Jim G. says Bret was amazing from the first phone call through his diagnosis of the shower problem to the finished refresh, and calls him a true master of his trade.
+- **Fair quotes, no pressure**: Reviewers call Bret's quotes fair and very reasonable. One couple says there was no pressure at all, just frequent communication and time taken to explain everything.
+- **Meticulous work**: Vicki W. describes Bret as professional, knowledgeable and meticulous, and two customers say it is obvious that he loves what he does.
+- **Seven days a week**: Our Google hours run from 6 AM to 8 PM every day of the week, so it is easy to call before or after work, or on a weekend.
+
+## About Bret and Tilesense L.L.C.
+
+Tilesense L.L.C. is a tile contractor in Vero Beach, Florida, and Bret is the person you deal with from the first call to the final cleanup. Customers describe him as extremely professional, knowledgeable and meticulous, and two of them say it is obvious he loves what he does. His work ranges from shower refreshes and kitchen backsplashes to grout cleaning, tile repair and outdoor patios. With a 5.0 rating from 51 Google reviews and more than 260 photos on the listing, his track record is easy to check. Call any day between 6 AM and 8 PM.
+
+Owner: Bret (Named in every review as the person who does the work; last name and title not stated on Google)
+
+Image: `images/maps_03.jpg` (Backyard patio with stone-look tile, a paver border and a brick fire pit, with hanging flower baskets and wicker seating)
+
+## How Bret handles a tile job
+
+1. **Call any day**: Call (772) 501-3726 between 6 AM and 8 PM, any day of the week, and describe the tile problem or project.
+2. **Find the cause**: Bret looks at the shower, floor or patio in person and works out what is really causing the problem before suggesting a fix.
+3. **A fair quote**: You get a straightforward quote with no pressure, and Bret takes the time to explain each step so you know what to expect.
+4. **The work**: Bret repairs, cleans or installs the tile and keeps you posted as he goes, communicating as often as you need.
+5. **Clean finish**: When the tile is done, Bret cleans up the work area thoroughly and walks you through the finished result before he leaves.
+
+## Recent tile work
+
+- `images/maps_04.jpg`: Stone-look tile patio with paver border (alt: Backyard patio with stone-look tile in a random pattern, a paver border, a brick fire pit and wicker seating)
+- `images/maps_03.jpg`: Patio seating area by the fire pit (alt: Close view of a tiled patio seating area with a paver edge, hanging flower baskets and a brick fire pit)
+- `images/maps_02.jpg`: Tiled front entry (alt: Beige ceramic tile front entry with even gray grout lines leading to white double doors)
+
+## What Vero Beach customers say
+
+> We're so glad we found Bret! Our outdoor tiled patio was very damaged and he just did a beautiful job. Obviously an expert with tile, from start to finish he made this a pleasurable experience . He quoted us a fair price and there was no pressure, communicated frequently,  took the time to explain everything, and cleaned up beautifully. Bret loves what he does and it shows. We couldn't be happier!
+>
+> Ellen G., Google, a week ago
+
+> Bret is extremely professional. He just completed a refresh of our shower. From our first phone call thru his diagnosis of our problem to the completion of the job, he is amazing .
+> He is a true master of his trade
+> I could not be more satisfied if he had done it for free. BTW, his quote was very reasonable.  DO YOURSELF A FAVOR and call Bret for any of your tile needs. You will be glad you did.
+>
+> Jim G., Google, 2 months ago
+
+> Bret recently did a backsplash job in my kitchen for me.  He did an amazing job!  He is so professional, knowledgeable, and meticulous in his work, and obviously loves what he does.  I would recommend him for any tile work. You won't be disappointed.
+>
+> Vicki W., Google, 4 months ago
+
+## Tile contractor in Vero Beach, FL
+
+Tilesense L.L.C. serves homeowners in Vero Beach, Florida. If you live nearby and are not sure whether your home is in range, call (772) 501-3726 any day between 6 AM and 8 PM. Tell Bret where you are and what is going on with your shower, backsplash, grout, floor or patio, and he will tell you whether he can help.
+
+Towns: Vero Beach, FL
+
+## Tile questions, answered
+
+**My shower leaks or looks worn. Can you help?**
+
+Yes. Bret starts by diagnosing the problem, then repairs or refreshes the shower. One customer who had his shower refreshed says Bret was amazing from the first call to the finished job, that he is a true master of his trade and that the quote was very reasonable.
+
+**Do you install kitchen backsplashes?**
+
+Yes. Backsplash installation is one of the services customers mention in our Google reviews. Vicki W. had Bret install a backsplash in her kitchen and says he did an amazing job. Call with the size of the wall and the tile you like, and we can talk about the layout.
+
+**Can you clean or fix my grout instead of replacing the tile?**
+
+Grout cleaning is the service mentioned most in our reviews, and tile repair and loose tile repair come up too. Sometimes the tile itself is fine and the grout or a few loose pieces are the real problem. Bret will look at it and tell you honestly what makes sense.
+
+**Do you work on outdoor patios?**
+
+Yes. One couple had a very damaged outdoor tiled patio, and they say Bret did a beautiful job, quoted a fair price with no pressure, explained everything and cleaned up beautifully afterward. Call us about your patio and we will set up a time to look at it.
+
+**When can I reach you?**
+
+Our Google hours are 6 AM to 8 PM, seven days a week, including Saturday and Sunday. Call (772) 501-3726, or email tilesense2@gmail.com with a few photos of the tile you want fixed, cleaned or installed, and Bret will be in touch.
+
+## Have a tile problem? Call Bret.
+
+Showers, backsplashes, grout, floors and patios: tell Bret what you are dealing with.
+
+[Call (772) 501-3726](tel:+17725013726)  |  (772) 501-3726
+
+Background image: `images/maps_04.jpg` (Finished outdoor patio with stone-look tile and a paver border in a sunny backyard)
+
+## Footer
+
+- Tilesense L.L.C.
+- Serving Vero Beach, FL
+- (772) 501-3726
+- tilesense2@gmail.com
+- Hours: Open daily 6 AM to 8 PM
+- https://www.google.com/maps/place/?q=place_id:ChIJB5x2oiihoGIRLpIFdIGa3BU
+
+## Schema (JSON-LD)
+
+```json
+{
+ "@context": "https://schema.org",
+ "@type": "HomeAndConstructionBusiness",
+ "name": "Tilesense L.L.C.",
+ "description": "Tile contractor in Vero Beach, Florida for shower refreshes and repairs, kitchen backsplashes, grout cleaning, tile repair and outdoor tiled patios.",
+ "telephone": "+17725013726",
+ "email": "tilesense2@gmail.com",
+ "areaServed": [
+  "Vero Beach, FL"
+ ],
+ "openingHours": [
+  "Mo-Su 06:00-20:00"
+ ],
+ "sameAs": [
+  "https://www.google.com/maps/place/?q=place_id:ChIJB5x2oiihoGIRLpIFdIGa3BU"
+ ]
+}
+```
+
+## Image plan
+
+- hero: AI `images/ai_hero.jpg` (Walk-in shower with gray wood-look wall tile, a floating stone bench and a pebble mosaic floor)
+  - Prompt: Photorealistic photo of a freshly refreshed walk-in tile shower in a Florida coastal home, with large gray wood-look porcelain wall tile, a white-framed recessed niche, a floating stone bench and a pebble mosaic floor, recessed ceiling lights and soft daylight, no people, no faces, no text, no logos, no brand names, 16:9
+- service:Shower refreshes and repairs: AI `images/ai_service_showers.jpg` (Refreshed tile shower with light gray wall tile, clean grout lines and a glass door)
+  - Prompt: Photorealistic photo of a refreshed tile shower in a Florida ranch-style home with clean white grout lines on light gray porcelain wall tile, a tiled niche and a frameless glass door, bright and fresh, soft natural daylight from a high window, no people, no faces, no text, no logos, no brand names, 4:3
+- service:Kitchen backsplashes: AI `images/ai_service_backsplash.jpg` (Kitchen wall with sea-glass green subway tile above a white quartz counter and white cabinets)
+  - Prompt: Photorealistic photo of a kitchen backsplash in a coastal Florida home with sea-glass green ceramic subway tile in a straight lay with white grout behind a white quartz counter, white shaker cabinets and brushed nickel hardware, bright natural daylight, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
+- service:Grout cleaning: AI `images/ai_service_grout.jpg` (Close view of a beige tile floor with bright, clean grout lines in sunlight)
+  - Prompt: Photorealistic photo of a close view of a freshly cleaned beige ceramic tile floor in a Florida home with crisp, bright grout lines, sunlight falling across the tiles from a sliding glass door, fresh and spotless, no people, no faces, no text, no logos, no brand names, 4:3
+- service:Tile floors, entries and repairs: `images/maps_02.jpg` (real) (Front entry of a stucco home with beige ceramic tile in a straight grid leading to white double doors)
+- service:Outdoor tiled patios: `images/maps_04.jpg` (real) (Backyard patio with stone-look tile in a random pattern, a paver border, a brick fire pit and wicker seating under umbrellas)
+- about: `images/maps_03.jpg` (real) (Backyard patio with stone-look tile, a paver border and a brick fire pit, with hanging flower baskets and wicker seating)
+- gallery_1: `images/maps_04.jpg` (real) (Backyard patio with stone-look tile in a random pattern, a paver border, a brick fire pit and wicker seating)
+- gallery_2: `images/maps_03.jpg` (real) (Close view of a tiled patio seating area with a paver edge, hanging flower baskets and a brick fire pit)
+- gallery_3: `images/maps_02.jpg` (real) (Beige ceramic tile front entry with even gray grout lines leading to white double doors)
+- final_cta: `images/maps_04.jpg` (real) (Finished outdoor patio with stone-look tile and a paver border in a sunny backyard)
+
+Real photo slots: 7 (3 different photos). AI slots: 4.
+
+## Brand
+
+- Logo file: none
+- Palette: primary #4A5560, accent #C29B6B, light #F6F3EC, dark #1E2328
+- Palette note: No logo in images/. Taken from their photos: slate gray from the stucco walls and stone-look patio tile, warm sandy beige from the entry tile and patio stone, a sun-bleached off-white for backgrounds and deep charcoal for text.
+- Fonts: Bitter (headings), Mulish (body)
+- Tagline: none
+- Style direction: Bright Florida coastal: sandy beige and slate on warm white, with large tile and patio photos and simple, readable service cards.
+
+## Images not to use
+
+- `images/maps_01.jpg`: phone screenshot of a Facebook post, with the status bar, app buttons and a third person's name over the photo; it shows a strong walk-in shower, so ask Bret for the original photo
+
+## Outreach
+
+- Specific detail: Jim's shower refresh: he says you were amazing from the first phone call through your diagnosis of the problem, and that he could not be more satisfied if you had done it for free.
+- Angle: You have a 5.0 rating from 51 Google reviews and 266 photos, but no website, and your best showers live in Facebook screenshots. A homepage that puts your showers, backsplashes, grout work and patios in one place, with your seven-day hours, turns those reviews into calls.
+- Subject line idea: A 5.0 from 51 reviews, and nowhere to send people
+
+## Facts used
+
+- Name Tilesense L.L.C., category Tile contractor, phone +1 772-501-3726, no address or service area on Google (source: Google Maps)
+- Rating 5.0 from 51 reviews; 266 photos on Google; LGBTQ+ friendly attribute (not used on the page) (source: Google Maps)
+- Hours Monday to Sunday 6 AM to 8 PM (source: Google Maps)
+- Review topics: grout cleaning (13), backsplash installation (3), tile repair (7), loose tile repair (2) (source: Google Maps review tags)
+- Town Vero Beach, FL (from the unverified notes; the 772 area code of the Google phone covers Vero Beach; flagged in missing) (source: antigravity_notes_unverified plus Google phone area code)
+- Very damaged outdoor tiled patio; beautiful job; fair price, no pressure; communicated frequently; explained everything; cleaned up beautifully; Bret loves what he does (source: Google review by Ellen Glanzberg, with owner reply naming Ellen and Dave)
+- Shower refresh; first phone call, diagnosis of the problem, completion; true master of his trade; quote very reasonable (source: Google review by Jim Gardner)
+- Kitchen backsplash; amazing job; professional, knowledgeable, meticulous; loves what he does (source: Google review by Vicki Wood)
+- Photos: tiled front entry (maps_02), stone-look tile patio with paver border and fire pit (maps_03, maps_04) (source: images/ from Google Maps, checked one by one)
+- Hero, shower, backsplash and grout cards use AI illustrations; their alt texts do not claim them as Bret's work (source: image_plan)
+
+## Missing
+
+- confirm email tilesense2@gmail.com (published at https://www.google.com/maps/place/?q=place_id:ChIJB5x2oiihoGIRLpIFdIGa3BU, the Google listing; Bret's own about text in the unverified notes also gives Tilesense2@gmail.com)
+- Facebook page not confirmed: research.json facebook_url is a post in a Facebook group, not the Tilesense page, so no Facebook link is in the footer or schema; ask Bret for the page URL (the unverified notes say his page is called Tilesense)
+- town from earlier research, matches the phone's area code: confirm with owner (Vero Beach, FL, used in the title, H1, intro, service area, footer and schema; the unverified notes also name Indian River County, which is not used)
+- to confirm with owner: over 25 years as a tile specialist in Indian River County, owner and operator, licensed and insured (unverified notes)
+- to confirm with owner: shower pan specialist, leak detection, grout removal and replacement, grout staining, countertop polishing and cleaning, commercial grout cleaning, 'no job is too small' (unverified notes)
+- to confirm with owner: Bret's last name
+- needs project photos: no usable real shower, backsplash or bathroom photo in images/ (the only shower is a Facebook screenshot), so the hero and three service cards use AI illustrations; Google shows 266 photos
+- to confirm with owner: that the patio and entry photos (maps_02 to maps_04) are his work; they come from the Google listing and match the patio work in reviews, but the page does not tie them to a named customer
+- Licence number, insurance and warranty details
+- Free estimates (not stated, so the CTA says 'Request an estimate')
+- Logo and tagline (none in images/)
+- 48 more Google reviews exist but were not captured
