@@ -2,30 +2,30 @@
 
 ## SEO
 
-- Title tag: Flooring and Tile Installation | Kurtz Flooring Solutions
-- Meta description: Kurtz Flooring Solutions installs plank floors, hardwood and porcelain tile, from hallways to tub surrounds. Rated 5.0 from 32 Google reviews. Open daily.
-- Primary keyword: flooring and tile installation
-- Secondary keywords: floor replacement, plank flooring installation, hardwood floor installation, porcelain tile tub surround, bathroom floor tile, kitchen backsplash tile, flooring contractor
-- OG title: Kurtz Flooring Solutions, LLC | Flooring and Tile Installation
+- Title tag: Flooring and Tile Installation in Little Rock, AR | Kurtz
+- Meta description: Kurtz Flooring Solutions installs plank floors, hardwood and porcelain tile in Little Rock, AR. Rated 5.0 from 32 Google reviews and open seven days a week.
+- Primary keyword: flooring and tile installation Little Rock AR
+- Secondary keywords: floor replacement Little Rock, plank flooring installation Little Rock AR, hardwood floor installation Little Rock, porcelain tile tub surround, bathroom floor tile, kitchen backsplash tile, flooring contractor
+- OG title: Kurtz Flooring Solutions, LLC | Flooring and Tile Installation in Little Rock, AR
 - OG description: Gabe and Molly replace floors, tile bathrooms and fix flooring jobs gone wrong. A perfect 5.0 from 32 Google reviews, open seven days a week.
 
 ## Hero
 
-*Floors, tile and tub surrounds*
+*Floors, tile and tub surrounds in Little Rock, AR*
 
-# Flooring and Tile Installation by Gabe and Molly
+# Flooring and Tile Installation in Little Rock, AR
 
-Kurtz Flooring Solutions replaces worn floors with new plank flooring, sets porcelain tile in bathrooms and kitchens, and explains how the job will go before the first board goes down.
+Gabe and Molly at Kurtz Flooring Solutions replace worn floors with new plank flooring, sets porcelain tile in bathrooms and kitchens, and explains how the job will go before the first board goes down.
 
 [Call (501) 993-2105](tel:+15019932105)  |  [Request a quote](#contact)
 
 Trust badges: 5.0 stars from 32 Google reviews · Open 7 days, 8 AM to 6 PM · Fast quotes, say reviewers
 
-Hero image: `images/maps_02.jpg` (Kitchen with a linear glass and stone-look mosaic backsplash, speckled gray counters and a stainless range, flooring and tile installation by Kurtz)
+Hero image: `images/maps_02.jpg` (Kitchen with a linear glass and stone-look mosaic backsplash, speckled gray counters and a stainless range, flooring and tile installation in Little Rock, AR by Kurtz)
 
 ## Flooring and tile installation, explained before the work starts
 
-Kurtz Flooring Solutions, LLC handles flooring and tile installation, from long runs of plank flooring down a hallway to porcelain tile around a bathtub. One homeowner says Gabe and Molly educated her about her house and how replacing the floors would go, which made the whole job easy for her.
+Kurtz Flooring Solutions, LLC handles flooring and tile installation in Little Rock, AR, from long runs of plank flooring down a hallway to porcelain tile around a bathtub. One homeowner says Gabe and Molly educated her about her house and how replacing the floors would go, which made the whole job easy for her.
 
 Another family hired Kurtz after a nightmare experience with a previous contractor and had their bathroom floor and tub and shower surround redone in porcelain tile. They say Gabriel takes his time, does it right and is an extremely honest person, and he even fixed a flooring job the homeowner had attempted around the fireplace.
 
@@ -101,11 +101,11 @@ Image: `images/maps_07.jpg` (Light gray plank flooring through an open dining ar
 >
 > Dena A., Google, 3 years ago
 
-## Where Kurtz works
+## Flooring and tile installation in Little Rock, AR
 
-Kurtz Flooring Solutions, LLC works at customers' homes, and Google shows no street address or list of towns for the business. To find out whether your home is in their area, call (501) 993-2105 any day between 8 AM and 6 PM, or send a message to kurtzflooringsolutionsllc@gmail.com with your town, the rooms you want done and the kind of floor or tile you have in mind.
+Kurtz Flooring Solutions, LLC serves homeowners in Little Rock, AR and works at customers' homes rather than from a showroom. If you live outside Little Rock and want to know whether your home is in their area, call (501) 993-2105 any day between 8 AM and 6 PM, or send a message to kurtzflooringsolutionsllc@gmail.com with your town, the rooms you want done and the kind of floor or tile you have in mind.
 
-Towns: none named in the sources (see missing)
+Towns: Little Rock, AR
 
 ## Flooring questions, answered
 
@@ -140,7 +140,7 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
 ## Footer
 
 - Name: Kurtz Flooring Solutions, LLC
-- Address: Service-area business (call for your town)
+- Address: Serving Little Rock, AR
 - Phone: (501) 993-2105
 - Email: kurtzflooringsolutionsllc@gmail.com
 - Socials: https://www.facebook.com/kurtzflooringsolutionsllc/, https://www.google.com/maps/place/?q=place_id:ChIJ3-fLQli90ocRFkp2le9f-gc
@@ -156,6 +156,9 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
  "telephone": "+15019932105",
  "email": "kurtzflooringsolutionsllc@gmail.com",
  "openingHours": "Mo-Su 08:00-18:00",
+ "areaServed": [
+  "Little Rock, AR"
+ ],
  "sameAs": [
   "https://www.facebook.com/kurtzflooringsolutionsllc/",
   "https://www.google.com/maps/place/?q=place_id:ChIJ3-fLQli90ocRFkp2le9f-gc"
@@ -168,7 +171,7 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
 
 | Slot | Source | File | Alt |
 |---|---|---|---|
-| hero | real | images/maps_02.jpg | Kitchen with a linear glass and stone-look mosaic backsplash, speckled gray counters and a stainless range, flooring and tile installation by Kurtz |
+| hero | real | images/maps_02.jpg | Kitchen with a linear glass and stone-look mosaic backsplash, speckled gray counters and a stainless range, flooring and tile installation in Little Rock, AR by Kurtz |
 | service:Plank floor replacement | real | images/maps_08.jpg | Gray oak-look plank flooring running down a hallway past several doorways |
 | service:Hardwood floor installation | ai | AI: images/ai_service_hardwood.jpg | Living room with a new honey-toned oak hardwood floor and white baseboards |
 | service:Porcelain tile bathrooms and tub surrounds | ai | AI: images/ai_service_tub_surround.jpg | Bathroom with a light gray porcelain tile tub surround and matching tile floor |
@@ -184,8 +187,8 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
 
 ### AI image prompts
 
-- **ai_service_hardwood.jpg** (service:Hardwood floor installation): Photorealistic photo of a living room in a single-story American ranch home with a newly installed oak hardwood floor in a warm honey brown tone, boards running the length of the room, white baseboards, light gray walls, a simple sofa and a wool rug pulled back to show the floor, in walnut brown, honey and warm white, soft natural light from a side window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
-- **ai_service_tub_surround.jpg** (service:Porcelain tile bathrooms and tub surrounds): Photorealistic photo of a small remodeled bathroom in a single-story American ranch home: a white bathtub with a floor-to-ceiling surround of large light gray porcelain tile laid in a running bond, a matching porcelain tile floor, a white shaker vanity with a marble-look top, a chrome shower head, in warm gray, walnut brown and warm white, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
+- **ai_service_hardwood.jpg** (service:Hardwood floor installation): Photorealistic photo of a living room in a single-story Arkansas ranch home with a newly installed oak hardwood floor in a warm honey brown tone, boards running the length of the room, white baseboards, light gray walls, a simple sofa and a wool rug pulled back to show the floor, in walnut brown, honey and warm white, soft natural light from a side window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
+- **ai_service_tub_surround.jpg** (service:Porcelain tile bathrooms and tub surrounds): Photorealistic photo of a small remodeled bathroom in a single-story Arkansas ranch home: a white bathtub with a floor-to-ceiling surround of large light gray porcelain tile laid in a running bond, a matching porcelain tile floor, a white shaker vanity with a marble-look top, a chrome shower head, in warm gray, walnut brown and warm white, soft natural light from a small window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
 
 ### Images not to use
 
@@ -204,7 +207,7 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
 ## Outreach (not on the page)
 
 - Specific detail: Matt Trice's review: after a nightmare experience with another contractor, you redid his bathroom floor and tub and shower surround in porcelain tile and fixed the flooring he had attempted around the fireplace.
-- Angle: You have a perfect 5.0 from 32 Google reviews, you are open seven days a week, and clients say you are fast on quotes, but there is no website and Google shows no town, so homeowners searching for a flooring installer cannot see your hallways and tile work.
+- Angle: You have a perfect 5.0 from 32 Google reviews, you are open seven days a week, and clients say you are fast on quotes, but there is no website and Google shows no town, so homeowners in Little Rock searching for a flooring installer cannot see your hallways and tile work.
 - Subject line idea: A perfect 5.0 from 32 reviews and no homepage yet
 
 ## Facts used
@@ -216,13 +219,15 @@ Background image: `images/maps_06.jpg` (Warm brown rustic plank flooring)
 - Floors replaced; professional; educated her about her house and the process; easy; Gabe and Molly knowledgeable; fast on quotes (source: Google review by Elizabeth Burke, a year ago)
 - Gabriel and Molly communicative; Gabriel's integrity and honesty, takes his time, does it right; previous nightmare contractor; bathroom floor and tub/shower surround in porcelain tile; fixed a bad flooring job around the fireplace done by the client; first call for future flooring (source: Google review by Matt Trice, 11 months ago)
 - Answered the daughter's questions, worked around two nosy dogs, work ethic, a joy to have in the home (source: Google review by Dena Aulwes, 3 years ago)
+- Main town Little Rock, AR (title, H1, intro, service area, footer, schema areaServed) (source: Antigravity notes (unverified), consistent with the 501 area code of the Google phone number)
 - Email kurtzflooringsolutionsllc@gmail.com and Facebook page https://www.facebook.com/kurtzflooringsolutionsllc/ (source: research.json (email published on Facebook: https://www.facebook.com/kurtzflooringsolutionsllc/?locale=de_DE))
 - Photos: mosaic tile backsplash kitchen (maps_02), rustic brown plank floors in kitchen and hallway (maps_03, maps_06), bathroom vanity (maps_04), light gray plank in dining area and hallway (maps_07, maps_08) (source: images/maps_02 to maps_08 (Google Maps photos, checked one by one))
 - Hardwood and tub surround cards use AI illustrations because no photos of that work exist; alt text does not claim them as Kurtz's work (source: image_plan)
 
 ## Missing
 
-- to confirm with owner: based in Little Rock, AR, serving Little Rock and North Little Rock, AR (Antigravity notes only; Google lists no address or service area, and the 501 area code fits central Arkansas). Once confirmed, add the town to the primary keyword, title, H1, footer and schema
+- town from earlier research, matches the phone's area code: confirm with owner (Little Rock, AR is used as the main town; Google lists no address or service area)
+- to confirm with owner: also serves North Little Rock, AR
 - to confirm with owner: owner is Gabriel (reviews name Gabriel or Gabe, and Molly; titles and last names not stated)
 - to confirm with owner: also does cabinet installation, granite and butcher block countertop installation, bathroom remodeling and LVP flooring
 - Flooring material: the plank floors in the photos look like vinyl or laminate, but no source says which, so the page says 'plank flooring'

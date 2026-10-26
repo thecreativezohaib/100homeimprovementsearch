@@ -2,18 +2,18 @@
 
 ## SEO
 
-- Title tag: Kitchen Countertops and Backsplashes | H&I Remodeling
-- Meta description: H&I installs granite and quartz kitchen countertops, replaces backsplashes and repaints kitchens. Rated 4.6 from 12 Google reviews. Call (919) 740-2104.
-- Primary keyword: kitchen countertops and backsplashes
-- Secondary keywords: granite countertop installation, quartz countertop installation, backsplash replacement, kitchen painting, kitchen mini makeover, bathroom remodeling, kitchen and bath remodeler
-- OG title: H&I kitchen/bathroom remodeling Llc | Countertops, Backsplashes and Paint
+- Title tag: Kitchen Countertops and Backsplashes in Raleigh, NC | H&I
+- Meta description: H&I installs granite and quartz kitchen countertops, replaces backsplashes and repaints kitchens in Raleigh, NC. Rated 4.6 from 12 Google reviews.
+- Primary keyword: kitchen countertops and backsplashes Raleigh NC
+- Secondary keywords: granite countertops Raleigh NC, quartz countertop installation Raleigh, backsplash replacement Raleigh, kitchen painting Raleigh, kitchen mini makeover, bathroom remodeling, kitchen and bath remodeler
+- OG title: H&I kitchen/bathroom remodeling Llc | Countertops and Backsplashes in Raleigh, NC
 - OG description: Hector and his crew install granite and quartz countertops, swap out tired backsplashes and repaint kitchens. See their before and after photos.
 
 ## Hero
 
-*Granite, quartz and tile for your kitchen*
+*Granite, quartz and tile in Raleigh, NC*
 
-# Kitchen Countertops and Backsplashes, Plus Bath Remodeling
+# Kitchen Countertops and Backsplashes in Raleigh, NC
 
 Hector and his crew install granite and quartz countertops, replace backsplashes and repaint kitchens, and clients say they will hire H&I again for the next project.
 
@@ -21,11 +21,11 @@ Hector and his crew install granite and quartz countertops, replace backsplashes
 
 Trust badges: 4.6 stars from 12 Google reviews · Repeat clients for countertops · 167 photos on Google · Open Monday to Friday, 9 AM to 5 PM
 
-Hero image: `images/maps_01.jpg` (White quartz island with a stainless farmhouse sink and chrome pull-down faucet, kitchen countertops and backsplashes by H&I)
+Hero image: `images/maps_01.jpg` (White quartz island with a stainless farmhouse sink and chrome pull-down faucet, kitchen countertops and backsplashes in Raleigh, NC by H&I)
 
 ## Kitchen countertops and backsplashes that change the whole room
 
-H&I kitchen/bathroom remodeling Llc works on the surfaces you look at every day: kitchen countertops and backsplashes, plus fresh paint and bathroom remodels. One client hired H&I for a kitchen mini makeover, with a new backsplash and paint, and says it turned out better than she expected.
+H&I kitchen/bathroom remodeling Llc works on the surfaces you look at every day: kitchen countertops and backsplashes in Raleigh, NC, plus fresh paint and bathroom remodels. One client hired H&I for a kitchen mini makeover, with a new backsplash and paint, and says it turned out better than she expected.
 
 Clients know the people behind the work by name. Hector leads the crew, Isaura stays in touch from the start of a project to the end, and Lisa helps homeowners decide the best way to get the kitchen or bathroom they want. One couple says Hector even repaired a faulty valve under the sink that he noticed while installing their quartz counters.
 
@@ -102,11 +102,11 @@ Image: `images/maps_08.jpg` (Red pickup truck with blue-gray granite slabs stand
 >
 > Nina S., Google, 2 years ago
 
-## Where H&I works
+## Kitchen countertops and backsplashes in Raleigh, NC
 
-H&I kitchen/bathroom remodeling Llc is a service-area business, so the crew comes to your home. Google does not list a street address or the towns they cover. Call (919) 740-2104 or email handiremodelingllc@gmail.com with your town and a short description of the kitchen or bathroom, and ask whether your home is in their area. Office hours are Monday to Friday, 9 AM to 5 PM.
+H&I kitchen/bathroom remodeling Llc serves homeowners in Raleigh, NC, and the crew comes to your home rather than working from a showroom. If you live outside Raleigh, call (919) 740-2104 or email handiremodelingllc@gmail.com with your town and a short description of the kitchen or bathroom, and ask whether your home is in their area. Office hours are Monday to Friday, 9 AM to 5 PM.
 
-Towns: none named in the sources (see missing)
+Towns: Raleigh, NC
 
 ## Questions homeowners ask H&I
 
@@ -141,7 +141,7 @@ Background image: `images/maps_05.jpg` (Wide view of a kitchen with cherry cabin
 ## Footer
 
 - Name: H&I kitchen/bathroom remodeling Llc
-- Address: Service-area business (call for your town)
+- Address: Serving Raleigh, NC
 - Phone: (919) 740-2104
 - Email: handiremodelingllc@gmail.com
 - Socials: https://www.google.com/maps/place/?q=place_id:ChIJpdJ_hLiSZ6IRSh0Z8odh1mY
@@ -157,6 +157,9 @@ Background image: `images/maps_05.jpg` (Wide view of a kitchen with cherry cabin
  "telephone": "+19197402104",
  "email": "handiremodelingllc@gmail.com",
  "openingHours": "Mo-Fr 09:00-17:00",
+ "areaServed": [
+  "Raleigh, NC"
+ ],
  "sameAs": [
   "https://www.google.com/maps/place/?q=place_id:ChIJpdJ_hLiSZ6IRSh0Z8odh1mY"
  ],
@@ -168,7 +171,7 @@ Background image: `images/maps_05.jpg` (Wide view of a kitchen with cherry cabin
 
 | Slot | Source | File | Alt |
 |---|---|---|---|
-| hero | real | images/maps_01.jpg | White quartz island with a stainless farmhouse sink and chrome pull-down faucet, kitchen countertops and backsplashes by H&I |
+| hero | real | images/maps_01.jpg | White quartz island with a stainless farmhouse sink and chrome pull-down faucet, kitchen countertops and backsplashes in Raleigh, NC by H&I |
 | service:Granite and quartz countertops | real | images/maps_06.jpg | White shaker kitchen with blue-gray granite countertops and matte black bar pulls |
 | service:Backsplash replacement | real | images/maps_04.jpg | White subway tile backsplash under cherry cabinets and a wood range hood, with freshly painted white walls |
 | service:Kitchen painting | real | images/maps_05.jpg | Wide view of a kitchen with cherry cabinets, a wine rack, light painted walls and a white tile backsplash |
@@ -185,7 +188,7 @@ Background image: `images/maps_05.jpg` (Wide view of a kitchen with cherry cabin
 
 ### AI image prompts
 
-- **ai_service_bathroom.jpg** (service:Bathroom remodeling): Photorealistic photo of a remodeled hall bathroom in a two-story suburban American home: white shaker vanity with a blue-gray granite top and an undermount sink, white subway tile shower with a clear glass door, light gray painted walls, warm cherry wood mirror frame and wood-look floor, in slate blue, warm cherry brown and soft white, soft natural light from a window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
+- **ai_service_bathroom.jpg** (service:Bathroom remodeling): Photorealistic photo of a remodeled hall bathroom in a two-story suburban Raleigh, North Carolina home: white shaker vanity with a blue-gray granite top and an undermount sink, white subway tile shower with a clear glass door, light gray painted walls, warm cherry wood mirror frame and wood-look floor, in slate blue, warm cherry brown and soft white, soft natural light from a window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
 
 ### Images not to use
 
@@ -203,7 +206,7 @@ Background image: `images/maps_05.jpg` (Wide view of a kitchen with cherry cabin
 ## Outreach (not on the page)
 
 - Specific detail: The red pickup loaded with blue-gray granite that later shows up finished in a white shaker kitchen, and June LaPore's kitchen mini makeover (new backsplash and paint) that she says turned out better than she expected.
-- Angle: You have 4.6 stars from 12 Google reviews, 167 photos on Google and clients who hire you twice, but no website, and Google shows no town for you, so homeowners searching for countertops or a backsplash in their area cannot tell you work there.
+- Angle: You have 4.6 stars from 12 Google reviews, 167 photos on Google and clients who hire you twice, but no website, and Google shows no town for you, so homeowners in Raleigh searching for countertops or a backsplash cannot tell you work there.
 - Subject line idea: That granite on your truck deserves a homepage
 
 ## Facts used
@@ -215,14 +218,15 @@ Background image: `images/maps_05.jpg` (Wide view of a kitchen with cherry cabin
 - Kitchen mini makeover: backsplash replaced and paint done, better than expected; Isaura very communicative; Hector and his crew; will use them again; before and after pictures (source: Google review by June LaPore, 2 years ago)
 - Second time using H&I for countertops, won't be the last; owner reply mentions the granite she picked (source: Google review by Jessica Chisek and owner reply, 4 years ago)
 - Hector and Lisa for kitchen and bath remodeling; quartz counter tops and backsplash; Hector repaired a faulty valve under the sink; nice, professional, knowledgeable; help decide the best way to the dream kitchen or bathroom (source: Google review by Nina Saunders, 2 years ago)
+- Main town Raleigh, NC (title, H1, intro, service area, footer, schema areaServed) (source: Antigravity notes (unverified), consistent with the 919 area code of the Google phone number)
 - Email handiremodelingllc@gmail.com (source: research.json email record (published on Facebook: https://www.facebook.com/groups/848594562632376/posts/2350783745746776/))
 - Photos: quartz island with farmhouse sink (maps_01), honey cabinet kitchen with mosaic backsplash (maps_02), before and after of a cherry kitchen with a new white subway backsplash and paint (maps_03, maps_04, maps_05), white shaker kitchen with blue-gray granite (maps_06, maps_07), red truck carrying the same blue-gray granite (maps_08) (source: images/maps_01 to maps_08 (Google Maps photos, checked one by one))
 - Bathroom service card uses an AI illustration because no bathroom photo exists; its alt text does not claim it as H&I's work (source: image_plan)
 
 ## Missing
 
-- to confirm with owner: based in Raleigh, NC (Antigravity notes only; Google lists no address, town or service area, and the 919 area code fits the Raleigh area). Once confirmed, add the town to the primary keyword, title, H1, footer and schema
-- to confirm with owner: serves Knightdale, Raleigh and Zebulon, NC
+- town from earlier research, matches the phone's area code: confirm with owner (Raleigh, NC is used as the main town; Google lists no address, town or service area)
+- to confirm with owner: also serves Knightdale and Zebulon, NC
 - to confirm with owner: owners are Hector and Lisa (reviews name both, plus Isaura; roles and last names are not stated)
 - to confirm with owner: 10 years in business
 - to confirm with owner: insured

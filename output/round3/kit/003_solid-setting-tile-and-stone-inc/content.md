@@ -2,18 +2,18 @@
 
 ## SEO
 
-- Title tag: Kitchen Backsplash Tile Installation | Solid Setting Tile
-- Meta description: Solid Setting Tile and Stone Inc. installs kitchen backsplashes in herringbone, marble mosaic and subway tile. Rated 4.9 from 35 Google reviews.
-- Primary keyword: kitchen backsplash tile installation
-- Secondary keywords: herringbone backsplash installation, tile contractor, marble mosaic backsplash, wet bar backsplash, subway tile backsplash, master bathroom tile remodel, tile and stone installation
-- OG title: Solid Setting Tile and Stone Inc. | Kitchen Backsplash Tile Installation
+- Title tag: Kitchen Backsplash Tile Wesley Chapel, FL | Solid Setting
+- Meta description: Solid Setting Tile and Stone Inc. sets kitchen backsplashes in herringbone, marble mosaic and subway tile in Wesley Chapel, FL. Rated 4.9 on Google.
+- Primary keyword: kitchen backsplash tile Wesley Chapel FL
+- Secondary keywords: herringbone backsplash installation Wesley Chapel, tile contractor Wesley Chapel FL, marble mosaic backsplash, wet bar backsplash, subway tile backsplash, master bathroom tile remodel, tile and stone installation
+- OG title: Solid Setting Tile and Stone Inc. | Kitchen Backsplash Tile in Wesley Chapel, FL
 - OG description: Melissa and her son set kitchen backsplashes in herringbone, marble mosaic and subway tile, carefully and without rushing. Rated 4.9 on Google.
 
 ## Hero
 
-*Tile contractor for backsplashes and baths*
+*Wesley Chapel, FL tile contractor*
 
-# Kitchen Backsplash Tile Installation, Done Carefully
+# Kitchen Backsplash Tile in Wesley Chapel, FL, Set Carefully
 
 Melissa and her son install backsplashes in herringbone, marble mosaic and classic subway tile, and clients say they work carefully and without rushing, even on complicated patterns.
 
@@ -21,11 +21,11 @@ Melissa and her son install backsplashes in herringbone, marble mosaic and class
 
 Trust badges: 4.9 stars from 35 Google reviews · Melissa and her son on the job · Herringbone and patterned layouts · Open Monday to Friday
 
-Hero image: `images/maps_06.jpg` (Cobalt blue herringbone tile behind a stainless range hood and white shaker cabinets, kitchen backsplash tile installation by Solid Setting)
+Hero image: `images/maps_06.jpg` (Cobalt blue herringbone tile behind a stainless range hood and white shaker cabinets, kitchen backsplash tile Wesley Chapel FL by Solid Setting)
 
 ## Kitchen backsplash tile installation for patterns that take patience
 
-Solid Setting Tile and Stone Inc. is a tile contractor, and its Google photos show mostly kitchen backsplash tile installation: cobalt herringbone running the length of a kitchen wall, black and white marble set in a diamond pattern, and glossy gray herringbone behind a gas cooktop.
+Solid Setting Tile and Stone Inc. is a tile contractor for kitchen backsplash tile in Wesley Chapel, FL, and its Google photos show mostly backsplash work: cobalt herringbone running the length of a kitchen wall, black and white marble set in a diamond pattern, and glossy gray herringbone behind a gas cooktop.
 
 Reviewers keep naming Melissa, who works alongside her son. One couple says she installed their backsplash very carefully and without rushing, and that the price was very reasonable despite a complicated tile pattern. Another client says the new backsplash gives their kitchen a great pop of color, and praises the precision and attention to detail.
 
@@ -102,11 +102,11 @@ Image: `images/maps_04.jpg` (Corner of a glossy gray herringbone backsplash meet
 >
 > Kristen K., Google, 2 years ago
 
-## Where Solid Setting works
+## Kitchen backsplash tile in Wesley Chapel, FL
 
-Google lists Solid Setting Tile and Stone Inc. as a service-area business with no street address or named towns, so the crew comes to you. Call (813) 701-6923 or email solidsettingtile@gmail.com with your town and a photo of the wall or floor you want tiled, and ask whether you are in their area. Office hours are Monday to Thursday 8 AM to 4 PM and Friday 7 AM to 5 PM.
+Solid Setting Tile and Stone Inc. serves homeowners in Wesley Chapel, FL, and the crew comes to your home to set the tile. If you live outside Wesley Chapel, call (813) 701-6923 or email solidsettingtile@gmail.com with your town and a photo of the wall or floor you want tiled, and ask whether you are in their area. Office hours are Monday to Thursday 8 AM to 4 PM and Friday 7 AM to 5 PM.
 
-Towns: none named in the sources (see missing)
+Towns: Wesley Chapel, FL
 
 ## Questions about tile and backsplashes
 
@@ -141,7 +141,7 @@ Background image: `images/maps_03.jpg` (Close view of glossy gray herringbone ti
 ## Footer
 
 - Name: Solid Setting Tile and Stone Inc.
-- Address: Service-area business (call for your town)
+- Address: Serving Wesley Chapel, FL
 - Phone: (813) 701-6923
 - Email: solidsettingtile@gmail.com
 - Socials: https://www.google.com/maps/place/?q=place_id:ChIJLVjI3A2zwogRAPgX1UQXoAY
@@ -160,6 +160,9 @@ Background image: `images/maps_03.jpg` (Close view of glossy gray herringbone ti
   "Mo-Th 08:00-16:00",
   "Fr 07:00-17:00"
  ],
+ "areaServed": [
+  "Wesley Chapel, FL"
+ ],
  "sameAs": [
   "https://www.google.com/maps/place/?q=place_id:ChIJLVjI3A2zwogRAPgX1UQXoAY"
  ],
@@ -171,7 +174,7 @@ Background image: `images/maps_03.jpg` (Close view of glossy gray herringbone ti
 
 | Slot | Source | File | Alt |
 |---|---|---|---|
-| hero | real | images/maps_06.jpg | Cobalt blue herringbone tile behind a stainless range hood and white shaker cabinets, kitchen backsplash tile installation by Solid Setting |
+| hero | real | images/maps_06.jpg | Cobalt blue herringbone tile behind a stainless range hood and white shaker cabinets, kitchen backsplash tile Wesley Chapel FL by Solid Setting |
 | service:Kitchen backsplash installation | real | images/maps_02.jpg | White subway tile backsplash between dark wood cabinets, white counters and a stainless gas range |
 | service:Herringbone and patterned layouts | real | images/maps_01.jpg | Black and white marble mosaic backsplash in a diamond pattern behind a gas cooktop with a pot filler |
 | service:Wet bar and coffee bar backsplashes | real | images/maps_08.jpg | Wet bar with blue herringbone tile between glass-front cabinets and open shelves above a small sink |
@@ -189,7 +192,7 @@ Background image: `images/maps_03.jpg` (Close view of glossy gray herringbone ti
 
 ### AI image prompts
 
-- **ai_service_master_bath.jpg** (service:Master bathroom tile remodels): Photorealistic photo of a remodeled master bathroom in a single-story suburban home: a walk-in shower with a cobalt blue glazed herringbone tile accent wall, white large-format tile on the side walls, a clear glass panel, a white shaker double vanity with a white quartz top and brushed nickel faucets, light gray porcelain floor tile, in navy, cobalt blue and soft white, soft natural daylight from a high window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
+- **ai_service_master_bath.jpg** (service:Master bathroom tile remodels): Photorealistic photo of a remodeled master bathroom in a single-story Florida suburban home: a walk-in shower with a cobalt blue glazed herringbone tile accent wall, white large-format tile on the side walls, a clear glass panel, a white shaker double vanity with a white quartz top and brushed nickel faucets, light gray porcelain floor tile, in navy, cobalt blue and soft white, soft natural daylight from a high window, clean and finished, no people, no faces, no text, no logos, no brand names, 4:3
 
 ### Images not to use
 
@@ -207,7 +210,7 @@ Background image: `images/maps_03.jpg` (Close view of glossy gray herringbone ti
 ## Outreach (not on the page)
 
 - Specific detail: The wet bar before and after: a plain gray wall turned into blue herringbone that climbs between the glass-front cabinets and behind the open shelves.
-- Angle: You have 4.9 stars from 35 Google reviews and clients who call Melissa's work careful and unhurried, but no website and no town on Google, so people looking for a backsplash installer nearby cannot find your herringbone work.
+- Angle: You have 4.9 stars from 35 Google reviews and clients who call Melissa's work careful and unhurried, but no website and no town on Google, so people in Wesley Chapel looking for a backsplash installer cannot find your herringbone work.
 - Subject line idea: Your blue herringbone wet bar deserves its own page
 
 ## Facts used
@@ -219,13 +222,16 @@ Background image: `images/maps_03.jpg` (Close view of glossy gray herringbone ti
 - Melissa installed a kitchen backsplash, very carefully and without rushing, complicated tile pattern, very reasonable price; owner reply mentions their new home (source: Google review by Dmitriy Lee and owner reply, 5 months ago)
 - Beautiful kitchen backsplash, professionalism and dependability, great experience, 10 stars (source: Google review by shelley schoendorfer, 4 months ago)
 - Melissa and her son; backsplash gives a great pop of color; craftsmanship and attention to detail; owner reply calls them clients and now friends (source: Google review by Kristen Kelly and owner reply, 2 years ago)
+- Main town Wesley Chapel, FL (title, H1, intro, service area, footer, schema areaServed) (source: Antigravity notes (unverified), consistent with the 813 area code of the Google phone number)
 - Email solidsettingtile@gmail.com (source: research.json email record (published on Facebook: https://www.facebook.com/mrbacksplashusa/posts/finished-this-beautiful-pillowy-backsplash-the-other-day-out-in-clinton-township/1813244677467648/))
 - Photos: marble diamond mosaic (maps_01), white subway with dark cabinets (maps_02), gray herringbone (maps_03, maps_04), kitchen before and after with cobalt herringbone (maps_05, maps_06), wet bar before and after with blue herringbone (maps_07, maps_08) (source: images/maps_01 to maps_08 (Google Maps photos, checked one by one))
 - Master bath service card uses an AI illustration because no bathroom photo exists; its alt text does not claim it as their work (source: image_plan)
 
 ## Missing
 
-- to confirm with owner: based in Wesley Chapel, FL, serving Wesley Chapel and Tampa, FL (Antigravity notes only; Google lists no address, town or service area, and the 813 area code fits the Tampa area). Once confirmed, add the town to the primary keyword, title, H1, footer and schema
+- email and Facebook link come from a post on the mrbacksplashusa page (Clinton Township): check before outreach
+- town from earlier research, matches the phone's area code: confirm with owner (Wesley Chapel, FL is used as the main town; Google lists no address, town or service area)
+- to confirm with owner: also serves Tampa, FL
 - to confirm with owner: owners are Eric and Missy (reviews name only Melissa and her son)
 - to confirm with owner: family owned and operated (reviews show a mother-and-son team, so the page says that instead)
 - to confirm with owner: fully licensed, bonded and insured, Certificate of Competency license # LTT-009879
