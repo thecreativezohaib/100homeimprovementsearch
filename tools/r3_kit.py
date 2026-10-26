@@ -13,7 +13,7 @@ B, ns = sys.argv[1].rstrip("/"), [int(x) for x in sys.argv[2].split(",")]
 own_fb = {int(a.split(":")[0]) for a in sys.argv[3:]}
 K = f"{R}/output/round3/kit"
 maps = {}
-for f in glob.glob(f"{R}/data/r3/b*_maps_out*.jsonl"):
+for f in glob.glob(f"{R}/data/r3/*_maps_out*.jsonl"):
     for l in open(f):
         j = json.loads(l)
         maps[j["row"]] = j
@@ -65,6 +65,9 @@ for n in ns:
     }
     json.dump(research, open(f"{d}/research.json", "w"), indent=1, ensure_ascii=False)
     json.dump(imgs, open(f"{d}/images.json", "w"), indent=1)
+    if not imgs:
+        print(os.path.basename(d), "no images", len(research["google"]["reviews"]), "reviews")
+        continue
     cols = 6
     sheet = Image.new("RGB", (cols * 270, ((len(imgs) - 1) // cols + 1) * 240), "white")
     dr = ImageDraw.Draw(sheet)
