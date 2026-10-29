@@ -58,7 +58,9 @@ ALL_CSV = OUT / "leads_all.csv"
 DONE_SEARCHES = OUT / "done_searches.txt"
 LOG = OUT / "progress.log"
 COLS = ["place_key", "verdict", "reason", "name", "category", "rating", "reviews", "phone", "address", "website",
-        "newest_review_months", "photos", "maps_url", "search"]
+        "newest_review_months", "photos", "email_on_google", "facebook", "instagram", "maps_url", "search"]
+EMAIL_TODO = OUT / "email_todo.csv"
+EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 
 
 def log(msg):
@@ -196,6 +198,7 @@ PLACE_JS = r"""() => {
     phone: phone ? phone.getAttribute('data-item-id').replace('phone:tel:', '') : '',
     website: web ? web.href : '',
     closed: /Permanently closed|Temporarily closed/i.test(main.innerText.slice(0, 3000)),
+    socials: [...new Set([...main.querySelectorAll('a[href]')].map(a => a.href).filter(h => /facebook\.com|instagram\.com/.test(h)))],
     hours,
     overview: main.innerText.slice(0, 4000),
   };
@@ -299,6 +302,12 @@ def check_business(page, url, search):
     """Open one listing, apply the criteria, and save everything for a business that passes."""
     d = read_place(page, url)
     row = {"search": search, **{k: d.get(k, "") for k in ("name", "category", "rating", "reviews", "phone", "address", "website", "maps_url")}}
+    socials = d.get("socials") or []
+    if d.get("website") and re.search(r"facebook\.com|instagram\.com", d["website"]):
+        socials.append(d["website"])
+    row["facebook"] = next((u for u in socials if "facebook.com" in u), "")
+    row["instagram"] = next((u for u in socials if "instagram.com" in u), "")
+    row["email_on_google"] = ", ".join(sorted(set(EMAIL_RE.findall(d.get("overview", "")))))
     site = d["website"]
     reason = ""
     if site and not SOCIAL.search(urlparse(site).netloc + urlparse(site).path):
@@ -336,6 +345,13 @@ def check_business(page, url, search):
         d.pop("overview", None)
         json.dump({**d, "search": search, "photo_urls": photos}, open(folder / "place.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
         json.dump(reviews, open(folder / "reviews.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+        # the short list of businesses whose email still has to be found on their own Facebook / Instagram
+        new = not EMAIL_TODO.exists()
+        with open(EMAIL_TODO, "a", newline="", encoding="utf-8") as f:
+            w = csv.writer(f)
+            if new:
+                w.writerow(["name", "phone", "address", "maps_url", "email_on_google", "facebook", "instagram", "folder"])
+            w.writerow([d["name"], d["phone"], d["address"], d["maps_url"], row["email_on_google"], row["facebook"], row["instagram"], folder.name])
     return row
 
 

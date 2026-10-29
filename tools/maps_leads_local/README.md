@@ -43,5 +43,10 @@ python maps_leads.py
 If Google asks for a human check during the night, the script simply waits (20, 40, 60 minutes) and tries again; it
 does not try to get around it. If it keeps happening, lower the pace by raising the numbers in `pause()`.
 
+## Emails
+Google listings rarely show an email. For every business that passes, the script adds a line to
+`maps_out/email_todo.csv` with any email it found on the Google listing and the business's Facebook / Instagram links.
+Only those businesses need an email search (with a screenshot of the email on their own page).
+
 ## Send the results
 Zip the `maps_out` folder (it holds `leads_all.csv` and `qualified/` with a folder per business) and share it.
