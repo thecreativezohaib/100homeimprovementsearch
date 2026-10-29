@@ -60,6 +60,12 @@ LOG = OUT / "progress.log"
 COLS = ["place_key", "verdict", "reason", "name", "category", "rating", "reviews", "phone", "address", "website",
         "newest_review_months", "photos", "email_on_google", "facebook", "instagram", "maps_url", "search"]
 EMAIL_TODO = OUT / "email_todo.csv"
+# businesses researched in earlier rounds: skipped by phone (file next to this script)
+SKIP_FILE = HERE / "already_researched_homeliving.csv"
+SKIP_PHONES = set()
+if SKIP_FILE.exists():
+    with open(SKIP_FILE, newline="", encoding="utf-8") as f:
+        SKIP_PHONES = {re.sub(r"\D", "", r.get("phone") or "")[-10:] for r in csv.DictReader(f)} - {""}
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 
 
@@ -310,7 +316,9 @@ def check_business(page, url, search):
     row["email_on_google"] = ", ".join(sorted(set(EMAIL_RE.findall(d.get("overview", "")))))
     site = d["website"]
     reason = ""
-    if site and not SOCIAL.search(urlparse(site).netloc + urlparse(site).path):
+    if re.sub(r"\D", "", d.get("phone") or "")[-10:] in SKIP_PHONES:
+        reason = "already researched in an earlier round"
+    elif site and not SOCIAL.search(urlparse(site).netloc + urlparse(site).path):
         reason = f"has a website ({urlparse(site).netloc})"
     elif d["closed"]:
         reason = "closed"
